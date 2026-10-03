@@ -50,6 +50,10 @@ One object per program:
 - `astro_classify.py` assigns Astronomy sub-areas and decides which rows the Astronomy page shows.
 - `export_mod.js` is the tick-box export and calendar-link code inlined in every page; `alerts_mod.js` and `alerts_dlg.html` are the alert sign-up code used by the live pages.
 
-The catalog is checked every Monday, and new postings are added on Wednesdays and Fridays.
+The catalog is rechecked every Monday, new postings are added on the other days of the week, and the tips are kept current daily. This repository is rebuilt from the catalog and pushed automatically every day at about 1 pm Eastern.
 
 Deadlines move. Check the funder's page before you commit to a date.
+
+## License
+
+The code (the scripts in the pages and in `engine/`) is released under the [MIT License](LICENSE). The catalog (`data/programs.json`), the data embedded in the pages and the page text are released under [CC BY 4.0](LICENSE-DATA), so you can reuse them with credit to Chiara Mingarelli. Program details come from each funder's own page; check there before relying on a date.

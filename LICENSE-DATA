@@ -1,0 +1,15 @@
+Copyright (c) 2026 Chiara Mingarelli
+
+The program catalog (data/programs.json), the data embedded in the pages and
+the page text are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You may share and adapt this material for any purpose, including commercially,
+as long as you give appropriate credit, link to the license and say whether you
+made changes.
+
+Summary: https://creativecommons.org/licenses/by/4.0/
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The code (the scripts in the pages and in engine/) is licensed separately under
+the MIT License; see LICENSE.
