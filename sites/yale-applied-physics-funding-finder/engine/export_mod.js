@@ -22,8 +22,23 @@ function expCalLinks(x){
     const o=`https://outlook.office.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&allday=true&subject=${e(t)}&startdt=${d}&enddt=${end}&body=${e(body)}`;
     const lbl=ds.length>1?(yale?"Yale step to ":"Deadline to "):"Add to ";
     return `<span class="cal">${lbl}<a href="${h(g)}" target="_blank" rel="noopener">Google Calendar</a> · <a href="${h(o)}" target="_blank" rel="noopener">Outlook</a></span>`;
-  }).join(" ");
+  }).join(" ")+` <span class="cal">· <a href="#" data-ics="${h(x.id)}" title="Downloads a calendar file with reminders 6 and 4 weeks before">Apple Calendar${ds.length>1?" (both dates)":""}</a></span>`;
 }
+/* Apple Calendar: a one-program .ics file (keeps the 6- and 4-week reminders) */
+function expToast(msg){let t=document.getElementById("expToast");if(!t){t=document.createElement("div");t.id="expToast";t.setAttribute("role","status");t.style.cssText="position:fixed;left:50%;bottom:20px;transform:translateX(-50%);max-width:min(560px,calc(100vw - 32px));background:#222;color:#fff;font-size:14px;line-height:1.45;padding:12px 16px;z-index:1000;box-shadow:0 4px 16px rgba(0,0,0,.25)";document.body.appendChild(t);}t.textContent=msg;t.hidden=false;clearTimeout(t._h);t._h=setTimeout(()=>{t.hidden=true;},9000);}
+async function expSaveOne(id){
+  const x=EXP.all().find(r=>r.id===id);if(!x)return;
+  const {text,n}=expIcs([x]);if(!n){expToast("This program has no upcoming date yet.");return;}
+  const base=String(x.id||"deadline").replace(/[^a-z0-9-]+/gi,"-").slice(0,60),name=base+".ics";
+  const ok="Open the .ics file to add it to Apple Calendar, with reminders 6 and 4 weeks before.";
+  if(!window.claude){expDirect(name,text,"text/calendar;charset=utf-8");expToast("Downloaded. "+ok);return;}
+  const dl=await EXP_DL;
+  const blocked="Downloads from this page are only available to members of the page owner's Claude organization. Use the Google Calendar or Outlook link instead.";
+  if(!dl){expToast(blocked);return;}
+  try{await dl.save({filename:base+".zip",data:expZip(name,text)});expToast("Saved as a .zip. Unzip it, then "+ok.charAt(0).toLowerCase()+ok.slice(1));}
+  catch(e){if(e&&e.code==="declined")return;expToast(e&&e.code==="rate_limited"?"A save prompt is already open.":blocked);}
+}
+document.addEventListener("click",e=>{const a=e.target.closest&&e.target.closest("[data-ics]");if(a){e.preventDefault();expSaveOne(a.dataset.ics);}});
 function expIcs(rows){
   const e=s=>String(s??"").replace(/\\/g,"\\\\").replace(/;/g,"\\;").replace(/,/g,"\\,").replace(/\r?\n/g,"\\n");
   const fold=l=>{const o=[];while(l.length>60){o.push(l.slice(0,60));l=" "+l.slice(60);}o.push(l);return o.join("\r\n");};
