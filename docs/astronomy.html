@@ -444,15 +444,15 @@ const save=()=>{try{localStorage.setItem("astff-field",field);localStorage.setIt
 /* Telescope time has its own tab: observing-time calls show only there and under All areas. */
 const isObs = x => x.c==="Observing time";
 const inField = (x,f=field) => f==="*" || (f==="obs" ? isObs(x) : !isObs(x) && (arr(x.fields).includes("all") || !arr(x.asub).length || arr(x.asub).includes(f)));
-const inStage = (x,s=stage) => arr(x.stages).includes(s);
+const inStage = (x,s=stage,f=field) => f==="obs" || arr(x.stages).includes(s); /* Telescope Time has no career stage */
 const eligible = x => !(noUS && x.us) && !(noNom && x.nom);
 const active = x => effStatus(x)!=="closed";
 const ptOf = x => ["prize","group","other"].includes(x.pt) ? x.pt : x.c==="Group postdoc" ? "group" : x.c==="Fellowship" ? "prize" : "other";
-const inPt = (x,p=ptype) => stage!=="pd" || p==="all" || ptOf(x)===p;
+const inPt = (x,p=ptype) => field==="obs" || stage!=="pd" || p==="all" || ptOf(x)===p;
 const scope = () => DATA.filter(x=>inField(x)&&inStage(x)&&eligible(x)&&inPt(x));
 const PTYPES=[["all","All postdoc listings","Everything for postdocs"],["prize","Prize & named fellowships","Propose your own research; apply to the program"],["group","Group postdocs","Join a PI, group or project"],["other","Grants, travel & other","Awards, compute, travel, visiting programs"]];
 function ptButtons(){
-  const sec=$("ptSec"); sec.hidden=stage!=="pd"; if(sec.hidden) return;
+  const sec=$("ptSec"); sec.hidden=stage!=="pd"||field==="obs"; if(sec.hidden) return;
   const base=DATA.filter(x=>inField(x)&&inStage(x)&&eligible(x)&&active(x));
   $("ptype").innerHTML=PTYPES.map(([k,n,d])=>`<button class="ptbtn" data-k="${k}" aria-pressed="${k===ptype}"><span class="pn">${n} <span class="fc">${k==="all"?base.length:base.filter(x=>ptOf(x)===k).length}</span></span><span class="pd">${d}</span></button>`).join("");
   $("ptype").querySelectorAll(".ptbtn").forEach(b=>b.onclick=()=>{ptype=b.dataset.k;fCat="All";showAll=false;save();renderAll();});
@@ -471,13 +471,14 @@ function banner(){
 function fieldButtons(){
   const box=$("fields");
   box.innerHTML=FIELDS.map(f=>{
-    const n=DATA.filter(x=>inField(x,f.k)&&inStage(x)&&eligible(x)&&active(x)).length;
+    const n=DATA.filter(x=>inField(x,f.k)&&inStage(x,stage,f.k)&&eligible(x)&&active(x)).length;
     return `<button class="fbtn${f.x?" x":""}" data-k="${f.k}" aria-pressed="${f.k===field}"><span class="fn">${f.n}</span><span class="fc">${n} program${n===1?"":"s"}</span></button>`;
   }).join("");
   box.querySelectorAll(".fbtn").forEach(b=>b.onclick=()=>{field=b.dataset.k;fCat="All";showAll=false;save();renderAll();});
 }
 function stageTabs(){
   const nav=$("stages");
+  nav.closest("section").hidden=field==="obs";
   nav.innerHTML=STAGES.map(s=>{
     const rows=DATA.filter(x=>inField(x)&&inStage(x,s.k)&&eligible(x));
     const soon=rows.filter(x=>future(x)&&active(x)&&days(x.d)<=30).length;
@@ -489,7 +490,7 @@ function context(){
   const rows=scope(); const sN=STAGES.find(s=>s.k===stage).n;
   const up=rows.filter(x=>future(x)&&active(x));
   const ptL=stage==="pd"&&ptype!=="all"?" · "+PTYPES.find(p=>p[0]===ptype)[1]:"";
-  $("context").innerHTML=`<span><b>${esc(FNAME[field])}</b> · ${esc(sN)}${esc(ptL)}</span>`+
+  $("context").innerHTML=`<span><b>${esc(FNAME[field])}</b>${field==="obs"?"":" · "+esc(sN)+esc(ptL)}</span>`+
     `<span class="stat"><b>${up.filter(x=>days(x.d)<=30).length}</b> due in 30 days</span>`+
     `<span class="stat"><b>${rows.filter(x=>x.s==="rolling").length}</b> rolling</span>`+
     `<span class="stat"><b>${rows.filter(x=>x.s==="watch").length}</b> on watch</span>`+
@@ -546,7 +547,7 @@ function filtered(due=fDue){
 }
 function render(){
   chips();
-  $("allTitle").textContent=`Programs and deadlines · ${FNAME[field]} · ${STAGES.find(s=>s.k===stage).n}`;
+  $("allTitle").textContent=`Programs and deadlines · ${FNAME[field]}${field==="obs"?"":" · "+STAGES.find(s=>s.k===stage).n}`;
   $("actHead").hidden=!canWriteOwn && !isCoord;
   let r=filtered(), autoAll=false;
   if(fDue!=="all"&&!noWin()&&!r.length){const ra=filtered("all"); if(ra.length){r=ra;autoAll=true;}}
