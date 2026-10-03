@@ -4,6 +4,8 @@ Searchable lists of grants, fellowships, jobs and student programs for Yale Phys
 
 ## Pages (`docs/`)
 
+Live on GitHub Pages: https://chiaramingarelli.github.io/funding-finders/
+
 | File | Audience |
 |---|---|
 | `physics.html` | Yale Physics, all research areas and career stages |
