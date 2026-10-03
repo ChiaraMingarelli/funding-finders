@@ -1701,6 +1701,40 @@
   "us": false
  },
  {
+  "a": "Time on ASKAP, ATCA, Murriyang (Parkes), Tidbinbilla 70-m/34-m and the Long Baseline Array (as offered for 2026OCT), through OPAL with dual-anonymous review.",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast",
+   "ng"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "The 2026OCT deadline was 07:00 UT, 16 June 2026. ATNF's guide (dates approximate): APR-semester proposals open mid-November, deadline mid-December, observations start 1 April.",
+  "e": "CSIRO runs its radio telescopes as national facilities and allocates time 'to astronomers around the world on scientific merit', in two semesters a year.",
+  "f": "CSIRO Australia Telescope National Facility",
+  "fields": [
+   "astro"
+  ],
+  "id": "atnf-2027apr-semester",
+  "n": "ATNF Call for Proposals, 2027APR semester (ASKAP, ATCA, Murriyang/Parkes, LBA)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:atnf-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.atnf.csiro.au/facilities/apply-for-time/",
+  "unv": "The exact 2027APR deadline is not yet announced, and the dates on the page are approximate. Grad-student PI status was not checked.",
+  "us": false
+ },
+ {
   "a": "Cash + certificate + travel to AVS International Symposium; ~10 awards",
   "added": "2026-10-03",
   "aud": [
@@ -2499,6 +2533,37 @@
    "pd"
   ],
   "u": "https://www.bwfund.org/grants/interfaces-in-science/career-awards-at-the-scientific-interface/",
+  "us": false
+ },
+ {
+  "a": "Nights on the Calar Alto 2.2-m and 3.5-m telescopes in visitor or service mode for semester 27A. Typically up to 5% of the open time may go to non-partner PIs. No funding.",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": "2026-10-14",
+  "dt": "Deadline 14 Oct 2026, 14:00:00 UT; submissions accepted from 16 Sep 2026. Observing period 1 Jan to 30 Jun 2027.",
+  "e": "Open call for the two main Calar Alto telescopes in Spain. Open time is mainly for Spain-based PIs. PIs at non-Spanish institutions may apply, but get time only if the CAHA TAC rates them extremely well, and they must justify having no access to a similar instrument at their own facilities.",
+  "f": "CAHA (Centro Astronómico Hispano en Andalucía; CSIC / Junta de Andalucía)",
+  "fields": [
+   "astro"
+  ],
+  "id": "caha-calar-alto-27a",
+  "n": "Calar Alto Observatory 2.2-m and 3.5-m Call for Proposals, Semester 27A",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "open",
+  "src": "other:caha-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.caha.es/APPS/CfP/public/CfP27A.pdf",
   "us": false
  },
  {
@@ -5864,6 +5929,40 @@
   "us": false
  },
  {
+  "a": "Observing time on the e-MERLIN radio interferometer (L, C and K bands; 12-150 mas resolution) for Cycle 23, submitted through the Polaris proposal tool from 1 Oct 2026. Lovell telescope availability is limited this cycle. Joint EVN+e-MERLIN observations go through the EVN call. No funding.",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast",
+   "ng"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": "2026-10-22",
+  "dt": "Deadline 13:59:59 UT on 22 Oct 2026. Observations 1 Feb to 31 Jul 2027.",
+  "e": "The UK's national radio interferometer facility. It requests proposals from the international astronomical community; the e-MERLIN TAC reviews them under STFC rules, on scientific merit and technical feasibility alone. Proposals must follow dual-anonymous guidelines, and projects that include researchers affiliated with Russian institutes are not accepted.",
+  "f": "e-MERLIN / Jodrell Bank Observatory (University of Manchester; STFC)",
+  "fields": [
+   "astro"
+  ],
+  "id": "e-merlin-cycle-23",
+  "n": "e-MERLIN Cycle 23 Call for Proposals",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "open",
+  "src": "other:emerlin-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.e-merlin.ac.uk/tools/e-MERLIN_Cycle_23_CfP.pdf",
+  "unv": "Grad-student PI status is not stated in the call.",
+  "us": false
+ },
+ {
   "a": "US$5,000/month + ~US$20,000/yr research; 3 years + 2",
   "added": "2026-09-30",
   "aud": [
@@ -5948,6 +6047,40 @@
   ],
   "u": "https://www.electrochem.org/toyota-fellowship",
   "unv": "Dates for the 2027–28 cycle are not posted. Whether postdocs are eligible was not confirmed.",
+  "us": false
+ },
+ {
+  "a": "Observing time on the 100-m Effelsberg radio telescope, judged by the Effelsberg Program Committee on scientific merit and feasibility, and submitted through NorthStar. MPIfR offers support with preparation, observing and data analysis.",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast",
+   "ng"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline 1 Sep 2026, 15:00 UT. The September 2026 Effelsberg Newsletter says 'The following deadline will be on March 1st, 2027.' ToO/DDT requests are possible at any time.",
+  "e": "MPIfR's regular call for the Effelsberg 100-m single dish. 'Access to the telescope is open to all qualified astronomers', and use by scientists from outside MPIfR is encouraged.",
+  "f": "Max Planck Institute for Radio Astronomy (MPIfR)",
+  "fields": [
+   "astro"
+  ],
+  "id": "effelsberg-100m-march-2027",
+  "n": "Effelsberg 100-m Radio Telescope Call for Proposals (1 March 2027 deadline)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:effelsberg-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.mpifr-bonn.mpg.de/9468614/eff-news-autumn2026.pdf",
+  "unv": "The March 2027 call text is not yet released; the date is from the September 2026 newsletter. MPIfR's general astronomers page still lists an older schedule of three deadlines a year (1 Feb, 1 Jun, 1 Oct), which conflicts with the newsletter. Grad-student PI status was not checked.",
   "us": false
  },
  {
@@ -6172,6 +6305,75 @@
   ],
   "u": "https://www.eso.org/sci/observing/phase1.html",
   "unv": "Next deadline; non-member PI rules and student PI not re-checked this cycle",
+  "us": false
+ },
+ {
+  "a": "VLBI observing time on the EVN, optionally with joint e-MERLIN and global VLBI on NRAO/GBO telescopes, plus MeerKAT and GMRT at L-band. From 2027 the EVN observes in 10 one-week sessions a year. JIVE offers user support.",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast",
+   "ng"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline 1 Oct 2026, 16:00 UTC. From 2027 the EVN moves to two calls a year with deadlines on 1 April and 1 October, so the next regular deadline is 1 April 2027. ToO and short requests may be sent at any time.",
+  "e": "Open call from an international VLBI consortium. 'The EVN facility is open to all astronomers', except that PIs and co-Is at institutes in Russia or Belarus are currently barred. Student proposals are encouraged.",
+  "f": "European VLBI Network / JIVE",
+  "fields": [
+   "astro"
+  ],
+  "id": "evn-call-april-2027",
+  "n": "European VLBI Network (EVN) Call for Proposals, 1 April 2027 deadline",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:evn-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://www.evlbi.org/sites/default/files/shared/EVNCfP.pdf",
+  "unv": "The April 2027 call document is not yet released; the date comes from the stated new fixed schedule.",
+  "us": false
+ },
+ {
+  "a": "About 2400 hours on the 500-m FAST telescope (19-beam receiver) across Regular Science Programs (up to 50 h each) and Medium-Sized Programs (50-150 h). MSPs are open only to PIs at Chinese institutions.",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast",
+   "ng"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "The 2026 call was posted 31 Dec 2025 with a deadline of 16:00 UT, 31 Mar 2026, extended to 16:00 UT, 7 Apr 2026, for observations Aug 2026 to Jul 2027. The next call is not posted.",
+  "e": "Yearly call for China's FAST radio telescope. Users of any nationality or affiliation may submit Regular Science Program proposals; Medium-Sized Program PIs must be at an institution in China.",
+  "f": "National Astronomical Observatories, Chinese Academy of Sciences (FAST)",
+  "fields": [
+   "astro"
+  ],
+  "id": "fast-open-time-2027",
+  "n": "FAST Science Observing Proposals Call (next yearly call)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:fast-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://fast.bao.ac.cn/cms/article/2006192136192610305/",
+  "unv": "Timing of the next call is not posted (the page renders with JavaScript and was read in a browser). Grad-student PI status was not checked. US federal funding rules on work with Chinese institutions were not checked.",
   "us": false
  },
  {
@@ -9862,7 +10064,7 @@
   "checked": "2026-10-03",
   "d": "2026-10-31",
   "dt": "Monthly, due on the last day of each month at noon HST; next one is 31 Oct 2026",
-  "e": "A monthly call for short Gemini programs, reviewed by the other proposers. Open to researchers at Gemini participant institutions, which include US institutions.",
+  "e": "A monthly call for short Gemini programs, reviewed by the other proposers. Open to researchers at Gemini participant institutions, which include US institutions; a graduate student may be PI with a PhD co-I as mentor.",
   "f": "International Gemini Observatory",
   "fields": [
    "astro"
@@ -9877,10 +10079,43 @@
   "stages": [
    "tt",
    "ten",
-   "pd"
+   "pd",
+   "gr"
   ],
   "u": "https://www.gemini.edu/observing/phase-i/ft",
-  "unv": "Next deadline worked out from the standing rule (last day of month); student PI eligibility not checked",
+  "unv": "Next deadline worked out from the standing rule (last day of month)",
+  "us": false
+ },
+ {
+  "a": "Large and/or multi-semester programs (two to six semesters) on Gemini North and South. The US and Canada set aside up to 20% of their Gemini time at each telescope for these programs. Subaru Intensive Programs can also be requested through this process.",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "In the 2026 cycle, letters of intent were due Feb 16, 2026 (5 pm HST) and proposals Mar 31, 2026 (11:59 pm HST). Gemini says the letter-of-intent call is issued in December, letters are typically due in early February, and proposals around April 1.",
+  "e": "An annual call for large or multi-semester Gemini programs. It requires a letter of intent, a management plan and a data-release plan. The PI must be based at an institution in a participating partner country (currently the US and Canada); co-Is are unrestricted.",
+  "f": "NSF NOIRLab / International Gemini Observatory",
+  "fields": [
+   "astro"
+  ],
+  "id": "gemini-large-long-programs-2027",
+  "n": "Gemini Observatory Large and Long Programs, 2027 cycle",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:gemini-llp-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.gemini.edu/observing/phase-i/llp",
+  "unv": "The 2027 LLP call has not been issued, so the 2027 dates are unconfirmed. The page does not say whether postdocs or graduate students may be PI. The row lists tt, ten and pd because the only PI rule given is about the institution.",
   "us": false
  },
  {
@@ -10972,8 +11207,8 @@
   "c": "Observing time",
   "checked": "2026-10-03",
   "d": null,
-  "dt": "Cycle 35 call not posted; Cycle 34 closed 16 Apr 2026, 8 pm EDT",
-  "e": "Hubble's annual call for observing and archival proposals. Open to scientists worldwide; funding goes only to US institutions.",
+  "dt": "Cycle 35 call not posted yet; STScI's July 2026 newsletter says it will be released Dec 16, 2026, with proposals due Apr 1, 2027. Cycle 34 closed 16 Apr 2026, 8 pm EDT",
+  "e": "Hubble's annual call for observing and archival proposals. Open to scientists worldwide at any career stage, including students; funding goes only to US institutions.",
   "f": "STScI / NASA",
   "fields": [
    "astro"
@@ -10988,10 +11223,11 @@
   "stages": [
    "tt",
    "ten",
-   "pd"
+   "pd",
+   "gr"
   ],
   "u": "https://hst-docs.stsci.edu/hsp",
-  "unv": "Cycle 35 release date and deadline not posted; student PI eligibility not checked",
+  "unv": "Cycle 35 dates come from the STScI newsletter, not a posted call",
   "us": false
  },
  {
@@ -12032,6 +12268,38 @@
   "us": false
  },
  {
+  "a": "INAF-TAC allocates about 1000 hours of queue observations on REM. REM is a robotic 60-cm telescope at ESO La Silla that images simultaneously in optical (g, r, i, z) and near-IR.",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "AOT54 (2026B) deadline was Monday 25 May 2026, 12:00 UT, for observations 1 Oct 2026 to 31 Mar 2027. The next AOT call is not yet posted.",
+  "e": "INAF's semester call covers both the TNG and REM telescopes. TNG time is limited to Italian-led proposals (or HARPS-N Collaboration members for exoplanet work), but the nationality restriction does not apply to REM proposals.",
+  "f": "INAF / Fundación Galileo Galilei (TNG)",
+  "fields": [
+   "astro"
+  ],
+  "id": "inaf-rem-60cm-aot-call",
+  "n": "INAF TNG/REM Call for Proposals (REM 60-cm robotic telescope at La Silla)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:rem-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.tng.iac.es/news/2026/04/23/aot54/",
+  "unv": "Timing of the next call (AOT55) is not posted.",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-09-30",
   "c": "Group postdoc",
@@ -12223,6 +12491,38 @@
    "ug"
   ],
   "u": "https://ipta4gw.org/meetings/",
+  "us": false
+ },
+ {
+  "a": "Observing time on the NOEMA interferometer and the IRAM 30-m telescope for the summer scheduling period (1 Jun - 30 Nov). PIs at institutes outside IRAM partner countries compete for a reserved share: 7.5% of NOEMA time and 15% of 30-m time.",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "The winter 2026 deadline was 10 Sep 2026, 17:00 CEST. IRAM deadlines fall around mid-March and mid-September, and the summer-semester call is published by early February.",
+  "e": "Twice-yearly call for IRAM's millimeter telescopes in France and Spain. PIs at institutes in non-partner countries, including the US, may submit regular proposals but may not lead Large Programs.",
+  "f": "IRAM (Institut de Radioastronomie Millimétrique)",
+  "fields": [
+   "astro"
+  ],
+  "id": "iram-noema-30m-summer-2027",
+  "n": "IRAM NOEMA and 30-meter Telescope Call for Proposals, Summer Semester 2027",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:iram-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://iram-institute.org/science-portal/proposals/call-for-proposals/",
+  "unv": "The summer 2027 call and its exact deadline are not yet posted. Student-PI rules are not stated.",
   "us": false
  },
  {
@@ -12634,7 +12934,7 @@
   "checked": "2026-10-03",
   "d": null,
   "dt": "Cycle 6 closed 1 Oct 2026, 5 pm ET (extended from 30 Sep after an APT outage); Cycle 7 timeline not posted",
-  "e": "Webb's annual call for observing and archival proposals. Open to scientists worldwide; funding goes only to US institutions.",
+  "e": "Webb's annual call for observing and archival proposals. Open to scientists worldwide, including student and postdoc PIs (US students and postdocs may need an administrative PI); funding goes only to US institutions.",
   "f": "STScI / NASA",
   "fields": [
    "astro"
@@ -12649,10 +12949,11 @@
   "stages": [
    "tt",
    "ten",
-   "pd"
+   "pd",
+   "gr"
   ],
   "u": "https://jwst-docs.stsci.edu/jwst-opportunities-and-policies",
-  "unv": "Cycle 7 dates not announced; student PI eligibility not checked",
+  "unv": "Cycle 7 dates not announced",
   "us": false
  },
  {
@@ -17848,7 +18149,7 @@
   "checked": "2026-10-03",
   "d": null,
   "dt": "2027B not posted; 2027A closed 30 Sep 2026, 11:59 pm MST",
-  "e": "The twice-yearly call for US open-access time on NSF ground-based telescopes. Mainly for US-based astronomers; non-US PIs must explain why they need US facilities.",
+  "e": "The twice-yearly call for US open-access time on NSF ground-based telescopes. Mainly for US-based astronomers; non-US PIs must explain why they need US facilities. Graduate students may be PI; the advisor submits a thesis-student form.",
   "f": "NSF NOIRLab (Gemini, CTIO Blanco, SOAR, KPNO WIYN, community access)",
   "fields": [
    "astro"
@@ -17867,7 +18168,7 @@
    "gr"
   ],
   "u": "https://noirlab.edu/science/observing-noirlab/proposals/call-for-proposals",
-  "unv": "2027B deadline; graduate-student PI inferred, not explicitly confirmed",
+  "unv": "2027B deadline not posted (B-semester proposals are normally due the last day of March)",
   "us": false
  },
  {
@@ -18018,7 +18319,7 @@
   "c": "Observing time",
   "checked": "2026-10-03",
   "d": null,
-  "dt": "2027B call not posted; 2027A closed 29 Jul 2026, 17:00 EDT",
+  "dt": "2027B call expected early January 2027 (NRAO lists the deadline as 3 Feb 2027, GBO as 27 Jan 2027); 2027A closed 29 Jul 2026, 17:00 EDT",
   "e": "NRAO's twice-yearly call for its radio telescopes. Open to all, but from 27A the VLA and GBT limit time for PIs at non-US institutions.",
   "f": "NSF NRAO / GBO",
   "fields": [
@@ -18039,7 +18340,7 @@
    "gr"
   ],
   "u": "https://science.nrao.edu/observing/call-for-proposals",
-  "unv": "2027B dates; student PI eligibility assumed from past NRAO policy, not re-checked",
+  "unv": "2027B deadline not yet posted, and the NRAO and GBO pages list different dates",
   "us": false
  },
  {
@@ -22516,6 +22817,38 @@
   "us": false
  },
  {
+  "a": "Observing time on SAAO's telescopes at Sutherland, applied for through the SAAO observer portal. SALT (partner-only) is not included. IRSF time is limited to researchers at South African or Japanese institutions. No funding.",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": "2027-01-15",
+  "dt": "Fixed deadlines three times a year: 15 September for Jan-Apr, 15 January for May-Aug, and 15 May for Sep-Dec observing. The next is 15 January (May-Aug 2027 term). The time zone is not stated.",
+  "e": "South Africa's national optical/IR facility. It allocates time mainly to astronomers and postgraduate students in South Africa and at SALT partner institutes, and 'a certain percentage' to astronomers from around the world.",
+  "f": "SAAO (South African Astronomical Observatory) / NRF",
+  "fields": [
+   "astro"
+  ],
+  "id": "saao-sutherland-may-aug-2027",
+  "n": "SAAO Sutherland telescopes observing time (May-Aug 2027 term)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "open",
+  "src": "other:saao-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.saao.ac.za/astronomers/observing-overview/",
+  "unv": "The page gives recurring day-month deadlines without a year, so 2027-01-15 is the next occurrence of the stated 15 January deadline. The time zone, the size of the international share, and which telescopes are offered each term (listed on the Rota page) were not checked.",
+  "us": false
+ },
+ {
   "a": "Up to US$150,000 per project for one year (2026 call), with possible extension",
   "added": "2026-10-03",
   "aud": [
@@ -23339,6 +23672,38 @@
   }
  },
  {
+  "a": "Observing time from SAO's share of the SMA on Maunakea. Standard proposals can request up to 200 hours on source, and Large Scale projects of up to 1000 hours are offered from time to time.",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "The last deadline (2026A) was Wed 4 Mar 2026, 16:00 EST. According to the July 2026 SMA Newsletter, the next call is planned for 2026B (observing 16 Nov 2026 - 15 May 2027). Its deadline is uncertain because of an extended summit shutdown. SMA aims to give at least 4 weeks' notice before the next deadline.",
+  "e": "Semester call for the SMA's SAO time, which follows an open-skies policy: proposals from institutions worldwide are judged on scientific merit. PIs need an SMA Observer account.",
+  "f": "Smithsonian Astrophysical Observatory (SMA, with ASIAA)",
+  "fields": [
+   "astro"
+  ],
+  "id": "sma-2026b-standard-call",
+  "n": "Submillimeter Array (SMA) Standard Observing Proposals, Semester 2026B",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:sma-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://lweb.cfa.harvard.edu/sma/Newsletters/pdfFiles/SMA_NewsJuly2026.pdf",
+  "unv": "The call page (sma1.sma.hawaii.edu/call.html) is served only over http, so the link goes to the July 2026 SMA Newsletter announcing the 2026B call. The next deadline is unknown because of an extended summit shutdown, and 2026A is on indefinite hold. Student-PI rules are not stated.",
+  "us": false
+ },
+ {
   "a": "competitive; 2 years + possible 3rd",
   "added": "2026-09-30",
   "c": "Group postdoc",
@@ -24117,7 +24482,7 @@
    "pd"
   ],
   "u": "https://swift.gsfc.nasa.gov/proposals/",
-  "unv": "Whether Cycle 23 will be solicited, given the August 2026 reboost and only 2 of 3 instruments running",
+  "unv": "Whether Cycle 23 will be solicited: NASA called off the planned commercial reboost on Aug 19, 2026, and Swift resumed operating two of its three instruments on Aug 28",
   "us": false
  },
  {
@@ -27704,6 +28069,38 @@
   ],
   "u": "https://heasarc.gsfc.nasa.gov/docs/xrism/proposals/",
   "unv": "Cycle 4 dates",
+  "us": false
+ },
+ {
+  "a": "Large, multi-year legacy observing programs. About 3 Ms is available in the first year starting June 1, 2027, and programs can run up to three years (June 2027 to May 2030). Data have no exclusive-use period. NASA plans to fund US-based investigators of successful proposals; details will be announced later.",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": "2026-12-03",
+  "dt": "Due Thursday, December 3, 2026, 23:59 UT (6:59 p.m. EST; 08:59 JST December 4). Submission is only through ARK/RPS at ISAS/JAXA, which opens mid-October 2026 and needs a separate JAXA account.",
+  "e": "First call for XRISM Key Programs, large legacy X-ray spectroscopy programs reviewed by a single international TAC, open to scientists worldwide with no restriction on affiliation. TAC reviewers may not be PI or Co-I.",
+  "f": "JAXA / XRISM Project (NASA plans funding for US investigators)",
+  "fields": [
+   "astro"
+  ],
+  "id": "xrism-key-program-first-call",
+  "n": "XRISM Key Program, First Call for Proposals",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "open",
+  "src": "other:xrism-kp-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://xrism.isas.jaxa.jp/research/proposer/key_program/index.html",
+  "unv": "The JAXA ARK/RPS for KP opens mid-October 2026, so it is not open yet. NASA funding amounts are not yet announced. The call does not state career-stage limits for PIs.",
   "us": false
  },
  {

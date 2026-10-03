@@ -1,6 +1,6 @@
 # Funding Finders
 
-Searchable lists of grants, fellowships, jobs and student programs for Yale Physics, Applied Physics and Astronomy, and for the NANOGrav collaboration. All pages read from one shared catalog of about 900 programs, each taken from the funder's own page.
+Searchable lists of grants, fellowships, jobs and student programs for Yale Physics, Applied Physics and Astronomy, and for the NANOGrav collaboration. All pages read from one shared catalog of about 910 programs, each taken from the funder's own page.
 
 ## Pages (`docs/`)
 
