@@ -540,6 +540,39 @@
   "us": false
  },
  {
+  "a": "ALMA 12-m, 7-m and Total Power time; NRAO Student Observing Support for US students",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Cycle 13 closed; Cycle 13 runs 1 Oct 2026 to 30 Sep 2027; no Cycle 14 timeline posted",
+  "e": "ALMA's annual call. Open to scientists worldwide; North American PIs apply through NRAO's share.",
+  "f": "ALMA (NRAO for North America)",
+  "fields": [
+   "astro"
+  ],
+  "id": "alma-cycle-14",
+  "n": "ALMA Cycle 14 Call for Proposals",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:alma-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://almascience.nrao.edu/proposing/call-for-proposals",
+  "unv": "Cycle 14 release and deadline; student PI eligibility not re-checked",
+  "us": false
+ },
+ {
   "a": "Unrestricted gift + AWS credits",
   "added": "2026-09-28",
   "aud": [
@@ -2809,11 +2842,7 @@
  {
   "a": "£37,694–46,049 (RA) or £47,389–59,966 (Senior) + £10k/yr; 3 years",
   "added": "2026-09-30",
-  "asub": [
-   "cos",
-   "xgal",
-   "inst"
-  ],
+  "asub": [],
   "aud": [
    "yale",
    "ng",
@@ -2982,9 +3011,7 @@
  {
   "a": "$87,500/yr + ~$12,000/yr research; 2 years + 3rd",
   "added": "2026-09-30",
-  "asub": [
-   "inst"
-  ],
+  "asub": [],
   "aud": [
    "yale",
    "ng",
@@ -3363,9 +3390,7 @@
  {
   "a": "$84,600/yr + COLA + $18,000/yr research budget; 3 years",
   "added": "2026-09-30",
-  "asub": [
-   "inst"
-  ],
+  "asub": [],
   "aud": [
    "yale",
    "ng",
@@ -3398,8 +3423,7 @@
   "a": "$87,500/yr + COLA + $18,000/yr research budget; 4 years",
   "added": "2026-09-30",
   "asub": [
-   "exo",
-   "inst"
+   "exo"
   ],
   "aud": [
    "yale",
@@ -5030,9 +5054,7 @@
  {
   "a": "Project periods of 6 months to 5 years; three years is typical. Ask the program manager before requesting more than three years.",
   "added": "2026-09-28",
-  "asub": [
-   "inst"
-  ],
+  "asub": [],
   "aud": [
    "yale",
    "ap",
@@ -6024,6 +6046,38 @@
   "us": false
  },
  {
+  "a": "Small, quick-turnaround programs on ESO telescopes",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Closed; ESO says FTC 117B will be released in late 2026",
+  "e": "ESO's quick channel for small programs, with staggered deadlines. Open to scientists worldwide.",
+  "f": "European Southern Observatory",
+  "fields": [
+   "astro"
+  ],
+  "id": "eso-fast-track-channel",
+  "n": "ESO Fast Track Channel (FTC 117B)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:eso-ftc-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.eso.org/sci/observing/phase1/fast-track-channel.html",
+  "unv": "FTC 117B release date and deadline",
+  "us": false
+ },
+ {
   "a": "competitive; 3 years (Garching) / 4 years (Chile)",
   "added": "2026-09-30",
   "aud": [
@@ -6088,6 +6142,39 @@
   "us": false
  },
  {
+  "a": "VLT/VLTI, La Silla and APEX time",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "P118 closed 22 Sep 2026, 12:00 CEST; ESO says the next call will be released in July 2027",
+  "e": "ESO's once-a-year call. Open to scientists worldwide, but non-member-state PIs face extra scrutiny and limited time.",
+  "f": "European Southern Observatory",
+  "fields": [
+   "astro"
+  ],
+  "id": "eso-yearly-cycle",
+  "n": "ESO Call for Proposals (yearly cycle, next after P118)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:eso-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://www.eso.org/sci/observing/phase1.html",
+  "unv": "Next deadline; non-member PI rules and student PI not re-checked this cycle",
+  "us": false
+ },
+ {
   "a": "$103,000/yr salary plus $10,000/yr travel and research fund; 2 to 3 years",
   "added": "2026-09-29",
   "aud": [
@@ -6115,11 +6202,43 @@
   "us": false
  },
  {
+  "a": "Mostly funding for Fermi data analysis; some pointed and joint observations",
+  "added": "2026-10-03",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Cycle 20 not posted; Cycle 19 Phase-1 closed 29 Jan 2026",
+  "e": "NASA's yearly Fermi program, mostly for analysis of gamma-ray data. Open to all; NASA funding goes only to US investigators.",
+  "f": "NASA Fermi",
+  "fields": [
+   "astro"
+  ],
+  "id": "fermi-gi-cycle-20",
+  "n": "Fermi Guest Investigator Cycle 20",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:fermi-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://fermi.gsfc.nasa.gov/ssc/proposals/",
+  "unv": "Cycle 20 dates",
+  "us": false
+ },
+ {
   "a": "3-year appointment, extendable up to 2 more years.",
   "added": "2026-09-29",
-  "asub": [
-   "inst"
-  ],
+  "asub": [],
   "aud": [
    "yale",
    "ng",
@@ -9733,6 +9852,38 @@
   "us": true
  },
  {
+  "a": "Short queue programs on Gemini North and South, carried out 1 to 4 months after the deadline",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": "2026-10-31",
+  "dt": "Monthly, due on the last day of each month at noon HST; next one is 31 Oct 2026",
+  "e": "A monthly call for short Gemini programs, reviewed by the other proposers. Open to researchers at Gemini participant institutions, which include US institutions.",
+  "f": "International Gemini Observatory",
+  "fields": [
+   "astro"
+  ],
+  "id": "gemini-fast-turnaround",
+  "n": "Gemini Fast Turnaround (monthly)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:gemini-ft-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.gemini.edu/observing/phase-i/ft",
+  "unv": "Next deadline worked out from the standing rule (last day of month); student PI eligibility not checked",
+  "us": false
+ },
+ {
   "a": "Scholarship for tuition/fees/books (up to 2 yrs)",
   "added": "2026-09-29",
   "aud": [
@@ -9962,8 +10113,7 @@
   "a": "Free",
   "added": "2026-10-01",
   "asub": [
-   "he",
-   "inst"
+   "he"
   ],
   "aud": [
    "ng",
@@ -10100,8 +10250,7 @@
   "a": "3 years",
   "added": "2026-09-30",
   "asub": [
-   "he",
-   "inst"
+   "he"
   ],
   "aud": [
    "yale",
@@ -10811,6 +10960,70 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/29811",
+  "us": false
+ },
+ {
+  "a": "Hubble orbits; NASA grant funding for US-based investigators",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Cycle 35 call not posted; Cycle 34 closed 16 Apr 2026, 8 pm EDT",
+  "e": "Hubble's annual call for observing and archival proposals. Open to scientists worldwide; funding goes only to US institutions.",
+  "f": "STScI / NASA",
+  "fields": [
+   "astro"
+  ],
+  "id": "hst-cycle-35-go",
+  "n": "HST Cycle 35 General Observer",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:hst-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://hst-docs.stsci.edu/hsp",
+  "unv": "Cycle 35 release date and deadline not posted; student PI eligibility not checked",
+  "us": false
+ },
+ {
+  "a": "Hubble time for urgent or time-critical science",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Always open, no fixed deadline",
+  "e": "Hubble's always-open channel for urgent or unexpected science that can't wait for the annual cycle. Open to scientists worldwide.",
+  "f": "STScI / NASA",
+  "fields": [
+   "astro"
+  ],
+  "id": "hst-director-discretionary",
+  "n": "HST Director's Discretionary Time",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:hst-dd-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://hst-docs.stsci.edu/hsp",
+  "unv": "Student PI eligibility; funding for DD programs",
   "us": false
  },
  {
@@ -11717,8 +11930,7 @@
   "added": "2026-10-01",
   "asub": [
    "star",
-   "he",
-   "inst"
+   "he"
   ],
   "aud": [
    "yale",
@@ -12143,6 +12355,40 @@
   "us": false
  },
  {
+  "a": "About 11 Ms per cycle (Cycle 4); joint XMM-Newton time; NASA funding for US investigators",
+  "added": "2026-10-03",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Cycle 4 closed 17 Sep 2026, 4:30 pm EDT; Cycle 5 not posted",
+  "e": "NASA's call for X-ray polarimetry observations with IXPE. Open to all; NASA funding goes only to US investigators.",
+  "f": "NASA IXPE",
+  "fields": [
+   "astro"
+  ],
+  "id": "ixpe-go-cycle-5",
+  "n": "IXPE GO Cycle 5",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:ixpe-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://heasarc.gsfc.nasa.gov/docs/ixpe/proposals/",
+  "unv": "Cycle 5 timing",
+  "us": false
+ },
+ {
   "a": "3-year fellowship with stipend, a $2,000/yr research allowance and $1,800 for travel",
   "added": "2026-09-28",
   "aud": [
@@ -12296,8 +12542,7 @@
   "a": "$83,820/yr; 2 years + 1",
   "added": "2026-09-30",
   "asub": [
-   "exo",
-   "inst"
+   "exo"
   ],
   "aud": [
    "yale",
@@ -12376,6 +12621,38 @@
   ],
   "u": "https://sura.org/awards/sabbatical-support-program/",
   "unv": "Deadline and current cycle not confirmed",
+  "us": false
+ },
+ {
+  "a": "JWST observing time; NASA funding for US-based investigators",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Cycle 6 closed 1 Oct 2026, 5 pm ET (extended from 30 Sep after an APT outage); Cycle 7 timeline not posted",
+  "e": "Webb's annual call for observing and archival proposals. Open to scientists worldwide; funding goes only to US institutions.",
+  "f": "STScI / NASA",
+  "fields": [
+   "astro"
+  ],
+  "id": "jwst-cycle-7-go",
+  "n": "JWST General Observer (Cycle 7)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:jwst-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://jwst-docs.stsci.edu/jwst-opportunities-and-policies",
+  "unv": "Cycle 7 dates not announced; student PI eligibility not checked",
   "us": false
  },
  {
@@ -13199,8 +13476,7 @@
   "a": "Summer stipend + travel",
   "added": "2026-09-29",
   "asub": [
-   "he",
-   "inst"
+   "he"
   ],
   "aud": [
    "yale",
@@ -13584,8 +13860,7 @@
   "a": "French public research scale; 2 years",
   "added": "2026-09-30",
   "asub": [
-   "ism",
-   "inst"
+   "ism"
   ],
   "aud": [
    "yale",
@@ -14062,6 +14337,41 @@
   ],
   "u": "https://www.mcqst.de/support/start-fellowship/",
   "unv": "Exact career-stage limits not checked on the MCQST page",
+  "us": false
+ },
+ {
+  "a": "At least 2000 hours in a 12-month cycle; Regular (up to 100 h), Large (100-300 h) and Extra-Large (300-2000 h) proposals",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast",
+   "ng"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "2026 call (OT7) closed 15 Jul 2026, 12:00 UTC; next call not posted",
+  "e": "MeerKAT's yearly open-time call. Any researcher may lead a proposal, including postdocs and PhD students, from any institution.",
+  "f": "SARAO MeerKAT",
+  "fields": [
+   "astro"
+  ],
+  "id": "meerkat-open-time",
+  "n": "MeerKAT Open Time Call",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:meerkat-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://skaafrica.atlassian.net/wiki/spaces/ESDKB/pages/3080126470/2026+Call+for+Proposals",
+  "unv": "Next call date",
   "us": false
  },
  {
@@ -14551,7 +14861,6 @@
   "a": "$15,000 per 4–6 month unit (intern receives ≥$10,000); postdoc units $20,000 (≥$15,000 to postdoc)",
   "added": "2026-10-01",
   "asub": [
-   "inst",
    "he"
   ],
   "aud": [
@@ -14983,8 +15292,7 @@
   "a": "TVöD Bund E14; 3 years, extendable to 5",
   "added": "2026-09-30",
   "asub": [
-   "ism",
-   "inst"
+   "ism"
   ],
   "aud": [
    "yale",
@@ -15164,8 +15472,7 @@
   "a": "TVöD E14; 3 years",
   "added": "2026-09-30",
   "asub": [
-   "exo",
-   "inst"
+   "exo"
   ],
   "aud": [
    "yale",
@@ -15620,9 +15927,7 @@
  {
   "a": "Ceiling $225,000; ~16 awards",
   "added": "2026-09-28",
-  "asub": [
-   "inst"
-  ],
+  "asub": [],
   "aud": [
    "yale",
    "ast"
@@ -15652,6 +15957,70 @@
    "ten"
   ],
   "u": "https://simpler.grants.gov/opportunity/e16481b7-0706-403d-a870-8f96b957f186",
+  "us": false
+ },
+ {
+  "a": "Infrared time on the 3-m IRTF on Maunakea",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Standing schedule: semester B calls open 1 Mar to 1 Apr (HST); 2027A closed 1 Oct 2026, 5 pm HST",
+  "e": "NASA's 3-m infrared telescope, with calls twice a year. Open to the general community.",
+  "f": "NASA Infrared Telescope Facility",
+  "fields": [
+   "astro"
+  ],
+  "id": "nasa-irtf-2027b",
+  "n": "NASA IRTF Semester 2027B",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:irtf-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://irtfweb.ifa.hawaii.edu/observing/callforproposals/",
+  "unv": "2027B call not yet posted (the date range is the standing schedule); student PI eligibility",
+  "us": false
+ },
+ {
+  "a": "NASA's share of Keck time, for science tied to NASA missions",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "2027B not posted; 2027A closed 10 Sep 2026, 4 pm PT",
+  "e": "NASA's share of Keck nights. PIs must have their main affiliation at a US institution; there are some limits on co-investigators.",
+  "f": "NASA / NExScI / W. M. Keck Observatory",
+  "fields": [
+   "astro"
+  ],
+  "id": "nasa-keck-2027b",
+  "n": "NASA-Keck Call for Proposals 2027B",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:nasa-keck-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://nexsci.caltech.edu/missions/KeckSolicitation/",
+  "unv": "2027B dates; student PI eligibility",
   "us": false
  },
  {
@@ -15756,8 +16125,7 @@
   "a": "From $70k + $10k/yr travel, 1–3 yr",
   "added": "2026-09-29",
   "asub": [
-   "he",
-   "inst"
+   "he"
   ],
   "aud": [
    "yale",
@@ -15794,8 +16162,7 @@
   "a": "not listed",
   "added": "2026-09-28",
   "asub": [
-   "exo",
-   "inst"
+   "exo"
   ],
   "aud": [
    "yale",
@@ -16020,8 +16387,7 @@
   "a": "not listed",
   "added": "2026-09-30",
   "asub": [
-   "he",
-   "inst"
+   "he"
   ],
   "aud": [
    "yale",
@@ -16174,8 +16540,7 @@
    "cos",
    "xgal",
    "he",
-   "star",
-   "inst"
+   "star"
   ],
   "aud": [
    "yale",
@@ -16553,6 +16918,40 @@
    "tt"
   ],
   "u": "https://simpler.grants.gov/opportunity/9f06c317-b398-4482-89b1-57bcf35363f3",
+  "us": false
+ },
+ {
+  "a": "Cycle 9 offered small archival-analysis grants only, no new observing time",
+  "added": "2026-10-03",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Cycle 9 closed 17 Sep 2026, 4:30 pm ET; it covered archival data only",
+  "e": "NASA's NICER call; Cycle 9 offered funding for archival analysis and no new observations. Funding goes to US investigators.",
+  "f": "NASA NICER",
+  "fields": [
+   "astro"
+  ],
+  "id": "nicer-go",
+  "n": "NICER General Observer",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "closed",
+  "src": "other:nicer-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://heasarc.gsfc.nasa.gov/docs/nicer/proposals/",
+  "unv": "Whether a Cycle 10 will happen",
   "us": false
  },
  {
@@ -17439,6 +17838,39 @@
   "us": false
  },
  {
+  "a": "US time on Gemini N/S, Blanco, SOAR, WIYN (NN-EXPLORE) and Subaru exchange; 2027A community access also included Magellan, CHARA, LBT, SALT, KMTNet, VST and Rubin in-kind telescopes",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "2027B not posted; 2027A closed 30 Sep 2026, 11:59 pm MST",
+  "e": "The twice-yearly call for US open-access time on NSF ground-based telescopes. Mainly for US-based astronomers; non-US PIs must explain why they need US facilities.",
+  "f": "NSF NOIRLab (Gemini, CTIO Blanco, SOAR, KPNO WIYN, community access)",
+  "fields": [
+   "astro"
+  ],
+  "id": "noirlab-2027b",
+  "n": "NSF NOIRLab Semester 2027B Standard Call",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:noirlab-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://noirlab.edu/science/observing-noirlab/proposals/call-for-proposals",
+  "unv": "2027B deadline; graduate-student PI inferred, not explicitly confirmed",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-09-30",
   "asub": [
@@ -17576,6 +18008,41 @@
   "us": false
  },
  {
+  "a": "VLA, GBT and VLBA time (2027A offered about 3300, 2000 and 965 hours); joint time with ALMA, JWST, HST, Chandra, XMM and IXPE",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast",
+   "ng"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "2027B call not posted; 2027A closed 29 Jul 2026, 17:00 EDT",
+  "e": "NRAO's twice-yearly call for its radio telescopes. Open to all, but from 27A the VLA and GBT limit time for PIs at non-US institutions.",
+  "f": "NSF NRAO / GBO",
+  "fields": [
+   "astro"
+  ],
+  "id": "nrao-2027b",
+  "n": "NRAO Semester 2027B (VLA/VLBA/GBT/HSA/GMVA)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:nrao-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://science.nrao.edu/observing/call-for-proposals",
+  "unv": "2027B dates; student PI eligibility assumed from past NRAO policy, not re-checked",
+  "us": false
+ },
+ {
   "a": "$1,500 + certificate + NRAO colloquium invitation",
   "added": "2026-10-01",
   "asub": [
@@ -17613,8 +18080,7 @@
   "a": "Summer stipend",
   "added": "2026-09-29",
   "asub": [
-   "he",
-   "inst"
+   "he"
   ],
   "aud": [
    "ng",
@@ -17683,8 +18149,7 @@
   "a": "Stipend + NRAO computing + travel to present thesis; university covers tuition/benefits; several months to 2 years",
   "added": "2026-10-01",
   "asub": [
-   "he",
-   "inst"
+   "he"
   ],
   "aud": [
    "ng",
@@ -17718,9 +18183,7 @@
  {
   "a": "$75,000 + $17,000/yr research; 2 years",
   "added": "2026-09-30",
-  "asub": [
-   "inst"
-  ],
+  "asub": [],
   "aud": [
    "ng",
    "radar",
@@ -18066,9 +18529,7 @@
  {
   "a": "not listed",
   "added": "2026-09-28",
-  "asub": [
-   "inst"
-  ],
+  "asub": [],
   "aud": [
    "yale",
    "ap",
@@ -20084,6 +20545,40 @@
   "us": false
  },
  {
+  "a": "About 6.5 Ms standard plus 2 Ms large-program time; joint XMM-Newton (1.5 Ms) and XRISM (0.5 Ms) time; NASA funding for US investigators in Phase 2",
+  "added": "2026-10-03",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": "2027-01-28",
+  "dt": "Phase-1 due 28 Jan 2027 via ARK/RPS; time of day not stated on amendment page (usually 4:30 pm ET)",
+  "e": "NASA's call for hard X-ray observations with NuSTAR, issued as ROSES-25 Amendment 76 (Section 11 of D.3). Open to all; NASA funding goes only to US-based investigators.",
+  "f": "NASA NuSTAR (ROSES-25 D.3 AGIGO)",
+  "fields": [
+   "astro"
+  ],
+  "id": "nustar-go-cycle-13",
+  "n": "NuSTAR GO Cycle 13",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "open",
+  "src": "other:nustar-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://science.nasa.gov/amendment-76-d-3-agigo-nustargeneral-observer-second-opportunity-in-roses-25/",
+  "unv": "Exact submission time of day; student PI eligibility",
+  "us": false
+ },
+ {
   "a": "Up to 30,000 H100 GPU-hours, RTX PRO 6000 GPUs or DGX Spark systems",
   "added": "2026-09-28",
   "aud": [
@@ -21461,8 +21956,7 @@
    "exo",
    "he",
    "star",
-   "ism",
-   "inst"
+   "ism"
   ],
   "aud": [
    "yale",
@@ -22719,9 +23213,7 @@
  {
   "a": "5-year Associate Staff Scientist appointment with research support; review for continuing staff at or before the end.",
   "added": "2026-09-29",
-  "asub": [
-   "inst"
-  ],
+  "asub": [],
   "aud": [
    "yale",
    "ng",
@@ -23427,6 +23919,38 @@
   "us": true
  },
  {
+  "a": "Subaru nights (HSC, PFS, FOCAS, IRCS and others); US users can also get Subaru time through the NOIRLab/Gemini exchange",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "S27B not posted (normal deadline usually early to mid March, JST); S27A service closed 1 Oct 2026, noon JST",
+  "e": "Subaru's twice-yearly open-use call. Open to international PIs; US astronomers can also get Subaru time through NOIRLab.",
+  "f": "NAOJ Subaru Telescope",
+  "fields": [
+   "astro"
+  ],
+  "id": "subaru-s27b-open-use",
+  "n": "Subaru Open Use Semester S27B",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:subaru-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.naoj.org/Observing/Proposals/call.html",
+  "unv": "S27B dates; foreign-PI limits not checked in detail",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-09-30",
   "aud": [
@@ -23560,6 +24084,40 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32225",
+  "us": false
+ },
+ {
+  "a": "Swift time plus NASA funding for US investigators",
+  "added": "2026-10-03",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "No Cycle 23 call posted; Cycle 22 closed 11 Sep 2025",
+  "e": "NASA's call for Swift observations and related studies. Open to all; NASA funding goes only to US investigators.",
+  "f": "NASA Neil Gehrels Swift Observatory",
+  "fields": [
+   "astro"
+  ],
+  "id": "swift-gi-cycle-23",
+  "n": "Swift Guest Investigator Cycle 23",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:swift-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://swift.gsfc.nasa.gov/proposals/",
+  "unv": "Whether Cycle 23 will be solicited, given the August 2026 reboost and only 2 of 3 instruments running",
   "us": false
  },
  {
@@ -23868,6 +24426,41 @@
    "t": "Listed as a Corporate & Foundation opportunity with no internal limit (sponsor deadline Jul 15, 2026). Contact zandra.ruiz@yale.edu.",
    "u": "https://research.yale.edu/funding-opportunities-newsletter-archive"
   }
+ },
+ {
+  "a": "TESS 2-min and 20-s target slots plus NASA funding for US investigators",
+  "added": "2026-10-03",
+  "asub": [
+   "exo",
+   "star"
+  ],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Cycle 10 not posted; Cycle 9 closed 10 Mar 2026; calls usually come in spring",
+  "e": "NASA's call to put targets on TESS and fund related science. Open to all; NASA funding goes only to US investigators.",
+  "f": "NASA TESS",
+  "fields": [
+   "astro"
+  ],
+  "id": "tess-gi-cycle-10",
+  "n": "TESS Guest Investigator Cycle 10",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:tess-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://heasarc.gsfc.nasa.gov/docs/tess/proposing.html",
+  "unv": "Cycle 10 dates; ROSES-2026 not yet released",
+  "us": false
  },
  {
   "a": "Varies (research costs abroad)",
@@ -24616,9 +25209,7 @@
  {
   "a": "CAD 81,916/yr + CAD 20,000/yr research; 3 years (up to 5 for instrumentation)",
   "added": "2026-09-30",
-  "asub": [
-   "inst"
-  ],
+  "asub": [],
   "aud": [
    "yale",
    "ng",
@@ -24716,8 +25307,7 @@
   "a": "3 years; competitive salary + research/travel funds",
   "added": "2026-09-30",
   "asub": [
-   "he",
-   "inst"
+   "he"
   ],
   "aud": [
    "yale",
@@ -26232,9 +26822,7 @@
  {
   "a": "$10,000 plus a talk at the Users Meeting.",
   "added": "2026-09-29",
-  "asub": [
-   "inst"
-  ],
+  "asub": [],
   "aud": [
    "yale",
    "ng",
@@ -26268,9 +26856,7 @@
  {
   "a": "Up to $50K (lifetime maximum per person), for up to 1 year. Covers travel and lodging for short visits, or salary (at most 2 summer months) plus travel for longer stays.",
   "added": "2026-09-29",
-  "asub": [
-   "inst"
-  ],
+  "asub": [],
   "aud": [
    "yale",
    "ng",
@@ -26615,8 +27201,7 @@
   "a": "$7,000 + free housing + food allowance + up to $800 travel",
   "added": "2026-10-01",
   "asub": [
-   "he",
-   "inst"
+   "he"
   ],
   "aud": [
    "ng",
@@ -26758,8 +27343,7 @@
   "a": "EUR 5,079.50/month (EUR 71,113/yr); 48-month fixed term",
   "added": "2026-10-02",
   "asub": [
-   "exo",
-   "inst"
+   "exo"
   ],
   "aud": [
    "ng",
@@ -27057,6 +27641,70 @@
   "u": "https://gwac.wvu.edu/reu",
   "unv": "Page shows 2024 dates; stipend may be outdated; 2027 status unclear",
   "us": true
+ },
+ {
+  "a": "XMM-Newton observing time for May 2027 to Apr 2028 (revs 5017-5200); joint time with NuSTAR and others available",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": "2026-10-09",
+  "dt": "9 Oct 2026, 12:00 UT",
+  "e": "ESA's annual call for XMM-Newton X-ray observations. Open to scientists worldwide with no nationality limit.",
+  "f": "ESA XMM-Newton",
+  "fields": [
+   "astro"
+  ],
+  "id": "xmm-newton-ao26",
+  "n": "XMM-Newton AO-26 Guest Observer",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "open",
+  "src": "other:xmm-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.cosmos.esa.int/web/xmm-newton/ao26",
+  "unv": "Whether students can be PI not checked; NASA funding route for US PIs not checked",
+  "us": false
+ },
+ {
+  "a": "XRISM Resolve/Xtend time; NASA funding for US investigators",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Cycle 4 not posted; Cycle 3 closed 27 Feb 2026 (Type-1 at 4:30 pm EST)",
+  "e": "Call for observations with the XRISM X-ray spectroscopy mission. US and Canadian PIs apply through NASA, ESA-member PIs through ESA, and others through JAXA.",
+  "f": "JAXA/NASA/ESA XRISM",
+  "fields": [
+   "astro"
+  ],
+  "id": "xrism-go-cycle-4",
+  "n": "XRISM GO Cycle 4",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:xrism-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://heasarc.gsfc.nasa.gov/docs/xrism/proposals/",
+  "unv": "Cycle 4 dates",
+  "us": false
  },
  {
   "a": "Up to $30,000",
@@ -27371,6 +28019,44 @@
   "u": "https://ventures.yale.edu/student-opportunities/rothberg-build-fund",
   "unv": "Whether postdocs are eligible is not stated.",
   "us": false
+ },
+ {
+  "a": "Yale's own nights on Keck I, Keck II and the Palomar 200-inch, observed remotely from Yale",
+  "added": "2026-10-03",
+  "asub": [],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "2027B call not posted yet; 2027A closed Fri Sep 11, 2026, 5 pm ET",
+  "e": "Yale's internal allocation of its Keck and Palomar time, open only to the Yale community. Proposals use the TAC LaTeX template on the internal department site and are emailed as a PDF with the telescope cover sheet. For 27A, KPF was unavailable and DEIMOS was out Feb–Apr.",
+  "f": "Yale University Department of Astronomy",
+  "fields": [
+   "astro"
+  ],
+  "id": "yale-tac-keck-palomar-2027b",
+  "n": "Yale TAC Semester 2027B (Keck I/II, Palomar 200-inch)",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:yale-tac-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://astronomy.yale.edu/facilities/yale-time-allocation-committee",
+  "unv": "Which career stages can be PI is not stated on the page; 2027B date",
+  "us": false,
+  "yale": {
+   "d": null,
+   "t": "Yale TAC call goes out each semester (27A was due Sep 11, 2026, 5 pm ET)",
+   "u": "https://astronomy.yale.edu/facilities/yale-time-allocation-committee"
+  }
  },
  {
   "a": "3 yr",
