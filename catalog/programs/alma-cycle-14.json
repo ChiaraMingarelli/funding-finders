@@ -1,33 +1,33 @@
 {
-  "a": "ALMA 12-m, 7-m and Total Power time; NRAO Student Observing Support for US students",
-  "added": "2026-10-03",
-  "asub": [],
-  "aud": [
-    "ast"
-  ],
-  "c": "Observing time",
-  "checked": "2026-10-03",
-  "d": null,
-  "dt": "Cycle 13 closed; Cycle 13 runs 1 Oct 2026 to 30 Sep 2027; no Cycle 14 timeline posted",
-  "e": "ALMA's annual call. Open to scientists worldwide; North American PIs apply through NRAO's share.",
-  "f": "ALMA (NRAO for North America)",
-  "fields": [
-    "astro"
-  ],
-  "id": "alma-cycle-14",
-  "n": "ALMA Cycle 14 Call for Proposals",
-  "nom": false,
-  "pt": "other",
-  "region": "International",
-  "s": "watch",
-  "src": "other:alma-cfp",
-  "stages": [
-    "tt",
-    "ten",
-    "pd",
-    "gr"
-  ],
-  "u": "https://almascience.nrao.edu/proposing/call-for-proposals",
-  "unv": "Cycle 14 release and deadline; student PI eligibility not re-checked",
-  "us": false
+ "a": "ALMA 12-m, 7-m and Total Power time; NRAO Student Observing Support for US students",
+ "added": "2026-10-03",
+ "asub": [],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Cycle 13 closed; Cycle 13 runs 1 Oct 2026 to 30 Sep 2027; no Cycle 14 timeline posted",
+ "e": "ALMA's annual call. Open to scientists worldwide; North American PIs apply through NRAO's share.",
+ "f": "ALMA (NRAO for North America)",
+ "fields": [
+  "astro"
+ ],
+ "id": "alma-cycle-14",
+ "n": "ALMA Cycle 14 Call for Proposals",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "watch",
+ "src": "other:alma-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://almascience.nrao.edu/proposing/call-for-proposals",
+ "unv": "Cycle 14 release and deadline; student PI eligibility not re-checked",
+ "us": false
 }
