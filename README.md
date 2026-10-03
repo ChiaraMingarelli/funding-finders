@@ -63,3 +63,4 @@ Deadlines move. Check the funder's page before you commit to a date.
 ## License
 
 The code (the scripts in the pages and in `engine/`) is released under the [MIT License](LICENSE). The catalog (`data/programs.json`), the data embedded in the pages and the page text are released under [CC BY 4.0](LICENSE-DATA), so you can reuse them with credit to Chiara Mingarelli. Program details come from each funder's own page; check there before relying on a date.
+
