@@ -22,7 +22,7 @@ Features on every page:
 - Tick boxes to export only the programs you care about, as a calendar file (`.ics`, with reminders 6 and 4 weeks before each deadline) or a CSV.
 - Per-program **Google Calendar** and **Outlook** links. These can't carry custom reminders, so set the 6- and 4-week alerts yourself.
 
-The live versions also run inside Claude, where they read the catalog live and offer "email me when the call opens" sign-ups. Those features need Claude and are switched off in these static copies.
+The live versions also run inside Claude, where the Physics page reads the catalog live. That needs Claude, so these static copies show the data as of their last update.
 
 ## Catalog (`data/programs.json`)
 
@@ -48,7 +48,7 @@ One object per program:
 
 - `export_ap.py`, `export_astro.py` and `export_ng.py` build each page's embedded data from a folder of catalog rows (`<id>.json`).
 - `astro_classify.py` assigns Astronomy sub-areas and decides which rows the Astronomy page shows.
-- `export_mod.js` is the tick-box export and calendar-link code inlined in every page; `alerts_mod.js` and `alerts_dlg.html` are the alert sign-up code used by the live pages.
+- `export_mod.js` is the tick-box export and calendar-link code inlined in every page.
 
 The catalog is rechecked every Monday, new postings are added on the other days of the week, and the tips are kept current daily. This repository is rebuilt from the catalog and pushed automatically every day at about 1 pm Eastern.
 
