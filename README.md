@@ -24,7 +24,7 @@ Features on every page:
 
 ## Catalog (`catalog/`)
 
-This folder is the source of truth. `catalog/programs/<id>.json` holds one program per file, `catalog/meta/status.json` the Physics page's "What's new" lines and `catalog/meta/notes.json` its tips for each career stage. `data/programs.json` is the whole catalog as one list, rebuilt automatically.
+This folder is the source of truth. `catalog/programs/<id>.json` holds one program per file, `catalog/meta/status.json` the Physics page's "What's new" lines, `catalog/meta/notes.json` its tips for each career stage, and `catalog/meta/ap_notes.json` and `catalog/meta/astro_notes.json` the "What changed" panels of the Applied Physics and Astronomy pages. `data/programs.json` is the whole catalog as one list, rebuilt automatically.
 
 Each program has these fields:
 
@@ -49,14 +49,14 @@ Each program has these fields:
 - `export_ap.py`, `export_astro.py` and `export_ng.py` build each page's embedded data from a folder of catalog rows (`<id>.json`).
 - `astro_classify.py` assigns Astronomy sub-areas and decides which rows the Astronomy page shows.
 - `export_mod.js` is the tick-box export and calendar-link code inlined in every page.
-- `build.py` checks the catalog and builds every page from it and from `templates/`. It writes `docs/` (this site), `sites/<repo>/` (the files each single-page repository copies in) and `data/programs.json`. Run `python3 engine/build.py --check` to test a change without writing anything.
+- `build.py` checks the catalog and builds every page from it and from `templates/`. It writes `docs/` (this site), `sites/<repo>/` (the files each single-page repository copies in), `data/programs.json`, and a `version.json` on every site naming the catalog commit it was built from. Run `python3 engine/build.py --check` to test a change without writing anything.
 
 ## How it updates
 
 1. The catalog is rechecked every Monday and new postings are added on the other days of the week. The tips are kept current daily.
 2. Whenever `catalog/`, `templates/` or `engine/` changes on `main`, the **Build pages** workflow runs `engine/build.py`, commits the result and publishes `docs/`. It also runs once a day.
-3. Updates pushed to `claude/` branches (by the cloud routines) are merged into `main` by the **Accept catalog updates** workflow if they only touch the catalog, merge cleanly and pass the build check. Anything else is left on its branch for review.
-4. Each single-page repository ([Physics](https://github.com/ChiaraMingarelli/yale-physics-funding-finder), [Applied Physics](https://github.com/ChiaraMingarelli/yale-applied-physics-funding-finder), [Astronomy](https://github.com/ChiaraMingarelli/yale-astronomy-funding-finder), [NANOGrav](https://github.com/ChiaraMingarelli/nanohertz-opportunities)) copies its files from `sites/` every hour and publishes them.
+3. Updates pushed to `claude/catalog-*` branches (by the cloud routines) are merged into `main` by the **Accept catalog updates** workflow if they only change catalog data files, delete at most 60 programs, keep every existing `added` date, merge cleanly and pass the build check. Anything else is left on its branch for review.
+4. Each single-page repository ([Physics](https://github.com/ChiaraMingarelli/yale-physics-funding-finder), [Applied Physics](https://github.com/ChiaraMingarelli/yale-applied-physics-funding-finder), [Astronomy](https://github.com/ChiaraMingarelli/yale-astronomy-funding-finder), [NANOGrav](https://github.com/ChiaraMingarelli/nanohertz-opportunities)) copies its files from `sites/` every hour and publishes them, and republishes if its live site ever differs from the repository.
 
 Deadlines move. Check the funder's page before you commit to a date.
 

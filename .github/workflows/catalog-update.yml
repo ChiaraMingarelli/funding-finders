@@ -1,19 +1,19 @@
-# Accept catalog updates that the cloud routines push to claude/ branches.
-# The branch is merged into main only if it changes nothing but catalog files (and the
-# "What changed" notes in the Applied Physics and Astronomy export scripts), merges cleanly,
-# and the merged catalog passes the build check. Otherwise the branch is left for review.
+# Accept catalog updates that the cloud routines push to claude/catalog-* branches.
+# A branch is merged into main only if it changes nothing but catalog data files, deletes at most
+# 60 programs, leaves every existing "added" date alone, merges cleanly, and the merged catalog
+# passes the build check. Otherwise the branch is left as it is for review.
 name: Accept catalog updates
 
 on:
   push:
-    branches: ["claude/**"]
+    branches: ["claude/catalog-**"]
 
 permissions:
   contents: write
   actions: write
 
 concurrency:
-  group: catalog-update
+  group: catalog-update-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
@@ -27,29 +27,63 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Check that only catalog files changed
+      - name: Check the branch
+        id: check
         env:
           BRANCH: ${{ github.ref_name }}
         run: |
+          if ! git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null; then
+            echo "Branch already merged and deleted."; echo "skip=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
           git fetch --quiet origin "$BRANCH"
-          git diff --name-only "origin/main...origin/$BRANCH" > "$RUNNER_TEMP/changed.txt"
+          SHA=$(git rev-parse FETCH_HEAD); echo "SHA=$SHA" >> "$GITHUB_ENV"
+          git diff --no-renames --name-only "origin/main...$SHA" > "$RUNNER_TEMP/changed.txt"
           cat "$RUNNER_TEMP/changed.txt"
-          if [ ! -s "$RUNNER_TEMP/changed.txt" ]; then echo "Nothing to merge."; exit 1; fi
-          if grep -v -E '^(catalog/(programs|meta)/[a-z0-9][a-z0-9-]*\.json|engine/export_(ap|astro)\.py)$' "$RUNNER_TEMP/changed.txt"; then
-            echo "::error::Branch $BRANCH changes files outside the catalog, so it is left for review."
+          if [ ! -s "$RUNNER_TEMP/changed.txt" ]; then
+            echo "Nothing to merge; deleting the branch."
+            git push origin --delete "$BRANCH"; echo "skip=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          if grep -v -E '^(catalog/programs/[a-z0-9][a-z0-9-]*\.json|catalog/meta/(status|notes|ap_notes|astro_notes)\.json)$' "$RUNNER_TEMP/changed.txt"; then
+            echo "::error::Branch $BRANCH changes files outside the catalog data, so it is left for review."
             exit 1
           fi
+          DEL=$(git diff --no-renames --diff-filter=D --name-only "origin/main...$SHA" -- catalog/programs | wc -l)
+          if [ "$DEL" -gt 60 ]; then
+            echo "::error::Branch $BRANCH deletes $DEL programs, so it is left for review."
+            exit 1
+          fi
+          python3 - "$SHA" <<'PY'
+          import json, subprocess, sys
+          sha = sys.argv[1]
+          git = lambda *a: subprocess.run(["git", *a], capture_output=True, text=True, check=True).stdout
+          paths = git("diff", "--no-renames", "--diff-filter=M", "--name-only", f"origin/main...{sha}", "--", "catalog/programs").split()
+          bad = [p for p in paths
+                 if "added" in json.loads(git("show", f"origin/main:{p}"))
+                 and json.loads(git("show", f"origin/main:{p}"))["added"] != json.loads(git("show", f"{sha}:{p}")).get("added")]
+          if bad:
+              print("::error::These rows changed their added date: " + ", ".join(bad))
+              sys.exit(1)
+          PY
       - name: Merge into main and check the result
+        if: steps.check.outputs.skip != 'true'
         env:
           BRANCH: ${{ github.ref_name }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git merge --no-edit "origin/$BRANCH" -m "Catalog update from $BRANCH"
-          python3 engine/build.py --check
-          git push origin HEAD:main
+          for attempt in 1 2 3 4 5; do
+            git fetch --quiet origin main
+            git reset --quiet --hard origin/main
+            git merge --no-edit "$SHA" -m "Catalog update from $BRANCH"
+            python3 engine/build.py --check
+            if git push origin HEAD:main; then break; fi
+            if [ "$attempt" = 5 ]; then exit 1; fi
+            echo "main moved; merging again ($attempt)"
+            sleep $((attempt * 5))
+          done
           git push origin --delete "$BRANCH"
       - name: Build and publish
+        if: steps.check.outputs.skip != 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh workflow run build.yml --ref main

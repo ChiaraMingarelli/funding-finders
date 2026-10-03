@@ -8,31 +8,16 @@ Rules:
   - include rows whose `aud` list contains "ap" and whose stages include tt, ten, pd, gr or ug
   - keep the Yale internal step (`yale`) because Applied Physics is a Yale department
   - drop internal fields (aud, ng, editedBy)
-  - AP_NOTES below holds the page's "What changed" panel; edit it here, never in the page
+  - the page's "What changed" panel is read from ap_notes.json next to meta_status.json (catalog/meta/)
 """
 import json, glob, os, sys, datetime
 
 STAGES = {"tt", "ten", "pd", "gr", "ug"}
 DROP = {"aud", "ng", "editedBy", "agency"}
 
-AP_NOTES = {"changes": [
-    {"b": "NSF Engineering consolidated its core programs",
-     "t": "ECCS (NSF 26-514), CMMI (26-515) and CBET (26-518) now accept proposals anytime, alongside the MPS materials solicitation (26-521)."},
-    {"b": "One-proposal limit in DMR",
-     "t": "Under NSF 26-521, from Oct 1 each year a person can be PI or co-PI on only one proposal per fiscal year across all eight materials programs."},
-    {"b": "DOE Office of Science FY2027 open call",
-     "t": "BES materials and chemical-sciences programs and ASCR quantum topics take white papers or pre-applications through the FY2027 call (DE-FOA-0003665); several are due Nov 22 to Nov 30, 2026."},
-    {"b": "CHIPS and DARPA",
-     "t": "NIST's CHIPS R&D Office paused white-paper intake on Sep 15, 2026 and expects to reopen in November. DARPA's Microsystems Technology Office is now the Multi X Office (MXO), with a new office-wide solicitation."},
-    {"b": "Archived or paused NSF programs",
-     "t": "FuSe2, ExpandQISE and QuSeC-TAQS are archived; MRSEC, DMREF, ERC and NRT are between competitions. MRI is waiting for a new solicitation."},
-    {"b": "NIH",
-     "t": "NIH now accepts at most 6 applications per PI per calendar year, and institutes no longer use paylines."},
-    {"b": "Budget requests",
-     "t": "The President's FY2027 request cuts NSF by 55% and the DOE Office of Science by 13%. Appropriations are still pending."},
-]}
-
 def main(src, status_path, out):
+    # The "What changed" panel lives in the catalog as data: catalog/meta/ap_notes.json
+    notes = json.load(open(os.path.join(os.path.dirname(status_path), "ap_notes.json"), encoding="utf-8"))
     rows = []
     for fp in sorted(glob.glob(os.path.join(src, "*.json"))):
         x = json.load(open(fp))
@@ -49,7 +34,7 @@ def main(src, status_path, out):
     st = st.get("data", st)
     status = {"lastChecked": st.get("lastChecked") or datetime.date.today().isoformat(),
               "changes": ["New: Applied Physics edition covering quantum information, photonics and quantum materials"]}
-    data = {"programs": rows, "status": status, "notes": AP_NOTES,
+    data = {"programs": rows, "status": status, "notes": notes,
             "updated": datetime.date.today().isoformat()}
     json.dump(data, open(out, "w"), ensure_ascii=False, separators=(",", ":"))
     print(f"{len(rows)} Applied Physics rows exported")

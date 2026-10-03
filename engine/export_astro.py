@@ -7,26 +7,16 @@ Rules:
   - `asub` holds the Yale Astronomy research areas a row belongs to
     (cos, exo, xgal, galac, he, star, ism, inst); rows without asub show under every area
   - keep the Yale internal step (`yale`); drop internal fields (aud, ng, editedBy)
-  - ASTRO_NOTES below holds the page's "What changed" panel; edit it here, never in the page
+  - the page's "What changed" panel is read from astro_notes.json next to meta_status.json (catalog/meta/)
 """
 import json, glob, os, sys, datetime
 
 STAGES = {"tt", "ten", "pd", "gr", "ug"}
 DROP = {"aud", "ng", "editedBy", "agency"}
-ASTRO_NOTES = {"changes": [
-    {"b": "NSF consolidated its astronomy programs",
-     "t": "AAG is now Astro-Core under NSF 26-522 (posted Aug 17, 2026). Proposals are accepted anytime, with a program target date in mid-November; FY2027 is flagged as especially competitive."},
-    {"b": "NASA ROSES-26 still unreleased",
-     "t": "ATP, ADAP, FINESST and the guest-investigator programs are waiting on it. LISA Preparatory Science was not solicited in ROSES-24 or ROSES-25."},
-    {"b": "Archived or paused NSF programs",
-     "t": "WoU-MMA, MPS-Ascend and Mid-scale RI-2 are archived. MRI is waiting for a new solicitation."},
-    {"b": "Observing time",
-     "t": "Calls for observing time are listed under Telescope Time, and only calls Yale astronomers can apply to are included. Yale's own Keck and Palomar time goes through the Yale Time Allocation Committee."},
-    {"b": "Budget requests",
-     "t": "The President's FY2027 request cuts NSF by 55% and NASA Astrophysics research and analysis from $113.7M to $46.6M. Appropriations are still pending."},
-]}
 
 def main(src, status_path, out):
+    # The "What changed" panel lives in the catalog as data: catalog/meta/astro_notes.json
+    notes = json.load(open(os.path.join(os.path.dirname(status_path), "astro_notes.json"), encoding="utf-8"))
     rows = []
     for fp in sorted(glob.glob(os.path.join(src, "*.json"))):
         x = json.load(open(fp))
@@ -42,7 +32,7 @@ def main(src, status_path, out):
     st = json.load(open(status_path)); st = st.get("data", st)
     status = {"lastChecked": st.get("lastChecked") or datetime.date.today().isoformat(),
               "changes": ["New: Astronomy edition, organized by the department's eight research areas"]}
-    json.dump({"programs": rows, "status": status, "notes": ASTRO_NOTES, "updated": datetime.date.today().isoformat()},
+    json.dump({"programs": rows, "status": status, "notes": notes, "updated": datetime.date.today().isoformat()},
               open(out, "w"), ensure_ascii=False, separators=(",", ":"))
     print(f"{len(rows)} Astronomy rows exported")
 
