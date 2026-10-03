@@ -1,11 +1,11 @@
 {
-  "cadence": "weekly",
-  "changes": [
-    "Midweek: 22 new postdoc postings (9 prize fellowships; 5 in gravitational physics)",
-    "Midweek: 10 new postdoc postings (5 prize fellowships; 1 in gravitational physics)",
-    "Added Yale limited-submission deadlines from the Sep 30 funding newsletter (Blavatnik National and Regional, Oct 28)",
-    "Added postdoc position-type filter: prize fellowships vs group postdocs",
-    "Added 299 open postdoc positions and fellowships from Academic Jobs Online, INSPIRE, the AAS Job Register and GW/quantum job boards"
-  ],
-  "lastChecked": "2026-09-30"
+ "cadence": "weekly",
+ "changes": [
+  "Midweek: 22 new postdoc postings (9 prize fellowships; 5 in gravitational physics)",
+  "Midweek: 10 new postdoc postings (5 prize fellowships; 1 in gravitational physics)",
+  "Added Yale limited-submission deadlines from the Sep 30 funding newsletter (Blavatnik National and Regional, Oct 28)",
+  "Added postdoc position-type filter: prize fellowships vs group postdocs",
+  "Added 299 open postdoc positions and fellowships from Academic Jobs Online, INSPIRE, the AAS Job Register and GW/quantum job boards"
+ ],
+ "lastChecked": "2026-09-30"
 }
