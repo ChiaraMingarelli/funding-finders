@@ -21,7 +21,7 @@ ASTRO_NOTES = {"changes": [
     {"b": "Archived or paused NSF programs",
      "t": "WoU-MMA, MPS-Ascend and Mid-scale RI-2 are archived. MRI is waiting for a new solicitation."},
     {"b": "Observing time",
-     "t": "Chandra Cycle 29 and the NRAO/GBO calls are tracked under Instrumentation & observing; Yale's own Keck and Palomar time goes through the Yale Time Allocation Committee."},
+     "t": "Calls for observing time are listed under Telescope Time, and only calls Yale astronomers can apply to are included. Yale's own Keck and Palomar time goes through the Yale Time Allocation Committee."},
     {"b": "Budget requests",
      "t": "The President's FY2027 request cuts NSF by 55% and NASA Astrophysics research and analysis from $113.7M to $46.6M. Appropriations are still pending."},
 ]}
