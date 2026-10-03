@@ -13,7 +13,7 @@ Live on GitHub Pages: https://chiaramingarelli.github.io/funding-finders/
 | `astronomy.html` | Yale Astronomy (cosmology, exoplanets, extragalactic, galactic, high-energy, stellar, ISM, instrumentation) |
 | `nanograv.html` | NANOGrav students, postdocs and faculty job seekers |
 
-Each page is a single self-contained HTML file with its data embedded, so the `docs/` folder can be served as-is with GitHub Pages (Settings → Pages → Deploy from branch → `/docs`).
+Each page is a single self-contained HTML file with its data embedded. They are built from the catalog, so don't edit them by hand: change `catalog/` or `templates/` instead (see below).
 
 Features on every page:
 
@@ -22,11 +22,11 @@ Features on every page:
 - Tick boxes to export only the programs you care about, as a calendar file (`.ics`, with reminders 6 and 4 weeks before each deadline) or a CSV.
 - Per-program **Google Calendar** and **Outlook** links. These can't carry custom reminders, so set the 6- and 4-week alerts yourself.
 
-The live versions also run inside Claude, where the Physics page reads the catalog live. That needs Claude, so these static copies show the data as of their last update.
+## Catalog (`catalog/`)
 
-## Catalog (`data/programs.json`)
+This folder is the source of truth. `catalog/programs/<id>.json` holds one program per file, `catalog/meta/status.json` the Physics page's "What's new" lines and `catalog/meta/notes.json` its tips for each career stage. `data/programs.json` is the whole catalog as one list, rebuilt automatically.
 
-One object per program:
+Each program has these fields:
 
 | Field | Meaning |
 |---|---|
@@ -49,8 +49,14 @@ One object per program:
 - `export_ap.py`, `export_astro.py` and `export_ng.py` build each page's embedded data from a folder of catalog rows (`<id>.json`).
 - `astro_classify.py` assigns Astronomy sub-areas and decides which rows the Astronomy page shows.
 - `export_mod.js` is the tick-box export and calendar-link code inlined in every page.
+- `build.py` checks the catalog and builds every page from it and from `templates/`. It writes `docs/` (this site), `sites/<repo>/` (the files each single-page repository copies in) and `data/programs.json`. Run `python3 engine/build.py --check` to test a change without writing anything.
 
-The catalog is rechecked every Monday, new postings are added on the other days of the week, and the tips are kept current daily. This repository is rebuilt from the catalog and pushed automatically every day at about 1 pm Eastern.
+## How it updates
+
+1. The catalog is rechecked every Monday and new postings are added on the other days of the week. The tips are kept current daily.
+2. Whenever `catalog/`, `templates/` or `engine/` changes on `main`, the **Build pages** workflow runs `engine/build.py`, commits the result and publishes `docs/`. It also runs once a day.
+3. Updates sent as pull requests from `claude/` branches are merged by the **Accept catalog updates** workflow if they only touch the catalog and pass the build check. Anything else waits for review.
+4. Each single-page repository ([Physics](https://github.com/ChiaraMingarelli/yale-physics-funding-finder), [Applied Physics](https://github.com/ChiaraMingarelli/yale-applied-physics-funding-finder), [Astronomy](https://github.com/ChiaraMingarelli/yale-astronomy-funding-finder), [NANOGrav](https://github.com/ChiaraMingarelli/nanohertz-opportunities)) copies its files from `sites/` every hour and publishes them.
 
 Deadlines move. Check the funder's page before you commit to a date.
 

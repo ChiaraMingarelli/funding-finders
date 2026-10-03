@@ -1,0 +1,39 @@
+{
+ "a": "No cap stated; up to 5 yr",
+ "added": "2026-09-28",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "radar",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Accepted anytime; no target date posted. Ask gravity@nsf.gov about panel timing",
+ "e": "Covers classical and quantum gravity theory, LIGO and GW data analysis.",
+ "f": "NSF MPS/PHY · NSF 26-523",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "nsf-gravitational-physics",
+ "n": "NSF Gravitational Physics",
+ "nofo": [
+  {
+   "opp": "26-523",
+   "u": "https://simpler.grants.gov/opportunity/d4e9f37d-0a43-40de-94bb-4d007267df73"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/gp-gravitational-physics",
+ "unv": "no target date posted",
+ "us": false
+}

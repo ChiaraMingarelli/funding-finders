@@ -1,0 +1,28 @@
+{
+ "a": "Prize + up to 1 yr of research stays in Germany",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Prize",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Rolling; nomination by a German host",
+ "e": "Senior, internationally leading researchers outside Germany; nominated by established academics in Germany.",
+ "f": "Alexander von Humboldt Foundation",
+ "fields": [
+  "all"
+ ],
+ "id": "humboldt-research-award",
+ "n": "Humboldt Research Award",
+ "nom": true,
+ "s": "rolling",
+ "stages": [
+  "ten"
+ ],
+ "u": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-award",
+ "unv": "Amount and cycle details not re-verified this pass",
+ "us": false
+}

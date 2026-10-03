@@ -1,0 +1,32 @@
+{
+ "a": "$98,000/yr stipend plus up to $10,000/yr research funds; 3 years",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": "2026-10-16",
+ "dt": "Apply by Oct 16, 2026, 11:59 pm EDT (AJO)",
+ "e": "Interdisciplinary independent postdoctoral fellowship for foundational research in the natural sciences, including experimental physics and theory/simulation. Within 3 years of PhD and at most 2 years prior postdoc; international scholars must qualify for J-1 (H-1B holders cannot apply).",
+ "f": "Stanford University (Stanford Science Fellows program)",
+ "fields": [
+  "all",
+  "cmx",
+  "amo",
+  "bio"
+ ],
+ "id": "stanford-science-fellows-2027",
+ "n": "Stanford Science Fellows",
+ "nom": false,
+ "pt": "prize",
+ "s": "open",
+ "src": "ajo:32509",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32509",
+ "us": false
+}

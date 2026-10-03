@@ -1,0 +1,29 @@
+{
+ "a": "varies by fellowship scheme",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-12",
+ "dt": "Oct 12, 2026 (expression of interest)",
+ "e": "Call for expressions of interest in hosted fellowships in ATLAS, quantum technologies and lattice QCD. Eligibility depends on the scheme.",
+ "f": "DESY Zeuthen; contact Jelena Köhler",
+ "fields": [
+  "ppx",
+  "ppt",
+  "qp"
+ ],
+ "id": "desy-zeuthen-eoi-for-particle-physics-quantum-technology",
+ "n": "DESY Zeuthen: EOI for particle physics & quantum technology fellowships",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3188739",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3188739",
+ "us": false
+}

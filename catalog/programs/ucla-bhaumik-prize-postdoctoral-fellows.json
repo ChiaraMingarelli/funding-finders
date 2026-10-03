@@ -1,0 +1,33 @@
+{
+ "a": "not listed; 3 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-24",
+ "dt": "Oct 24, 2026 (nomination-based)",
+ "e": "Nomination-based fellowship in physics, astronomy, chemistry and biochemistry. Candidates need a PhD awarded between Sept 2023 and Aug 2026.",
+ "f": "UCLA Division of Physical Sciences",
+ "fields": [
+  "astro",
+  "ppt",
+  "cmt"
+ ],
+ "id": "ucla-bhaumik-prize-postdoctoral-fellows",
+ "n": "UCLA: Bhaumik Prize Postdoctoral Fellows",
+ "nfit": "Medium",
+ "nom": true,
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3204681",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://physicalsciences.ucla.edu/bhaumik-prize-postdoctoral-fellows-program/",
+ "us": false
+}

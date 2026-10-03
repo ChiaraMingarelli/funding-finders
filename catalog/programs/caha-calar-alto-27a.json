@@ -1,0 +1,30 @@
+{
+ "a": "Nights on the Calar Alto 2.2-m and 3.5-m telescopes in visitor or service mode for semester 27A. Typically up to 5% of the open time may go to non-partner PIs. No funding.",
+ "added": "2026-10-03",
+ "asub": [],
+ "aud": [],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": "2026-10-14",
+ "dt": "Deadline 14 Oct 2026, 14:00:00 UT; submissions accepted from 16 Sep 2026. Observing period 1 Jan to 30 Jun 2027.",
+ "e": "Open call for the two main Calar Alto telescopes in Spain. Open time is mainly for Spain-based PIs. PIs at non-Spanish institutions may apply, but get time only if the CAHA TAC rates them extremely well, and they must justify having no access to a similar instrument at their own facilities.",
+ "f": "CAHA (Centro Astronómico Hispano en Andalucía; CSIC / Junta de Andalucía)",
+ "fields": [
+  "astro"
+ ],
+ "id": "caha-calar-alto-27a",
+ "n": "Calar Alto Observatory 2.2-m and 3.5-m Call for Proposals, Semester 27A",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "open",
+ "src": "other:caha-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://www.caha.es/APPS/CfP/public/CfP27A.pdf",
+ "unv": "Taken off the Astronomy page on Oct 3, 2026: PIs outside Spain must justify having no access to a similar instrument at home, so the call does not meet the telescope-time rule.",
+ "us": false
+}

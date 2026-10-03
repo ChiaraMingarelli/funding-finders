@@ -1,0 +1,36 @@
+{
+ "a": "CAD 75,516/yr + research allowance; 1 year, extendable to 3",
+ "added": "2026-09-30",
+ "asub": [
+  "cos",
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-15",
+ "dt": "2026/10/15 23:59:59 (time zone not stated on page); review begins Oct 16",
+ "e": "GAPS Antarctic balloon cosmic-ray antinuclei search for dark matter; radiation-sensor instrumentation. PhD on/after Jan 1, 2022; start Jan 2027.",
+ "f": "University of Toronto, Dunlap Institute (Field Rogers)",
+ "fields": [
+  "astro",
+  "ppx",
+  "inst"
+ ],
+ "id": "u-toronto-dunlap-postdoc-in-experimental-particle-astrop",
+ "n": "U Toronto Dunlap: Postdoc in Experimental Particle Astrophysics (GAPS)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "Canada",
+ "s": "open",
+ "src": "ajo:32620",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32620",
+ "us": false
+}

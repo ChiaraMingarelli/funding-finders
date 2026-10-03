@@ -1,0 +1,34 @@
+{
+ "a": "$7,000 + free housing + food allowance + up to $800 travel",
+ "added": "2026-10-01",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "No 2026 program (NSF renewal not approved); site says they will reapply to reopen for summer 2027",
+ "e": "US citizens or permanent residents only. Projects include LIGO detector characterization and GW optical follow-up at the center tied to NANOGrav/CGWA.",
+ "f": "University of Texas Rio Grande Valley (NSF REU)",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "utrgv-reu-space-gw",
+ "n": "UTRGV REU (Space/GW)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "src": "other:utrgv",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.utrgv.edu/stssi/education/reu/index.htm",
+ "unv": "2027 program depends on NSF funding; no dates",
+ "us": true
+}

@@ -1,0 +1,29 @@
+{
+ "a": "$2,000 for graduate students; $3,000 for postdocs",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Yale internal",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last deadline Aug 28, 2026 (2026-27 awards); the next competition is not posted yet",
+ "e": "Yale graduate students and postdocs with two faculty mentors from different disciplines, for a science–humanities project.",
+ "f": "Franke Program in Science and the Humanities",
+ "fields": [
+  "all"
+ ],
+ "id": "franke-interdisciplinary-research-award-science-humanities",
+ "n": "Franke Interdisciplinary Research Award (Science & Humanities)",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "pd",
+  "gr"
+ ],
+ "u": "https://frankeprogram.yale.edu/event/competition-now-open-franke-fellowships-science-and-humanities",
+ "unv": "Yale Physics listed the deadline as Aug 11, 2026, while the Franke page says Aug 28, 2026. The Franke page also mentions fall 2025 and spring 2026 dinners, so its text may be carried over from last year.",
+ "us": false
+}

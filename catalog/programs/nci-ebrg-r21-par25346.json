@@ -1,0 +1,39 @@
+{
+ "a": "Up to $275K direct over 2 years (max $200K in any year)",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": "2026-10-16",
+ "dt": "Standard dates Feb 16, Jun 16, Oct 16 (AIDS one month later); expires Jan 7, 2028",
+ "e": "Engineering-oriented exploratory grants to show feasibility of new capabilities, such as imaging, sensing and instrumentation, for biomedical research or care; no preliminary data required. PAR-25-346 is clinical-trial-not-allowed, PAR-25-321 clinical-trial-optional; no citizenship restriction.",
+ "f": "NIH NCI",
+ "fields": [
+  "bio",
+  "phot",
+  "inst"
+ ],
+ "id": "nci-ebrg-r21-par25346",
+ "n": "NIH NCI: Exploratory/Developmental Bioengineering Research Grants (EBRG R21; PAR-25-346 / PAR-25-321)",
+ "nofo": [
+  {
+   "opp": "PAR-25-346",
+   "u": "https://simpler.grants.gov/opportunity/0430f169-66e0-47ef-8fef-40258a759c8e"
+  },
+  {
+   "opp": "PAR-25-321",
+   "u": "https://simpler.grants.gov/opportunity/36fa146e-a461-4128-99a4-a65bc83aa928"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:PAR-25-346",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-346.html",
+ "us": false
+}

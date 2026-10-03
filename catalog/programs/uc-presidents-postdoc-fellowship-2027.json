@@ -1,0 +1,30 @@
+{
+ "a": "not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": "2026-11-01",
+ "dt": "Application due Nov 1, 2026; letters due Dec 1",
+ "e": "Postdoctoral fellowships at any UC campus or UC-affiliated national lab in all fields, with a UC faculty mentor; highly ranked applicants are also considered for campus Chancellor's fellowships. Applicants must be legally authorized to work in the US.",
+ "f": "University of California Office of the President",
+ "fields": [
+  "all"
+ ],
+ "id": "uc-presidents-postdoc-fellowship-2027",
+ "n": "University of California President's Postdoctoral Fellowship Program (PPFP)",
+ "nom": false,
+ "pt": "prize",
+ "s": "open",
+ "src": "other:uc-ppfp",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://ppfp.ucop.edu/info/how-to-apply/",
+ "unv": "Stipend and term not stated on pages checked.",
+ "us": false
+}

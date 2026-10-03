@@ -1,0 +1,36 @@
+{
+ "a": "Partial support of meeting costs; grants.gov lists a $2,000,000 ceiling",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": "2029-08-31",
+ "dt": "Open to Aug 31, 2029",
+ "e": "Pays part of the cost of conferences and workshops in AFOSR research areas, such as quantum, AMO, optics and materials. U.S. universities and nonprofits may apply.",
+ "f": "Air Force Office of Scientific Research",
+ "fields": [
+  "all"
+ ],
+ "id": "afosr-conference-workshop-support",
+ "n": "AFOSR: Basic Research Sciences Conference and Workshop Support (FA9550-26-S-0002)",
+ "nofo": [
+  {
+   "opp": "FA955026S0002",
+   "u": "https://simpler.grants.gov/opportunity/b7fddbe0-486a-4d82-bfa3-14fb0f0b0527"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "src": "grants:FA955026S0002",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/b7fddbe0-486a-4d82-bfa3-14fb0f0b0527",
+ "unv": "How far ahead of the meeting a request must be submitted was not checked in the PDF.",
+ "us": false
+}

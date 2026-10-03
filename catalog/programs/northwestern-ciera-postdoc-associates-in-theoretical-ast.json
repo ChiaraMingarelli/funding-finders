@@ -1,0 +1,39 @@
+{
+ "a": "not listed",
+ "added": "2026-09-30",
+ "asub": [
+  "exo",
+  "he",
+  "star",
+  "ism"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-15",
+ "dt": "2026/12/15 23:59:59 (time zone not stated on page)",
+ "e": "GW data analysis, stellar/binary and compact-object astrophysics, statistics/ML, and protoplanetary/accretion disk theory. PhD before appointment; start Fall 2027.",
+ "f": "Northwestern University, CIERA (Vicky Kalogera, Yoram Lithwick)",
+ "fields": [
+  "astro",
+  "grav",
+  "ds"
+ ],
+ "id": "northwestern-ciera-postdoc-associates-in-theoretical-ast",
+ "n": "Northwestern CIERA: Postdoc Associates in Theoretical Astrophysics",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32507",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32507",
+ "us": false
+}

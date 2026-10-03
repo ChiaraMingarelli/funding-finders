@@ -1,0 +1,27 @@
+{
+ "a": "US$10,000 plus Optica membership, mentors and the Amplify Optics Immersion event",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Scholarship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Annual; applications currently closed",
+ "e": "Ten PhD students from groups underrepresented in optics and photonics receive a scholarship each year. Open internationally.",
+ "f": "Optica Foundation",
+ "fields": [
+  "phot"
+ ],
+ "id": "optica-amplify-scholarship",
+ "n": "Optica Foundation: Amplify Scholarship",
+ "nom": false,
+ "s": "watch",
+ "src": "other:optica-foundation",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://www.optica.org/foundation/opportunities/scholarships/amplify_scholarship/",
+ "unv": "Optica's students page gives US$7,500 while the program page gives US$10,000. The next application window is not posted.",
+ "us": false
+}

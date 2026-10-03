@@ -1,0 +1,149 @@
+{
+ "changes": [
+  {
+   "b": "NSF consolidated its MPS programs",
+   "t": "New solicitations were posted Aug 17, 2026: NSF 26-521 (Materials, which includes condensed matter), 26-522 (Astronomy) and 26-523 (Physics). Proposals are accepted anytime, and only some programs post target dates."
+  },
+  {
+   "b": "New limit in DMR",
+   "t": "Under NSF 26-521, starting Oct 1 each year, a person can be PI or co-PI on only one proposal per fiscal year across all eight materials programs."
+  },
+  {
+   "b": "Archived or paused NSF programs",
+   "t": "MRI is waiting for a new solicitation. MPS-Ascend, WoU-MMA, Mid-scale RI-2 and the AI Institutes competition are archived. CSSI is paused, and PIF has no open topic."
+  },
+  {
+   "b": "DOE Office of Science",
+   "t": "University grants in HEP, NP and BES go through the SC Open Call. The FY2026 call closed Sep 30, 2026, and the FY2027 call is expected around October. The FY2027 HEP comparative review has already closed."
+  },
+  {
+   "b": "NIH",
+   "t": "Since Sep 25, 2025, NIH accepts at most 6 applications per PI per calendar year, and from January 2026 institutes no longer use paylines. The K awards will be consolidated into a new \"KT\" award for due dates from Oct 12, 2027."
+  },
+  {
+   "b": "Defense agencies",
+   "t": "AFOSR replaced its broad announcement with a new rolling one (FA9550-26-S-0001). The FY2027 MURI and DURIP competitions are posted on grants.gov."
+  },
+  {
+   "b": "NASA ROSES-26 still unreleased",
+   "t": "ATP, ADAP, FINESST and the guest-investigator programs are waiting on it."
+  },
+  {
+   "b": "Budget requests",
+   "t": "The President's FY2027 request cuts NSF by 55% (MPS by 67%) and the DOE Office of Science by 13%. Appropriations are still pending."
+  }
+ ],
+ "gr": {
+  "items": [
+   {
+    "b": "First-year students only:",
+    "t": "GRFP (Oct 23) and DOE CSGF (Jan 7). Both require US citizenship or permanent residency. Hertz (Oct 30) mostly takes first-year students."
+   },
+   {
+    "b": "Other deadlines:",
+    "t": "Soros for New Americans Oct 29, NDSEG Oct 30, DOE SCGSR Nov 4, NNSA SSGF Jan 5, NIH F31 Dec 8 and HHMI Gilliam Oct 27."
+   },
+   {
+    "b": "Final-year students",
+    "t": "applying for postdocs should use the Postdocs tab."
+   },
+   {
+    "b": "External fellowships and the Yale stipend.",
+    "t": "Under the GSAS combined-award policy, an external stipend fellowship replaces the Yale stipend, and Yale may supplement up to the department stipend plus $4,000. Confirm how Physics applies it with the DGS."
+   }
+  ],
+  "title": "For graduate students"
+ },
+ "pd": {
+  "items": [
+   {
+    "b": "National-lab fellowships close first.",
+    "t": "The Yale Quantum Institute fellowship is due Oct 4, ORNL and the Neutrino Theory Network Oct 16, and LBNL Chamberlain Oct 18."
+   },
+   {
+    "b": "Nominated fellowships.",
+    "t": "Pappalardo and Miller nominee applications are due Oct 9. NSF AAPF is due Oct 15 and is limited to US citizens and permanent residents."
+   },
+   {
+    "b": "Prize fellowships",
+    "t": "mostly fall between Oct 28 and Nov 16, including Hubble, Flatiron, ITC, CIERA, KITP, IQIM, Burke and IAS."
+   },
+   {
+    "b": "Biophysics.",
+    "t": "NIH K99/R00 is due Oct 12 and F32 Dec 8. HHMI Hanna Gray is due Dec 15. BWF CASI is for physicists moving into biology."
+   },
+   {
+    "b": "Citizenship.",
+    "t": "NIST NRC postdocs (Feb 1) and the Intelligence Community postdocs require US citizenship. Hubble, CERN Theory and most prize fellowships don't. Use the eligibility filter above."
+   }
+  ],
+  "title": "For postdocs and final-year PhD students"
+ },
+ "ten": {
+  "items": [
+   {
+    "b": "Moore Experimental Physics Investigators:",
+    "t": "the pre-proposal is due Oct 8. Awards are $1.35M over 5 years for experimentalists first tenured within the past 5 years."
+   },
+   {
+    "b": "Sabbaticals and visits.",
+    "t": "IAS School of Natural Sciences is due Nov 15 and the Aspen summer program Jan 15. Guggenheim and Fulbright closed Sep 15, and both reopen around Sep 2027."
+   },
+   {
+    "b": "Large awards.",
+    "t": "Keck Phase I is due Dec 7 (limited submission; Yale runs an internal round first). The Simons Collaborations LOI is due Oct 29, and the FY2027 DoD MURI is due Apr 9, 2027. Simons Targeted Grants take LOIs anytime."
+   },
+   {
+    "b": "Instrumentation.",
+    "t": "FY2027 DURIP is due Nov 6. NSF MRI is waiting for a new solicitation. The new NIH S10 shared-instrumentation notices (PAR-27-022, PAR-27-021) are posted."
+   }
+  ],
+  "title": "For tenured faculty"
+ },
+ "tt": {
+  "items": [
+   {
+    "b": "NSF CAREER",
+    "t": "is next due Jul 28, 2027, on the same date for every directorate. Sloan's 2027 cycle closed Sep 15, and the next opens around July 2027."
+   },
+   {
+    "b": "Defense early-career awards are due soon.",
+    "t": "The AFOSR YIP white paper is due Oct 9 (full proposal Dec 4) and ONR YIP Oct 30. Both require a PhD in 2019 or later and US citizenship or permanent residency. FY2027 DURIP equipment proposals are due Nov 6."
+   },
+   {
+    "b": "DOE Early Career",
+    "t": "hasn't posted an FY2027 call. The FY2026 round had a pre-application in March and a full application in June."
+   },
+   {
+    "b": "Biophysics.",
+    "t": "NIH R01 is due Oct 5, and the next NIGMS MIRA deadline for early-stage investigators is Feb 3, 2027. NIH now accepts at most 6 applications per PI per year."
+   },
+   {
+    "b": "Tenure changes eligibility.",
+    "t": "Sloan, Packard, Cottrell, Beckman, Searle and DOE Early Career are for untenured faculty. Moore EPI is for faculty tenured within the past 5 years."
+   }
+  ],
+  "title": "For tenure-track faculty"
+ },
+ "ug": {
+  "items": [
+   {
+    "b": "Yale's internal deadlines come first.",
+    "t": "Goldwater's Yale deadline is Nov 10 at 1 pm, through the Student Grants Database, and the national deadline is Jan 29."
+   },
+   {
+    "b": "Summer research.",
+    "t": "DOE SULI is due Jan 6, NIST SURF around the end of January, Amgen Scholars Feb 1 (Yale is a host) and NASA OSTEM Feb 26. Most REU sites close mid-January to early February."
+   },
+   {
+    "b": "REU slots are scarcer since 2025.",
+    "t": "NSF made 52 new site awards, against about 200 a year before. Confirm each site is running in 2027."
+   },
+   {
+    "b": "Seniors",
+    "t": "can apply for GRFP (Oct 23), Hertz (Oct 30) and DOE CSGF (Jan 7)."
+   }
+  ],
+  "title": "For undergraduates"
+ }
+}

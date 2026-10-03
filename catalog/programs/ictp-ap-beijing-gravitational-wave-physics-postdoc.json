@@ -1,0 +1,36 @@
+{
+ "a": "~320,000 CNY/yr; 2 years + possible 3rd",
+ "added": "2026-09-30",
+ "asub": [
+  "cos",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-31",
+ "dt": "Oct 31, 2026",
+ "e": "GW detection, cosmology, data analysis and numerical relativity. Requires a PhD in theoretical physics.",
+ "f": "ICTP-AP (UCAS), Beijing; PI Jun Zhang",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "ictp-ap-beijing-gravitational-wave-physics-postdoc",
+ "n": "ICTP-AP Beijing: Gravitational-wave physics postdoc",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3164763",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://ictp-ap.org/form/92",
+ "us": false
+}

@@ -1,0 +1,36 @@
+{
+ "a": "200–300 awards, ~$100M total across 8 DMR programs; no set budget cap",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": "2027-04-15",
+ "dt": "Accepted anytime. Preferred window runs June 15 to April 15 of the following year (faster processing), so the current window ends Apr 15, 2027. New consolidated solicitation posted Aug 17, 2026; the old CMMT target-date solicitation is gone.",
+ "e": "US university faculty. New limit: from Oct 1 each fiscal year, an individual may be PI/co-PI on only ONE proposal across all 8 DMR programs combined (conferences, supplements, EAGER, RAPID and RAISE excepted).",
+ "f": "NSF MPS, Division of Materials Research",
+ "fields": [
+  "cmx",
+  "cmt",
+  "qp",
+  "mat"
+ ],
+ "id": "nsf-mps-materials-research-programs-nsf-26-521-condensed-mat",
+ "n": "NSF MPS Materials Research Programs (NSF 26-521): Condensed Matter Physics (CMP) & Condensed Matter and Materials Theory (CMMT)",
+ "nofo": [
+  {
+   "opp": "26-521",
+   "u": "https://simpler.grants.gov/opportunity/10ff6dd1-54c3-4529-bb11-03efb6689e90"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/mps-materials-mps-materials-research-programs/nsf26-521/solicitation",
+ "us": false
+}

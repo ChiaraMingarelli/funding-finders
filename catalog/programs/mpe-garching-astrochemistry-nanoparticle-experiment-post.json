@@ -1,0 +1,36 @@
+{
+ "a": "TVöD Bund E14; 3 years, extendable to 5",
+ "added": "2026-09-30",
+ "asub": [
+  "ism"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-15",
+ "dt": "Oct 15, 2026",
+ "e": "Nanoparticle mass spectrometry in the SRET ion trap for ISM chemistry. Hands-on UHV, laser and RF-ion-trap experience needed.",
+ "f": "Max Planck Institute for Extraterrestrial Physics, Center for Astrochemical Studies; PI Paola Caselli",
+ "fields": [
+  "astro",
+  "amo",
+  "inst"
+ ],
+ "id": "mpe-garching-astrochemistry-nanoparticle-experiment-post",
+ "n": "MPE Garching: Astrochemistry nanoparticle experiment postdoc",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:5fe8c95e",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://recruitingapp-5257.de.umantis.com/Vacancies/710/Application/CheckLogin/2?lang=eng",
+ "us": false
+}

@@ -1,0 +1,26 @@
+{
+ "a": "Can cover local expenses, transport and domestic/international airfare, depending on need and funds.",
+ "added": "2026-09-28",
+ "c": "Visiting program",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Short and mid-term visit applications considered on a rolling basis. Long-term Scholars-in-Residence need a current faculty or staff affiliation.",
+ "e": "Faculty, postdocs and grad students working on EIC physics. International visitors must meet BNL access requirements.",
+ "f": "Brookhaven National Laboratory",
+ "fields": [
+  "nut",
+  "nux"
+ ],
+ "id": "bnl-eic-theory-institute-visitor-program",
+ "n": "BNL EIC Theory Institute Visitor Program",
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://www.bnl.gov/eic-theory/",
+ "us": false
+}

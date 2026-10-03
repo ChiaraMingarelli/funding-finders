@@ -1,0 +1,29 @@
+{
+ "a": "Varies",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Foundation",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Does not accept unsolicited proposals; physics research grants are by invitation or cultivation. Only open calls are for astronomy fellowships and science events.",
+ "e": "Invitation-only for research grants. Contact program staff to build a relationship.",
+ "f": "Heising-Simons Foundation",
+ "fields": [
+  "amo",
+  "qp",
+  "inst"
+ ],
+ "id": "heising-simons-foundation-science-fundamental-tabletop-physi",
+ "n": "Heising-Simons Foundation – Science (Fundamental/Tabletop Physics)",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.hsfoundation.org/programs/science/",
+ "us": false
+}

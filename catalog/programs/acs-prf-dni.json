@@ -1,0 +1,28 @@
+{
+ "a": "$110,000 over 2 years",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Foundation",
+ "checked": "2026-10-03",
+ "d": "2026-10-09",
+ "dt": "Fall 2026 deadline",
+ "e": "Starter grants for faculty in the first three years of their first academic appointment at PhD-granting departments, for fundamental research related to the petroleum field. The work must differ from the applicant's own graduate and postdoctoral research.",
+ "f": "American Chemical Society Petroleum Research Fund",
+ "fields": [
+  "mat",
+  "energy"
+ ],
+ "id": "acs-prf-dni",
+ "n": "ACS Petroleum Research Fund: Doctoral New Investigator (DNI) Grants",
+ "nom": false,
+ "s": "open",
+ "src": "other:acs-prf",
+ "stages": [
+  "tt"
+ ],
+ "u": "https://www.acs.org/funding/grants/petroleum-research-fund/programs/doctoral-new-investigator-grants.html",
+ "unv": "acs.org blocks automated access. The deadline and amount come from secondary listings, so confirm them on the ACS page before relying on them.",
+ "us": false
+}

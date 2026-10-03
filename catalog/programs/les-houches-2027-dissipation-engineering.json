@@ -1,0 +1,31 @@
+{
+ "a": "not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "School Aug 2-27, 2027; application deadline not posted",
+ "e": "Four-week school on measurement-based and autonomous feedback for protecting quantum systems from decoherence, across physical platforms. Open internationally to PhD students and young researchers.",
+ "f": "Les Houches School of Physics",
+ "fields": [
+  "qp",
+  "amo"
+ ],
+ "id": "les-houches-2027-dissipation-engineering",
+ "n": "Les Houches Summer School 2027: Adaptive Measurements and Dissipation Engineering in Quantum Systems",
+ "nom": false,
+ "pt": "other",
+ "s": "watch",
+ "src": "other:leshouches",
+ "stages": [
+  "gr",
+  "pd"
+ ],
+ "u": "https://www.houches-school-physics.com/program/program-2027/summer-school-adaptive-measurements-and-dissipation-engineering-in-quantum-systems-1736630.kjsp",
+ "unv": "Deadline, fees and organizers not shown on session page",
+ "us": false
+}

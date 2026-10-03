@@ -1,0 +1,27 @@
+{
+ "a": "not listed",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-31",
+ "dt": "Dec 31, 2026",
+ "e": "CMS Higgs measurements and the HGCAL upgrade. Requires a PhD in experimental particle physics.",
+ "f": "National Taiwan University; PI Rong-Shyang Lu",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "national-taiwan-u-cms-postdoc",
+ "n": "National Taiwan U.: CMS postdoc",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3167730",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3167730",
+ "us": false
+}

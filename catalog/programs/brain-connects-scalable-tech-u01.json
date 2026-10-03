@@ -1,0 +1,37 @@
+{
+ "a": "Budget not capped; up to 3 years; 3-6 awards",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": "2027-02-08",
+ "dt": "Feb 8, 2027 and Oct 4, 2027",
+ "e": "Develops current or emerging technologies for whole-brain connectivity mapping at scale, such as high-throughput imaging, microscopy and tissue processing. No citizenship restriction.",
+ "f": "NIH BRAIN Initiative (NINDS)",
+ "fields": [
+  "bio",
+  "phot",
+  "inst",
+  "ds"
+ ],
+ "id": "brain-connects-scalable-tech-u01",
+ "n": "NIH BRAIN CONNECTS: Specialized Projects for Scalable Technologies (U01, RFA-NS-27-015)",
+ "nofo": [
+  {
+   "opp": "RFA-NS-27-015",
+   "u": "https://simpler.grants.gov/opportunity/6219f5d0-0978-4477-8a3f-13d2c43d8c55"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:RFA-NS-27-015",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://files.simpler.grants.gov/opportunities/6219f5d0-0978-4477-8a3f-13d2c43d8c55/attachments/8e3130b7-f23c-48e5-bc2e-07eeb38bee2e/RFA-NS-27-015-Full-Announcement.html",
+ "unv": "Imaging/microscopy as example technologies is inferred from the program; the NOFO description shown was truncated.",
+ "us": false
+}

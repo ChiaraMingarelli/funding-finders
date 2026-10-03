@@ -1,0 +1,35 @@
+{
+ "a": "$5,000 in credits + discounted GPU/TPU access",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Compute",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Rolling",
+ "e": "US researchers only (GPAR currently US-only).",
+ "f": "Google Cloud / Google Public Sector",
+ "fields": [
+  "ds",
+  "all"
+ ],
+ "id": "google-cloud-research-credits-gpar",
+ "n": "Google Cloud Research Credits (GPAR)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://cloud.google.com/edu/researchers",
+ "us": false
+}

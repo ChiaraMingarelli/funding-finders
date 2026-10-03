@@ -1,0 +1,32 @@
+{
+ "a": "3 years, starting salary $108,000, plus modest independent funds. Must submit an LDRD proposal within 30 days of starting.",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Application period currently closed. The last confirmed call (March 2025) had a deadline of 2025-05-09.",
+ "e": "No more than 3 years past PhD at application. Needs a committed BNL mentor with an opening.",
+ "f": "Brookhaven National Laboratory",
+ "fields": [
+  "nux",
+  "nut",
+  "ppx",
+  "ppt",
+  "inst",
+  "qp"
+ ],
+ "id": "bnl-goldhaber-distinguished-fellowship",
+ "n": "BNL Goldhaber Distinguished Fellowship",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.bnl.gov/hr/goldhaber/",
+ "unv": "2026/2027 call dates not posted",
+ "us": false
+}

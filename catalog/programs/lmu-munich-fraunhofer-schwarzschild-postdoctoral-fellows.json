@@ -1,0 +1,36 @@
+{
+ "a": "TV-L E13; 4 years (extensible)",
+ "added": "2026-09-30",
+ "asub": [
+  "cos",
+  "xgal",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-25",
+ "dt": "Oct 25, 2026",
+ "e": "Cosmology, structure formation and extragalactic transients. Requires a PhD plus first postdoc experience or exceptional independence.",
+ "f": "LMU Munich, University Observatory; contact Daniel Grün",
+ "fields": [
+  "astro"
+ ],
+ "id": "lmu-munich-fraunhofer-schwarzschild-postdoctoral-fellows",
+ "n": "LMU Munich: Fraunhofer-Schwarzschild Postdoctoral Fellowships",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:06255dfe",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/06255dfe",
+ "us": false
+}

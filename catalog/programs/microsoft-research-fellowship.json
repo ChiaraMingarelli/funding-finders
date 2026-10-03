@@ -1,0 +1,32 @@
+{
+ "a": "Unrestricted gift of up to US$47,000 (US/Canada) to the institution, plus travel to Microsoft Research labs",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Industry",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last cycle opened Nov 4 and closed Dec 16, 2025; next cycle not posted",
+ "e": "Supports proposals on Microsoft Research's published open research challenges. PhD students apply on their own; faculty apply with a PhD student collaborator; postdocs need advisor or chair support. Open to the US and many other regions.",
+ "f": "Microsoft Research",
+ "fields": [
+  "ds",
+  "qp"
+ ],
+ "id": "microsoft-research-fellowship",
+ "n": "Microsoft Research Fellowship (PhD students, postdocs, faculty)",
+ "nom": false,
+ "pt": "other",
+ "s": "watch",
+ "src": "other:msr",
+ "stages": [
+  "gr",
+  "pd",
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/",
+ "unv": "This year's research challenges were not checked, so it is unknown whether they include quantum or materials topics. The 2026–27 dates are not posted.",
+ "us": false
+}

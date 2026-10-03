@@ -1,0 +1,32 @@
+{
+ "a": "$84,600/yr + COLA + $18,000/yr research budget; 3 years",
+ "added": "2026-09-30",
+ "asub": [],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-15",
+ "dt": "Oct 15, 2026, 5:00 pm EDT",
+ "e": "Theory, observation, instrumentation, engineering or lab astrophysics; at most 24 months of post-PhD research at start (Sep 1, 2027). Open to any nationality.",
+ "f": "Center for Astrophysics | Harvard & Smithsonian (Smithsonian Astrophysical Observatory)",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "cfa-cfa-prize-postdoctoral-fellowship",
+ "n": "CfA: CfA Prize Postdoctoral Fellowship",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32461",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32461",
+ "us": false
+}

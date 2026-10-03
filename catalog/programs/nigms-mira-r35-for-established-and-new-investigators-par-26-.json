@@ -1,0 +1,39 @@
+{
+ "a": "Established investigators: about 12% below their recent average NIGMS funding. New investigators: typically $275K direct costs per year. Up to $750K per year if well justified; 5 years",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": "2027-01-27",
+ "dt": "Annual due dates Jan 27 and May 27 (through May 2028)",
+ "e": "Established investigators must hold an active NIGMS single-PI R01-equivalent and apply within their eligibility window. New (non-ESI) investigators without prior NIGMS R01-equivalent funding may also apply. ESIs must use PAR-27-032.",
+ "f": "NIH NIGMS",
+ "fields": [
+  "bio",
+  "ds",
+  "inst"
+ ],
+ "id": "nigms-mira-r35-for-established-and-new-investigators-par-26-",
+ "n": "NIGMS MIRA (R35) for Established and New Investigators (PAR-26-121)",
+ "nofo": [
+  {
+   "opp": "PAR-27-032",
+   "u": "https://simpler.grants.gov/opportunity/9a4aeb2f-d0ac-403b-ac67-9d1fd24d9556"
+  },
+  {
+   "opp": "PAR-26-121",
+   "u": "https://simpler.grants.gov/opportunity/59c3ea57-ba49-4e96-9706-0528937de746"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "ten",
+  "tt"
+ ],
+ "u": "https://nigms.nih.gov/Research/mechanisms/MIRA/Pages/default",
+ "us": false
+}

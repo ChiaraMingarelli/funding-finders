@@ -1,0 +1,35 @@
+{
+ "a": "$73,308-$90,000; 2 years, extendable to 3",
+ "added": "2026-09-30",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-04",
+ "dt": "2026/12/04 23:59:59 (time zone not stated on page)",
+ "e": "Collapsars, compact-object mergers, GRBs, nucleosynthesis and GWs via numerical relativistic astrophysics; GRMHD/transport background encouraged. Start summer/fall 2027.",
+ "f": "MIT Kavli Institute for Astrophysics and Space Research (Ore Gottlieb)",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "mit-kavli-postdoc-in-computational-relativistic-astrophy",
+ "n": "MIT Kavli: Postdoc in Computational Relativistic Astrophysics",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32518",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32518",
+ "us": false
+}

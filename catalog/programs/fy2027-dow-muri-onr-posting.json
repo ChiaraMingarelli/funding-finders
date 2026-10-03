@@ -1,0 +1,34 @@
+{
+ "a": "Ceiling $7,500,000",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-30",
+ "d": "2027-04-09",
+ "dt": "White paper due Nov 20, 2026; full proposal due Apr 9, 2027 (dates per Yale's Sep 30, 2026 funding newsletter).",
+ "e": "US degree-granting IHEs (and non-FFRDC UARCs). Multidisciplinary university teams on defense-relevant basic research topics.",
+ "f": "DOD ONR",
+ "fields": [
+  "all"
+ ],
+ "id": "fy2027-dow-muri-onr-posting",
+ "n": "FY2027 DoW MURI (ONR posting)",
+ "nofo": [
+  {
+   "opp": "N0001426SF002",
+   "u": "https://simpler.grants.gov/opportunity/808c438e-f1f8-46ae-8cd3-6bf68320548a"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/808c438e-f1f8-46ae-8cd3-6bf68320548a",
+ "us": false
+}

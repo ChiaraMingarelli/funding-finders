@@ -1,0 +1,31 @@
+{
+ "a": "Airfare contribution, housing, food and incidentals stipends, enrollment-fee stipend, health insurance; 12 weeks",
+ "added": "2026-10-01",
+ "aud": [
+  "ng",
+  "radar"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "Summer 2027 student call already closed; call usually opens for ~6 weeks in June (for summer 2028)",
+ "e": "For full-time undergraduates from 23 partner countries/regions, including the United States (not for students at Canadian universities). Lets US undergrads spend 12 weeks in a Canadian university research group, e.g. pulsar, FRB or CHIME groups.",
+ "f": "Mitacs",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "mitacs-globalink-research-internship",
+ "n": "Mitacs Globalink Research Internship",
+ "nfit": "High",
+ "nom": false,
+ "region": "Canada",
+ "s": "watch",
+ "src": "other:mitacs",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.mitacs.ca/our-programs/globalink-research-internship-students/",
+ "unv": "Exact 2028 call dates not posted",
+ "us": false
+}

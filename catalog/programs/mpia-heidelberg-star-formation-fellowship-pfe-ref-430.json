@@ -1,0 +1,35 @@
+{
+ "a": "TVöD E14; 3 years",
+ "added": "2026-09-30",
+ "asub": [
+  "exo",
+  "star",
+  "ism"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-15",
+ "dt": "Nov 15, 2026",
+ "e": "Star formation science within the PFE program. PhD in astronomy, physics, chemistry or related.",
+ "f": "Max Planck Institute for Astronomy, Planet Formation & Exoplanets; contact Henrik Beuther",
+ "fields": [
+  "astro"
+ ],
+ "id": "mpia-heidelberg-star-formation-fellowship-pfe-ref-430",
+ "n": "MPIA Heidelberg: Star formation fellowship (PFE, Ref. 430)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:07007ae4",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/07007ae4",
+ "us": false
+}

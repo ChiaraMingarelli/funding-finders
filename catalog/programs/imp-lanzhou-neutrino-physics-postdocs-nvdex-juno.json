@@ -1,0 +1,24 @@
+{
+ "a": "competitive + grants; 2 years + extension",
+ "added": "2026-09-30",
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-31",
+ "dt": "Dec 31, 2026",
+ "e": "NvDEx and JUNO neutrino experiments. Requires a PhD in experimental or nuclear physics.",
+ "f": "Institute of Modern Physics CAS, Lanzhou; contact Wenjie Wu",
+ "fields": [
+  "nux",
+  "ppx"
+ ],
+ "id": "imp-lanzhou-neutrino-physics-postdocs-nvdex-juno",
+ "n": "IMP Lanzhou: Neutrino physics postdocs (NvDEx/JUNO)",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3194728",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3194728",
+ "us": false
+}

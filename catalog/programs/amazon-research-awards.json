@@ -1,0 +1,29 @@
+{
+ "a": "Unrestricted gift + AWS credits",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "radar",
+  "ap"
+ ],
+ "c": "Compute",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "No open calls; Spring 2026 closed May 13, 2026; Fall 2025 closed Nov 12, 2025; no Fall 2026 call posted yet",
+ "e": "Academic PIs; calls are topic-specific (e.g., Agentic AI, Build on Trainium).",
+ "f": "Amazon",
+ "fields": [
+  "ds"
+ ],
+ "id": "amazon-research-awards",
+ "n": "Amazon Research Awards",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.amazon.science/research-awards/call-for-proposals",
+ "unv": "Fall 2026 call not posted",
+ "us": false
+}

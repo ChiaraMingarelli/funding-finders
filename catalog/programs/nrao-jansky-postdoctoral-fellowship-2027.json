@@ -1,0 +1,32 @@
+{
+ "a": "$75,000 + $17,000/yr research; 2 years",
+ "added": "2026-09-30",
+ "asub": [],
+ "aud": [
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-28",
+ "dt": "Oct 28, 2026, 11:59 pm EDT (letters Nov 11)",
+ "e": "Radio astronomy science, techniques, instrumentation or theory using NRAO facilities. At most 5 years postdoc at the start.",
+ "f": "National Radio Astronomy Observatory; contact Anna Kapinska",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "nrao-jansky-postdoctoral-fellowship-2027",
+ "n": "NRAO: Jansky Postdoctoral Fellowship 2027",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "aas:77bb2a0f",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://science.nrao.edu/opportunities/postdoctoral-programs/jansky",
+ "us": false
+}

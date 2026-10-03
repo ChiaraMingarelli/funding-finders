@@ -1,0 +1,27 @@
+{
+ "a": "not listed; 2 years, renewable",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-01",
+ "dt": "Dec 1, 2026",
+ "e": "ATLAS physics analysis and the ITk tracker upgrade. Requires a PhD in particle physics.",
+ "f": "University of Toronto, Physics; PI Crystal Liao",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "u-toronto-atlas-postdoc",
+ "n": "U. Toronto: ATLAS postdoc",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3205300",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3205300",
+ "us": false
+}

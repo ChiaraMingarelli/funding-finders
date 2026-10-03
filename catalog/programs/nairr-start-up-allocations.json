@@ -1,0 +1,35 @@
+{
+ "a": "Small exploratory allocations",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Compute",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Rolling",
+ "e": "US-based researchers. Coordinator-verified.",
+ "f": "NSF-led NAIRR Pilot",
+ "fields": [
+  "ds",
+  "all"
+ ],
+ "id": "nairr-start-up-allocations",
+ "n": "NAIRR Start-Up allocations",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://nairrpilot.org/",
+ "us": false
+}

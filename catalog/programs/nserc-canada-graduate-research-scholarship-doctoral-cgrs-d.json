@@ -1,0 +1,31 @@
+{
+ "a": "See NSERC",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-10-19",
+ "dt": "Oct 19, 2026 (per coordinator)",
+ "e": "Canadian citizens/PR; tenable abroad under certain conditions.",
+ "f": "NSERC (Canada)",
+ "fields": [
+  "all"
+ ],
+ "id": "nserc-canada-graduate-research-scholarship-doctoral-cgrs-d",
+ "n": "NSERC Canada Graduate Research Scholarship - Doctoral (CGRS D)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "Canada",
+ "s": "open",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://www.nserc-crsng.gc.ca/",
+ "unv": "Date per coordinator; not re-verified on NSERC page",
+ "us": false
+}

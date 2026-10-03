@@ -1,0 +1,32 @@
+{
+ "a": "$15M total for the 2026 competition; 2-3 IRGs per center",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Center/large grant",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last cycle (NSF 26-500): preliminary Jun 23, 2025, full Jan 27, 2026; next competition not announced",
+ "e": "Campus-based materials research centers with 2-3 Interdisciplinary Research Groups, shared facilities and education programs. One preliminary proposal per lead institution; no citizenship restriction.",
+ "f": "NSF MPS/DMR",
+ "fields": [
+  "mat",
+  "cmx",
+  "cmt",
+  "phot"
+ ],
+ "id": "nsf-mrsec-centers",
+ "n": "NSF Materials Research Science and Engineering Centers (MRSEC)",
+ "nom": true,
+ "s": "watch",
+ "src": "other:nsf-mrsec",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers",
+ "unv": "Next competition date not posted.",
+ "us": false
+}

@@ -1,0 +1,28 @@
+{
+ "a": "Assistant Professor, tenure-track",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-10-11",
+ "dt": "Full consideration for applications completed by Oct 11, 2026",
+ "e": "Theoretical or computational physicist. Start Sept 2027.",
+ "f": "Dept. of Physics & Astronomy, Williams College",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-williams-college-tt-asst-prof-of-physics-theory-compu",
+ "n": "Williams College: TT Asst Prof of Physics (theory/computation)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "other:physicstoday-41984033",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://jobs.physicstoday.org/job/41984033/",
+ "us": false
+}

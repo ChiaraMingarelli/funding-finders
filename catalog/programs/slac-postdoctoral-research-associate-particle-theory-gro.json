@@ -1,0 +1,31 @@
+{
+ "a": "3 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-11-15",
+ "dt": "2026/11/15 23:59:59 (time zone not stated on page)",
+ "e": "All areas of particle physics, QFT/amplitudes and the particle-astroparticle interface; 1-2 positions. Start by Oct 1, 2027.",
+ "f": "Stanford University / SLAC, Elementary Particle Physics Theory Group (Miguel Correia, Lance Dixon, Alexander Friedland, Rebecca Leane, Bernhard Mistlberger, Thomas Rizzo, Philip Schuster, Natalia Toro)",
+ "fields": [
+  "ppt",
+  "astro"
+ ],
+ "id": "slac-postdoctoral-research-associate-particle-theory-gro",
+ "n": "SLAC: Postdoctoral Research Associate, Particle Theory Group",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32870",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32870",
+ "us": false
+}

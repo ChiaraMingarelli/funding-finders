@@ -1,0 +1,28 @@
+{
+ "a": "Faculty, rank open (tenure-track/tenured)",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-11-01",
+ "dt": "Consideration begins Nov 1, 2026; AJO deadline Feb 28, 2027",
+ "e": "All areas of experimental and theoretical physics. Applications go through applications.caltech.edu/job/physics.",
+ "f": "Division of Physics, Mathematics & Astronomy, Caltech",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-caltech-faculty-position-experimental-or-theoretical-",
+ "n": "Caltech: Faculty Position, Experimental or Theoretical Physics",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32612",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32612",
+ "us": false
+}

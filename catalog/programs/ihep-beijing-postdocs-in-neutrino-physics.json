@@ -1,0 +1,35 @@
+{
+ "a": "CNY 300,000-500,000/yr before tax; 2 years + 1-2 renewal",
+ "added": "2026-09-30",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": null,
+ "dt": "interviews ongoing until filled",
+ "e": "Reactor neutrino oscillation measurements, diffuse supernova neutrino background, supernova burst neutrinos and core-collapse simulation. International applicants welcome; Chinese not required.",
+ "f": "Institute of High Energy Physics, CAS, Experimental Physics Division, Neutrino Group (Yi Jia)",
+ "fields": [
+  "nux",
+  "ppx",
+  "astro"
+ ],
+ "id": "ihep-beijing-postdocs-in-neutrino-physics",
+ "n": "IHEP Beijing: Postdocs in Neutrino Physics",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:29978",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/29978",
+ "us": false
+}

@@ -1,0 +1,29 @@
+{
+ "a": "Tenure-track Assistant/Associate/Full Professor",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-11-25",
+ "dt": "Deadline Nov 25, 2026",
+ "e": "Areas include compact objects, transients, AGN, lensing and multi-messenger astrophysics.",
+ "f": "Dept. of Physics & HK Institute for Astronomy and Astrophysics, University of Hong Kong",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "fj-univ-of-hong-kong-tt-asst-assoc-full-prof-astrophysic",
+ "n": "Univ. of Hong Kong: TT Asst/Assoc/Full Prof, Astrophysics & Astronomy",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:56740617",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://jobs.hku.hk/en/job/537203/tenuretrack-professorassociate-professorassistant-professor-in-astrophysics-and-astronomy-in-the-department-of-physics",
+ "us": false
+}

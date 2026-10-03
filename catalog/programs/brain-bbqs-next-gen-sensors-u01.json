@@ -1,0 +1,35 @@
+{
+ "a": "Budget not capped; up to 5 years",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": "2027-06-15",
+ "dt": "Jun 15, 2027 (last listed date)",
+ "e": "Develops next-generation sensors and bioelectronic devices that capture behavior and synchronize with brain recordings, for computational models of behavior. No citizenship restriction.",
+ "f": "NIH BRAIN Initiative (NIMH)",
+ "fields": [
+  "bio",
+  "dev",
+  "inst"
+ ],
+ "id": "brain-bbqs-next-gen-sensors-u01",
+ "n": "NIH BRAIN BBQS: Next Generation Sensor Technology Development (U01, RFA-MH-26-140)",
+ "nofo": [
+  {
+   "opp": "RFA-MH-26-140",
+   "u": "https://simpler.grants.gov/opportunity/b2df416d-b6cd-4412-bb34-6984d8a9f8b4"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:RFA-MH-26-140",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-26-140.html",
+ "us": false
+}

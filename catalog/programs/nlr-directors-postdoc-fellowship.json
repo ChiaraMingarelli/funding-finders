@@ -1,0 +1,29 @@
+{
+ "a": "Premium salary; 2 years plus possible 3rd year",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Annual window Jan 1–Mar 31 (next: 2027)",
+ "e": "Fellowship for PhDs within 2 years of the deadline to pursue innovative energy-technology research with an NLR mentor. Citizenship requirements not stated.",
+ "f": "National Laboratory of the Rockies (formerly National Renewable Energy Laboratory)",
+ "fields": [
+  "energy",
+  "mat",
+  "dev"
+ ],
+ "id": "nlr-directors-postdoc-fellowship",
+ "n": "National Laboratory of the Rockies (formerly NREL): Director's Postdoctoral Fellowship",
+ "nom": false,
+ "pt": "prize",
+ "s": "watch",
+ "src": "other:nlr-directors",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.nlr.gov/careers/directors-fellowship",
+ "us": false
+}

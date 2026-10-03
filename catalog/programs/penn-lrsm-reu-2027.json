@@ -1,0 +1,30 @@
+{
+ "a": "$7,000 stipend + dorm housing + travel assistance",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Applications open Nov 2026; program Jun 1-Aug 6, 2027",
+ "e": "Ten-week materials research program at Penn's MRSEC for undergraduates, mainly those finishing their junior year. US citizens or permanent residents.",
+ "f": "University of Pennsylvania LRSM (NSF MRSEC)",
+ "fields": [
+  "mat",
+  "cmx",
+  "bio",
+  "phot"
+ ],
+ "id": "penn-lrsm-reu-2027",
+ "n": "Penn LRSM NSF-REU Summer Research Fellowships 2027",
+ "nom": false,
+ "s": "watch",
+ "src": "other:lrsm-reu",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.lrsm.upenn.edu/outreach/reu/",
+ "unv": "2027 deadline not posted (historically Feb 1)",
+ "us": true
+}

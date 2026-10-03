@@ -1,0 +1,32 @@
+{
+ "a": "Initially two years, possible extension; salary not listed",
+ "added": "2026-10-02",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-02",
+ "d": "2026-12-31",
+ "dt": "INSPIRE deadline Dec 31, 2026",
+ "e": "Postdoctoral research associate developing discharge-capillary plasma sources for laser wakefield acceleration, with experiments at CLARA/FEBE, EPAC and ELI. No citizenship limit stated.",
+ "f": "University of Manchester / Cockcroft Institute",
+ "fields": [
+  "inst"
+ ],
+ "id": "manchester-plasma-acceleration-postdoc",
+ "n": "University of Manchester / Cockcroft Institute: Postdoc in Plasma Acceleration",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3206656",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3206656",
+ "unv": "No official university job-portal link given; deadline taken from INSPIRE record",
+ "us": false
+}

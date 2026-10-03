@@ -1,0 +1,32 @@
+{
+ "a": "Tenure-track research associate professor; one or two positions, start 2027; salary not listed",
+ "added": "2026-10-02",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-02",
+ "d": "2027-01-15",
+ "dt": "Deadline Jan 15, 2027",
+ "e": "One or two tenure-track research positions in theoretical particle, hadron, nuclear physics, particle astrophysics, cosmology or quantum gravity; requires a PhD plus at least three years of postdoc experience. No citizenship limit stated.",
+ "f": "Institute of High Energy Physics, Chinese Academy of Sciences",
+ "fields": [
+  "ppt",
+  "nut",
+  "astro",
+  "grav"
+ ],
+ "id": "fj-ihep-theory-tt-research-assoc-prof",
+ "n": "IHEP Beijing: Tenure-Track Research Associate Professor, Theoretical Physics Division",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3208715",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://inspirehep.net/jobs/3208715",
+ "unv": "No separate official application URL; applications go by email to the division",
+ "us": false
+}

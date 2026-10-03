@@ -1,0 +1,31 @@
+{
+ "a": "Competitive salary; up to 4 years",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Annual deadline April 15",
+ "e": "Supports PhD students doing dissertation research at LLNL with an LLNL supervisor on the thesis committee; scholars spend about 75% of the year at the lab.",
+ "f": "Lawrence Livermore National Laboratory",
+ "fields": [
+  "all",
+  "mat",
+  "phot",
+  "dev",
+  "energy"
+ ],
+ "id": "llnl-graduate-scholar-program",
+ "n": "Livermore Graduate Scholar Program (LGSP)",
+ "nom": false,
+ "s": "watch",
+ "src": "other:lgsp",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://lgsp.llnl.gov/",
+ "unv": "Citizenship requirements not verified (page fetch failed)",
+ "us": false
+}

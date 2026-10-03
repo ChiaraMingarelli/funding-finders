@@ -1,0 +1,27 @@
+{
+ "a": "Up to $5,000; up to 4 awards",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": "2027-01-15",
+ "dt": "Annual deadline Jan 15",
+ "e": "Summer support (June-September) for graduate students working in electrochemistry and solid-state science fields covered by ECS. Applicants must be ECS members.",
+ "f": "The Electrochemical Society",
+ "fields": [
+  "energy",
+  "mat"
+ ],
+ "id": "ecs-summer-fellowships",
+ "n": "ECS Summer Fellowships",
+ "nom": false,
+ "s": "open",
+ "src": "other:ecs-summer",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://www.electrochem.org/summer-fellowships",
+ "us": false
+}

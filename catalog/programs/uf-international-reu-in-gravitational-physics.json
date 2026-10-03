@@ -1,0 +1,34 @@
+{
+ "a": "Stipend at a GW group abroad",
+ "added": "2026-09-29",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Historically ~Jan 12",
+ "e": "Confirm the program is running in 2027.",
+ "f": "NSF / U Florida",
+ "fields": [
+  "grav"
+ ],
+ "id": "uf-international-reu-in-gravitational-physics",
+ "n": "UF International REU in Gravitational Physics",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://ireu.phys.ufl.edu/",
+ "unv": "2027 status",
+ "us": false
+}

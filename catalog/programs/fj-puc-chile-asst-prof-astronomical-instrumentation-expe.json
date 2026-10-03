@@ -1,0 +1,28 @@
+{
+ "a": "Assistant Professor, tenure-track",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-10-15",
+ "dt": "Deadline Oct 15, 2026",
+ "e": "Instrumentation (optical/IR/radio), detectors, software, astroinformatics/AI.",
+ "f": "Institute of Astrophysics, Pontificia Universidad Católica de Chile",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-puc-chile-asst-prof-astronomical-instrumentation-expe",
+ "n": "PUC Chile: Asst Prof, Astronomical Instrumentation & Experimental Astrophysics",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:49066b4c",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://form.jotform.com/261754150542655",
+ "us": false
+}

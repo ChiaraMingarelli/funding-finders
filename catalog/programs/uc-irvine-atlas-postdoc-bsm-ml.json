@@ -1,0 +1,27 @@
+{
+ "a": "not listed",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-31",
+ "dt": "Dec 31, 2026",
+ "e": "ATLAS BSM searches and ML tool development. Requires a PhD in particle physics and 2+ years of LHC experience.",
+ "f": "UC Irvine; PI Daniel Whiteson",
+ "fields": [
+  "ppx",
+  "ds"
+ ],
+ "id": "uc-irvine-atlas-postdoc-bsm-ml",
+ "n": "UC Irvine: ATLAS postdoc (BSM + ML)",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3199926",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://recruit.ap.uci.edu/JPF10427",
+ "us": false
+}

@@ -1,0 +1,34 @@
+{
+ "a": "For instrumentation costs above what a normal single-investigator award covers.",
+ "added": "2026-09-28",
+ "aud": [
+  "yale"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "No direct submission. Request instrumentation inside a proposal to a core PHY program (accepted anytime) and contact the program first.",
+ "e": "Academic physics groups. Large requests may get extra technical, cost or management review.",
+ "f": "NSF MPS/PHY",
+ "fields": [
+  "inst",
+  "ppx",
+  "nux"
+ ],
+ "id": "nsf-advanced-physics-instrumentation-api",
+ "n": "NSF Advanced Physics Instrumentation (API)",
+ "nofo": [
+  {
+   "opp": "26-523",
+   "u": "https://simpler.grants.gov/opportunity/d4e9f37d-0a43-40de-94bb-4d007267df73"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/api-advanced-physics-instrumentation",
+ "us": false
+}

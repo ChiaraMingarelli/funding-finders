@@ -1,0 +1,29 @@
+{
+ "a": "Assistant Professor; salary not listed",
+ "added": "2026-10-02",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-02",
+ "d": "2026-12-11",
+ "dt": "Listed deadline Dec 11, 2026; apply off-site",
+ "e": "Tenure-track assistant professor in quantum information science broadly (computation, algorithms, error correction, sensing, communication), with AI/ML-related work encouraged. No citizenship limit stated.",
+ "f": "University of Minnesota Twin Cities",
+ "fields": [
+  "qp"
+ ],
+ "id": "fj-minnesota-ap-quantum-information",
+ "n": "University of Minnesota: Assistant Professor of Physics, Quantum Information Science",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32850",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32850",
+ "unv": "Near-duplicate listing ajo:32796 shows Dec 15, 2026",
+ "us": true
+}

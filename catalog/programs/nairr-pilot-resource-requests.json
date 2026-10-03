@@ -1,0 +1,35 @@
+{
+ "a": "GPU/cloud/model allocations",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Compute",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Monthly, by the 15th",
+ "e": "US-based researchers and educators. Coordinator-verified.",
+ "f": "NSF-led NAIRR Pilot",
+ "fields": [
+  "ds",
+  "all"
+ ],
+ "id": "nairr-pilot-resource-requests",
+ "n": "NAIRR Pilot (resource requests)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://nairrpilot.org/",
+ "us": false
+}

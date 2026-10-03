@@ -1,0 +1,37 @@
+{
+ "a": "TV-L E13, 100%; 3-year fixed term",
+ "added": "2026-10-02",
+ "asub": [
+  "inst",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-02",
+ "d": "2026-10-11",
+ "dt": "Apply by 11 Oct 2026 (email)",
+ "e": "Postdoc at the AEI 10m Prototype designing and building an inter-platform interferometric motion sensor for the Einstein Telescope. Needs a physics or optics degree (doctorate and GW instrumentation experience preferred); no citizenship limits stated.",
+ "f": "Leibniz University Hannover, Institute for Gravitational Physics",
+ "fields": [
+  "grav",
+  "inst"
+ ],
+ "id": "hannover-et-suspension-platform-ifo-postdoc",
+ "n": "Leibniz University Hannover: Postdoc in GW Detector Instrumentation (Einstein Telescope suspension platform interferometer)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:laac-hannover-et-spi",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.uni-hannover.de/en/jobs/id/8702/",
+ "us": false
+}

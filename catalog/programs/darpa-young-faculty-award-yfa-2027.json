@@ -1,0 +1,33 @@
+{
+ "a": "Up to $500K over 24-month base plus an optional 12-month $500K (Director's Fellowship)",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "YFA 2027 call not posted yet; DARPA says the annual call usually posts in September or October. YFA 2026 executive summaries were due Oct 15, 2025",
+ "e": "Current tenure-track assistant or associate professors, or tenured faculty within 3 years of tenure date, at US institutions. OPEN to US citizens, permanent residents AND foreign nationals. Excluded if prior DARPA funding exceeds $500K (or all DoD funding exceeds $1.25M).",
+ "f": "DARPA",
+ "fields": [
+  "all",
+  "amo",
+  "cmx",
+  "qp",
+  "inst"
+ ],
+ "id": "darpa-young-faculty-award-yfa-2027",
+ "n": "DARPA Young Faculty Award (YFA) 2027",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.darpa.mil/work-with-us/communities/academia/young-faculty-award",
+ "unv": "2027 dates and eligibility not yet posted. Details are from YFA 2026.",
+ "us": false
+}

@@ -1,0 +1,37 @@
+{
+ "a": "Grants.gov lists an award minimum of $10,000,000",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Center/large grant",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "White-paper intake paused Sept 15, 2026 for system upgrades; reopening expected November 2026 (BAA open to Sept 30, 2029)",
+ "e": "Funds research, prototyping and commercial projects in U.S. microelectronics, including work linked to AI, quantum technology, biotechnology and standards. A white paper comes first. Domestic universities, nonprofits and companies may apply.",
+ "f": "NIST CHIPS Research and Development Office",
+ "fields": [
+  "dev",
+  "mat",
+  "qp",
+  "phot"
+ ],
+ "id": "nist-chips-crdo-baa",
+ "n": "NIST CHIPS R&D Office (CRDO) Broad Agency Announcement",
+ "nofo": [
+  {
+   "opp": "2025-NIST-CHIPS-CRDO-01",
+   "u": "https://simpler.grants.gov/opportunity/249fc5ce-1932-4e73-a660-4e1a5582ecfe"
+  }
+ ],
+ "nom": false,
+ "s": "watch",
+ "src": "grants:2025-NIST-CHIPS-CRDO-01",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nist.gov/chips/chips-rd-funding-opportunities/crdo-broad-agency-announcement-baa",
+ "unv": "The award-size field on grants.gov is ambiguous. The exact reopening date is not posted.",
+ "us": false
+}

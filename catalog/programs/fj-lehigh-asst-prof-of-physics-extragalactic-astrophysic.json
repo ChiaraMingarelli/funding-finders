@@ -1,0 +1,28 @@
+{
+ "a": "Assistant Professor, tenure-track",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-12-01",
+ "dt": "Review begins Dec 1, 2026; open until filled",
+ "e": "Extragalactic astrophysics broadly defined; observational, theoretical, computational or data-intensive. Start July 1, 2027.",
+ "f": "Dept. of Physics, Lehigh University",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-lehigh-asst-prof-of-physics-extragalactic-astrophysic",
+ "n": "Lehigh: Asst Prof of Physics (Extragalactic Astrophysics)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "aas:2cf0e886",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://apply.interfolio.com/193844",
+ "us": false
+}

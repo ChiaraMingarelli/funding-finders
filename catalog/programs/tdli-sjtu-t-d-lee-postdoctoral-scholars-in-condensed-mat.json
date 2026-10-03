@@ -1,0 +1,30 @@
+{
+ "a": "RMB 312,000/yr + RMB 50,000/yr research grant (or CNY 450,000 as Siyuan fellow); 3 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2027-02-28",
+ "dt": "2027/02/28 23:59:59 (time zone not stated on page)",
+ "e": "Topological/unconventional superconductivity, low-dimensional quantum transport, correlated systems, quantum information/optics and Casimir physics. Three letters.",
+ "f": "Shanghai Jiao Tong University, Tsung-Dao Lee Institute, Condensed Matter Division",
+ "fields": [
+  "cmt",
+  "cmx",
+  "qp",
+  "amo"
+ ],
+ "id": "tdli-sjtu-t-d-lee-postdoctoral-scholars-in-condensed-mat",
+ "n": "TDLI (SJTU): T.D. Lee Postdoctoral Scholars in Condensed Matter Physics",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32788",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32788",
+ "us": false
+}

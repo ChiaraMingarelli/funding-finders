@@ -1,0 +1,32 @@
+{
+ "a": "10 weeks: $7,500 new undergrad, $9,000 returning undergrad, $11,500 graduate",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-03",
+ "d": "2026-11-30",
+ "dt": "Applications open through Nov 30, 2026",
+ "e": "Ten-week summer research at Navy laboratories (including NRL) for sophomores through graduate students at participating universities. US citizens; permanent residents considered at some labs.",
+ "f": "Office of Naval Research",
+ "fields": [
+  "phot",
+  "dev",
+  "mat",
+  "qp",
+  "all"
+ ],
+ "id": "nreip-summer-2027",
+ "n": "Naval Research Enterprise Internship Program (NREIP), Summer 2027",
+ "nom": false,
+ "s": "open",
+ "src": "other:nreip",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://www.onr.navy.mil/education-outreach/undergraduate-graduate/nreip-naval-internship",
+ "unv": "Whether Yale is a participating university not verified",
+ "us": false
+}

@@ -1,0 +1,31 @@
+{
+ "a": "About $9,000 for the summer; 14–16 weeks from early May",
+ "added": "2026-10-01",
+ "aud": [
+  "ng",
+  "radar"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "2026 deadline was Feb 27, 2026; 2027 call not yet posted",
+ "e": "For undergraduates enrolled at a Canadian university in physics, astrophysics or related fields. Funds a summer project with any TSI faculty member, including McGill's radio/pulsar/FRB groups.",
+ "f": "Trottier Space Institute, McGill University",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "tsi-summer-undergraduate-research-award-mcgill",
+ "n": "TSI Summer Undergraduate Research Award (McGill)",
+ "nfit": "High",
+ "nom": false,
+ "region": "Canada",
+ "s": "watch",
+ "src": "other:tsi",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://tsi.mcgill.ca/?page=summer-undergraduate-research-award",
+ "unv": "2027 dates not posted",
+ "us": false
+}

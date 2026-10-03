@@ -1,0 +1,31 @@
+{
+ "a": "competitive; not specified",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Rolling review with no fixed deadline; INSPIRE listing runs to Apr 30, 2027.",
+ "e": "Magnetic monopoles, cosmic rays and exotics. Requires a PhD and Geant4/CORSIKA and Python/ROOT skills.",
+ "f": "Institute of High Energy Physics, Beijing; contact Igor Ostrovskiy",
+ "fields": [
+  "ppx",
+  "astro"
+ ],
+ "id": "ihep-beijing-postdocs-in-magnetic-monopoles-cosmic-rays",
+ "n": "IHEP Beijing: Postdocs in magnetic monopoles & cosmic rays",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "rolling",
+ "src": "inspire:3149734",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3149734",
+ "us": false
+}

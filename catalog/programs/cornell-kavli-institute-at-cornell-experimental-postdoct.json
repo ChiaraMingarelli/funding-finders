@@ -1,0 +1,28 @@
+{
+ "a": "$80,000/yr + research account; 2-3 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-15",
+ "dt": "2026/10/15 23:59:59 (time zone not stated on page)",
+ "e": "Experimental nanoscale science and next-generation tool development. Within 18 months of PhD; needs two Cornell faculty sponsors plus a KIC Executive Committee member.",
+ "f": "Cornell University, Kavli Institute at Cornell for Nanoscale Science (KIC)",
+ "fields": [
+  "cmx",
+  "inst"
+ ],
+ "id": "cornell-kavli-institute-at-cornell-experimental-postdoct",
+ "n": "Cornell: Kavli Institute at Cornell Experimental Postdoctoral Fellowships",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32586",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32586",
+ "us": false
+}

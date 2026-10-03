@@ -1,0 +1,33 @@
+{
+ "a": "JWST observing time; NASA funding for US-based investigators",
+ "added": "2026-10-03",
+ "asub": [],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Cycle 6 closed 1 Oct 2026, 5 pm ET (extended from 30 Sep after an APT outage); Cycle 7 timeline not posted",
+ "e": "Webb's annual call for observing and archival proposals. Open to scientists worldwide, including student and postdoc PIs (US students and postdocs may need an administrative PI); funding goes only to US institutions.",
+ "f": "STScI / NASA",
+ "fields": [
+  "astro"
+ ],
+ "id": "jwst-cycle-7-go",
+ "n": "JWST General Observer (Cycle 7)",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "watch",
+ "src": "other:jwst-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://jwst-docs.stsci.edu/jwst-opportunities-and-policies",
+ "unv": "Cycle 7 dates not announced",
+ "us": false
+}

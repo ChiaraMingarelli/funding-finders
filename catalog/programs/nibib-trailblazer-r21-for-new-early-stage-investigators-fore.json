@@ -1,0 +1,33 @@
+{
+ "a": "not listed",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Notice of intent posted 2025-06-11; est. post 2025-11-21 and est. due 2026-02-16 have passed - check NIBIB for current Trailblazer NOFO",
+ "e": "New and Early Stage Investigators. Research integrating engineering and physical sciences with life/biomedical sciences.",
+ "f": "NIH NIBIB",
+ "fields": [
+  "bio",
+  "inst"
+ ],
+ "id": "nibib-trailblazer-r21-for-new-early-stage-investigators-fore",
+ "n": "NIBIB Trailblazer R21 for New/Early-Stage Investigators - forecast",
+ "nofo": [
+  {
+   "opp": "FOR-EB-26-001",
+   "u": "https://simpler.grants.gov/opportunity/9f06c317-b398-4482-89b1-57bcf35363f3"
+  }
+ ],
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "tt"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/9f06c317-b398-4482-89b1-57bcf35363f3",
+ "us": false
+}

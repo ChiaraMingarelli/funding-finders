@@ -1,0 +1,29 @@
+{
+ "a": "at least RMB 300K/yr; 2 years + 1",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": null,
+ "dt": "no deadline stated",
+ "e": "Ultracold atoms, atom-array quantum computation, non-equilibrium quantum matter and quantum machine learning.",
+ "f": "Tsinghua University, Institute for Advanced Study (Hui Zhai)",
+ "fields": [
+  "amo",
+  "cmt",
+  "qp"
+ ],
+ "id": "tsinghua-ias-postdocs-in-theoretical-quantum-matter-zhai",
+ "n": "Tsinghua IAS: Postdocs in Theoretical Quantum Matter (Zhai group)",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:31453",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/31453",
+ "us": false
+}

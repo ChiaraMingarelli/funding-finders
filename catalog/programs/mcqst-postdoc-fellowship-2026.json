@@ -1,0 +1,32 @@
+{
+ "a": "Fully funded; 2 years",
+ "added": "2026-10-02",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-02",
+ "d": "2026-10-24",
+ "dt": "24 Oct 2026, 23:59 CET; letters by 31 Oct",
+ "e": "Competitive two-year fellowship. Applicants apply without a set group and choose an MCQST host PI during selection. Open worldwide to PhDs (or near-PhDs) in physics, math, CS, chemistry or engineering.",
+ "f": "Munich Center for Quantum Science and Technology (MCQST)",
+ "fields": [
+  "qp",
+  "amo",
+  "cmt"
+ ],
+ "id": "mcqst-postdoc-fellowship-2026",
+ "n": "MCQST Munich: Postdoc Fellowship in Quantum Science and Technology",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "other:quantiki-mcqst-postdoc-fellowship",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.mcqst.de/support/postdoctoral-programs/postdoc-fellowship.html",
+ "us": false
+}

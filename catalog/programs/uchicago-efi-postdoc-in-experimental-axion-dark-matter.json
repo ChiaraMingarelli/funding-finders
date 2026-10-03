@@ -1,0 +1,27 @@
+{
+ "a": "$63,480-$93,640",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2027-01-01",
+ "dt": "rolling review since Sep 1, 2026; closes 2027/01/01",
+ "e": "Resonant-cavity and broadband axion detection; low-noise RF/microwave and cryogenics experience preferred. Within 7 years of PhD.",
+ "f": "University of Chicago, Enrico Fermi Institute & Fermilab (David W. Miller, Andrew Sonnenschein)",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "uchicago-efi-postdoc-in-experimental-axion-dark-matter",
+ "n": "UChicago EFI: Postdoc in Experimental Axion Dark Matter",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32581",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32581",
+ "us": false
+}

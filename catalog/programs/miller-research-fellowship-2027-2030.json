@@ -1,0 +1,34 @@
+{
+ "a": "$95,000 stipend rising 3%/yr + $10k/yr research fund; 3 yrs",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-10-09",
+ "dt": "Nominations closed Sep 10, 2026; nominee application due Oct 9, 2026, 11:59 pm PT",
+ "e": "PhD between Jan 1, 2025 and Aug 31, 2027; at most 2 yrs of prior postdoc; must be nominated and have a Berkeley host.",
+ "f": "Miller Institute, UC Berkeley",
+ "fields": [
+  "all",
+  "amo",
+  "cmx",
+  "cmt",
+  "qp"
+ ],
+ "id": "miller-research-fellowship-2027-2030",
+ "n": "Miller Research Fellowship (2027-2030)",
+ "nfit": "Low",
+ "nom": true,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://miller.berkeley.edu/nominate-apply/miller-research-fellowship",
+ "us": false
+}

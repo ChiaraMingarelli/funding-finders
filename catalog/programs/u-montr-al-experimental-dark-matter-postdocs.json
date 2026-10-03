@@ -1,0 +1,36 @@
+{
+ "a": "not listed; multiple positions",
+ "added": "2026-09-30",
+ "asub": [
+  "cos",
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-09",
+ "dt": "Oct 9, 2026",
+ "e": "Direct dark matter detection with SENSEI, PICO and SuperCDMS. Requires a PhD in particle physics and instrumentation expertise.",
+ "f": "Université de Montréal; PI Alan Robinson",
+ "fields": [
+  "ppx",
+  "inst",
+  "astro"
+ ],
+ "id": "u-montr-al-experimental-dark-matter-postdocs",
+ "n": "U. Montréal: Experimental dark matter postdocs",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "Canada",
+ "s": "open",
+ "src": "inspire:3205034",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3205034",
+ "us": false
+}

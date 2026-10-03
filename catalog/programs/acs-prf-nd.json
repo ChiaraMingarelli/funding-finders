@@ -1,0 +1,29 @@
+{
+ "a": "not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Foundation",
+ "checked": "2026-10-03",
+ "d": "2026-10-09",
+ "dt": "Fall 2026 deadline",
+ "e": "Seed grants for faculty at PhD-granting nonprofit institutions to start research in an area new to the PI and related to the petroleum field, with little or no preliminary data. At least 60% of the budget must support students.",
+ "f": "American Chemical Society Petroleum Research Fund",
+ "fields": [
+  "mat",
+  "energy"
+ ],
+ "id": "acs-prf-nd",
+ "n": "ACS Petroleum Research Fund: New Directions (ND) Grants",
+ "nom": false,
+ "s": "open",
+ "src": "other:acs-prf",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.acs.org/funding/grants/petroleum-research-fund/programs.html",
+ "unv": "acs.org blocks automated access. Secondary listings give the Oct 9 2026 deadline and amounts of either $110K or $125K over 2 years, so confirm on the ACS page.",
+ "us": false
+}

@@ -1,0 +1,31 @@
+{
+ "a": "Stipend paid (amount varies; see Stipends page)",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-03",
+ "d": "2027-01-11",
+ "dt": "Applications open Oct 12, 2026; close Jan 11, 2027",
+ "e": "Paid summer research internships at AFRL sites for undergraduate and graduate STEM students. US citizens only; background check required.",
+ "f": "Air Force Research Laboratory / USRA",
+ "fields": [
+  "phot",
+  "dev",
+  "mat",
+  "qp",
+  "energy"
+ ],
+ "id": "afrl-scholars-2027",
+ "n": "AFRL Scholars Program (Summer 2027)",
+ "nom": false,
+ "s": "open",
+ "src": "other:afrl-scholars",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://afrlscholars.usra.edu/scholarsprogram/dates/",
+ "us": true
+}

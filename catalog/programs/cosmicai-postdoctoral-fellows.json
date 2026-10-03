@@ -1,0 +1,32 @@
+{
+ "a": "—",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Last cycle Dec 2025 – Jan 2026",
+ "e": "No 2027 call yet.",
+ "f": "UT Austin / NRAO (NSF-Simons AI Institute)",
+ "fields": [
+  "astro",
+  "ds"
+ ],
+ "id": "cosmicai-postdoctoral-fellows",
+ "n": "CosmicAI Postdoctoral Fellows",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://cosmicai.org/jobs",
+ "unv": "2027 call not posted",
+ "us": false
+}

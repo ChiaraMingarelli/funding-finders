@@ -1,0 +1,33 @@
+{
+ "a": "Stipend + research funds, up to 3 yr",
+ "added": "2026-09-29",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-11-05",
+ "dt": "7 pm EST; letters Nov 19",
+ "e": "Focused on observational cosmology. Held at 15 US host institutions.",
+ "f": "Brinson Foundation / STScI",
+ "fields": [
+  "astro"
+ ],
+ "id": "brinson-prize-fellowship-stsci",
+ "n": "Brinson Prize Fellowship (STScI)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program",
+ "us": false
+}

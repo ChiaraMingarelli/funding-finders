@@ -1,0 +1,33 @@
+{
+ "a": "$110K/yr ($85K stipend plus $25K allowance) for 24 months",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": "2027-09-28",
+ "dt": "Next deadline Sept 28, 2027 (fourth Tuesday of September each year)",
+ "e": "US citizens, nationals or permanent residents with at most 15 months of post-PhD work. The program now has a single track, Intersection of AI and Biological Sciences, and biomedically focused proposals are returned.",
+ "f": "NSF BIO",
+ "fields": [
+  "bio",
+  "ds"
+ ],
+ "id": "nsf-postdoctoral-research-fellowships-in-biology-prfb-nsf-26",
+ "n": "NSF Postdoctoral Research Fellowships in Biology (PRFB, NSF 26-504)",
+ "nofo": [
+  {
+   "opp": "26-504",
+   "u": "https://simpler.grants.gov/opportunity/26ddba31-5cad-48a7-9b78-ac5a5e15154a"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/prfb-postdoctoral-research-fellowships-biology/nsf26-504/solicitation",
+ "us": true
+}

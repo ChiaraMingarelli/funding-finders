@@ -1,0 +1,23 @@
+{
+ "a": "not listed; 1+1 years",
+ "added": "2026-09-30",
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-31",
+ "dt": "Oct 31, 2026",
+ "e": "Femtoscopy and heavy-ion physics (RHIC/STAR, CBM). Requires a heavy-ion physics PhD from 2023 or later and experimental analysis experience.",
+ "f": "Eötvös Loránd University; PI Máté Csanád",
+ "fields": [
+  "nux"
+ ],
+ "id": "elte-budapest-experimental-heavy-ion-physics-postdoc",
+ "n": "ELTE Budapest: Experimental heavy-ion physics postdoc",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3204301",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://femto.elte.hu/position/postdoc.html",
+ "us": false
+}

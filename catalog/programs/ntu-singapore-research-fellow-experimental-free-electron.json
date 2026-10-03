@@ -1,0 +1,28 @@
+{
+ "a": "not listed",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-31",
+ "dt": "Oct 31, 2026",
+ "e": "Experimental free-electron X-ray nanophotonics and phase-contrast imaging. Requires a PhD in physics or engineering; SEM/TEM familiarity preferred.",
+ "f": "Nanyang Technological University; group of Liang Jie Wong",
+ "fields": [
+  "amo",
+  "inst"
+ ],
+ "id": "ntu-singapore-research-fellow-experimental-free-electron",
+ "n": "NTU Singapore: Research Fellow, experimental free-electron X-ray nanophotonics",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3198259",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://sites.google.com/view/ljwgroup",
+ "us": false
+}

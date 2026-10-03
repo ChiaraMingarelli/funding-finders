@@ -1,0 +1,33 @@
+{
+ "a": "Stipend + tuition support for up to 2 yrs",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-10-29",
+ "dt": "Oct 29, 2026, 2 pm ET",
+ "e": "Immigrants or children of immigrants applying to or in the first two years of a US graduate program; age limit applies.",
+ "f": "Paul & Daisy Soros Fellowships",
+ "fields": [
+  "all"
+ ],
+ "id": "paul-daisy-soros-fellowships-for-new-americans-2027",
+ "n": "Paul & Daisy Soros Fellowships for New Americans (2027)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "gr",
+  "ug"
+ ],
+ "u": "https://www.pdsoros.org/apply",
+ "unv": "Dollar amount and age limit not shown on apply page",
+ "us": false
+}

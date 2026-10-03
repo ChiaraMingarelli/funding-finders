@@ -1,0 +1,31 @@
+{
+ "a": "$80,000/yr + $12,000/yr; 2 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-02",
+ "dt": "Nov 2, 2026, 7:00 pm EST",
+ "e": "AI/ML methods for Rubin LSST data. PhD awarded Jan 2019–Aug 2027 with a record of AI/ML data-intensive research.",
+ "f": "LSST Discovery Alliance; contact Ana Gabela",
+ "fields": [
+  "astro",
+  "ds"
+ ],
+ "id": "lsst-discovery-alliance-vera-c-rubin-astronomy-frontiers",
+ "n": "LSST Discovery Alliance: Vera C. Rubin Astronomy Frontiers Fellowship",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "aas:8bd99c92",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/8bd99c92",
+ "us": false
+}

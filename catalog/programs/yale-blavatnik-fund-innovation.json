@@ -1,0 +1,29 @@
+{
+ "a": "not listed per award ($3.4M across 23 awards in 2025)",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Yale internal",
+ "checked": "2026-10-03",
+ "d": "2026-10-23",
+ "dt": "Fall Development Awards close Oct 23, 2026, 11:59 pm",
+ "e": "Funding to turn early-stage Yale life-science research (therapeutics, diagnostics, devices) toward commercial use. Digital health projects go to HealthTech Works instead.",
+ "f": "Yale Ventures",
+ "fields": [
+  "bio"
+ ],
+ "id": "yale-blavatnik-fund-innovation",
+ "n": "Yale Ventures: Blavatnik Fund for Innovation at Yale (Fall Development Awards)",
+ "nom": false,
+ "s": "open",
+ "src": "other:yale-ventures",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://ventures.yale.edu/programs/the-blavatnik-fund-for-innovation-at-yale",
+ "unv": "The eligibility of non-faculty applicants and award size limits were not checked.",
+ "us": false
+}

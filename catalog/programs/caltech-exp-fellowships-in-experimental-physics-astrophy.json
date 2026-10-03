@@ -1,0 +1,44 @@
+{
+ "a": "$88,000 first year + $10,000/yr research fund; 3 years",
+ "added": "2026-09-30",
+ "asub": [
+  "inst",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-15",
+ "dt": "2026/11/15 23:59:59 (time zone not stated on page)",
+ "e": "Prize fellowship for experimentalists across AMO, biophysics, condensed matter, gravitational, high-energy, low-energy particle, nuclear, QI and experimental/instrumentation astrophysics. Contact faculty about mutual interest; start Fall 2027.",
+ "f": "Caltech, Division of Physics, Mathematics & Astronomy",
+ "fields": [
+  "astro",
+  "amo",
+  "bio",
+  "cmx",
+  "grav",
+  "ppx",
+  "nux",
+  "qp",
+  "inst"
+ ],
+ "id": "caltech-exp-fellowships-in-experimental-physics-astrophy",
+ "n": "Caltech: EXP Fellowships in Experimental Physics & Astrophysics",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32275",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32275",
+ "us": false
+}

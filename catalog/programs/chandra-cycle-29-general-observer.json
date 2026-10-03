@@ -1,0 +1,35 @@
+{
+ "a": "Observing time + funds",
+ "added": "2026-09-29",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Call for proposals usually December (Cycle 28 deadline was Mar 18, 2026)",
+ "e": "Open internationally, but funding goes only to US-based investigators.",
+ "f": "NASA / Chandra X-ray Center",
+ "fields": [
+  "astro"
+ ],
+ "id": "chandra-cycle-29-general-observer",
+ "n": "Chandra Cycle 29 General Observer",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://cxc.harvard.edu/proposer/",
+ "unv": "Cycle 29 dates",
+ "us": false
+}

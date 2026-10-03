@@ -1,0 +1,32 @@
+{
+ "a": "Small, quick-turnaround programs on ESO telescopes",
+ "added": "2026-10-03",
+ "asub": [],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Closed; ESO says FTC 117B will be released in late 2026",
+ "e": "ESO's quick channel for small programs, with staggered deadlines. Open to scientists worldwide.",
+ "f": "European Southern Observatory",
+ "fields": [
+  "astro"
+ ],
+ "id": "eso-fast-track-channel",
+ "n": "ESO Fast Track Channel (FTC 117B)",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "watch",
+ "src": "other:eso-ftc-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://www.eso.org/sci/observing/phase1/fast-track-channel.html",
+ "unv": "FTC 117B release date and deadline",
+ "us": false
+}

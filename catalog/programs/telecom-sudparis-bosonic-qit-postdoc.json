@@ -1,0 +1,30 @@
+{
+ "a": "Fixed-term (24-month CDD per application link); salary not listed",
+ "added": "2026-10-02",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-02",
+ "d": "2026-10-16",
+ "dt": "16 Oct 2026; reviewed on a rolling basis until filled",
+ "e": "Postdoc in Michael G. Jabbour's group on non-Gaussian bosonic systems, quantum channel capacities and bosonic entropy inequalities. PhD in mathematics, physics, CS or related field; no citizenship limits stated.",
+ "f": "Télécom SudParis, Institut Polytechnique de Paris",
+ "fields": [
+  "qp"
+ ],
+ "id": "telecom-sudparis-bosonic-qit-postdoc",
+ "n": "Télécom SudParis (IP Paris): Postdoc in Quantum Information Theory of Bosonic Systems",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:quantiki-telecom-sudparis-bosonic",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://institutminestelecom.recruitee.com/l/en/o/post-doctorante-en-theorie-de-linformation-quantique-des-systemes-bosoniques-cdd-24-mois",
+ "us": false
+}

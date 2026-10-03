@@ -1,0 +1,28 @@
+{
+ "a": "All levels (postdoc to full professor); salary not listed",
+ "added": "2026-10-02",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-02",
+ "d": null,
+ "dt": "No deadline; listing until Oct 30, 2026",
+ "e": "Open positions at all levels in quantum information and computation (error correction, simulation, quantum chemistry, ML for quantum systems). No citizenship limit stated.",
+ "f": "Shanghai Jiao Tong University",
+ "fields": [
+  "qp"
+ ],
+ "id": "fj-sjtu-ins-quantum-info-faculty",
+ "n": "SJTU Institute of Natural Sciences: Faculty in Quantum Information & Computation",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "rolling",
+ "src": "ajo:31325",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/31325",
+ "us": false
+}

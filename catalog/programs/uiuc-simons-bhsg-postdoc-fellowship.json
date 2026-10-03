@@ -1,0 +1,36 @@
+{
+ "a": "2-year fellowship, possible 3rd year; travel funds; start Aug 2027; salary not listed",
+ "added": "2026-10-02",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-02",
+ "d": "2026-12-01",
+ "dt": "Apply by Dec 1, 2026",
+ "e": "Simons-funded fellowships in black holes, strong gravity and gravitational-wave modeling and data analysis, appointed through UIUC Physics but based at any of the 12 Co-PI institutions in the US, Canada and Europe. Open to PhDs in physics or mathematics earned within ten years of the start date; no citizenship limit stated.",
+ "f": "University of Illinois Urbana-Champaign / Simons Foundation",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "uiuc-simons-bhsg-postdoc-fellowship",
+ "n": "Simons Collaboration on Black Holes and Strong Gravity: Postdoctoral Research Fellowships",
+ "nfit": "High",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32907",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32907",
+ "us": true
+}

@@ -1,0 +1,27 @@
+{
+ "a": "$5,000 + travel support",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last posted deadline Jul 15, 2024; annual mid-year cycle",
+ "e": "Award for full-time PhD students in electron-device fields who are EDS student members with an EDS-member faculty sponsor.",
+ "f": "IEEE Electron Devices Society",
+ "fields": [
+  "dev"
+ ],
+ "id": "ieee-eds-phd-fellowship",
+ "n": "IEEE Electron Devices Society PhD Student Fellowship",
+ "nom": true,
+ "s": "watch",
+ "src": "other:ieee-eds",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://eds.ieee.org/education/student-fellowships/phd-student-fellowship",
+ "unv": "Current-cycle deadline not posted",
+ "us": false
+}

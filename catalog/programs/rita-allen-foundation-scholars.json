@@ -1,0 +1,32 @@
+{
+ "a": "Up to $110,000/yr for 5 years (Award in Pain: $50K/yr for 3 years)",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Foundation",
+ "checked": "2026-09-29",
+ "d": "2026-10-14",
+ "dt": "Letter of inquiry closed Sept 3, 2026; the application is due Oct 14, 2026 for invited nominees",
+ "e": "Early-career independent investigators, ideally in the first 3 years on the tenure track. Invited institutions nominate one candidate each. Fields are cancer, immunology, neuroscience and pain.",
+ "f": "Rita Allen Foundation",
+ "fields": [
+  "bio"
+ ],
+ "id": "rita-allen-foundation-scholars",
+ "n": "Rita Allen Foundation Scholars",
+ "nom": true,
+ "s": "open",
+ "stages": [
+  "tt"
+ ],
+ "u": "https://ritaallen.org/scholars/about-the-rita-allen-foundation-scholars/",
+ "us": false,
+ "yale": {
+  "d": "2026-05-25",
+  "t": "Yale internal application for the Rita Allen Scholars 2027 (immunology, neuroscience, cancer; early-career faculty). Apply via InfoReady. This has passed.",
+  "u": "https://research.yale.edu/funding-opportunities-newsletter-archive",
+  "unv": "Source is the May 6 and May 20, 2026 newsletters."
+ }
+}

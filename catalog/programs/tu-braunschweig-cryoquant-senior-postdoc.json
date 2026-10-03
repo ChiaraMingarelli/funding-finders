@@ -1,0 +1,31 @@
+{
+ "a": "not listed",
+ "added": "2026-10-02",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-02",
+ "d": "2026-10-31",
+ "dt": "Deadline 31 Oct 2026",
+ "e": "Senior postdoc running mK experiments on superconducting/magnetic and quantum devices, writing grant proposals, and teaching. Needs a relevant PhD (postdoc experience preferred) and dilution-refrigerator experience; no citizenship limits stated.",
+ "f": "TU Braunschweig (CryoQuant group)",
+ "fields": [
+  "cmx",
+  "qp"
+ ],
+ "id": "tu-braunschweig-cryoquant-senior-postdoc",
+ "n": "TU Braunschweig: Senior Scientist (Senior Postdoc), Cryogenic and Quantum Electronics",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:quantiki-tubs-cryoquant",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.tu-braunschweig.de/emg/cryoquant/open-positions-and-internships",
+ "us": false
+}

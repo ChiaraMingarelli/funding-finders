@@ -1,0 +1,40 @@
+{
+ "a": "CNY 250,000 + X (negotiable) before tax; 1+1 years",
+ "added": "2026-09-30",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-12-31",
+ "dt": "2026/12/31 (no time given)",
+ "e": "Particle, nuclear, astroparticle and cosmology theory/experiment, quantum computing and AI for theoretical physics. PhD required; applicants must be under 35.",
+ "f": "China Center of Advanced Science and Technology (with IHEP, Chinese Academy of Sciences), Beijing",
+ "fields": [
+  "ppt",
+  "ppx",
+  "nut",
+  "nux",
+  "astro",
+  "qp",
+  "ds"
+ ],
+ "id": "ccast-ihep-postdoctoral-fellow-positions",
+ "n": "CCAST/IHEP: Postdoctoral Fellow Positions",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:32628",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32628",
+ "us": false
+}

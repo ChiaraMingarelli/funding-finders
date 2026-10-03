@@ -1,0 +1,30 @@
+{
+ "a": "$20,000/yr for up to 6 terms",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Scholarship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last deadline Oct 1, 2026 (2027-28 competition); the next competition is not posted yet",
+ "e": "For research master's students, mainly in Québec (e.g. McGill). Eligibility (citizenship/PR, Québec residency/RAMQ) follows the FRQ program rules. Funds pulsar/FRB/radio master's work at Québec universities.",
+ "f": "Fonds de recherche du Québec",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "frq-master-s-research-scholarship-b1",
+ "n": "FRQ Master's Research Scholarship (B1)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "Canada",
+ "s": "watch",
+ "src": "other:frq",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://frq.gouv.qc.ca/en/program/masters-research-scholarships-2027-2028-b1-regular-component-and-re-entering-research-component/",
+ "unv": "Detailed B1 citizenship/residency rules not read; assumed similar to B2 but unverified",
+ "us": false
+}

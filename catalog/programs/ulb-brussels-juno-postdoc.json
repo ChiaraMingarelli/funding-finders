@@ -1,0 +1,23 @@
+{
+ "a": "competitive with social security; 3 years",
+ "added": "2026-09-30",
+ "c": "Group postdoc",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "First evaluation round was Sep 15, 2026; the position stays open until filled.",
+ "e": "Neutrino physics in the JUNO collaboration. Requires a PhD and at most 6 years of postdoc experience.",
+ "f": "Université libre de Bruxelles, IIHE; PI Barbara Clerbaux",
+ "fields": [
+  "ppx"
+ ],
+ "id": "ulb-brussels-juno-postdoc",
+ "n": "ULB Brussels: JUNO postdoc",
+ "nom": false,
+ "s": "rolling",
+ "src": "inspire:3176484",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3176484",
+ "us": false
+}

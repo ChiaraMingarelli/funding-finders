@@ -1,0 +1,28 @@
+{
+ "a": "$45,000 per year stipend, full tuition and fees. Renewable up to 4 years, with residencies at NNSA labs.",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2027-02-16",
+ "dt": "Applications for the 2027-28 class due Tuesday 2027-02-16.",
+ "e": "US citizens only, full-time PhD students with 18 or more months left as of the September 1 start.",
+ "f": "DOE NNSA / Krell Institute",
+ "fields": [
+  "nux",
+  "inst",
+  "ds"
+ ],
+ "id": "doe-nnsa-laboratory-residency-graduate-fellowship-lrgf",
+ "n": "DOE NNSA Laboratory Residency Graduate Fellowship (LRGF)",
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://www.krellinst.org/lrgf/how-apply",
+ "us": true
+}

@@ -1,0 +1,26 @@
+{
+ "a": "Up to US$10,000",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Scholarship",
+ "checked": "2026-10-03",
+ "d": "2027-05-30",
+ "dt": "Annual deadline May 30",
+ "e": "Awards for graduate students who are IEEE Photonics Society members working in the Society's fields, normally in the second-to-last year of study. Ten were awarded in 2026.",
+ "f": "IEEE Photonics Society",
+ "fields": [
+  "phot"
+ ],
+ "id": "ieee-photonics-society-graduate-student-scholarship",
+ "n": "IEEE Photonics Society Graduate Student Scholarship",
+ "nom": false,
+ "s": "watch",
+ "src": "other:ieee-photonics",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://ieeephotonics.org/awards/graduate-student-scholarship/",
+ "us": false
+}

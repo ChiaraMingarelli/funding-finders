@@ -1,0 +1,40 @@
+{
+ "a": "3 years; Open Fellowships extendable to 5",
+ "added": "2026-10-01",
+ "asub": [
+  "cos",
+  "xgal",
+  "he",
+  "star"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-01",
+ "d": "2026-10-31",
+ "dt": "Deadline Oct 31, 2026",
+ "e": "Independent postdoctoral fellowships in low-frequency radio astronomy, including pulsars, solar physics, AGN, cosmology and instrumentation, with GMRT/ORT engagement preferred. Apply by email with CV, research plan and three referees.",
+ "f": "National Centre for Radio Astrophysics, Tata Institute of Fundamental Research (Pune)",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "ncra-tifr-jawaharlal-nehru-open-postdoc-fellowships",
+ "n": "NCRA-TIFR: Jawaharlal Nehru & Open Post-Doctoral Fellowships",
+ "nfit": "High",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "aas:fad1bb09",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.ncra.tifr.res.in/jobs/academic/pdf",
+ "unv": "Salary in AAS ad (US$8,000-9,200/month) looks garbled, so not recorded",
+ "us": false
+}

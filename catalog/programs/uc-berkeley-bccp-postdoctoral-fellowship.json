@@ -1,0 +1,36 @@
+{
+ "a": "2 years + possible 1-year extension",
+ "added": "2026-09-30",
+ "asub": [
+  "cos",
+  "xgal",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-15",
+ "dt": "2026/11/15 23:59:59 (time zone not stated on page)",
+ "e": "Cosmology: supernovae, galaxy clustering, weak lensing, CMB, theory and AI for cosmology (Roman, Rubin, DESI, LS4). Start Summer/Fall 2027.",
+ "f": "University of California, Berkeley, Physics - Berkeley Center for Cosmological Physics (BCCP)",
+ "fields": [
+  "astro",
+  "ds"
+ ],
+ "id": "uc-berkeley-bccp-postdoctoral-fellowship",
+ "n": "UC Berkeley: BCCP Postdoctoral Fellowship",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32646",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32646",
+ "us": false
+}

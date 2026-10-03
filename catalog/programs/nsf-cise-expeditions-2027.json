@@ -1,0 +1,35 @@
+{
+ "a": "Up to $15M over 7 years; ~4 awards",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Center/large grant",
+ "checked": "2026-10-03",
+ "d": "2026-12-02",
+ "dt": "Preliminary proposal (required) Dec 2, 2026; full proposal Jul 27, 2027; biennial",
+ "e": "Large multi-investigator projects on ambitious computing research, including new hardware and compute substrates for intelligence and physical theories of learning. Each person may be on only one preliminary proposal as PI, co-PI or senior personnel; no organizational limit and no citizenship restriction.",
+ "f": "NSF CISE",
+ "fields": [
+  "ds",
+  "qp",
+  "dev"
+ ],
+ "id": "nsf-cise-expeditions-2027",
+ "n": "NSF Expeditions in Computing (NSF 26-525)",
+ "nofo": [
+  {
+   "opp": "26-525",
+   "u": "https://simpler.grants.gov/opportunity/f318a7c0-5e0d-40d7-8d3b-d6c077adc198"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:26-525",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/expeditions-expeditions-computing/nsf26-525/solicitation",
+ "us": false
+}

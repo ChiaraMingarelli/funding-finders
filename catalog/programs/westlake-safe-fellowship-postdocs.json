@@ -1,0 +1,38 @@
+{
+ "a": "SAFE: salary said to be comparable to top US fellowships plus 150,000 RMB/yr research budget, 2 yr likely extended to 3; group postdocs 2 yr, extendable",
+ "added": "2026-10-02",
+ "asub": [
+  "cos",
+  "exo",
+  "xgal",
+  "star",
+  "ism"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-02",
+ "d": "2026-12-31",
+ "dt": "Deadline 31 Dec 2026",
+ "e": "Nine openings in Hangzhou: one independent SAFE Fellowship plus eight group postdocs (ISM modeling, microlensing exoplanets, JWST/ALMA extragalactic, planet formation theory, lensing/stellar evolution). Open to PhDs in physics, astronomy or related fields; no citizenship limits stated.",
+ "f": "Westlake University",
+ "fields": [
+  "astro"
+ ],
+ "id": "westlake-safe-fellowship-postdocs",
+ "n": "Westlake University: SAFE Fellowship and Postdoc Positions in Astronomy and Astrophysics",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "aas:04145803",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://apply.interfolio.com/194799",
+ "us": false
+}

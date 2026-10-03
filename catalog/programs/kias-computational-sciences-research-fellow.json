@@ -1,0 +1,34 @@
+{
+ "a": "Salary per KIAS rules plus individual research grant; 2 years, renewable once for up to 2 years",
+ "added": "2026-10-02",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-02",
+ "d": "2026-10-31",
+ "dt": "Deadline 31 Oct 2026",
+ "e": "Postdoc-level research fellowships at KIAS in areas including quantum algorithms for many-body theory, quantum computation and information, computational condensed matter, and biophysics. Needs a PhD by the start date; no citizenship limits stated.",
+ "f": "Korea Institute for Advanced Study",
+ "fields": [
+  "qp",
+  "cmt",
+  "bio",
+  "ds"
+ ],
+ "id": "kias-computational-sciences-research-fellow",
+ "n": "KIAS: Research Fellow Positions, School of Computational Sciences",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "other:quantiki-kias-compsci",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.kias.re.kr/ext/rec/rec_1001.do?ANNC_NO=REC202608260001",
+ "unv": "Labeled as prize/independent because KIAS fellows get individual research grants; the ad does not say outright that the research is independent",
+ "us": false
+}

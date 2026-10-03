@@ -1,0 +1,32 @@
+{
+ "a": "Up to US$150,000 per project for one year (2026 call), with possible extension",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Industry",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Annual; 2026 abstracts were due 2026-08-23, awards Nov 2026; next call expected June 2027",
+ "e": "Annual Samsung call for one-year university research projects; 2026 themes were Scientific AI, Quantum Computing, Next Computing, Advanced Devices, AI System Architecture and sustainability technology. Open to university professors and researchers whose institutions accept Samsung's research agreement.",
+ "f": "Samsung Advanced Institute of Technology",
+ "fields": [
+  "dev",
+  "qp",
+  "ds",
+  "mat",
+  "energy"
+ ],
+ "id": "samsung-gro",
+ "n": "Samsung Global Research Outreach (GRO) Program",
+ "nom": false,
+ "s": "watch",
+ "src": "other:samsung-gro",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://semiconductor.samsung.com/sait/event/global-research-outreach/",
+ "unv": "The $150K amount comes from Boston University's notice of the 2026 call; Samsung's own page states one-year funding only. 2027 call dates are not posted.",
+ "us": false
+}

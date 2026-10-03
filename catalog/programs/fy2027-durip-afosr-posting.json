@@ -1,0 +1,35 @@
+{
+ "a": "$50,000-$7,000,000 (as listed); total $28,000,000",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Instrumentation",
+ "checked": "2026-09-29",
+ "d": "2026-11-06",
+ "dt": "Posted 2026-07-29; due 5 PM ET",
+ "e": "Public and private IHEs. Research equipment/instrumentation in areas important to national defense.",
+ "f": "DOD AFOSR",
+ "fields": [
+  "all",
+  "inst"
+ ],
+ "id": "fy2027-durip-afosr-posting",
+ "n": "FY2027 DURIP (AFOSR posting)",
+ "nofo": [
+  {
+   "opp": "NOFOAFRLAFOSR20260001",
+   "u": "https://simpler.grants.gov/opportunity/84c7f111-baf9-4729-8daf-eb09376a6d45"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/84c7f111-baf9-4729-8daf-eb09376a6d45",
+ "us": false
+}

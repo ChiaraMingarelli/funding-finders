@@ -1,0 +1,30 @@
+{
+ "a": "competitive; 3 years (Garching) / 4 years (Chile)",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-15",
+ "dt": "Oct 15, 2026",
+ "e": "Fellowships in all astrophysical fields using ESO facilities. PhD before Nov 1, 2027.",
+ "f": "European Southern Observatory (Garching or Chile)",
+ "fields": [
+  "astro"
+ ],
+ "id": "eso-fellowship-programme-2026-2027",
+ "n": "ESO: Fellowship Programme 2026/2027",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:794d54ad",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://recruitment.eso.org/",
+ "us": false
+}

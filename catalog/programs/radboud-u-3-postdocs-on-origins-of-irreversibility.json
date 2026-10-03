@@ -1,0 +1,36 @@
+{
+ "a": "not listed; 2 years",
+ "added": "2026-09-30",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-14",
+ "dt": "Oct 14, 2026",
+ "e": "Mathematical and theoretical physics of irreversibility, entropy and chaos. Requires a PhD or equivalent.",
+ "f": "Radboud University Nijmegen; Klaas Landsman, Manus Visser",
+ "fields": [
+  "grav",
+  "qp"
+ ],
+ "id": "radboud-u-3-postdocs-on-origins-of-irreversibility",
+ "n": "Radboud U.: 3 postdocs on Origins of Irreversibility",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3205307",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.ru.nl/en/working-at/job-opportunities/postdoc-positions-origins-of-irreversibility",
+ "us": false
+}

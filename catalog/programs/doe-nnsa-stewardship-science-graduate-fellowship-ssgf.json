@@ -1,0 +1,31 @@
+{
+ "a": "$45,000 per year stipend, full tuition and fees, and a professional development allowance. Renewable up to 4 years; 12-week practicum at an NNSA lab.",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2027-01-05",
+ "dt": "Applications for the 2027-28 class due Tuesday 2027-01-05.",
+ "e": "US citizens only, senior undergrads or 1st/2nd-year PhD students. Covers nuclear science, HED physics and materials under extreme conditions. The 2026 class had only 4 fellows.",
+ "f": "DOE NNSA / Krell Institute",
+ "fields": [
+  "nux",
+  "nut",
+  "inst",
+  "amo",
+  "cmx"
+ ],
+ "id": "doe-nnsa-stewardship-science-graduate-fellowship-ssgf",
+ "n": "DOE NNSA Stewardship Science Graduate Fellowship (SSGF)",
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "gr",
+  "ug"
+ ],
+ "u": "https://www.krellinst.org/ssgf/how-apply",
+ "us": true
+}

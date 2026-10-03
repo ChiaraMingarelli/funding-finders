@@ -1,0 +1,36 @@
+{
+ "a": "Varies. NSF 26-523 covers about 300 awards and $180M across all Physics programs. No per-award cap is stated",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": "2027-01-12",
+ "dt": "FY2027 target date: second Tuesday in January (Jan 12, 2027). NSF 26-523 accepts proposals anytime, but PoLS keeps this target date",
+ "e": "Faculty at US institutions; single investigators or physicist–biologist teams. NSF 26-523 replaces NSF 23-615 and 23-607. It has no per-PI proposal limit, but NSF asks for single submission with co-review. CAREER proposals go through the separate CAREER solicitation.",
+ "f": "NSF MPS/PHY",
+ "fields": [
+  "bio",
+  "cmx",
+  "qp",
+  "inst"
+ ],
+ "id": "nsf-physics-of-living-systems-pols-mps-physics-solicitation-",
+ "n": "NSF Physics of Living Systems (PoLS), MPS Physics solicitation NSF 26-523",
+ "nofo": [
+  {
+   "opp": "26-523",
+   "u": "https://simpler.grants.gov/opportunity/d4e9f37d-0a43-40de-94bb-4d007267df73"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/pols-physics-living-systems",
+ "us": false
+}

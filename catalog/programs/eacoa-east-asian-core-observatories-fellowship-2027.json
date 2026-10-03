@@ -1,0 +1,30 @@
+{
+ "a": "US$5,000/month + ~US$20,000/yr research; 3 years + 2",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-15",
+ "dt": "Nov 15, 2026",
+ "e": "Frontier research at two or more EACOA institutes. PhD within 5 years of the start.",
+ "f": "EACOA (KASI, NAOC, PMO, SHAO, ASIAA, NAOJ); contact Junichi Noumaru",
+ "fields": [
+  "astro"
+ ],
+ "id": "eacoa-east-asian-core-observatories-fellowship-2027",
+ "n": "EACOA: East Asian Core Observatories Fellowship 2027",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:e43f1fd0",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.eacoa.net/job/",
+ "us": false
+}

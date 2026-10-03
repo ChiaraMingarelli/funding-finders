@@ -1,0 +1,34 @@
+{
+ "a": "$875,000 over 5 yrs",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": null,
+ "dt": "Invitation-only; ~50 invited universities nominate internally (Yale internal deadline typically spring)",
+ "e": "Early-career faculty at one of ~50 invited institutions, nominated by the university president; 20 fellows per year.",
+ "f": "David and Lucile Packard Foundation",
+ "fields": [
+  "all"
+ ],
+ "id": "packard-fellowships-for-science-and-engineering",
+ "n": "Packard Fellowships for Science and Engineering",
+ "nom": true,
+ "s": "watch",
+ "stages": [
+  "tt"
+ ],
+ "u": "https://www.packard.org/what-we-fund/science/packard-fellowships-for-science-and-engineering/",
+ "unv": "2027 nomination timing and years-in-position window not posted on overview page",
+ "us": false,
+ "yale": {
+  "d": null,
+  "t": "Yale nominates through an internal InfoReady competition (2026 cycle's internal deadline was Jan 26, 2026). Yale Research Development holds a Packard / limited-submissions info session on Oct 6, 2026 (registration required); the 2027 internal date is not announced yet.",
+  "u": "https://research.yale.edu/funding-opportunities-newsletter-archive",
+  "unv": "Jan 26, 2026 is confirmed from the Jan 21, 2026 newsletter. The next cycle's date is unconfirmed."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "a": "2 years, renewable 1 more",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-11-15",
+ "dt": "2026/11/15 23:59:59 (time zone not stated on page)",
+ "e": "Quantum simulation/sensing and AI/ML for nuclear, high-energy physics and cosmology. Strong analytical and numerical skills; start Jan-Oct 2027.",
+ "f": "University of Maryland, Maryland Center for Fundamental Physics & QuICS (Zohreh Davoudi)",
+ "fields": [
+  "qp",
+  "nut",
+  "ppt",
+  "ds"
+ ],
+ "id": "university-of-maryland-postdoc-at-qis-ai-fundamental-phy",
+ "n": "University of Maryland: Postdoc at QIS / AI / Fundamental Physics interface",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32822",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32822",
+ "us": false
+}

@@ -1,0 +1,30 @@
+{
+ "a": "Budgets and durations vary.",
+ "added": "2026-09-28",
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Proposals accepted anytime under NSF 26-523.",
+ "e": "Faculty PIs at eligible US institutions. NSF advises contacting the Nuclear Theory program officer about focus and budget before submitting.",
+ "f": "NSF MPS/PHY (NSF 26-523)",
+ "fields": [
+  "nut"
+ ],
+ "id": "nsf-mps-physics-nuclear-physics-theory",
+ "n": "NSF MPS Physics: Nuclear Physics - Theory",
+ "nofo": [
+  {
+   "opp": "26-523",
+   "u": "https://simpler.grants.gov/opportunity/d4e9f37d-0a43-40de-94bb-4d007267df73"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/nuclear-physics-theory",
+ "unv": "No program-specific target date posted as of 2026-09-28",
+ "us": false
+}

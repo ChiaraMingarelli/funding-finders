@@ -1,0 +1,36 @@
+{
+ "a": "not listed; 3 years",
+ "added": "2026-09-30",
+ "asub": [
+  "cos",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-12-15",
+ "dt": "Dec 15, 2026",
+ "e": "Independent theoretical or observational astrophysics research (transients, GWs, cosmology, lensing).",
+ "f": "Weizmann Institute, Dept. of Particle Physics & Astrophysics; contact Revital Ackler",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "weizmann-institute-benoziyo-prize-postdoctoral-fellowshi",
+ "n": "Weizmann Institute: Benoziyo Prize Postdoctoral Fellowship",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:c6c0cb4c",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.weizmann.ac.il/AstroCenter/fellowship-submission/",
+ "us": false
+}

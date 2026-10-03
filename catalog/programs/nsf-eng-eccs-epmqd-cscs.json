@@ -1,0 +1,36 @@
+{
+ "a": "$110M program; 245-300 awards expected; no stated per-award cap",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Proposals accepted anytime",
+ "e": "Consolidated ECCS solicitation funding foundational engineering research on classical and quantum electronic, photonic and magnetic devices (EPMQD) and on components, systems and signal processing for communications and sensing, including quantum aspects (CSCS); a third program (EPCL) covers control, learning and power. No limits on proposals per PI or organization; no citizenship restriction.",
+ "f": "NSF ENG/ECCS",
+ "fields": [
+  "dev",
+  "phot",
+  "qp",
+  "inst"
+ ],
+ "id": "nsf-eng-eccs-epmqd-cscs",
+ "n": "NSF ENG ECCS (NSF 26-514): Electronic, Photonic, Magnetic & Quantum Devices (EPMQD) and Circuits & Systems for Communications & Sensing (CSCS)",
+ "nofo": [
+  {
+   "opp": "26-514",
+   "u": "https://simpler.grants.gov/opportunity/2e05d1e1-8c7b-4b33-a38f-016698ca8309"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "src": "grants:26-514",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/eccs-engineering-electrical-communications-computing-systems/nsf26-514/solicitation",
+ "us": false
+}

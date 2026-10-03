@@ -1,0 +1,28 @@
+{
+ "a": "Assistant Professor, tenure-track",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-12-01",
+ "dt": "Review begins Dec 1, 2026; open until filled",
+ "e": "Teaching-focused physics position with no subfield emphasis. Start Aug 2027.",
+ "f": "Dept. of Physics, Hillsdale College",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-hillsdale-college-tt-asst-prof-of-physics",
+ "n": "Hillsdale College: TT Asst Prof of Physics",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "aas:7525091c",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://apply.interfolio.com/193015",
+ "us": false
+}

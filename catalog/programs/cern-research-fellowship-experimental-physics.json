@@ -1,0 +1,29 @@
+{
+ "a": "6-24 months, extendable to 36. 7,004 or 7,425 CHF per month net plus benefits.",
+ "added": "2026-09-28",
+ "aud": [
+  "yale"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Openings posted on careers.cern; no fixed date on the programme page.",
+ "e": "Only nationals of CERN Member or Associate Member States; US nationals are not eligible. At most 6 years post-PhD (physics). Relevant for Yale postdocs with European citizenship.",
+ "f": "CERN",
+ "fields": [
+  "ppx",
+  "nux",
+  "inst",
+  "ds"
+ ],
+ "id": "cern-research-fellowship-experimental-physics",
+ "n": "CERN Research Fellowship (Experimental Physics)",
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://careers.cern/programmes/research-fellowship/",
+ "unv": "Next selection-committee deadline not listed",
+ "us": false
+}

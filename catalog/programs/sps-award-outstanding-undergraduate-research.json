@@ -1,0 +1,29 @@
+{
+ "a": "Up to $2,000 travel + $500 student + $500 chapter",
+ "added": "2026-09-28",
+ "aud": [
+  "radar",
+  "ast"
+ ],
+ "c": "Prize",
+ "checked": "2026-09-28",
+ "d": "2027-03-15",
+ "dt": "",
+ "e": "Society of Physics Students award for undergraduate research, with travel to present it. For SPS members.",
+ "f": "SPS",
+ "fields": [
+  "all"
+ ],
+ "id": "sps-award-outstanding-undergraduate-research",
+ "n": "SPS Award for Outstanding Undergraduate Research",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:sps-oura",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://students.aip.org/sps-award-for-outstanding-undergraduate-research",
+ "us": false
+}

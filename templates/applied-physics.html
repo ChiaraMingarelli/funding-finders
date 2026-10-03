@@ -1,0 +1,707 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+</head>
+<body>
+<meta charset="utf-8">
+<title>Applied Physics Funding Finder</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<style>
+[hidden]{display:none!important}
+:root{
+  color-scheme:light;
+  --bg:#FFFFFF; --surface:#FFFFFF; --surface-2:#F4F4F4; --ink:#222222; --ink-2:#444444; --ink-3:#5F5F5F;
+  --line:#DDDDDD; --line-2:#BDBDBD; --accent:#00356B; --accent-2:#286DC0; --accent-ink:#FFFFFF; --accent-soft:#E6EDF6;
+  --hot:#9A3A00; --warm:#6E5316; --warm-soft:#F3F0E8; --ok:#1E5E32; --ok-soft:#E3F0E6; --mute-soft:#EFEFEF;
+  --display:"EB Garamond",Garamond,Georgia,"Times New Roman",serif;
+  --body:"Libre Franklin","Helvetica Neue",Helvetica,Arial,sans-serif;
+  --mono:"Libre Franklin","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.55;margin:0;padding:0;font-variant-numeric:tabular-nums}
+.site{background:var(--accent);color:#fff}
+.site-in{max-width:1200px;margin:0 auto;padding-inline:20px;padding-block:22px 0;display:flex;flex-direction:column;gap:16px}
+.site-top{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap}
+.site-kicker{font-size:13px;letter-spacing:.08em;text-transform:uppercase;opacity:.85}
+.site-title{font-family:var(--display);font-size:34px;font-weight:500;line-height:1.1}
+.site-meta{font-size:13px;opacity:.85}
+.site nav{display:flex;gap:4px 30px;flex-wrap:wrap;font-size:14px;font-weight:500;border-top:1px solid rgba(255,255,255,.25);padding-block:12px}
+.site nav a{color:#fff;text-decoration:none;opacity:.88;padding-bottom:8px;border-bottom:2px solid transparent}
+.site nav a:hover,.site nav a:focus-visible{opacity:1;border-bottom-color:#fff}
+.site nav a:focus-visible{outline:2px solid #fff;outline-offset:3px}
+.wrap{max-width:1200px;margin:0 auto;padding-inline:20px;padding-block:32px 0;display:flex;flex-direction:column;gap:30px}
+a{color:var(--accent)} a:hover{color:var(--accent-2)}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px solid var(--accent-2);outline-offset:2px}
+h1,h2,h3{font-family:var(--display);text-wrap:balance;margin:0;font-weight:500}
+h1{font-size:clamp(34px,5vw,52px);line-height:1.05;color:var(--accent)}
+h2{font-size:30px;color:var(--ink)}
+h3{font-size:20px}
+header{display:flex;flex-direction:column;gap:14px}
+header p{margin:0;color:#333;max-width:76ch;font-size:17px;line-height:1.6}
+section{display:flex;flex-direction:column;gap:12px}
+.steplbl{font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3)}
+.banner{display:flex;flex-wrap:wrap;gap:6px 16px;align-items:baseline;font-size:14px;color:var(--ink-2);background:var(--surface-2);border-left:4px solid var(--accent);padding:10px 14px}
+.banner b{color:var(--ink)}
+.banner.warn{border-left-color:var(--warm);background:var(--warm-soft)}
+
+.fields{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:10px}
+.fbtn{font:inherit;text-align:left;cursor:pointer;background:var(--accent-soft);color:var(--accent);border:1px solid transparent;border-left:4px solid var(--accent);border-radius:0;padding:14px 16px;min-height:72px;display:flex;flex-direction:column;justify-content:center;gap:4px;transition:background .12s,box-shadow .12s}
+.fbtn:hover{background:var(--surface);border-color:var(--accent);box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.fbtn .fn{font-size:16px;font-weight:600;line-height:1.25}
+.fbtn .fc{font-size:13px;color:var(--ink-2)}
+.fbtn.x{}
+.fbtn[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink,#fff);border-color:var(--accent);border-left-color:var(--accent-2,var(--accent));border-left-style:solid}
+.fbtn[aria-pressed="true"] .fc{color:var(--accent-ink,#fff);opacity:.9}
+@media (max-width:640px){.fields{grid-template-columns:repeat(2,minmax(0,1fr))}.fbtn{min-height:64px;padding:12px}.fbtn .fn{font-size:15px}}
+
+.stages{display:flex;flex-wrap:wrap;border-bottom:2px solid var(--accent)}
+.stage{font:inherit;cursor:pointer;background:transparent;border:0;padding:12px 20px;text-align:left;color:var(--accent);display:flex;flex-direction:column;gap:2px}
+.stage:hover{background:var(--accent-soft)}
+.stage .sn{font-size:15px;font-weight:600;line-height:1.2}
+.stage .sc{font-size:12px;color:var(--ink-3);font-weight:400}
+.stage[aria-selected="true"]{background:var(--accent);color:#fff}
+.stage[aria-selected="true"] .sc{color:#fff;opacity:.85}
+
+.elig{display:flex;flex-wrap:wrap;gap:10px 28px;align-items:center;font-size:14px;color:#333}
+.elig label{display:flex;gap:8px;align-items:center;cursor:pointer}
+.ptype{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:8px}
+.ptbtn{font:inherit;text-align:left;padding:10px 12px;border:1px solid var(--line-2);background:#fff;color:#222;cursor:pointer;display:flex;flex-direction:column;gap:2px;border-radius:0}
+.ptbtn:hover{border-color:var(--accent)}
+.ptbtn .pn{font-weight:600;font-size:14px}
+.ptbtn .pd{font-size:12.5px;color:var(--ink-3)}
+.ptbtn .fc{font-size:12px;font-weight:400;color:var(--ink-3);margin-left:4px}
+.ptbtn[aria-pressed="true"] .fc{color:#fff;opacity:.85}
+.ptbtn[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+.ptbtn[aria-pressed="true"] .pd{color:#dfe8f3}
+.context{font-size:14px;color:var(--ink-2);display:flex;flex-wrap:wrap;gap:8px 18px;align-items:center}
+.stat{font-size:13px;color:var(--ink-2)}
+.stat b{color:var(--accent);font-weight:700}
+
+.d-hot{color:var(--hot)} .d-warm{color:var(--hot)} .d-cool{color:var(--ink-3)}
+.btn{font:inherit;font-size:14px;font-weight:600;background:#fff;border:1px solid var(--accent);border-radius:0;padding:8px 14px;color:var(--accent);cursor:pointer}
+.btn:hover{background:var(--accent-soft)}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+.btn:disabled{opacity:.5;cursor:default}
+
+.panel{background:var(--surface-2);border:0;border-top:3px solid var(--accent);padding:20px 24px;display:flex;flex-direction:column;gap:10px}
+.panel h2{font-size:24px}
+.panel ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:8px}
+.panel li{max-width:80ch}
+.panel p{margin:0;color:var(--ink-2);max-width:80ch}
+
+.controls{display:flex;flex-wrap:wrap;gap:12px 24px;align-items:center}
+.chips{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.chips .lbl{font-size:12px;font-weight:600;color:var(--ink-3);text-transform:uppercase;letter-spacing:.08em;margin-right:4px}
+.chip{font:inherit;font-size:13px;padding:5px 11px;border-radius:0;border:1px solid var(--line-2);background:#fff;color:#333;cursor:pointer}
+.chip:hover{border-color:var(--accent)}
+.chip[aria-pressed="true"]{background:var(--accent);color:#fff;border-color:var(--accent)}
+.sel{font:inherit;font-size:14px;padding:6px 30px 6px 10px;border-radius:0;border:1px solid var(--line-2);background-color:var(--surface);color:var(--ink);max-width:100%;cursor:pointer;appearance:none;-webkit-appearance:none;background-image:linear-gradient(45deg,transparent 50%,var(--ink-3) 50%),linear-gradient(135deg,var(--ink-3) 50%,transparent 50%);background-position:calc(100% - 15px) 52%,calc(100% - 10px) 52%;background-size:5px 5px,5px 5px;background-repeat:no-repeat}
+.sel:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.search{font:inherit;font-size:14px;padding:7px 10px;border-radius:0;border:1px solid var(--line-2);background:#fff;color:var(--ink);width:260px;max-width:100%}
+
+.tablebox{overflow-x:auto;background:#fff;border-top:2px solid var(--accent)}
+table{border-collapse:collapse;width:100%;min-width:980px;font-size:14px}
+th,td{text-align:left;vertical-align:top;padding:13px 12px;border-bottom:1px solid var(--line)}
+th{font-weight:600;font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--ink-3);background:#fff}
+th button{all:unset;cursor:pointer}
+tr:last-child td{border-bottom:none}
+td.dl{font-weight:600;color:var(--accent);white-space:nowrap;min-width:140px}
+td.dl small{display:block;color:var(--ink-3);white-space:normal;max-width:22ch;font-weight:400;font-size:12px;margin-top:2px}
+td.dl .yd{display:block;margin-top:8px;padding:5px 8px;background:var(--warm-soft);color:var(--warm);white-space:normal;font-weight:500;font-size:12px;max-width:24ch}
+.pname{font-weight:600;font-size:15px}
+.funder{color:var(--ink-3);font-size:13px}
+.tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}
+.tag{font-size:11.5px;color:var(--accent);background:var(--accent-soft);padding:1px 7px}
+.tag.flag{color:#7A3D00;background:#F7EFE6}
+.tag.new{color:#fff;background:#1F7A4D;font-weight:600}
+.meta{font-size:12px;color:var(--ink-3);margin-top:6px;display:flex;flex-wrap:wrap;gap:4px 10px}
+.note{color:#444;font-size:13.5px}
+.pill{display:inline-block;font-size:12px;font-weight:600;padding:3px 8px;white-space:nowrap}
+.s-open{background:var(--ok-soft);color:var(--ok)}
+.s-rolling{background:var(--accent-soft);color:var(--accent)}
+.s-watch{background:var(--mute-soft);color:#444}
+.s-closed{background:var(--mute-soft);color:var(--ink-3);text-decoration:line-through}
+.unv{font-size:11px;color:var(--warm);border:1px dashed var(--warm);padding:0 4px;margin-left:4px}
+.rowact{display:flex;flex-direction:column;gap:6px;min-width:130px}
+#allSec .sub{margin:-4px 0 14px;color:var(--ink-3);font-size:14px}
+td.dl .ext{display:block;color:var(--ink-2);font-weight:500;font-size:12.5px;margin-top:4px;white-space:normal}
+td.dl .ylab{display:inline-block;font-size:11.5px;font-weight:600;padding:1px 6px;background:var(--warm-soft);color:var(--warm);margin-left:4px}
+@media (max-width:720px){
+  .tablebox{overflow:visible;border-top:2px solid var(--accent)}
+  table{min-width:0}
+  thead{display:none}
+  tbody,tr,td{display:block;width:auto}
+  tr{padding:14px 2px;border-bottom:1px solid var(--line);display:flex;flex-direction:column}
+  tr td:nth-child(2){order:-1;margin-bottom:6px}
+  td{border:none;padding:3px 0;min-width:0!important}
+  td.dl{white-space:normal}
+  td.dl small,td.dl .yd{max-width:none}
+  td[data-l]::before{content:attr(data-l);display:block;font-size:11px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;color:var(--ink-3);margin-top:6px}
+  td[data-l=""]::before{display:none}
+  .rowact{flex-direction:row;flex-wrap:wrap;min-width:0;margin-top:8px}
+}
+.mini{font:inherit;font-size:12.5px;padding:4px 8px;border-radius:0;border:1px solid var(--line-2);background:#fff;color:#333;cursor:pointer;text-align:left}
+.mini:hover{border-color:var(--accent)}
+.mini[aria-pressed="true"]{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+.empty{padding:24px 0;color:var(--ink-3)}
+
+.changes{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px 32px;margin:0;padding:0;list-style:none}
+.changes li{border-top:1px solid var(--line);padding-top:12px;color:#444;font-size:14px}
+.changes li b{color:var(--accent);display:block;font-family:var(--display);font-size:20px;font-weight:500;margin-bottom:4px}
+
+.form{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px 14px}
+.form label{display:flex;flex-direction:column;gap:4px;font-size:13px;color:var(--ink-2)}
+.form input,.form select,.form textarea{font:inherit;font-size:14px;padding:7px 9px;border:1px solid var(--line-2);border-radius:0;background:#fff;color:var(--ink)}
+.form textarea{min-height:64px;resize:vertical}
+.form .wide{grid-column:1/-1}
+.formrow{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.msg{font-size:13px;color:var(--ink-3)}
+.coord{border-top-color:var(--accent-2)}
+.ctabs{display:flex;gap:6px;flex-wrap:wrap}
+.clist{display:flex;flex-direction:column;gap:8px}
+.citem{background:#fff;border:1px solid var(--line);padding:10px 12px;display:flex;flex-direction:column;gap:4px}
+.citem .who{font-size:13px;color:var(--ink-2)}
+dialog{border:1px solid var(--line);border-top:4px solid var(--accent);border-radius:0;background:#fff;color:var(--ink);padding:20px 22px;max-width:min(760px,calc(100vw - 32px));width:100%}
+dialog::backdrop{background:rgba(0,20,45,.45)}
+.site-foot{margin-top:48px;background:var(--surface-2);border-top:4px solid var(--accent)}
+.site-foot-in{max-width:1200px;margin:0 auto;padding-inline:20px;padding-block:26px;display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px 24px;font-size:13px;color:#555}
+footer#foot{font-size:13px;color:#555;max-width:90ch}
+
+.pickbox{width:16px;height:16px;margin:0 8px 0 0;vertical-align:-2px;accent-color:var(--accent);cursor:pointer}
+.btn:disabled{opacity:.45;cursor:default}
+.cal{font-size:12px;color:var(--ink-3);white-space:nowrap}.cal a{font-weight:500}
+</style>
+
+<div class="site">
+  <div class="site-in">
+    <div class="site-top">
+      <div style="display:flex;flex-direction:column;gap:2px"><span class="site-kicker">Yale Applied Physics</span><span class="site-title">Funding Finder</span></div>
+      <span class="site-meta">Rechecked weekly against funder pages and grants.gov</span>
+    </div>
+    <nav aria-label="Page sections">
+      <a href="#find">Find funding</a>
+      <a href="#allSec">Programs and deadlines</a>
+      <a href="#changedSec">What's changed</a>
+      <a href="{{link:physics}}">Funding for Physics →</a>
+    </nav>
+  </div>
+</div>
+<div class="wrap">
+  <header id="find">
+    <h1>Funding for research, fellowships and training</h1>
+    <p>Grants, federal and industry calls, fellowships, user-facility time and student programs for quantum information, photonics and condensed matter and quantum materials, plus the department's affiliated work in devices, materials and physical biology. Choose your area and career stage. Programs open to all fields appear under every area, and Yale's internal and limited-submission steps are shown next to each external deadline. See also <a href="{{link:physics}}">Funding for Physics</a>.</p>
+  </header>
+
+  <div class="banner" id="banner">Loading the program list…</div>
+
+  <section>
+    <span class="steplbl">Research area</span>
+    <div class="fields" id="fields"></div>
+  </section>
+
+  <section>
+    <span class="steplbl">Career stage</span>
+    <nav class="stages" role="tablist" id="stages" aria-label="Career stage"></nav>
+  </section>
+
+  <div class="elig">
+    <span class="steplbl">Eligibility</span>
+    <label><input type="checkbox" id="noUS"> Hide programs limited to US citizens and permanent residents</label>
+    <label><input type="checkbox" id="noNom"> Hide programs that need a nomination or limited submission</label>
+  </div>
+
+  <section id="ptSec" hidden>
+    <span class="steplbl">Position type</span>
+    <div class="ptype" id="ptype" role="group" aria-label="Postdoc position type"></div>
+  </section>
+
+  <div class="context" id="context"></div>
+
+
+  <div class="panel" id="notes"></div>
+
+  <section id="coordSec" hidden>
+    <div class="panel coord">
+      <h2>Coordinator view</h2>
+      <p>Only people with Editor access to this page see this section. Colleagues share interest here only if they choose to.</p>
+      <div class="ctabs" id="ctabs"></div>
+      <div id="cbody"></div>
+    </div>
+  </section>
+
+  <section id="allSec">
+    <h2 id="allTitle">Programs and deadlines</h2>
+    <p class="sub" id="allSub"></p>
+    <div class="controls">
+      <div class="chips" id="dueChips"></div>
+      <div class="chips" id="statusChips"><span class="lbl">Status</span></div>
+      <div class="chips" id="catChips"></div>
+      <label class="chips"><span class="lbl">Find</span><input id="q" class="search" type="search" placeholder="e.g. ECCS, DARPA, 26-521, new"></label>
+    </div>
+    <div class="tablebox">
+      <table>
+        <thead><tr>
+          <th><button data-sort="deadline">Deadline ↕</button></th>
+          <th><button data-sort="name">Program ↕</button></th>
+          <th>Status</th>
+          <th>Award</th>
+          <th>Eligibility and notes</th>
+          <th id="actHead">Mine</th>
+        </tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+    <div class="formrow"><button class="btn primary" id="viewAllBtn" hidden></button><span class="msg" id="pickCount"></span><button class="btn" id="pickAllBtn" type="button">Tick all shown</button><button class="btn" id="pickClearBtn" type="button">Clear ticks</button><button class="btn primary" id="icsBtn" type="button">Add ticked to my calendar</button><button class="btn" id="csvBtn" type="button">Download ticked as CSV</button><span class="msg" id="csvMsg"></span></div>
+  </section>
+
+  <section class="panel" id="suggestSec" hidden>
+    <h2>Suggest a program</h2>
+    <p>Know a call that's missing? Send it here. The weekly check verifies suggestions against the funder's page before adding them.</p>
+    <form class="form" id="suggestForm">
+      <label>Program name<input id="sgName" required maxlength="200"></label>
+      <label>Link (funder page or grants.gov)<input id="sgUrl" type="url" required maxlength="500" placeholder="https://"></label>
+      <label>Deadline, if known<input id="sgDate" type="date"></label>
+      <label class="wide">Note<textarea id="sgNote" maxlength="1000" placeholder="Who it's for, which field"></textarea></label>
+      <div class="formrow wide"><button class="btn primary" type="submit">Send suggestion</button><span class="msg" id="sgMsg"></span></div>
+    </form>
+  </section>
+
+  <section id="changedSec">
+    <h2>What changed in 2025–26</h2>
+    <ul class="changes" id="changes"></ul>
+  </section>
+
+  <footer id="foot">Programs are compiled from official funder pages, grants.gov funding notices, national-lab and university fellowship pages, and Yale's public funding newsletters, and rechecked weekly. Research areas follow the Yale Applied Physics research page. Yale's full limited-submission list is in InfoReady (NetID required), so an internal date marked unverified should be confirmed there. Deadlines move: check the linked page before committing.</footer>
+</div>
+<div class="site-foot"><div class="site-foot-in"><span>Built by Chiara Mingarelli (Department of Physics) for Yale Applied Physics, from the same catalog as the Physics Funding Finder. Not an official Yale University page. Made with Claude Opus 5.5 by Anthropic.</span><span>Rechecked every Monday; new postings added Tuesday to Sunday</span></div></div>
+
+
+<dialog id="editDlg">
+  <form class="form" id="editForm" method="dialog">
+    <h3 class="wide" id="edTitle">Edit program</h3>
+    <label class="wide">Program name<input id="edN" required maxlength="300"></label>
+    <label>Funder<input id="edF" maxlength="200"></label>
+    <label>Type<input id="edC" maxlength="60"></label>
+    <label>Status<select id="edS"><option value="open">Open</option><option value="rolling">Rolling</option><option value="watch">Watch</option><option value="closed">Closed</option></select></label>
+    <label>External deadline<input id="edD" type="date"></label>
+    <label class="wide">Deadline note<input id="edDt" maxlength="400"></label>
+    <label>Yale internal deadline<input id="edYd" type="date"></label>
+    <label class="wide">Yale internal step<input id="edYt" maxlength="400" placeholder="What to submit, to whom, where"></label>
+    <label class="wide">Award<input id="edA" maxlength="300"></label>
+    <label class="wide">Eligibility and notes<textarea id="edE" maxlength="1200"></textarea></label>
+    <label class="wide">Link<input id="edU" type="url" maxlength="500"></label>
+    <label>Career stages<input id="edSt" maxlength="40" placeholder="tt, ten, pd, gr, ug"></label>
+    <label>Research areas<input id="edFi" maxlength="120" placeholder="all, or astro, amo, bio…"></label>
+    <label><span><input type="checkbox" id="edUs"> US citizens/permanent residents only</span></label>
+    <label><span><input type="checkbox" id="edNom"> Needs nomination or limited submission</span></label>
+    <div class="formrow wide"><button class="btn primary" id="edSave" value="save">Save</button><button class="btn" value="cancel" formnovalidate>Cancel</button><span class="msg" id="edMsg"></span></div>
+  </form>
+</dialog>
+
+<!-- SNAPSHOT:START -->
+<script id="snapshot" type="application/json">{{snapshot}}</script>
+<!-- SNAPSHOT:END -->
+<script>
+/* ---------- tick-box export: calendar (.ics in a .zip) and CSV ---------- */
+const EXP={key:"",picked:new Set(),all:()=>[],prefix:"funding"};
+function expInit(key,all,prefix){EXP.key=key;EXP.all=all;EXP.prefix=prefix;try{EXP.picked=new Set(JSON.parse(localStorage.getItem(key)||"[]"));}catch(e){}}
+const expSave=()=>{try{localStorage.setItem(EXP.key,JSON.stringify([...EXP.picked]));}catch(e){}};
+const expYmd=d=>`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
+const expShift=(iso,n)=>{const d=new Date(iso+"T00:00:00");d.setDate(d.getDate()+n);return expYmd(d);};
+const expToday=expYmd(new Date());
+const expIso=s=>typeof s==="string"&&/^\d{4}-\d{2}-\d{2}$/.test(s);
+function expDates(x){const o=[];if(expIso(x.d)&&x.d>=expToday)o.push([x.d,"Deadline"]);if(x.yale&&expIso(x.yale.d)&&x.yale.d>=expToday)o.push([x.yale.d,"Yale internal deadline"]);return o;}
+const expPicked=()=>EXP.all().filter(x=>EXP.picked.has(x.id));
+function expToggle(id,on){on?EXP.picked.add(id):EXP.picked.delete(id);expSave();}
+const expUrl=u=>(typeof u==="string"&&/^https:\/\//i.test(u))?u:"";
+/* ---------- one-click calendar links (work for every viewer; no download needed) ---------- */
+function expCalLinks(x){
+  const ds=expDates(x);if(!ds.length)return "";
+  const e=encodeURIComponent,h=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  return ds.map(([d,lab])=>{
+    const yale=lab!=="Deadline",t=(yale?"Yale internal deadline: ":"Deadline: ")+x.n,end=expShift(d,1);
+    const note=String(yale&&x.yale?x.yale.t||"":x.dt||"").slice(0,300);
+    const body=[x.f,note,expUrl(x.u),"Tip: set reminders 6 and 4 weeks before."].filter(Boolean).join("\n");
+    const g=`https://calendar.google.com/calendar/render?action=TEMPLATE&text=${e(t)}&dates=${d.replace(/-/g,"")}/${end.replace(/-/g,"")}&details=${e(body)}`;
+    const o=`https://outlook.office.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&allday=true&subject=${e(t)}&startdt=${d}&enddt=${end}&body=${e(body)}`;
+    const lbl=ds.length>1?(yale?"Yale step to ":"Deadline to "):"Add to ";
+    return `<span class="cal">${lbl}<a href="${h(g)}" target="_blank" rel="noopener">Google Calendar</a> · <a href="${h(o)}" target="_blank" rel="noopener">Outlook</a></span>`;
+  }).join(" ")+` <span class="cal">· <a href="#" data-ics="${h(x.id)}" title="Downloads a calendar file with reminders 6 and 4 weeks before">Apple Calendar${ds.length>1?" (both dates)":""}</a></span>`;
+}
+/* Apple Calendar: a one-program .ics file (keeps the 6- and 4-week reminders) */
+function expToast(msg){let t=document.getElementById("expToast");if(!t){t=document.createElement("div");t.id="expToast";t.setAttribute("role","status");t.style.cssText="position:fixed;left:50%;bottom:20px;transform:translateX(-50%);max-width:min(560px,calc(100vw - 32px));background:#222;color:#fff;font-size:14px;line-height:1.45;padding:12px 16px;z-index:1000;box-shadow:0 4px 16px rgba(0,0,0,.25)";document.body.appendChild(t);}t.textContent=msg;t.hidden=false;clearTimeout(t._h);t._h=setTimeout(()=>{t.hidden=true;},9000);}
+async function expSaveOne(id){
+  const x=EXP.all().find(r=>r.id===id);if(!x)return;
+  const {text,n}=expIcs([x]);if(!n){expToast("This program has no upcoming date yet.");return;}
+  const base=String(x.id||"deadline").replace(/[^a-z0-9-]+/gi,"-").slice(0,60),name=base+".ics";
+  const ok="Open the .ics file to add it to Apple Calendar, with reminders 6 and 4 weeks before.";
+  if(!window.claude){expDirect(name,text,"text/calendar;charset=utf-8");expToast("Downloaded. "+ok);return;}
+  const dl=await EXP_DL;
+  const blocked="Downloads from this page are only available to members of the page owner's Claude organization. Use the Google Calendar or Outlook link instead.";
+  if(!dl){expToast(blocked);return;}
+  try{await dl.save({filename:base+".zip",data:expZip(name,text)});expToast("Saved as a .zip. Unzip it, then "+ok.charAt(0).toLowerCase()+ok.slice(1));}
+  catch(e){if(e&&e.code==="declined")return;expToast(e&&e.code==="rate_limited"?"A save prompt is already open.":blocked);}
+}
+document.addEventListener("click",e=>{const a=e.target.closest&&e.target.closest("[data-ics]");if(a){e.preventDefault();expSaveOne(a.dataset.ics);}});
+function expIcs(rows){
+  const e=s=>String(s??"").replace(/\\/g,"\\\\").replace(/;/g,"\\;").replace(/,/g,"\\,").replace(/\r?\n/g,"\\n");
+  const fold=l=>{const o=[];while(l.length>60){o.push(l.slice(0,60));l=" "+l.slice(60);}o.push(l);return o.join("\r\n");};
+  const stamp=new Date().toISOString().replace(/[-:]/g,"").replace(/\.\d+Z$/,"Z");
+  const L=["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Funding Finder//EN","CALSCALE:GREGORIAN","METHOD:PUBLISH"];let n=0;
+  rows.forEach(x=>expDates(x).forEach(([d,label],k)=>{n++;
+    L.push("BEGIN:VEVENT",`UID:${x.id}-${d}-${k}@funding-finder`,`DTSTAMP:${stamp}`,`DTSTART;VALUE=DATE:${d.replace(/-/g,"")}`,`DTEND;VALUE=DATE:${expShift(d,1).replace(/-/g,"")}`,
+      `SUMMARY:${e(label+": "+x.n)}`,`DESCRIPTION:${e([x.f,x.dt,x.a,expUrl(x.u)].filter(Boolean).join("\n"))}`,"TRANSP:TRANSPARENT");
+    if(expUrl(x.u))L.push(`URL:${expUrl(x.u)}`);
+    [6,4].forEach(w=>L.push("BEGIN:VALARM","ACTION:DISPLAY",`DESCRIPTION:${e(w+" weeks until: "+x.n)}`,`TRIGGER:-P${w}W`,"END:VALARM"));
+    L.push("END:VEVENT");}));
+  L.push("END:VCALENDAR");return {text:L.map(fold).join("\r\n")+"\r\n",n};
+}
+function expCsv(rows){
+  const c=v=>`"${String(v??"").replace(/"/g,'""')}"`;
+  const L=[["Program","Funder","Deadline","Yale internal deadline","Reminder (6 weeks before)","Reminder (4 weeks before)","Status","Award","Deadline note","Link"].map(c).join(",")];
+  rows.forEach(x=>{const f=expDates(x).map(d=>d[0]).sort()[0]||"";
+    L.push([x.n,x.f,expIso(x.d)?x.d:"",x.yale&&expIso(x.yale.d)?x.yale.d:"",f?expShift(f,-42):"",f?expShift(f,-28):"",x.s,x.a,x.dt,expUrl(x.u)].map(c).join(","));});
+  return L.join("\r\n")+"\r\n";
+}
+function expCrc(u){let crc=0xFFFFFFFF;for(let i=0;i<u.length;i++){let c=(crc^u[i])&0xFF;for(let k=0;k<8;k++)c=c&1?(c>>>1)^0xEDB88320:c>>>1;crc=(crc>>>8)^c;}return (crc^0xFFFFFFFF)>>>0;}
+function expZip(name,text){
+  const en=new TextEncoder(),data=en.encode(text),fn=en.encode(name),crc=expCrc(data);
+  const lh=new Uint8Array(30+fn.length),a=new DataView(lh.buffer);
+  [[0,0x04034b50,4],[4,20,2],[6,0x0800,2],[8,0,2],[10,0,2],[12,0x21,2],[14,crc,4],[18,data.length,4],[22,data.length,4],[26,fn.length,2],[28,0,2]].forEach(([o,v,s])=>s===4?a.setUint32(o,v,true):a.setUint16(o,v,true));lh.set(fn,30);
+  const ch=new Uint8Array(46+fn.length),b=new DataView(ch.buffer);
+  [[0,0x02014b50,4],[4,20,2],[6,20,2],[8,0x0800,2],[10,0,2],[12,0,2],[14,0x21,2],[16,crc,4],[20,data.length,4],[24,data.length,4],[28,fn.length,2],[30,0,2],[32,0,2],[34,0,2],[36,0,2],[38,0,4],[42,0,4]].forEach(([o,v,s])=>s===4?b.setUint32(o,v,true):b.setUint16(o,v,true));ch.set(fn,46);
+  const end=new Uint8Array(22),z=new DataView(end.buffer);z.setUint32(0,0x06054b50,true);z.setUint16(8,1,true);z.setUint16(10,1,true);z.setUint32(12,ch.length,true);z.setUint32(16,lh.length+data.length,true);
+  return new Blob([lh,data,ch,end],{type:"application/zip"});
+}
+const EXP_DL=(window.claude&&typeof window.claude.use==="function")?Promise.resolve(window.claude.use("downloads")).catch(()=>null):Promise.resolve(null);
+function expDirect(name,data,type){const u=URL.createObjectURL(new Blob([data],{type}));const a=document.createElement("a");a.href=u;a.download=name;a.rel="noopener";document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),10000);}
+function expFallback(kind,rows,msg){
+  if(!window.claude){ /* self-hosted copy (e.g. GitHub Pages): ordinary browser download */
+    if(kind==="csv"){expDirect(`${EXP.prefix}-ticked.csv`,"\ufeff"+expCsv(rows),"text/csv;charset=utf-8");msg.textContent=`Downloaded ${rows.length} program${rows.length===1?"":"s"} as a CSV.`;return;}
+    const {text,n}=expIcs(rows);if(!n){msg.textContent="None of the ticked programs has an upcoming date yet.";return;}
+    expDirect(`${EXP.prefix}-deadlines.ics`,text,"text/calendar;charset=utf-8");msg.textContent=`Downloaded ${n} deadline${n===1?"":"s"} with reminders 6 and 4 weeks before. Open the .ics file to add them to your calendar.`;return;}
+  msg.textContent="Downloads from this page are only available to members of the page owner's Claude organization. Use the Google Calendar or Outlook link on each program instead; those work for everyone.";}
+async function expSaveFile(kind,msg){
+  const rows=expPicked();if(!rows.length){msg.textContent="Tick at least one program first.";return;}
+  const dl=await EXP_DL;if(!dl){expFallback(kind,rows,msg);return;}
+  try{
+    if(kind==="csv"){await dl.save({filename:`${EXP.prefix}-ticked.csv`,data:expCsv(rows)});msg.textContent=`Saved ${rows.length} program${rows.length===1?"":"s"} as a CSV, with the 6- and 4-week reminder dates in their own columns.`;return;}
+    const {text,n}=expIcs(rows);
+    if(!n){msg.textContent="None of the ticked programs has an upcoming date yet, so there's nothing to put on a calendar. The CSV still lists them.";return;}
+    await dl.save({filename:`${EXP.prefix}-deadlines.zip`,data:expZip(`${EXP.prefix}-deadlines.ics`,text)});
+    const skip=rows.filter(x=>!expDates(x).length).length;
+    msg.textContent=`Saved ${n} deadline${n===1?"":"s"} with reminders 6 and 4 weeks before. Unzip it and open the .ics file to add them to your calendar. Apple Calendar and Outlook keep both reminders; Google Calendar uses your default reminders instead.${skip?` ${skip} ticked program${skip===1?" has":"s have"} no date yet and ${skip===1?"was":"were"} left out.`:""}`;
+  }catch(e){const c=e&&e.code;if(c==="declined"){msg.textContent="";return;}if(c==="rate_limited"){msg.textContent="A save prompt is already open. Finish it, then try again.";return;}expFallback(kind,rows,msg);}
+}
+
+expInit("apff-picked",()=>DATA,"applied-physics-funding");
+let EXP_SHOWN=[];
+function expBar(r){EXP_SHOWN=r;const n=expPicked().length;$("icsBtn").disabled=!n;$("csvBtn").disabled=!n;$("pickCount").textContent=n?`${n} ticked for export`:"Tick the programs you're interested in to export them.";}
+
+const TODAY = new Date(); TODAY.setHours(0,0,0,0);
+const FIELDS = [
+  {k:"qis", n:"Quantum Information Sciences", c:["qp"]},
+  {k:"phot", n:"Photonics & Optical Sciences", c:["phot","amo"]},
+  {k:"qm", n:"Condensed Matter & Quantum Materials", c:["cmx","cmt"]},
+  {k:"mat", n:"Materials Science", c:["mat"]},
+  {k:"dev", n:"Devices & Semiconductors", c:["dev"]},
+  {k:"energy", n:"Energy Materials", c:["energy"]},
+  {k:"bio", n:"Physical & Engineering Biology", c:["bio"]},
+  {k:"ds", n:"AI & Data Science", c:["ds"], x:true},{k:"inst", n:"Instrumentation & Facilities", c:["inst"], x:true},{k:"*", n:"All areas", x:true}
+];
+const TAGN = {qp:"Quantum information",phot:"Photonics & optics",amo:"Atomic, molecular & optical",cmx:"Condensed matter (exp.)",cmt:"Condensed matter (theory)",mat:"Materials science",dev:"Devices & semiconductors",energy:"Energy materials",bio:"Biophysics & bioengineering",ds:"AI & data science",inst:"Instrumentation"};
+const STAGES = [
+  {k:"tt", n:"Faculty (tenure track)"},{k:"ten", n:"Faculty (tenured)"},{k:"pd", n:"Postdocs"},{k:"gr", n:"Graduate students"},{k:"ug", n:"Undergraduates"}
+];
+const STATUS = {open:"Open", rolling:"Rolling", watch:"Watch", closed:"Closed"};
+const FNAME = Object.fromEntries(FIELDS.map(f=>[f.k,f.n])); const FCODES = Object.fromEntries(FIELDS.map(f=>[f.k,f.c||[]]));
+const $ = id => document.getElementById(id);
+const fmt = iso => new Date(iso+"T00:00:00").toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"});
+const days = iso => Math.round((new Date(iso+"T00:00:00")-TODAY)/86400000);
+const esc = s => String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safeUrl = u => (typeof u==="string" && /^https:\/\//i.test(u)) ? u : "";
+const isoOk = s => typeof s==="string" && /^\d{4}-\d{2}-\d{2}$/.test(s);
+const dcls = k => k<=14?"d-hot":k<=45?"d-warm":"d-cool";
+const future = x => isoOk(x.d) && days(x.d)>=0;
+const effStatus = x => (x.s==="open" && isoOk(x.d) && days(x.d)<0) ? "closed" : (STATUS[x.s]?x.s:"watch");
+const arr = v => Array.isArray(v)?v:[];
+
+let SNAP={programs:[],status:{},notes:{}};
+try{ SNAP=JSON.parse(document.getElementById("snapshot").textContent); }catch(e){}
+const forYale = x => true; /* data is already the Applied Physics selection */
+let DATA=(Array.isArray(SNAP.programs)?SNAP.programs:[]).filter(forYale), META=SNAP.status||{}, NOTES=SNAP.notes||{}, LIVE=false;
+let ptype="all", field="*", stage="tt", fStatus="active", fCat="All", q="", sortKey="deadline", sortDir=1, fDue="42", showAll=false, noUS=false, noNom=false;
+let db=null, user=null, uid=null, canWriteOwn=false, isCoord=false;
+let saved=new Set(), myInterest={}, allInterest=[], allSuggest=[], mySuggest=[], ctab="interest";
+try{
+  const h=location.hash.replace("#",""); if(STAGES.some(s=>s.k===h)) stage=h;
+  const sf=localStorage.getItem("apff-field"), ss=localStorage.getItem("apff-stage");
+  if(sf && FNAME[sf]) field=sf; if(!h && ss && STAGES.some(s=>s.k===ss)) stage=ss;
+  noUS=localStorage.getItem("apff-nous")==="1"; const pt0=localStorage.getItem("apff-pt"); if(["all","prize","group","other"].includes(pt0)) ptype=pt0; noNom=localStorage.getItem("apff-nonom")==="1";
+}catch(e){}
+$("noUS").checked=noUS; $("noNom").checked=noNom;
+const save=()=>{try{localStorage.setItem("apff-field",field);localStorage.setItem("apff-stage",stage);localStorage.setItem("apff-nous",noUS?"1":"0");localStorage.setItem("apff-nonom",noNom?"1":"0");localStorage.setItem("apff-pt",ptype);}catch(e){}};
+
+const inField = (x,f=field) => f==="*" || arr(x.fields).includes("all") || arr(x.fields).some(c=>(FCODES[f]||[]).includes(c));
+const inStage = (x,s=stage) => arr(x.stages).includes(s);
+const eligible = x => !(noUS && x.us) && !(noNom && x.nom);
+const active = x => effStatus(x)!=="closed";
+const ptOf = x => ["prize","group","other"].includes(x.pt) ? x.pt : x.c==="Group postdoc" ? "group" : x.c==="Fellowship" ? "prize" : "other";
+const inPt = (x,p=ptype) => stage!=="pd" || p==="all" || ptOf(x)===p;
+const scope = () => DATA.filter(x=>inField(x)&&inStage(x)&&eligible(x)&&inPt(x));
+const PTYPES=[["all","All postdoc listings","Everything for postdocs"],["prize","Prize & named fellowships","Propose your own research; apply to the program"],["group","Group postdocs","Join a PI, group or project"],["other","Grants, travel & other","Awards, compute, travel, visiting programs"]];
+function ptButtons(){
+  const sec=$("ptSec"); sec.hidden=stage!=="pd"; if(sec.hidden) return;
+  const base=DATA.filter(x=>inField(x)&&inStage(x)&&eligible(x)&&active(x));
+  $("ptype").innerHTML=PTYPES.map(([k,n,d])=>`<button class="ptbtn" data-k="${k}" aria-pressed="${k===ptype}"><span class="pn">${n} <span class="fc">${k==="all"?base.length:base.filter(x=>ptOf(x)===k).length}</span></span><span class="pd">${d}</span></button>`).join("");
+  $("ptype").querySelectorAll(".ptbtn").forEach(b=>b.onclick=()=>{ptype=b.dataset.k;fCat="All";showAll=false;save();renderAll();});
+}
+
+/* ---------- rendering ---------- */
+function banner(){
+  const b=$("banner");
+  if(!DATA.length){ b.className="banner"; b.textContent="Loading the program list…"; return; }
+  b.className="banner";
+  const lc=isoOk(META.lastChecked)?fmt(META.lastChecked):"—";
+  const ch=arr(META.changes).slice(0,4).map(c=>esc(c)).join(" · ");
+  const la=DATA.reduce((m,x)=>isoOk(x.added)&&x.added>m?x.added:m,"");
+  b.innerHTML=`<span><b>${DATA.length}</b> programs · every program rechecked <b>${esc(lc)}</b>${la?` · new postings added <b>${esc(fmt(la))}</b>`:""}</span>${ch?`<span>This week: ${ch}</span>`:""}`;
+}
+function fieldButtons(){
+  const box=$("fields");
+  box.innerHTML=FIELDS.map(f=>{
+    const n=DATA.filter(x=>inField(x,f.k)&&inStage(x)&&eligible(x)&&active(x)).length;
+    return `<button class="fbtn${f.x?" x":""}" data-k="${f.k}" aria-pressed="${f.k===field}"><span class="fn">${f.n}</span><span class="fc">${n} program${n===1?"":"s"}</span></button>`;
+  }).join("");
+  box.querySelectorAll(".fbtn").forEach(b=>b.onclick=()=>{field=b.dataset.k;fCat="All";showAll=false;save();renderAll();});
+}
+function stageTabs(){
+  const nav=$("stages");
+  nav.innerHTML=STAGES.map(s=>{
+    const rows=DATA.filter(x=>inField(x)&&inStage(x,s.k)&&eligible(x));
+    const soon=rows.filter(x=>future(x)&&active(x)&&days(x.d)<=30).length;
+    return `<button class="stage" role="tab" data-k="${s.k}" aria-selected="${s.k===stage}"><span class="sn">${s.n}</span><span class="sc">${rows.filter(active).length} active · ${soon} due in 30 d</span></button>`;
+  }).join("");
+  nav.querySelectorAll(".stage").forEach(b=>b.onclick=()=>{stage=b.dataset.k;fCat="All";showAll=false;save();renderAll();});
+}
+function context(){
+  const rows=scope(); const sN=STAGES.find(s=>s.k===stage).n;
+  const up=rows.filter(x=>future(x)&&active(x));
+  const ptL=stage==="pd"&&ptype!=="all"?" · "+PTYPES.find(p=>p[0]===ptype)[1]:"";
+  $("context").innerHTML=`<span><b>${esc(FNAME[field])}</b> · ${esc(sN)}${esc(ptL)}</span>`+
+    `<span class="stat"><b>${up.filter(x=>days(x.d)<=30).length}</b> due in 30 days</span>`+
+    `<span class="stat"><b>${rows.filter(x=>x.s==="rolling").length}</b> rolling</span>`+
+    `<span class="stat"><b>${rows.filter(x=>x.s==="watch").length}</b> on watch</span>`+
+    `<span class="stat"><b>${rows.length}</b> programs</span>`+
+    (uid?`<span class="stat"><b>${[...saved].filter(id=>DATA.some(x=>x.id===id)).length}</b> in my list</span>`:"");
+}
+const nextDate = x => { // earliest upcoming of external or Yale internal
+  const c=[]; if(future(x)) c.push(x.d); if(x.yale && isoOk(x.yale.d) && days(x.yale.d)>=0) c.push(x.yale.d); return c.sort()[0]||null; };
+function notes(){
+  const n=NOTES[stage]; const box=$("notes");
+  if(!n||!arr(n.items).length){box.hidden=true;return;} box.hidden=false;
+  box.innerHTML=`<h2>${esc(n.title||"")}</h2><ul>${arr(n.items).map(i=>`<li><b>${esc(i.b)}</b> ${esc(i.t)}</li>`).join("")}</ul>`;
+}
+function changes(){
+  $("changes").innerHTML=arr(NOTES.changes).map(c=>`<li><b>${esc(c.b)}</b>${esc(c.t)}</li>`).join("");
+}
+function chips(){
+  const dc=$("dueChips");
+  const dues=[["42","Next 6 weeks"],["all","View all"]];
+  dc.innerHTML=`<span class="lbl">Due</span>`+dues.map(([k,l])=>`<button class="chip" data-k="${k}" aria-pressed="${k===fDue}">${l}</button>`).join("");
+  dc.querySelectorAll(".chip").forEach(b=>b.onclick=()=>{fDue=b.dataset.k;render();});
+  const sc=$("statusChips");
+  const opts=[["active","Active (open, rolling, watch)"],["open","Open"],["rolling","Rolling"],["watch","Watch"],["closed","Closed"],["all","All, including closed"]];
+  if(uid) opts.push(["mine","My list"]);
+  const stVal=fStatus==="new"?"active":fStatus;
+  sc.innerHTML=`<label class="lbl" for="statusSel">Status</label><select class="sel" id="statusSel">${opts.map(([k,l])=>`<option value="${k}"${k===stVal?" selected":""}>${l}</option>`).join("")}</select>`
+    +`<button class="chip" id="newChip" aria-pressed="${fStatus==="new"}">New this week</button>`;
+  $("statusSel").onchange=e=>{fStatus=e.target.value;render();};
+  $("newChip").onclick=()=>{fStatus=fStatus==="new"?"active":"new";render();};
+  const cats=["All",...[...new Set(scope().map(x=>x.c))].filter(Boolean).sort()];
+  if(!cats.includes(fCat)) fCat="All";
+  const cc=$("catChips");
+  cc.innerHTML=`<label class="lbl" for="catSel">Type</label><select class="sel" id="catSel">${cats.map(k=>`<option value="${esc(k)}"${k===fCat?" selected":""}>${k==="All"?"All types":esc(k)}</option>`).join("")}</select>`;
+  $("catSel").onchange=e=>{fCat=e.target.value;render();};
+}
+function isNew(x){return isoOk(x.added)&&days(x.added)>=-7&&days(x.added)<=0;}
+function noWin(){return fStatus==="mine"||fStatus==="new"||q==="new";}
+function filtered(due=fDue){
+  let r=scope().filter(x=>{
+    const st=effStatus(x);
+    if(fStatus==="mine") return saved.has(x.id);
+    if(fStatus==="new"){if(!isNew(x)) return false;}
+    else if(fStatus==="active"&&st==="closed") return false;
+    if(!["active","all","new"].includes(fStatus)&&st!==fStatus) return false;
+    if(fCat!=="All"&&x.c!==fCat) return false;
+    if(due!=="all"&&!noWin()){const nd=nextDate(x); if(!nd||days(nd)>+due) return false;}
+    if(q==="new"){if(!isNew(x)) return false;}
+    else if(q){const h=[x.n,x.f,x.e,x.a,x.c,x.dt,arr(x.nofo).map(n=>n.opp).join(" "),x.yale?x.yale.t:""].join(" ").toLowerCase(); if(!h.includes(q)) return false;}
+    return true;});
+  const order={open:1,rolling:2,watch:3,closed:4};
+  const key=x=>{const nd=nextDate(x); return nd?"0"+nd:order[effStatus(x)]+"";};
+  r.sort((a,b)=> sortKey==="name" ? sortDir*String(a.n).localeCompare(String(b.n)) : sortDir*key(a).localeCompare(key(b)));
+  return r;
+}
+function render(){
+  chips();
+  $("allTitle").textContent=`Programs and deadlines · ${FNAME[field]} · ${STAGES.find(s=>s.k===stage).n}`;
+  $("actHead").hidden=!canWriteOwn && !isCoord;
+  let r=filtered(), autoAll=false;
+  if(fDue!=="all"&&!noWin()&&!r.length){const ra=filtered("all"); if(ra.length){r=ra;autoAll=true;}}
+  expBar(r);
+  const windowed=fDue!=="all"&&!noWin()&&!autoAll, more=windowed?filtered("all").length-r.length:0;
+  $("allSub").textContent=(autoAll?`Nothing is due in the next 6 weeks for this selection, so all ${r.length} program${r.length===1?" is":"s are"} shown, soonest deadline first.`:windowed?`${r.length} program${r.length===1?"":"s"} due in the next 6 weeks, soonest first.${more?` ${more} more have later, rolling or not-yet-announced deadlines.`:""}`:`${r.length} program${r.length===1?"":"s"}, soonest deadline first.`)+((fStatus==="new"||q==="new")?" Showing programs added in the last 7 days.":"")+" When a Yale internal step comes first, its date is shown first.";
+  if(autoAll) $("dueChips").querySelectorAll(".chip").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.k==="all")));
+  const vb=$("viewAllBtn"); vb.hidden=!(windowed&&more); vb.textContent=`View all ${r.length+more} programs`;
+  vb.onclick=()=>{fDue="all";render();$("allSec").scrollIntoView({block:"start"});};
+  $("rows").innerHTML=r.map(x=>{
+    const st=effStatus(x);
+    let dl;
+    const yFut=x.yale&&isoOk(x.yale.d)&&days(x.yale.d)>=0, yFirst=yFut&&(!future(x)||x.yale.d<x.d);
+    const cd=k=>`<span class="${dcls(k)}">(${k===0?"today":k+"d"})</span>`;
+    if(yFirst){const k=days(x.yale.d);
+      dl=`${fmt(x.yale.d)} ${cd(k)}<span class="ylab">Yale internal</span><span class="ext">External deadline: ${future(x)?fmt(x.d):"to be announced"}</span><small>${esc(x.dt)}</small>`;}
+    else if(future(x)){dl=`${fmt(x.d)} ${cd(days(x.d))}<small>${esc(x.dt)}</small>`;}
+    else if(isoOk(x.d)){dl=`—<small>Last: ${fmt(x.d)}. ${esc(x.dt)}</small>`;}
+    else dl=`—<small>${esc(x.dt)}</small>`;
+    if(x.yale){ const yd=yFirst?"Yale step":isoOk(x.yale.d)?(days(x.yale.d)>=0?`Yale: ${fmt(x.yale.d)}`:`Yale last cycle: ${fmt(x.yale.d)}`):"Yale step"; dl+=`<span class="yd">${esc(yd)}. ${esc(x.yale.t)}${x.yale.unv?" (unverified)":""}</span>`; }
+    const tags=(isNew(x)?`<span class="tag new" title="Added ${esc(fmt(x.added))}">New</span>`:"")+(arr(x.fields).includes("all")?`<span class="tag">all fields</span>`:arr(x.fields).map(f=>`<span class="tag">${esc(TAGN[f]||FNAME[f]||f)}</span>`).join(""))
+      +(x.us?`<span class="tag flag">US citizens/PR</span>`:"")+(x.nom?`<span class="tag flag">nomination / limited</span>`:"");
+    const nofo=arr(x.nofo).filter(n=>safeUrl(n.u)).map(n=>`<a href="${esc(safeUrl(n.u))}" target="_blank" rel="noopener">grants.gov ${esc(n.opp)}</a>`).join(" · ");
+    const yl=x.yale&&safeUrl(x.yale.u)?`<a href="${esc(safeUrl(x.yale.u))}" target="_blank" rel="noopener">Yale page</a>`:"";
+    const meta=[expCalLinks(x),nofo,yl,isoOk(x.checked)?`checked ${fmt(x.checked)}`:""].filter(Boolean).map(m=>`<span>${m}</span>`).join("");
+    const mi=myInterest[x.id];
+    const acts=(canWriteOwn?`<button class="mini" data-save="${esc(x.id)}" aria-pressed="${saved.has(x.id)}">${saved.has(x.id)?"★ Saved":"☆ Save"}</button>
+       <button class="mini" data-int="${esc(x.id)}" aria-pressed="${!!mi}" title="Shares only with the department coordinator">${mi?"✓ Applying (shared)":"I'm applying"}</button>`:"")
+      +(isCoord?`<button class="mini" data-edit="${esc(x.id)}">Edit</button>`:"");
+    return `<tr><td class="dl" data-l="">${dl}</td>
+      <td data-l="" style="min-width:240px"><div class="pname"><input type="checkbox" class="pickbox" data-pick="${esc(x.id)}" ${EXP.picked.has(x.id)?"checked":""} aria-label="Tick ${esc(x.n)} for export" title="Tick to export">${safeUrl(x.u)?`<a href="${esc(safeUrl(x.u))}" target="_blank" rel="noopener">${esc(x.n)}</a>`:esc(x.n)}</div><div class="funder">${esc(x.f)} · ${esc(x.c)}</div><div class="tags">${tags}</div>${meta?`<div class="meta">${meta}</div>`:""}</td>
+      <td data-l=""><span class="pill s-${st}">${STATUS[st]}</span></td>
+      <td data-l="${x.a?"Award":""}" style="min-width:160px">${esc(x.a)}</td>
+      <td data-l="Eligibility and notes" style="min-width:300px"><div class="note">${esc(x.e)}${x.unv?` <span class="unv">unverified: ${esc(x.unv)}</span>`:""}</div></td>
+      <td ${(!canWriteOwn&&!isCoord)?"hidden":""}><div class="rowact">${acts}</div></td></tr>`;
+  }).join("")||`<tr><td colspan="6" class="empty">${fStatus==="mine"?"Nothing saved yet for this area and stage. Use ☆ Save on any row.":windowed?"Nothing due in the next 6 weeks for this selection.":"No programs match these filters."}</td></tr>`;
+  $("rows").querySelectorAll("[data-save]").forEach(b=>b.onclick=()=>toggleSave(b.dataset.save));
+  $("rows").querySelectorAll("[data-int]").forEach(b=>b.onclick=()=>toggleInterest(b.dataset.int));
+  $("rows").querySelectorAll("[data-edit]").forEach(b=>b.onclick=()=>openEdit(b.dataset.edit));
+  $("rows").querySelectorAll("[data-pick]").forEach(cb=>cb.onchange=()=>{expToggle(cb.dataset.pick,cb.checked);expBar(EXP_SHOWN);});
+}
+function renderAll(){banner();fieldButtons();stageTabs();ptButtons();context();notes();changes();render();if(isCoord)renderCoord();}
+
+/* ---------- personal state (optional) ---------- */
+let wq=Promise.resolve();
+const queue = fn => (wq=wq.then(fn).catch(e=>{
+  if(e&&e.code==="invalid_argument"&&!isCoord){ canWriteOwn=false; $("suggestSec").hidden=true; render();
+    $("csvMsg").textContent="Your access to this page is view-only, so saving and sharing are turned off."; }
+  else console.warn(e);
+}));
+function toggleSave(id){
+  saved.has(id)?saved.delete(id):saved.add(id); render(); context();
+  const ids=[...saved];
+  queue(()=>db.doc(`data/users/${uid}/saved`).set({ids,updatedAt:new Date().toISOString()}));
+}
+function toggleInterest(id){
+  if(myInterest[id]) delete myInterest[id]; else myInterest[id]={status:"applying",at:new Date().toISOString().slice(0,10)};
+  render();
+  const items={...myInterest};
+  queue(()=>db.doc(`interest/${uid}`).set({items,updatedAt:new Date().toISOString()}));
+}
+
+/* ---------- export buttons ---------- */
+$("icsBtn").onclick=()=>expSaveFile("ics",$("csvMsg"));
+$("csvBtn").onclick=()=>expSaveFile("csv",$("csvMsg"));
+$("pickAllBtn").onclick=()=>{EXP_SHOWN.forEach(x=>EXP.picked.add(x.id));expSave();render();};
+$("pickClearBtn").onclick=()=>{EXP.picked.clear();expSave();render();$("csvMsg").textContent="";};
+
+/* ---------- suggestions ---------- */
+$("suggestForm").onsubmit=e=>{
+  e.preventDefault();
+  const u=$("sgUrl").value.trim();
+  if(!safeUrl(u)){$("sgMsg").textContent="Please use a full https:// link.";return;}
+  const item={n:$("sgName").value.trim().slice(0,200),u,d:$("sgDate").value||null,note:$("sgNote").value.trim().slice(0,1000),at:new Date().toISOString().slice(0,10),state:"new"};
+  mySuggest=[...mySuggest,item].slice(-40);
+  const items=mySuggest;
+  $("sgMsg").textContent="Sending…";
+  queue(async()=>{await db.doc(`suggestions/${uid}`).set({items,updatedAt:new Date().toISOString()}); $("sgMsg").textContent="Thanks. The weekly check will verify it."; e.target.reset();});
+};
+
+/* ---------- coordinator ---------- */
+async function renderCoord(){
+  $("coordSec").hidden=false;
+  const tabs=[["interest","Who's applying"],["limited","Limited submissions"],["suggest","Suggestions"],["add","Add a program"]];
+  $("ctabs").innerHTML=tabs.map(([k,l])=>`<button class="chip" data-k="${k}" aria-pressed="${k===ctab}">${l}</button>`).join("");
+  $("ctabs").querySelectorAll(".chip").forEach(b=>b.onclick=()=>{ctab=b.dataset.k;renderCoord();});
+  const body=$("cbody");
+  const byProg={};
+  allInterest.forEach(d=>Object.entries(d.items||{}).forEach(([pid,v])=>{(byProg[pid]=byProg[pid]||[]).push({who:d.id,at:v&&v.at});}));
+  const ids=[...new Set([...allInterest.map(d=>d.id),...allSuggest.map(d=>d.id)])];
+  const ps=(user&&ids.length)?await user.profiles(ids):{};
+  const nm=id=>(ps[id]&&ps[id].name)||"Someone";
+  if(ctab==="interest"||ctab==="limited"){
+    let pids=Object.keys(byProg);
+    if(ctab==="limited") pids=DATA.filter(x=>x.nom&&active(x)).map(x=>x.id);
+    const rows=pids.map(pid=>DATA.find(x=>x.id===pid)).filter(Boolean).sort((a,b)=>(nextDate(a)||"9").localeCompare(nextDate(b)||"9"));
+    body.innerHTML=rows.length?`<div class="clist">${rows.map(x=>{const who=byProg[x.id]||[];const nd=nextDate(x);
+      return `<div class="citem"><div><b>${esc(x.n)}</b> <span class="funder">${nd?esc(fmt(nd)):""}${x.nom?" · nomination / limited":""}</span></div>
+      <div class="who" data-who="${esc(x.id)}">${who.length?`${who.length} applying: `:"No one has said they're applying."}</div></div>`}).join("")}</div>`
+      :`<p>${ctab==="limited"?"No active limited-submission programs.":"No one has shared that they're applying yet. Colleagues can do this from any row."}</p>`;
+    body.querySelectorAll("[data-who]").forEach(el=>{const w=byProg[el.dataset.who]||[]; if(w.length){el.textContent=`${w.length} applying: `+w.map(p=>nm(p.who)).join(", ");}});
+  } else if(ctab==="suggest"){
+    const list=allSuggest.flatMap(d=>arr(d.items).map((it,i)=>({...it,who:d.id,i})));
+    body.innerHTML=list.length?`<div class="clist">${list.map((s,k)=>`<div class="citem"><div><b data-t="${k}"></b> <span class="funder" data-s="${k}"></span></div><div class="who" data-w="${k}"></div><div class="formrow"><button class="mini" data-addsg="${k}">Add as a program</button></div></div>`).join("")}</div>`:`<p>No suggestions yet.</p>`;
+    list.forEach((s,k)=>{const q=sel=>body.querySelector(sel);
+      q(`[data-t="${k}"]`).textContent=s.n||"(no name)";
+      q(`[data-s="${k}"]`).textContent=`${s.d?"deadline "+s.d+" · ":""}${s.state||"new"} · ${s.at||""}`;
+      q(`[data-w="${k}"]`).textContent=`From ${nm(s.who)}. ${s.note||""} ${safeUrl(s.u)}`;});
+    body.querySelectorAll("[data-addsg]").forEach(b=>b.onclick=()=>{const s=list[+b.dataset.addsg];openEdit(null,{n:s.n,u:safeUrl(s.u),d:s.d,e:s.note,s:"open",stages:[stage],fields:["all"]});});
+  } else {
+    body.innerHTML=`<p>Add a program the list is missing. It appears for everyone right away.</p><div class="formrow"><button class="btn primary" id="addNew">New program</button></div>`;
+    $("addNew").onclick=()=>openEdit(null,{s:"open",stages:[stage],fields:[field==="*"?"all":field]});
+  }
+}
+let editId=null;
+function openEdit(id,preset){
+  const x=id?DATA.find(r=>r.id===id):(preset||{}); editId=id;
+  $("edTitle").textContent=id?"Edit program":"Add a program";
+  $("edN").value=x.n||""; $("edF").value=x.f||""; $("edC").value=x.c||"Federal grant"; $("edS").value=x.s||"open";
+  $("edD").value=isoOk(x.d)?x.d:""; $("edDt").value=x.dt||""; $("edYd").value=x.yale&&isoOk(x.yale.d)?x.yale.d:""; $("edYt").value=x.yale?x.yale.t||"":"";
+  $("edA").value=x.a||""; $("edE").value=x.e||""; $("edU").value=x.u||""; $("edSt").value=arr(x.stages).join(", "); $("edFi").value=arr(x.fields).join(", ");
+  $("edUs").checked=!!x.us; $("edNom").checked=!!x.nom; $("edMsg").textContent="";
+  $("editDlg").showModal();
+}
+$("editForm").addEventListener("submit",e=>{
+  if(e.submitter&&e.submitter.value!=="save") return;
+  e.preventDefault();
+  const list=v=>v.split(",").map(s=>s.trim()).filter(Boolean);
+  const u=$("edU").value.trim();
+  const body={n:$("edN").value.trim(),f:$("edF").value.trim(),c:$("edC").value.trim()||"Federal grant",s:$("edS").value,d:$("edD").value||null,dt:$("edDt").value.trim(),
+    a:$("edA").value.trim(),e:$("edE").value.trim(),u:safeUrl(u),stages:list($("edSt").value).filter(s=>STAGES.some(t=>t.k===s)),fields:list($("edFi").value),
+    us:$("edUs").checked,nom:$("edNom").checked,checked:new Date().toISOString().slice(0,10),editedBy:uid||null};
+  const yd=$("edYd").value, yt=$("edYt").value.trim();
+  const old=editId?DATA.find(r=>r.id===editId):null;
+  body.yale=(yd||yt)?{d:yd||null,t:yt,u:old&&old.yale?old.yale.u||"":""}:null;
+  if(!body.stages.length||!body.fields.length){$("edMsg").textContent="Add at least one career stage and research area.";return;}
+  const id=editId||(body.n.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"").slice(0,50)+"-"+Math.random().toString(36).slice(2,6));
+  const full={...(old||{}),...body,id,nofo:old?arr(old.nofo):[]};
+  if(!full.yale) delete full.yale;
+  $("edMsg").textContent="Saving…";
+  queue(async()=>{try{await db.doc(`programs/${id}`).set(full);$("editDlg").close();}catch(err){$("edMsg").textContent="Couldn't save. Your access may not allow editing.";}});
+});
+
+/* ---------- controls ---------- */
+document.querySelectorAll("th button").forEach(b=>b.onclick=()=>{const k=b.dataset.sort;if(sortKey===k)sortDir*=-1;else{sortKey=k;sortDir=1;}render();});
+$("q").addEventListener("input",e=>{q=e.target.value.trim().toLowerCase();render();});
+$("noUS").onchange=e=>{noUS=e.target.checked;save();renderAll();};
+$("noNom").onchange=e=>{noNom=e.target.checked;save();renderAll();};
+renderAll();
+
+/* ---------- boot ---------- */
+/* Static edition: data is embedded and refreshed by the scheduled funding-engine runs. */
+</script>
+</body>
+</html>

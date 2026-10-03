@@ -1,0 +1,28 @@
+{
+ "a": "US$10,000 plus one-year Optica student membership and mentoring",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Scholarship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Annual; next window not posted",
+ "e": "Twenty women students in optics and photonics are chosen each year for a merit- and need-based grant. Open internationally.",
+ "f": "Optica Foundation",
+ "fields": [
+  "phot"
+ ],
+ "id": "optica-women-scholars",
+ "n": "Optica Foundation: Optica Women Scholars",
+ "nom": false,
+ "s": "watch",
+ "src": "other:optica-foundation",
+ "stages": [
+  "gr",
+  "ug"
+ ],
+ "u": "https://www.optica.org/foundation/opportunities/scholarships/optica_women_scholars/",
+ "unv": "Eligible study levels and the 2027 application dates are not shown on the page.",
+ "us": false
+}

@@ -1,0 +1,35 @@
+{
+ "a": "TVöD E13, 2–5 yr",
+ "added": "2026-09-29",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-29",
+ "d": "2026-11-23",
+ "dt": "Including letters",
+ "e": "Group positions in gravitational-wave astrophysics, starting fall 2027.",
+ "f": "Max Planck Institute for Gravitational Physics (AEI), Potsdam",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "max-planck-aei-potsdam-postdocs",
+ "n": "Max Planck AEI Potsdam: GW science postdocs (ACR division)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.aei.mpg.de/1513474/acr-postdoc-2027",
+ "us": false
+}

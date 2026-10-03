@@ -1,0 +1,34 @@
+{
+ "a": null,
+ "added": "2026-10-01",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-01",
+ "d": "2026-10-20",
+ "dt": "Deadlines Apr 20 and Oct 20 each year; current call (Garching and Santiago) closes Oct 20, 2026",
+ "e": "For PhD students at any university (Garching prefers ESO member states; Chile gives recruitment preference to member-state nationals). 6 months–2 years at ESO, mostly optical/IR/ALMA, so a weak fit for pulsar timing.",
+ "f": "European Southern Observatory",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "eso-studentship-programme",
+ "n": "ESO Studentship Programme",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "other:eso",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://www.eso.org/sci/activities/fellowships-and-studentships/FeSt-overview/ESOstudentship.html",
+ "unv": "Stipend amount not stated",
+ "us": false
+}

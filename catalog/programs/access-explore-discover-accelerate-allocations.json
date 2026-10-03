@@ -1,0 +1,35 @@
+{
+ "a": "HPC/GPU credits, tiered",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Compute",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Rolling",
+ "e": "US researchers; grad students can be PI on Explore. Coordinator-verified.",
+ "f": "NSF ACCESS",
+ "fields": [
+  "ds",
+  "all"
+ ],
+ "id": "access-explore-discover-accelerate-allocations",
+ "n": "ACCESS Explore / Discover / Accelerate allocations",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://allocations.access-ci.org/",
+ "us": false
+}

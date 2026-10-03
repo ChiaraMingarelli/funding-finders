@@ -1,0 +1,40 @@
+{
+ "a": "1 yr of study/research at Cambridge (fees + stipend)",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-11-02",
+ "dt": "Nov 2, 2026, 5 pm ET; Yale internal ~mid-Oct",
+ "e": "US citizen seniors/recent grads from participating institutions (Yale participates), endorsed by the institution.",
+ "f": "Winston Churchill Foundation",
+ "fields": [
+  "all"
+ ],
+ "id": "churchill-scholarship-2027-28",
+ "n": "Churchill Scholarship (2027-28)",
+ "nfit": "Low",
+ "ng": {
+  "dt": "Nov 2, 2026, 5 pm ET; your institution's internal deadline is usually earlier (often mid-October)",
+  "e": "US citizen seniors or recent graduates from participating institutions, endorsed by their institution."
+ },
+ "nom": true,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.churchillscholarship.org/",
+ "us": true,
+ "yale": {
+  "d": "2026-10-01",
+  "t": "Campus deadline for Yale's nomination: 1pm ET, Oct 1, 2026, through the Yale Student Grants Database (yale.communityforce.com). Submit a PDF of the submitted draft Churchill application and 4 letters. Yale nominates 2. You must also apply to Cambridge by the mid-October Gates Cambridge deadline, listing Churchill as first-choice college.",
+  "u": "https://funding.yale.edu/find-funding/uk-fellowships"
+ }
+}

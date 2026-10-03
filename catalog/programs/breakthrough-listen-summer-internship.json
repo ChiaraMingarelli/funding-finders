@@ -1,0 +1,34 @@
+{
+ "a": "US site 2026: $12,538 (travel reimbursed)",
+ "added": "2026-10-01",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "Summer 2027 details to be posted in December 2026; 2026 deadline was Feb 1",
+ "e": "US site: sophomores to seniors who are US citizens/green-card holders or enrolled at US institutions (European/UK sites have separate rules). Radio data projects with GBT, MeerKAT and Parkes, including FRB searches.",
+ "f": "Berkeley SETI Research Center",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "breakthrough-listen-summer-internship",
+ "n": "Breakthrough Listen Summer Internship",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "src": "other:berkeley-seti",
+ "stages": [
+  "ug"
+ ],
+ "u": "http://seti.berkeley.edu/Internship.html",
+ "unv": "2027 details pending",
+ "us": false
+}

@@ -1,0 +1,30 @@
+{
+ "a": "not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Training",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Rolling; year-round or summer appointments",
+ "e": "Year-round or summer research internships at Los Alamos for graduate students; open to domestic and international students.",
+ "f": "Los Alamos National Laboratory",
+ "fields": [
+  "all",
+  "mat",
+  "qp",
+  "phot"
+ ],
+ "id": "lanl-graduate-research-assistant",
+ "n": "LANL Graduate Research Assistant (GRA) Program",
+ "nom": false,
+ "s": "rolling",
+ "src": "other:lanl-gra",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://www.lanl.gov/engage/collaboration/student-programs/graduate",
+ "unv": "Pay and eligibility details not verified beyond the summary",
+ "us": false
+}

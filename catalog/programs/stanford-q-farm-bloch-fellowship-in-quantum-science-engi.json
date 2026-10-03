@@ -1,0 +1,30 @@
+{
+ "a": "3 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-16",
+ "dt": "2026/10/16 23:59:59 (time zone not stated on page)",
+ "e": "Fellowship across quantum algorithms, computing, information, materials, optics and sensing; at least four awards. PhD before start (~Autumn 2027).",
+ "f": "Stanford University, Q-FARM (Stanford-SLAC Quantum Initiative)",
+ "fields": [
+  "qp",
+  "cmx",
+  "cmt",
+  "amo"
+ ],
+ "id": "stanford-q-farm-bloch-fellowship-in-quantum-science-engi",
+ "n": "Stanford Q-FARM: Bloch Fellowship in Quantum Science & Engineering",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32497",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32497",
+ "us": false
+}

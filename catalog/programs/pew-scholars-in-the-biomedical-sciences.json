@@ -1,0 +1,33 @@
+{
+ "a": "$300,000 over 4 years ($75K/yr)",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Foundation",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last deadline Sept 3, 2026; the 2028 cycle is not posted yet (expected in spring 2027, with internal nomination first)",
+ "e": "Assistant professors running an independent lab for about 3 years or less, including those with physical-science doctorates. One nominee per invited institution, and a candidate may apply at most twice.",
+ "f": "The Pew Charitable Trusts",
+ "fields": [
+  "bio"
+ ],
+ "id": "pew-scholars-in-the-biomedical-sciences",
+ "n": "Pew Scholars in the Biomedical Sciences",
+ "nom": true,
+ "s": "watch",
+ "stages": [
+  "tt"
+ ],
+ "u": "https://www.pew.org/en/projects/pew-biomedical-scholars",
+ "unv": "Cycle dates and amounts confirmed only via a university limited-submission page (UW–Madison); the Pew page does not list them",
+ "us": false,
+ "yale": {
+  "d": "2026-02-23",
+  "t": "Yale internal application for the 2027 Pew Biomedical Scholars. Sponsor nomination deadline May 13, 2026; full application Sep 3, 2026. Assistant professors. This has passed.",
+  "u": "https://research.yale.edu/funding-opportunities-newsletter-archive",
+  "unv": "Source is the Feb 4 to Feb 18, 2026 newsletters."
+ }
+}

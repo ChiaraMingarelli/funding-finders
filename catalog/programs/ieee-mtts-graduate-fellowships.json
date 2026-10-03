@@ -1,0 +1,28 @@
+{
+ "a": "Up to $6,000; up to 15 awards (+ up to 3 medical-applications fellowships)",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": "2026-10-15",
+ "dt": "Annual deadline Oct 15 (submission via EDAS)",
+ "e": "Fellowships for graduate students working in microwave engineering, including microwave/RF hardware relevant to superconducting quantum circuits; a separate track covers medical microwave applications.",
+ "f": "IEEE Microwave Theory and Technology Society",
+ "fields": [
+  "dev",
+  "qp",
+  "inst"
+ ],
+ "id": "ieee-mtts-graduate-fellowships",
+ "n": "IEEE MTT-S Microwave Engineering Graduate Fellowships",
+ "nom": false,
+ "s": "open",
+ "src": "other:mtts",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://mtt.org/students/",
+ "us": false
+}

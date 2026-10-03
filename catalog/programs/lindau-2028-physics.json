@@ -1,0 +1,32 @@
+{
+ "a": "not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Travel",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "77th meeting (Physics) Jun 25-30, 2028; nominations expected in 2027",
+ "e": "Week-long meeting with Nobel laureates in Lindau, Germany, for selected students and postdocs who apply through academic partners. The 2027 meeting is physiology/medicine; 2028 is physics.",
+ "f": "Lindau Nobel Laureate Meetings",
+ "fields": [
+  "all"
+ ],
+ "id": "lindau-2028-physics",
+ "n": "Lindau Nobel Laureate Meeting 2028 (Physics) - young scientist participation",
+ "nom": true,
+ "pt": "other",
+ "s": "watch",
+ "src": "other:lindau",
+ "stages": [
+  "ug",
+  "gr",
+  "pd"
+ ],
+ "u": "https://www.lindau-nobel.org/future-meetings/",
+ "unv": "US nominating route (academic partner) and dates for the 2028 cycle not verified",
+ "us": false
+}

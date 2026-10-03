@@ -1,0 +1,33 @@
+{
+ "a": "not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Foundation",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Apply any time via online form",
+ "e": "Small grants for open-source quantum technology projects such as software libraries and research tools. Open to individuals worldwide, with no institutional affiliation required.",
+ "f": "Unitary Foundation",
+ "fields": [
+  "qp"
+ ],
+ "id": "unitary-foundation-microgrants",
+ "n": "Unitary Foundation: Quantum Technology Microgrants",
+ "nom": false,
+ "pt": "other",
+ "s": "rolling",
+ "src": "other:unitary",
+ "stages": [
+  "ug",
+  "gr",
+  "pd",
+  "tt",
+  "ten"
+ ],
+ "u": "https://unitary.foundation/grants/",
+ "unv": "The grants page gives no amount or review schedule.",
+ "us": false
+}

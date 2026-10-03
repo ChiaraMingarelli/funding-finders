@@ -1,0 +1,35 @@
+{
+ "a": "2 years + possible 1",
+ "added": "2026-09-30",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2027-07-01",
+ "dt": "2027/07/01 23:59:59 (time zone not stated on page)",
+ "e": "String theory, QFT, mathematical physics and quantum gravity.",
+ "f": "Yau Mathematical Sciences Center, Tsinghua University, String Theory group",
+ "fields": [
+  "ppt",
+  "grav"
+ ],
+ "id": "ymsc-tsinghua-postdoc-in-string-theory-mathematical-phys",
+ "n": "YMSC Tsinghua: Postdoc in String Theory / Mathematical Physics",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:32277",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32277",
+ "us": false
+}

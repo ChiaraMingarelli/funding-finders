@@ -1,0 +1,28 @@
+{
+ "a": "3 years: $76K, $78K, $80K stipend plus $2K/yr for research",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-12-01",
+ "dt": "Due Dec 1, 2026, 4pm ET",
+ "e": "For scientists trained in physics, math, CS or engineering who take quantitative approaches to cancer biology, with two mentors (quantitative and cancer biology). Degree within 5 years and at most 24 months in the mentors' labs; non-US citizens must work in the US.",
+ "f": "Damon Runyon Cancer Research Foundation",
+ "fields": [
+  "bio",
+  "ds",
+  "cmx"
+ ],
+ "id": "damon-runyon-quantitative-biology-fellowship",
+ "n": "Damon Runyon Quantitative Biology Fellowship",
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.damonrunyon.org/for-scientists/application-guidelines/quantitative",
+ "us": false
+}

@@ -1,0 +1,28 @@
+{
+ "a": "CAD 77,000/yr",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-11-01",
+ "dt": "2026/11/01 23:59:59 (time zone not stated on page)",
+ "e": "Circuit QED, superconducting qubits, quantum error correction, microwave quantum optics and ML for quantum systems.",
+ "f": "Universite de Sherbrooke, Institut Quantique (Alexandre Blais)",
+ "fields": [
+  "qp",
+  "cmt"
+ ],
+ "id": "universite-de-sherbrooke-postdoc-theory-of-superconducti",
+ "n": "Universite de Sherbrooke: Postdoc, Theory of Superconducting Quantum Devices",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:28229",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/28229",
+ "us": false
+}

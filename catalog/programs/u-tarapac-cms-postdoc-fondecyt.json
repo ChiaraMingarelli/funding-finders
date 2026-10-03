@@ -1,0 +1,27 @@
+{
+ "a": "FONDECYT-funded (as listed)",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-31",
+ "dt": "Oct 31, 2026",
+ "e": "CMS BSM searches and the Phase-II GEM upgrade. Requires a PhD defended Jan 2024 or later.",
+ "f": "Universidad de Tarapacá, Chile; CMS group (postdoccmschile@gmail.com)",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "u-tarapac-cms-postdoc-fondecyt",
+ "n": "U. Tarapacá: CMS postdoc (FONDECYT)",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3204207",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3204207",
+ "us": false
+}

@@ -1,0 +1,31 @@
+{
+ "a": "$2,500 and certificate; finalists receive up to $1,000 travel to DAMOP",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Prize",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last deadline Jan 5, 2026; next cycle not posted",
+ "e": "Annual award for AMO doctoral thesis research by people who defended in the two calendar years before the award year. Candidates must be nominated.",
+ "f": "APS Division of Atomic, Molecular and Optical Physics",
+ "fields": [
+  "amo",
+  "qp"
+ ],
+ "id": "aps-jin-amo-thesis-award",
+ "n": "APS Deborah Jin Award for Outstanding Doctoral Thesis Research in AMO Physics",
+ "nom": true,
+ "pt": "prize",
+ "s": "watch",
+ "src": "other:aps-prizes",
+ "stages": [
+  "gr",
+  "pd"
+ ],
+ "u": "https://www.aps.org/funding-recognition/award/deborah-jin",
+ "unv": "The 2027 nomination deadline is not posted.",
+ "us": false
+}

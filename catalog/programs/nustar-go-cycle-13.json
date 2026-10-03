@@ -1,0 +1,34 @@
+{
+ "a": "About 6.5 Ms standard plus 2 Ms large-program time; joint XMM-Newton (1.5 Ms) and XRISM (0.5 Ms) time; NASA funding for US investigators in Phase 2",
+ "added": "2026-10-03",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": "2027-01-28",
+ "dt": "Phase-1 due 28 Jan 2027 via ARK/RPS; time of day not stated on amendment page (usually 4:30 pm ET)",
+ "e": "NASA's call for hard X-ray observations with NuSTAR, issued as ROSES-25 Amendment 76 (Section 11 of D.3). Open to all; NASA funding goes only to US-based investigators.",
+ "f": "NASA NuSTAR (ROSES-25 D.3 AGIGO)",
+ "fields": [
+  "astro"
+ ],
+ "id": "nustar-go-cycle-13",
+ "n": "NuSTAR GO Cycle 13",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "open",
+ "src": "other:nustar-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://science.nasa.gov/amendment-76-d-3-agigo-nustargeneral-observer-second-opportunity-in-roses-25/",
+ "unv": "Exact submission time of day; student PI eligibility",
+ "us": false
+}

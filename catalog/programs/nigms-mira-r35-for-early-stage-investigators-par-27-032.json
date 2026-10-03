@@ -1,0 +1,34 @@
+{
+ "a": "Up to $275K direct costs per year, up to 5 years",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": "2027-02-03",
+ "dt": "Next receipt date Feb 3, 2027, 5 pm local; later dates Oct 4, 2027 and Feb 3, 2028 (through Feb 6, 2029)",
+ "e": "Must be an NIH Early Stage Investigator (within 10 years of terminal degree, with no prior substantial independent NIH award), and the research must fit the NIGMS mission. The application format has no specific-aims page, and ineligible applicants are withdrawn without review.",
+ "f": "NIH NIGMS",
+ "fields": [
+  "bio",
+  "ds",
+  "inst"
+ ],
+ "id": "nigms-mira-r35-for-early-stage-investigators-par-27-032",
+ "n": "NIGMS MIRA (R35) for Early Stage Investigators (PAR-27-032)",
+ "nofo": [
+  {
+   "opp": "PAR-27-032",
+   "u": "https://simpler.grants.gov/opportunity/9a4aeb2f-d0ac-403b-ac67-9d1fd24d9556"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt"
+ ],
+ "u": "https://nigms.nih.gov/Research/mechanisms/MIRA/Pages/default",
+ "us": false
+}

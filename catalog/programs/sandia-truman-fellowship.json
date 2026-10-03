@@ -1,0 +1,32 @@
+{
+ "a": "$123,300/yr ($139,600 CA) plus up to $100,000/yr research budget; 3 years",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "2027 cycle Idea Phase closed Oct 1, 2026; invited full applications due Nov 17, 2026; next cycle expected fall 2027",
+ "e": "Three-year independent postdoctoral fellowship for research supporting Sandia's national security mission; past fellows worked in quantum computing, quantum photonics, frequency combs and materials. Must be able to obtain a DOE security clearance.",
+ "f": "Sandia National Laboratories",
+ "fields": [
+  "qp",
+  "phot",
+  "mat",
+  "dev"
+ ],
+ "id": "sandia-truman-fellowship",
+ "n": "Sandia: President Harry S. Truman Fellowship in National Security Science and Engineering",
+ "nom": false,
+ "pt": "prize",
+ "s": "watch",
+ "src": "other:sandia-truman",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.sandia.gov/careers/careers/students-and-postdocs/fellowships/truman-fellowship/",
+ "unv": "Clearance requirement effectively implies US citizenship; page does not state it explicitly.",
+ "us": true
+}

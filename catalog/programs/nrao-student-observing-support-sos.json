@@ -1,0 +1,36 @@
+{
+ "a": "Up to $40,000/yr per investigator (student stipend, travel, computing)",
+ "added": "2026-10-01",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "Tied to accepted proposals; separate rounds roughly Sep (ALMA), Dec and Jun (VLA/VLBA/GBT); NRAO lists no active SOS call now",
+ "e": "PI (not a student or postdoc) at the student's institution applies after an accepted GBT/VLA/VLBA/ALMA project. Can fund students working on GBT pulsar-timing or radio projects.",
+ "f": "NSF NRAO",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "nrao-student-observing-support-sos",
+ "n": "NRAO Student Observing Support (SOS)",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "src": "other:nrao",
+ "stages": [
+  "gr",
+  "ug"
+ ],
+ "u": "https://science.nrao.edu/opportunities/student-programs/sos",
+ "unv": "Next SOS deadline not posted; whether non-US institutions are eligible not stated",
+ "us": false
+}

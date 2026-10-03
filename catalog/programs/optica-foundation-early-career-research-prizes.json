@@ -1,0 +1,32 @@
+{
+ "a": "US$20,000 prize plus travel to Quantum 2.0 (Hänsch) or CLEO (Couillaud)",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Prize",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Annual; application system currently closed",
+ "e": "Unrestricted research prizes for Optica members 1–5 years past their highest degree (career breaks excluded), working in quantum optics (Hänsch) or ultrafast lasers (Couillaud). Open internationally.",
+ "f": "Optica Foundation",
+ "fields": [
+  "phot",
+  "qp",
+  "amo"
+ ],
+ "id": "optica-foundation-early-career-research-prizes",
+ "n": "Optica Foundation: early-career research prizes (Hänsch Prize in Quantum Optics; Couillaud Prize in Ultrafast Lasers)",
+ "nom": false,
+ "pt": "prize",
+ "s": "watch",
+ "src": "other:optica-foundation",
+ "stages": [
+  "pd",
+  "tt"
+ ],
+ "u": "https://www.optica.org/foundation/opportunities/competitions_prizes/",
+ "unv": "The 2027 application window is not posted. The Gapontsev fiber-laser prize page was not checked.",
+ "us": false
+}

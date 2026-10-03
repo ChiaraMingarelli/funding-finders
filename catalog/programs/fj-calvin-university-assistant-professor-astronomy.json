@@ -1,0 +1,28 @@
+{
+ "a": "Assistant Professor, regular (tenure-track) faculty",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-12-01",
+ "dt": "Deadline Dec 1, 2026",
+ "e": "Astronomy research with undergraduates. Start Aug 2027; 2028/2029 starts considered.",
+ "f": "Dept. of Physics & Astronomy, Calvin University",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-calvin-university-assistant-professor-astronomy",
+ "n": "Calvin University: Assistant Professor (Astronomy)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "aas:7255701c",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://calvin.wd5.myworkdayjobs.com/en-US/CalvinUniversityCareers/job/Physics-Astronomy-Faculty_R-4917",
+ "us": false
+}

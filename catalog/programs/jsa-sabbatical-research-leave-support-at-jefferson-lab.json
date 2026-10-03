@@ -1,0 +1,28 @@
+{
+ "a": "$1,500 per month stipend during the sabbatical at JLab.",
+ "added": "2026-09-28",
+ "aud": [
+  "yale"
+ ],
+ "c": "Visiting program",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Nominations; no deadline shown on the SURA page.",
+ "e": "Preference for nominees from SURA member universities; Yale is not a SURA member, so the fit is limited.",
+ "f": "Jefferson Science Associates (SURA)",
+ "fields": [
+  "nux",
+  "nut",
+  "inst"
+ ],
+ "id": "jsa-sabbatical-research-leave-support-at-jefferson-lab",
+ "n": "JSA Sabbatical/Research Leave Support at Jefferson Lab",
+ "nom": true,
+ "s": "watch",
+ "stages": [
+  "ten"
+ ],
+ "u": "https://sura.org/awards/sabbatical-support-program/",
+ "unv": "Deadline and current cycle not confirmed",
+ "us": false
+}

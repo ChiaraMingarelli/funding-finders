@@ -1,0 +1,34 @@
+{
+ "a": "5-yr award; ~500 awards/yr NSF-wide",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": "2027-07-28",
+ "dt": "Jul 28, 2027, 5 pm submitter local time (4th Wed of July annually; same date for all directorates incl. MPS)",
+ "e": "Untenured assistant professor (or equivalent) in a tenure-track position at a US institution; one CAREER proposal per PI per cycle, no co-PIs. Governing solicitation is still NSF 22-586.",
+ "f": "NSF",
+ "fields": [
+  "all"
+ ],
+ "id": "nsf-career-faculty-early-career-development",
+ "n": "NSF CAREER (Faculty Early Career Development)",
+ "nofo": [
+  {
+   "opp": "22-586",
+   "u": "https://simpler.grants.gov/opportunity/392e3547-dea5-4af0-bb7d-02d3cb7b4de2"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/career-faculty-early-career-development-program",
+ "unv": "Award minimum not re-read from solicitation text; watch for a new solicitation after the Aug 2026 MPS consolidation",
+ "us": false
+}

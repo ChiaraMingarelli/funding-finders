@@ -1,0 +1,28 @@
+{
+ "a": "$80,000 + COLA; 2 years, renewable for a 3rd",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-30",
+ "dt": "2026/10/30 23:59:59 (time zone not stated on page)",
+ "e": "Theoretical AMO: ultracold atoms/molecules, quantum and nonlinear optics, strong fields, molecular astrophysics, quantum information and simulation. PhD no more than one year before the nominal Apr 1, 2027 start.",
+ "f": "Center for Astrophysics | Harvard & Smithsonian, Institute for Theoretical Atomic, Molecular and Optical Physics (ITAMP)",
+ "fields": [
+  "amo",
+  "qp"
+ ],
+ "id": "cfa-itamp-postdoctoral-fellowship",
+ "n": "CfA: ITAMP Postdoctoral Fellowship",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32483",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32483",
+ "us": false
+}

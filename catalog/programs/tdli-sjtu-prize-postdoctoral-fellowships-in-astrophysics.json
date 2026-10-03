@@ -1,0 +1,38 @@
+{
+ "a": "at least RMB 312,000/yr + research fund; 3 years renewable",
+ "added": "2026-09-30",
+ "asub": [
+  "cos",
+  "exo",
+  "xgal",
+  "he",
+  "star"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-12-20",
+ "dt": "2026/12/20 23:59:59 (time zone not stated on page)",
+ "e": "High-energy and time-domain astronomy, exoplanets and stars, plasma astrophysics, galaxies and cosmology (theory, observation, data). Start Sep 2027.",
+ "f": "Shanghai Jiao Tong University, Tsung-Dao Lee Institute, Astrophysics Division",
+ "fields": [
+  "astro"
+ ],
+ "id": "tdli-sjtu-prize-postdoctoral-fellowships-in-astrophysics",
+ "n": "TDLI (SJTU): Prize Postdoctoral Fellowships in Astrophysics",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:32597",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32597",
+ "us": false
+}

@@ -1,0 +1,38 @@
+{
+ "a": "not listed; 2 years",
+ "added": "2026-09-30",
+ "asub": [
+  "he",
+  "star"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2027-02-01",
+ "dt": "Feb 1, 2027",
+ "e": "Holography, quantum gravity, black holes and quantum information. Requires a PhD in theoretical physics. Also on Quantiki.",
+ "f": "Sun Yat-sen University, Zhuhai; PI Zhuo-Yu Xian",
+ "fields": [
+  "ppt",
+  "grav",
+  "qp"
+ ],
+ "id": "sun-yat-sen-u-zhuhai-holography-gravity-quantum-dynamics",
+ "n": "Sun Yat-sen U. Zhuhai: Holography, gravity & quantum dynamics",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3204650",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3204650",
+ "us": false
+}

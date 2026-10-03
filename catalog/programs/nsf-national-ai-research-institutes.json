@@ -1,0 +1,29 @@
+{
+ "a": "Institute-scale",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Archived; waiting for new publication (last NSF 23-610 covered AI for Astronomical Sciences, AI for Materials)",
+ "e": "Multi-institution institutes; no current due dates.",
+ "f": "NSF",
+ "fields": [
+  "ds",
+  "astro",
+  "cmx"
+ ],
+ "id": "nsf-national-ai-research-institutes",
+ "n": "NSF National AI Research Institutes",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/national-artificial-intelligence-research-institutes",
+ "us": false
+}

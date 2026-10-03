@@ -1,0 +1,35 @@
+{
+ "a": "See host institution",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Run through partner universities",
+ "e": "~160 postdocs a year across nine partner universities; Yale is not confirmed as a partner.",
+ "f": "Schmidt Sciences",
+ "fields": [
+  "ds",
+  "all"
+ ],
+ "id": "eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship",
+ "n": "Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship",
+ "nfit": "Low",
+ "ng": {
+  "e": "About 160 postdocs a year across nine partner universities; you must be hosted at a partner university."
+ },
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.schmidtsciences.org/ai-in-science/",
+ "unv": "Partner list and deadlines not on page",
+ "us": false
+}

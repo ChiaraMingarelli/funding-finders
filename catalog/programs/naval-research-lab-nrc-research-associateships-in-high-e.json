@@ -1,0 +1,35 @@
+{
+ "a": "not listed",
+ "added": "2026-09-30",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-01",
+ "dt": "Nov 1, 2026",
+ "e": "High-energy astrophysics, GRBs, pulsars and instrumentation. Requires a PhD and US citizenship or permanent residency.",
+ "f": "U.S. Naval Research Laboratory, Washington DC (NRC RAP; multiple advisers)",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "naval-research-lab-nrc-research-associateships-in-high-e",
+ "n": "Naval Research Lab: NRC Research Associateships in high-energy astrophysics",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "inspire:2659197",
+ "stages": [
+  "pd"
+ ],
+ "u": "http://nrc58.nas.edu/RAPLab10/Opportunity/Program.aspx?LabCode=64",
+ "us": true
+}

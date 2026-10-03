@@ -1,0 +1,27 @@
+{
+ "a": "$85,000 first year + $7,000/yr research fund + relocation; 3 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-15",
+ "dt": "2026/11/15 23:59:59 (time zone not stated on page); review begins Nov 15",
+ "e": "Independent postdoctoral fellowship in quantum information science; applicants identify at least one Caltech faculty host. PhD by start (Sep 1, 2027); current postdocs eligible.",
+ "f": "Caltech, Division of Physics, Mathematics & Astronomy (also open to EAS and CCE)",
+ "fields": [
+  "qp"
+ ],
+ "id": "caltech-aws-quantum-fellowships",
+ "n": "Caltech: AWS Quantum Fellowships",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32774",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32774",
+ "us": false
+}

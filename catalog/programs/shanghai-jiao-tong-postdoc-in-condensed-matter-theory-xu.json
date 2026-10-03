@@ -1,0 +1,29 @@
+{
+ "a": "at least RMB 300,000/yr; 2 years + 1",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-31",
+ "dt": "Sep 30, 2026 for full consideration; final 2026/12/31",
+ "e": "Non-Fermi liquids, spin liquids, unconventional superconductivity, quantum criticality and quantum computation, with QMC/DMRG/ML methods.",
+ "f": "Shanghai Jiao Tong University, School of Physics and Astronomy (Xiao Yan Xu)",
+ "fields": [
+  "cmt",
+  "qp",
+  "ds"
+ ],
+ "id": "shanghai-jiao-tong-postdoc-in-condensed-matter-theory-xu",
+ "n": "Shanghai Jiao Tong: Postdoc in Condensed Matter Theory (Xu group)",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:30121",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/30121",
+ "us": false
+}

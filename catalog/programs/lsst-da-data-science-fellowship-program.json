@@ -1,0 +1,32 @@
+{
+ "a": "Six one-week schools over 2 yr",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Training",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Last call Mar 2026",
+ "e": "Data science training for astronomy graduate students.",
+ "f": "LSST Discovery Alliance",
+ "fields": [
+  "astro",
+  "ds"
+ ],
+ "id": "lsst-da-data-science-fellowship-program",
+ "n": "LSST-DA Data Science Fellowship Program",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://lsstdiscoveryalliance.org/lsst-discovery-alliance-programs/data-science-fellowship/",
+ "unv": "next call",
+ "us": false
+}

@@ -1,0 +1,31 @@
+{
+ "a": "$89k–94k, 3 yr",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-11-02",
+ "dt": "11:59 pm ET",
+ "e": "PhD between Jun 2024 and Sep 2027. Includes Rubin-linked tracks.",
+ "f": "Stanford / SLAC",
+ "fields": [
+  "astro",
+  "ppx"
+ ],
+ "id": "kipac-fellowships",
+ "n": "KIPAC Fellowships",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/Stanford/KIPAC/FELLOWS",
+ "us": false
+}

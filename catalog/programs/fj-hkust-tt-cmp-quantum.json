@@ -1,0 +1,32 @@
+{
+ "a": "Assistant Professor; salary not listed",
+ "added": "2026-10-02",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-02",
+ "d": null,
+ "dt": "No deadline listed; standing posting",
+ "e": "Tenure-track faculty positions in quantum science spanning condensed matter, AMO and quantum information. No citizenship limit stated.",
+ "f": "Hong Kong University of Science and Technology",
+ "fields": [
+  "cmx",
+  "cmt",
+  "qp",
+  "amo"
+ ],
+ "id": "fj-hkust-tt-cmp-quantum",
+ "n": "HKUST: Tenure-Track Faculty, CMP-Quantum",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "rolling",
+ "src": "ajo:30878",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/30878",
+ "unv": "Posting date not shown",
+ "us": false
+}

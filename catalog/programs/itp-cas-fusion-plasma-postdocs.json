@@ -1,0 +1,32 @@
+{
+ "a": "10 positions; 2 years, possible 3rd year; salary not listed",
+ "added": "2026-10-02",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-02",
+ "d": null,
+ "dt": "Review began Feb 1, 2026; open until filled (listing until Dec 31, 2026); apply by email",
+ "e": "Ten theory/computational postdocs on magnetic confinement fusion plasmas (MHD, gyrokinetics, PIC, fusion nuclear physics). Applicants must have or be about to obtain a physics PhD and be under 35; no citizenship limit stated.",
+ "f": "Institute of Theoretical Physics, Chinese Academy of Sciences",
+ "fields": [
+  "cmt"
+ ],
+ "id": "itp-cas-fusion-plasma-postdocs",
+ "n": "ITP-CAS / Institute of Plasma Physics: Postdocs in Magnetic Confinement Fusion Plasma",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "rolling",
+ "src": "ajo:31467",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/31467",
+ "unv": "Posted Jan 2026; positions may already be partly filled",
+ "us": false
+}

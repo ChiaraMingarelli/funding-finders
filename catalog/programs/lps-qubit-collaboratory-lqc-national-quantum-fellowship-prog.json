@@ -1,0 +1,28 @@
+{
+ "a": "Stipend set by LPS, plus health, relocation and travel allowances; 12 months, renewable up to 3 years",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last deadline Jun 30, 2026 (NSA-LPS-LQC-2026-0003); the next cycle is not posted yet",
+ "e": "US citizens only. Doctoral students (GPA ≥3.5) in physics, engineering or materials doing qubit-related (superconducting or semiconducting preferred) research. Must present at the LQC review.",
+ "f": "NSA Laboratory for Physical Sciences (via ORISE)",
+ "fields": [
+  "qp",
+  "cmx"
+ ],
+ "id": "lps-qubit-collaboratory-lqc-national-quantum-fellowship-prog",
+ "n": "LPS Qubit Collaboratory (LQC) National Quantum Fellowship Program (NQFP)",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://www.qubitcollaboratory.org/nqfp/",
+ "unv": "Next cycle not confirmed.",
+ "us": true
+}

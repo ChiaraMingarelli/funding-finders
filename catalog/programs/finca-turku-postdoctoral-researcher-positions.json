@@ -1,0 +1,39 @@
+{
+ "a": "about EUR 3,500-3,900/month; 3-year fixed term",
+ "added": "2026-10-01",
+ "asub": [
+  "cos",
+  "exo",
+  "xgal",
+  "he",
+  "star"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-01",
+ "d": "2026-10-30",
+ "dt": "Deadline Oct 30, 2026 16:00 EET",
+ "e": "Independent research in observational astronomy themes (cosmology, AGN, galaxy evolution, transients, compact binaries, planets), with priority on ESO facilities. PhD no more than five years before the deadline (plus parental leave).",
+ "f": "Finnish Centre for Astronomy with ESO (FINCA), University of Turku",
+ "fields": [
+  "astro"
+ ],
+ "id": "finca-turku-postdoctoral-researcher-positions",
+ "n": "FINCA (Finnish Centre for Astronomy with ESO): Postdoctoral Researcher Positions",
+ "nfit": "High",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "aas:7e619afb",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://ats.talentadore.com/apply/1-2-tutkijatohtorin-maaraaikaista-tehtavaa-suomen-eso-keskuksella/ZAYvbj?lang=en",
+ "us": false
+}

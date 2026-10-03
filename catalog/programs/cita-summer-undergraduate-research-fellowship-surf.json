@@ -1,0 +1,30 @@
+{
+ "a": null,
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "2026 deadline was Jan 30, 2026; 2027 date not posted",
+ "e": "For full-time undergraduates at a Canadian university who are eligible to work in Canada; NSERC USRA funding requires citizenship/PR. 16-week theory/computational projects at CITA, including GW and pulsar-related theory.",
+ "f": "Canadian Institute for Theoretical Astrophysics",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "cita-summer-undergraduate-research-fellowship-surf",
+ "n": "CITA Summer Undergraduate Research Fellowship (SURF)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "Canada",
+ "s": "watch",
+ "src": "other:cita",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.cita.utoronto.ca/opportunities/surf-at-cita/",
+ "unv": "Stipend not stated; 2027 deadline not posted",
+ "us": false
+}

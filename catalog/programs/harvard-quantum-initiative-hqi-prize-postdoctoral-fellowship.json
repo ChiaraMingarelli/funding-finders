@@ -1,0 +1,30 @@
+{
+ "a": "Not confirmed",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Annual fall application; see the HQI application page.",
+ "e": "Recent PhDs in quantum science and engineering (experiment or theory).",
+ "f": "Harvard Quantum Initiative",
+ "fields": [
+  "qp",
+  "amo",
+  "cmx",
+  "cmt"
+ ],
+ "id": "harvard-quantum-initiative-hqi-prize-postdoctoral-fellowship",
+ "n": "Harvard Quantum Initiative (HQI) Prize Postdoctoral Fellowship",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://quantum.harvard.edu/hqi-prize-postdoctoral-fellowships",
+ "unv": "HQI site blocks automated access, so the deadline and terms were not verified.",
+ "us": false
+}

@@ -1,0 +1,29 @@
+{
+ "a": "not listed",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-24",
+ "dt": "2026/10/24 (no time given)",
+ "e": "Quantum neural networks, quantum information and quantum optics (BEC and quantum-simulator collaborations). QI/ML experience and Python/MATLAB/Mathematica desirable.",
+ "f": "The Chinese University of Hong Kong, Shenzhen, Quantum Light-Matter Group (Sanjib Ghosh)",
+ "fields": [
+  "qp",
+  "amo",
+  "ds"
+ ],
+ "id": "cuhk-shenzhen-postdoc-quantum-light-matter-group",
+ "n": "CUHK-Shenzhen: Postdoc, Quantum Light-Matter Group",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:31990",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/31990",
+ "us": false
+}

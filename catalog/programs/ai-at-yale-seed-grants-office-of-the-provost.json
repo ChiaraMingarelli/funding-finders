@@ -1,0 +1,29 @@
+{
+ "a": "Up to $100,000 per research project; up to $20,000 per workshop",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Yale internal",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "The 2026 round closed Feb 6, 2026 (projects start Jul 1, 2026). The next round is not announced.",
+ "e": "Interdisciplinary teams of at least two faculty from different fields, led by a Yale PI-eligible faculty or staff member. One proposal per PI.",
+ "f": "Yale Office of the Provost (AI at Yale)",
+ "fields": [
+  "all",
+  "ds"
+ ],
+ "id": "ai-at-yale-seed-grants-office-of-the-provost",
+ "n": "AI at Yale Seed Grants (Office of the Provost)",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://ai.yale.edu/opportunities/ai-seed-grants-2026",
+ "us": false
+}

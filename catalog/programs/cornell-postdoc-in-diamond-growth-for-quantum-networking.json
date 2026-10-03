@@ -1,0 +1,28 @@
+{
+ "a": "$63,480-$68,480; 1 year + expected 2nd",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": null,
+ "dt": "open until filled; review begins immediately",
+ "e": "CVD diamond growth and NV/group-IV color centers for quantum repeater nodes. Hands-on crystal/thin-film growth (CVD/MBE/MOCVD) experience required; start ASAP.",
+ "f": "Cornell University, School of Applied and Engineering Physics (Darrell Schlom, Gregory Fuchs)",
+ "fields": [
+  "cmx",
+  "qp"
+ ],
+ "id": "cornell-postdoc-in-diamond-growth-for-quantum-networking",
+ "n": "Cornell: Postdoc in Diamond Growth for Quantum Networking",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32860",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32860",
+ "us": false
+}

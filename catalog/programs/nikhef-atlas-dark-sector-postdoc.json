@@ -1,0 +1,30 @@
+{
+ "a": "not listed",
+ "added": "2026-10-02",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-02",
+ "d": "2026-11-01",
+ "dt": "Deadline Nov 1, 2026",
+ "e": "Postdoc in the Nikhef ATLAS group leading a Run 3 search for dark-sector bound states with long-lived-particle signatures. Open to PhDs in experimental particle physics; no citizenship limit stated.",
+ "f": "Nikhef / University of Amsterdam (NWO-funded)",
+ "fields": [
+  "ppx"
+ ],
+ "id": "nikhef-atlas-dark-sector-postdoc",
+ "n": "Nikhef / University of Amsterdam: Postdoc in Dark Sector Searches with ATLAS",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3210124",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.nikhef.nl/jobs/postdoc-position-in-experimental-particle-physics-1344424/",
+ "us": false
+}

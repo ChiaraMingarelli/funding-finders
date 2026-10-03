@@ -1,0 +1,31 @@
+{
+ "a": "DOE expects few new FY2027 awards; renewals and small requests for existing HEP-QIS projects are encouraged.",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "QuantISED joined the HEP comparative review for the first time in FY2027 (applications were due 2026-09-03). There is no separate NOFO; the last was DE-FOA-0003354 (FY2024) plus a targeted FY2026 review.",
+ "e": "University PIs doing QIS with a clear HEP connection. General quantum computing, algorithms or networking work is declined without review.",
+ "f": "DOE Office of Science - High Energy Physics",
+ "fields": [
+  "qp",
+  "ppx",
+  "ppt",
+  "inst"
+ ],
+ "id": "doe-hep-quantised-now-within-hep-comparative-review",
+ "n": "DOE HEP QuantISED (now within HEP Comparative Review)",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://science.osti.gov/hep/Funding-Opportunities",
+ "unv": "Next cycle depends on the FY2027 Open Call (not yet posted)",
+ "us": false
+}

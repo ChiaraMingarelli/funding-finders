@@ -1,0 +1,35 @@
+{
+ "a": "$32M program total; Pilot/Design/Implementation phases",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": "2027-04-06",
+ "dt": "Grants.gov listing (NSF 24-586) closes Apr 6, 2027. Contact NSF program officers at least 2 weeks before submitting.",
+ "e": "Team-scale proposals from US institutions for use-inspired quantum testbeds. Program officer consultation required.",
+ "f": "NSF (multi-directorate)",
+ "fields": [
+  "qp",
+  "inst"
+ ],
+ "id": "nsf-national-quantum-virtual-laboratory-nqvl-quantum-testbed",
+ "n": "NSF National Quantum Virtual Laboratory (NQVL) – Quantum Testbeds",
+ "nofo": [
+  {
+   "opp": "24-586",
+   "u": "https://simpler.grants.gov/opportunity/dd97ae1d-d356-4337-a255-5aeeb1160258"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/dd97ae1d-d356-4337-a255-5aeeb1160258",
+ "unv": "Phase-specific due dates not confirmed on nsf.gov (program page returned 404). Close date taken from the Grants.gov listing.",
+ "us": false
+}

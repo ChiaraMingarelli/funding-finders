@@ -1,0 +1,34 @@
+{
+ "a": "TTP-E ~$600K/24 mo; TTP-T up to $1.2M/36 mo; TTP-P up to $2M/48 mo",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": "2026-11-17",
+ "dt": "TTP-T and TTP-P: third Tuesday of Nov and May; TTP-E accepted anytime",
+ "e": "Supports use-inspired and translational research that moves university results toward practice with partners (successor to PFI-style awards). TTP-E requires an active eligible NSF research award; lead must be a US university; no citizenship restriction.",
+ "f": "NSF TIP",
+ "fields": [
+  "all"
+ ],
+ "id": "nsf-tip-translation-to-practice",
+ "n": "NSF TIP: Translation to Practice (TTP, NSF 25-540)",
+ "nofo": [
+  {
+   "opp": "25-540",
+   "u": "https://simpler.grants.gov/opportunity/01db6b26-98f3-43cc-ba54-f38ee97aefdb"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:25-540",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice/nsf25-540/solicitation",
+ "unv": "That TTP replaced PFI is inferred; PFI has no current solicitation.",
+ "us": false
+}

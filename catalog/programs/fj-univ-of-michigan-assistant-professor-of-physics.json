@@ -1,0 +1,29 @@
+{
+ "a": "Assistant Professor, tenure-track",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-11-01",
+ "dt": "Deadline Nov 1, 2026 (INSPIRE)",
+ "e": "Open to all subfields of physics; AI and the physics of learning are encouraged. Start Aug 25, 2027.",
+ "f": "Dept. of Physics, University of Michigan",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-univ-of-michigan-assistant-professor-of-physics",
+ "n": "Univ. of Michigan: Assistant Professor of Physics",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3197160",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://apply.interfolio.com/188444",
+ "unv": "Details from the INSPIRE/Physics Today listing; the Interfolio page is JS-only",
+ "us": false
+}

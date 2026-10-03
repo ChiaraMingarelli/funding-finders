@@ -1,0 +1,35 @@
+{
+ "a": "$300K-$1M per award; ~20 awards",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Training",
+ "checked": "2026-10-03",
+ "d": "2027-03-25",
+ "dt": "March 25 annually",
+ "e": "Funds pilots of new approaches to STEM graduate training (career preparation, student success) and research on graduate education systems. Limited to two proposals per institution per competition; no citizenship restriction.",
+ "f": "NSF EDU",
+ "fields": [
+  "all"
+ ],
+ "id": "nsf-ige-graduate-education",
+ "n": "NSF Innovations in Graduate Education (IGE, NSF 24-529)",
+ "nofo": [
+  {
+   "opp": "24-529",
+   "u": "https://simpler.grants.gov/opportunity/437fad2e-74cc-465b-bbbc-ad7591dac604"
+  }
+ ],
+ "nom": true,
+ "s": "open",
+ "src": "grants:24-529",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/innovations-graduate-education-program/nsf24-529/solicitation",
+ "us": false
+}

@@ -1,0 +1,36 @@
+{
+ "a": "not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": "2026-12-22",
+ "dt": "Pre-application required by Dec 22, 2026; encouraged applications due Mar 16, 2027",
+ "e": "Funds new optical and quantum-enabled imaging and sensing methods for plant and microbial systems, such as better resolution, speed and sensitivity, and quantum probes that beat classical limits. U.S. universities may apply.",
+ "f": "DOE Office of Science (BER)",
+ "fields": [
+  "bio",
+  "phot",
+  "qp",
+  "inst"
+ ],
+ "id": "doe-sc-ber-quantum-bioimaging-fy27",
+ "n": "DOE BER Classical and Quantum-Enabled Bioimaging and Sensing – FY2027 Open Call panel",
+ "nofo": [
+  {
+   "opp": "DE-FOA-0003665",
+   "u": "https://simpler.grants.gov/opportunity/53270f52-3c80-4fe0-bd26-d9411d9b251e"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:DE-FOA-0003665",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://science.osti.gov/grants/FOAs/Open",
+ "us": false
+}

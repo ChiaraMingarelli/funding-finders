@@ -1,0 +1,30 @@
+{
+ "a": "$10,000-$20,000 by academic rank; 10 weeks",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "2026 deadline was Jan 11, 2026; 2027 call expected ~Jan 2027",
+ "e": "Ten-week paid summer school and mentored research at Los Alamos on quantum computing for upper-division undergraduates and early graduate students in any science field. Citizenship not required.",
+ "f": "Los Alamos National Laboratory (ISTI)",
+ "fields": [
+  "qp",
+  "ds"
+ ],
+ "id": "lanl-quantum-computing-summer-school",
+ "n": "LANL Quantum Computing Summer School Fellowship",
+ "nom": false,
+ "s": "watch",
+ "src": "other:lanl-qcss",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://www.lanl.gov/engage/collaboration/internships/summer-schools/quantumschool",
+ "unv": "2027 dates and deadline not yet posted",
+ "us": false
+}

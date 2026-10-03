@@ -1,0 +1,28 @@
+{
+ "a": "UZH scale; 2 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-11-01",
+ "dt": "Nov 1, 2026",
+ "e": "Integrate superconducting nanowire single-photon detectors for two-photon microscopy. Requires a PhD within the last 3 years and cryogenics/superconducting experience.",
+ "f": "University of Zurich, Physics; Maurizio Storni, Björn Penning",
+ "fields": [
+  "inst",
+  "qp"
+ ],
+ "id": "u-zurich-postdoc-in-quantum-sensing-snspds",
+ "n": "U. Zurich: Postdoc in quantum sensing (SNSPDs)",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3206287",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3206287",
+ "us": false
+}

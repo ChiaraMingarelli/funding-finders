@@ -1,0 +1,28 @@
+{
+ "a": "Assistant Professor; salary not listed",
+ "added": "2026-10-02",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-02",
+ "d": "2026-10-31",
+ "dt": "Full consideration by Oct 31, 2026; review begins Nov 1",
+ "e": "Tenure-track assistant professor in high-energy nuclear theory (QCD matter at finite temperature and density, hydrodynamics, lattice, quantum simulation). No citizenship limit stated.",
+ "f": "Vanderbilt University",
+ "fields": [
+  "nut"
+ ],
+ "id": "fj-vanderbilt-ap-high-energy-nuclear-theory",
+ "n": "Vanderbilt University: Tenure-Track Assistant Professor, High-Energy Nuclear Theory",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32858",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32858",
+ "us": true
+}

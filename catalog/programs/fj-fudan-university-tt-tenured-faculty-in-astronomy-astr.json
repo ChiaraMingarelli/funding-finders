@@ -1,0 +1,28 @@
+{
+ "a": "Tenure-track or tenured",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-11-30",
+ "dt": "Deadline Nov 30, 2026",
+ "e": "All areas of astronomy and astrophysics. Apply by email as given in the ad.",
+ "f": "Center for Astronomy and Astrophysics, Fudan University",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-fudan-university-tt-tenured-faculty-in-astronomy-astr",
+ "n": "Fudan University: TT/Tenured Faculty in Astronomy & Astrophysics",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:3d08f53b",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://aas.org/jobregister/ad/3d08f53b",
+ "us": false
+}

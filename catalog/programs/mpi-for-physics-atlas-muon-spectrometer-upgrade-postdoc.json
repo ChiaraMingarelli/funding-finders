@@ -1,0 +1,27 @@
+{
+ "a": "TVöD scale; 2 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-31",
+ "dt": "Oct 31, 2026",
+ "e": "Work on the ATLAS muon spectrometer upgrade for HL-LHC. Requires a PhD in particle physics and experience operating detectors.",
+ "f": "Max Planck Institute for Physics, Garching; ATLAS group; contact Oliver Kortner",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "mpi-for-physics-atlas-muon-spectrometer-upgrade-postdoc",
+ "n": "MPI for Physics: ATLAS muon spectrometer upgrade postdoc",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3209370",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3209370",
+ "us": false
+}

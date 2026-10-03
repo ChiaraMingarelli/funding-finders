@@ -1,0 +1,30 @@
+{
+ "a": "not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-03",
+ "d": "2026-12-31",
+ "dt": "Due Dec 31, 2026",
+ "e": "QuantERA ENTUNE project building vacuum-gap Josephson junctions that couple nanomechanical motion to superconducting phase, aiming at mechanical cat states. Based in Pohang, South Korea.",
+ "f": "POSTECH, Department of Physics, Hybrid Quantum Devices Lab (Junho Suh)",
+ "fields": [
+  "qp",
+  "cmx"
+ ],
+ "id": "postech-quantum-nanomechanics-pd",
+ "n": "POSTECH: Postdoc in Experimental Quantum Nanomechanics (vacuum-gap Josephson junctions)",
+ "nom": false,
+ "pt": "group",
+ "s": "open",
+ "src": "other:quantiki-postech-suh-vjj",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://quantiki.org/position/postdoctoral-research-fellow-experimental-quantum-nanomechanics-postech-south-korea",
+ "unv": "Posted Aug 26, outside the 3-week window.",
+ "us": false
+}

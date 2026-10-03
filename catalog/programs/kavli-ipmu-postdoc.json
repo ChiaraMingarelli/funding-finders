@@ -1,0 +1,31 @@
+{
+ "a": "3 yr + startup and travel funds",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-11-15",
+ "dt": "09:59 JST",
+ "e": "Open internationally.",
+ "f": "U Tokyo",
+ "fields": [
+  "astro",
+  "ppt"
+ ],
+ "id": "kavli-ipmu-postdoc",
+ "n": "Kavli IPMU Postdoc",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/UTokyo/KavliIPMU/PD2026",
+ "us": false
+}

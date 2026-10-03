@@ -1,0 +1,35 @@
+{
+ "a": "Total $500,000,000 over BAA life; ~10 awards",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": "2034-09-30",
+ "dt": "Posted 2024-10-01; FY26 white papers for topics B1-B6 were due 2026-03-02; watch for next annual topic call",
+ "e": "Unrestricted. Fundamental research relevant to countering WMD (radiation detection, nuclear/materials science, etc.).",
+ "f": "DOD DTRA",
+ "fields": [
+  "nux",
+  "cmx",
+  "ds"
+ ],
+ "id": "dtra-fundamental-research-to-counter-wmd-basic-research-baa",
+ "n": "DTRA Fundamental Research to Counter WMD (basic research BAA)",
+ "nofo": [
+  {
+   "opp": "HDTRA1-25-S-0001",
+   "u": "https://simpler.grants.gov/opportunity/8faea2b6-4c0b-4e8d-ba24-f637ba6e7bcc"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/8faea2b6-4c0b-4e8d-ba24-f637ba6e7bcc",
+ "us": false
+}

@@ -1,0 +1,23 @@
+{
+ "a": "not listed; 2 years, renewable",
+ "added": "2026-09-30",
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-31",
+ "dt": "Dec 31, 2026",
+ "e": "JUNO atmospheric neutrino physics and mass ordering. Requires a PhD in physics.",
+ "f": "Institute of High Energy Physics, Beijing; contact Alejandro Reina Conde",
+ "fields": [
+  "ppx"
+ ],
+ "id": "ihep-beijing-juno-atmospheric-neutrino-postdoc",
+ "n": "IHEP Beijing: JUNO atmospheric neutrino postdoc",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3206963",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3206963",
+ "us": false
+}

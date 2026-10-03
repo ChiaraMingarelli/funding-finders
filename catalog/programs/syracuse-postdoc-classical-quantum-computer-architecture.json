@@ -1,0 +1,27 @@
+{
+ "a": "not listed",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": null,
+ "dt": "no deadline stated; listed until 2027-01-13",
+ "e": "Classical and quantum computer architectures, memory systems, compilers and quantum computing. PhD in CS/CE/physics.",
+ "f": "Syracuse University, EECS Computer Architecture Laboratory (Alex Jones)",
+ "fields": [
+  "qp"
+ ],
+ "id": "syracuse-postdoc-classical-quantum-computer-architecture",
+ "n": "Syracuse: Postdoc, Classical/Quantum Computer Architectures",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32514",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32514",
+ "us": false
+}

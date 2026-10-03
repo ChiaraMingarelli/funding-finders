@@ -1,0 +1,31 @@
+{
+ "a": "$600 fee includes accommodation, breakfasts and lunches; travel grants and fee waivers available",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Training",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "2026 school ran Jul 20–24, 2026 (deadline Feb 6, 2026); 2027 not yet announced",
+ "e": "For students who have completed at least 3rd-year undergrad or are early graduate students. The 2026 topic was optical astronomy, and topics rotate (past editions covered radio), so check whether the 2027 topic is useful for PTA students.",
+ "f": "Dunlap Institute, University of Toronto",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "dunlap-institute-summer-school",
+ "n": "Dunlap Institute Summer School",
+ "nfit": "Low",
+ "nom": false,
+ "region": "Canada",
+ "s": "watch",
+ "src": "other:dunlap",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://www.dunlap.utoronto.ca/training/summer‐school/",
+ "unv": "2027 topic/dates unknown",
+ "us": false
+}

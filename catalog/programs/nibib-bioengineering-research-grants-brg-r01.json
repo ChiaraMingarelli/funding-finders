@@ -1,0 +1,34 @@
+{
+ "a": "Floor $500,000 (as listed)",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": "2029-07-05",
+ "dt": "Posted 2026-05-04",
+ "e": "Broad eligibility incl. foreign orgs. Life-/physical-science collaborations applying bioengineering to biomedical problems.",
+ "f": "NIH NIBIB",
+ "fields": [
+  "bio",
+  "inst"
+ ],
+ "id": "nibib-bioengineering-research-grants-brg-r01",
+ "n": "NIBIB Bioengineering Research Grants (BRG R01)",
+ "nofo": [
+  {
+   "opp": "PAR-27-072",
+   "u": "https://simpler.grants.gov/opportunity/4fa4f79e-d43d-42c9-9269-f219c7bc09df"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/4fa4f79e-d43d-42c9-9269-f219c7bc09df",
+ "us": false
+}

@@ -1,0 +1,32 @@
+{
+ "a": "$95,000/yr; 2 years, renewable up to 3 more",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-31",
+ "dt": "Oct 31, 2026",
+ "e": "Original astrophysics research plus open-source scientific software (simulation, statistics/ML, data analysis). Start late Aug-early Oct 2027.",
+ "f": "Simons Foundation, Flatiron Institute, Center for Computational Astrophysics",
+ "fields": [
+  "astro",
+  "ds"
+ ],
+ "id": "flatiron-cca-flatiron-software-research-fellow",
+ "n": "Flatiron CCA: Flatiron Software Research Fellow",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32795",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32795",
+ "us": false
+}

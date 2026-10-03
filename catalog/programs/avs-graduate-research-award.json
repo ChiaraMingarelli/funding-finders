@@ -1,0 +1,29 @@
+{
+ "a": "Cash + certificate + travel to AVS International Symposium; ~10 awards",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Prize",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Annual; see AVS awards platform",
+ "e": "Recognizes graduate students doing research in vacuum, surface, thin-film and interface science. No citizenship limits stated.",
+ "f": "AVS",
+ "fields": [
+  "mat",
+  "cmx",
+  "dev"
+ ],
+ "id": "avs-graduate-research-award",
+ "n": "AVS Graduate Research Award (GRA)",
+ "nom": false,
+ "s": "watch",
+ "src": "other:avs-gra",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://avs.org/awards/national-student-awards/graduate-research-award-(gra)/",
+ "unv": "Deadline and cash amount not on page",
+ "us": false
+}

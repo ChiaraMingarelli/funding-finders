@@ -1,0 +1,29 @@
+{
+ "a": "Open rank (tenure-track or tenured Research Fellow); salary not listed",
+ "added": "2026-10-02",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-02",
+ "d": null,
+ "dt": "Reviewed until filled",
+ "e": "Tenure-track or tenured research faculty in atomic physics, optical science and quantum science and technology (theory or experiment). PhD plus postdoctoral experience required; no citizenship limit stated.",
+ "f": "Academia Sinica, Institute of Atomic and Molecular Sciences",
+ "fields": [
+  "amo",
+  "qp"
+ ],
+ "id": "fj-academia-sinica-iams-amo-faculty",
+ "n": "Academia Sinica IAMS: Assistant/Associate/Full Research Fellow, Atomic Physics & Optical Science",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "rolling",
+ "src": "ajo:32209",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32209",
+ "us": false
+}

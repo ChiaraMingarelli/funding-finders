@@ -1,0 +1,38 @@
+{
+ "a": "Typical single-PI university grants; narratives 15–20 pp; no fixed cap",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "The FY2026 Open Call (DE-FOA-0003600) closes Sep 30, 2026, and an FY2027 successor is expected about Oct 1. FY26 BES target dates: pre-applications Nov 30, 2025 (strongly encouraged); applications Feb 1, 2026 for same-year funding. Applications are accepted all year.",
+ "e": "US university faculty. Talking to the BES program manager and sending a pre-application first is strongly encouraged. BES AMOS is limited to ultrafast chemical sciences and excludes ultracold atoms. ECMP excludes cold atoms, conventional superconductivity and bulk semiconductors.",
+ "f": "DOE Office of Science, Basic Energy Sciences",
+ "fields": [
+  "cmx",
+  "cmt",
+  "qp",
+  "amo",
+  "mat"
+ ],
+ "id": "doe-office-of-science-open-call-bes-experimental-theoretical",
+ "n": "DOE Office of Science Open Call – BES Experimental & Theoretical Condensed Matter Physics, QIS in Materials, AMO Sciences",
+ "nofo": [
+  {
+   "opp": "DE-FOA-0003600",
+   "u": "https://simpler.grants.gov/opportunity/34942f3a-232f-48f4-a624-123dd6d042a0"
+  }
+ ],
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://science.osti.gov/grants/FOAs/Open",
+ "unv": "FY2027 Open Call not yet posted as of 2026-09-28. Dates shown are FY2026 targets. The DOE 'comparative review' FAQs found are HEP-specific; no BES university comparative-review process was confirmed.",
+ "us": false
+}

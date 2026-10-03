@@ -1,0 +1,35 @@
+{
+ "a": "Total $100,000,000; ~50 awards",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": "2026-11-04",
+ "dt": "Posted 2026-07-21",
+ "e": "IHEs, non-profits, for-profits, FFRDCs and others. Novel methods and AI to extract new value from existing scientific datasets.",
+ "f": "NSF",
+ "fields": [
+  "ds",
+  "all"
+ ],
+ "id": "nsf-unlocking-dataset-value-for-ai-enabled-scientific-discov",
+ "n": "NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery",
+ "nofo": [
+  {
+   "opp": "26-512",
+   "u": "https://simpler.grants.gov/opportunity/9bd80298-4f43-40e6-890d-64fed9ef6d41"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/9bd80298-4f43-40e6-890d-64fed9ef6d41",
+ "us": false
+}

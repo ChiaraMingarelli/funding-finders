@@ -1,0 +1,33 @@
+{
+ "a": "TVöD E14; 3 years",
+ "added": "2026-09-30",
+ "asub": [
+  "exo"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-13",
+ "dt": "Oct 13, 2026",
+ "e": "GCMs with chemistry and hazes, sub-Neptune photochemistry and retrieval parameterizations. Requires a PhD in astronomy or related.",
+ "f": "Max Planck Institute for Astronomy, APEx; supervisor Elspeth Lee",
+ "fields": [
+  "astro"
+ ],
+ "id": "mpia-heidelberg-exoplanet-atmosphere-modelling-postdoc-r",
+ "n": "MPIA Heidelberg: Exoplanet atmosphere modelling postdoc (Ref. 426)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:a977fd1b",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://postdocprogram.mpg.de/node/58457",
+ "us": false
+}

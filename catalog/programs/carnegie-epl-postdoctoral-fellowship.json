@@ -1,0 +1,35 @@
+{
+ "a": "$78,280; 1 year, renewable up to 3",
+ "added": "2026-09-30",
+ "asub": [
+  "exo",
+  "star",
+  "ism"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-01",
+ "dt": "Nov 1, 2026",
+ "e": "Exoplanets, star and planet formation, planetary science, astrobiology and astrochemistry. PhD by the start.",
+ "f": "Carnegie Science, Earth and Planets Laboratory, Washington DC",
+ "fields": [
+  "astro"
+ ],
+ "id": "carnegie-epl-postdoctoral-fellowship",
+ "n": "Carnegie EPL: Postdoctoral Fellowship",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "aas:80a6172e",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://apply.interfolio.com/189651",
+ "us": false
+}

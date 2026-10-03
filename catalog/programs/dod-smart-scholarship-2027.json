@@ -1,0 +1,30 @@
+{
+ "a": "Full tuition, monthly stipend, health insurance, book allowance, summer internships",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Scholarship",
+ "checked": "2026-10-03",
+ "d": "2026-12-04",
+ "dt": "Applications due Dec 4, 2026; awardees start May–June 2027",
+ "e": "Supports undergraduate, master's and PhD students in STEM. In return, recipients work at a DoD laboratory or facility after graduation. U.S. citizens only.",
+ "f": "DoD SMART Scholarship Program",
+ "fields": [
+  "all"
+ ],
+ "id": "dod-smart-scholarship-2027",
+ "n": "DoD SMART Scholarship-for-Service (2027 cohort)",
+ "nom": false,
+ "s": "open",
+ "src": "other:smart-2027",
+ "stages": [
+  "gr",
+  "ug"
+ ],
+ "u": "https://www.smartscholarship.org/smart",
+ "unv": "Deadline is from a program press release dated Sept 30, 2026, because the SMART site did not render. The citizenship rule and the length of the service commitment were not re-checked on the site.",
+ "us": true
+}

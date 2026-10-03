@@ -1,0 +1,31 @@
+{
+ "a": "not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Center/large grant",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Gen-4 solicitation NSF 24-576 archived; NSF said a new solicitation was anticipated in 2026",
+ "e": "Multi-institution engineering centers that combine research, workforce development and industry partnership around a societal need. Lead-institution limits apply in past cycles; no citizenship restriction.",
+ "f": "NSF ENG/EEC",
+ "fields": [
+  "dev",
+  "phot",
+  "qp",
+  "bio"
+ ],
+ "id": "nsf-erc-engineering-research-centers",
+ "n": "NSF Engineering Research Centers (ERC)",
+ "nom": true,
+ "s": "watch",
+ "src": "other:nsf-erc",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/erc-gen-4-engineering-research-centers/505599/updates",
+ "unv": "New solicitation not yet posted as of 2026-10-03; award size and limits for next cycle unknown.",
+ "us": false
+}

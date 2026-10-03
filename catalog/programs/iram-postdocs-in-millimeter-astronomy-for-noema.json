@@ -1,0 +1,30 @@
+{
+ "a": "not listed; 2 years, extendable",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-11-08",
+ "dt": "Nov 8, 2026",
+ "e": "Research at mm wavelengths plus NOEMA science operations. Needs observational experience; driver's license and high-altitude medical clearance required.",
+ "f": "IRAM, NOEMA Science Operations Group",
+ "fields": [
+  "astro"
+ ],
+ "id": "iram-postdocs-in-millimeter-astronomy-for-noema",
+ "n": "IRAM: Postdocs in millimeter astronomy for NOEMA",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:cb4df8d3",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/cb4df8d3",
+ "us": false
+}

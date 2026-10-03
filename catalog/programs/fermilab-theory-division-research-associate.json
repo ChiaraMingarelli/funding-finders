@@ -1,0 +1,36 @@
+{
+ "a": "Postdoc appointment; terms not verified.",
+ "added": "2026-09-29",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "The 2025-26 call closed 2025-11-21 (INSPIRE listing). The next call would usually be posted in fall 2026.",
+ "e": "Recent PhDs in particle theory, cosmology or quantum theory.",
+ "f": "Fermilab",
+ "fields": [
+  "ppt",
+  "astro",
+  "qp"
+ ],
+ "id": "fermilab-theory-division-research-associate",
+ "n": "Fermilab Theory Division Research Associate",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://theory.fnal.gov/",
+ "unv": "2026 call not yet posted; deadline taken from an INSPIRE listing",
+ "us": false
+}

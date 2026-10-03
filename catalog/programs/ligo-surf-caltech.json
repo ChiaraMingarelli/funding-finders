@@ -1,0 +1,36 @@
+{
+ "a": "Summer stipend + travel",
+ "added": "2026-09-29",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Last deadline Jan 11, 2026",
+ "e": "Open to US and international students. For continuing undergraduates.",
+ "f": "Caltech LIGO Lab",
+ "fields": [
+  "grav",
+  "inst",
+  "astro"
+ ],
+ "id": "ligo-surf-caltech",
+ "n": "LIGO SURF (Caltech)",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/applicants-info.shtml",
+ "unv": "2027 date",
+ "us": false
+}

@@ -1,0 +1,29 @@
+{
+ "a": "Lecturer (Level B, continuing; roughly asst-prof equivalent)",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-10-11",
+ "dt": "Closes Oct 11, 2026",
+ "e": "SKA-related radio astronomy: extragalactic spectral-line/continuum surveys, AGN, CGM/IGM, cosmology.",
+ "f": "School of Physics, University of Sydney",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "fj-univ-of-sydney-lecturer-in-radio-astronomy",
+ "n": "Univ. of Sydney: Lecturer in Radio Astronomy",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:1577ba59",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://usyd.wd105.myworkdayjobs.com/USYD_EXTERNAL_CAREER_SITE/job/Camperdown-Campus/Lecturer-in-Radio-Astronomy_0153924-1",
+ "us": false
+}

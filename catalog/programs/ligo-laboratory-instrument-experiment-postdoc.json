@@ -1,0 +1,38 @@
+{
+ "a": "1 year, renewable up to 2 more",
+ "added": "2026-09-30",
+ "asub": [
+  "he",
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": null,
+ "dt": "open until filled",
+ "e": "Detector R&D and operations: quantum noise reduction, cryogenic interferometry, ML feedback control, suspensions; based at Caltech, MIT, Hanford or Livingston.",
+ "f": "LIGO Laboratory, Caltech/MIT (Rana Adhikari, Lee McCuller, Matt Evans, Nergis Mavalvala)",
+ "fields": [
+  "grav",
+  "inst",
+  "amo"
+ ],
+ "id": "ligo-laboratory-instrument-experiment-postdoc",
+ "n": "LIGO Laboratory: Instrument/Experiment Postdoc",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:29381",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/29381",
+ "us": false
+}

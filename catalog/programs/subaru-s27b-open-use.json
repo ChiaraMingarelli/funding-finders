@@ -1,0 +1,32 @@
+{
+ "a": "Subaru nights (HSC, PFS, FOCAS, IRCS and others); US users can also get Subaru time through the NOIRLab/Gemini exchange",
+ "added": "2026-10-03",
+ "asub": [],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "S27B not posted (normal deadline usually early to mid March, JST); S27A service closed 1 Oct 2026, noon JST",
+ "e": "Subaru's twice-yearly open-use call. Open to international PIs; US astronomers can also get Subaru time through NOIRLab.",
+ "f": "NAOJ Subaru Telescope",
+ "fields": [
+  "astro"
+ ],
+ "id": "subaru-s27b-open-use",
+ "n": "Subaru Open Use Semester S27B",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "watch",
+ "src": "other:subaru-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://www.naoj.org/Observing/Proposals/call.html",
+ "unv": "S27B dates; foreign-PI limits not checked in detail",
+ "us": false
+}

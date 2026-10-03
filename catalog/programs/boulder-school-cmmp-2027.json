@@ -1,0 +1,33 @@
+{
+ "a": "Not listed (see Student Expenses and Financial Aid page)",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-03",
+ "d": "2027-01-15",
+ "dt": "Applications due Jan 15, 2027; school held in July in Boulder",
+ "e": "Multi-week summer school for advanced graduate students and postdocs in condensed matter physics and materials science; the 2027 topic is machine learning and condensed matter. International students pay their own airfare under NSF rules.",
+ "f": "University of Colorado Boulder (NSF-supported)",
+ "fields": [
+  "cmt",
+  "cmx",
+  "mat",
+  "ds"
+ ],
+ "id": "boulder-school-cmmp-2027",
+ "n": "Boulder School for Condensed Matter and Materials Physics 2027: Machine Learning and Condensed Matter",
+ "nom": false,
+ "pt": "other",
+ "s": "open",
+ "src": "other:bss",
+ "stages": [
+  "gr",
+  "pd"
+ ],
+ "u": "https://www.colorado.edu/conference/bss/",
+ "unv": "Exact 2027 dates and covered costs not stated on homepage",
+ "us": false
+}

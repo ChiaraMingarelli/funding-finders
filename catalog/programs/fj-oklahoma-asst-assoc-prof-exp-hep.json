@@ -1,0 +1,29 @@
+{
+ "a": "Assistant or Associate Professor; start Aug 2027; salary not listed",
+ "added": "2026-10-02",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-02",
+ "d": "2026-12-15",
+ "dt": "Review begins after Nov 14, 2026; listed deadline Dec 15, 2026",
+ "e": "Tenure/tenure-track faculty in any area of experimental HEP; the group works on ATLAS, HL-LHC silicon detectors and muon collider R&D. No citizenship limit stated.",
+ "f": "University of Oklahoma",
+ "fields": [
+  "ppx"
+ ],
+ "id": "fj-oklahoma-asst-assoc-prof-exp-hep",
+ "n": "University of Oklahoma: Assistant or Associate Professor, Experimental High Energy Physics",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32898",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32898",
+ "unv": "INSPIRE listing (3208683) says review begins Nov 14, 2026.",
+ "us": true
+}

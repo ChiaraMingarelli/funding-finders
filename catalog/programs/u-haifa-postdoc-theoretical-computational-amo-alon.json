@@ -1,0 +1,28 @@
+{
+ "a": "1+1 years; University of Haifa postdoc scale",
+ "added": "2026-10-01",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-01",
+ "d": "2027-02-15",
+ "dt": "Deadline Feb 15, 2027; start Apr 1, 2027 (flexible)",
+ "e": "Coupled-cluster many-body methods for trapped bosons, BECs and mixtures in traps and cavities. Background in computational many-body AMO, ultracold matter or coupled-cluster electronic structure expected.",
+ "f": "University of Haifa, Department of Physics and HCTPA (Ofir Alon)",
+ "fields": [
+  "amo"
+ ],
+ "id": "u-haifa-postdoc-theoretical-computational-amo-alon",
+ "n": "University of Haifa: Postdoc in Theoretical & Computational AMO Physics (Alon group)",
+ "nom": false,
+ "pt": "group",
+ "s": "open",
+ "src": "other:quantiki-haifa-alon-amo",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.quantiki.org/position/postdoctoral-position-theoretical-and-computational-amo-physics-department-physics",
+ "us": false
+}

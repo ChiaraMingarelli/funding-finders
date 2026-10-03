@@ -1,0 +1,35 @@
+{
+ "a": "Student-led research award",
+ "added": "2026-09-29",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Awaiting ROSES-26 (last deadline Jul 14, 2026)",
+ "e": "The student writes the proposal and the advisor acts as mentor.",
+ "f": "NASA SMD",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "nasa-finesst",
+ "n": "NASA FINESST",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/",
+ "unv": "ROSES-26 not released",
+ "us": false
+}

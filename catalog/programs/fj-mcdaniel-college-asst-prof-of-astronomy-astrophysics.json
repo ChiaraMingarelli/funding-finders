@@ -1,0 +1,28 @@
+{
+ "a": "Assistant Professor, tenure-track",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-10-30",
+ "dt": "Review begins Oct 30, 2026; deadline Nov 12; open until filled",
+ "e": "Any area of astronomy/astrophysics, with a research program that involves undergraduates.",
+ "f": "Dept. of Physics, McDaniel College",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-mcdaniel-college-asst-prof-of-astronomy-astrophysics",
+ "n": "McDaniel College: Asst Prof of Astronomy/Astrophysics",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "aas:c9527a9f",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://mcdaniel.interviewexchange.com/jobofferdetails.jsp?JOBID=205255",
+ "us": false
+}

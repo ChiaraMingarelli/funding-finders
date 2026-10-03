@@ -1,0 +1,28 @@
+{
+ "a": "Tenure-track or tenured Fellow",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-12-20",
+ "dt": "Deadline Dec 20, 2026",
+ "e": "Particle, nuclear and astroparticle physics, theory and experiment.",
+ "f": "TDLI & School of Physics and Astronomy, Shanghai Jiao Tong University",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-tsung-dao-lee-institute-faculty-particle-nuclear-astr",
+ "n": "Tsung-Dao Lee Institute: Faculty, Particle/Nuclear/Astroparticle Physics",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:32304",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32304",
+ "us": false
+}

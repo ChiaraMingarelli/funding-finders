@@ -1,0 +1,35 @@
+{
+ "a": "~300 awards, $180M total across 15 Physics programs; up to 5-year projects encouraged",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Proposals accepted anytime (new consolidated solicitation posted Aug 17, 2026; replaces NSF 23-615 and 23-607). No fixed target dates in the solicitation; see program pages.",
+ "e": "Faculty at US universities; no PI limit, but NSF discourages multiple related proposals to different programs. CAREER goes through the separate CAREER solicitation. NSF may prefer institutions with lower indirect-cost rates (EO 14332), and awards may include termination-for-convenience terms.",
+ "f": "NSF Directorate for Mathematical & Physical Sciences, Division of Physics",
+ "fields": [
+  "amo",
+  "qp",
+  "inst"
+ ],
+ "id": "nsf-mps-physics-research-programs-nsf-26-523-amo-experiment-",
+ "n": "NSF MPS Physics Research Programs (NSF 26-523): AMO-Experiment, AMO-Theory, Quantum Information Science",
+ "nofo": [
+  {
+   "opp": "26-523",
+   "u": "https://simpler.grants.gov/opportunity/d4e9f37d-0a43-40de-94bb-4d007267df73"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/mps-physics-mps-physics-research-programs/nsf26-523/solicitation",
+ "us": false
+}

@@ -1,0 +1,36 @@
+{
+ "a": "Competitive salary and benefits; 3-year appointment",
+ "added": "2026-10-01",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "Biennial; last deadline Nov 11, 2025; next competition expected ~fall 2027",
+ "e": "Open to all nationalities, with preference for Canadian citizens/PRs. PhD within the past 5 years (or within 6 months of start). Independent radio-astronomy postdoc at DRAO (Penticton, CHIME site), and the listed science explicitly includes pulsars and FRBs.",
+ "f": "National Research Council Canada – Herzberg",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "nrc-covington-fellowship-drao",
+ "n": "NRC Covington Fellowship (DRAO)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "prize",
+ "region": "Canada",
+ "s": "watch",
+ "src": "other:nrc",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://nrc.canada.ca/en/corporate/careers/covington-fellowship",
+ "unv": "Next competition dates not announced",
+ "us": false
+}

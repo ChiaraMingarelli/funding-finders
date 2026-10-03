@@ -1,0 +1,29 @@
+{
+ "a": "3 years; salary plus $15K/yr discretionary research funds; up to 2 fellows",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-10-19",
+ "dt": "Applications due Oct 19, 2026 (Interfolio).",
+ "e": "Exceptional recent PhDs in experimental physics (AMO, condensed matter and others). No citizenship restriction stated.",
+ "f": "Princeton University Department of Physics",
+ "fields": [
+  "amo",
+  "cmx",
+  "qp",
+  "inst"
+ ],
+ "id": "princeton-dicke-fellowship-experimental-physics",
+ "n": "Princeton Dicke Fellowship (experimental physics)",
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://phy.princeton.edu/dicke-fellows",
+ "us": false
+}

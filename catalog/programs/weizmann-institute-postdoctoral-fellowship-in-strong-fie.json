@@ -1,0 +1,27 @@
+{
+ "a": "~11,500 ILS/month net",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-12-31",
+ "dt": "Dec 31, 2026",
+ "e": "Strong-field QED experiments and pixel tracking. Requires an experimental particle physics PhD with detector experience.",
+ "f": "Weizmann Institute of Science; PI Noam Hod",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "weizmann-institute-postdoctoral-fellowship-in-strong-fie",
+ "n": "Weizmann Institute: Postdoctoral fellowship in strong-field QED experiments",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3132348",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3132348",
+ "us": false
+}

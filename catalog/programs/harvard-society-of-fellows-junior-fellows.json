@@ -1,0 +1,30 @@
+{
+ "a": "3-yr stipend + research budget",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2027-08-01",
+ "dt": "Nominations closed; reopen May 1 to Aug 1, 2027",
+ "e": "Recent PhDs or PhD candidates, nominated by an academic mentor; no self-nomination.",
+ "f": "Harvard University",
+ "fields": [
+  "all"
+ ],
+ "id": "harvard-society-of-fellows-junior-fellows",
+ "n": "Harvard Society of Fellows (Junior Fellows)",
+ "nfit": "Low",
+ "nom": true,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://socfell.fas.harvard.edu/nomination-procedure",
+ "us": false
+}

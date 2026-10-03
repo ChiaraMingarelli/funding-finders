@@ -1,0 +1,41 @@
+{
+ "a": "Project periods of 6 months to 5 years; three years is typical. Ask the program manager before requesting more than three years.",
+ "added": "2026-09-28",
+ "asub": [],
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "FY2027 cycle has closed: pre-application encouraged by 2026-07-30, application due 2026-09-03, panels in November 2026. FY2028 dates should appear in the FY2027 SC Open Call, which is not yet posted (DE-FOA-0003600 closes 2026-09-30).",
+ "e": "University PIs, new and renewal applications. Reviewers explicitly judge work against P5 priorities. Applications not in the comparative review get lower priority.",
+ "f": "DOE Office of Science - High Energy Physics",
+ "fields": [
+  "ppx",
+  "ppt",
+  "inst",
+  "astro",
+  "qp",
+  "ds"
+ ],
+ "id": "doe-hep-university-comparative-review-via-sc-open-call",
+ "n": "DOE HEP University Comparative Review (via SC Open Call)",
+ "nofo": [
+  {
+   "opp": "DE-FOA-0003600",
+   "u": "https://simpler.grants.gov/opportunity/34942f3a-232f-48f4-a624-123dd6d042a0"
+  }
+ ],
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://science.osti.gov/hep/Funding-Opportunities",
+ "unv": "FY2028 comparative review dates not yet posted",
+ "us": false
+}

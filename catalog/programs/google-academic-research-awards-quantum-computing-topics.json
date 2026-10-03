@@ -1,0 +1,28 @@
+{
+ "a": "Not stated on official page",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Industry",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last deadline Aug 7, 2026 (quantum computing topics); the next call is not posted yet",
+ "e": "Faculty at degree-granting institutions who advise students (postdocs may be co-PIs). Quantum topics require open-sourcing the results.",
+ "f": "Google Research / Google Quantum AI",
+ "fields": [
+  "qp"
+ ],
+ "id": "google-academic-research-awards-quantum-computing-topics",
+ "n": "Google Academic Research Awards – Quantum Computing topics",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://research.google/programs-and-events/google-academic-research-awards/",
+ "unv": "Award amount not on official page (third-party sites say up to $100K).",
+ "us": false
+}

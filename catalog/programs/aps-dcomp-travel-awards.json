@@ -1,0 +1,31 @@
+{
+ "a": "Up to $800 travel reimbursement",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Travel",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "2025 cycle opened Sept 29 and closed Oct 27; 2026 dates not posted",
+ "e": "Travel support for students and postdocs giving talks in DCOMP-sponsored sessions at the APS Global Physics Summit. Contributed speakers need an advisor's letter, and each group can receive one award.",
+ "f": "APS Division of Computational Physics",
+ "fields": [
+  "cmt",
+  "ds"
+ ],
+ "id": "aps-dcomp-travel-awards",
+ "n": "APS DCOMP Student and Postdoc Travel Awards (Global Physics Summit)",
+ "nom": false,
+ "pt": "other",
+ "s": "watch",
+ "src": "other:aps-dcomp",
+ "stages": [
+  "gr",
+  "pd"
+ ],
+ "u": "https://engage.aps.org/dcomp/honors/prizes-awards/travel-awards",
+ "unv": "The page still shows 2025 dates; the deadline for the 2027 Summit was not confirmed.",
+ "us": false
+}

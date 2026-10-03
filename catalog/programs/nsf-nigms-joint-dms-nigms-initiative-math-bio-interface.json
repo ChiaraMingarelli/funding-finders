@@ -1,0 +1,35 @@
+{
+ "a": "not listed",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": "2027-09-20",
+ "dt": "Posted 2022-06-01 (details page not opened)",
+ "e": "Mathematical/computational research at the biology interface; relevant to theoretical biophysics.",
+ "f": "NSF / NIH NIGMS",
+ "fields": [
+  "bio",
+  "ds"
+ ],
+ "id": "nsf-nigms-joint-dms-nigms-initiative-math-bio-interface",
+ "n": "NSF-NIGMS Joint DMS/NIGMS Initiative (math-bio interface)",
+ "nofo": [
+  {
+   "opp": "22-600",
+   "u": "https://simpler.grants.gov/opportunity/3ca83b4a-6e88-407d-8a94-7292acdb686e"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/3ca83b4a-6e88-407d-8a94-7292acdb686e",
+ "unv": true,
+ "us": false
+}

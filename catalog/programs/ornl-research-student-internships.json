@@ -1,0 +1,32 @@
+{
+ "a": "Weekly stipend by academic level",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Training",
+ "checked": "2026-10-03",
+ "d": "2026-10-28",
+ "dt": "Spring 2027 applications close Oct 28, 2026; fall/spring/summer terms",
+ "e": "Mentored full- or part-time research appointments at ORNL for undergraduate and graduate students. US citizens or permanent residents with 3.0+ GPA.",
+ "f": "Oak Ridge National Laboratory / ORISE",
+ "fields": [
+  "all",
+  "mat",
+  "cmx",
+  "qp",
+  "energy"
+ ],
+ "id": "ornl-research-student-internships",
+ "n": "ORNL Research Student Internships (RSI)",
+ "nom": false,
+ "s": "open",
+ "src": "other:ornl-rsi",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://www.ornl.gov/content/ornl-research-student-internships",
+ "unv": "Summer 2027 deadline not listed",
+ "us": true
+}

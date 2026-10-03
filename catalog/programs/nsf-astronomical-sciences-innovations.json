@@ -1,0 +1,37 @@
+{
+ "a": "1–3 awards; science projects, mid-scale-level facilities, open-access capabilities",
+ "added": "2026-09-28",
+ "asub": [
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ast"
+ ],
+ "c": "Instrumentation",
+ "checked": "2026-09-29",
+ "d": "2026-11-16",
+ "dt": "Target date",
+ "e": "The AST route for instrumentation and facility-scale projects. A project execution plan outline is required for some categories.",
+ "f": "NSF MPS/AST · NSF 26-522",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "nsf-astronomical-sciences-innovations",
+ "n": "NSF Astronomical Sciences Innovations",
+ "nofo": [
+  {
+   "opp": "26-522",
+   "u": "https://simpler.grants.gov/opportunity/1257538b-2930-4d7a-a9f8-c7b0e349eda1"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/mps-astro-mps-astronomical-sciences-research-programs/nsf26-522/solicitation",
+ "us": false
+}

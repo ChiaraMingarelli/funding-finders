@@ -1,0 +1,36 @@
+{
+ "a": "Up to $120K/yr for 3 years",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": "2027-11-20",
+ "dt": "Submitted under BAA W911NF-23-S-0001 (effective Nov 21, 2022 – Nov 20, 2027). Contact the ARO program manager (TPOC) and send a white paper first.",
+ "e": "US citizen, national or permanent resident who has held a US tenure-track position for fewer than 5 years. Requires an institutional support letter.",
+ "f": "Army Research Office / DEVCOM ARL",
+ "fields": [
+  "amo",
+  "cmx",
+  "cmt",
+  "qp"
+ ],
+ "id": "aro-early-career-program-ecp-award-via-arl-foundational-rese",
+ "n": "ARO Early Career Program (ECP) Award (via ARL Foundational Research BAA)",
+ "nofo": [
+  {
+   "opp": "W911NF-23-S-0001",
+   "u": "https://simpler.grants.gov/opportunity/5e185327-5f25-4c09-889a-43615e1f54da"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt"
+ ],
+ "u": "https://arl.devcom.army.mil/collaborate-with-us/opportunity/arl-baa/",
+ "unv": "BAA period taken from Amendment 4 (Jan 2025). Later amendments not checked.",
+ "us": true
+}

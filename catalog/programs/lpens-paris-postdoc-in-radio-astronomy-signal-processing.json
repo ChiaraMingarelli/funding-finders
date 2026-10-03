@@ -1,0 +1,36 @@
+{
+ "a": "French public research scale; 2 years",
+ "added": "2026-09-30",
+ "asub": [
+  "ism"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-11-15",
+ "dt": "Nov 15, 2026",
+ "e": "Scalable, energy-efficient signal processing for SKA (imaging, GPU optimization). Requires a PhD with Python/HPC skills.",
+ "f": "Laboratoire de Physique de l'ENS, ISM group; contact Antoine Marchal",
+ "fields": [
+  "astro",
+  "ds",
+  "inst"
+ ],
+ "id": "lpens-paris-postdoc-in-radio-astronomy-signal-processing",
+ "n": "LPENS Paris: Postdoc in radio astronomy & signal processing (SKA)",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:c4281ec5",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/c4281ec5",
+ "us": false
+}

@@ -1,0 +1,28 @@
+{
+ "a": "Tenure-track Assistant Professor (5-yr contract)",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-12-31",
+ "dt": "Deadline Dec 31, 2026; open until filled",
+ "e": "All research topics, including astro-ph and gr-qc. Postdoc experience required. Apply by email.",
+ "f": "Institute of Physics and Astronomy, Eötvös Loránd University",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-elte-budapest-tenure-track-assistant-professorships",
+ "n": "ELTE Budapest: Tenure-track Assistant Professorships",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "rolling",
+ "src": "inspire:3203275",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://physics.elte.hu/",
+ "us": false
+}

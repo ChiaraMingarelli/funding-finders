@@ -1,0 +1,35 @@
+{
+ "a": "$1M to $1.3M over 3 yrs; supports high-risk work and custom instrumentation",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Foundation",
+ "checked": "2026-09-29",
+ "d": "2026-12-07",
+ "dt": "Phase I Dec 7, 2026, 4:30 pm PT (Yale internal selection earlier)",
+ "e": "Limited to 3 Phase I submissions per institution; goes through Yale's internal competition. Coordinator-verified.",
+ "f": "W.M. Keck Foundation",
+ "fields": [
+  "all"
+ ],
+ "id": "w-m-keck-foundation-research-program-science-engineering",
+ "n": "W.M. Keck Foundation Research Program (Science & Engineering)",
+ "nom": true,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.wmkeck.org/",
+ "us": false,
+ "yale": {
+  "d": null,
+  "t": "Keck is limited-submission; Yale runs internal competitions through InfoReady (yale.infoready4.com, Organizer filter = Limited Submissions). Internal applications are generally due about 12 weeks before the sponsor deadline. Contact internal.proposals@yale.edu.",
+  "u": "https://researchdev.yale.edu/limited-submissions-internal-competitions",
+  "unv": "No Keck internal deadline for the Dec 2026 cycle appeared in the public Yale Funding Opportunities newsletters (Jan to Jun 2026; the archive stops at Jun 3, 2026). The InfoReady listing needs a Yale NetID login. Timing inferred from Yale's general 12-week rule, not a posted date."
+ }
+}

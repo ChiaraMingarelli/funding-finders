@@ -1,0 +1,27 @@
+{
+ "a": "$73,000-$90,000 (12-month appointment)",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-11-16",
+ "dt": "Nov 16, 2026, 11:59 pm ET",
+ "e": "All areas of quantum information science and quantum computing. CV, research statement, 3 letters; start Sep 1, 2027.",
+ "f": "MIT Center for Theoretical Physics - a Leinweber Institute (Soonwon Choi, Isaac Chuang, Edward Farhi, Aram Harrow, Peter Shor, Seth Lloyd, Anand Natarajan, Harry Zhou)",
+ "fields": [
+  "qp"
+ ],
+ "id": "mit-ctp-postdoc-in-quantum-information-science-computing",
+ "n": "MIT CTP: Postdoc in Quantum Information Science/Computing",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32745",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32745",
+ "us": false
+}

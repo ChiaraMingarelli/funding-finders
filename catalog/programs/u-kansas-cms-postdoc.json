@@ -1,0 +1,27 @@
+{
+ "a": "not listed; ≥1 year, renewable",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-05",
+ "dt": "Oct 5, 2026",
+ "e": "CMS Higgs physics and detector upgrades. Requires a PhD in experimental HEP.",
+ "f": "University of Kansas; contact Elliot Reynolds",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "u-kansas-cms-postdoc",
+ "n": "U. Kansas: CMS postdoc",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3205028",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://employment.ku.edu/staff/33748BR",
+ "us": false
+}

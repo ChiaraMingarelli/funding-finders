@@ -1,0 +1,28 @@
+{
+ "a": "PDRA $65,000-$70,000; ARS $73,700-$79,000; 1 year renewable",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": null,
+ "dt": "no deadline stated",
+ "e": "Building optical instruments to measure and manipulate neural dynamics in C. elegans and Drosophila. Instrument-development, optics/microscopy and programming experience required.",
+ "f": "Princeton University, Department of Physics & Princeton Neuroscience Institute, Leifer Lab (Andrew Leifer)",
+ "fields": [
+  "bio",
+  "inst"
+ ],
+ "id": "princeton-postdoc-in-optical-instrumentation-for-neuro-b",
+ "n": "Princeton: Postdoc in Optical Instrumentation for Neuro/Biophysics (Leifer Lab)",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32075",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32075",
+ "us": false
+}

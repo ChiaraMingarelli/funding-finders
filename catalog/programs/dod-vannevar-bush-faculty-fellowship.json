@@ -1,0 +1,29 @@
+{
+ "a": "Up to $3M over 5 years",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "No new class announced; last solicitation (Class of 2025) posted July 2024",
+ "e": "A five-year fellowship for senior university researchers doing high-risk basic research. It has historically been run through a white-paper competition.",
+ "f": "DoD Basic Research Office (via ONR)",
+ "fields": [
+  "all"
+ ],
+ "id": "dod-vannevar-bush-faculty-fellowship",
+ "n": "DoD Vannevar Bush Faculty Fellowship (VBFF)",
+ "nom": false,
+ "s": "watch",
+ "src": "other:vbff",
+ "stages": [
+  "ten"
+ ],
+ "u": "https://basicresearch.defense.gov/Programs/Vannevar-Bush-Faculty-Fellowship/",
+ "unv": "No solicitation since July 2024 was found, so the next cycle is uncertain. Eligibility details, including citizenship and any institutional limits, were not checked.",
+ "us": false
+}

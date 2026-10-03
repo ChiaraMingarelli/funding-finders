@@ -1,0 +1,23 @@
+{
+ "a": "Not listed",
+ "added": "2026-09-28",
+ "c": "Yale internal",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Department awards by nomination or selection; there is no public application deadline.",
+ "e": "Yale Physics PhD students. Bromley recognizes graduate research; Leigh Page recognizes graduate teaching.",
+ "f": "Yale Department of Physics",
+ "fields": [
+  "all"
+ ],
+ "id": "yale-physics-graduate-honors-d-allan-bromley-graduate-fellow",
+ "n": "Yale Physics graduate honors (D. Allan Bromley Graduate Fellowship; Leigh Page Teaching Award)",
+ "nom": true,
+ "s": "watch",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://physics.yale.edu/academics/graduate-studies/honors",
+ "unv": "Amounts and selection process are not published.",
+ "us": false
+}

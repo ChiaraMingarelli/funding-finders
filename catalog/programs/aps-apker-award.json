@@ -1,0 +1,29 @@
+{
+ "a": "$5,000 to student + $5,000 to department + travel",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Prize",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last posted nomination deadline Jun 3, 2025; annual early-June cycle",
+ "e": "Recognizes outstanding research by undergraduates at US colleges and universities. One nominee per department.",
+ "f": "American Physical Society",
+ "fields": [
+  "all"
+ ],
+ "id": "aps-apker-award",
+ "n": "APS LeRoy Apker Award (undergraduate research)",
+ "nom": true,
+ "s": "watch",
+ "src": "other:apker",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.aps.org/funding-recognition/award/leroy-apker-award",
+ "unv": "2027 deadline not posted",
+ "us": false
+}

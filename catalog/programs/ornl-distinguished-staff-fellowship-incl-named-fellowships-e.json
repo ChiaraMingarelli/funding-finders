@@ -1,0 +1,31 @@
+{
+ "a": "3 years of guaranteed funding.",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-10-16",
+ "dt": "Current window closes 2026-10-16 11:59 pm Eastern. Three cycles a year (January, May, September).",
+ "e": "PhD before start and no more than 5 years past the degree at application. Needs a proposal aligned with the ORNL mission.",
+ "f": "Oak Ridge National Laboratory",
+ "fields": [
+  "nux",
+  "nut",
+  "inst",
+  "ds",
+  "qp"
+ ],
+ "id": "ornl-distinguished-staff-fellowship-incl-named-fellowships-e",
+ "n": "ORNL Distinguished Staff Fellowship (incl. named fellowships, e.g. Wigner)",
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.ornl.gov/careers/distinguished-fellowships",
+ "unv": "Whether the Wigner name is still used within DSF not confirmed on this page",
+ "us": false
+}

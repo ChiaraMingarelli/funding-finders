@@ -1,0 +1,30 @@
+{
+ "a": "$102,799 stipend (2027-28) + $10k research allowance; 3 yrs",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "2027 nominations closed Sep 10, 2026, noon ET; next ~Sep 2027",
+ "e": "PhD May 2025 to Aug 2027; must be hosted at an NYC institution; nomination by tenured faculty, with nominator or recommender from outside the nominee's institution.",
+ "f": "Simons Foundation",
+ "fields": [
+  "all"
+ ],
+ "id": "simons-society-of-fellows-junior-fellows",
+ "n": "Simons Society of Fellows - Junior Fellows",
+ "nfit": "Low",
+ "nom": true,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.simonsfoundation.org/grant/simons-society-of-fellows-nominations/",
+ "us": false
+}

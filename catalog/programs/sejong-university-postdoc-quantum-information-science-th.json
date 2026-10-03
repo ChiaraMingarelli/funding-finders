@@ -1,0 +1,27 @@
+{
+ "a": "KRW 55M/yr; 2 years (1+1)",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": null,
+ "dt": "until filled; apply by email",
+ "e": "Quantum information and computation, device characterization, error mitigation/correction and Bayesian inference. Python/MATLAB preferred.",
+ "f": "Sejong University, QuIST group, Dept. of Quantum Information Science and Engineering (Yong Siah Teo)",
+ "fields": [
+  "qp"
+ ],
+ "id": "sejong-university-postdoc-quantum-information-science-th",
+ "n": "Sejong University: Postdoc, Quantum Information Science Theory",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32078",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32078",
+ "us": false
+}

@@ -1,0 +1,34 @@
+{
+ "a": "US students: €992/month; Canadian students: CAD $7,000 (via Mitacs); ~3 months",
+ "added": "2026-10-01",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "Last cycle: applications Oct 15–Nov 30, 2025 (letters Dec 15); 2027 placement dates not yet posted",
+ "e": "For undergraduates (2+ years completed) at universities in the US, Canada, UK or Ireland, in physics and other sciences. Summer research in Germany, e.g. with PhD-student mentors at MPIfR Bonn or AEI.",
+ "f": "DAAD (German Academic Exchange Service)",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "daad-rise-germany",
+ "n": "DAAD RISE Germany",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "watch",
+ "src": "other:daad",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.daad.de/rise/en/rise-germany/find-an-internship/what-applicants-need-to-know/",
+ "unv": "2027 application window not yet posted (expected similar Oct–Nov timing, unconfirmed)",
+ "us": false
+}

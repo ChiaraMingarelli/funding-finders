@@ -1,0 +1,28 @@
+{
+ "a": "Assistant Professor, tenure-line",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-10-16",
+ "dt": "Review begins Oct 16, 2026",
+ "e": "Any field whose methods include computational physics or analysis of large datasets; PhD in physics or astronomy. Start Fall 2027.",
+ "f": "Dept. of Physics, University of Puget Sound",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-univ-of-puget-sound-asst-prof-physics-computational-d",
+ "n": "Univ. of Puget Sound: Asst Prof - Physics (computational/data)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "other:physicstoday-42001172",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://jobs.physicstoday.org/job/42001172/",
+ "us": false
+}

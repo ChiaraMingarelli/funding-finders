@@ -1,0 +1,29 @@
+{
+ "a": "Not confirmed",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Prize",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "No current call found; limited-submission pages list the program as CLOSED",
+ "e": "By institutional nomination only; theory–experiment work in the life sciences.",
+ "f": "Simons Foundation",
+ "fields": [
+  "bio",
+  "ds"
+ ],
+ "id": "simons-investigators-in-mathematical-modeling-of-living-syst",
+ "n": "Simons Investigators in Mathematical Modeling of Living Systems (MMLS)",
+ "nom": true,
+ "s": "watch",
+ "stages": [
+  "ten",
+  "tt"
+ ],
+ "u": "https://www.simonsfoundation.org/mathematical-modeling-living-systems/",
+ "unv": "Simons page lists MMLS Investigators but gives no deadline; could not confirm whether the program still runs cycles",
+ "us": false
+}

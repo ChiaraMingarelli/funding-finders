@@ -1,0 +1,29 @@
+{
+ "a": "TV-L salary scale",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-11-22",
+ "dt": "Nov 22, 2026, 17:59 (time zone not stated)",
+ "e": "Quantum many-body systems, nonequilibrium dynamics, correlated/topological matter, quantum optics, cold gases and quantum simulation/computing. Two letters; start Fall 2027.",
+ "f": "Technische Universitat Munchen, Physics Dept., Condensed Matter Theory (Laura Classen, Michael Knap, Johannes Knolle, Barbara Kraus, Sanjay Moudgalya, Marko Ljubotina, Frank Pollmann, Peter Rabl)",
+ "fields": [
+  "cmt",
+  "qp",
+  "amo"
+ ],
+ "id": "tu-munich-postdocs-in-condensed-matter-quantum-informati",
+ "n": "TU Munich: Postdocs in Condensed Matter & Quantum Information Theory",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32594",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32594",
+ "us": false
+}

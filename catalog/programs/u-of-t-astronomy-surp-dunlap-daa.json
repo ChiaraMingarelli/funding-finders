@@ -1,0 +1,31 @@
+{
+ "a": null,
+ "added": "2026-10-01",
+ "aud": [
+  "ng",
+  "radar"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "2026 full-consideration deadline was Jan 30, 2026 (rolling afterwards); 2027 date not yet posted",
+ "e": "For undergraduates in astronomy, physics or engineering who are Canadian citizens/PRs, full-time U of T students, students at Canadian universities with off-campus work permits, or holders of U of T work permits. Summer research (May–Aug) with Toronto astronomers, including radio/FRB groups.",
+ "f": "Dunlap Institute & Dept. of Astronomy & Astrophysics, University of Toronto",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "u-of-t-astronomy-surp-dunlap-daa",
+ "n": "U of T Astronomy SURP (Dunlap/DAA)",
+ "nfit": "High",
+ "nom": false,
+ "region": "Canada",
+ "s": "watch",
+ "src": "other:dunlap",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.dunlap.utoronto.ca/training/surp/",
+ "unv": "Stipend amount not stated on page; 2027 deadline not posted",
+ "us": false
+}

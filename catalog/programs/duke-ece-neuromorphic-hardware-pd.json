@@ -1,0 +1,28 @@
+{
+ "a": "not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "No deadline listed; posting listed until Nov 30, 2026",
+ "e": "Circuit- and system-level design, tapeout and testing of energy-efficient spiking-neural-network hardware (analog/mixed-signal CMOS neurons and synapses). PhD in EE/CE/microelectronics.",
+ "f": "Duke University, Department of Electrical and Computer Engineering",
+ "fields": [
+  "dev",
+  "ds"
+ ],
+ "id": "duke-ece-neuromorphic-hardware-pd",
+ "n": "Duke ECE: Postdoc in Neuromorphic Computing Hardware",
+ "nom": false,
+ "pt": "group",
+ "s": "open",
+ "src": "ajo:32862",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32862",
+ "us": false
+}

@@ -1,0 +1,35 @@
+{
+ "a": "$75,268/yr; 2 years, renewable for a third",
+ "added": "2026-10-01",
+ "asub": [
+  "cos",
+  "xgal"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-01",
+ "d": "2027-01-08",
+ "dt": "Deadline Jan 8, 2027; start Summer 2027",
+ "e": "Galaxy evolution and large-scale structure at cosmic noon with the Roman Space Telescope (IGM tomography, protoclusters, environment at z~2-3). PhD in astronomy, physics or related field by start.",
+ "f": "Caltech/IPAC (Nima Chartab)",
+ "fields": [
+  "astro"
+ ],
+ "id": "caltech-ipac-postdoc-extragalactic-astrophysics-roman",
+ "n": "Caltech/IPAC: Postdoctoral Scholar in Extragalactic Astrophysics (Roman)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "aas:ff862c4f",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/ff862c4f",
+ "us": false
+}

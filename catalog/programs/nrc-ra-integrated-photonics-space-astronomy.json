@@ -1,0 +1,34 @@
+{
+ "a": "CAD 83,985–116,641/yr; 3-year Research Associate term",
+ "added": "2026-10-02",
+ "asub": [
+  "inst"
+ ],
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-02",
+ "d": "2026-10-22",
+ "dt": "Closes 22 Oct 2026, 23:59 ET",
+ "e": "Early-career Research Associate in Ottawa leading the photonic integrated circuit subsystem of the TESERACT astrophotonic CubeSat. PhD within the last 5 years (or within 6 months); preference goes to Canadian citizens and permanent residents, and Reliability Status clearance is required.",
+ "f": "National Research Council Canada (Herzberg / Quantum and Nanotechnologies)",
+ "fields": [
+  "inst",
+  "astro"
+ ],
+ "id": "nrc-ra-integrated-photonics-space-astronomy",
+ "n": "NRC Canada: Research Associate, Integrated Photonics for Space Astronomy (TESERACT)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "Canada",
+ "s": "open",
+ "src": "other:casca-nrc-teseract",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://recruitment-recrutement.nrc-cnrc.gc.ca/job/Ottawa-Research-Associate-Integrated-Photonics-for-Space-Astronomy-ON/606001017/",
+ "us": false
+}

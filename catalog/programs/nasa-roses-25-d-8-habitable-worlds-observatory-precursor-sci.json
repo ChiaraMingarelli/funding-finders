@@ -1,0 +1,37 @@
+{
+ "a": "not listed",
+ "added": "2026-09-28",
+ "asub": [
+  "exo"
+ ],
+ "aud": [
+  "yale",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": "2026-10-26",
+ "dt": "Posted 2026-07-27; mandatory NOI was due 2026-09-10",
+ "e": "Any organization type, but NASA funds only US institutions. Precursor science for the Habitable Worlds Observatory.",
+ "f": "NASA",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "nasa-roses-25-d-8-habitable-worlds-observatory-precursor-sci",
+ "n": "NASA ROSES-25 D.8 Habitable Worlds Observatory Precursor Science",
+ "nofo": [
+  {
+   "opp": "NNH25ZDA001N-HWOPSI",
+   "u": "https://simpler.grants.gov/opportunity/86414383-5e44-4e7b-88a9-7068e1c5b219"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/86414383-5e44-4e7b-88a9-7068e1c5b219",
+ "us": false
+}

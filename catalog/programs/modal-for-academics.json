@@ -1,0 +1,32 @@
+{
+ "a": "Up to $10k serverless GPU credits",
+ "added": "2026-09-28",
+ "aud": [
+  "radar",
+  "ast"
+ ],
+ "c": "Compute",
+ "checked": "2026-09-28",
+ "d": null,
+ "dt": "Apply form on page",
+ "e": "Serverless GPU credits for academic research projects, useful for bursty ML training such as simulation-based inference.",
+ "f": "Modal",
+ "fields": [
+  "ds",
+  "all"
+ ],
+ "id": "modal-for-academics",
+ "n": "Modal for Academics",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "other:modal-academics",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://modal.com/academics",
+ "unv": "cadence and eligibility not stated",
+ "us": false
+}

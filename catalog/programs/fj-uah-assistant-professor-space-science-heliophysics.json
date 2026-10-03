@@ -1,0 +1,28 @@
+{
+ "a": "Assistant Professor, tenure-track",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-11-01",
+ "dt": "Deadline Nov 1, 2026; open until filled",
+ "e": "Solar/interplanetary physics and space weather; computational heliophysics with AI/ML.",
+ "f": "Dept. of Space Science, University of Alabama in Huntsville",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-uah-assistant-professor-space-science-heliophysics",
+ "n": "UAH: Assistant Professor, Space Science (Heliophysics)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "aas:e0906a12",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://aas.org/jobregister/ad/e0906a12",
+ "us": false
+}

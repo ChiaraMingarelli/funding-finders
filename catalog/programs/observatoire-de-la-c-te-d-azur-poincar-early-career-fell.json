@@ -1,0 +1,35 @@
+{
+ "a": "€48k gross/yr + €5k/yr environment; 2 years",
+ "added": "2026-09-30",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-16",
+ "dt": "Nov 16, 2026, noon (TZ not stated)",
+ "e": "Independent research in Earth and Universe sciences; also listed on the LIGO LAAC job board. Requires prior postdoc work outside OCA.",
+ "f": "Observatoire de la Côte d'Azur, Nice; contacts Muriel Billerey, Mathias Schultheis",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "observatoire-de-la-c-te-d-azur-poincar-early-career-fell",
+ "n": "Observatoire de la Côte d'Azur: Poincaré early-career fellowship",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:6076de03",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/6076de03",
+ "us": false
+}

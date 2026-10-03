@@ -1,0 +1,32 @@
+{
+ "a": "3 yrs of support over 5: $37,000 stipend + $16,000 cost of education per year",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-10-23",
+ "dt": "Physics & Astronomy: Oct 23, 2026, 8 pm ET; reference letters by Oct 16, 2026",
+ "e": "College seniors and first-year grad students (limited second-year eligibility) in research degrees; US citizens, nationals or permanent residents.",
+ "f": "NSF",
+ "fields": [
+  "all"
+ ],
+ "id": "nsf-graduate-research-fellowship-grfp",
+ "n": "NSF Graduate Research Fellowship (GRFP)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "gr",
+  "ug"
+ ],
+ "u": "https://www.nsf.gov/funding/initiatives/grfp",
+ "us": true
+}

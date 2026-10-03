@@ -1,0 +1,40 @@
+{
+ "a": "up to 3 years (annual contracts)",
+ "added": "2026-09-30",
+ "asub": [
+  "cos",
+  "he",
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Sep 30, 2026 date has passed; open until the positions are filled (AJO listing to Dec 31, 2026).",
+ "e": "Quantum sensors and devices for dark matter, axion and gravitational-wave detection. PhD in physics or related field by start.",
+ "f": "KEK, International Center for Quantum-field Measurement Systems for Studies of the Universe and Particles (QUP)",
+ "fields": [
+  "ppx",
+  "astro",
+  "inst",
+  "ds"
+ ],
+ "id": "kek-qup-postdoctoral-fellows-in-experimental-physics",
+ "n": "KEK: QUP Postdoctoral Fellows in Experimental Physics",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "rolling",
+ "src": "ajo:32184",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32184",
+ "us": false
+}

@@ -1,0 +1,34 @@
+{
+ "a": "not listed",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": "2028-01-07",
+ "dt": "Posted 2024-11-14",
+ "e": "US organizations (foreign ineligible). Development of biomedical technologies that significantly advance the state of the art.",
+ "f": "NIH",
+ "fields": [
+  "bio",
+  "inst"
+ ],
+ "id": "nih-focused-technology-r-d-r01",
+ "n": "NIH Focused Technology R&D (R01)",
+ "nofo": [
+  {
+   "opp": "PAR-25-203",
+   "u": "https://simpler.grants.gov/opportunity/fb47cb63-0f59-4d4f-8b60-2f6be3fb0f17"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/fb47cb63-0f59-4d4f-8b60-2f6be3fb0f17",
+ "us": false
+}

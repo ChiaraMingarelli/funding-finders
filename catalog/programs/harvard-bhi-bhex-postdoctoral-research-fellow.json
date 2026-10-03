@@ -1,0 +1,36 @@
+{
+ "a": "3 years",
+ "added": "2026-09-30",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-11-11",
+ "dt": "Nov 11, 2026, 5:00 pm EST; considered until filled",
+ "e": "Theory, simulations, instrumentation or mission design for the Black Hole Explorer (BHEX) space-VLBI mission. Start Sep 1, 2027.",
+ "f": "Harvard University, Black Hole Initiative (Michael Johnson, BHEX PI; Peter Galison)",
+ "fields": [
+  "astro",
+  "grav",
+  "inst"
+ ],
+ "id": "harvard-bhi-bhex-postdoctoral-research-fellow",
+ "n": "Harvard BHI: BHEX Postdoctoral Research Fellow",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32741",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32741",
+ "us": false
+}

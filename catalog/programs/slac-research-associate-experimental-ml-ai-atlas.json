@@ -1,0 +1,27 @@
+{
+ "a": "$70k-$100k; 2 years, renewable",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": null,
+ "dt": "review began Feb 20, 2026; open until filled",
+ "e": "ML/AI for HEP (TREASURE project: AI-ready data, foundation models) with ATLAS analysis, reconstruction and detector R&D. Recent PhD in experimental particle physics.",
+ "f": "SLAC National Accelerator Laboratory, Fundamental Physics Directorate, ATLAS group (Michael Kagan)",
+ "fields": [
+  "ppx",
+  "ds"
+ ],
+ "id": "slac-research-associate-experimental-ml-ai-atlas",
+ "n": "SLAC: Research Associate, Experimental ML/AI (ATLAS)",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:31664",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/31664",
+ "us": false
+}

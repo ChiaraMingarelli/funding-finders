@@ -1,0 +1,32 @@
+{
+ "a": "not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Current-cycle JQI Experimental and Theoretical fellowships closed; recurring",
+ "e": "Named JQI postdoctoral fellowships in experimental and theoretical quantum science (AMO, quantum information, condensed matter). The separate Theoretical Quantum Optics Fellowship is already in the catalog.",
+ "f": "University of Maryland / NIST Joint Quantum Institute",
+ "fields": [
+  "qp",
+  "amo",
+  "cmx",
+  "cmt"
+ ],
+ "id": "umd-jqi-postdoc-fellowships",
+ "n": "JQI Experimental and Theoretical Postdoctoral Fellowships",
+ "nom": false,
+ "pt": "prize",
+ "s": "watch",
+ "src": "other:jqi-fellowships",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jqi.umd.edu/opportunities",
+ "unv": "Next deadline and award terms not posted.",
+ "us": false
+}

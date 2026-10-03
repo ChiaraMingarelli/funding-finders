@@ -1,0 +1,37 @@
+{
+ "a": "Up to $50,000/yr, renewable to 3 years ($150,000)",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Annual; FY2026 abbreviated applications were due Apr 9, 2026. Next NOFO expected early 2027.",
+ "e": "Small grants for research on fundamental measurement, tests of basic physical laws, and determination of fundamental constants. Universities and other non-federal organizations may apply.",
+ "f": "NIST Physical Measurement Laboratory",
+ "fields": [
+  "amo",
+  "qp",
+  "inst"
+ ],
+ "id": "nist-precision-measurement-grants",
+ "n": "NIST Precision Measurement Grant Program (PMGP)",
+ "nofo": [
+  {
+   "opp": "2026-NIST-PMGP-01",
+   "u": "https://simpler.grants.gov/opportunity/8fbd45aa-d53d-4b54-a62b-8309d15ebfd6"
+  }
+ ],
+ "nom": false,
+ "s": "watch",
+ "src": "grants:2026-NIST-PMGP-01",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nist.gov/document/how-apply-y2026-precision-measurement-grant",
+ "unv": "The FY2027 cycle is not yet posted; its timing is inferred from past years.",
+ "us": false
+}

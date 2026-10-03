@@ -1,0 +1,36 @@
+{
+ "a": "$73,300-$90,000; 2 years, possible 3rd",
+ "added": "2026-09-30",
+ "asub": [
+  "xgal",
+  "he",
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-11-01",
+ "dt": "2026/11/01 23:59:59 (time zone not stated on page)",
+ "e": "X-ray detector characterization/background reduction plus galaxy-cluster ICM science. PhD by Fall 2027; start as early as Spring 2027.",
+ "f": "MIT Kavli Institute, X-ray Detector Lab (Eric Miller, Catherine Grant)",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "mit-kavli-x-ray-detector-lab-postdoc",
+ "n": "MIT Kavli: X-Ray Detector Lab Postdoc",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32370",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32370",
+ "us": false
+}

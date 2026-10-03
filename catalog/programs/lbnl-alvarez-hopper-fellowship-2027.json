@@ -1,0 +1,29 @@
+{
+ "a": "$146,318–$150,718/yr; target start Oct 1, 2027",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": "2026-10-30",
+ "dt": "Apply by Oct 30, 2026",
+ "e": "Distinguished postdoctoral fellowships in computing sciences, including quantum computing/networking algorithms and software and computational science applications in materials, physics and biology. PhD in CS, math, computational science or related field by start; at most 3 years postdoc experience.",
+ "f": "Lawrence Berkeley National Laboratory, Computing Sciences Area",
+ "fields": [
+  "ds",
+  "qp",
+  "mat"
+ ],
+ "id": "lbnl-alvarez-hopper-fellowship-2027",
+ "n": "Berkeley Lab: Luis W. Alvarez and Grace M. Hopper Postdoctoral Fellowships (Computing Sciences)",
+ "nom": false,
+ "pt": "prize",
+ "s": "open",
+ "src": "other:lbnl-alvarez-hopper",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.lbl.gov/jobs/2027-luis-w-alvarez-and-grace-m-hopper-postdoctoral-fellowships-7596",
+ "us": false
+}

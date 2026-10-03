@@ -1,0 +1,27 @@
+{
+ "a": "Up to $800 per student per cycle",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Yale internal",
+ "checked": "2026-09-29",
+ "d": "2027-06-15",
+ "dt": "The 2026–27 cycle runs Sep 1 to Jun 15. Applications are reviewed monthly on or shortly after the 1st, via the Yale Student Grants Database.",
+ "e": "GSAS PhD students, with priority for years 3 to 5; years 1–2 and year 6 are eligible if funds allow. Students beyond year 6 are not eligible.",
+ "f": "Yale Graduate Student Assembly",
+ "fields": [
+  "all"
+ ],
+ "id": "gsa-conference-travel-fellowship-ctf",
+ "n": "GSA Conference Travel Fellowship (CTF)",
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://gsa.yale.edu/conference-travel-fellowship",
+ "us": false
+}

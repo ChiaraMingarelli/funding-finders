@@ -1,0 +1,35 @@
+{
+ "a": "$15,000 per 4–6 month unit (intern receives ≥$10,000); postdoc units $20,000 (≥$15,000 to postdoc)",
+ "added": "2026-10-01",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "Rolling; peer review ~6–8 weeks",
+ "e": "For students and postdocs (within 5 years of PhD) at Canadian universities, international students included. Requires a non-academic partner (company, nonprofit, hospital, municipality). Only fits PTA students working on data science or instrumentation with an industry partner.",
+ "f": "Mitacs",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "mitacs-accelerate",
+ "n": "Mitacs Accelerate",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "Canada",
+ "s": "rolling",
+ "src": "other:mitacs",
+ "stages": [
+  "gr",
+  "pd"
+ ],
+ "u": "https://www.mitacs.ca/our-programs/accelerate/",
+ "us": false
+}

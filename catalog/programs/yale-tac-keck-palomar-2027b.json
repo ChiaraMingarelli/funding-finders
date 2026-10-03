@@ -1,0 +1,38 @@
+{
+ "a": "Yale's own nights on Keck I, Keck II and the Palomar 200-inch, observed remotely from Yale",
+ "added": "2026-10-03",
+ "asub": [],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "2027B call not posted yet; 2027A closed Fri Sep 11, 2026, 5 pm ET",
+ "e": "Yale's internal allocation of its Keck and Palomar time, open only to the Yale community. Proposals use the TAC LaTeX template on the internal department site and are emailed as a PDF with the telescope cover sheet. For 27A, KPF was unavailable and DEIMOS was out Feb–Apr.",
+ "f": "Yale University Department of Astronomy",
+ "fields": [
+  "astro"
+ ],
+ "id": "yale-tac-keck-palomar-2027b",
+ "n": "Yale TAC Semester 2027B (Keck I/II, Palomar 200-inch)",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "watch",
+ "src": "other:yale-tac-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://astronomy.yale.edu/facilities/yale-time-allocation-committee",
+ "unv": "Which career stages can be PI is not stated on the page; 2027B date",
+ "us": false,
+ "yale": {
+  "d": null,
+  "t": "Yale TAC call goes out each semester (27A was due Sep 11, 2026, 5 pm ET)",
+  "u": "https://astronomy.yale.edu/facilities/yale-time-allocation-committee"
+ }
+}

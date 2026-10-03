@@ -1,0 +1,30 @@
+{
+ "a": "~$7,810 for 11 weeks; housing aid up to $4,500 and travel up to $500 if relocating",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-09-29",
+ "d": "2027-01-31",
+ "dt": "Vacancy announcement expected mid-Oct 2026; applications due end of January 2027.",
+ "e": "US citizens or permanent residents; full-time undergrads at US colleges (first-years and graduating seniors OK); at least 18; background check.",
+ "f": "NIST (Gaithersburg MD & Boulder CO)",
+ "fields": [
+  "amo",
+  "cmx",
+  "qp",
+  "inst"
+ ],
+ "id": "nist-summer-undergraduate-research-fellowship-surf-2027",
+ "n": "NIST Summer Undergraduate Research Fellowship (SURF) 2027",
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.nist.gov/surf",
+ "unv": "Exact January 2027 deadline date not yet posted ('end of January').",
+ "us": true
+}

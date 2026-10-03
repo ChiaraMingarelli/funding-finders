@@ -1,0 +1,33 @@
+{
+ "a": "One-time stipend for academic expenses (amount not stated)",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "2025–26 cycle closed. Next-cycle dates not announced.",
+ "e": "Citizens or permanent residents of the US, Japan, Australia, India or 10 Southeast Asian nations, pursuing US STEM graduate study.",
+ "f": "Quad Fellowship (Schmidt Futures / Quad governments)",
+ "fields": [
+  "amo",
+  "cmx",
+  "cmt",
+  "qp",
+  "bio",
+  "ds"
+ ],
+ "id": "quad-fellowship",
+ "n": "Quad Fellowship",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "gr",
+  "ug"
+ ],
+ "u": "https://www.quadfellowship.org/apply",
+ "unv": "Next deadline and amount not posted.",
+ "us": false
+}

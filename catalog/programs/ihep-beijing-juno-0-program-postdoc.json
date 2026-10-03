@@ -1,0 +1,24 @@
+{
+ "a": "competitive; 2 years, renewable",
+ "added": "2026-09-30",
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2027-01-31",
+ "dt": "Jan 31, 2027",
+ "e": "JUNO neutrinoless double-beta decay program. Requires a PhD in physics and Python/C++; ML and Geant4 preferred.",
+ "f": "Institute of High Energy Physics, Beijing; Wen Liangjian, Li Gaosong, Igor Ostrovskiy",
+ "fields": [
+  "nux",
+  "ppx"
+ ],
+ "id": "ihep-beijing-juno-0-program-postdoc",
+ "n": "IHEP Beijing: JUNO 0νββ program postdoc",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3201559",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3201559",
+ "us": false
+}

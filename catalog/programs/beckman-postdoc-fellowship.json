@@ -1,0 +1,30 @@
+{
+ "a": "$224,000 over 2 years; instrumentation track up to $200,000 extra; optional 3rd year $118,000",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "2027 cycle LOI closed Sep 4, 2026; next portal expected ~late May 2027",
+ "e": "Postdoctoral fellowship for fundamental chemistry including chemical physics and chemistry of materials, with an instrumentation-development track. US citizens, permanent residents or DACA recipients; at most 18 months of postdoc experience.",
+ "f": "Arnold and Mabel Beckman Foundation",
+ "fields": [
+  "mat",
+  "inst",
+  "phot",
+  "bio"
+ ],
+ "id": "beckman-postdoc-fellowship",
+ "n": "Arnold O. Beckman Postdoctoral Fellowship (Chemical Sciences / Chemical Instrumentation)",
+ "nom": false,
+ "pt": "prize",
+ "s": "watch",
+ "src": "other:beckman-postdoc",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.beckman-foundation.org/programs/beckman-postdoctoral-fellows/",
+ "us": true
+}

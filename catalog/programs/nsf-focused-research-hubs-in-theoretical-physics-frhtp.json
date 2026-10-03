@@ -1,0 +1,36 @@
+{
+ "a": "Hub-scale awards; size not stated on the page.",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Full proposal accepted anytime under NSF 26-523.",
+ "e": "Multi-investigator theory groups at US institutions.",
+ "f": "NSF MPS/PHY (NSF 26-523)",
+ "fields": [
+  "ppt",
+  "nut",
+  "astro"
+ ],
+ "id": "nsf-focused-research-hubs-in-theoretical-physics-frhtp",
+ "n": "NSF Focused Research Hubs in Theoretical Physics (FRHTP)",
+ "nofo": [
+  {
+   "opp": "26-523",
+   "u": "https://simpler.grants.gov/opportunity/d4e9f37d-0a43-40de-94bb-4d007267df73"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/frhtp-focused-research-hubs-theoretical-physics",
+ "unv": "Award size and number not confirmed",
+ "us": false
+}

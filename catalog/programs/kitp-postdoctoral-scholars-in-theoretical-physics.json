@@ -1,0 +1,41 @@
+{
+ "a": "4–5 scholars/yr; salary not listed",
+ "added": "2026-09-29",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-11-15",
+ "dt": "Due Nov 15, 2026 for primary consideration; start Sep 1, 2027 (AJO #32412).",
+ "e": "Theoretical physicists (condensed matter and quantum included).",
+ "f": "Kavli Institute for Theoretical Physics, UCSB",
+ "fields": [
+  "astro",
+  "amo",
+  "bio",
+  "cmt",
+  "ppt",
+  "grav",
+  "nut",
+  "qp"
+ ],
+ "id": "kitp-postdoctoral-scholars-in-theoretical-physics",
+ "n": "KITP Postdoctoral Scholars in Theoretical Physics",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.kitp.ucsb.edu/apply/fellowships/postdoctoral-scholars-theoretical-physics",
+ "us": false
+}

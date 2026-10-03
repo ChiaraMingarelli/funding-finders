@@ -1,0 +1,28 @@
+{
+ "a": "typically 2 years, renewable",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-11-15",
+ "dt": "2026/11/15 23:59:59 (time zone not stated on page)",
+ "e": "Quantum advantage and classical boundaries, quantum simulation of many-body/open systems, ML for quantum computing. PhD in physics/CS/applied math; start Sep 1, 2027.",
+ "f": "National University of Singapore, School of Computing & Department of Physics (Yuxuan Zhang)",
+ "fields": [
+  "qp",
+  "ds"
+ ],
+ "id": "nus-postdoctoral-research-fellow-in-quantum-and-ai",
+ "n": "NUS: Postdoctoral Research Fellow in Quantum and AI",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32512",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32512",
+ "us": false
+}

@@ -1,0 +1,32 @@
+{
+ "a": "$3,800/month stipend",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Training",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Rolling; student must first secure an ORNL mentor",
+ "e": "Extended thesis or dissertation research appointments at ORNL for graduate students, arranged with an ORNL mentor and the university adviser. No citizenship requirement.",
+ "f": "Oak Ridge National Laboratory / ORISE",
+ "fields": [
+  "all",
+  "mat",
+  "cmx",
+  "qp",
+  "energy"
+ ],
+ "id": "ornl-graduate-research-gro",
+ "n": "Graduate Research at ORNL (GRO)",
+ "nom": false,
+ "s": "rolling",
+ "src": "other:ornl-gro",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://www.ornl.gov/content/graduate-research-ornl",
+ "us": false
+}

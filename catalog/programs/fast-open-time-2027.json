@@ -1,0 +1,34 @@
+{
+ "a": "About 2400 hours on the 500-m FAST telescope (19-beam receiver) across Regular Science Programs (up to 50 h each) and Medium-Sized Programs (50-150 h). MSPs are open only to PIs at Chinese institutions.",
+ "added": "2026-10-03",
+ "asub": [],
+ "aud": [
+  "ast",
+  "ng"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "The 2026 call was posted 31 Dec 2025 with a deadline of 16:00 UT, 31 Mar 2026, extended to 16:00 UT, 7 Apr 2026, for observations Aug 2026 to Jul 2027. The next call is not posted.",
+ "e": "Yearly call for China's FAST radio telescope. Users of any nationality or affiliation may submit Regular Science Program proposals; Medium-Sized Program PIs must be at an institution in China.",
+ "f": "National Astronomical Observatories, Chinese Academy of Sciences (FAST)",
+ "fields": [
+  "astro"
+ ],
+ "id": "fast-open-time-2027",
+ "n": "FAST Science Observing Proposals Call (next yearly call)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "watch",
+ "src": "other:fast-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://fast.bao.ac.cn/cms/article/2006192136192610305/",
+ "unv": "Timing of the next call is not posted (the page renders with JavaScript and was read in a browser). Grad-student PI status was not checked. US federal funding rules on work with Chinese institutions were not checked.",
+ "us": false
+}

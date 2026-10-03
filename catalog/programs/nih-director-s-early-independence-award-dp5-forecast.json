@@ -1,0 +1,34 @@
+{
+ "a": "$350,000; total $5,700,000; ~10 awards",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Forecast posted 2026-09-03; est. post 2027-03-15; est. due 2027-09-10",
+ "e": "Outstanding early-career investigators moving to independent research right after doctoral training (institution nominates). Any NIH-relevant field, incl. biophysics.",
+ "f": "NIH OD",
+ "fields": [
+  "bio"
+ ],
+ "id": "nih-director-s-early-independence-award-dp5-forecast",
+ "n": "NIH Director's Early Independence Award (DP5) - forecast",
+ "nofo": [
+  {
+   "opp": "RFA-RM-28-004",
+   "u": "https://simpler.grants.gov/opportunity/838c6c1e-d795-4c0c-b1c7-855a05a6d532"
+  }
+ ],
+ "nom": true,
+ "pt": "other",
+ "s": "watch",
+ "stages": [
+  "pd",
+  "gr"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/838c6c1e-d795-4c0c-b1c7-855a05a6d532",
+ "us": false
+}

@@ -1,0 +1,31 @@
+{
+ "a": "$3,000, certificate, up to $1,000 travel and registration waiver",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Prize",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last deadline June 1, 2026; next cycle not posted",
+ "e": "Annual award for an outstanding doctoral thesis in experimental condensed matter or materials physics, submitted within roughly the two years before the award year. Candidates must be nominated.",
+ "f": "APS Division of Condensed Matter Physics / Division of Materials Physics",
+ "fields": [
+  "cmx",
+  "mat"
+ ],
+ "id": "aps-greene-dissertation-award",
+ "n": "APS Richard L. Greene Dissertation Award in Experimental Condensed Matter or Materials Physics",
+ "nom": true,
+ "pt": "prize",
+ "s": "watch",
+ "src": "other:aps-prizes",
+ "stages": [
+  "gr",
+  "pd"
+ ],
+ "u": "https://www.aps.org/funding-recognition/award/greene",
+ "unv": "The next nomination deadline is not posted.",
+ "us": false
+}

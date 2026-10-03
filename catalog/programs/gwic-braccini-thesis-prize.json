@@ -1,0 +1,35 @@
+{
+ "a": "$1,000",
+ "added": "2026-09-29",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Prize",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Nominations usually open ~Feb",
+ "e": "For GW theses accepted in 2026, nominated by the advisor.",
+ "f": "Gravitational Wave International Committee",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "gwic-braccini-thesis-prize",
+ "n": "GWIC–Braccini Thesis Prize",
+ "nfit": "High",
+ "nom": true,
+ "region": "International",
+ "s": "watch",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://gwic.science/thesis-prize.html",
+ "unv": "2027 date",
+ "us": false
+}

@@ -1,0 +1,40 @@
+{
+ "a": "$110k/yr ($75k stipend + $35k allowance), up to 3 yr",
+ "added": "2026-09-29",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-10-15",
+ "dt": "5 pm submitter's local time (window opened Aug 15)",
+ "e": "US citizens, nationals and permanent residents only. PhD within 5 years or by Oct 1, 2027. At most 2 attempts.",
+ "f": "NSF AST · NSF 22-621",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "nsf-astronomy-astrophysics-postdoctoral-fellowship-aapf",
+ "n": "NSF Astronomy & Astrophysics Postdoctoral Fellowship (AAPF)",
+ "nfit": "High",
+ "nofo": [
+  {
+   "opp": "22-621",
+   "u": "https://simpler.grants.gov/opportunity/70e5bb00-3652-4fab-89e6-652ec4aa4ca1"
+  }
+ ],
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/aapf-nsf-astronomy-astrophysics-postdoctoral-fellowships",
+ "us": true
+}

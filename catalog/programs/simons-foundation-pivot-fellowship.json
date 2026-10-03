@@ -1,0 +1,30 @@
+{
+ "a": "1 year of academic salary plus $10K for the fellow and $50K for the mentor. Fellows may then be eligible for a 5-year, $1.5M research award",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last deadline May 14, 2026; the next cycle is not posted yet (expected around spring 2027)",
+ "e": "Faculty (or equivalent) with a PhD in the natural sciences, math, engineering or CS who want to move into a new discipline, such as physicists moving into biology. Requires a full year of institutional leave.",
+ "f": "Simons Foundation",
+ "fields": [
+  "bio",
+  "ds",
+  "cmx",
+  "qp"
+ ],
+ "id": "simons-foundation-pivot-fellowship",
+ "n": "Simons Foundation Pivot Fellowship",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.simonsfoundation.org/grant/pivot-fellowship/",
+ "us": false
+}

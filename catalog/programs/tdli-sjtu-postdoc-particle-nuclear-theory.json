@@ -1,0 +1,35 @@
+{
+ "a": "competitive (US-comparable); 2+1 years, further 3 possible",
+ "added": "2026-09-30",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-20",
+ "dt": "2026/12/20 23:59:59 (time zone not stated on page)",
+ "e": "BSM, neutrino/flavor, astroparticle, early-universe QFT, dark matter, QCD/lattice, EFT and nuclear astrophysics. Start Fall 2027.",
+ "f": "Shanghai Jiao Tong University, Tsung-Dao Lee Institute, Particle and Nuclear Division (contact Yuichiro Nakai)",
+ "fields": [
+  "ppt",
+  "nut",
+  "astro"
+ ],
+ "id": "tdli-sjtu-postdoc-particle-nuclear-theory",
+ "n": "TDLI (SJTU): Postdoc - Particle & Nuclear Theory",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:32303",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32303",
+ "us": false
+}

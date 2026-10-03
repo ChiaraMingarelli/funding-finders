@@ -1,0 +1,29 @@
+{
+ "a": "not listed; up to 3 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-14",
+ "dt": "Oct 14, 2026 (INSPIRE deadline field; posting text says rolling)",
+ "e": "Quantum computing algorithms for particle physics. Requires a PhD in quantum information or particle physics; ML preferred.",
+ "f": "Harvard University; PI Carlos Argüelles",
+ "fields": [
+  "qp",
+  "ppx",
+  "ds"
+ ],
+ "id": "harvard-quantum-computing-for-particle-physics-postdoc",
+ "n": "Harvard: Quantum computing for particle physics postdoc",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3202618",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicpositions.harvard.edu/postings/16585",
+ "us": false
+}

@@ -1,0 +1,28 @@
+{
+ "a": "Assistant Professor, 5-yr tenure track",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-10-16",
+ "dt": "Closes Oct 16, 2026",
+ "e": "Observational exoplanet science.",
+ "f": "Anton Pannekoek Institute for Astronomy, University of Amsterdam",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-univ-of-amsterdam-api-tt-faculty-observational-exopla",
+ "n": "Univ. of Amsterdam (API): TT Faculty, Observational Exoplanet Science",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:d1a8b6ce",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://werkenbij.uva.nl/en/vacancies/tenure-track-faculty-position-in-observational-exoplanet-science-netherlands-15405",
+ "us": false
+}

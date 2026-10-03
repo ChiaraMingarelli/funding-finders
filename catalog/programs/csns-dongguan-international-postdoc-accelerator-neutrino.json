@@ -1,0 +1,27 @@
+{
+ "a": "competitive; not specified",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2027-01-07",
+ "dt": "Jan 7, 2027",
+ "e": "Accelerator-based neutrino beams. Requires a PhD in experimental or nuclear physics.",
+ "f": "China Spallation Neutron Source, Dongguan; contact Nikolaos Vassilopoulos",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "csns-dongguan-international-postdoc-accelerator-neutrino",
+ "n": "CSNS Dongguan: International postdoc (accelerator neutrino beams)",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3138797",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3138797",
+ "us": false
+}

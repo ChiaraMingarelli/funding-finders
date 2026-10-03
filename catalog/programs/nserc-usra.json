@@ -1,0 +1,31 @@
+{
+ "a": "$6,000 from NSERC plus host-institution top-up; 14–16 weeks full-time",
+ "added": "2026-10-01",
+ "aud": [
+  "ng",
+  "radar"
+ ],
+ "c": "Scholarship",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "Each university sets its own internal deadline (typically winter for summer 2027); check your USRA liaison",
+ "e": "Canadian citizens, permanent residents or protected persons only. Funds a summer research placement at a Canadian university, e.g. in a pulsar, CHIME or NANOGrav group.",
+ "f": "NSERC",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "nserc-usra",
+ "n": "NSERC USRA",
+ "nfit": "High",
+ "nom": false,
+ "region": "Canada",
+ "s": "watch",
+ "src": "other:nserc",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp",
+ "unv": "No 2026–27 cycle dates on the NSERC page; institutional deadlines vary",
+ "us": false
+}

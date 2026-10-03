@@ -1,0 +1,36 @@
+{
+ "a": "Up to $1M over up to 4 years; typical $150-250K/yr",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": "2027-02-04",
+ "dt": "Accepted anytime; target dates first Thursday of Feb and second Thursday of Sept",
+ "e": "CISE's consolidated core solicitation; the FET program funds computing based on emerging technologies (quantum computing and information, novel devices and physical substrates for computation), and SHF/CIF cover hardware and information theory. Open to US universities; no citizenship restriction.",
+ "f": "NSF CISE",
+ "fields": [
+  "qp",
+  "ds",
+  "dev",
+  "phot"
+ ],
+ "id": "nsf-cise-future-core-fet",
+ "n": "NSF CISE Future Computing Research (Future CoRe, NSF 25-543): Foundations of Emerging Technologies (FET) and related programs",
+ "nofo": [
+  {
+   "opp": "25-543",
+   "u": "https://simpler.grants.gov/opportunity/b543ecd2-b3cb-4280-b709-a4fb2ea82889"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "src": "grants:25-543",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf25-543/solicitation",
+ "us": false
+}

@@ -1,0 +1,35 @@
+{
+ "a": "full salary + research/travel/relocation; up to 5 years",
+ "added": "2026-09-30",
+ "asub": [
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-06",
+ "dt": "Nov 6, 2026",
+ "e": "Early-career SKA science, radio instrumentation and pathfinder work. Needs an endorsement and faculty sponsor from the host institution.",
+ "f": "NRC Herzberg Astronomy & Astrophysics Research Centre, SKA Office (hosted at Canadian institutions)",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "nrc-canada-canadian-ska-scientist-program",
+ "n": "NRC Canada: Canadian SKA Scientist program",
+ "nfit": "High",
+ "nom": false,
+ "region": "Canada",
+ "s": "open",
+ "src": "aas:f14e6ada",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://nrc.canada.ca/en/corporate/careers/canadian-ska-scientist-program-call-applications",
+ "us": false
+}

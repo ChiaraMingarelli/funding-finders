@@ -1,0 +1,32 @@
+{
+ "a": "Large and/or multi-semester programs (two to six semesters) on Gemini North and South. The US and Canada set aside up to 20% of their Gemini time at each telescope for these programs. Subaru Intensive Programs can also be requested through this process.",
+ "added": "2026-10-03",
+ "asub": [],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "In the 2026 cycle, letters of intent were due Feb 16, 2026 (5 pm HST) and proposals Mar 31, 2026 (11:59 pm HST). Gemini says the letter-of-intent call is issued in December, letters are typically due in early February, and proposals around April 1.",
+ "e": "An annual call for large or multi-semester Gemini programs. It requires a letter of intent, a management plan and a data-release plan. The PI must be based at an institution in a participating partner country (currently the US and Canada); co-Is are unrestricted.",
+ "f": "NSF NOIRLab / International Gemini Observatory",
+ "fields": [
+  "astro"
+ ],
+ "id": "gemini-large-long-programs-2027",
+ "n": "Gemini Observatory Large and Long Programs, 2027 cycle",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "watch",
+ "src": "other:gemini-llp-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://www.gemini.edu/observing/phase-i/llp",
+ "unv": "The 2027 LLP call has not been issued, so the 2027 dates are unconfirmed. The page does not say whether postdocs or graduate students may be PI. The row lists tt, ten and pd because the only PI rule given is about the institution.",
+ "us": false
+}

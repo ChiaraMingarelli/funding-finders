@@ -1,0 +1,35 @@
+{
+ "a": "R$12,570/month; 1 year, renewable",
+ "added": "2026-09-30",
+ "asub": [
+  "he",
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-03",
+ "d": "2026-12-31",
+ "dt": "Applications through Dec 31, 2026 (FAPESP listing); reviewed until filled.",
+ "e": "SWGO detector simulations for gamma-ray arrays. Requires a PhD in physics or astronomy with simulation and coding skills.",
+ "f": "Universidade de São Paulo, IAG; PI Elisabete de Gouveia Dal Pino",
+ "fields": [
+  "astro"
+ ],
+ "id": "iag-usp-s-o-paulo-high-energy-astrophysics-postdoc-swgo",
+ "n": "IAG-USP São Paulo: High-energy astrophysics postdoc (SWGO)",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3119881",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://fapesp.br/oportunidades/explorando-desenhos-de-detectores-cherenkov-em-%C3%81gua-%E2%80%93-de-dupla-camada-%E2%80%93-para-o-swgo:-aproximando-o-ao-ctao/9059/",
+ "us": false
+}

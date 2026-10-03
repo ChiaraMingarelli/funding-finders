@@ -1,0 +1,31 @@
+{
+ "a": "2 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-14",
+ "dt": "Dec 14, 2026 (no TZ stated); Oct 5, 2026 for fellowship consideration",
+ "e": "EFTs, heavy-ion/QGP, neutrino and nuclear astrophysics, nuclear structure, perturbative QCD, few/many-body and quantum computing. PhD no earlier than Dec 2021; start Fall 2027.",
+ "f": "Los Alamos National Laboratory, Theoretical Division T-2 (contacts Duff Neill, Ingo Tews)",
+ "fields": [
+  "nut",
+  "astro"
+ ],
+ "id": "los-alamos-postdocs-in-nuclear-theory-t-2",
+ "n": "Los Alamos: Postdocs in Nuclear Theory (T-2)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32729",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32729",
+ "us": false
+}

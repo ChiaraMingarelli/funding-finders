@@ -1,0 +1,29 @@
+{
+ "a": "not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "2027 call not posted",
+ "e": "Summer research at Harvard's MRSEC for undergraduates in physics, chemistry, biology, mathematics and engineering; first- and second-year students are encouraged. US citizens or permanent residents for NSF-funded projects.",
+ "f": "Harvard Materials Research Science and Engineering Center (NSF)",
+ "fields": [
+  "mat",
+  "cmx",
+  "bio"
+ ],
+ "id": "harvard-mrsec-reu",
+ "n": "Harvard MRSEC REU",
+ "nom": false,
+ "s": "watch",
+ "src": "other:harvard-mrsec-reu",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.mrsec.harvard.edu/education/reu.php",
+ "unv": "2027 dates, stipend and deadline not posted",
+ "us": true
+}

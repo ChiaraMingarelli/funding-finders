@@ -1,0 +1,25 @@
+{
+ "a": "Lodging and meals covered; participants pay their own travel.",
+ "added": "2026-09-28",
+ "c": "Summer program",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "NNPSS 2026 was held June 29 - July 11, 2026 at INT Seattle. The 2027 host and dates are not posted.",
+ "e": "Grad students and junior postdocs in experimental or theoretical nuclear physics.",
+ "f": "Institute for Nuclear Theory / NNPSS organizers",
+ "fields": [
+  "nux",
+  "nut"
+ ],
+ "id": "national-nuclear-physics-summer-school-nnpss",
+ "n": "National Nuclear Physics Summer School (NNPSS)",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "gr",
+  "pd"
+ ],
+ "u": "https://www.int.washington.edu/about/national-nuclear-physics-summer-school",
+ "unv": "2027 dates and deadline not posted",
+ "us": false
+}

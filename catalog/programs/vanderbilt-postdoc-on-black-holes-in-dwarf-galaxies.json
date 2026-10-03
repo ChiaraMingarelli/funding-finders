@@ -1,0 +1,35 @@
+{
+ "a": "not listed; 1 year, renewable up to 2 more",
+ "added": "2026-09-30",
+ "asub": [
+  "xgal",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-15",
+ "dt": "Dec 15, 2026, 11:59 pm US Central",
+ "e": "Detection and properties of black holes in dwarf galaxies from multiwavelength surveys. Requires a PhD by appointment.",
+ "f": "Vanderbilt University, Physics & Astronomy; PI Mallory Molina",
+ "fields": [
+  "astro"
+ ],
+ "id": "vanderbilt-postdoc-on-black-holes-in-dwarf-galaxies",
+ "n": "Vanderbilt: Postdoc on black holes in dwarf galaxies",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "aas:342eb81d",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/342eb81d",
+ "us": false
+}

@@ -1,0 +1,28 @@
+{
+ "a": "Assistant Professor (senior ranks possible)",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2027-04-30",
+ "dt": "No AJO deadline; INSPIRE lists Apr 30, 2027",
+ "e": "Observational cosmology.",
+ "f": "Dept. of Physics, Hong Kong University of Science and Technology",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-hkust-tt-faculty-observational-cosmology",
+ "n": "HKUST: TT Faculty, Observational Cosmology",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "rolling",
+ "src": "ajo:29810",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/29810",
+ "us": false
+}

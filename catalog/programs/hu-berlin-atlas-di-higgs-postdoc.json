@@ -1,0 +1,27 @@
+{
+ "a": "TV-L HU scale; start Feb 2027",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-26",
+ "dt": "Oct 26, 2026",
+ "e": "ATLAS HH→4b analysis, b-tagging and ML. Requires a PhD in experimental particle physics.",
+ "f": "Humboldt University Berlin; PI Cigdem Issever",
+ "fields": [
+  "ppx",
+  "ds"
+ ],
+ "id": "hu-berlin-atlas-di-higgs-postdoc",
+ "n": "HU Berlin: ATLAS di-Higgs postdoc",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3202922",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3202922",
+ "us": false
+}

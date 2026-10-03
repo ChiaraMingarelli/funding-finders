@@ -1,0 +1,397 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+</head>
+<body>
+<meta charset="utf-8">
+<title>Nanohertz Opportunities</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Saira:wght@300;400;500;600&family=Inter:wght@400;500;600&display=swap">
+<style>
+[hidden]{display:none!important}
+/* Layout: compact dark masthead with a pulse-train line, one sticky control bar, then deadline-month groups of opportunity cards (date block · details · award/fit). */
+:root{
+  --bg:#F4F6F6; --surface:#FFFFFF; --sunk:#EBEEEE; --ink:#050708; --ink-2:#3F4546; --ink-3:#6A7071; --line:#DDE2E2;
+  --accent:#D70252; --accent-soft:#FDE6EE; --cyan:#1AA9A5; --cyan-soft:#DDF5F4; --warn:#9A5B00; --warn-soft:#FBEFD9;
+  --mast:#050708; --mast-ink:#F4F6F6; --mast-dim:#9DA4A5; --pulse:#2CDCD7;
+  --display:"Saira","Arial Narrow",system-ui,sans-serif;
+  --body:"Inter",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --r:14px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --bg:#07090A; --surface:#111718; --sunk:#182022; --ink:#F1F4F4; --ink-2:#BAC1C2; --ink-3:#8B9495; --line:#243033;
+    --accent:#FF4F86; --accent-soft:#3A0F1E; --cyan:#2CDCD7; --cyan-soft:#0D2C2C; --warn:#F0B45A; --warn-soft:#33260F;
+    --mast:#000000; --mast-ink:#F4F6F6; --mast-dim:#8B9495; --pulse:#2CDCD7;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#07090A; --surface:#111718; --sunk:#182022; --ink:#F1F4F4; --ink-2:#BAC1C2; --ink-3:#8B9495; --line:#243033;
+  --accent:#FF4F86; --accent-soft:#3A0F1E; --cyan:#2CDCD7; --cyan-soft:#0D2C2C; --warn:#F0B45A; --warn-soft:#33260F;
+  --mast:#000000; --mast-ink:#F4F6F6; --mast-dim:#8B9495; --pulse:#2CDCD7;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:6px}
+.wrap{max-width:1080px;margin:0 auto;padding-inline:16px}
+
+/* masthead */
+.mast{background:var(--mast);color:var(--mast-ink);position:relative;overflow:hidden}
+.mast .wrap{padding-block:40px 64px;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:24px;align-items:end;position:relative;z-index:1}
+.kicker{font-size:12px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--pulse)}
+.mast h1{font-family:var(--display);font-weight:300;font-size:clamp(36px,6vw,60px);line-height:1;letter-spacing:-.01em;margin:10px 0 12px;text-wrap:balance}
+.mast p{margin:0;color:var(--mast-dim);max-width:60ch}
+.stats{display:flex;gap:28px}
+.stat b{display:block;font-family:var(--display);font-weight:400;font-size:34px;line-height:1;color:var(--mast-ink);font-variant-numeric:tabular-nums}
+.stat span{font-size:12px;color:var(--mast-dim);letter-spacing:.04em}
+.mast canvas{position:absolute;left:0;right:0;bottom:0;width:100%;height:56px;opacity:.7}
+@media (max-width:700px){.mast .wrap{grid-template-columns:1fr}.stats{gap:22px}}
+@media (max-width:700px){.bar{position:static}.seg{display:grid;grid-template-columns:1fr 1fr;border-radius:18px}.seg button{border-radius:14px}}
+
+/* sticky control bar */
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:10;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.bar .wrap{padding-block:12px;display:flex;flex-direction:column;gap:10px}
+.seg{display:flex;gap:4px;padding:4px;background:var(--sunk);border-radius:999px;overflow-x:auto;scrollbar-width:none}
+.seg button{flex:1 0 auto;font:inherit;font-size:14px;font-weight:500;border:0;background:transparent;color:var(--ink-2);padding:8px 14px;border-radius:999px;cursor:pointer;white-space:nowrap;display:flex;gap:8px;align-items:center;justify-content:center}
+.seg button .n{font-size:12px;color:var(--ink-3);font-variant-numeric:tabular-nums}
+.seg button[aria-selected="true"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px rgb(0 0 0/.08),0 0 0 1px var(--line)}
+.seg button[aria-selected="true"] .n{color:var(--accent)}
+.filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.toggle{display:inline-flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;background:var(--surface)}
+.toggle button{font:inherit;font-size:13px;border:0;background:transparent;color:var(--ink-2);padding:6px 12px;cursor:pointer}
+.toggle button+button{border-left:1px solid var(--line)}
+.toggle button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.search{flex:1 1 200px;min-width:0;display:flex;align-items:center;gap:8px;border:1px solid var(--line);border-radius:999px;background:var(--surface);padding:0 12px}
+.search input{flex:1;min-width:0;font:inherit;font-size:14px;border:0;background:transparent;color:var(--ink);padding:7px 0;outline:none}
+.search svg{flex:none;color:var(--ink-3)}
+
+/* tips + results */
+main .wrap{padding-block:24px 64px;display:flex;flex-direction:column;gap:24px}
+.tips{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}
+.tip{border-left:2px solid var(--accent);padding:2px 0 2px 14px;font-size:14px;color:var(--ink-2)}
+.tip b{display:block;color:var(--ink);font-weight:600;margin-bottom:2px}
+.summary{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:8px}
+.summary h2{font-family:var(--display);font-weight:400;font-size:26px;margin:0}
+.summary p{margin:0;color:var(--ink-3);font-size:14px}
+#list{display:flex;flex-direction:column;gap:28px}
+.group{display:flex;flex-direction:column;gap:10px}
+.ghead{font-size:12px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3);display:flex;align-items:center;gap:12px}
+.ghead::after{content:"";flex:1;height:1px;background:var(--line)}
+
+.card{display:grid;grid-template-columns:72px minmax(0,1fr) 168px;gap:18px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px 18px;transition:border-color .15s,box-shadow .15s}
+.card:hover{border-color:color-mix(in srgb,var(--accent) 40%,var(--line));box-shadow:0 6px 20px -12px rgb(0 0 0/.25)}
+.date{display:flex;flex-direction:column;align-items:center;justify-content:flex-start;text-align:center;padding-top:2px}
+.date .mo{font-size:11px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3)}
+.date .dy{font-family:var(--display);font-size:32px;font-weight:400;line-height:1.05;font-variant-numeric:tabular-nums}
+.date .left{margin-top:4px;font-size:11.5px;font-weight:600;padding:2px 8px;border-radius:999px;background:var(--sunk);color:var(--ink-2);white-space:nowrap}
+.date .left.hot{background:var(--accent-soft);color:var(--accent)}
+.date .tba{font-family:var(--display);font-size:15px;color:var(--ink-3);line-height:1.2;padding-top:6px}
+.body{min-width:0;display:flex;flex-direction:column;gap:6px}
+.title{font-family:var(--display);font-weight:500;font-size:19px;line-height:1.25;text-wrap:pretty}
+.title a{text-decoration:none;background-image:linear-gradient(var(--accent),var(--accent));background-size:0 1.5px;background-repeat:no-repeat;background-position:0 100%;transition:background-size .2s}
+.title a:hover{background-size:100% 1.5px;color:var(--accent)}
+.host{font-size:13.5px;color:var(--ink-3)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font-size:12px;font-weight:500;padding:2px 9px;border-radius:999px;background:var(--sunk);color:var(--ink-2)}
+.chip.prize{background:var(--cyan-soft);color:var(--cyan)}
+.chip.flag{background:var(--warn-soft);color:var(--warn)}
+.chip.new{background:#1F7A4D;color:#fff;font-weight:600}
+.desc{font-size:14px;color:var(--ink-2)}
+.desc .dt{color:var(--ink-3)}
+.unv{color:var(--warn);font-size:12.5px}
+.side{display:flex;flex-direction:column;gap:8px;align-items:flex-start;font-size:13.5px;color:var(--ink-2)}
+.side .amt{color:var(--ink);font-weight:500;line-height:1.35}
+.fit{display:flex;align-items:center;gap:6px;font-size:12px;color:var(--ink-3)}
+.dots{display:flex;gap:3px}
+.dots i{width:7px;height:7px;border-radius:50%;background:var(--line)}
+.dots i.on{background:var(--accent)}
+.status{font-size:12px;font-weight:600;color:var(--cyan)}
+.status.watch{color:var(--ink-3)}
+@media (max-width:760px){
+  .card{grid-template-columns:56px minmax(0,1fr);gap:14px;padding:14px}
+  .side{grid-column:2;flex-direction:row;flex-wrap:wrap;align-items:center;gap:6px 14px}
+  .date .dy{font-size:26px}
+}
+.more{align-self:center;font:inherit;font-size:14px;font-weight:600;padding:10px 20px;border-radius:999px;border:1px solid var(--accent);background:var(--accent);color:#fff;cursor:pointer}
+.empty{padding:40px 16px;text-align:center;color:var(--ink-3);border:1px dashed var(--line);border-radius:var(--r)}
+footer{font-size:13px;color:var(--ink-3);max-width:80ch;border-top:1px solid var(--line);padding-top:20px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+
+.pickng{display:inline-flex;align-items:center;gap:6px;font-size:12.5px;color:var(--ink-2);cursor:pointer}
+.pickng input{width:16px;height:16px;accent-color:var(--accent);cursor:pointer;margin:0}
+.expbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:center}
+.expbar button{font:inherit;font-size:14px;font-weight:600;padding:8px 16px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
+.expbar button.pri{background:var(--accent);border-color:var(--accent);color:#fff}
+.expbar button:disabled{opacity:.45;cursor:default}
+.expmsg{font-size:13.5px;color:var(--ink-3);text-align:center;max-width:70ch;margin:0 auto}
+.cal{font-size:12px;color:var(--ink-3);white-space:nowrap}.cal a{font-weight:500}
+</style>
+
+<header class="mast">
+  <canvas id="pulse" aria-hidden="true"></canvas>
+  <div class="wrap">
+    <div>
+      <div class="kicker" id="kicker">For NANOGrav students &amp; postdocs</div>
+      <h1>Nanohertz Opportunities</h1>
+      <p>Fellowships, summer programs, postdoc openings and faculty job ads for early-career researchers in pulsar timing, gravitational waves and astrophysics.</p>
+    </div>
+    <div class="stats" id="stats"></div>
+  </div>
+</header>
+
+<div class="bar">
+  <div class="wrap">
+    <div class="seg" role="tablist" aria-label="Career stage" id="stages"></div>
+    <div class="filters">
+      <div class="toggle" id="fRegion" aria-label="Region"></div>
+      <div class="toggle" id="fDue" aria-label="Deadline window"></div>
+      <div class="toggle" id="fFit" aria-label="Fit"></div>
+      <div class="toggle" id="fType" aria-label="Postdoc type"></div>
+      <label class="search"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" placeholder="Search: pulsar, NRAO, Hubble, new…" aria-label="Search opportunities"></label>
+    </div>
+  </div>
+</div>
+
+<main>
+  <div class="wrap">
+    <div class="tips" id="tips"></div>
+    <div class="summary"><h2 id="title">Postdoc</h2><p id="sub"></p></div>
+    <div id="list"></div>
+    <button class="more" id="viewAll" hidden></button>
+    <div class="expbar"><span class="expmsg" id="pickCount"></span><button type="button" id="pickAllBtn">Tick all shown</button><button type="button" id="pickClearBtn">Clear ticks</button><button type="button" class="pri" id="icsBtn">Add ticked to my calendar</button><button type="button" id="csvBtn">Download ticked as CSV</button></div>
+    <p class="expmsg" id="csvMsg" aria-live="polite"></p>
+    <footer>Maintained by Chiara Mingarelli, Department of Physics, Yale University, for NANOGrav students and postdocs. This is not an official NANOGrav page. Made with Claude Opus 5.5 by Anthropic. Entries come from funder pages, Academic Jobs Online, the AAS Job Register, INSPIRE and grants.gov, and are rechecked every Monday, with new postings added Tuesday to Sunday. Always confirm details on the official page before applying. Fit dots are a rough guide to how closely an opportunity matches pulsar-timing and gravitational-wave work.</footer>
+  </div>
+</main>
+
+<!-- SNAPSHOT:START -->
+<script id="snapshot" type="application/json">{{snapshot}}</script>
+<!-- SNAPSHOT:END -->
+<script>
+/* ---------- tick-box export: calendar (.ics in a .zip) and CSV ---------- */
+const EXP={key:"",picked:new Set(),all:()=>[],prefix:"funding"};
+function expInit(key,all,prefix){EXP.key=key;EXP.all=all;EXP.prefix=prefix;try{EXP.picked=new Set(JSON.parse(localStorage.getItem(key)||"[]"));}catch(e){}}
+const expSave=()=>{try{localStorage.setItem(EXP.key,JSON.stringify([...EXP.picked]));}catch(e){}};
+const expYmd=d=>`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
+const expShift=(iso,n)=>{const d=new Date(iso+"T00:00:00");d.setDate(d.getDate()+n);return expYmd(d);};
+const expToday=expYmd(new Date());
+const expIso=s=>typeof s==="string"&&/^\d{4}-\d{2}-\d{2}$/.test(s);
+function expDates(x){const o=[];if(expIso(x.d)&&x.d>=expToday)o.push([x.d,"Deadline"]);if(x.yale&&expIso(x.yale.d)&&x.yale.d>=expToday)o.push([x.yale.d,"Yale internal deadline"]);return o;}
+const expPicked=()=>EXP.all().filter(x=>EXP.picked.has(x.id));
+function expToggle(id,on){on?EXP.picked.add(id):EXP.picked.delete(id);expSave();}
+const expUrl=u=>(typeof u==="string"&&/^https:\/\//i.test(u))?u:"";
+/* ---------- one-click calendar links (work for every viewer; no download needed) ---------- */
+function expCalLinks(x){
+  const ds=expDates(x);if(!ds.length)return "";
+  const e=encodeURIComponent,h=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  return ds.map(([d,lab])=>{
+    const yale=lab!=="Deadline",t=(yale?"Yale internal deadline: ":"Deadline: ")+x.n,end=expShift(d,1);
+    const note=String(yale&&x.yale?x.yale.t||"":x.dt||"").slice(0,300);
+    const body=[x.f,note,expUrl(x.u),"Tip: set reminders 6 and 4 weeks before."].filter(Boolean).join("\n");
+    const g=`https://calendar.google.com/calendar/render?action=TEMPLATE&text=${e(t)}&dates=${d.replace(/-/g,"")}/${end.replace(/-/g,"")}&details=${e(body)}`;
+    const o=`https://outlook.office.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&allday=true&subject=${e(t)}&startdt=${d}&enddt=${end}&body=${e(body)}`;
+    const lbl=ds.length>1?(yale?"Yale step to ":"Deadline to "):"Add to ";
+    return `<span class="cal">${lbl}<a href="${h(g)}" target="_blank" rel="noopener">Google Calendar</a> · <a href="${h(o)}" target="_blank" rel="noopener">Outlook</a></span>`;
+  }).join(" ")+` <span class="cal">· <a href="#" data-ics="${h(x.id)}" title="Downloads a calendar file with reminders 6 and 4 weeks before">Apple Calendar${ds.length>1?" (both dates)":""}</a></span>`;
+}
+/* Apple Calendar: a one-program .ics file (keeps the 6- and 4-week reminders) */
+function expToast(msg){let t=document.getElementById("expToast");if(!t){t=document.createElement("div");t.id="expToast";t.setAttribute("role","status");t.style.cssText="position:fixed;left:50%;bottom:20px;transform:translateX(-50%);max-width:min(560px,calc(100vw - 32px));background:#222;color:#fff;font-size:14px;line-height:1.45;padding:12px 16px;z-index:1000;box-shadow:0 4px 16px rgba(0,0,0,.25)";document.body.appendChild(t);}t.textContent=msg;t.hidden=false;clearTimeout(t._h);t._h=setTimeout(()=>{t.hidden=true;},9000);}
+async function expSaveOne(id){
+  const x=EXP.all().find(r=>r.id===id);if(!x)return;
+  const {text,n}=expIcs([x]);if(!n){expToast("This program has no upcoming date yet.");return;}
+  const base=String(x.id||"deadline").replace(/[^a-z0-9-]+/gi,"-").slice(0,60),name=base+".ics";
+  const ok="Open the .ics file to add it to Apple Calendar, with reminders 6 and 4 weeks before.";
+  if(!window.claude){expDirect(name,text,"text/calendar;charset=utf-8");expToast("Downloaded. "+ok);return;}
+  const dl=await EXP_DL;
+  const blocked="Downloads from this page are only available to members of the page owner's Claude organization. Use the Google Calendar or Outlook link instead.";
+  if(!dl){expToast(blocked);return;}
+  try{await dl.save({filename:base+".zip",data:expZip(name,text)});expToast("Saved as a .zip. Unzip it, then "+ok.charAt(0).toLowerCase()+ok.slice(1));}
+  catch(e){if(e&&e.code==="declined")return;expToast(e&&e.code==="rate_limited"?"A save prompt is already open.":blocked);}
+}
+document.addEventListener("click",e=>{const a=e.target.closest&&e.target.closest("[data-ics]");if(a){e.preventDefault();expSaveOne(a.dataset.ics);}});
+function expIcs(rows){
+  const e=s=>String(s??"").replace(/\\/g,"\\\\").replace(/;/g,"\\;").replace(/,/g,"\\,").replace(/\r?\n/g,"\\n");
+  const fold=l=>{const o=[];while(l.length>60){o.push(l.slice(0,60));l=" "+l.slice(60);}o.push(l);return o.join("\r\n");};
+  const stamp=new Date().toISOString().replace(/[-:]/g,"").replace(/\.\d+Z$/,"Z");
+  const L=["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Funding Finder//EN","CALSCALE:GREGORIAN","METHOD:PUBLISH"];let n=0;
+  rows.forEach(x=>expDates(x).forEach(([d,label],k)=>{n++;
+    L.push("BEGIN:VEVENT",`UID:${x.id}-${d}-${k}@funding-finder`,`DTSTAMP:${stamp}`,`DTSTART;VALUE=DATE:${d.replace(/-/g,"")}`,`DTEND;VALUE=DATE:${expShift(d,1).replace(/-/g,"")}`,
+      `SUMMARY:${e(label+": "+x.n)}`,`DESCRIPTION:${e([x.f,x.dt,x.a,expUrl(x.u)].filter(Boolean).join("\n"))}`,"TRANSP:TRANSPARENT");
+    if(expUrl(x.u))L.push(`URL:${expUrl(x.u)}`);
+    [6,4].forEach(w=>L.push("BEGIN:VALARM","ACTION:DISPLAY",`DESCRIPTION:${e(w+" weeks until: "+x.n)}`,`TRIGGER:-P${w}W`,"END:VALARM"));
+    L.push("END:VEVENT");}));
+  L.push("END:VCALENDAR");return {text:L.map(fold).join("\r\n")+"\r\n",n};
+}
+function expCsv(rows){
+  const c=v=>`"${String(v??"").replace(/"/g,'""')}"`;
+  const L=[["Program","Funder","Deadline","Yale internal deadline","Reminder (6 weeks before)","Reminder (4 weeks before)","Status","Award","Deadline note","Link"].map(c).join(",")];
+  rows.forEach(x=>{const f=expDates(x).map(d=>d[0]).sort()[0]||"";
+    L.push([x.n,x.f,expIso(x.d)?x.d:"",x.yale&&expIso(x.yale.d)?x.yale.d:"",f?expShift(f,-42):"",f?expShift(f,-28):"",x.s,x.a,x.dt,expUrl(x.u)].map(c).join(","));});
+  return L.join("\r\n")+"\r\n";
+}
+function expCrc(u){let crc=0xFFFFFFFF;for(let i=0;i<u.length;i++){let c=(crc^u[i])&0xFF;for(let k=0;k<8;k++)c=c&1?(c>>>1)^0xEDB88320:c>>>1;crc=(crc>>>8)^c;}return (crc^0xFFFFFFFF)>>>0;}
+function expZip(name,text){
+  const en=new TextEncoder(),data=en.encode(text),fn=en.encode(name),crc=expCrc(data);
+  const lh=new Uint8Array(30+fn.length),a=new DataView(lh.buffer);
+  [[0,0x04034b50,4],[4,20,2],[6,0x0800,2],[8,0,2],[10,0,2],[12,0x21,2],[14,crc,4],[18,data.length,4],[22,data.length,4],[26,fn.length,2],[28,0,2]].forEach(([o,v,s])=>s===4?a.setUint32(o,v,true):a.setUint16(o,v,true));lh.set(fn,30);
+  const ch=new Uint8Array(46+fn.length),b=new DataView(ch.buffer);
+  [[0,0x02014b50,4],[4,20,2],[6,20,2],[8,0x0800,2],[10,0,2],[12,0,2],[14,0x21,2],[16,crc,4],[20,data.length,4],[24,data.length,4],[28,fn.length,2],[30,0,2],[32,0,2],[34,0,2],[36,0,2],[38,0,4],[42,0,4]].forEach(([o,v,s])=>s===4?b.setUint32(o,v,true):b.setUint16(o,v,true));ch.set(fn,46);
+  const end=new Uint8Array(22),z=new DataView(end.buffer);z.setUint32(0,0x06054b50,true);z.setUint16(8,1,true);z.setUint16(10,1,true);z.setUint32(12,ch.length,true);z.setUint32(16,lh.length+data.length,true);
+  return new Blob([lh,data,ch,end],{type:"application/zip"});
+}
+const EXP_DL=(window.claude&&typeof window.claude.use==="function")?Promise.resolve(window.claude.use("downloads")).catch(()=>null):Promise.resolve(null);
+function expDirect(name,data,type){const u=URL.createObjectURL(new Blob([data],{type}));const a=document.createElement("a");a.href=u;a.download=name;a.rel="noopener";document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),10000);}
+function expFallback(kind,rows,msg){
+  if(!window.claude){ /* self-hosted copy (e.g. GitHub Pages): ordinary browser download */
+    if(kind==="csv"){expDirect(`${EXP.prefix}-ticked.csv`,"\ufeff"+expCsv(rows),"text/csv;charset=utf-8");msg.textContent=`Downloaded ${rows.length} program${rows.length===1?"":"s"} as a CSV.`;return;}
+    const {text,n}=expIcs(rows);if(!n){msg.textContent="None of the ticked programs has an upcoming date yet.";return;}
+    expDirect(`${EXP.prefix}-deadlines.ics`,text,"text/calendar;charset=utf-8");msg.textContent=`Downloaded ${n} deadline${n===1?"":"s"} with reminders 6 and 4 weeks before. Open the .ics file to add them to your calendar.`;return;}
+  msg.textContent="Downloads from this page are only available to members of the page owner's Claude organization. Use the Google Calendar or Outlook link on each program instead; those work for everyone.";}
+async function expSaveFile(kind,msg){
+  const rows=expPicked();if(!rows.length){msg.textContent="Tick at least one program first.";return;}
+  const dl=await EXP_DL;if(!dl){expFallback(kind,rows,msg);return;}
+  try{
+    if(kind==="csv"){await dl.save({filename:`${EXP.prefix}-ticked.csv`,data:expCsv(rows)});msg.textContent=`Saved ${rows.length} program${rows.length===1?"":"s"} as a CSV, with the 6- and 4-week reminder dates in their own columns.`;return;}
+    const {text,n}=expIcs(rows);
+    if(!n){msg.textContent="None of the ticked programs has an upcoming date yet, so there's nothing to put on a calendar. The CSV still lists them.";return;}
+    await dl.save({filename:`${EXP.prefix}-deadlines.zip`,data:expZip(`${EXP.prefix}-deadlines.ics`,text)});
+    const skip=rows.filter(x=>!expDates(x).length).length;
+    msg.textContent=`Saved ${n} deadline${n===1?"":"s"} with reminders 6 and 4 weeks before. Unzip it and open the .ics file to add them to your calendar. Apple Calendar and Outlook keep both reminders; Google Calendar uses your default reminders instead.${skip?` ${skip} ticked program${skip===1?" has":"s have"} no date yet and ${skip===1?"was":"were"} left out.`:""}`;
+  }catch(e){const c=e&&e.code;if(c==="declined"){msg.textContent="";return;}if(c==="rate_limited"){msg.textContent="A save prompt is already open. Finish it, then try again.";return;}expFallback(kind,rows,msg);}
+}
+
+const STAGES=[{k:"ug",n:"Undergraduate"},{k:"gr",n:"Graduate"},{k:"pd",n:"Postdoc"},{k:"fj",n:"Faculty jobs"}];
+const TIPS={
+ ug:[["Summer research","REU and summer-student programs mostly close between December and February. Apply to several, and ask your NANOGrav advisor which groups are taking students."],
+     ["Citizenship","Many US federal programs require US citizenship or permanent residency. Canadian students should look at NSERC USRA through their own university."],
+     ["Heading to grad school?","Graduate fellowships for seniors and funded PhD programs abroad are listed here too."]],
+ gr:[["Early fellowships","NSF GRFP is for US citizens and permanent residents in their first or second year. Canadians should check CGRS and provincial scholarships."],
+     ["Observing support","Students on successful NRAO or Green Bank proposals can request NRAO Student Observing Support."],
+     ["Travel","AAS and APS gravitational-physics travel grants, the IPTA Student Week and summer schools are good places to present PTA work."]],
+ pd:[["Two kinds of postdoc","Prize fellowships let you propose your own research and have fixed fall deadlines. Group postdocs hire you into a PI's project and post all year."],
+     ["Letters take time","Most prize-fellowship deadlines fall between October and mid-November. Give letter writers several weeks' notice."],
+     ["US-only fellowships","Some, such as NSF AAPF, require US citizenship or permanent residency. Each card says so when that applies."]],
+ fj:[["Season","Faculty searches mostly post from September to November, with review dates from October to January."],
+     ["Reading fit","Three dots means the ad names gravitational waves, pulsars, radio, time-domain or compact objects. Open-subfield physics searches often welcome astrophysicists too."],
+     ["Scope","Tenure-track assistant or open-rank positions only. Postdoc and research-staff posts are under Postdoc."]]
+};
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safeUrl=u=>(typeof u==="string"&&/^https:\/\//i.test(u))?u:"";
+const isoOk=s=>typeof s==="string"&&/^\d{4}-\d{2}-\d{2}$/.test(s);
+const TODAY=new Date();TODAY.setHours(0,0,0,0);
+const dt=iso=>new Date(iso+"T00:00:00");
+const days=iso=>Math.round((dt(iso)-TODAY)/86400000);
+const fmt=iso=>dt(iso).toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"});
+const future=x=>isoOk(x.d)&&days(x.d)>=0;
+const closed=x=>x.s==="closed"||(x.s==="open"&&isoOk(x.d)&&days(x.d)<0);
+const isNew=x=>isoOk(x.added)&&days(x.added)>=-7&&days(x.added)<=0;
+const ptOf=x=>["prize","group","other"].includes(x.pt)?x.pt:x.c==="Group postdoc"?"group":x.c==="Fellowship"?"prize":"other";
+
+let SNAP={programs:[],updated:""};
+try{SNAP=JSON.parse($("snapshot").textContent);}catch(e){}
+const DATA=Array.isArray(SNAP.programs)?SNAP.programs:[];
+expInit("nh-picked",()=>DATA,"nanohertz-opportunities");
+let EXP_SHOWN=[];
+function expBar(r){EXP_SHOWN=r;const n=expPicked().length;$("icsBtn").disabled=!n;$("csvBtn").disabled=!n;$("pickCount").textContent=n?`${n} ticked for export`:"Tick the opportunities you're interested in to export them.";}
+let stage="pd",intl=false,due="42",fit="all",pt="all",q="";
+try{const h=location.hash.slice(1);if(STAGES.some(s=>s.k===h))stage=h;else{const s=localStorage.getItem("nh-stage");if(STAGES.some(t=>t.k===s))stage=s;}intl=localStorage.getItem("nh-intl")==="1";}catch(e){}
+const save=()=>{try{localStorage.setItem("nh-stage",stage);localStorage.setItem("nh-intl",intl?"1":"0");}catch(e){}};
+
+const base=(s=stage,anyRegion=false)=>DATA.filter(x=>x.stages&&x.stages.includes(s)&&(anyRegion||intl||x.region!=="International")&&!closed(x));
+function filtered(d=due){
+  return base(stage,!!q).filter(x=>(fit==="all"||x.nfit==="High")&&(stage!=="pd"||pt==="all"||ptOf(x)===pt)
+    &&(d==="new"?isNew(x):(q||d==="all"||(future(x)&&days(x.d)<=+d)))
+    &&(!q||(q==="new"?isNew(x):[x.n,x.f,x.e,x.a,x.dt,x.c].join(" ").toLowerCase().includes(q))))
+   .sort((a,b)=>{const ka=future(a)?a.d:"9999",kb=future(b)?b.d:"9999";return ka===kb?a.n.localeCompare(b.n):ka<kb?-1:1;});
+}
+function toggle(id,opts,cur,set){
+  const el=$(id);el.hidden=!opts;if(!opts)return;
+  el.innerHTML=opts.map(([k,l])=>`<button type="button" data-k="${k}" aria-pressed="${k===cur}">${l}</button>`).join("");
+  el.querySelectorAll("button").forEach(b=>b.onclick=()=>{set(b.dataset.k);render();});
+}
+function card(x){
+  let date;
+  if(future(x)){const d=dt(x.d),k=days(x.d);
+    date=`<div class="mo">${d.toLocaleDateString("en-US",{month:"short"})}</div><div class="dy">${d.getDate()}</div><div class="left${k<=14?" hot":""}">${k===0?"today":k===1?"1 day":k+" days"}</div>`;}
+  else date=`<div class="tba">${x.s==="rolling"?"Rolling":"Date TBA"}</div>`;
+  const chips=[];
+  if(isNew(x)) chips.push(`<span class="chip new" title="Added ${esc(fmt(x.added))}">New</span>`);
+  if(stage==="pd"){const p=ptOf(x);chips.push(p==="prize"?`<span class="chip prize">Prize fellowship</span>`:p==="group"?`<span class="chip">Group postdoc</span>`:`<span class="chip">${esc(x.c||"Other")}</span>`);}
+  else if(x.c&&x.c!=="Faculty job") chips.push(`<span class="chip">${esc(x.c)}</span>`);
+  if(x.region==="Canada") chips.push(`<span class="chip">Canada</span>`);
+  if(x.region==="International") chips.push(`<span class="chip">International</span>`);
+  if(x.us) chips.push(`<span class="chip flag">US citizens / PR only</span>`);
+  if(x.nom) chips.push(`<span class="chip flag">Nomination needed</span>`);
+  const n=x.nfit==="High"?3:x.nfit==="Medium"?2:1;
+  const name=safeUrl(x.u)?`<a href="${esc(safeUrl(x.u))}" target="_blank" rel="noopener">${esc(x.n)}</a>`:esc(x.n);
+  return `<article class="card">
+    <div class="date">${date}</div>
+    <div class="body"><div class="title">${name}</div><div class="host">${esc(x.f)}</div>
+      ${chips.length?`<div class="chips">${chips.join("")}</div>`:""}
+      <div class="desc">${esc(x.e)}${x.dt?` <span class="dt">${esc(x.dt)}</span>`:""}${x.unv?` <span class="unv">Unverified: ${esc(x.unv)}</span>`:""}</div>${expCalLinks(x)?`<div style="margin-top:6px">${expCalLinks(x)}</div>`:""}</div>
+    <div class="side">${x.a?`<div class="amt">${esc(x.a)}</div>`:""}
+      <div class="fit" title="Fit with pulsar-timing / GW work: ${esc(x.nfit||"Low")}"><span class="dots">${[1,2,3].map(i=>`<i class="${i<=n?"on":""}"></i>`).join("")}</span>${esc(x.nfit||"Low")} fit</div>
+      <label class="pickng"><input type="checkbox" data-pick="${esc(x.id)}" ${EXP.picked.has(x.id)?"checked":""} aria-label="Tick ${esc(x.n)} for export">Export</label>
+      <div class="status ${x.s==="watch"?"watch":""}">${x.s==="rolling"?"Rolling":x.s==="watch"?"Watch":"Open"}</div></div>
+  </article>`;
+}
+function render(){
+  {const la=DATA.reduce((m,x)=>isoOk(x.added)&&x.added>m?x.added:m,"");$("kicker").textContent=`For NANOGrav students & postdocs`+(la?` · new postings added ${fmt(la)}`:"")+` · rechecked weekly`;}
+  const all=STAGES.reduce((a,s)=>a+base(s.k).length,0), soon=STAGES.reduce((a,s)=>a+base(s.k).filter(x=>future(x)&&days(x.d)<=14).length,0);
+  $("stats").innerHTML=`<div class="stat"><b>${all}</b><span>open now</span></div><div class="stat"><b>${soon}</b><span>due in 2 weeks</span></div>`;
+  $("stages").innerHTML=STAGES.map(s=>`<button role="tab" data-k="${s.k}" aria-selected="${s.k===stage}">${s.n}<span class="n">${base(s.k).length}</span></button>`).join("");
+  $("stages").querySelectorAll("button").forEach(b=>b.onclick=()=>{stage=b.dataset.k;pt="all";save();render();});
+  toggle("fRegion",[["0","US & Canada"],["1","+ International"]],intl?"1":"0",k=>{intl=k==="1";save();});
+  toggle("fDue",[["42","Next 6 weeks"],["all","All dates"],["new","New this week"]],due,k=>due=k);
+  toggle("fFit",[["all","Any fit"],["high","High fit"]],fit,k=>fit=k);
+  toggle("fType",stage==="pd"?[["all","All types"],["prize","Prize"],["group","Group"],["other","Other"]]:null,pt,k=>pt=k);
+  $("tips").innerHTML=TIPS[stage].map(([b,t])=>`<div class="tip"><b>${b}</b>${t}</div>`).join("");
+  let r=filtered(),autoAll=false;
+  if(!q&&due==="42"&&!r.length){const ra=filtered("all");if(ra.length){r=ra;autoAll=true;}}
+  const more=(q||due!=="42"||autoAll)?0:filtered("all").length-r.length;
+  if(autoAll) $("fDue").querySelectorAll("button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.k==="all")));
+  $("title").textContent=STAGES.find(s=>s.k===stage).n;
+  $("sub").textContent=(due==="new"||q==="new")?`${r.length} added in the last 7 days`:autoAll?`Nothing due in the next 6 weeks here, so showing all ${r.length}, soonest deadline first`:q?`${r.length} match${r.length===1?"":"es"} across all dates and regions`:due==="all"?`${r.length} opportunities, soonest deadline first`:`${r.length} due in the next 6 weeks${more?` · ${more} more later or rolling`:""}`;
+  const groups=new Map();
+  r.forEach(x=>{const g=future(x)?dt(x.d).toLocaleDateString("en-US",{month:"long",year:"numeric"}):"Rolling or date not yet posted";if(!groups.has(g))groups.set(g,[]);groups.get(g).push(x);});
+  $("list").innerHTML=r.length?[...groups].map(([g,xs])=>`<section class="group"><div class="ghead">${esc(g)} · ${xs.length}</div>${xs.map(card).join("")}</section>`).join(""):
+    `<div class="empty">${q?"No matches on this tab. Try another tab or a different word.":due==="new"?"Nothing new on this tab in the last 7 days.":due==="all"?"Nothing matches these filters.":"Nothing due in the next 6 weeks for this selection."}</div>`;
+  
+  $("list").querySelectorAll("[data-pick]").forEach(cb=>cb.onchange=()=>{expToggle(cb.dataset.pick,cb.checked);expBar(EXP_SHOWN);});
+  expBar(r);
+  const vb=$("viewAll");vb.hidden=!more;vb.textContent=`Show all ${r.length+more}`;vb.onclick=()=>{due="all";render();};
+}
+$("q").addEventListener("input",e=>{q=e.target.value.trim().toLowerCase();render();});
+$("icsBtn").onclick=()=>expSaveFile("ics",$("csvMsg"));
+$("csvBtn").onclick=()=>expSaveFile("csv",$("csvMsg"));
+$("pickAllBtn").onclick=()=>{EXP_SHOWN.forEach(x=>EXP.picked.add(x.id));expSave();render();};
+$("pickClearBtn").onclick=()=>{EXP.picked.clear();expSave();render();$("csvMsg").textContent="";};
+render();
+
+/* pulse train: one bright pulse, one dimmer pulsar, slowly drifting */
+(function(){
+  const c=$("pulse"),ctx=c.getContext("2d");if(!ctx)return;
+  const reduce=matchMedia("(prefers-reduced-motion: reduce)").matches;
+  let w,h,dpr,t=0;
+  function size(){dpr=devicePixelRatio||1;w=c.clientWidth;h=c.clientHeight;c.width=w*dpr;c.height=h*dpr;ctx.setTransform(dpr,0,0,dpr,0,0);}
+  function line(period,phase,amp,y,col,alpha){
+    ctx.beginPath();ctx.strokeStyle=col;ctx.globalAlpha=alpha;ctx.lineWidth=1.2;
+    for(let x=0;x<=w;x+=2){const p=((x+phase)%period+period)%period-period/2;const v=Math.exp(-(p*p)/(2*3.2*3.2));ctx.lineTo(x,y-amp*v);}
+    ctx.stroke();ctx.globalAlpha=1;
+  }
+  function draw(){ctx.clearRect(0,0,w,h);
+    line(120,t*0.6,34,h-8,getComputedStyle(document.documentElement).getPropertyValue("--pulse").trim()||"#2CDCD7",.9);
+    line(173,t*0.35+60,16,h-4,"#D70252",.6);
+    if(!reduce){t+=1;requestAnimationFrame(draw);}}
+  size();addEventListener("resize",size);draw();
+})();
+</script>
+</body>
+</html>

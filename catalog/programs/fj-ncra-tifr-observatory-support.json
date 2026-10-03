@@ -1,0 +1,30 @@
+{
+ "a": "Entry-level faculty about INR 2,45,410/month (higher levels by experience); 4 positions",
+ "added": "2026-10-02",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-02",
+ "d": "2026-12-31",
+ "dt": "Deadline 31 Dec 2026",
+ "e": "Faculty roles at NCRA's radio telescope facility, with about 75% of time on user support, telescope operations and instrumentation and 25% on research. Needs a PhD and radio telescope/data experience; no citizenship limits stated.",
+ "f": "National Centre for Radio Astrophysics, TIFR (Pune)",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "fj-ncra-tifr-observatory-support",
+ "n": "NCRA-TIFR: Faculty Positions (Observatory Support)",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:7fb5b25d",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://www.ncra.tifr.res.in/jobs/academic/faculty",
+ "unv": "The ad mentions a 5+ year initial term (extendable) but does not say whether the track is tenure-track",
+ "us": false
+}

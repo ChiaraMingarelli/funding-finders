@@ -1,0 +1,35 @@
+{
+ "a": "No-cost access to fabrication, characterization and staff for non-proprietary research",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Instrumentation",
+ "checked": "2026-10-03",
+ "d": "2026-10-30",
+ "dt": "CNM due Oct 30, 2026 (then Mar 5, 2027). CFN due Jan 31, May 31 and Sept 30. Molecular Foundry and CINT run fall/spring calls; CNMS runs a spring call.",
+ "e": "Peer-reviewed access to nanofabrication, microscopy, nanophotonics and quantum-materials tools at the five DOE nanocenters. Researchers from universities, labs and industry may apply, including students and postdocs, and foreign nationals are allowed with advance planning.",
+ "f": "DOE Office of Science (BES) user facilities",
+ "fields": [
+  "mat",
+  "phot",
+  "qp",
+  "dev",
+  "inst"
+ ],
+ "id": "doe-nsrc-user-proposals",
+ "n": "DOE Nanoscale Science Research Centers user proposals (CFN, CNM, Molecular Foundry, CNMS, CINT)",
+ "nom": false,
+ "pt": "other",
+ "s": "open",
+ "src": "other:nsrc",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://nsrc.energy.gov/",
+ "us": false
+}

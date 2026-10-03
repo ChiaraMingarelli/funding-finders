@@ -1,0 +1,37 @@
+{
+ "a": "Free; some travel funding for those in need",
+ "added": "2026-10-01",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Training",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "2026 workshop held Jun 22–26, 2026; next edition not announced",
+ "e": "Open to anyone in astronomy who knows Python or another high-level language. Teaches packaging, testing and open-source practice, which helps PTA software (e.g. enterprise/PINT) contributors.",
+ "f": "Code/Astro (Schmidt Sciences-supported)",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "code-astro-software-engineering-workshop",
+ "n": "Code/Astro Software Engineering Workshop",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "watch",
+ "src": "other:codeastro",
+ "stages": [
+  "gr",
+  "ug",
+  "pd"
+ ],
+ "u": "https://semaphorep.github.io/codeastro/",
+ "unv": "Whether held annually not stated",
+ "us": false
+}

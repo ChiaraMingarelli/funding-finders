@@ -1,0 +1,35 @@
+{
+ "a": "€4,552–5,758 gross/month + allowances; 3 years (2+1)",
+ "added": "2026-09-30",
+ "asub": [
+  "exo",
+  "star"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-11-06",
+ "dt": "Nov 6, 2026, 23:59 CET",
+ "e": "Detect and characterize stellar and exoplanetary radio emission and space weather. Requires a PhD in radio, stellar or exoplanet science.",
+ "f": "ASTRON; PI J. R. Callingham",
+ "fields": [
+  "astro"
+ ],
+ "id": "astron-postdoc-in-radio-stars-exoplanets",
+ "n": "ASTRON: Postdoc in radio stars & exoplanets",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:bb13cc34",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://werkenbijastron.nl/job-offer/?o=postdoctoral-researcher-in-radio-stars-and-exoplanets",
+ "us": false
+}

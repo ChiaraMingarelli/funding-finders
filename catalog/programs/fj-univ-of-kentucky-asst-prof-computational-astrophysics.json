@@ -1,0 +1,28 @@
+{
+ "a": "Assistant Professor, tenure-eligible",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-12-01",
+ "dt": "Deadline Dec 1, 2026; separate UK jobs application also required",
+ "e": "Data-driven computational astrophysics using AI/ML on large surveys (Rubin, Roman, DESI). Theory or observation. Start Aug 1, 2027.",
+ "f": "Dept. of Physics & Astronomy, University of Kentucky",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-univ-of-kentucky-asst-prof-computational-astrophysics",
+ "n": "Univ. of Kentucky: Asst Prof, Computational Astrophysics",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32607",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32607",
+ "us": false
+}

@@ -1,0 +1,28 @@
+{
+ "a": "US$3,000–$11,000 per award (85 awards totaling $351,000 in 2026)",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Scholarship",
+ "checked": "2026-10-03",
+ "d": "2027-02-15",
+ "dt": "Annual deadline Feb 15, 5 pm PST",
+ "e": "Scholarships for students in optics and photonics programs worldwide, from high school through graduate school; one application covers the named awards. Requires SPIE Student Membership and two recommendations.",
+ "f": "SPIE",
+ "fields": [
+  "phot"
+ ],
+ "id": "spie-optics-photonics-education-scholarships-2027",
+ "n": "SPIE Optics and Photonics Education Scholarships (2027)",
+ "nom": false,
+ "s": "open",
+ "src": "other:spie",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://spie.org/membership/student-hub/scholarships/optics-and-photonics-education-scholarships",
+ "unv": "The date the application portal opens is not stated.",
+ "us": false
+}

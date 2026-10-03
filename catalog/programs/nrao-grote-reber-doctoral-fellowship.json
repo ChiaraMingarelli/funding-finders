@@ -1,0 +1,35 @@
+{
+ "a": "Stipend + NRAO computing + travel to present thesis; university covers tuition/benefits; several months to 2 years",
+ "added": "2026-10-01",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "Last deadline May 4, 2026; next deadline not posted",
+ "e": "For PhD candidates who have finished coursework and qualifiers, with an NRAO staff co-advisor. Fellows are based at NRAO Socorro, Charlottesville or Green Bank. Supports thesis work in radio astronomy, instrumentation or computation, such as GBT pulsar timing.",
+ "f": "NSF NRAO",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "nrao-grote-reber-doctoral-fellowship",
+ "n": "NRAO Grote Reber Doctoral Fellowship",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "src": "other:nrao",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://science.nrao.edu/opportunities/student-programs/ReberFellowships",
+ "unv": "Stipend amount, citizenship rules and next deadline not stated",
+ "us": false
+}

@@ -1,0 +1,39 @@
+{
+ "a": "Budgets and durations vary.",
+ "added": "2026-09-28",
+ "asub": [
+  "cos",
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Full proposal accepted anytime under NSF 26-523.",
+ "e": "Faculty PIs at eligible US institutions. Good fit for dark matter, neutrino and cosmic-ray experiments.",
+ "f": "NSF MPS/PHY (NSF 26-523)",
+ "fields": [
+  "ppx",
+  "astro",
+  "inst"
+ ],
+ "id": "nsf-mps-physics-particle-astrophysics-experiment",
+ "n": "NSF MPS Physics: Particle Astrophysics - Experiment",
+ "nofo": [
+  {
+   "opp": "26-523",
+   "u": "https://simpler.grants.gov/opportunity/d4e9f37d-0a43-40de-94bb-4d007267df73"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/particle-astrophysics-experiment",
+ "us": false
+}

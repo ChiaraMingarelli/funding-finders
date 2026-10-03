@@ -1,0 +1,32 @@
+{
+ "a": "4-year team awards; $40M and ~20-25 awards in the 2025 cycle",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last window Jan 21-Feb 4, 2025 (NSF 25-508); prior cycle 2023; next solicitation not yet posted",
+ "e": "Team awards that integrate theory, computation, data science and experiment to design materials faster (Materials Genome Initiative). In 2025 each organization could lead five proposals and each person could appear on one; no citizenship restriction.",
+ "f": "NSF MPS/DMR (multi-directorate)",
+ "fields": [
+  "mat",
+  "cmt",
+  "ds",
+  "cmx"
+ ],
+ "id": "nsf-dmref",
+ "n": "NSF Designing Materials to Revolutionize and Engineer our Future (DMREF)",
+ "nom": false,
+ "s": "watch",
+ "src": "other:nsf-dmref",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/dmref-designing-materials-revolutionize-engineer-our-future",
+ "unv": "Next cycle (likely early 2027 by past pattern) not confirmed.",
+ "us": false
+}

@@ -1,0 +1,30 @@
+{
+ "a": "Stipend about $5,000-$7,000 (varies by site)",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "2026 site deadlines ran Jan 31-Mar 31 (Cornell Feb 8, Georgia Tech Feb 15); 2027 dates not posted",
+ "e": "Summer nanotechnology research at NNCI user-facility sites (e.g. Cornell CNF, Georgia Tech, Research Triangle, Nebraska). Some sites are regionally restricted; NSF-funded sites usually require US citizenship or permanent residency.",
+ "f": "National Nanotechnology Coordinated Infrastructure (NSF)",
+ "fields": [
+  "dev",
+  "mat",
+  "phot",
+  "bio"
+ ],
+ "id": "nnci-reu-nanotechnology",
+ "n": "NNCI REU Program in Nanotechnology (multi-site)",
+ "nom": false,
+ "s": "watch",
+ "src": "other:nnci-reu",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://nnci.net/research-experience-undergraduates",
+ "unv": "2027 deadlines and per-site citizenship rules not verified",
+ "us": false
+}

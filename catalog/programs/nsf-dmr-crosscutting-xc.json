@@ -1,0 +1,36 @@
+{
+ "a": "not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Proposals accepted anytime; contact XC program directors before proposals over $50,000",
+ "e": "Supports materials-community activities that span several DMR programs, such as summer schools, institutes, workshops and conferences, plus REU/RET site and international/education activities; it does not take standard research proposals. Open to US universities; no citizenship restriction.",
+ "f": "NSF MPS/DMR",
+ "fields": [
+  "mat",
+  "cmx",
+  "cmt"
+ ],
+ "id": "nsf-dmr-crosscutting-xc",
+ "n": "NSF DMR Crosscutting Activities in Materials Research (XC): workshops, summer schools, REU/RET",
+ "nofo": [
+  {
+   "opp": "PD-18-7222",
+   "u": "https://simpler.grants.gov/opportunity/1f00aff3-c8ff-4121-92cd-a86f16d17a1d"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "src": "grants:PD-18-7222",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/xc-crosscutting-activities-materials-research",
+ "us": false
+}

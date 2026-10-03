@@ -1,0 +1,38 @@
+{
+ "a": "3-yr fellowship (stipend + tuition)",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-10-30",
+ "dt": "Aug 3 to Oct 30, 2026, 5 pm ET",
+ "e": "US citizens early in their PhD (or seniors) in DoD-relevant S&E, including physics.",
+ "f": "DoD",
+ "fields": [
+  "all",
+  "amo",
+  "cmx",
+  "cmt",
+  "qp",
+  "inst"
+ ],
+ "id": "ndseg-fellowship-fy2027",
+ "n": "NDSEG Fellowship (FY2027)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "gr",
+  "ug"
+ ],
+ "u": "https://ndseg.sysplus.com/",
+ "unv": "Stipend amount not shown on homepage",
+ "us": true
+}

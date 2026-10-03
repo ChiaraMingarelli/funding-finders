@@ -1,0 +1,31 @@
+{
+ "a": "competitive + relocation/childcare allowances; 2 years, extendable",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-01",
+ "dt": "Nov 1, 2026",
+ "e": "Independent theoretical/computational research in an interdisciplinary institute (simulation, data).",
+ "f": "Heidelberg Institute for Theoretical Studies",
+ "fields": [
+  "astro",
+  "ds"
+ ],
+ "id": "hits-independent-postdoctoral-program",
+ "n": "HITS: Independent Postdoctoral Program",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:09fe3cd2",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/09fe3cd2",
+ "us": false
+}

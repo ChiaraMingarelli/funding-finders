@@ -1,0 +1,35 @@
+{
+ "a": "$84,875/yr; up to 3 years, non-extendable",
+ "added": "2026-10-02",
+ "asub": [
+  "exo"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-02",
+ "d": "2026-10-29",
+ "dt": "29 Oct 2026, 11:59pm EDT",
+ "e": "Independent fellowship at STScI for research combining data science (large databases, ML, statistics, image processing) with astronomy, astrophysics or planetary science. PhD in astronomy, physics or related field by start; no citizenship limits stated.",
+ "f": "Space Telescope Science Institute",
+ "fields": [
+  "astro",
+  "ds"
+ ],
+ "id": "stsci-lasker-fellowship-2027",
+ "n": "STScI: Barry M. Lasker Data Science Postdoctoral Fellowship 2027",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "aas:b238b1ed",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://stsci.slideroom.com/#/permalink/program/91301/56TDfZ4aqB",
+ "us": true
+}

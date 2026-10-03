@@ -1,0 +1,32 @@
+{
+ "a": "$1,500 + registration",
+ "added": "2026-09-28",
+ "aud": [
+  "radar",
+  "ast"
+ ],
+ "c": "Prize",
+ "checked": "2026-09-28",
+ "d": null,
+ "dt": "",
+ "e": "APS Division of Astrophysics award for an outstanding astrophysics PhD thesis defended in the previous 2 years.",
+ "f": "APS Division of Astrophysics",
+ "fields": [
+  "astro"
+ ],
+ "id": "aps-payne-gaposchkin-dissertation-award",
+ "n": "APS Payne-Gaposchkin Dissertation Award",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "watch",
+ "src": "other:aps-dap-dissertation",
+ "stages": [
+  "gr",
+  "pd"
+ ],
+ "u": "https://www.aps.org/funding-recognition/award/dissertation-in-astrophysics",
+ "unv": "deadline not posted",
+ "us": false
+}

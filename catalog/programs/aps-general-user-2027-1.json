@@ -1,0 +1,33 @@
+{
+ "a": "Beamtime at no cost for non-proprietary research",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Instrumentation",
+ "checked": "2026-10-03",
+ "d": "2026-10-21",
+ "dt": "2027-1 call due Oct 21, 2026; next calls ~March and ~June 2027",
+ "e": "Peer-reviewed synchrotron beamtime for x-ray scattering, spectroscopy and imaging, for example resonant scattering and diffraction on oxide films and quantum materials. Open to researchers from any institution.",
+ "f": "Argonne National Laboratory / DOE BES",
+ "fields": [
+  "cmx",
+  "mat",
+  "inst"
+ ],
+ "id": "aps-general-user-2027-1",
+ "n": "Advanced Photon Source (APS) General User Proposals – run 2027-1",
+ "nom": false,
+ "pt": "other",
+ "s": "open",
+ "src": "other:aps-gup",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://www.aps.anl.gov/Users-Information/About-Proposals/Proposal-Deadlines-and-Meetings",
+ "us": false
+}

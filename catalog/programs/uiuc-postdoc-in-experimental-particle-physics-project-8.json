@@ -1,0 +1,28 @@
+{
+ "a": "1 year, extendable",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-01",
+ "dt": "review begins Dec 1, 2026; until filled; apply to Prof. Beck",
+ "e": "Neutrino mass via Cyclotron Radiation Emission Spectroscopy: magnet design and cryogenic atomic tritium source. PhD within 10 years; start Jan 2027.",
+ "f": "University of Illinois Urbana-Champaign, Physics, Nuclear Physics Laboratory (Douglas Beck)",
+ "fields": [
+  "nux",
+  "ppx",
+  "inst"
+ ],
+ "id": "uiuc-postdoc-in-experimental-particle-physics-project-8",
+ "n": "UIUC: Postdoc in Experimental Particle Physics (Project 8)",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32848",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32848",
+ "us": false
+}

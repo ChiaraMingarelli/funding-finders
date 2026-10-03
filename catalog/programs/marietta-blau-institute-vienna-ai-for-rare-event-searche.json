@@ -1,0 +1,35 @@
+{
+ "a": "€5,011.96/month; 2 years",
+ "added": "2026-09-30",
+ "asub": [
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-15",
+ "dt": "Oct 15, 2026",
+ "e": "AI/ML applications for rare-event searches with cryogenic detectors. Requires a PhD in particle or astroparticle physics with an AI/ML background.",
+ "f": "Marietta Blau Institute (ÖAW), Vienna; Jochen Schieck, Florian Reindl",
+ "fields": [
+  "ppx",
+  "ds",
+  "astro"
+ ],
+ "id": "marietta-blau-institute-vienna-ai-for-rare-event-searche",
+ "n": "Marietta Blau Institute Vienna: AI for rare-event searches with cryogenic detectors",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3179833",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.oeaw.ac.at/jobs?jh=uy5i0affp3iqf8t6bwrmcvptsjrjvhk",
+ "us": false
+}

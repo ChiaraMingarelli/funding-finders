@@ -1,0 +1,28 @@
+{
+ "a": "Assistant Professor; start Aug 2027; salary not listed",
+ "added": "2026-10-02",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-02",
+ "d": "2026-12-01",
+ "dt": "Review starts Dec 1, 2026; open until filled",
+ "e": "Tenure-track assistant professor in theoretical quantum information science and computing, with links to ORNL. No citizenship limit stated.",
+ "f": "University of Tennessee, Knoxville",
+ "fields": [
+  "qp"
+ ],
+ "id": "fj-utk-ap-quantum-information-theory",
+ "n": "University of Tennessee Knoxville: Assistant Professor, Quantum Information Theory",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32662",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32662",
+ "us": true
+}

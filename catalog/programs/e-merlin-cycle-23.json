@@ -1,0 +1,34 @@
+{
+ "a": "Observing time on the e-MERLIN radio interferometer (L, C and K bands; 12-150 mas resolution) for Cycle 23, submitted through the Polaris proposal tool from 1 Oct 2026. Lovell telescope availability is limited this cycle. Joint EVN+e-MERLIN observations go through the EVN call. No funding.",
+ "added": "2026-10-03",
+ "asub": [],
+ "aud": [
+  "ast",
+  "ng"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": "2026-10-22",
+ "dt": "Deadline 13:59:59 UT on 22 Oct 2026. Observations 1 Feb to 31 Jul 2027.",
+ "e": "The UK's national radio interferometer facility. It requests proposals from the international astronomical community; the e-MERLIN TAC reviews them under STFC rules, on scientific merit and technical feasibility alone. Proposals must follow dual-anonymous guidelines, and projects that include researchers affiliated with Russian institutes are not accepted.",
+ "f": "e-MERLIN / Jodrell Bank Observatory (University of Manchester; STFC)",
+ "fields": [
+  "astro"
+ ],
+ "id": "e-merlin-cycle-23",
+ "n": "e-MERLIN Cycle 23 Call for Proposals",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "open",
+ "src": "other:emerlin-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://www.e-merlin.ac.uk/tools/e-MERLIN_Cycle_23_CfP.pdf",
+ "unv": "Grad-student PI status is not stated in the call.",
+ "us": false
+}

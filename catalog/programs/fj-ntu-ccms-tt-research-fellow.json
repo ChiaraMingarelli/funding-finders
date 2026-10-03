@@ -1,0 +1,29 @@
+{
+ "a": "All levels (assistant to full professor equivalent); start Aug 2027; salary not listed",
+ "added": "2026-10-02",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-02",
+ "d": "2026-10-31",
+ "dt": "Full consideration by Oct 31, 2026; open until filled",
+ "e": "Tenure-track research fellow at any level in experimental or theoretical physics, chemistry or materials science, especially quantum or energy materials. No citizenship limit stated.",
+ "f": "National Taiwan University, Center for Condensed Matter Sciences",
+ "fields": [
+  "cmx",
+  "cmt"
+ ],
+ "id": "fj-ntu-ccms-tt-research-fellow",
+ "n": "National Taiwan University CCMS: Tenure-Track Research Fellow",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:32131",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32131",
+ "us": false
+}

@@ -1,0 +1,31 @@
+{
+ "a": "Medal + recognition",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Prize",
+ "checked": "2026-09-29",
+ "d": "2026-10-05",
+ "dt": "Chambliss entries need an iPoster",
+ "e": "For undergraduates and graduate students presenting research. The meeting is Jan 10–14, 2027 in Salt Lake City.",
+ "f": "AAS",
+ "fields": [
+  "astro"
+ ],
+ "id": "aas-249-abstracts-chambliss-student-award",
+ "n": "AAS 249 abstracts / Chambliss Student Award",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://aas.org/meetings/aas249/abstracts",
+ "us": false
+}

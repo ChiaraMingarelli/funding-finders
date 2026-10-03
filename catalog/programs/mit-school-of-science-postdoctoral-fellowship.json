@@ -1,0 +1,45 @@
+{
+ "a": "$88,000 stipend + $15,000 research + $5,000 relocation; 3 years",
+ "added": "2026-09-30",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-15",
+ "dt": "2026/11/15 (no time given)",
+ "e": "School-wide fellowship (incl. Physics) for innovative, cross-disciplinary researchers who identify an MIT mentor. PhD by Aug 2027; start Sep 2027.",
+ "f": "MIT School of Science, Office of the Dean",
+ "fields": [
+  "astro",
+  "amo",
+  "bio",
+  "cmx",
+  "cmt",
+  "grav",
+  "nux",
+  "nut",
+  "ppx",
+  "ppt",
+  "qp"
+ ],
+ "id": "mit-school-of-science-postdoctoral-fellowship",
+ "n": "MIT: School of Science Postdoctoral Fellowship",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32631",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32631",
+ "us": false
+}

@@ -1,0 +1,29 @@
+{
+ "a": "1–3 years; salary not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Until filled (listed to Sep 24, 2027)",
+ "e": "Experimental postdoc on nonlinear and collective optical effects in micro/nano-structured and integrated photonic and polariton systems, with laser, interferometry and time-resolved setups.",
+ "f": "CNR Nanotec, Advanced Photonics Lab, Lecce, Italy (Dimitrios Trypogeorgos)",
+ "fields": [
+  "phot",
+  "amo"
+ ],
+ "id": "cnr-lecce-advanced-photonics-pd",
+ "n": "CNR Nanotec Lecce: PhD/Postdoc in Experimental Photonics (Advanced Photonics Lab)",
+ "nom": false,
+ "pt": "group",
+ "s": "rolling",
+ "src": "other:quantiki-cnr-lecce-photonics",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://quantiki.org/position/phdpostdoc-positions-advanced-photonics-lab-lecce-italy",
+ "us": false
+}

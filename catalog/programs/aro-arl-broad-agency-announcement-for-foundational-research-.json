@@ -1,0 +1,36 @@
+{
+ "a": "Varies; STIR ≤$60K; typical core grants ~3 years",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": "2027-11-20",
+ "dt": "Rolling white papers and proposals under W911NF-23-S-0001 through Nov 20, 2027. Also includes STIR seed grants (≤$60K).",
+ "e": "Open to US institutions, with no citizenship requirement for regular grants (ECP/PECASE differ). Talking to the program manager first is strongly recommended.",
+ "f": "Army Research Office / DEVCOM ARL",
+ "fields": [
+  "amo",
+  "cmx",
+  "cmt",
+  "qp"
+ ],
+ "id": "aro-arl-broad-agency-announcement-for-foundational-research-",
+ "n": "ARO/ARL Broad Agency Announcement for Foundational Research (core programs: Physics – AMO, Condensed Matter, Quantum Information)",
+ "nofo": [
+  {
+   "opp": "W911NF-23-S-0001",
+   "u": "https://simpler.grants.gov/opportunity/5e185327-5f25-4c09-889a-43615e1f54da"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://arl.devcom.army.mil/collaborate-with-us/opportunity/arl-baa/",
+ "us": false
+}

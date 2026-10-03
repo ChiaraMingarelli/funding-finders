@@ -1,0 +1,39 @@
+{
+ "a": "Budgets and durations vary.",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "radar",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Full proposal accepted anytime under NSF 26-523 (PIF and QIS are listed separately).",
+ "e": "Faculty PIs. PIF covers computing and data science for physics; QIS covers quantum information science. Both are options for quantum-sensing or AI/ML work in particle and nuclear physics.",
+ "f": "NSF MPS/PHY (NSF 26-523)",
+ "fields": [
+  "ds",
+  "qp",
+  "ppx",
+  "ppt",
+  "nux",
+  "nut"
+ ],
+ "id": "nsf-mps-physics-physics-at-the-information-frontier-pif-and-",
+ "n": "NSF MPS Physics: Physics at the Information Frontier (PIF) and QIS",
+ "nofo": [
+  {
+   "opp": "26-523",
+   "u": "https://simpler.grants.gov/opportunity/d4e9f37d-0a43-40de-94bb-4d007267df73"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/pif-physics-information-frontier",
+ "us": false
+}

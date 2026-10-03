@@ -1,0 +1,30 @@
+{
+ "a": "Archival analysis grants",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "radar",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Awaiting ROSES-26 (last proposal deadline Jan 30, 2026)",
+ "e": "Must use NASA archival data.",
+ "f": "NASA SMD",
+ "fields": [
+  "astro",
+  "ds"
+ ],
+ "id": "nasa-astrophysics-data-analysis-program-adap",
+ "n": "NASA Astrophysics Data Analysis Program (ADAP)",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/",
+ "unv": "ROSES-26 not released",
+ "us": false
+}

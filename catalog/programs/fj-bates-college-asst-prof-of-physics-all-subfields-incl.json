@@ -1,0 +1,28 @@
+{
+ "a": "Assistant Professor, tenure-track",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-10-05",
+ "dt": "Review begins Oct 5, 2026; open until filled",
+ "e": "Open to all subfields of physics and astronomy at a liberal-arts college. Start July 2027.",
+ "f": "Dept. of Physics & Astronomy, Bates College",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-bates-college-asst-prof-of-physics-all-subfields-incl",
+ "n": "Bates College: Asst Prof of Physics (all subfields incl. astronomy)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "other:physicstoday-41979771",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://jobs.physicstoday.org/job/41979771/",
+ "us": false
+}

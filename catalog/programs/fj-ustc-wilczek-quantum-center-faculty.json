@@ -1,0 +1,30 @@
+{
+ "a": "Assistant/Associate/Full Professor; salary not listed",
+ "added": "2026-10-02",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-02",
+ "d": null,
+ "dt": "No deadline; listing until Jun 24, 2027; apply by email",
+ "e": "Tenure-track theory faculty posts in quantum computation and information, cold atoms and many-body theory, and statistical physics. No citizenship limit stated.",
+ "f": "University of Science and Technology of China (SIAS)",
+ "fields": [
+  "qp",
+  "cmt",
+  "ppt"
+ ],
+ "id": "fj-ustc-wilczek-quantum-center-faculty",
+ "n": "USTC Wilczek Quantum Center: Tenure-Track Faculty in Theoretical Physics",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "rolling",
+ "src": "ajo:32250",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32250",
+ "us": false
+}

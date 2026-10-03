@@ -1,0 +1,31 @@
+{
+ "a": "$27,000 for one year",
+ "added": "2026-10-01",
+ "aud": [
+  "ng",
+  "radar"
+ ],
+ "c": "Scholarship",
+ "checked": "2026-10-01",
+ "d": "2026-12-01",
+ "dt": "2027–28 competition: Dec 1, 2026, 8:00 pm ET; apply via up to 3 Canadian universities",
+ "e": "Domestic students only (Canadian citizens/permanent residents). Funds a research master's at a Canadian university, including radio/pulsar/GW theses.",
+ "f": "NSERC / CIHR / SSHRC (tri-agency)",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "cgrs-master-s-cgrs-m",
+ "n": "CGRS Master's (CGRS M)",
+ "nfit": "High",
+ "nom": false,
+ "region": "Canada",
+ "s": "open",
+ "src": "other:uoft-sgs",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm_eng.asp",
+ "unv": "NSERC page blocked automated fetch; deadline and amount verified on the U of T SGS CGRS M page",
+ "us": false
+}

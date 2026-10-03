@@ -1,0 +1,28 @@
+{
+ "a": "See funder",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Prize",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Nomination-only; annual",
+ "e": "Nomination by German institutions; field rotates by year. Coordinator-verified.",
+ "f": "Max Planck Society / Humboldt Foundation",
+ "fields": [
+  "all"
+ ],
+ "id": "max-planck-humboldt-research-award",
+ "n": "Max Planck-Humboldt Research Award",
+ "nom": true,
+ "s": "watch",
+ "stages": [
+  "ten"
+ ],
+ "u": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/max-planck-humboldt-research-award",
+ "us": false
+}

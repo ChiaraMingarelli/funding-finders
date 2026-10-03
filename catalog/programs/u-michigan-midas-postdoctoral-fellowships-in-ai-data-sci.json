@@ -1,0 +1,27 @@
+{
+ "a": "$70,000–86,000; 2 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-23",
+ "dt": "Nov 23, 2026",
+ "e": "AI/data science applied to fields including physical sciences. Open to outstanding early-career researchers.",
+ "f": "University of Michigan, Michigan Institute for Data & AI in Society",
+ "fields": [
+  "ds"
+ ],
+ "id": "u-michigan-midas-postdoctoral-fellowships-in-ai-data-sci",
+ "n": "U. Michigan MIDAS: Postdoctoral fellowships in AI & data science",
+ "nom": false,
+ "s": "open",
+ "src": "aas:c1ec4b58",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://midas.infoready4.com/",
+ "us": false
+}

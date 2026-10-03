@@ -1,0 +1,28 @@
+{
+ "a": "postdoc >= JPY 480,000/month; up to 3 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": null,
+ "dt": "open until filled (first review Aug 16, 2026 JST); listed until 2027-02-11",
+ "e": "Quantum information, operator algebras, quantum error-correcting codes and resource theory. Doctorate by start.",
+ "f": "RIKEN iTHEMS, Division of Fundamental Mathematical Science (Yasuyuki Kawahigashi, Bartosz Regula, Akira Furusaki)",
+ "fields": [
+  "qp",
+  "cmt"
+ ],
+ "id": "riken-ithems-research-scientists-postdocs-in-quantum-inf",
+ "n": "RIKEN iTHEMS: Research Scientists/Postdocs in Quantum Information & Mathematical Physics",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32174",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32174",
+ "us": false
+}

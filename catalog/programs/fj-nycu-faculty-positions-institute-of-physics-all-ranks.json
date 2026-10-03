@@ -1,0 +1,28 @@
+{
+ "a": "Assistant/Associate/Full Professor",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "No deadline stated",
+ "e": "Astronomy is especially welcome (observational cosmology, galaxy formation, multi-messenger).",
+ "f": "Institute of Physics, National Yang Ming Chiao Tung University",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-nycu-faculty-positions-institute-of-physics-all-ranks",
+ "n": "NYCU: Faculty Positions, Institute of Physics (all ranks)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "rolling",
+ "src": "ajo:32260",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32260",
+ "us": false
+}

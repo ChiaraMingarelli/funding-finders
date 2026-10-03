@@ -1,0 +1,32 @@
+{
+ "a": "XRISM Resolve/Xtend time; NASA funding for US investigators",
+ "added": "2026-10-03",
+ "asub": [],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Cycle 4 not posted; Cycle 3 closed 27 Feb 2026 (Type-1 at 4:30 pm EST)",
+ "e": "Call for observations with the XRISM X-ray spectroscopy mission. US and Canadian PIs apply through NASA, ESA-member PIs through ESA, and others through JAXA.",
+ "f": "JAXA/NASA/ESA XRISM",
+ "fields": [
+  "astro"
+ ],
+ "id": "xrism-go-cycle-4",
+ "n": "XRISM GO Cycle 4",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "watch",
+ "src": "other:xrism-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://heasarc.gsfc.nasa.gov/docs/xrism/proposals/",
+ "unv": "Cycle 4 dates",
+ "us": false
+}

@@ -1,0 +1,33 @@
+{
+ "a": "Up to $700,000 over 3 years; indirect costs capped at 10%",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Foundation",
+ "checked": "2026-09-30",
+ "d": "2027-02-11",
+ "dt": "Yale must nominate by Jan 28, 2027; LOI due Feb 11, 2027; invited full proposals Apr 15, 2027.",
+ "e": "Basic biomedical research (e.g. structural biology, cellular physiology, genetics, neuroscience); relevant to biophysics. Each institution may nominate up to 3 LOIs.",
+ "f": "G. Harold and Leila Y. Mathers Charitable Foundation",
+ "fields": [
+  "bio"
+ ],
+ "id": "mathers-foundation-grant-program-2027",
+ "n": "Mathers Foundation Grant Program (spring 2027 cycle)",
+ "nom": true,
+ "s": "open",
+ "src": "other:mathers-2027",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://mathersfoundation.org/how-to-apply/",
+ "us": false,
+ "yale": {
+  "d": "2026-10-19",
+  "t": "Yale limited submission: internal application due Oct 19, 2026 on InfoReady.",
+  "u": "https://yale.infoready4.com/"
+ }
+}

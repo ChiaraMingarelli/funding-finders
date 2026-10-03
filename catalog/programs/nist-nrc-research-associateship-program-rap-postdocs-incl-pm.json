@@ -1,0 +1,30 @@
+{
+ "a": "Annual stipend plus travel and relocation; 2-year appointment",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2027-02-01",
+ "dt": "Twice-yearly deadlines, Feb 1 and Aug 1. Next is Feb 1, 2027. Contact a NIST adviser months ahead.",
+ "e": "NIST: US citizens only, doctorate held less than 5 years. LPS Qubit Collaboratory also recruits postdocs through NRC RAP.",
+ "f": "National Academies / NIST (also LPS)",
+ "fields": [
+  "amo",
+  "cmx",
+  "cmt",
+  "qp",
+  "inst"
+ ],
+ "id": "nist-nrc-research-associateship-program-rap-postdocs-incl-pm",
+ "n": "NIST NRC Research Associateship Program (RAP) Postdocs – incl. PML/Quantum, JILA-affiliated and LPS/LQC NRC fellowships",
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.nist.gov/programs-projects/nrc-postdoctoral-associate-program",
+ "us": true
+}

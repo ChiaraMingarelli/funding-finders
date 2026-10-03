@@ -1,0 +1,36 @@
+{
+ "a": "2 years, renewable for a third",
+ "added": "2026-10-01",
+ "asub": [
+  "xgal",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-01",
+ "d": "2026-11-30",
+ "dt": "Deadline Nov 30, 2026",
+ "e": "High-redshift galaxies and black holes with JWST Large Program 9645 plus HST, Keck and VLT data, with some time for independent research. PhD required; JWST/HST experience preferred.",
+ "f": "University of California, Los Angeles, Physics and Astronomy (Tommaso Treu)",
+ "fields": [
+  "astro"
+ ],
+ "id": "ucla-postdoctoral-scholar-in-astronomy-treu-group",
+ "n": "UCLA: Postdoctoral Scholar in Astronomy (Treu group, JWST high-z galaxies)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "aas:1ce29275",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/1ce29275",
+ "us": false
+}

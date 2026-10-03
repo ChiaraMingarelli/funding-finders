@@ -1,0 +1,31 @@
+{
+ "a": "Initiation up to $25,000 (12 mo); Exploration up to $100,000 (18 mo); Constellation up to $250,000 (24 mo)",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Yale internal",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "2026–27 cycle closed; info sessions for that cycle ran Dec–Jan",
+ "e": "Internal grants for climate and environmental research and implementation at Yale. Constellation awardees working toward commercialization can join the Impact Accelerator.",
+ "f": "Yale Planetary Solutions",
+ "fields": [
+  "energy",
+  "all"
+ ],
+ "id": "yale-planetary-solutions-grant-program",
+ "n": "Yale Planetary Solutions Grant Program (Initiation, Exploration, Constellation grants)",
+ "nom": false,
+ "s": "watch",
+ "src": "other:yps",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://planetarysolutions.yale.edu/programs/yps-grant-program",
+ "unv": "The timing of the next RFP and who may serve as PI are not stated.",
+ "us": false
+}

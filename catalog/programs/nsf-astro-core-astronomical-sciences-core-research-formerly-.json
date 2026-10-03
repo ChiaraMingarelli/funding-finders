@@ -1,0 +1,38 @@
+{
+ "a": "No cap stated; up to 5 yr",
+ "added": "2026-09-28",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "radar",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": "2026-11-16",
+ "dt": "Target date; third Monday of November yearly",
+ "e": "FY2027 is flagged \"especially competitive\" and multiple submissions by the same lead PI are strongly discouraged. Resubmissions must be substantially revised.",
+ "f": "NSF MPS/AST · NSF 26-522",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "nsf-astro-core-astronomical-sciences-core-research-formerly-",
+ "n": "NSF Astro-Core (Astronomical Sciences Core Research; formerly AAG)",
+ "nofo": [
+  {
+   "opp": "26-522",
+   "u": "https://simpler.grants.gov/opportunity/1257538b-2930-4d7a-a9f8-c7b0e349eda1"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/astro-core-astronomical-sciences-core-research",
+ "us": false
+}

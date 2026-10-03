@@ -1,0 +1,36 @@
+{
+ "a": "Budget not capped; up to 5 years",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": "2027-01-27",
+ "dt": "Remaining dates Jan 27, 2027 and May 27, 2027; expires Sept 8, 2027",
+ "e": "Academic-industrial partnerships that develop and validate bioengineering tools and technologies (including imaging and sensing) for an unmet biomedical need; collaboration with an industrial partner is required. Led by NIBIB with NEI, NIA and NCI; no citizenship restriction.",
+ "f": "NIH NIBIB",
+ "fields": [
+  "bio",
+  "phot",
+  "inst",
+  "dev"
+ ],
+ "id": "nibib-bioeng-partnerships-industry-u01",
+ "n": "NIH NIBIB: Bioengineering Partnerships with Industry (BPI U01, PAR-24-325)",
+ "nofo": [
+  {
+   "opp": "PAR-24-325",
+   "u": "https://simpler.grants.gov/opportunity/c3e55272-5efb-4f85-995f-780ab5cf9774"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:PAR-24-325",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-325.html",
+ "us": false
+}

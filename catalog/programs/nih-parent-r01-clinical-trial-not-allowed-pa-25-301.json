@@ -1,0 +1,35 @@
+{
+ "a": "Typically up to 5 years; budget is not capped by the parent NOFO",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": "2026-10-05",
+ "dt": "New applications Oct 5, 2026; Feb 5, Jun 5 and Oct 5, 2027. Resubmissions on the 5th of Mar/Jul/Nov",
+ "e": "Faculty at US institutions; ESIs get career-stage consideration. Since Sept 25, 2025, NIH accepts at most 6 new, renewal, resubmission or revision applications per PI per calendar year (NOT-OD-25-132). From the January 2026 council round, NIH ICs no longer use paylines (unified funding strategy).",
+ "f": "NIH",
+ "fields": [
+  "bio",
+  "ds",
+  "inst"
+ ],
+ "id": "nih-parent-r01-clinical-trial-not-allowed-pa-25-301",
+ "n": "NIH Parent R01 (Clinical Trial Not Allowed, PA-25-301)",
+ "nofo": [
+  {
+   "opp": "PA-25-301",
+   "u": "https://simpler.grants.gov/opportunity/17223aaa-4ddf-44ef-a26e-d995578c2cb9"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://grants.nih.gov/grants/guide/pa-files/PA-25-301.html",
+ "us": false
+}

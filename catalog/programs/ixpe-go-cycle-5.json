@@ -1,0 +1,34 @@
+{
+ "a": "About 11 Ms per cycle (Cycle 4); joint XMM-Newton time; NASA funding for US investigators",
+ "added": "2026-10-03",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Cycle 4 closed 17 Sep 2026, 4:30 pm EDT; Cycle 5 not posted",
+ "e": "NASA's call for X-ray polarimetry observations with IXPE. Open to all; NASA funding goes only to US investigators.",
+ "f": "NASA IXPE",
+ "fields": [
+  "astro"
+ ],
+ "id": "ixpe-go-cycle-5",
+ "n": "IXPE GO Cycle 5",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "watch",
+ "src": "other:ixpe-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://heasarc.gsfc.nasa.gov/docs/ixpe/proposals/",
+ "unv": "Cycle 5 timing",
+ "us": false
+}

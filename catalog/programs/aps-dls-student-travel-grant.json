@@ -1,0 +1,29 @@
+{
+ "a": "Up to $1,000",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Travel",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Windows: Global Physics Summit Jan 26–Feb 12; CLEO Feb 17–Mar 15; FiO/LS Jun 1–Aug 2",
+ "e": "Travel grants for student DLS members who are presenting authors at the Global Physics Summit, CLEO or FiO/LS, with a DLS-member mentor. One grant per student.",
+ "f": "APS Division of Laser Science",
+ "fields": [
+  "phot",
+  "amo"
+ ],
+ "id": "aps-dls-student-travel-grant",
+ "n": "APS DLS Student Travel Grants (Global Physics Summit, CLEO, FiO/LS)",
+ "nom": false,
+ "s": "watch",
+ "src": "other:aps-dls",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://engage.aps.org/dls/honors/prizes-awards/travel-grant",
+ "unv": "The page lists the eligible meetings as 2026, so it is unclear whether these windows apply to 2027.",
+ "us": false
+}

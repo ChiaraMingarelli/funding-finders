@@ -1,0 +1,34 @@
+{
+ "a": "Mostly funding for Fermi data analysis; some pointed and joint observations",
+ "added": "2026-10-03",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Cycle 20 not posted; Cycle 19 Phase-1 closed 29 Jan 2026",
+ "e": "NASA's yearly Fermi program, mostly for analysis of gamma-ray data. Open to all; NASA funding goes only to US investigators.",
+ "f": "NASA Fermi",
+ "fields": [
+  "astro"
+ ],
+ "id": "fermi-gi-cycle-20",
+ "n": "Fermi Guest Investigator Cycle 20",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "watch",
+ "src": "other:fermi-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://fermi.gsfc.nasa.gov/ssc/proposals/",
+ "unv": "Cycle 20 dates",
+ "us": false
+}

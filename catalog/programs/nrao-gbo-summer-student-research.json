@@ -1,0 +1,36 @@
+{
+ "a": "Summer stipend",
+ "added": "2026-09-29",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Last GBO deadline Feb 1, 2026",
+ "e": "Radio astronomy and pulsars. The REU slots need US citizenship or permanent residency.",
+ "f": "NRAO / Green Bank Observatory",
+ "fields": [
+  "astro",
+  "grav",
+  "inst"
+ ],
+ "id": "nrao-gbo-summer-student-research",
+ "n": "NRAO / GBO Summer Student Research",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://science.nrao.edu/opportunities/student-programs/summerstudents",
+ "unv": "2027 date",
+ "us": true
+}

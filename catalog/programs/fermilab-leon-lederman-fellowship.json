@@ -1,0 +1,35 @@
+{
+ "a": "3-year appointment, extendable up to 2 more years.",
+ "added": "2026-09-29",
+ "asub": [],
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "The 2026 call (AJO fellowship #30895) closed 2025-11-12. The 2027 call is not yet posted; Fermilab posts details 'when a new opening becomes available'.",
+ "e": "Experimental PhD within about 1 year of the deadline, or finishing about 6 months after it. Includes an outreach commitment.",
+ "f": "Fermilab",
+ "fields": [
+  "ppx",
+  "astro",
+  "qp",
+  "inst"
+ ],
+ "id": "fermilab-leon-lederman-fellowship",
+ "n": "Fermilab Leon Lederman Fellowship",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.fnal.gov/pub/forphysicists/fellowships/leon_lederman/index.html",
+ "unv": "2027 cycle deadline not posted (a fall 2026 call is likely)",
+ "us": false
+}

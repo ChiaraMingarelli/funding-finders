@@ -1,0 +1,32 @@
+{
+ "a": "not listed (team seed awards to fellows)",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Foundation",
+ "checked": "2026-10-03",
+ "d": "2027-04-14",
+ "dt": "Fellow applications for the 2027 meeting (Oct 14–17, 2027)",
+ "e": "Invites about 50 early-career faculty, from first year on faculty through recently post-tenure, to a Scialog meeting where teams form and compete for seed funding in quantum matter and quantum information. Co-sponsored by RCSA, the Brinson Foundation and the Simons Foundation. Applicants self-nominate through the RCSA portal.",
+ "f": "Research Corporation for Science Advancement",
+ "fields": [
+  "qp",
+  "cmx",
+  "cmt",
+  "amo"
+ ],
+ "id": "scialog-quantum-matter-information-2027",
+ "n": "Scialog: Quantum Matter and Information (2027 Fellows)",
+ "nom": false,
+ "s": "open",
+ "src": "other:scialog",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://rescorp.org/scialog/quantum-matter-and-information/",
+ "unv": "The seed award amount is not stated on the page.",
+ "us": false
+}

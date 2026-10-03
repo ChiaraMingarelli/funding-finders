@@ -1,0 +1,27 @@
+{
+ "a": "not listed (ERC StG QINF and QuantERA funding)",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-11-30",
+ "dt": "Nov 30, 2026",
+ "e": "Quantum distributed computing, nonlocality, fermionic QI, foundations and noncommutative optimization.",
+ "f": "Inria Saclay / École Polytechnique, PhIQuS team; PI Marc-Olivier Renou",
+ "fields": [
+  "qp"
+ ],
+ "id": "inria-saclay-phiqus-several-postdocs-in-quantum-informat",
+ "n": "Inria Saclay PhIQuS: Several postdocs in quantum information theory",
+ "nom": false,
+ "s": "open",
+ "src": "other:quantiki",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.inria.fr/public/classic/en/offres/2026-10243",
+ "us": false
+}

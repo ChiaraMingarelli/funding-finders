@@ -1,0 +1,27 @@
+{
+ "a": "Up to $20,000",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": "2027-02-01",
+ "dt": "Annual deadline Feb 1",
+ "e": "Fellowship for graduate students doing instrumentation and measurement research; student must be an IEEE member and advisor an IEEE and I&M Society member.",
+ "f": "IEEE Instrumentation and Measurement Society",
+ "fields": [
+  "inst",
+  "dev"
+ ],
+ "id": "ieee-im-graduate-fellowship",
+ "n": "IEEE Instrumentation & Measurement Society Graduate Fellowship",
+ "nom": false,
+ "s": "open",
+ "src": "other:ieee-ims",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://ieee-ims.org/awards/graduate-fellowship-award",
+ "us": false
+}

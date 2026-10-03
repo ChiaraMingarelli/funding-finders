@@ -1,0 +1,33 @@
+{
+ "a": "Salary from $89,999 plus own lab, start-up and $225,000/yr operating budget; up to 5 years",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "2027 cycle closed Aug 1, 2026; next cycle opens May 2027",
+ "e": "Independent experimental research fellowship, with own lab, for new PhDs in physics, engineering, biology or other experimental sciences. Citizens and non-citizens eligible.",
+ "f": "Harvard University, Rowland Institute",
+ "fields": [
+  "all",
+  "phot",
+  "bio",
+  "cmx",
+  "inst"
+ ],
+ "id": "harvard-rowland-fellows",
+ "n": "Harvard Rowland Institute: Rowland Fellowship",
+ "nom": false,
+ "pt": "prize",
+ "s": "watch",
+ "src": "other:harvard-rowland",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.rowland.harvard.edu/fellowships",
+ "us": false
+}

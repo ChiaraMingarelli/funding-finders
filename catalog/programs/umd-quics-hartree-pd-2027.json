@@ -1,0 +1,29 @@
+{
+ "a": "2 years, possible 3rd; competitive salary plus small research stipend",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": "2026-12-01",
+ "dt": "Applications due Dec 1, 2026 (AJO)",
+ "e": "Postdoctoral fellowship at QuICS (UMD–NIST) in any area of quantum information processing, theory or experiment, working with one or more QuICS Fellows. No citizenship restriction stated.",
+ "f": "University of Maryland / NIST Joint Center for Quantum Information and Computer Science (QuICS)",
+ "fields": [
+  "qp",
+  "ds"
+ ],
+ "id": "umd-quics-hartree-pd-2027",
+ "n": "QuICS Hartree Postdoctoral Fellowship",
+ "nom": false,
+ "pt": "prize",
+ "s": "open",
+ "src": "ajo:32926",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32926",
+ "us": false
+}

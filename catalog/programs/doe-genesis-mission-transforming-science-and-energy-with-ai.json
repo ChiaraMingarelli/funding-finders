@@ -1,0 +1,38 @@
+{
+ "a": "Phase I $500k to $750k (9 mo); Phase II 3 to 5x Phase I over 3 yrs",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "FY26 deadlines (May 1 and May 19, 2026) have passed; the Dec 17, 2026 date is only for FY26 Phase I awardees. DOE says it plans a second competition in FY27, not posted yet",
+ "e": "Research, tenure-track and tenured faculty; limited submission (one lead application per focus area per institution at peer universities). Non-US citizens can be PI if authorized to work.",
+ "f": "DOE Office of Science",
+ "fields": [
+  "ds",
+  "all",
+  "ppx",
+  "nux"
+ ],
+ "id": "doe-genesis-mission-transforming-science-and-energy-with-ai",
+ "n": "DOE Genesis Mission: Transforming Science and Energy with AI",
+ "nofo": [
+  {
+   "opp": "DE-FOA-0003612",
+   "u": "https://simpler.grants.gov/opportunity/0228b895-9cb3-4160-8acc-58709e75c3c7"
+  }
+ ],
+ "nom": true,
+ "s": "watch",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://science.osti.gov/grants/FOAs/Open",
+ "unv": "Unclear whether new submissions are accepted before Dec 17, 2026 close",
+ "us": false
+}

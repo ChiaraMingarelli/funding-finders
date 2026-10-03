@@ -1,0 +1,33 @@
+{
+ "a": "Short queue programs on Gemini North and South, carried out 1 to 4 months after the deadline",
+ "added": "2026-10-03",
+ "asub": [],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": "2026-10-31",
+ "dt": "Monthly, due on the last day of each month at noon HST; next one is 31 Oct 2026",
+ "e": "A monthly call for short Gemini programs, reviewed by the other proposers. Open to researchers at Gemini participant institutions, which include US institutions; a graduate student may be PI with a PhD co-I as mentor.",
+ "f": "International Gemini Observatory",
+ "fields": [
+  "astro"
+ ],
+ "id": "gemini-fast-turnaround",
+ "n": "Gemini Fast Turnaround (monthly)",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "rolling",
+ "src": "other:gemini-ft-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://www.gemini.edu/observing/phase-i/ft",
+ "unv": "Next deadline worked out from the standing rule (last day of month)",
+ "us": false
+}

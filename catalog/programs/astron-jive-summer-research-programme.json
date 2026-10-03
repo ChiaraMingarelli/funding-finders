@@ -1,0 +1,35 @@
+{
+ "a": "€190/week stipend + accommodation + full travel reimbursement; 10–12 weeks; 7 grants",
+ "added": "2026-10-01",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "2026 deadline was Jan 31, 2026; 2027 call not yet posted",
+ "e": "For MSc-level students in astronomy, physics or CS; no nationality limit stated. Radio astronomy projects (LOFAR/WSRT/VLBI) at a major pulsar/radio institute.",
+ "f": "ASTRON & JIVE (Dwingeloo, Netherlands)",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "astron-jive-summer-research-programme",
+ "n": "ASTRON/JIVE Summer Research Programme",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "watch",
+ "src": "other:astron",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://www.astron.nl/education/summer-research-programme/",
+ "unv": "2027 dates not posted; whether US/Canadian bachelor's grads qualify is unclear",
+ "us": false
+}

@@ -1,0 +1,29 @@
+{
+ "a": "$67,000 starting stipend plus $40,000/yr research fund; 2 years",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "2027–29 cycle closed; next call ~Aug 2027",
+ "e": "Up to two fellowships a year for recent PhDs in nanoscience of energy capture, storage and conversion, with a Kavli ENSI faculty sponsor. Faculty nominate candidates, who are then invited to apply; open internationally.",
+ "f": "UC Berkeley / LBNL, Kavli Energy NanoScience Institute",
+ "fields": [
+  "energy",
+  "mat",
+  "phot"
+ ],
+ "id": "berkeley-kavli-ensi-hs-junior-fellow",
+ "n": "Kavli ENSI Heising-Simons Junior Fellowship",
+ "nom": true,
+ "pt": "prize",
+ "s": "watch",
+ "src": "other:kavli-ensi",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://kavli.berkeley.edu/programs/kavli-ensi-heising-simons-junior-fellowship",
+ "us": false
+}

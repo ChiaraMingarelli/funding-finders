@@ -1,0 +1,33 @@
+{
+ "a": "US/Canada: $85K/yr for up to 2 years",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "radar",
+  "ap"
+ ],
+ "c": "Industry",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last deadline Apr 30, 2026; the 2027 cycle is not posted yet. University nomination only",
+ "e": "PhD students nominated by their university (3–4 per institution). Quantum algorithms, error correction and NISQ experiments are in scope.",
+ "f": "Google Research",
+ "fields": [
+  "qp"
+ ],
+ "id": "google-phd-fellowship-quantum-computing",
+ "n": "Google PhD Fellowship – Quantum Computing",
+ "nom": true,
+ "s": "watch",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://research.google/programs-and-events/phd-fellowship/",
+ "us": false,
+ "yale": {
+  "d": null,
+  "t": "Applicants need a Yale nomination. GSAS posts internal instructions when the competition opens; Google's deadline is typically mid-April.",
+  "u": "https://gsas.yale.edu/resources/external-fellowships-awards/nomination",
+  "unv": "No internal date is posted."
+ }
+}

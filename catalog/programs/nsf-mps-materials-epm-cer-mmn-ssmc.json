@@ -1,0 +1,39 @@
+{
+ "a": "$100M across the eight DMR programs; 200-300 awards expected",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Proposals accepted anytime",
+ "e": "DMR's consolidated individual-investigator solicitation; besides CMP and CMMT it covers EPM (semiconductor, photonic, oxide and quantum materials), Ceramics, Metals, Polymers, SSMC and Biomaterials. Each person may appear as PI or co-PI on only one proposal per fiscal year (from Oct 1) across all eight programs; no citizenship restriction.",
+ "f": "NSF MPS/DMR",
+ "fields": [
+  "mat",
+  "cmx",
+  "phot",
+  "energy",
+  "dev"
+ ],
+ "id": "nsf-mps-materials-epm-cer-mmn-ssmc",
+ "n": "NSF MPS Materials (NSF 26-521): Electronic & Photonic Materials, Ceramics, Metals & Metallic Nanostructures, Polymers, Solid State & Materials Chemistry, Biomaterials",
+ "nofo": [
+  {
+   "opp": "26-521",
+   "u": "https://simpler.grants.gov/opportunity/10ff6dd1-54c3-4529-bb11-03efb6689e90"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "src": "grants:26-521",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/mps-materials-mps-materials-research-programs/nsf26-521/solicitation",
+ "unv": "Same solicitation as the catalog's CMP/CMMT row; this row is for the non-physics DMR programs.",
+ "us": false
+}

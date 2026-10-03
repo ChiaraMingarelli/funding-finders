@@ -1,0 +1,32 @@
+{
+ "a": "$87,500/yr + ~$12,000/yr research; 2 years + 3rd",
+ "added": "2026-09-30",
+ "asub": [],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-02",
+ "dt": "Nov 2, 2026 (letters Nov 9)",
+ "e": "Observational astrophysics or instrumentation with Las Campanas and SDSS-V access. PhD before the start.",
+ "f": "Carnegie Observatories, Pasadena; contact Josh Simon",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "carnegie-observatories-carnegie-fellowship-in-observatio",
+ "n": "Carnegie Observatories: Carnegie Fellowship in Observational Astrophysics",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "aas:75eb0ae8",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://apply.interfolio.com/192639",
+ "us": false
+}

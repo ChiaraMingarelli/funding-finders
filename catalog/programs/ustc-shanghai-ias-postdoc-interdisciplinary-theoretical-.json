@@ -1,0 +1,37 @@
+{
+ "a": "RMB 150,000-200,000/yr; 2 years (+2)",
+ "added": "2026-09-30",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-31",
+ "dt": "2026/12/31 23:59:59 (time zone not stated on page); open until filled",
+ "e": "CM theory and stat phys, quantum computing/foundations, cosmology, entanglement in HEP and lattice gauge simulation. Apply by email.",
+ "f": "USTC Shanghai Institute of Advanced Study (Yu Shi)",
+ "fields": [
+  "cmt",
+  "qp",
+  "astro",
+  "ppt"
+ ],
+ "id": "ustc-shanghai-ias-postdoc-interdisciplinary-theoretical-",
+ "n": "USTC Shanghai IAS: Postdoc, Interdisciplinary Theoretical Physics",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:29470",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/29470",
+ "us": false
+}

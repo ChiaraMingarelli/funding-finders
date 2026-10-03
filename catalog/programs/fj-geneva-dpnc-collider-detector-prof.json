@@ -1,0 +1,29 @@
+{
+ "a": "Assistant professor with conditional tenure track or associate professor, 100%; mid-career; salary not listed",
+ "added": "2026-10-02",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-02",
+ "d": "2026-12-17",
+ "dt": "Deadline Dec 17, 2026",
+ "e": "Faculty chair in high-energy collider physics anchored on detector hardware and R&D (ATLAS HL-LHC, FASER, FCC). Aimed at mid-career candidates; Bachelor teaching in French expected within about three years; no citizenship limit stated.",
+ "f": "University of Geneva, Department of Nuclear and Corpuscular Physics (DPNC)",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "fj-geneva-dpnc-collider-detector-prof",
+ "n": "University of Geneva: Assistant Professor (tenure-track) or Associate Professor, High-Energy Collider Physics",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3208143",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://jobs.unige.ch/www/wd_portal.show_job?p_web_site_id=1&p_web_page_id=75916",
+ "us": false
+}

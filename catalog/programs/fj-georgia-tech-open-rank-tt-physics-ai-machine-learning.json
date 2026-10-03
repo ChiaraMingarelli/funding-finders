@@ -1,0 +1,28 @@
+{
+ "a": "Open rank (tenured/tenure-track)",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-11-15",
+ "dt": "Deadline Nov 15, 2026 (AAS/INSPIRE)",
+ "e": "Machine-learning methods applied to physics; astrophysics is one of the named target areas.",
+ "f": "School of Physics, Georgia Institute of Technology",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-georgia-tech-open-rank-tt-physics-ai-machine-learning",
+ "n": "Georgia Tech: Open-Rank TT, Physics - AI/Machine Learning",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32479",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32479",
+ "us": false
+}

@@ -1,0 +1,27 @@
+{
+ "a": "competitive; 2 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2027-06-30",
+ "dt": "Jun 30, 2027",
+ "e": "Work at China's first test-beam facility (HPES). Requires a PhD in particle or nuclear physics.",
+ "f": "IHEP CAS, Dongguan (HPES proton test beam); contact Yuhang Guo",
+ "fields": [
+  "inst",
+  "ppx"
+ ],
+ "id": "ihep-dongguan-test-beam-facility-postdoc",
+ "n": "IHEP Dongguan: Test-beam facility postdoc",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3182730",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3182730",
+ "us": false
+}

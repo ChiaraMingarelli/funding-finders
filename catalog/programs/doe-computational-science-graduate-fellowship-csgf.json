@@ -1,0 +1,35 @@
+{
+ "a": "$45,000/yr stipend + full tuition/fees, renewable up to 4 yrs; lab practicum",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2027-01-07",
+ "dt": "Jan 7, 2027 (incl. transcripts and letters)",
+ "e": "Senior undergrads and first-year grad students; US citizens or permanent residents; computational science focus.",
+ "f": "DOE / Krell Institute",
+ "fields": [
+  "ds",
+  "all",
+  "nut",
+  "ppt"
+ ],
+ "id": "doe-computational-science-graduate-fellowship-csgf",
+ "n": "DOE Computational Science Graduate Fellowship (CSGF)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "gr",
+  "ug"
+ ],
+ "u": "https://www.krellinst.org/csgf/how-apply",
+ "us": true
+}

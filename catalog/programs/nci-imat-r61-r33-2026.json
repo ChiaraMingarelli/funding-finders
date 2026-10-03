@@ -1,0 +1,40 @@
+{
+ "a": "R61: up to $150K direct/yr, 3 yrs; R33: up to $300K direct/yr, 3 yrs",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": "2026-11-10",
+ "dt": "Nov 10, 2026 for both RFA-CA-27-001 (R61) and RFA-CA-27-002 (R33); FY2028 reissue forecast with est. due Jun 4, 2027",
+ "e": "Funds development of new technologies (tools, assays, instruments, platforms) for molecular or cellular characterization of cancer and biospecimen handling, from proof of concept (R61) to advanced validation (R33). No citizenship restriction.",
+ "f": "NIH NCI",
+ "fields": [
+  "bio",
+  "phot",
+  "inst"
+ ],
+ "id": "nci-imat-r61-r33-2026",
+ "n": "NIH NCI Innovative Molecular Analysis Technologies (IMAT): Early-Stage R61 and Advanced Development R33",
+ "nofo": [
+  {
+   "opp": "RFA-CA-27-001",
+   "u": "https://simpler.grants.gov/opportunity/00000220-55f5-4691-aec6-6eed51f77f2d"
+  },
+  {
+   "opp": "RFA-CA-27-002",
+   "u": "https://simpler.grants.gov/opportunity/24e288b3-ec28-4135-b845-37ace28563e3"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:RFA-CA-27-001",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/00000220-55f5-4691-aec6-6eed51f77f2d",
+ "unv": "IMAT program name taken from NCI convention; the NOFO titles do not use it.",
+ "us": false
+}

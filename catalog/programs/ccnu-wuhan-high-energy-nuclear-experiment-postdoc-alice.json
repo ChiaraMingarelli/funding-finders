@@ -1,0 +1,23 @@
+{
+ "a": "competitive; 2 years, extendable to 3",
+ "added": "2026-09-30",
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2027-08-31",
+ "dt": "Aug 31, 2027",
+ "e": "ALICE Run 3 analysis and FoCal simulation for QCD/CGC physics. Requires a PhD in HEP or nuclear physics.",
+ "f": "Central China Normal University; PI Xiaozhi Bai",
+ "fields": [
+  "nux"
+ ],
+ "id": "ccnu-wuhan-high-energy-nuclear-experiment-postdoc-alice",
+ "n": "CCNU Wuhan: High-energy nuclear experiment postdoc (ALICE)",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3200480",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3200480",
+ "us": false
+}

@@ -1,0 +1,35 @@
+{
+ "a": "$300,000 to $5,000,000",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Instrumentation",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Last receipt Jul 27, 2026 (PAR-27-022); one annual receipt date; next expected ~Jul 2027",
+ "e": "Shared instruments serving a group of NIH-funded users; biophysics only.",
+ "f": "NIH ORIP",
+ "fields": [
+  "bio",
+  "inst"
+ ],
+ "id": "nih-s10-shared-instrumentation-grant-sig",
+ "n": "NIH S10 Shared Instrumentation Grant (SIG)",
+ "nofo": [
+  {
+   "opp": "PAR-27-022",
+   "u": "https://simpler.grants.gov/opportunity/b15b4cd0-da35-4c68-b71c-ae3501bbb2b9"
+  }
+ ],
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://orip.nih.gov/division-construction-instruments/s10-instrumentation-programs/s10-notices-funding",
+ "unv": "2027 receipt date not posted",
+ "us": false
+}

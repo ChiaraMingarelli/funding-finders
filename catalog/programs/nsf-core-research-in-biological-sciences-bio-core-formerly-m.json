@@ -1,0 +1,29 @@
+{
+ "a": "About 250–300 awards and $280M in total; size varies",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Accepted anytime (NSF 26-517)",
+ "e": "US institution faculty; no limit on proposals per PI. NSF 26-517 merges the MCB (24-539), IOS and DEB core solicitations. Proposers no longer pick a division or cluster (e.g., Molecular Biophysics), because BIO now sorts proposals centrally.",
+ "f": "NSF BIO",
+ "fields": [
+  "bio",
+  "inst",
+  "ds"
+ ],
+ "id": "nsf-core-research-in-biological-sciences-bio-core-formerly-m",
+ "n": "NSF Core Research in Biological Sciences (BIO Core; formerly MCB incl. Molecular Biophysics cluster)",
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/bio-core-core-research-biological-sciences/nsf26-517/solicitation",
+ "us": false
+}

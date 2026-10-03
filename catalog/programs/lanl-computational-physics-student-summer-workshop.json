@@ -1,0 +1,35 @@
+{
+ "a": "$9,000–$17,000 fellowship by academic rank; participants pay own travel/housing",
+ "added": "2026-10-01",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "2026 program ran Jun 1–Aug 7; applications closed; 2027 dates not posted",
+ "e": "For graduate students and advanced undergraduates from within the US. 10-week computational physics projects; fits only if computing skills are the goal.",
+ "f": "Los Alamos National Laboratory (XCP)",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "lanl-computational-physics-student-summer-workshop",
+ "n": "LANL Computational Physics Student Summer Workshop",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "src": "other:lanl",
+ "stages": [
+  "gr",
+  "ug"
+ ],
+ "u": "https://www.lanl.gov/engage/organizations/xcp/computational-physics-student-summer-workshop",
+ "unv": "Citizenship requirement not stated; 2027 dates not posted",
+ "us": false
+}

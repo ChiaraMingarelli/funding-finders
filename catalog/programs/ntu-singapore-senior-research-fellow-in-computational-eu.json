@@ -1,0 +1,27 @@
+{
+ "a": "not listed",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-31",
+ "dt": "Oct 31, 2026",
+ "e": "Theory and computation of EUV nanophotonics and nanoscale radiation. Requires a PhD in physics or engineering.",
+ "f": "Nanyang Technological University; PI Liang Jie Wong",
+ "fields": [
+  "amo"
+ ],
+ "id": "ntu-singapore-senior-research-fellow-in-computational-eu",
+ "n": "NTU Singapore: (Senior) Research Fellow in computational EUV nanophotonics",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3150796",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://sites.google.com/view/ljwgroup",
+ "us": false
+}

@@ -1,0 +1,35 @@
+{
+ "a": "NRSA stipend scale; up to 3 years in total",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-12-08",
+ "dt": "Standard dates Dec 8, 2026; Apr 8, 2027; Aug 8, 2027",
+ "e": "US citizens, non-citizen nationals or permanent residents by the time of award. NIGMS participates.",
+ "f": "NIH",
+ "fields": [
+  "bio",
+  "ds",
+  "inst"
+ ],
+ "id": "nih-ruth-l-kirschstein-nrsa-postdoctoral-fellowship-parent-f",
+ "n": "NIH Ruth L. Kirschstein NRSA Postdoctoral Fellowship (Parent F32, PA-25-423)",
+ "nofo": [
+  {
+   "opp": "PA-25-423",
+   "u": "https://simpler.grants.gov/opportunity/0c33aa4f-7dd8-4887-a43e-25eab341ae98"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://grants.nih.gov/grants/guide/pa-files/PA-25-423.html",
+ "unv": "The Aug 8, 2027 date is inferred from the standard F cycle; NOFO text confirmed only Dec 8, 2026 and Apr 8, 2027",
+ "us": true
+}

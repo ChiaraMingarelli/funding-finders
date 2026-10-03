@@ -1,0 +1,28 @@
+{
+ "a": "$63,480-$93,640",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2027-08-31",
+ "dt": "rolling review since Sep 1, 2026",
+ "e": "ATLAS trigger, calorimetry, tracking, Higgs/BSM analysis and ML; up to two hires. Within 7 years of PhD.",
+ "f": "University of Chicago, Enrico Fermi Institute, ATLAS group (David W. Miller)",
+ "fields": [
+  "ppx",
+  "ds",
+  "inst"
+ ],
+ "id": "uchicago-efi-postdoc-in-experimental-collider-physics-at",
+ "n": "UChicago EFI: Postdoc in Experimental Collider Physics (ATLAS)",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32583",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32583",
+ "us": false
+}

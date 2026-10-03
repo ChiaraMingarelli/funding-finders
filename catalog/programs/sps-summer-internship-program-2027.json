@@ -1,0 +1,32 @@
+{
+ "a": "Paid 10-week internship in DC area",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-09-29",
+ "d": "2027-01-15",
+ "dt": "Jan 15, 2027 (per coordinator)",
+ "e": "SPS member undergrads.",
+ "f": "Society of Physics Students / AIP",
+ "fields": [
+  "all"
+ ],
+ "id": "sps-summer-internship-program-2027",
+ "n": "SPS Summer Internship Program 2027",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.spsnational.org/programs/internships",
+ "unv": "Date per coordinator; not re-verified",
+ "us": false
+}

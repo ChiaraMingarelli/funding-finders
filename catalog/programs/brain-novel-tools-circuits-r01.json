@@ -1,0 +1,39 @@
+{
+ "a": "Budget not capped; up to 3 years",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": "2027-02-08",
+ "dt": "Feb 8, 2027 is the last date; a consolidated tools NOFO (RFA-MH-28-110) is forecast with est. due Jun 10, 2027",
+ "e": "Develops and validates new tools, including optical, genetic and non-genetic methods, to monitor or manipulate specific cell types and circuits in the brain. No citizenship restriction.",
+ "f": "NIH BRAIN Initiative (NIMH)",
+ "fields": [
+  "bio",
+  "phot",
+  "inst"
+ ],
+ "id": "brain-novel-tools-circuits-r01",
+ "n": "NIH BRAIN Initiative: Development and Validation of Novel Tools to Probe Cell- and Circuit-Specific Processes (R01, RFA-MH-26-170)",
+ "nofo": [
+  {
+   "opp": "RFA-MH-26-170",
+   "u": "https://simpler.grants.gov/opportunity/50071472-0dd1-45a4-bcb7-34b4b1a84bd0"
+  },
+  {
+   "opp": "RFA-MH-28-110",
+   "u": "https://simpler.grants.gov/opportunity/59fa608f-e4ca-4ca9-b06c-6b499711f535"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:RFA-MH-26-170",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-26-170.html",
+ "us": false
+}

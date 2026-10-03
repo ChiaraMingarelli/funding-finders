@@ -1,0 +1,34 @@
+{
+ "a": "Budgets and durations vary (26-523 total about $180M, 300 awards).",
+ "added": "2026-09-28",
+ "aud": [
+  "yale"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Proposals accepted anytime under NSF 26-523, which replaced NSF 23-615 and 23-607.",
+ "e": "Faculty PIs at eligible US institutions. Covers nuclear astrophysics, structure and reactions, hadron/QCD, and fundamental symmetries.",
+ "f": "NSF MPS/PHY (NSF 26-523)",
+ "fields": [
+  "nux",
+  "inst"
+ ],
+ "id": "nsf-mps-physics-nuclear-physics-experiment",
+ "n": "NSF MPS Physics: Nuclear Physics - Experiment",
+ "nofo": [
+  {
+   "opp": "26-523",
+   "u": "https://simpler.grants.gov/opportunity/d4e9f37d-0a43-40de-94bb-4d007267df73"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/nuclear-physics-experiment",
+ "unv": "No NP-specific target date posted as of 2026-09-28",
+ "us": false
+}

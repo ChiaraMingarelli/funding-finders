@@ -1,0 +1,32 @@
+{
+ "a": "Residency; limited financial support",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Visiting program",
+ "checked": "2026-09-29",
+ "d": "2027-01-15",
+ "dt": "Jan 15, 2027 (workshops, working groups, individual research; May 30 to Sep 19, 2027)",
+ "e": "PhD physicists (mostly theory); application and invitation required, including for organizers and speakers.",
+ "f": "Aspen Center for Physics",
+ "fields": [
+  "all"
+ ],
+ "id": "aspen-center-for-physics-summer-program-2027",
+ "n": "Aspen Center for Physics Summer Program 2027",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "pd",
+  "tt",
+  "ten"
+ ],
+ "u": "https://aspenphys.org/summer-workshops/",
+ "us": false
+}

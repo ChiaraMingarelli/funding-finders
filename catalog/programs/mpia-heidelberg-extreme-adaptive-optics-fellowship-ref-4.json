@@ -1,0 +1,34 @@
+{
+ "a": "TVöD E14; 3 years",
+ "added": "2026-09-30",
+ "asub": [
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-13",
+ "dt": "Oct 13, 2026",
+ "e": "Extreme AO for ELT/PCS: wavefront sensing, control algorithms and DM characterization. Optics/instrumentation experience needed.",
+ "f": "Max Planck Institute for Astronomy, PFE; contact Markus Feldt",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "mpia-heidelberg-extreme-adaptive-optics-fellowship-ref-4",
+ "n": "MPIA Heidelberg: Extreme adaptive optics fellowship (Ref. 429)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:652ee3d5",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://postdocprogram.mpg.de/node/58468",
+ "us": false
+}

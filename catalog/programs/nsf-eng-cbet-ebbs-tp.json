@@ -1,0 +1,37 @@
+{
+ "a": "$100M program; ~275 awards expected",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Proposals accepted anytime",
+ "e": "Consolidated CBET solicitation; EBBS funds engineering of platforms, devices and processes that probe or control biological function (the former biophotonics and biosensing areas fall here), and TP/CPS/EWRE cover transport, process and energy engineering. No limits on proposals per PI; no citizenship restriction.",
+ "f": "NSF ENG/CBET",
+ "fields": [
+  "bio",
+  "phot",
+  "energy",
+  "mat"
+ ],
+ "id": "nsf-eng-cbet-ebbs-tp",
+ "n": "NSF ENG CBET (NSF 26-518): Engineering Biological & Biomedical Systems (EBBS), Transport Phenomena, Chemical Process Systems, Energy/Water/Resources",
+ "nofo": [
+  {
+   "opp": "26-518",
+   "u": "https://simpler.grants.gov/opportunity/1d3a1aca-46bb-4228-b6c8-a1cb58c5a746"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "src": "grants:26-518",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/engineering-eng-chemical-bioengineering-energy-transport/nsf26-518/solicitation",
+ "unv": "Whether biophotonics is named explicitly in EBBS scope was not checked.",
+ "us": false
+}

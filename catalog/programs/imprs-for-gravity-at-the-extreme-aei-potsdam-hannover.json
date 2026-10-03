@@ -1,0 +1,34 @@
+{
+ "a": "Fully funded PhD positions, no tuition; 3–4 years",
+ "added": "2026-10-01",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Graduate program",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "Potsdam usually recruits once a year in November (last deadline Dec 19, 2025); Hannover posts openings as they arise",
+ "e": "Requires a master's by program start; international applicants welcome. GW astronomy and data analysis, numerical relativity and ML inference; formerly the IMPRS on Gravitational-Wave Astronomy.",
+ "f": "Max Planck Institute for Gravitational Physics (AEI)",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "imprs-for-gravity-at-the-extreme-aei-potsdam-hannover",
+ "n": "IMPRS for Gravity at the Extreme (AEI Potsdam/Hannover)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "watch",
+ "src": "other:aei",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://imprs.aei.mpg.de/applications",
+ "unv": "2026–27 Potsdam call not yet posted on AEI jobs page",
+ "us": false
+}

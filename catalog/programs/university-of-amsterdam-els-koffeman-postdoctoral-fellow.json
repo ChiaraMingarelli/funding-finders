@@ -1,0 +1,41 @@
+{
+ "a": "EUR 3,706-5,760/month + 8% holiday + 8.3% year-end; 36 months",
+ "added": "2026-09-30",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-18",
+ "dt": "Oct 18, 2026, 23:59 CEST",
+ "e": "Any field of experimental or theoretical physics; for candidates underrepresented at faculty level. Diversity statement and 3 references required.",
+ "f": "University of Amsterdam, Institute of Physics (contacts Arghavan Safavi-Naini, Joost van Mameren)",
+ "fields": [
+  "astro",
+  "ppx",
+  "ppt",
+  "cmx",
+  "cmt",
+  "qp",
+  "grav"
+ ],
+ "id": "university-of-amsterdam-els-koffeman-postdoctoral-fellow",
+ "n": "University of Amsterdam: Els Koffeman Postdoctoral Fellowship",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:32465",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32465",
+ "us": false
+}

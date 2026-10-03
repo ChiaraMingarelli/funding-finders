@@ -1,0 +1,29 @@
+{
+ "a": "not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-03",
+ "d": "2026-11-30",
+ "dt": "Due Nov 30, 2026 (AJO)",
+ "e": "Experimental and computational work on plasmonic nanocavities and metamaterials, including deterministic placement of quantum dots in nanopatch antennas for Purcell enhancement and strong light–matter coupling.",
+ "f": "Duke University, Department of Electrical and Computer Engineering",
+ "fields": [
+  "phot",
+  "qp",
+  "dev"
+ ],
+ "id": "duke-ece-nanophotonics-plasmonics-pd",
+ "n": "Duke ECE: Postdoc in Nanophotonics, Plasmonics & Quantum-Dot Nanocavities",
+ "nom": false,
+ "pt": "group",
+ "s": "open",
+ "src": "ajo:32779",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32779",
+ "us": false
+}

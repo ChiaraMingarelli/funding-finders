@@ -1,0 +1,29 @@
+{
+ "a": "Tenure-track or tenured (2 positions)",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-11-30",
+ "dt": "Deadline Nov 30, 2026",
+ "e": "Preference for high-energy astrophysics, radio astronomy/AI, or an exceptional record.",
+ "f": "Dept. of Astronomy, Tsinghua University",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "fj-tsinghua-university-faculty-positions-in-astrophysics",
+ "n": "Tsinghua University: Faculty Positions in Astrophysics",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:4260534c",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://recruit.lunes.cn/",
+ "us": false
+}

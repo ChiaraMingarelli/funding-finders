@@ -1,0 +1,31 @@
+{
+ "a": "Starting salary $12,663 per month.",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last deadline Oct 1, 2026; the next cycle is not posted yet. Registration usually opens in late July",
+ "e": "Within 1 year of finishing the PhD, or already have it. US citizenship not required. Open to all technical disciplines.",
+ "f": "Lawrence Livermore National Laboratory",
+ "fields": [
+  "nux",
+  "nut",
+  "ppx",
+  "inst",
+  "ds"
+ ],
+ "id": "llnl-lawrence-fellowship",
+ "n": "LLNL Lawrence Fellowship",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://st.llnl.gov/opportunities/postdocs/postdoc-program/lawrence-fellowship",
+ "unv": "Page date references were ambiguous; Oct 1 read as 2026 for the 2027 cohort",
+ "us": false
+}

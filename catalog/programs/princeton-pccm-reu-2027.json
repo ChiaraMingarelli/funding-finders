@@ -1,0 +1,30 @@
+{
+ "a": "not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "2027 applications expected to open early Nov 2026; 2026 program ran Jun 1-Jul 31",
+ "e": "Nine-week summer materials research program at Princeton spanning physics, chemistry, electrical and other engineering departments.",
+ "f": "Princeton Center for Complex Materials (NSF MRSEC)",
+ "fields": [
+  "mat",
+  "cmx",
+  "dev",
+  "bio"
+ ],
+ "id": "princeton-pccm-reu-2027",
+ "n": "Princeton PCCM MRSEC REU 2027",
+ "nom": false,
+ "s": "watch",
+ "src": "other:pccm-reu",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://pccm.princeton.edu/reu",
+ "unv": "Stipend, deadline and citizenship rules not stated on page",
+ "us": false
+}

@@ -1,0 +1,30 @@
+{
+ "a": "$72,000/yr stipend plus $4,000/yr research/travel; 2 years",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": "2026-10-15",
+ "dt": "Due Oct 15, 2026",
+ "e": "Independent postdoctoral fellowship in the physics of living systems for applicants with a doctorate in physics or related fields by fall 2027. No citizenship restriction stated.",
+ "f": "University of Chicago, Center for Living Systems",
+ "fields": [
+  "bio",
+  "cmt",
+  "cmx"
+ ],
+ "id": "uchicago-cls-postdoc-fellowship-2027",
+ "n": "UChicago Center for Living Systems Postdoctoral Fellowship",
+ "nom": false,
+ "pt": "prize",
+ "s": "open",
+ "src": "other:uchicago-cls",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://centerforlivingsystems.uchicago.edu/postdoctoral-fellowships",
+ "us": false
+}

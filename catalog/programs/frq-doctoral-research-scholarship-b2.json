@@ -1,0 +1,30 @@
+{
+ "a": "$25,000/yr, up to 12 terms ($100,000)",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Scholarship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last deadline Sep 29, 2026 (2027-28 competition); the next competition is not posted yet (expected fall 2027)",
+ "e": "Canadian citizens/PRs with a valid RAMQ card (may hold it outside Québec), or non-citizens who study in Québec. Funds PhD research at Québec universities such as McGill's pulsar/FRB groups.",
+ "f": "Fonds de recherche du Québec",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "frq-doctoral-research-scholarship-b2",
+ "n": "FRQ Doctoral Research Scholarship (B2)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "Canada",
+ "s": "watch",
+ "src": "other:frq",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://frq.gouv.qc.ca/en/program/doctoral-research-scholarship-2027-2028-b2-regular-component-and-re-entering-research-component/",
+ "unv": "2028–29 deadline not yet announced",
+ "us": false
+}

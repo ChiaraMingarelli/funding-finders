@@ -1,0 +1,32 @@
+{
+ "a": "Observing time on SAAO's telescopes at Sutherland, applied for through the SAAO observer portal. SALT (partner-only) is not included. IRSF time is limited to researchers at South African or Japanese institutions. No funding.",
+ "added": "2026-10-03",
+ "asub": [],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": "2027-01-15",
+ "dt": "Fixed deadlines three times a year: 15 September for Jan-Apr, 15 January for May-Aug, and 15 May for Sep-Dec observing. The next is 15 January (May-Aug 2027 term). The time zone is not stated.",
+ "e": "South Africa's national optical/IR facility. It allocates time mainly to astronomers and postgraduate students in South Africa and at SALT partner institutes, and 'a certain percentage' to astronomers from around the world.",
+ "f": "SAAO (South African Astronomical Observatory) / NRF",
+ "fields": [
+  "astro"
+ ],
+ "id": "saao-sutherland-may-aug-2027",
+ "n": "SAAO Sutherland telescopes observing time (May-Aug 2027 term)",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "open",
+ "src": "other:saao-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://www.saao.ac.za/astronomers/observing-overview/",
+ "unv": "The page gives recurring day-month deadlines without a year, so 2027-01-15 is the next occurrence of the stated 15 January deadline. The time zone, the size of the international share, and which telescopes are offered each term (listed on the Rota page) were not checked.",
+ "us": false
+}

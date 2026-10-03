@@ -1,0 +1,28 @@
+{
+ "a": "Assistant Professor; start Aug 2027; salary not listed",
+ "added": "2026-10-02",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-02",
+ "d": "2026-10-15",
+ "dt": "Screening date Oct 15, 2026",
+ "e": "Tenure-track assistant professor in theoretical quantum information science and technology, part of a university-wide quantum cluster hire. No citizenship limit stated.",
+ "f": "Miami University (Ohio)",
+ "fields": [
+  "qp"
+ ],
+ "id": "fj-miami-u-ap-qist-theory",
+ "n": "Miami University: Assistant Professor, Quantum Information Science (Theory)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32767",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32767",
+ "us": true
+}

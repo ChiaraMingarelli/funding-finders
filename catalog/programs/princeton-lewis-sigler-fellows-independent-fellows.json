@@ -1,0 +1,29 @@
+{
+ "a": "Not confirmed",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "The official page lists no open positions",
+ "e": "Independent postdoctoral fellow positions in quantitative biology for recent PhDs.",
+ "f": "Princeton Lewis-Sigler Institute",
+ "fields": [
+  "bio",
+  "ds",
+  "cmx"
+ ],
+ "id": "princeton-lewis-sigler-fellows-independent-fellows",
+ "n": "Princeton Lewis-Sigler Fellows (independent fellows)",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://lsi.princeton.edu/opportunities/lewis-sigler-fellow-opportunities",
+ "unv": "No current call or deadline posted",
+ "us": false
+}

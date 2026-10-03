@@ -1,0 +1,31 @@
+{
+ "a": "$150K per project per year for 3 years (1–3 projects per proposal; 2027 call total $12M–$15M)",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Industry",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "2027 cycle closed (concept papers 2026-06-30, invited proposals 2026-09-14); next call expected mid-2027",
+ "e": "Industry-defined university research contracts in semiconductors and packaging, with topics including photonic devices and integration, quantum transduction and Josephson-junction/superconducting device fabrication. University faculty from any country may submit a concept paper; selected teams are invited to full proposals.",
+ "f": "Semiconductor Research Corporation",
+ "fields": [
+  "dev",
+  "phot",
+  "qp",
+  "mat"
+ ],
+ "id": "src-sparc-projects",
+ "n": "Semiconductor Research Corporation: SPARC Projects Solicitation (annual)",
+ "nom": false,
+ "s": "watch",
+ "src": "other:src-sparc",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://src.secure-platform.com/a/page/home/overview",
+ "unv": "Timing of the 2028 SPARC call is not posted; figures are from the 2027 solicitation (SPARC-SPP-2027).",
+ "us": false
+}

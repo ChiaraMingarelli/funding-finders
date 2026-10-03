@@ -1,0 +1,31 @@
+{
+ "a": "Standard-tier partitions (day, week, mpi, gpu) are free. Priority Tier costs $0.0049/SU-hr for CPU; GPUs run $0.0735 to $1.47/hr.",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Yale internal",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Rolling. Request an account through the YCRC Account Request Form. The optional paid Priority Tier needs a PI request with charging instructions.",
+ "e": "Yale researchers with a PI sponsor. Standard partitions have no charge indefinitely.",
+ "f": "Yale Center for Research Computing",
+ "fields": [
+  "all"
+ ],
+ "id": "yale-center-for-research-computing-standard-tier-hpc-free",
+ "n": "Yale Center for Research Computing – standard-tier HPC (free)",
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr",
+  "ug"
+ ],
+ "u": "https://docs.ycrc.yale.edu/clusters-at-yale/job-scheduling/priority-tier/",
+ "us": false
+}

@@ -1,0 +1,33 @@
+{
+ "a": "~$1.35–1.4M over 5 years plus possible equipment funds; ~20 awards/yr",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Foundation",
+ "checked": "2026-09-29",
+ "d": "2026-10-08",
+ "dt": "Pre-proposal due Oct 8, 2026, noon PT (hard deadline). Invited full proposals due early Feb 2027; awards in Aug 2027.",
+ "e": "Received tenure for the first time within the past 5 years (or equivalent), at a US nonprofit or public institution. Experimental only (AMO, condensed matter, quantum information, precision measurement and more). No theory or large collaborations.",
+ "f": "Gordon and Betty Moore Foundation",
+ "fields": [
+  "amo",
+  "cmx",
+  "ppx",
+  "nux",
+  "bio",
+  "qp",
+  "inst"
+ ],
+ "id": "moore-foundation-experimental-physics-investigators-epi-2027",
+ "n": "Moore Foundation Experimental Physics Investigators (EPI) – 2027 cohort",
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "ten"
+ ],
+ "u": "https://www.moore.org/initiative-strategy-detail?initiativeId=moore-investigators-in-experimental-physics-initiative",
+ "unv": "Oct 8 date is from the application portal, not the main program page",
+ "us": false
+}

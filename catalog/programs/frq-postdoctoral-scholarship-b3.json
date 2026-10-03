@@ -1,0 +1,35 @@
+{
+ "a": "$45,000/yr for 6 months–2 years; +$10,000/yr if held outside Québec",
+ "added": "2026-10-01",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-01",
+ "d": "2026-10-08",
+ "dt": "2027–28 competition: Oct 8, 2026, 4:00 pm ET",
+ "e": "Canadian citizens/PRs with a valid RAMQ card; must move to an institution other than the PhD institution. Can fund a Québec postdoc held in Québec or elsewhere, including at a NANOGrav or CHIME institution.",
+ "f": "Fonds de recherche du Québec",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "frq-postdoctoral-scholarship-b3",
+ "n": "FRQ Postdoctoral Scholarship (B3)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "prize",
+ "region": "Canada",
+ "s": "open",
+ "src": "other:frq",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://frq.gouv.qc.ca/programme/bourses-postdoctorales-2027-2028-b3/",
+ "unv": "Summary page wording on non-citizens is ambiguous; check program rules",
+ "us": false
+}

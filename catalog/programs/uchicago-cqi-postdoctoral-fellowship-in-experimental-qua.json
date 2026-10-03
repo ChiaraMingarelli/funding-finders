@@ -1,0 +1,29 @@
+{
+ "a": "$80,000; 3 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-01",
+ "dt": "2026/11/01 23:59:59 (time zone not stated on page); review begins Nov 1",
+ "e": "Independent experimental quantum science; name UChicago faculty mentors, 3 letters.",
+ "f": "University of Chicago, Pritzker School of Molecular Engineering, Chicago Quantum Institute",
+ "fields": [
+  "qp",
+  "amo",
+  "cmx"
+ ],
+ "id": "uchicago-cqi-postdoctoral-fellowship-in-experimental-qua",
+ "n": "UChicago CQI: Postdoctoral Fellowship in Experimental Quantum Science",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32652",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32652",
+ "us": false
+}

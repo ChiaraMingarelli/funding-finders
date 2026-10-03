@@ -1,0 +1,31 @@
+{
+ "a": "competitive (comparable to US); flexible terms",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2027-01-31",
+ "dt": "Jan 31, 2027",
+ "e": "TRIDENT deep-sea neutrino telescope. Requires a PhD in physics.",
+ "f": "Tsung-Dao Lee Institute, Shanghai; contact Xin Xiang",
+ "fields": [
+  "ppx",
+  "astro"
+ ],
+ "id": "tdli-shanghai-trident-neutrino-telescope-postdoc",
+ "n": "TDLI Shanghai: TRIDENT neutrino telescope postdoc",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3188738",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3188738",
+ "us": false
+}

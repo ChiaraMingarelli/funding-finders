@@ -1,0 +1,34 @@
+{
+ "a": "from $71,490; 3 years",
+ "added": "2026-09-30",
+ "asub": [
+  "exo",
+  "star"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-04",
+ "dt": "Dec 4, 2026",
+ "e": "Clouds in Solar System, exoplanet and brown dwarf atmospheres via microphysics, dynamics and radiative transfer.",
+ "f": "University of Texas at Austin, Astronomy (with partner institutions); contact Caroline Morley",
+ "fields": [
+  "astro"
+ ],
+ "id": "ut-austin-multiscale-physics-of-clouds-across-planetary-",
+ "n": "UT Austin: Multiscale physics of clouds across planetary atmospheres",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "aas:bdbbb7e9",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/bdbbb7e9",
+ "us": false
+}

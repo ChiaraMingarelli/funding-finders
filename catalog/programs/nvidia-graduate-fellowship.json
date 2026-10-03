@@ -1,0 +1,29 @@
+{
+ "a": "Up to $60k",
+ "added": "2026-09-28",
+ "aud": [
+  "radar"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-28",
+ "d": null,
+ "dt": "No 2027–28 call posted",
+ "e": "For PhD students past their first year doing strong machine-learning or computing research; international students are eligible.",
+ "f": "NVIDIA",
+ "fields": [
+  "ds"
+ ],
+ "id": "nvidia-graduate-fellowship",
+ "n": "NVIDIA Graduate Fellowship",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "src": "other:nvidia-grad-fellowship",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://research.nvidia.com/graduate-fellowships",
+ "unv": "next cycle",
+ "us": false
+}

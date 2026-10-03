@@ -1,0 +1,34 @@
+{
+ "a": "TVöD E14; 3 years",
+ "added": "2026-09-30",
+ "asub": [
+  "exo"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-13",
+ "dt": "Oct 13, 2026",
+ "e": "Direct imaging and spectroscopy of exoplanets with GRAVITY+, Roman CGI and ELT/METIS. Requires a PhD in astronomy or related.",
+ "f": "Max Planck Institute for Astronomy, APEx; group of Wolfgang Brandner",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "mpia-heidelberg-exoplanet-direct-imaging-postdoc-ref-427",
+ "n": "MPIA Heidelberg: Exoplanet direct imaging postdoc (Ref. 427)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:886eed2d",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://postdocprogram.mpg.de/node/58458",
+ "us": false
+}

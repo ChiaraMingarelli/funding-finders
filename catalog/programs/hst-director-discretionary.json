@@ -1,0 +1,32 @@
+{
+ "a": "Hubble time for urgent or time-critical science",
+ "added": "2026-10-03",
+ "asub": [],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Always open, no fixed deadline",
+ "e": "Hubble's always-open channel for urgent or unexpected science that can't wait for the annual cycle. Open to scientists worldwide.",
+ "f": "STScI / NASA",
+ "fields": [
+  "astro"
+ ],
+ "id": "hst-director-discretionary",
+ "n": "HST Director's Discretionary Time",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "rolling",
+ "src": "other:hst-dd-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://hst-docs.stsci.edu/hsp",
+ "unv": "Student PI eligibility; funding for DD programs",
+ "us": false
+}

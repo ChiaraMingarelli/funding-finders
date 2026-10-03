@@ -1,0 +1,26 @@
+{
+ "a": "Covers housing, meals and travel, plus a stipend and the North America Symposium",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-09-29",
+ "d": "2027-02-01",
+ "dt": "Applications open around Nov 1, 2026; due Feb 1, 2027 at all 14 host sites",
+ "e": "US citizens or permanent residents; sophomores, juniors and non-graduating seniors with a GPA of at least 3.2 who intend to pursue a PhD or MD-PhD. Yale is a host, and students may apply to other hosts. The program was renewed by the Amgen Foundation in Nov 2025.",
+ "f": "Amgen Foundation",
+ "fields": [
+  "bio"
+ ],
+ "id": "amgen-scholars-program-us",
+ "n": "Amgen Scholars Program (US)",
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://amgenscholars.com/us-program/",
+ "us": true
+}

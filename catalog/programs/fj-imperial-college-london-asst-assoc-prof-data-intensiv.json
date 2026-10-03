@@ -1,0 +1,28 @@
+{
+ "a": "Assistant or Associate Professor",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-10-19",
+ "dt": "Deadline Oct 19, 2026",
+ "e": "Data-intensive physics with ML/AI, statistics or scientific computing, in any subfield (astro included). Note: Imperial's separate GW Physics post closed Sep 30.",
+ "f": "Dept. of Physics, Imperial College London",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-imperial-college-london-asst-assoc-prof-data-intensiv",
+ "n": "Imperial College London: Asst/Assoc Prof, Data-Intensive Physics & AI",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:9fbf3505",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29040",
+ "us": false
+}

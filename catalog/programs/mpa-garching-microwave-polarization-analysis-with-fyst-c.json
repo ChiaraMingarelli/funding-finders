@@ -1,0 +1,33 @@
+{
+ "a": "German civil-service rates (as for MPA postdocs); 4 years, not extendable",
+ "added": "2026-09-30",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-08",
+ "dt": "Dec 8, 2026",
+ "e": "FYST polarization analysis: TB/EB correlations, dust and polarization-angle signals. Background in CMB/submm polarization analysis wanted.",
+ "f": "Max Planck Institute for Astrophysics, Physical Cosmology; PI Eiichiro Komatsu",
+ "fields": [
+  "astro"
+ ],
+ "id": "mpa-garching-microwave-polarization-analysis-with-fyst-c",
+ "n": "MPA Garching: Microwave polarization analysis with FYST/CCAT",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:7885b453",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/7885b453",
+ "us": false
+}

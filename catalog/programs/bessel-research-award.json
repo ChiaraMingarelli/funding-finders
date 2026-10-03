@@ -1,0 +1,30 @@
+{
+ "a": "Prize + research stay in Germany",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Prize",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Rolling; nomination by a German host",
+ "e": "Internationally recognized researchers within 18 yrs of PhD; nominated by a researcher in Germany. Coordinator-verified.",
+ "f": "Alexander von Humboldt Foundation",
+ "fields": [
+  "all"
+ ],
+ "id": "bessel-research-award",
+ "n": "Bessel Research Award",
+ "nom": true,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/friedrich-wilhelm-bessel-research-award",
+ "unv": "Prize amount not re-verified",
+ "us": false
+}

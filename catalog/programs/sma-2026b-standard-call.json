@@ -1,0 +1,32 @@
+{
+ "a": "Observing time from SAO's share of the SMA on Maunakea. Standard proposals can request up to 200 hours on source, and Large Scale projects of up to 1000 hours are offered from time to time.",
+ "added": "2026-10-03",
+ "asub": [],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "The last deadline (2026A) was Wed 4 Mar 2026, 16:00 EST. According to the July 2026 SMA Newsletter, the next call is planned for 2026B (observing 16 Nov 2026 - 15 May 2027). Its deadline is uncertain because of an extended summit shutdown. SMA aims to give at least 4 weeks' notice before the next deadline.",
+ "e": "Semester call for the SMA's SAO time, which follows an open-skies policy: proposals from institutions worldwide are judged on scientific merit. PIs need an SMA Observer account.",
+ "f": "Smithsonian Astrophysical Observatory (SMA, with ASIAA)",
+ "fields": [
+  "astro"
+ ],
+ "id": "sma-2026b-standard-call",
+ "n": "Submillimeter Array (SMA) Standard Observing Proposals, Semester 2026B",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "watch",
+ "src": "other:sma-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://lweb.cfa.harvard.edu/sma/Newsletters/pdfFiles/SMA_NewsJuly2026.pdf",
+ "unv": "The call page (sma1.sma.hawaii.edu/call.html) is served only over http, so the link goes to the July 2026 SMA Newsletter announcing the 2026B call. The next deadline is unknown because of an extended summit shutdown, and 2026A is on indefinite hold. Student-PI rules are not stated.",
+ "us": false
+}

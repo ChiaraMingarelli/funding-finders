@@ -1,0 +1,34 @@
+{
+ "a": "€67.5k–77.7k/yr; 4 years",
+ "added": "2026-09-30",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-08",
+ "dt": "Dec 8, 2026",
+ "e": "Lattice simulations of cosmic inflation with gauge fields. Needs a PhD and a numerical/computational cosmology background. Also listed on AAS (aas:75310742).",
+ "f": "Max Planck Institute for Astrophysics, Garching; Physical Cosmology; PI Eiichiro Komatsu",
+ "fields": [
+  "astro",
+  "ppt"
+ ],
+ "id": "mpa-garching-lattice-simulations-of-inflation-with-gauge",
+ "n": "MPA Garching: Lattice simulations of inflation with gauge fields",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3208682",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3208682",
+ "us": false
+}

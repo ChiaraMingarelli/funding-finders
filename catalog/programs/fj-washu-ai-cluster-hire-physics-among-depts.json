@@ -1,0 +1,28 @@
+{
+ "a": "Assistant/Associate/Full Professor, tenure-track",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Fullest consideration by Oct 1, 2026; review continues until positions are filled. Apply via Interfolio.",
+ "e": "Multi-department AI cluster ('AI for Modeling the Physical World and Living Systems'). The physics fit is AI-driven modeling.",
+ "f": "Physics Dept. (+AI cluster), Washington University in St. Louis",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-washu-ai-cluster-hire-physics-among-depts",
+ "n": "WashU: +AI Cluster Hire (Physics among depts)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "ajo:32470",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://apply.interfolio.com/191452",
+ "us": false
+}

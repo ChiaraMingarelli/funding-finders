@@ -1,0 +1,31 @@
+{
+ "a": "n/a",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "No open solicitation. NSF lists the program as waiting for a new publication; the last guidelines were NSF 22-632",
+ "e": "Research software and data infrastructure program, currently paused. Per coordinator.",
+ "f": "NSF",
+ "fields": [
+  "ds",
+  "all"
+ ],
+ "id": "nsf-cssi-cyberinfrastructure-for-sustained-scientific-innova",
+ "n": "NSF CSSI (Cyberinfrastructure for Sustained Scientific Innovation)",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/",
+ "unv": "Status per coordinator; not re-fetched",
+ "us": false
+}

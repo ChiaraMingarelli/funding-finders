@@ -1,0 +1,28 @@
+{
+ "a": "Up to $1,000",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Travel",
+ "checked": "2026-10-03",
+ "d": "2026-11-08",
+ "dt": "Apply by Nov 8, 2026, 11:59 pm ET; abstracts due Oct 22, 2026",
+ "e": "Travel support for graduate students who will give a talk in a DCMP-sponsored session at the 2027 APS Global Physics Summit. Applicants cannot also apply for the DCMP Caregiver Award.",
+ "f": "APS Division of Condensed Matter Physics",
+ "fields": [
+  "cmx",
+  "cmt"
+ ],
+ "id": "aps-dcmp-student-travel-gps2027",
+ "n": "APS DCMP Graduate Student Travel Awards (2027 Global Physics Summit)",
+ "nom": false,
+ "s": "open",
+ "src": "other:aps-dcmp",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://engage.aps.org/dcmp/honors/prizes-awards/student-travel-awards",
+ "us": false
+}

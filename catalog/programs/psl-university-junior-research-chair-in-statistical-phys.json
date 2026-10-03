@@ -1,0 +1,28 @@
+{
+ "a": "EUR 4,200/month gross; 3 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-15",
+ "dt": "2026/11/15 23:59:59 (time zone not stated on page)",
+ "e": "Postdoc-level chair in statistical physics of classical/quantum systems, CM theory, field theory, quantum information and probability/mathematical physics. PhD before Sep 2027.",
+ "f": "PSL University, Statistical Physics and Mathematics Program (CEREMADE, DMA-ENS, LPENS)",
+ "fields": [
+  "cmt",
+  "qp"
+ ],
+ "id": "psl-university-junior-research-chair-in-statistical-phys",
+ "n": "PSL University: Junior Research Chair in Statistical Physics",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32314",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32314",
+ "us": false
+}

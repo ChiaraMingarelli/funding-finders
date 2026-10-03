@@ -1,0 +1,28 @@
+{
+ "a": "Tenured/tenure-track; rank by qualifications",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-10-15",
+ "dt": "Deadline Oct 15, 2026",
+ "e": "All areas of physics. Start Aug 1, 2027.",
+ "f": "Dept. of Physics, National Cheng Kung University",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-national-cheng-kung-univ-tt-tenured-faculty-in-physic",
+ "n": "National Cheng Kung Univ.: TT/Tenured Faculty in Physics",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:32429",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32429",
+ "us": false
+}

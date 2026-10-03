@@ -1,0 +1,29 @@
+{
+ "a": "Up to $300",
+ "added": "2026-09-28",
+ "aud": [
+  "radar",
+  "ast"
+ ],
+ "c": "Travel",
+ "checked": "2026-09-28",
+ "d": null,
+ "dt": "Apply 10+ days before the meeting",
+ "e": "Up to $300 toward travel for SPS members with an accepted abstract at a meeting such as AAS 249. Apply at least 10 days before the meeting.",
+ "f": "SPS",
+ "fields": [
+  "all"
+ ],
+ "id": "sps-travel-award",
+ "n": "SPS Travel Award",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "other:sps-travel",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://students.aip.org/sps-travel-award",
+ "us": false
+}

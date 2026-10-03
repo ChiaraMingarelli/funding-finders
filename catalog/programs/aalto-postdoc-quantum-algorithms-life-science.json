@@ -1,0 +1,29 @@
+{
+ "a": "about EUR 4,200/month; 2 years, possible 1-year extension",
+ "added": "2026-10-01",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-01",
+ "d": "2026-11-30",
+ "dt": "Deadline Nov 30, 2026; apply via Aalto recruitment portal",
+ "e": "Hybrid quantum-classical algorithms (quantum walks, variational algorithms, adiabatic QC, quantum ML) for bioinformatics, plant breeding and enzyme/biomaterial design. PhD completed within two years of the deadline.",
+ "f": "Aalto University, Dept. of Electronics and Nanoengineering, Micro and Quantum Systems group (Ilkka Tittonen)",
+ "fields": [
+  "qp",
+  "bio"
+ ],
+ "id": "aalto-postdoc-quantum-algorithms-life-science",
+ "n": "Aalto University: Postdoc in Quantum Algorithms & Optimization for Life Science",
+ "nom": false,
+ "pt": "group",
+ "s": "open",
+ "src": "other:quantiki-aalto-qalgo-lifesci",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.aalto.fi/en/open-positions/postdoctoral-researcher-in-quantum-algorithms-and-optimization-for-life-science-applications-0",
+ "us": false
+}

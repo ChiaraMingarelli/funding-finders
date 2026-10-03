@@ -1,0 +1,41 @@
+{
+ "a": "Implementation $4M to <$20M; design $400k to <$20M",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Instrumentation",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Waiting for new publication; FY2025 (NSF 24-598) review finishing in FY2026; new solicitation expected for FY2027. grants.gov still lists NSF 24-598 with a Feb 8, 2027 date; NSF's page says a new solicitation is coming.",
+ "e": "Research infrastructure (equipment, cyberinfrastructure, datasets, personnel), including upgrades; institutional limits set by solicitation.",
+ "f": "NSF",
+ "fields": [
+  "all",
+  "inst"
+ ],
+ "id": "nsf-mid-scale-research-infrastructure-1-mid-scale-ri-1",
+ "n": "NSF Mid-scale Research Infrastructure-1 (Mid-scale RI-1)",
+ "nofo": [
+  {
+   "opp": "24-598",
+   "u": "https://simpler.grants.gov/opportunity/529df056-4a25-4428-99b4-2afb596b23d9"
+  }
+ ],
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/mid-scale-ri-1-mid-scale-research-infrastructure-1",
+ "unv": "FY2027 dates and limits not posted",
+ "us": false,
+ "yale": {
+  "d": null,
+  "t": "The Yale newsletter (May 27, 2026) listed NSF 24-598 Mid-scale RI-1 under Federal opportunities, not limited submissions: preliminary proposal Sep 1, 2026; full proposal Feb 8, 2027.",
+  "u": "https://research.yale.edu/funding-opportunities-newsletter-archive",
+  "unv": "The newsletter shows no Yale internal competition. Check with internal.proposals@yale.edu."
+ }
+}

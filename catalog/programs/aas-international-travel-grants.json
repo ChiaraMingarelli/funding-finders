@@ -1,0 +1,33 @@
+{
+ "a": "Economy airfare",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Travel",
+ "checked": "2026-09-29",
+ "d": "2027-04-01",
+ "dt": "Special round for the IAU General Assembly (Rome); next round May 1",
+ "e": "For people employed at or studying at US institutions.",
+ "f": "AAS",
+ "fields": [
+  "astro"
+ ],
+ "id": "aas-international-travel-grants",
+ "n": "AAS International Travel Grants",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://aas.org/grants-and-prizes/international-travel-grants",
+ "us": false
+}

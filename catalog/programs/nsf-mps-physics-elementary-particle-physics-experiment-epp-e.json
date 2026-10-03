@@ -1,0 +1,35 @@
+{
+ "a": "Budgets and durations vary. 26-523 as a whole: about 300 awards, $180M total, subject to funds.",
+ "added": "2026-09-28",
+ "aud": [
+  "yale"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "NSF 26-523 (posted 2026-08-17) accepts proposals anytime; program page says 'Full proposal accepted anytime'. NSF urges submitting ahead of program target dates to hit a panel cycle.",
+ "e": "PIs at eligible US institutions; unaffiliated individuals cannot apply. Covers high-energy (ATLAS/CMS), precision, and tools-for-particle-physics subareas. Talk to the program officers (J. Shank, K. De) first.",
+ "f": "NSF MPS/PHY (NSF 26-523)",
+ "fields": [
+  "ppx",
+  "inst",
+  "ds"
+ ],
+ "id": "nsf-mps-physics-elementary-particle-physics-experiment-epp-e",
+ "n": "NSF MPS Physics: Elementary Particle Physics - Experiment (EPP-Experiment)",
+ "nofo": [
+  {
+   "opp": "26-523",
+   "u": "https://simpler.grants.gov/opportunity/d4e9f37d-0a43-40de-94bb-4d007267df73"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/mps-physics-mps-physics-research-programs/nsf26-523/solicitation",
+ "unv": "No EPP-specific target date posted as of 2026-09-28; program page still cites the replaced NSF 23-615",
+ "us": false
+}

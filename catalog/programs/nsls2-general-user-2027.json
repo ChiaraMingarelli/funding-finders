@@ -1,0 +1,34 @@
+{
+ "a": "Beamtime at no cost for non-proprietary research",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Instrumentation",
+ "checked": "2026-10-03",
+ "d": "2027-01-31",
+ "dt": "2027-2 due Jan 31, 2027; 2027-3 due May 31, 2027 (2027-1 closed Sept 30, 2026)",
+ "e": "Peer-reviewed beamtime at Brookhaven's synchrotron, which includes ARPES, RIXS, nano-diffraction and imaging beamlines. Open to researchers from any institution; an ORCID iD is required.",
+ "f": "Brookhaven National Laboratory / DOE BES",
+ "fields": [
+  "cmx",
+  "mat",
+  "inst"
+ ],
+ "id": "nsls2-general-user-2027",
+ "n": "NSLS-II General User Proposals (2027-2 cycle)",
+ "nom": false,
+ "pt": "other",
+ "s": "open",
+ "src": "other:nsls2-gup",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://www.bnl.gov/nsls2/userguide/",
+ "unv": "ALS takes no new general user proposals in 2027 ahead of its ALS-U dark period (from Oct 2027 at the earliest).",
+ "us": false
+}

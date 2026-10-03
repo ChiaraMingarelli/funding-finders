@@ -1,0 +1,42 @@
+{
+ "a": "$70,000 + $10,000/yr research; 3 years",
+ "added": "2026-09-30",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-15",
+ "dt": "2026/11/15 23:59:59 (time zone not stated on page); letters same date",
+ "e": "Independent fellowship in nuclear/particle, condensed matter, quantum information, biophysics or astrophysics/cosmology. At most 5 years prior postdoc experience; start Jul 1, 2027.",
+ "f": "Washington University in St. Louis, Department of Physics",
+ "fields": [
+  "nux",
+  "nut",
+  "ppx",
+  "ppt",
+  "cmx",
+  "cmt",
+  "qp",
+  "bio",
+  "astro"
+ ],
+ "id": "washu-edwin-t-jaynes-postdoctoral-fellowship",
+ "n": "WashU: Edwin T. Jaynes Postdoctoral Fellowship",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32521",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32521",
+ "us": false
+}

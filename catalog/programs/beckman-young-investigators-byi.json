@@ -1,0 +1,34 @@
+{
+ "a": "$600,000 over 4 years",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Foundation",
+ "checked": "2026-09-29",
+ "d": "2027-01-11",
+ "dt": "2027 LOI closed July 31, 2026. The full application is due Jan 11, 2027 by invitation only. The next LOI window is expected around June–July 2027",
+ "e": "Tenure-track faculty within their first 4 years (start between Jan 1, 2022 and July 31, 2026) and at most 10 years past PhD. US citizen or permanent resident. The program covers chemical and life sciences with an emphasis on new methods and instruments, and biophysics/instrumentation physicists are competitive.",
+ "f": "Arnold and Mabel Beckman Foundation",
+ "fields": [
+  "bio",
+  "cmx",
+  "inst"
+ ],
+ "id": "beckman-young-investigators-byi",
+ "n": "Beckman Young Investigators (BYI)",
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt"
+ ],
+ "u": "https://www.beckman-foundation.org/programs/beckman-young-investigator/",
+ "us": true,
+ "yale": {
+  "d": null,
+  "t": "The 2026 Yale newsletter listed BYI under 'Selected Corporate & Foundation' opportunities, not limited submissions: sponsor deadline Jul 31, 2026. Contact Zandra Ruiz (zandra.ruiz@yale.edu, Corporate & Foundation Relations) before applying.",
+  "u": "https://research.yale.edu/funding-opportunities-newsletter-archive",
+  "unv": "The public newsletter shows no Yale internal competition for BYI. Confirm in InfoReady (NetID)."
+ }
+}

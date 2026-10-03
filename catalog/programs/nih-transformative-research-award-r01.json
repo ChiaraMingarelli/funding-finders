@@ -1,0 +1,37 @@
+{
+ "a": "Budget not capped; ~6 awards",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Forecast RFA-RM-28-003: est. post Mar 15, 2027; est. due Sep 3, 2027",
+ "e": "High-risk, high-reward Common Fund award for individuals or teams pursuing unconventional research or transformative technologies relevant to NIH's mission. Open to any career stage; no citizenship restriction.",
+ "f": "NIH Common Fund",
+ "fields": [
+  "bio",
+  "all"
+ ],
+ "id": "nih-transformative-research-award-r01",
+ "n": "NIH Director's Transformative Research Award (R01) - forecast",
+ "nofo": [
+  {
+   "opp": "RFA-RM-28-003",
+   "u": "https://simpler.grants.gov/opportunity/1bbf15ed-0dc5-44a9-b05b-cfc6fe156edb"
+  }
+ ],
+ "nom": false,
+ "s": "watch",
+ "src": "grants:RFA-RM-28-003",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://commonfund.nih.gov/tra",
+ "unv": "Dates are grants.gov estimates; commonfund.nih.gov/tra page not fetched.",
+ "us": false
+}

@@ -1,0 +1,27 @@
+{
+ "a": "not listed",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2027-01-02",
+ "dt": "Jan 2, 2027",
+ "e": "CMS flavor and exotic physics and the HGCAL upgrade. Requires a PhD in experimental HEP.",
+ "f": "Zhejiang University; PI Zhangqier Wang",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "zhejiang-u-cms-postdoc",
+ "n": "Zhejiang U.: CMS postdoc",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3179805",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3179805",
+ "us": false
+}

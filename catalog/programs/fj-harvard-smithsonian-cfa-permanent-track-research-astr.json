@@ -1,0 +1,29 @@
+{
+ "a": "Permanent-track (tenure-track analog): 4-yr initial term, then permanent Federal position",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-12-04",
+ "dt": "Deadline Dec 4, 2026",
+ "e": "All fields of astronomy and astrophysics. This is a research (not teaching) faculty-equivalent post.",
+ "f": "Smithsonian Astrophysical Observatory, Center for Astrophysics | Harvard & Smithsonian",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-harvard-smithsonian-cfa-permanent-track-research-astr",
+ "n": "Harvard-Smithsonian CfA: Permanent Track Research Astronomer",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "aas:23ebbde3",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32793",
+ "unv": "Posting says permanent Federal employment requires eligibility for permanent US employment; check the citizenship rules",
+ "us": true
+}

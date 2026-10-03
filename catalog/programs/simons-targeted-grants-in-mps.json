@@ -1,0 +1,29 @@
+{
+ "a": "Varies by proposal",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Foundation",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Rolling LOI",
+ "e": "Tenure-track or tenured faculty; start with an LOI. Coordinator-verified.",
+ "f": "Simons Foundation",
+ "fields": [
+  "all"
+ ],
+ "id": "simons-targeted-grants-in-mps",
+ "n": "Simons Targeted Grants in MPS",
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.simonsfoundation.org/mathematics-physical-sciences/funding/request-for-applications/",
+ "us": false
+}

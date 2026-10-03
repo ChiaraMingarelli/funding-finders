@@ -1,0 +1,27 @@
+{
+ "a": "Stipend historically about $5,000; the program page says this may not reflect 2027 amounts.",
+ "added": "2026-09-28",
+ "aud": [
+  "yale"
+ ],
+ "c": "Summer program",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "The summer 2027 portal 'will open in late November 2026'. The summer 2026 deadline was 2026-01-05.",
+ "e": "US citizens or permanent residents in a bachelor's program (physics, engineering, CS), typically between 3rd and 4th year. This is the main route for US undergrads to work at CERN.",
+ "f": "University of Michigan (NSF-supported)",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "university-of-michigan-cern-reu-um-cern-reu",
+ "n": "University of Michigan CERN REU (UM-CERN-REU)",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://cern-reu.physics.lsa.umich.edu/home",
+ "unv": "2027 deadline not yet posted",
+ "us": true
+}

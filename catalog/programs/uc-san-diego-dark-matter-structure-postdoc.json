@@ -1,0 +1,33 @@
+{
+ "a": "$71,491–85,736; 2 years + 1",
+ "added": "2026-09-30",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-04",
+ "dt": "Dec 4, 2026",
+ "e": "Simulations and models of dark matter structure for dwarfs, lensing and streams. Requires a PhD by the start.",
+ "f": "UC San Diego, Astronomy & Astrophysics; PI Ethan Nadler",
+ "fields": [
+  "astro"
+ ],
+ "id": "uc-san-diego-dark-matter-structure-postdoc",
+ "n": "UC San Diego: Dark matter structure postdoc",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "aas:e18b0a66",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/e18b0a66",
+ "us": false
+}

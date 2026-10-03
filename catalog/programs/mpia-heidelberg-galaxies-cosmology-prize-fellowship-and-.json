@@ -1,0 +1,36 @@
+{
+ "a": "TVöD E14; 4 years (prize fellowship)",
+ "added": "2026-09-30",
+ "asub": [
+  "cos",
+  "xgal",
+  "galac",
+  "star"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-17",
+ "dt": "Nov 17, 2026",
+ "e": "Galaxy evolution from Milky Way stars to high-z quasars. Requires a PhD in astronomy or a related field.",
+ "f": "Max Planck Institute for Astronomy, Galaxies and Cosmology dept.; search chair Maria Bergemann",
+ "fields": [
+  "astro"
+ ],
+ "id": "mpia-heidelberg-galaxies-cosmology-prize-fellowship-and-",
+ "n": "MPIA Heidelberg: Galaxies & Cosmology prize fellowship and postdocs",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:1d7c9bc2",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/1d7c9bc2",
+ "us": false
+}

@@ -1,0 +1,34 @@
+{
+ "a": "Salary + mobility/research allowances (1 to 2 yrs European; Global up to 3 yrs)",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "2026 call closed Sep 9, 2026; next ~Sep 2027",
+ "e": "PhD within 8 yrs; mobility rule applies; Global Fellowships allow outgoing phases (e.g., to Yale) for EU/associated-country researchers.",
+ "f": "European Commission (Horizon Europe)",
+ "fields": [
+  "all"
+ ],
+ "id": "marie-sklodowska-curie-postdoctoral-fellowships",
+ "n": "Marie Sklodowska-Curie Postdoctoral Fellowships",
+ "nfit": "Low",
+ "ng": {
+  "e": "PhD within 8 years; mobility rule applies. Global Fellowships allow an outgoing phase (e.g. to the US or Canada) for researchers from the EU or associated countries."
+ },
+ "nom": false,
+ "region": "International",
+ "s": "watch",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships",
+ "unv": "2027 call dates not posted",
+ "us": false
+}

@@ -1,0 +1,34 @@
+{
+ "a": "not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "FY2025 NOFO (2025-NIST-MSE-01) closed Sept 15, 2026. A successor NOFO is usually posted each year.",
+ "e": "A standing NOFO for research with NIST laboratories in metrology, nanotechnology, AI, advanced communications and manufacturing, neutron research and related areas. It is open to universities and other non-federal organizations. Contacting a NIST program contact first is usual.",
+ "f": "NIST",
+ "fields": [
+  "all"
+ ],
+ "id": "nist-mse-research-grants",
+ "n": "NIST Measurement Science and Engineering (MSE) Research Grant Programs",
+ "nofo": [
+  {
+   "opp": "2025-NIST-MSE-01",
+   "u": "https://simpler.grants.gov/opportunity/9784a84d-b011-480b-b78a-f6410c6ad106"
+  }
+ ],
+ "nom": false,
+ "s": "watch",
+ "src": "grants:2025-NIST-MSE-01",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/9784a84d-b011-480b-b78a-f6410c6ad106",
+ "unv": "The successor NOFO has not been posted yet.",
+ "us": false
+}

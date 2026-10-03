@@ -1,0 +1,33 @@
+{
+ "a": "min €76,986 gross/yr + €25,000/yr research; 3 years",
+ "added": "2026-09-30",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-15",
+ "dt": "Oct 15, 2026, 14:00 CEST",
+ "e": "Independent programs in astronomy, astrophysics and cosmology. PhD no more than 6 years before the start.",
+ "f": "Institute of Science and Technology Austria, Klosterneuburg",
+ "fields": [
+  "astro"
+ ],
+ "id": "ista-sirius-fellowship-in-astrophysics",
+ "n": "ISTA: Sirius Fellowship in Astrophysics",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:3349ec10",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://ista.ac.at/en/education/postdocs/sirius-fellowship",
+ "us": false
+}

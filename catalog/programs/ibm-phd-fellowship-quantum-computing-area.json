@@ -1,0 +1,27 @@
+{
+ "a": "$40K (US universities)",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Industry",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Invitation-only faculty nomination. 2027 nomination window not stated on the official page.",
+ "e": "Full-time PhD students within 2 years of estimated graduation, nominated by doctoral faculty. Embargoed-country restrictions apply.",
+ "f": "IBM Research",
+ "fields": [
+  "qp"
+ ],
+ "id": "ibm-phd-fellowship-quantum-computing-area",
+ "n": "IBM PhD Fellowship (Quantum Computing area)",
+ "nom": true,
+ "s": "watch",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://research.ibm.com/labs/yorktown-heights/ibm-academic-awards-program",
+ "unv": "Nomination dates not confirmed.",
+ "us": false
+}

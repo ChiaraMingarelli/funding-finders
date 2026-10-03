@@ -1,0 +1,37 @@
+{
+ "a": "Stipend for 1 to 2 yrs of interdisciplinary postdoc",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Current cycle closed; next opens ~spring 2027 (institutional nomination)",
+ "e": "PhD candidates/recent PhDs nominated by invited institutions, pivoting into a new field.",
+ "f": "Schmidt Science Fellows",
+ "fields": [
+  "all"
+ ],
+ "id": "schmidt-science-fellows",
+ "n": "Schmidt Science Fellows",
+ "nfit": "Low",
+ "nom": true,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://schmidtsciencefellows.org/",
+ "unv": "2027 dates per coordinator",
+ "us": false,
+ "yale": {
+  "d": null,
+  "t": "GSAS nominates. Send the internal application and cover sheet to GSASadministrativedean@yale.edu. The Spring 2026 internal deadline was Apr 24, 2026 (now closed). The Fall 2028 competition, for PhDs conferred May 2027 to May 2028, is expected to open in Spring 2027.",
+  "u": "https://gsas.yale.edu/resources/external-fellowships-awards/nomination",
+  "unv": "The Spring 2027 internal date is not posted yet."
+ }
+}

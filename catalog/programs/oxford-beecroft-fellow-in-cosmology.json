@@ -1,0 +1,38 @@
+{
+ "a": "36 months",
+ "added": "2026-09-30",
+ "asub": [
+  "cos",
+  "xgal",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-02",
+ "dt": "2026/11/02 23:59:59 (time zone not stated on page)",
+ "e": "CMB, cosmology, galaxy formation, early universe, gravitational physics/GWs and ML methods. Doctorate in physics or related.",
+ "f": "University of Oxford, Department of Physics, Beecroft Institute of Particle Astrophysics and Cosmology (Pedro G. Ferreira)",
+ "fields": [
+  "astro",
+  "grav",
+  "ds"
+ ],
+ "id": "oxford-beecroft-fellow-in-cosmology",
+ "n": "Oxford: Beecroft Fellow in Cosmology",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:32694",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32694",
+ "us": false
+}

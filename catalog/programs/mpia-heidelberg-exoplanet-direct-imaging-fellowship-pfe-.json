@@ -1,0 +1,33 @@
+{
+ "a": "TVöD E14; 3 years",
+ "added": "2026-09-30",
+ "asub": [
+  "exo"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-15",
+ "dt": "Nov 15, 2026",
+ "e": "Independent exoplanet research plus Roman coronagraph, SPHERE+ and ELT/METIS/PCS direct-imaging projects. Requires a PhD in astronomy or a related field.",
+ "f": "Max Planck Institute for Astronomy, Planet Formation & Exoplanets; contact Myriam Benisty",
+ "fields": [
+  "astro"
+ ],
+ "id": "mpia-heidelberg-exoplanet-direct-imaging-fellowship-pfe-",
+ "n": "MPIA Heidelberg: Exoplanet direct imaging fellowship (PFE, Ref. 431)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:87a62a5a",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/87a62a5a",
+ "us": false
+}

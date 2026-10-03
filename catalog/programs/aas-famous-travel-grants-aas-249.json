@@ -1,0 +1,31 @@
+{
+ "a": "Travel support",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Travel",
+ "checked": "2026-09-29",
+ "d": "2026-11-02",
+ "dt": "",
+ "e": "Aimed at groups underrepresented in astronomy.",
+ "f": "AAS",
+ "fields": [
+  "astro"
+ ],
+ "id": "aas-famous-travel-grants-aas-249",
+ "n": "AAS FAMOUS Travel Grants (AAS 249)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "gr",
+  "ug"
+ ],
+ "u": "https://aas.org/meetings/aas249/meeting-grants",
+ "us": false
+}

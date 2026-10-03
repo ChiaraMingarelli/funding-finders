@@ -1,0 +1,24 @@
+{
+ "a": "not listed; 1+1 years (ANRF)",
+ "added": "2026-09-30",
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-05",
+ "dt": "Oct 5, 2026",
+ "e": "Electron-Ion Collider physics, hard probes and QCD. Requires a PhD in experimental HEP/nuclear physics and C++/Python skills.",
+ "f": "IISER Tirupati; PI Nihar Ranjan Sahoo",
+ "fields": [
+  "nux",
+  "ppx"
+ ],
+ "id": "iiser-tirupati-anrf-research-associate-eic",
+ "n": "IISER Tirupati: ANRF Research Associate (EIC)",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3202662",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.iisertirupati.ac.in/jobs/advt_742026/",
+ "us": false
+}

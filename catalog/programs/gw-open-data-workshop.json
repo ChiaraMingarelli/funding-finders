@@ -1,0 +1,37 @@
+{
+ "a": "Free",
+ "added": "2026-10-01",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Training",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "2026 edition held Apr 20–23 (Toulouse + study hubs + online); next edition not announced",
+ "e": "Open to anyone, online or at in-person hubs. A crash course in GW data analysis focused on ground-based detectors, a useful complement for PTA students.",
+ "f": "Gravitational Wave Open Science Center (LIGO/Virgo/KAGRA)",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "gw-open-data-workshop",
+ "n": "GW Open Data Workshop",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "watch",
+ "src": "other:gwosc",
+ "stages": [
+  "gr",
+  "ug",
+  "pd"
+ ],
+ "u": "https://gwosc.org/news/open-data-workshop-2026/",
+ "unv": "Frequency and 2027 dates not stated",
+ "us": false
+}

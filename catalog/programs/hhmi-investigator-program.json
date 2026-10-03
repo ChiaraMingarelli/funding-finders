@@ -1,0 +1,26 @@
+{
+ "a": "Up to $10M per 7-year term plus salary and benefits",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "The next competition deadline is Mar 7, 2028, after this tool's window",
+ "e": "Tenured or tenure-track faculty who have led an independent lab for at least 7 years and hold an active nationally competitive grant. Basic biological/biomedical research.",
+ "f": "Howard Hughes Medical Institute",
+ "fields": [
+  "bio"
+ ],
+ "id": "hhmi-investigator-program",
+ "n": "HHMI Investigator Program",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "ten"
+ ],
+ "u": "https://www.hhmi.org/news/hhmi-announces-five-competitions-scientists-across-career-stages",
+ "us": false
+}

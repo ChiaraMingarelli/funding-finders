@@ -1,0 +1,38 @@
+{
+ "a": "$87,500; 2 years + 1",
+ "added": "2026-09-30",
+ "asub": [
+  "cos",
+  "exo",
+  "xgal",
+  "he",
+  "star"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-30",
+ "dt": "Oct 30, 2026",
+ "e": "Theory of stars, galaxies, black holes, transients, exoplanets and cosmology. A joint Carnegie-Caltech option also runs through AJO 32276.",
+ "f": "Carnegie Theoretical Astrophysics Center; contact Anthony Piro",
+ "fields": [
+  "astro"
+ ],
+ "id": "carnegie-observatories-ctac-fellowship",
+ "n": "Carnegie Observatories: CTAC Fellowship",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "aas:65fd90fd",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://apply.interfolio.com/192644",
+ "us": false
+}

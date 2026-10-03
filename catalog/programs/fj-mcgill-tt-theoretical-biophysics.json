@@ -1,0 +1,28 @@
+{
+ "a": "Assistant Professor; start Aug 2027; salary negotiable",
+ "added": "2026-10-02",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-02",
+ "d": "2026-11-15",
+ "dt": "Review begins Nov 15, 2026; open until filled",
+ "e": "Tenure-track assistant professor in theoretical biophysics in McGill Physics. Canadian citizenship or permanent residency is not required to apply.",
+ "f": "McGill University",
+ "fields": [
+  "bio"
+ ],
+ "id": "fj-mcgill-tt-theoretical-biophysics",
+ "n": "McGill University: Tenure-Track Assistant Professor, Theoretical Biophysics",
+ "nfit": "Low",
+ "nom": false,
+ "region": "Canada",
+ "s": "open",
+ "src": "ajo:32724",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32724",
+ "us": false
+}

@@ -1,0 +1,40 @@
+{
+ "a": "Up to $50K (lifetime maximum per person), for up to 1 year. Covers travel and lodging for short visits, or salary (at most 2 summer months) plus travel for longer stays.",
+ "added": "2026-09-29",
+ "asub": [],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Visiting program",
+ "checked": "2026-09-29",
+ "d": "2027-02-22",
+ "dt": "Two rounds a year: last Monday in February (Spring 2027: 2027-02-22, 6 pm) and last Monday in August. Decisions about 6 weeks after each deadline.",
+ "e": "Faculty, research scientists, postdocs and grad students at URA member universities (Yale is a member). Home institution must waive indirect costs.",
+ "f": "Universities Research Association",
+ "fields": [
+  "ppx",
+  "ppt",
+  "inst",
+  "astro",
+  "ds"
+ ],
+ "id": "ura-visiting-scholars-program-fermilab",
+ "n": "URA Visiting Scholars Program (Fermilab)",
+ "nfit": "Medium",
+ "ng": {
+  "e": "Faculty, research scientists, postdocs and grad students at URA member universities (check whether yours is a member). The home institution must waive indirect costs."
+ },
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://ura-hq.org/high-energy-physics-user-community/ura-visiting-scholars-program/",
+ "us": false
+}

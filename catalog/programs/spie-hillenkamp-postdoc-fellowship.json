@@ -1,0 +1,29 @@
+{
+ "a": "US$100,000 for one year",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Annual; 2027 cycle closed 2026-09-15",
+ "e": "One-year fellowship for a young investigator with a PhD, MD or equivalent to carry out translational biomedical-optics research in a qualifying host lab. Open internationally; the host lab covers indirect costs.",
+ "f": "SPIE",
+ "fields": [
+  "bio",
+  "phot"
+ ],
+ "id": "spie-hillenkamp-postdoc-fellowship",
+ "n": "SPIE-Franz Hillenkamp Postdoctoral Fellowship in Problem-Driven Biomedical Optics",
+ "nom": false,
+ "pt": "prize",
+ "s": "watch",
+ "src": "other:spie",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://spie.org/membership/career-hub/hillenkamp-fellowship",
+ "unv": "Dates for the 2028 cycle are not posted.",
+ "us": false
+}

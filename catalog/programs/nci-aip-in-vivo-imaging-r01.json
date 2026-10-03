@@ -1,0 +1,36 @@
+{
+ "a": "Under $500K direct per year; up to 5 years",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": "2026-10-05",
+ "dt": "Oct 5, 2026 is the last standard date before the NOFO expires Jan 7, 2027",
+ "e": "Academic-industry teams translating imaging, spectroscopy and data-science technologies into validated in vivo imaging tools for cancer or other disease. An industrial partner is part of the team; no citizenship restriction.",
+ "f": "NIH NCI",
+ "fields": [
+  "bio",
+  "phot",
+  "inst"
+ ],
+ "id": "nci-aip-in-vivo-imaging-r01",
+ "n": "NIH NCI: Academic-Industrial Partnerships to Translate and Validate In Vivo Imaging Systems (R01, PAR-25-079)",
+ "nofo": [
+  {
+   "opp": "PAR-25-079",
+   "u": "https://simpler.grants.gov/opportunity/6484ed95-0a3e-4be1-bcc4-f1e2bf6f1fa1"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:PAR-25-079",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-079.html",
+ "unv": "Whether a reissued AIP NOFO will follow was not checked.",
+ "us": false
+}

@@ -1,0 +1,29 @@
+{
+ "a": "Up to $3,000 per application",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Yale internal",
+ "checked": "2026-10-03",
+ "d": "2026-11-05",
+ "dt": "Three cycles a year: Nov 5, Feb 5, May 5",
+ "e": "Small grants for Yale students building healthcare or medical solutions and reaching innovation milestones.",
+ "f": "Yale Ventures",
+ "fields": [
+  "bio"
+ ],
+ "id": "yale-rothberg-build-fund",
+ "n": "Yale Ventures: Rothberg Build Fund (students)",
+ "nom": false,
+ "s": "open",
+ "src": "other:yale-ventures",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://ventures.yale.edu/student-opportunities/rothberg-build-fund",
+ "unv": "Whether postdocs are eligible is not stated.",
+ "us": false
+}

@@ -1,0 +1,35 @@
+{
+ "a": "$6,300 + housing + travel",
+ "added": "2026-09-29",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Opens Dec 2026; last deadline Jan 30, 2026",
+ "e": "US citizens, nationals and permanent residents.",
+ "f": "NSF / CIERA",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "ciera-reu-northwestern",
+ "n": "CIERA REU (Northwestern)",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://sites.northwestern.edu/cierareu/application",
+ "unv": "2027 date",
+ "us": true
+}

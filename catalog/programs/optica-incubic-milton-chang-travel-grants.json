@@ -1,0 +1,27 @@
+{
+ "a": "US$500 toward travel",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Travel",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Opt in when submitting a paper to CLEO or FiO+LS",
+ "e": "Travel support for student Optica members with an accepted CLEO or FiO+LS paper who show financial need. Applicants opt in during paper submission.",
+ "f": "Optica Foundation",
+ "fields": [
+  "phot"
+ ],
+ "id": "optica-incubic-milton-chang-travel-grants",
+ "n": "Optica Foundation: Incubic/Milton Chang Student Travel Grants (CLEO, FiO+LS)",
+ "nom": false,
+ "s": "watch",
+ "src": "other:optica-foundation",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://www.optica.org/foundation/opportunities/scholarships/incubic_milton_travel_grant_cleo/",
+ "unv": "The CLEO 2027 paper deadline was not checked.",
+ "us": false
+}

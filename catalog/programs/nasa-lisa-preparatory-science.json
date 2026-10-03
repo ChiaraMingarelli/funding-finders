@@ -1,0 +1,33 @@
+{
+ "a": "—",
+ "added": "2026-09-28",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "radar",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Not solicited in ROSES-24 or ROSES-25",
+ "e": "Dormant. The FY27 request cuts Physics of the Cosmos to $3.8M.",
+ "f": "NASA SMD",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "nasa-lisa-preparatory-science",
+ "n": "NASA LISA Preparatory Science",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/",
+ "unv": "ROSES-26 not released",
+ "us": false
+}

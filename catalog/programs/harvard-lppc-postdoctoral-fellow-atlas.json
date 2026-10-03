@@ -1,0 +1,27 @@
+{
+ "a": "not listed",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-11-01",
+ "dt": "2026/11/01 23:59:59 (time zone not stated on page); apply via Harvard portal",
+ "e": "ATLAS ITk tracker commissioning or muon Level-1 MDT trigger plus physics analysis; stationed at CERN. PhD in experimental particle physics with detector experience.",
+ "f": "Harvard University, Department of Physics, Laboratory for Particle Physics and Cosmology (contact Melissa Franklin; Masahiro Morii)",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "harvard-lppc-postdoctoral-fellow-atlas",
+ "n": "Harvard LPPC: Postdoctoral Fellow (ATLAS)",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32704",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32704",
+ "us": false
+}

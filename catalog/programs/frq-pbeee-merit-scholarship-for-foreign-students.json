@@ -1,0 +1,35 @@
+{
+ "a": "Master's up to $40,000; doctoral up to $100,000; postdoc up to $35,000 (1 yr); short-term research up to $12,000 (4 months)",
+ "added": "2026-10-01",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Scholarship",
+ "checked": "2026-10-01",
+ "d": "2026-12-02",
+ "dt": "Dec 2, 2026, 4:00 pm ET; candidates must first be pre-selected/nominated by a Québec university (internal deadlines earlier)",
+ "e": "For non-Canadians only (no citizenship or PR), who must be nominated by a Québec university. Lets US/international students or postdocs fund work at Québec radio/pulsar groups (e.g. McGill).",
+ "f": "Fonds de recherche du Québec",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "frq-pbeee-merit-scholarship-for-foreign-students",
+ "n": "FRQ PBEEE (Merit Scholarship for Foreign Students)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "other",
+ "region": "Canada",
+ "s": "open",
+ "src": "other:frq",
+ "stages": [
+  "gr",
+  "pd"
+ ],
+ "u": "https://frq.gouv.qc.ca/programme/bourses-dexcellence-pour-etudiantes-etrangeres-et-etudiants-etrangers-pbeee-2027-2028/",
+ "us": false
+}

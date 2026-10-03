@@ -1,0 +1,36 @@
+{
+ "a": "not listed; 2 years + 3rd",
+ "added": "2026-09-30",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-04",
+ "dt": "Dec 4, 2026",
+ "e": "EM counterparts, data analysis and ML classification of optical transients. Requires a PhD by appointment.",
+ "f": "Center for Astrophysics | Harvard & Smithsonian; PI Edo Berger",
+ "fields": [
+  "astro",
+  "grav",
+  "ds"
+ ],
+ "id": "cfa-time-domain-gw-astrophysics-postdoc",
+ "n": "CfA: Time-domain & GW astrophysics postdoc",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "aas:005ad2b4",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicpositions.harvard.edu/postings/16785",
+ "us": false
+}

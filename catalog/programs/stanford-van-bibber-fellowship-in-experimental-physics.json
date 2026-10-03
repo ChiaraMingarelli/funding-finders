@@ -1,0 +1,29 @@
+{
+ "a": "$90,000 + $8,000/yr research/travel; 3 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-01",
+ "dt": "Nov 1, 2026, 12:00 pm PST",
+ "e": "Experimental particle and AMO physics with emphasis on instrumentation; applicant identifies host. Not open to current Stanford affiliates; start Jun-Dec 2027.",
+ "f": "Stanford University, Varian Physics",
+ "fields": [
+  "ppx",
+  "amo",
+  "inst"
+ ],
+ "id": "stanford-van-bibber-fellowship-in-experimental-physics",
+ "n": "Stanford: Van Bibber Fellowship in Experimental Physics",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32797",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32797",
+ "us": false
+}

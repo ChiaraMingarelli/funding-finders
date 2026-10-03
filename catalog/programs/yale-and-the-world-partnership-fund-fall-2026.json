@@ -1,0 +1,29 @@
+{
+ "a": "Up to $30,000",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Yale internal",
+ "checked": "2026-09-30",
+ "d": "2026-10-21",
+ "dt": "Internal deadline Oct 21, 2026.",
+ "e": "Yale faculty and staff eligible to serve as PIs, for international collaborations on issues of global significance (e.g. workshops or partner visits with institutions abroad). Contact: nathan.camp@yale.edu.",
+ "f": "Yale Office of the Vice President for Global Strategy",
+ "fields": [
+  "all"
+ ],
+ "id": "yale-and-the-world-partnership-fund-fall-2026",
+ "n": "Yale and the World Partnership Fund (fall 2026 call)",
+ "nom": false,
+ "s": "open",
+ "src": "other:yale-world-fall-2026",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://world.yale.edu/news/spring-2026-yale-and-the-world-partnership-fund-awardees-announced",
+ "us": false
+}

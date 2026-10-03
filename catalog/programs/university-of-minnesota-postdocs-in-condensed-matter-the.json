@@ -1,0 +1,27 @@
+{
+ "a": "not listed",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": null,
+ "dt": "open until filled; apply via UMN job 376108",
+ "e": "Quantum many-body systems, superconductivity and correlated electrons. CV, research statement, 3 letters; start immediately.",
+ "f": "University of Minnesota, School of Physics and Astronomy / Fine Theoretical Physics Institute (Oskar Vafek)",
+ "fields": [
+  "cmt"
+ ],
+ "id": "university-of-minnesota-postdocs-in-condensed-matter-the",
+ "n": "University of Minnesota: Postdocs in Condensed Matter Theory (Vafek)",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32783",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32783",
+ "us": false
+}

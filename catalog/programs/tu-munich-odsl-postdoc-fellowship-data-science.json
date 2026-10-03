@@ -1,0 +1,27 @@
+{
+ "a": "TV-L E13; 2 years, renewable",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Full consideration by Sep 30, 2026; applications are still considered until the position is filled.",
+ "e": "Interdisciplinary research with ML, AI and simulation-based inference. Requires a PhD in physics or astrophysics; data science expertise preferred.",
+ "f": "TU Munich / ORIGINS Data Science Lab; Lukas Heinrich",
+ "fields": [
+  "ds",
+  "ppx"
+ ],
+ "id": "tu-munich-odsl-postdoc-fellowship-data-science",
+ "n": "TU Munich: ODSL Postdoc Fellowship (data science)",
+ "nom": false,
+ "s": "rolling",
+ "src": "inspire:3199251",
+ "stages": [
+  "pd"
+ ],
+ "u": "http://www.decodingnature.com",
+ "us": false
+}

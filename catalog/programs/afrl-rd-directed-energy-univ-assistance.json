@@ -1,0 +1,35 @@
+{
+ "a": "Grants/cooperative agreements, 1–5 years; program ceiling $49M",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": "2029-07-18",
+ "dt": "Mandatory letter of intent any time; FOA open to July 18, 2029",
+ "e": "Grants and cooperative agreements with U.S. colleges and universities for directed-energy research. Topics include solid-state and fiber lasers, beam control, optical components and coatings, adaptive optics, free-space quantum communication and networking, and high-power microwaves. Only accredited U.S. degree-granting institutions may apply, and a letter of intent is required before any application.",
+ "f": "Air Force Research Laboratory (AFRL/RD)",
+ "fields": [
+  "phot",
+  "qp",
+  "dev"
+ ],
+ "id": "afrl-rd-directed-energy-univ-assistance",
+ "n": "AFRL Directed Energy Directorate: University Assistance Instruments (RDK-RAD-FOA-2024)",
+ "nofo": [
+  {
+   "opp": "RDK-RAD-FOA-2024",
+   "u": "https://simpler.grants.gov/opportunity/6db2ce81-3523-4a4e-84b8-65b6aaac9f28"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "src": "grants:RDK-RAD-FOA-2024",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/6db2ce81-3523-4a4e-84b8-65b6aaac9f28",
+ "us": false
+}

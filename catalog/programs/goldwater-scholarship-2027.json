@@ -1,0 +1,42 @@
+{
+ "a": "Scholarship for tuition/fees/books (up to 2 yrs)",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2027-01-29",
+ "dt": "National nomination Jan 29, 2027, 5 pm CT (last Fri of Jan); Yale internal deadline ~early Nov",
+ "e": "Sophomores and juniors headed for research careers; must be nominated by the institution; US citizens/PR/nationals.",
+ "f": "Barry Goldwater Scholarship Foundation",
+ "fields": [
+  "all"
+ ],
+ "id": "goldwater-scholarship-2027",
+ "n": "Goldwater Scholarship (2027)",
+ "nfit": "Low",
+ "ng": {
+  "dt": "National nomination Jan 29, 2027, 5 pm CT; campus nomination deadlines are usually in the fall",
+  "unv": ""
+ },
+ "nom": true,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://goldwaterscholarship.gov/",
+ "unv": "Yale internal date per coordinator",
+ "us": true,
+ "yale": {
+  "d": "2026-11-10",
+  "t": "Yale campus deadline: 1:00 PM ET, Nov 10, 2026, via the Yale Student Grants Database (applications open Sep 5, 2026). Yale College nominates up to 4 sophomores or juniors; GPA 3.5 or higher. The national deadline is in late January.",
+  "u": "https://funding.yale.edu/external-award/barry-m-goldwater-scholarship",
+  "unv": "The date comes from the CommunityForce fund page linked from funding.yale.edu. The funding.yale.edu page itself still shows an old 2019 date."
+ }
+}

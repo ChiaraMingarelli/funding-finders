@@ -1,0 +1,28 @@
+{
+ "a": "1 year, possibly extended to a 2nd",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": null,
+ "dt": "page lists '2026/09/31' (sic); listed until 2027-01-21; apply by email",
+ "e": "Strongly correlated and topological systems using DMRG, tensor networks, exact diagonalization and Monte Carlo. Cover letter, CV, 2 letters to donna.sheng@csun.edu.",
+ "f": "California State University, Northridge, Sheng group (Donna Sheng)",
+ "fields": [
+  "cmt",
+  "amo"
+ ],
+ "id": "csun-postdoc-in-condensed-matter-theory-sheng-group",
+ "n": "CSUN: Postdoc in Condensed Matter Theory (Sheng group)",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32340",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32340",
+ "us": false
+}

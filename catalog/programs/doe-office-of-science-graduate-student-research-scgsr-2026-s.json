@@ -1,0 +1,41 @@
+{
+ "a": "Supplemental award for 3 to 12 months of thesis research at a DOE lab",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-11-04",
+ "dt": "Nov 4, 2026, 5 pm ET",
+ "e": "US citizens or permanent residents in PhD programs, working with a DOE lab scientist.",
+ "f": "DOE Office of Science",
+ "fields": [
+  "all",
+  "ppx",
+  "ppt",
+  "nux",
+  "nut",
+  "inst",
+  "ds",
+  "qp",
+  "cmx",
+  "cmt",
+  "amo"
+ ],
+ "id": "doe-office-of-science-graduate-student-research-scgsr-2026-s",
+ "n": "DOE Office of Science Graduate Student Research (SCGSR), 2026 Solicitation 2",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://science.osti.gov/wdts/scgsr",
+ "us": true
+}

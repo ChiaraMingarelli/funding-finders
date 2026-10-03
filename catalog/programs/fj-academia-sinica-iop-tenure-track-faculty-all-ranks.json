@@ -1,0 +1,28 @@
+{
+ "a": "Tenure-track research fellow, all ranks (university-faculty equivalent)",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Full-consideration date was Oct 1, 2026; later applications may be reviewed until the positions are filled (AJO listing to Dec 1, 2026).",
+ "e": "Priority areas include gravitational physics, cosmology and astroparticle physics; KAGRA/LIGO involvement. Start Sep 1, 2027.",
+ "f": "Institute of Physics, Academia Sinica",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-academia-sinica-iop-tenure-track-faculty-all-ranks",
+ "n": "Academia Sinica IoP: Tenure-Track Faculty (all ranks)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "rolling",
+ "src": "ajo:32236",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32236",
+ "us": false
+}

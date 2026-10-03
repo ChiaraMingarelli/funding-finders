@@ -1,0 +1,36 @@
+{
+ "a": "5-year Associate Staff Scientist appointment with research support; review for continuing staff at or before the end.",
+ "added": "2026-09-29",
+ "asub": [],
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "SLAC says the 2027 call will be 'announced by late September' with a deadline 'anticipated to be in mid-November' 2026. The 2026 deadline was 2025-11-14.",
+ "e": "Early-career PhDs; postdoc experience not strictly required. Fields across the SLAC mission, including particle physics and astrophysics.",
+ "f": "SLAC National Accelerator Laboratory",
+ "fields": [
+  "ppx",
+  "ppt",
+  "astro",
+  "inst",
+  "qp"
+ ],
+ "id": "slac-panofsky-fellowship",
+ "n": "SLAC Panofsky Fellowship",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://cro.slac.stanford.edu/career-pathways/panofsky-fellowship",
+ "unv": "Exact 2026 deadline not yet posted",
+ "us": false
+}

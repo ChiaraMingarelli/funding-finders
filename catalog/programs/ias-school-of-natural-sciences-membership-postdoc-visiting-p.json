@@ -1,0 +1,40 @@
+{
+ "a": "Stipend + housing eligibility; sabbatical stipends vary",
+ "added": "2026-09-29",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Sabbatical",
+ "checked": "2026-09-29",
+ "d": "2026-11-15",
+ "dt": "Nov 15, 2026 (physics & astrophysics); biology has no fixed deadline",
+ "e": "Postdoctoral members (3 yr), long-term members/Bahcall Fellows, visiting professorships for faculty within 10 yrs of PhD, and sabbaticals for senior scientists. Theory-focused.",
+ "f": "Institute for Advanced Study",
+ "fields": [
+  "astro",
+  "ppt",
+  "grav",
+  "cmt",
+  "bio"
+ ],
+ "id": "ias-school-of-natural-sciences-membership-postdoc-visiting-p",
+ "n": "IAS School of Natural Sciences Membership (postdoc, visiting professor, sabbatical)",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "pd",
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.ias.edu/sns/apply",
+ "us": false
+}

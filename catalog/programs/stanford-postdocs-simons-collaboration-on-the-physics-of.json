@@ -1,0 +1,27 @@
+{
+ "a": "not listed",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": null,
+ "dt": "no deadline stated",
+ "e": "Understanding AI through theory and numerical experiments using tools from physics, math, CS and neuroscience.",
+ "f": "Stanford Institute for Theoretical Physics, Simons Collaboration on the Physics of Learning and Neural Computation (Surya Ganguli, Eva Silverstein)",
+ "fields": [
+  "ds"
+ ],
+ "id": "stanford-postdocs-simons-collaboration-on-the-physics-of",
+ "n": "Stanford: Postdocs, Simons Collaboration on the Physics of Learning",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:31056",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/31056",
+ "us": false
+}

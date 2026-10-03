@@ -1,0 +1,35 @@
+{
+ "a": "not listed",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2027-05-07",
+ "dt": "Posted 2024-04-23",
+ "e": "Investigators with quantitative backgrounds (math, physics, CS, statistics) moving into health research; clinical-trial-not-allowed version.",
+ "f": "NIH",
+ "fields": [
+  "bio",
+  "ds"
+ ],
+ "id": "nih-mentored-quantitative-research-development-award-k25",
+ "n": "NIH Mentored Quantitative Research Development Award (K25)",
+ "nofo": [
+  {
+   "opp": "PA-24-191",
+   "u": "https://simpler.grants.gov/opportunity/bfff80db-fe94-4069-b095-ea79fe5fe2c8"
+  }
+ ],
+ "nom": false,
+ "pt": "other",
+ "s": "open",
+ "stages": [
+  "pd",
+  "tt"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/bfff80db-fe94-4069-b095-ea79fe5fe2c8",
+ "us": false
+}

@@ -1,0 +1,30 @@
+{
+ "a": "$17,500",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Scholarship",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "Awarded by graduate programs/faculties (UBC lists deadline as 'ongoing')",
+ "e": "For Canadian citizens and permanent residents in master's or PhD programs at BC universities, with priority for STEM. Relevant for students at UBC (a NANOGrav/CHIME institution).",
+ "f": "Province of BC / BC universities",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "british-columbia-graduate-scholarship-bcgs",
+ "n": "British Columbia Graduate Scholarship (BCGS)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "Canada",
+ "s": "rolling",
+ "src": "other:ubc",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://www.grad.ubc.ca/awards/british-columbia-graduate-scholarship",
+ "unv": "International eligibility not stated; selection is via departmental nomination",
+ "us": false
+}

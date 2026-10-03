@@ -1,0 +1,37 @@
+{
+ "a": "Panels: up to $500,000/yr for 3 years, at most 2 awards each",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": "2026-11-22",
+ "dt": "Analog/natural-systems computing panel: pre-application by Nov 22, 2026. Quantum routing panel: pre-application by Jan 10, 2027. Other topics are open year-round.",
+ "e": "ASCR runs two panels with required pre-applications: one on foundations of analog computing and computing with physical systems, and one on quantum routing for fault-tolerant hardware. It also accepts year-round applications on quantum computing and networking software, testbeds and microelectronics for scientific computing. U.S. universities may apply.",
+ "f": "DOE Office of Science (ASCR)",
+ "fields": [
+  "qp",
+  "ds",
+  "phot"
+ ],
+ "id": "doe-sc-ascr-quantum-analog-fy27",
+ "n": "DOE ASCR Quantum Computing, Quantum Routing, Analog Computing & Advanced Computing Technologies panels – FY2027 Open Call",
+ "nofo": [
+  {
+   "opp": "DE-FOA-0003665",
+   "u": "https://simpler.grants.gov/opportunity/53270f52-3c80-4fe0-bd26-d9411d9b251e"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:DE-FOA-0003665",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://science.osti.gov/grants/FOAs/Open",
+ "unv": "The ACT topic excludes developing new physical qubits.",
+ "us": false
+}

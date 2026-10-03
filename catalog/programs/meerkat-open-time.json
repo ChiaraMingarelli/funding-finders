@@ -1,0 +1,35 @@
+{
+ "a": "At least 2000 hours in a 12-month cycle; Regular (up to 100 h), Large (100-300 h) and Extra-Large (300-2000 h) proposals",
+ "added": "2026-10-03",
+ "asub": [],
+ "aud": [
+  "ast",
+  "ng"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "2026 call (OT7) closed 15 Jul 2026, 12:00 UTC; next call not posted",
+ "e": "MeerKAT's yearly open-time call. Any researcher may lead a proposal, including postdocs and PhD students, from any institution.",
+ "f": "SARAO MeerKAT",
+ "fields": [
+  "astro"
+ ],
+ "id": "meerkat-open-time",
+ "n": "MeerKAT Open Time Call",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "watch",
+ "src": "other:meerkat-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://skaafrica.atlassian.net/wiki/spaces/ESDKB/pages/3080126470/2026+Call+for+Proposals",
+ "unv": "Next call date",
+ "us": false
+}

@@ -1,0 +1,32 @@
+{
+ "a": "Large, multi-year legacy observing programs. About 3 Ms is available in the first year starting June 1, 2027, and programs can run up to three years (June 2027 to May 2030). Data have no exclusive-use period. NASA plans to fund US-based investigators of successful proposals; details will be announced later.",
+ "added": "2026-10-03",
+ "asub": [],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": "2026-12-03",
+ "dt": "Due Thursday, December 3, 2026, 23:59 UT (6:59 p.m. EST; 08:59 JST December 4). Submission is only through ARK/RPS at ISAS/JAXA, which opens mid-October 2026 and needs a separate JAXA account.",
+ "e": "First call for XRISM Key Programs, large legacy X-ray spectroscopy programs reviewed by a single international TAC, open to scientists worldwide with no restriction on affiliation. TAC reviewers may not be PI or Co-I.",
+ "f": "JAXA / XRISM Project (NASA plans funding for US investigators)",
+ "fields": [
+  "astro"
+ ],
+ "id": "xrism-key-program-first-call",
+ "n": "XRISM Key Program, First Call for Proposals",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "open",
+ "src": "other:xrism-kp-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://xrism.isas.jaxa.jp/research/proposer/key_program/index.html",
+ "unv": "The JAXA ARK/RPS for KP opens mid-October 2026, so it is not open yet. NASA funding amounts are not yet announced. The call does not state career-stage limits for PIs.",
+ "us": false
+}

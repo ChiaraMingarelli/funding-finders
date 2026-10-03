@@ -1,0 +1,27 @@
+{
+ "a": "$80,958/yr + benefits + travel; 2 years (+1)",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-20",
+ "dt": "2026/10/20 23:59:59 (time zone not stated on page); apply via UNM jobs req 38011",
+ "e": "Quantum computation, control, measurement, communication and simulation. PhD in a QIS-related discipline.",
+ "f": "University of New Mexico, Quantum New Mexico Institute (OVPR)",
+ "fields": [
+  "qp"
+ ],
+ "id": "university-of-new-mexico-qnm-i-postdoctoral-fellow",
+ "n": "University of New Mexico: QNM-I Postdoctoral Fellow",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32802",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32802",
+ "us": false
+}

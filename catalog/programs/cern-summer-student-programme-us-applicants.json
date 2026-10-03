@@ -1,0 +1,30 @@
+{
+ "a": "8-13 weeks at 94 CHF per day net subsistence; travel may be covered.",
+ "added": "2026-09-28",
+ "aud": [
+  "yale"
+ ],
+ "c": "Summer program",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Applications are normally due by end of January. CERN says students from the USA, Canada and Japan have dedicated application portals.",
+ "e": "Bachelor's or master's students (not PhD) with 6 or more semesters in physics, engineering, CS or math. All nationalities welcome; US students use the US-specific route.",
+ "f": "CERN",
+ "fields": [
+  "ppx",
+  "ppt",
+  "inst",
+  "ds"
+ ],
+ "id": "cern-summer-student-programme-us-applicants",
+ "n": "CERN Summer Student Programme (US applicants)",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://home.cern/summer-student-programme/",
+ "unv": "2027 deadline not posted",
+ "us": false
+}

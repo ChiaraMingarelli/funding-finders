@@ -1,0 +1,36 @@
+{
+ "a": "Conference/workshop support",
+ "added": "2026-09-28",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Foundation",
+ "checked": "2026-09-29",
+ "d": "2027-07-01",
+ "dt": "Submission window May 3 to Jul 1, 2027",
+ "e": "Organizers of scientific meetings in the foundation's science areas. Coordinator-verified.",
+ "f": "Heising-Simons Foundation",
+ "fields": [
+  "astro",
+  "ppx",
+  "ppt",
+  "grav",
+  "amo"
+ ],
+ "id": "heising-simons-science-events-gatherings",
+ "n": "Heising-Simons Science Events & Gatherings",
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.hsfoundation.org/",
+ "us": false
+}

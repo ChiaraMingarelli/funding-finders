@@ -1,0 +1,28 @@
+{
+ "a": "renewable up to 3 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-15",
+ "dt": "2026/10/15 23:59:59 (time zone not stated on page)",
+ "e": "Condensed matter theory and QIS: correlated and topological matter, non-equilibrium physics. Start Fall 2027.",
+ "f": "University of Illinois Urbana-Champaign, Anthony J. Leggett Institute for Condensed Matter Theory (Director Eduardo Fradkin)",
+ "fields": [
+  "cmt",
+  "qp"
+ ],
+ "id": "uiuc-leggett-and-moore-postdoctoral-fellowships",
+ "n": "UIUC: Leggett and Moore Postdoctoral Fellowships",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32638",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32638",
+ "us": false
+}

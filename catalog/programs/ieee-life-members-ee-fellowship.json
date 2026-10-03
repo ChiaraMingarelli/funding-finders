@@ -1,0 +1,28 @@
+{
+ "a": "$10,000/yr, renewable for a second year",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": "2027-05-03",
+ "dt": "Due first Monday after Apr 30 each year",
+ "e": "For first-year full-time graduate students (master's, or PhD if first graduate degree) who hold a BS in electrical engineering; graduating seniors may plan ahead.",
+ "f": "IEEE Life Members Fund / IEEE Foundation",
+ "fields": [
+  "dev"
+ ],
+ "id": "ieee-life-members-ee-fellowship",
+ "n": "IEEE Life Members Graduate Study Fellowship in Electrical Engineering",
+ "nom": false,
+ "s": "watch",
+ "src": "other:ieee-life",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://life.ieee.org/awards-fellowships/fellowships/graduate-study-fellowship-in-electrical-engineering/",
+ "unv": "2027 date computed from the stated rule",
+ "us": false
+}

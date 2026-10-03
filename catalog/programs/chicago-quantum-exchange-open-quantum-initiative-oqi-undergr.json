@@ -1,0 +1,29 @@
+{
+ "a": "$7,000 stipend plus housing and travel",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "2026 applications closed. 2027 dates not yet posted (typically a winter deadline). Hosts: UChicago, Argonne, Fermilab, UIUC, Purdue, UW–Madison, Northwestern, Ohio State.",
+ "e": "Undergrads at accredited US institutions who have finished freshman year and at least 4 STEM courses. No prior research needed. No citizenship requirement stated.",
+ "f": "Chicago Quantum Exchange",
+ "fields": [
+  "qp",
+  "amo",
+  "cmx"
+ ],
+ "id": "chicago-quantum-exchange-open-quantum-initiative-oqi-undergr",
+ "n": "Chicago Quantum Exchange – Open Quantum Initiative (OQI) Undergraduate Fellowship",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://chicagoquantum.org/oqi-undergraduate-fellowship",
+ "unv": "2027 deadline not posted.",
+ "us": false
+}

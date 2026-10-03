@@ -1,0 +1,38 @@
+{
+ "a": "Budgets and durations vary (26-523 total about $180M, 300 awards).",
+ "added": "2026-09-28",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Proposals accepted anytime under NSF 26-523; overview page says 'Full proposal accepted anytime'.",
+ "e": "Faculty PIs at eligible US institutions. NSF prefers one proposal routed for co-review over several related proposals.",
+ "f": "NSF MPS/PHY (NSF 26-523)",
+ "fields": [
+  "ppt",
+  "astro"
+ ],
+ "id": "nsf-mps-physics-elementary-particle-physics-astrophysics-cos",
+ "n": "NSF MPS Physics: Elementary Particle Physics, Astrophysics & Cosmology - Theory",
+ "nofo": [
+  {
+   "opp": "26-523",
+   "u": "https://simpler.grants.gov/opportunity/d4e9f37d-0a43-40de-94bb-4d007267df73"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/elementary-particle-physics-astrophysics-cosmology-theory",
+ "unv": "No program-specific target date posted as of 2026-09-28",
+ "us": false
+}

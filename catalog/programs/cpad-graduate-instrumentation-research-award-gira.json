@@ -1,0 +1,28 @@
+{
+ "a": "$45K per year stipend plus up to $65K in total tuition supplement. Up to 2 years.",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "The CPAD page lists an 'August 15, 2026' deadline, now past. Next cycle expected around summer 2027.",
+ "e": "Students in a US physics PhD program (no citizenship requirement), usually in year 2-3, doing HEP instrumentation research mainly in the US. A Yale student won in 2023.",
+ "f": "APS DPF Coordinating Panel on Advanced Detectors (DOE HEP-supported)",
+ "fields": [
+  "inst",
+  "ppx"
+ ],
+ "id": "cpad-graduate-instrumentation-research-award-gira",
+ "n": "CPAD Graduate Instrumentation Research Award (GIRA)",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://cpad-dpf.org/?page_id=285",
+ "unv": "The page also says the application 'opens imminently', so it is unclear whether the 2026 cycle ran",
+ "us": false
+}

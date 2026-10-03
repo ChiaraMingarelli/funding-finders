@@ -1,0 +1,27 @@
+{
+ "a": "SEK 30,000/month tax-free scholarship; 2 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-13",
+ "dt": "2026/12/13 23:59:59 (time zone not stated on page)",
+ "e": "Surface physics of spin-split 2D Pb films using STM and synchrotron ARPES/XPS; DFT experience a plus.",
+ "f": "Karlstad University, Dept. of Engineering and Physics, Materials Physics (Hanmin Zhang)",
+ "fields": [
+  "cmx"
+ ],
+ "id": "karlstad-university-postdoc-rashba-splitting-in-pb-quant",
+ "n": "Karlstad University: Postdoc, Rashba splitting in Pb quantum wells",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32071",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32071",
+ "us": false
+}

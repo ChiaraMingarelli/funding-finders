@@ -1,0 +1,24 @@
+{
+ "a": "Paid 10-week NSF REU (stipend not listed).",
+ "added": "2026-09-28",
+ "c": "Summer program",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "The summer 2026 cycle gave full consideration to applications by 2026-02-06 (via NSF ETAP). The 2027 cycle is not posted; it usually opens after Thanksgiving.",
+ "e": "NSF REU rules: usually US citizens or permanent residents enrolled as undergrads.",
+ "f": "Texas A&M Cyclotron Institute (NSF REU Site)",
+ "fields": [
+  "nux",
+  "nut"
+ ],
+ "id": "texas-a-m-cyclotron-institute-reu-nuclear-physics-chemistry",
+ "n": "Texas A&M Cyclotron Institute REU (Nuclear Physics & Chemistry)",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://cyclotron.tamu.edu/reu-archive/apply.php",
+ "unv": "2027 cycle and NSF renewal not confirmed",
+ "us": true
+}

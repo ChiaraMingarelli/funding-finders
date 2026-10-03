@@ -1,0 +1,30 @@
+{
+ "a": "At least US$50,000 for one year, plus one year of ECS membership",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Annual; 2026–27 cycle opened Feb 2026 and closed May 22, 2026",
+ "e": "One-year research fellowship for ECS members under 45 at institutions in the US, Canada, Mexico or Europe, working on batteries, fuel cells and hydrogen, or related sustainable technologies.",
+ "f": "The Electrochemical Society / Toyota Research Institute of North America",
+ "fields": [
+  "energy",
+  "mat"
+ ],
+ "id": "ecs-toyota-young-investigator-fellowship",
+ "n": "ECS Toyota Young Investigator Fellowship",
+ "nom": false,
+ "pt": "prize",
+ "s": "watch",
+ "src": "other:ecs",
+ "stages": [
+  "tt",
+  "pd"
+ ],
+ "u": "https://www.electrochem.org/toyota-fellowship",
+ "unv": "Dates for the 2027–28 cycle are not posted. Whether postdocs are eligible was not confirmed.",
+ "us": false
+}

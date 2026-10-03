@@ -1,0 +1,33 @@
+{
+ "a": "Typically a few hundred to ~$1,000+",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Travel",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Deadlines vary by unit and meeting (often ~2 to 3 months before a meeting)",
+ "e": "Students/postdocs presenting at society meetings; membership often required.",
+ "f": "APS units / AAS",
+ "fields": [
+  "all"
+ ],
+ "id": "aps-aas-student-and-early-career-travel-grants",
+ "n": "APS / AAS student and early-career travel grants",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "gr",
+  "pd",
+  "ug"
+ ],
+ "u": "https://www.aps.org/",
+ "unv": "Unit-by-unit dates not checked",
+ "us": false
+}

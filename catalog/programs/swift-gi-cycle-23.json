@@ -1,0 +1,34 @@
+{
+ "a": "Swift time plus NASA funding for US investigators",
+ "added": "2026-10-03",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "No Cycle 23 call posted; Cycle 22 closed 11 Sep 2025",
+ "e": "NASA's call for Swift observations and related studies. Open to all; NASA funding goes only to US investigators.",
+ "f": "NASA Neil Gehrels Swift Observatory",
+ "fields": [
+  "astro"
+ ],
+ "id": "swift-gi-cycle-23",
+ "n": "Swift Guest Investigator Cycle 23",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "watch",
+ "src": "other:swift-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://swift.gsfc.nasa.gov/proposals/",
+ "unv": "Whether Cycle 23 will be solicited: NASA called off the planned commercial reboost on Aug 19, 2026, and Swift resumed operating two of its three instruments on Aug 28",
+ "us": false
+}

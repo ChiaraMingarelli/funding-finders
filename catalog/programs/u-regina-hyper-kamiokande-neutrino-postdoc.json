@@ -1,0 +1,27 @@
+{
+ "a": "CAD 65–72k; 2 years, renewable",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-28",
+ "dt": "Oct 28, 2026",
+ "e": "Construction, commissioning and calibration for Hyper-Kamiokande. Requires a PhD in experimental physics, programming skills and detector experience.",
+ "f": "University of Regina, Physics; PI Nikolay Kolev",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "u-regina-hyper-kamiokande-neutrino-postdoc",
+ "n": "U. Regina: Hyper-Kamiokande neutrino postdoc",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3208411",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3208411",
+ "us": false
+}

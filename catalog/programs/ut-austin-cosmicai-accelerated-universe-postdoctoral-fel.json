@@ -1,0 +1,35 @@
+{
+ "a": "$80,000/yr; 2 years + possible 3rd",
+ "added": "2026-09-30",
+ "asub": [
+  "star",
+  "ism"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-23",
+ "dt": "Nov 23, 2026",
+ "e": "AI surrogate modeling of astrophysical systems, including star formation. For PhDs awarded Sept 2025–Sept 2027.",
+ "f": "University of Texas at Austin, Astronomy / Oden Institute; contact Stella Offner",
+ "fields": [
+  "astro",
+  "ds"
+ ],
+ "id": "ut-austin-cosmicai-accelerated-universe-postdoctoral-fel",
+ "n": "UT Austin: CosmicAI Accelerated Universe Postdoctoral Fellow",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "aas:6f3e50b2",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/6f3e50b2",
+ "us": false
+}

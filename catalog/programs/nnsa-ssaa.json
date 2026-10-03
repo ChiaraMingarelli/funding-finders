@@ -1,0 +1,31 @@
+{
+ "a": "not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "No open NOFO at present; recurring competition",
+ "e": "University grants and centers on materials under extreme conditions, high-energy-density physics, low-energy nuclear science and radiochemistry relevant to stockpile stewardship.",
+ "f": "DOE NNSA Office of Research, Development, Test & Evaluation",
+ "fields": [
+  "mat",
+  "cmx",
+  "phot"
+ ],
+ "id": "nnsa-ssaa",
+ "n": "NNSA Stewardship Science Academic Alliances (SSAA)",
+ "nom": false,
+ "s": "watch",
+ "src": "other:nnsa-ssaa",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nnsa-ap.us/Programs/Stewardship-Science-Academic-Alliances",
+ "unv": "Timing of the next NOFO is unknown.",
+ "us": false
+}

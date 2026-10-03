@@ -1,0 +1,35 @@
+{
+ "a": "$250,000 unrestricted to one laureate per category; $15,000 to each of 5 finalists",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Prize",
+ "checked": "2026-09-30",
+ "d": "2026-12-02",
+ "dt": "Nomination period Oct 7–Dec 2, 2026; age-exception requests by Nov 11, 2026; letters of support due Dec 16, 2026.",
+ "e": "Tenured or tenure-track faculty (or equivalent) with a doctorate who are active PIs at a US institution. Age rule for 2027: born in or after 1985* (the cutoff moves one year each cycle; it was 1984 for 2026). *Age-limit exceptions are considered only in exceptional circumstances, on a detailed written request from Yale to the NY Academy of Sciences by Nov 11, 2026. Yale nominates one person per category (Life Sciences, Physical Sciences & Engineering, Chemical Sciences). No citizenship requirement stated; unsuccessful past nominees can be re-nominated.",
+ "f": "Blavatnik Family Foundation / NY Academy of Sciences",
+ "fields": [
+  "all"
+ ],
+ "id": "blavatnik-national-awards-for-young-scientists-2027",
+ "n": "Blavatnik National Awards for Young Scientists (2027)",
+ "nom": true,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://blavatnikawards.org/awards/national-awards/nomination-guidelines/",
+ "unv": "Blavatnik's guidelines page still shows the 2026 cycle (born in or after 1984*); the 2027 cutoff of 1985 is from the 2027 nomination portal and university notices (CU Boulder, Vanderbilt).",
+ "us": false,
+ "yale": {
+  "d": "2026-10-28",
+  "t": "Yale limited submission: internal application due Oct 28, 2026 on InfoReady. Questions: internal.proposals@yale.edu.",
+  "u": "https://yale.infoready4.com/"
+ }
+}

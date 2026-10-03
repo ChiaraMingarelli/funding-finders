@@ -1,0 +1,28 @@
+{
+ "a": "Assistant Professor, tenure-track",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-10-15",
+ "dt": "Priority to applications by Oct 15, 2026",
+ "e": "All areas of physics considered; areas that complement current faculty are preferred.",
+ "f": "Dept. of Physics, Salisbury University",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-salisbury-univ-assistant-professor-physics",
+ "n": "Salisbury Univ.: Assistant Professor - Physics",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "other:physicstoday-41989294",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://jobs.physicstoday.org/job/41989294/",
+ "us": false
+}

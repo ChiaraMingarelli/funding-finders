@@ -1,0 +1,39 @@
+{
+ "a": "Five-year Ramón y Cajal fellowship on tenure-track trajectory toward permanent faculty; salary not listed",
+ "added": "2026-10-02",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-02",
+ "d": "2026-10-16",
+ "dt": "IFAE EoI by Oct 16, 2026; RyC national application window Nov 10 - Dec 10, 2026",
+ "e": "IFAE seeks candidates to endorse for the national Ramón y Cajal call, in theory, collider/neutrino experiment, ground-based GW interferometry, gamma-ray astroparticle physics or quantum computing technologies. Open to outstanding postdocs; no citizenship limit stated.",
+ "f": "Institut de Física d'Altes Energies (IFAE) / Spanish State Research Agency",
+ "fields": [
+  "ppx",
+  "ppt",
+  "grav",
+  "astro",
+  "qp"
+ ],
+ "id": "ifae-ramon-y-cajal-2026-eoi",
+ "n": "IFAE Barcelona: Ramón y Cajal Fellowship 2026 (call for expressions of interest)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3207363",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3207363",
+ "us": false
+}

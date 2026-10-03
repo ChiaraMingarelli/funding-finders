@@ -1,0 +1,33 @@
+{
+ "a": "Stipend possible for US citizens/PRs; travel/housing support may be available; a few weeks to 6 months",
+ "added": "2026-10-01",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "Rolling; contact NRAO scientists directly (summer positions go through the summer program instead)",
+ "e": "For early-stage (1st–2nd year) grad students in astronomy, physics, engineering, math or CS. Stipends only for US citizens/PRs. Hands-on radio/GBT research with NRAO staff.",
+ "f": "NSF NRAO",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "nrao-graduate-student-researcher-program",
+ "n": "NRAO Graduate Student Researcher program",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "other:nrao",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://science.nrao.edu/opportunities/co-op-internships/coop",
+ "us": false
+}

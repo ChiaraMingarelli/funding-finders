@@ -1,0 +1,28 @@
+{
+ "a": "Assistant Professor, tenure-track",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-11-15",
+ "dt": "Deadline/review Nov 15, 2026",
+ "e": "Observational astronomy; ISM, dust evolution and star/planet formation preferred.",
+ "f": "Dept. of Physics, University of Texas at El Paso",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-utep-asst-prof-observational-astronomy",
+ "n": "UTEP: Asst Prof, Observational Astronomy",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "aas:bc3bd0d1",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://apptrkr.com/9774400",
+ "us": false
+}

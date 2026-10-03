@@ -1,0 +1,26 @@
+{
+ "a": "Gold $400; Silver $200; optional Arthur Nowick Award $500",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Prize",
+ "checked": "2026-10-03",
+ "d": "2026-10-31",
+ "dt": "11:59 pm EDT; requires an abstract for the 2027 MRS Spring Meeting",
+ "e": "Awards for graduate students who author or co-author an accepted abstract at the 2027 MRS Spring Meeting, with advisor endorsement. Previous Gold winners are not eligible.",
+ "f": "Materials Research Society",
+ "fields": [
+  "mat"
+ ],
+ "id": "mrs-graduate-student-awards-spring-2027",
+ "n": "MRS Graduate Student Awards (2027 Spring Meeting)",
+ "nom": false,
+ "s": "open",
+ "src": "other:mrs",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://gsa.mrs.org/",
+ "us": false
+}

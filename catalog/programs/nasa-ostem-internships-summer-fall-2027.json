@@ -1,0 +1,34 @@
+{
+ "a": "Paid internship",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-09-29",
+ "d": "2027-02-26",
+ "dt": "Feb 26, 2027 (per coordinator)",
+ "e": "US citizens; minimum GPA applies.",
+ "f": "NASA",
+ "fields": [
+  "astro",
+  "all"
+ ],
+ "id": "nasa-ostem-internships-summer-fall-2027",
+ "n": "NASA OSTEM Internships (Summer/Fall 2027)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://intern.nasa.gov/",
+ "unv": "Date per coordinator; not re-verified",
+ "us": true
+}

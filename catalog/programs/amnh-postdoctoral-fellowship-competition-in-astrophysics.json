@@ -1,0 +1,35 @@
+{
+ "a": "not listed; 2 years",
+ "added": "2026-09-30",
+ "asub": [
+  "exo",
+  "star",
+  "ism"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-16",
+ "dt": "Oct 16, 2026 (department stage; museum-wide competition Nov 15)",
+ "e": "Exoplanets, brown dwarfs, star formation, cluster dynamics and more. Contact a curator first.",
+ "f": "American Museum of Natural History, Department of Astrophysics; contact Cheryl Mayefsky",
+ "fields": [
+  "astro"
+ ],
+ "id": "amnh-postdoctoral-fellowship-competition-in-astrophysics",
+ "n": "AMNH: Postdoctoral Fellowship competition in astrophysics",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "aas:e7317b1f",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/e7317b1f",
+ "us": false
+}

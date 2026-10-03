@@ -1,0 +1,29 @@
+{
+ "a": "2 years renewable for 3rd; salary not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-03",
+ "d": "2026-11-16",
+ "dt": "Due Nov 16, 2026 (AJO)",
+ "e": "Theory postdocs in topological phases on quantum devices, quantum error correction and fault tolerance, non-equilibrium dynamics and generalized symmetries; strong applicants may be considered for a Simons Targeted Research Group fellowship.",
+ "f": "Stony Brook University, C.N. Yang Institute for Theoretical Physics",
+ "fields": [
+  "cmt",
+  "qp"
+ ],
+ "id": "stonybrook-yitp-postdoc-2027",
+ "n": "Stony Brook YITP: Postdocs incl. Topological Matter, QEC and Quantum Dynamics",
+ "nom": false,
+ "pt": "group",
+ "s": "open",
+ "src": "ajo:32928",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32928",
+ "us": false
+}

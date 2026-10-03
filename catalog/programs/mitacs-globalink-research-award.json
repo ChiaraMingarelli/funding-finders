@@ -1,0 +1,38 @@
+{
+ "a": "$6,000 for a 12–24 week project; $12,000 for 24–48 weeks or two projects",
+ "added": "2026-10-01",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Travel",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "Rolling; apply at least 16 weeks before planned start",
+ "e": "For senior undergraduates, graduate students and postdocs (within 5 years of PhD) on research exchanges into or out of Canada. Most countries are eligible, including the US. Funds research visits between US and Canadian NANOGrav/CHIME groups.",
+ "f": "Mitacs",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "mitacs-globalink-research-award",
+ "n": "Mitacs Globalink Research Award",
+ "nfit": "High",
+ "nom": false,
+ "pt": "other",
+ "region": "Canada",
+ "s": "rolling",
+ "src": "other:mitacs",
+ "stages": [
+  "gr",
+  "ug",
+  "pd"
+ ],
+ "u": "https://www.mitacs.ca/our-programs/globalink-research-award/",
+ "unv": "Institution-level allocations and internal deadlines vary (e.g. UBC)",
+ "us": false
+}

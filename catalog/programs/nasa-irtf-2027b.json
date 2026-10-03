@@ -1,0 +1,32 @@
+{
+ "a": "Infrared time on the 3-m IRTF on Maunakea",
+ "added": "2026-10-03",
+ "asub": [],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Standing schedule: semester B calls open 1 Mar to 1 Apr (HST); 2027A closed 1 Oct 2026, 5 pm HST",
+ "e": "NASA's 3-m infrared telescope, with calls twice a year. Open to the general community.",
+ "f": "NASA Infrared Telescope Facility",
+ "fields": [
+  "astro"
+ ],
+ "id": "nasa-irtf-2027b",
+ "n": "NASA IRTF Semester 2027B",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "watch",
+ "src": "other:irtf-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://irtfweb.ifa.hawaii.edu/observing/callforproposals/",
+ "unv": "2027B call not yet posted (the date range is the standing schedule); student PI eligibility",
+ "us": false
+}

@@ -1,0 +1,36 @@
+{
+ "a": "1 year, extendible up to 2 more",
+ "added": "2026-09-30",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-11-15",
+ "dt": "2026/11/15 23:59:59 (time zone not stated on page)",
+ "e": "Department-wide search open to all physics areas, with preference for astrophysics/cosmology or condensed matter. PhD 2024 or later (2026 preferred); start Apr 1-Sep 1, 2027.",
+ "f": "Columbia University, Department of Physics",
+ "fields": [
+  "astro",
+  "cmx",
+  "cmt"
+ ],
+ "id": "columbia-postdoctoral-research-scientist-physics",
+ "n": "Columbia: Postdoctoral Research Scientist (Physics)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32792",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32792",
+ "us": false
+}

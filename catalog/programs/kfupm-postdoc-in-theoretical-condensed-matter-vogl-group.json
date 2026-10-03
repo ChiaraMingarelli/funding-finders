@@ -1,0 +1,28 @@
+{
+ "a": "not listed",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": null,
+ "dt": "review immediate, until filled (listed until 2027-03-06)",
+ "e": "Strongly correlated electrons, quantum magnetism, non-equilibrium phases and quantum information. PhD within last 5 years.",
+ "f": "King Fahd University of Petroleum and Minerals, Physics Department (Michael Vogl)",
+ "fields": [
+  "cmt",
+  "qp"
+ ],
+ "id": "kfupm-postdoc-in-theoretical-condensed-matter-vogl-group",
+ "n": "KFUPM: Postdoc in Theoretical Condensed Matter (Vogl group)",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32626",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32626",
+ "us": false
+}

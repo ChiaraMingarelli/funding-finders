@@ -1,0 +1,28 @@
+{
+ "a": "3 years, fully funded plus travel",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-11-06",
+ "dt": "Nominations opened Aug 25; candidate materials due Nov 6, 2026.",
+ "e": "Theorists nominated by a faculty or permanent research staff member.",
+ "f": "Princeton University PCTS",
+ "fields": [
+  "cmt",
+  "qp",
+  "amo"
+ ],
+ "id": "princeton-center-for-theoretical-science-pcts-postdoctoral-f",
+ "n": "Princeton Center for Theoretical Science (PCTS) Postdoctoral Fellowship",
+ "nom": true,
+ "s": "open",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://pcts.princeton.edu/nominations",
+ "us": false
+}

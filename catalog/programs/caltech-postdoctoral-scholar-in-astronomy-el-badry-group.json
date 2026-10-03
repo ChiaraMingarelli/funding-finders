@@ -1,0 +1,34 @@
+{
+ "a": "$76,000-$82,000; 2 years, renewable for a 3rd",
+ "added": "2026-09-30",
+ "asub": [
+  "galac",
+  "star"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-11-10",
+ "dt": "2026/11/10 23:59:59 (time zone not stated on page)",
+ "e": "Observational binary/multiple-star and compact-object astrophysics with Gaia DR4, Roman, SDSS-V, ZTF and Euclid. Start Aug 1, 2027.",
+ "f": "Caltech, Division of Physics, Mathematics & Astronomy (Kareem El-Badry)",
+ "fields": [
+  "astro"
+ ],
+ "id": "caltech-postdoctoral-scholar-in-astronomy-el-badry-group",
+ "n": "Caltech: Postdoctoral Scholar in Astronomy (El-Badry group)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32426",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32426",
+ "us": false
+}

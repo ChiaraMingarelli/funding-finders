@@ -1,0 +1,34 @@
+{
+ "a": "$100M program; ~275 awards expected",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Proposals accepted anytime",
+ "e": "Consolidated CMMI solicitation; AMDO funds manufacturing and materials-processing research (including nanomanufacturing) and MAMS funds deformation and failure of engineered and biological materials. No limits on proposals per PI; no citizenship restriction.",
+ "f": "NSF ENG/CMMI",
+ "fields": [
+  "mat",
+  "dev"
+ ],
+ "id": "nsf-eng-cmmi-amdo-mams",
+ "n": "NSF ENG CMMI (NSF 26-515): Advanced Manufacturing, Design & Operations (AMDO) and Mechanics of Advanced Materials Systems (MAMS)",
+ "nofo": [
+  {
+   "opp": "26-515",
+   "u": "https://simpler.grants.gov/opportunity/a0e833b4-2a2c-4f1e-bdbb-7b625962adb3"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "src": "grants:26-515",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/engineering-eng-civil-mechanical-manufacturing-innovation/nsf26-515/solicitation",
+ "us": false
+}

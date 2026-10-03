@@ -1,0 +1,28 @@
+{
+ "a": "TVöD Bund; 2 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-31",
+ "dt": "Oct 31, 2026",
+ "e": "Development of quantum sensors and qubit technology (listed at postdoc level). Requires a PhD in physics or engineering with a quantum sensing background.",
+ "f": "Max Planck Semiconductor Laboratory (HLL), Munich; contact Jelena Ninkovic",
+ "fields": [
+  "qp",
+  "inst"
+ ],
+ "id": "mpg-semiconductor-lab-quantum-sensors-qubit-technology-s",
+ "n": "MPG Semiconductor Lab: Quantum sensors & qubit technology scientist",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3208119",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3208119",
+ "us": false
+}

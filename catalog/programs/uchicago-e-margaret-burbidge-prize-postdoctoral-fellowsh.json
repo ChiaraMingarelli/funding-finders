@@ -1,0 +1,38 @@
+{
+ "a": "$80,000/yr + $15,000/yr research; up to 3 years",
+ "added": "2026-09-30",
+ "asub": [
+  "cos",
+  "exo",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-01",
+ "dt": "2026/11/01 23:59:59 (time zone not stated on page); letters by Nov 8; review begins Nov 9",
+ "e": "Any area of astrophysics (cosmology, dark matter, exoplanets, gravitational, high-energy, particle astrophysics). PhD Jun 2023-Sep 2027; start Fall 2027.",
+ "f": "University of Chicago, Department of Astronomy and Astrophysics",
+ "fields": [
+  "astro",
+  "grav",
+  "ppx"
+ ],
+ "id": "uchicago-e-margaret-burbidge-prize-postdoctoral-fellowsh",
+ "n": "UChicago: E. Margaret Burbidge Prize Postdoctoral Fellowship",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32565",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32565",
+ "us": false
+}

@@ -1,0 +1,35 @@
+{
+ "a": "€4,552–5,758 gross/month; 3 years (2+1)",
+ "added": "2026-09-30",
+ "asub": [
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-06",
+ "dt": "Nov 6, 2026, 11:59 CET (as listed)",
+ "e": "Any radio astronomy direction; preference for candidates with instrument development or commissioning interests (LOFAR, WSRT, EVN, SKA).",
+ "f": "ASTRON, Netherlands Institute for Radio Astronomy; contact J. R. Callingham",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "astron-bell-burnell-postdoctoral-fellowship",
+ "n": "ASTRON: Bell Burnell Postdoctoral Fellowship",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:783d4e4a",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://werkenbijastron.nl/job-offer/?o=bell-burnell-postdoctoral-fellowship-1",
+ "us": false
+}

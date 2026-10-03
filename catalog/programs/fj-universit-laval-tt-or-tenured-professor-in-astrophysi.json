@@ -1,0 +1,28 @@
+{
+ "a": "Tenure-track or tenured professor",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-12-31",
+ "dt": "Deadline Dec 31, 2026",
+ "e": "Extragalactic astrophysics preferred (galaxies, ISM, AGN, clusters, cosmology; ML/big data an asset). Teaching in French, with support to learn. Canadians/PRs prioritized. Start by Sep 1, 2027.",
+ "f": "Dept. of Physics, Engineering Physics & Optics, Université Laval",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-universit-laval-tt-or-tenured-professor-in-astrophysi",
+ "n": "Université Laval: TT or Tenured Professor in Astrophysics",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "Canada",
+ "s": "open",
+ "src": "other:casca-laval",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://www.rh.ulaval.ca/emplois-disponibles/corps-professoral/professeures-et-professeurs/HCM/11197",
+ "us": false
+}

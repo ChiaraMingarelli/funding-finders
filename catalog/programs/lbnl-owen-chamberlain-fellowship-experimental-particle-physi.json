@@ -1,0 +1,37 @@
+{
+ "a": "3 years, renewable for 2 more. $6,777-$7,145 per month (union scale) plus a $10K per year research supplement.",
+ "added": "2026-09-29",
+ "asub": [
+  "cos",
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-10-18",
+ "dt": "Complete application and all reference letters due 2026-10-18 (AJO #32681). Start typically September 2027.",
+ "e": "PhD by start and no more than 24 months of prior postdoc. 2027 priorities: cosmology, direct dark matter searches, rare-event searches with quantum sensors, and quantum simulation.",
+ "f": "Lawrence Berkeley National Laboratory - Physics Division",
+ "fields": [
+  "ppx",
+  "astro",
+  "inst",
+  "qp"
+ ],
+ "id": "lbnl-owen-chamberlain-fellowship-experimental-particle-physi",
+ "n": "LBNL Owen Chamberlain Fellowship (Experimental Particle Physics & Cosmology)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32681",
+ "us": false
+}

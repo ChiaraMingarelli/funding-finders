@@ -1,0 +1,29 @@
+{
+ "a": "Tenure-track; entry-level about INR 2,45,410/month; 5+ year initial term, extendable; 4 positions",
+ "added": "2026-10-02",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-02",
+ "d": "2026-12-31",
+ "dt": "Deadline 31 Dec 2026",
+ "e": "Four tenure-track faculty roles developing instruments, software or algorithms for radio astronomy, combining independent research with facility support. Needs a PhD and a strong record in radio-astronomy technology; no citizenship limits stated.",
+ "f": "National Centre for Radio Astrophysics, TIFR (Pune)",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "fj-ncra-tifr-technology-development",
+ "n": "NCRA-TIFR: Faculty Positions (Technology Development)",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:29bcfa64",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://www.ncra.tifr.res.in/jobs/academic/faculty",
+ "us": false
+}

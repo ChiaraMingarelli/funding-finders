@@ -1,0 +1,32 @@
+{
+ "a": "Up to 3 years, renewed annually, with competitive salary and a research-support stipend. Years 1-2 fully LDRD-funded.",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last deadline Oct 1, 2026; the next cycle is not posted yet",
+ "e": "PhD within 5 years of application, or finished before the start date. Open internationally. Needs a research proposal and an Argonne host.",
+ "f": "Argonne National Laboratory (LDRD named fellowships)",
+ "fields": [
+  "nux",
+  "nut",
+  "ppx",
+  "ppt",
+  "inst",
+  "ds",
+  "qp"
+ ],
+ "id": "argonne-maria-goeppert-mayer-walter-massey-fellowships",
+ "n": "Argonne Maria Goeppert Mayer & Walter Massey Fellowships",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.anl.gov/hr/ldrd-named-fellowships",
+ "us": false
+}

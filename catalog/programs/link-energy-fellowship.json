@@ -1,0 +1,29 @@
+{
+ "a": "$45,000/yr for 2 years",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last cycle due Dec 14, 2025; next cycle expected Dec 2026 (not yet posted)",
+ "e": "Two-year fellowship for PhD students doing energy-related research, paid as academic-year and summer stipend. No citizenship limits.",
+ "f": "Link Foundation",
+ "fields": [
+  "energy",
+  "mat",
+  "dev"
+ ],
+ "id": "link-energy-fellowship",
+ "n": "Link Foundation Energy Fellowship",
+ "nom": false,
+ "s": "watch",
+ "src": "other:linkenergy",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://www.linkenergy.org/",
+ "unv": "2026-27 cycle deadline not yet posted on timetable page",
+ "us": false
+}

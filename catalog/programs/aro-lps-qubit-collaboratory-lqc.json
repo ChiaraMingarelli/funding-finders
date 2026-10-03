@@ -1,0 +1,37 @@
+{
+ "a": "not listed",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": "2027-04-30",
+ "dt": "Posted 2021-04-16",
+ "e": "IHEs, non-profits, for-profits, individuals. Incubator projects, Collaboratory partnerships and QuaCR Fellowships in qubit/QIS research.",
+ "f": "DOD ARO / LPS",
+ "fields": [
+  "qp",
+  "amo",
+  "cmx"
+ ],
+ "id": "aro-lps-qubit-collaboratory-lqc",
+ "n": "ARO/LPS Qubit Collaboratory (LQC)",
+ "nofo": [
+  {
+   "opp": "W911NF21S0009",
+   "u": "https://simpler.grants.gov/opportunity/9feba724-7117-42d6-b42c-2a649f4ef2ec"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten",
+  "gr",
+  "pd"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/9feba724-7117-42d6-b42c-2a649f4ef2ec",
+ "us": false
+}

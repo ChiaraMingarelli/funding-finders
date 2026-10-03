@@ -1,0 +1,28 @@
+{
+ "a": "3 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-12-01",
+ "dt": "2026/12/01 23:59:59 (time zone not stated on page); evaluated until filled",
+ "e": "Spin-based quantum computing/simulation, complex and topological quantum systems and quantum materials. Recent PhD in theoretical physics or related.",
+ "f": "University of Basel, NCCR SPIN, Department of Physics (Jelena Klinovaja, Daniel Loss)",
+ "fields": [
+  "qp",
+  "cmt"
+ ],
+ "id": "university-of-basel-nccr-spin-postdoctoral-fellowship",
+ "n": "University of Basel: NCCR SPIN Postdoctoral Fellowship",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:27103",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/27103",
+ "us": false
+}

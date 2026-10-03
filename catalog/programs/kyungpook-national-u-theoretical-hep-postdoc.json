@@ -1,0 +1,34 @@
+{
+ "a": "~KRW 50,000,000/yr; 2 years, renewable",
+ "added": "2026-09-30",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Deadline was Sep 30, 2026; applications are still considered until the position is filled.",
+ "e": "Particle phenomenology and cosmology, focused on astroparticle, dark matter and BSM. Requires a PhD in particle physics.",
+ "f": "Kyungpook National University, Daegu; PI Seokhoon Yun",
+ "fields": [
+  "ppt",
+  "astro"
+ ],
+ "id": "kyungpook-national-u-theoretical-hep-postdoc",
+ "n": "Kyungpook National U.: Theoretical HEP postdoc",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "rolling",
+ "src": "inspire:3198255",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3198255",
+ "us": false
+}

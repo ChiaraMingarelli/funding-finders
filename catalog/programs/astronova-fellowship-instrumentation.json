@@ -1,0 +1,36 @@
+{
+ "a": "$88,527 starting; 4 years + 1",
+ "added": "2026-09-30",
+ "asub": [
+  "cos",
+  "exo",
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last deadline Oct 2, 2026; the next cycle is not posted yet.",
+ "e": "Postdocs developing instrumentation for astronomy, cosmology and planetary science.",
+ "f": "Astronova program (Carnegie, Keck, U. Arizona, UC Berkeley, UCSD, UCSC)",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "astronova-fellowship-instrumentation",
+ "n": "Astronova Fellowship (instrumentation)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "src": "aas:c5b5f68e",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.hsfoundation.org/programs/science/astronomical-innovation-astronova-fellowship/",
+ "us": false
+}

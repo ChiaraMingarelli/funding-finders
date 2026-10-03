@@ -1,0 +1,35 @@
+{
+ "a": "Up to $100M program total (anticipated)",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Training",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Notice of intent DE-FOA-0003662 posted Aug 2026; NOFO expected soon",
+ "e": "A planned program to build education and workforce pathways across the critical minerals and materials supply chain, from extraction and processing through manufacturing and recycling, through partnerships of universities, industry and national labs.",
+ "f": "DOE Office of Critical Minerals and Energy Innovation (CMEI)",
+ "fields": [
+  "mat",
+  "energy"
+ ],
+ "id": "doe-cmei-prospect-critical-materials-ed",
+ "n": "DOE PROSPECT: Specialized Education in Critical Technologies (critical minerals & materials) – Notice of Intent",
+ "nofo": [
+  {
+   "opp": "DE-FOA-0003662",
+   "u": "https://simpler.grants.gov/opportunity/282f520a-db7e-4c0a-8c3d-33071253ad69"
+  }
+ ],
+ "nom": false,
+ "s": "watch",
+ "src": "grants:DE-FOA-0003662",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/282f520a-db7e-4c0a-8c3d-33071253ad69",
+ "unv": "Eligibility and award structure will be set in the NOFO.",
+ "us": false
+}

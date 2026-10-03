@@ -1,0 +1,36 @@
+{
+ "a": "3 years (2027-2030); competitive salary plus EUR 10,000/yr research funds",
+ "added": "2026-10-01",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-01",
+ "d": "2026-10-13",
+ "dt": "Nominations due Tue Oct 13, 2026 (nomination by a faculty member or senior researcher)",
+ "e": "Fully independent 3-year fellowships for experienced postdocs in particle and astroparticle physics, nuclear and hadron physics, cosmology and mathematical physics. Candidates must be nominated by a faculty member or senior researcher; no reference letter needed at nomination.",
+ "f": "Mainz Institute for Theoretical Physics (MITP), Johannes Gutenberg University Mainz",
+ "fields": [
+  "ppt",
+  "nut",
+  "astro"
+ ],
+ "id": "mitp-mainz-senior-postdoctoral-fellowships-2027-2030",
+ "n": "MITP Mainz: Senior Postdoctoral Fellowships in Theoretical Physics",
+ "nfit": "Medium",
+ "nom": true,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3209381",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.mitp.uni-mainz.de/mitp-senior-postdoctoral-fellowships-in-theoretical-physics/",
+ "us": false
+}

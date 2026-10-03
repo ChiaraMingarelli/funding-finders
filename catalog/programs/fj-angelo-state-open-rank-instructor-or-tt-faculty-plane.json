@@ -1,0 +1,28 @@
+{
+ "a": "Open rank: Instructor or tenure-track",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Review began Oct 2, 2026; open until filled.",
+ "e": "Astronomy/physics education combined with running the planetarium. Start Spring or Fall 2027.",
+ "f": "Dept. of Physics & Geosciences, Angelo State University",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-angelo-state-open-rank-instructor-or-tt-faculty-plane",
+ "n": "Angelo State: Open Rank Instructor or TT Faculty & Planetarium Director",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "aas:64f65395",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://employment.angelo.edu/postings/8017",
+ "us": false
+}

@@ -1,0 +1,32 @@
+{
+ "a": "Observing time on the NOEMA interferometer and the IRAM 30-m telescope for the summer scheduling period (1 Jun - 30 Nov). PIs at institutes outside IRAM partner countries compete for a reserved share: 7.5% of NOEMA time and 15% of 30-m time.",
+ "added": "2026-10-03",
+ "asub": [],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "The winter 2026 deadline was 10 Sep 2026, 17:00 CEST. IRAM deadlines fall around mid-March and mid-September, and the summer-semester call is published by early February.",
+ "e": "Twice-yearly call for IRAM's millimeter telescopes in France and Spain. PIs at institutes in non-partner countries, including the US, may submit regular proposals but may not lead Large Programs.",
+ "f": "IRAM (Institut de Radioastronomie Millimétrique)",
+ "fields": [
+  "astro"
+ ],
+ "id": "iram-noema-30m-summer-2027",
+ "n": "IRAM NOEMA and 30-meter Telescope Call for Proposals, Summer Semester 2027",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "watch",
+ "src": "other:iram-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://iram-institute.org/science-portal/proposals/call-for-proposals/",
+ "unv": "The summer 2027 call and its exact deadline are not yet posted. Student-PI rules are not stated.",
+ "us": false
+}

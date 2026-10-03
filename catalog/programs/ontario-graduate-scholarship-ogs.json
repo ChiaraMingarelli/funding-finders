@@ -1,0 +1,30 @@
+{
+ "a": "$5,000 per term ($10,000 for 2 terms or $15,000 for 3)",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Scholarship",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "2027–28 deadlines are set by each graduate unit (typically late fall–winter)",
+ "e": "Canadian citizens, permanent residents and protected persons, plus a limited number of awards for international students on study permits. For master's/PhD students in Ontario (e.g. Toronto/CITA/Dunlap, Waterloo/Perimeter).",
+ "f": "Province of Ontario / Ontario universities",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "ontario-graduate-scholarship-ogs",
+ "n": "Ontario Graduate Scholarship (OGS)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "Canada",
+ "s": "watch",
+ "src": "other:uoft-sgs",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://www.sgs.utoronto.ca/awards/ontario-graduate-scholarship/",
+ "unv": "Provincial program page not reachable (404); details from U of T SGS; 2027–28 dates not yet posted",
+ "us": false
+}

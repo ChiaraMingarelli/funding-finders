@@ -1,0 +1,31 @@
+{
+ "a": "£37,694–46,049 (RA) or £47,389–59,966 (Senior) + £10k/yr; 3 years",
+ "added": "2026-09-30",
+ "asub": [],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-15",
+ "dt": "Oct 15, 2026",
+ "e": "Cosmology and astrophysics, including CMB, galaxies, dark matter, GWs and instrumentation. PhD or thesis submitted by the start.",
+ "f": "Kavli Institute for Cosmology, Cambridge (IoA, Cavendish, DAMTP)",
+ "fields": [
+  "astro"
+ ],
+ "id": "cambridge-kavli-institute-fellowship-in-cosmology-astrop",
+ "n": "Cambridge: Kavli Institute Fellowship in Cosmology & Astrophysics",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:8c7f51df",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/8c7f51df",
+ "us": false
+}

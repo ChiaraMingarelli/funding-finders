@@ -1,0 +1,28 @@
+{
+ "a": "not listed",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2027-08-31",
+ "dt": "Aug 31, 2027",
+ "e": "Quantum and statistical field theory, CFT, gauge theory and bootstrap. Requires PhD-level expertise in these areas.",
+ "f": "Sun Yat-sen University, Guangzhou; PI Wenliang Li",
+ "fields": [
+  "ppt",
+  "cmt"
+ ],
+ "id": "sun-yat-sen-u-guangzhou-qft-statistical-field-theory-pos",
+ "n": "Sun Yat-sen U. Guangzhou: QFT & statistical field theory postdocs",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3198297",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3198297",
+ "us": false
+}

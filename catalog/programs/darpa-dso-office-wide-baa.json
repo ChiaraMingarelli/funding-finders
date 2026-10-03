@@ -1,0 +1,37 @@
+{
+ "a": "not listed",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": "2027-08-27",
+ "dt": "Posted 2026-08-28; abstracts encouraged (dates not listed)",
+ "e": "All responsible sources. Revolutionary (not evolutionary) advances in science, devices or systems, incl. physics, quantum, materials.",
+ "f": "DOD DARPA",
+ "fields": [
+  "all",
+  "qp",
+  "amo",
+  "cmx"
+ ],
+ "id": "darpa-dso-office-wide-baa",
+ "n": "DARPA DSO Office-wide BAA",
+ "nofo": [
+  {
+   "opp": "HR001126S0015",
+   "u": "https://simpler.grants.gov/opportunity/1903b420-64ef-4f26-a4c1-c857d4de4f00"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/1903b420-64ef-4f26-a4c1-c857d4de4f00",
+ "us": false
+}

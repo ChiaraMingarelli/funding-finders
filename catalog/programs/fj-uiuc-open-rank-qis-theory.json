@@ -1,0 +1,29 @@
+{
+ "a": "Tenure-track/tenured, assistant, associate or full professor; salary in full announcement",
+ "added": "2026-10-02",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-02",
+ "d": "2026-11-01",
+ "dt": "Full consideration by Nov 1, 2026; accepted until filled",
+ "e": "Tenure-track faculty position in theoretical quantum information science (algorithms, error correction, architectures, quantum simulation) in Illinois Physics. Open to PhD researchers at any rank; no citizenship limit stated.",
+ "f": "University of Illinois Urbana-Champaign, Department of Physics",
+ "fields": [
+  "qp"
+ ],
+ "id": "fj-uiuc-open-rank-qis-theory",
+ "n": "University of Illinois Urbana-Champaign: Open-Rank Professor, Theoretical Quantum Information Science",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3210313",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://illinois.csod.com/ux/ats/careersite/1/home/requisition/18058?c=illinois",
+ "unv": "Salary not checked in the full announcement (go.physics.illinois.edu/QISTheory26)",
+ "us": true
+}

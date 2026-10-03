@@ -1,0 +1,28 @@
+{
+ "a": "Honorific",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Prize",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Nominations open Jan 1; unit deadlines ~Apr 1 to mid-Jun (e.g., DCMP earliest, then DNP, then most units ~early Jun)",
+ "e": "APS members nominated by two APS members through a division/topical group or the general category.",
+ "f": "American Physical Society",
+ "fields": [
+  "all"
+ ],
+ "id": "aps-fellowship-nominations",
+ "n": "APS Fellowship nominations",
+ "nom": true,
+ "s": "watch",
+ "stages": [
+  "ten"
+ ],
+ "u": "https://www.aps.org/funding-recognition/unit-deadlines",
+ "unv": "Official page shows 2024 dates only; 2027 unit deadlines not confirmed",
+ "us": false
+}

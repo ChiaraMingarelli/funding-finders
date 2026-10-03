@@ -1,0 +1,32 @@
+{
+ "a": "See funder",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-10-17",
+ "dt": "Oct 17, 2026 (per coordinator)",
+ "e": "Mainly Canadian citizens/PR; some awards tenable abroad.",
+ "f": "Tri-agency (Canada)",
+ "fields": [
+  "all"
+ ],
+ "id": "canadian-postdoctoral-research-awards-cpra",
+ "n": "Canadian Postdoctoral Research Awards (CPRA)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "Canada",
+ "s": "open",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.nserc-crsng.gc.ca/",
+ "unv": "Date per coordinator; not re-verified",
+ "us": false
+}

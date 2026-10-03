@@ -1,0 +1,35 @@
+{
+ "a": "$50,000-$3,000,000; total $28,000,000",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Instrumentation",
+ "checked": "2026-09-29",
+ "d": "2026-11-06",
+ "dt": "Posted 2026-07-29",
+ "e": "Accredited non-profit US IHEs with S&E degree programs; UARCs eligible. Same DoW DURIP program; apply via the agency whose program officer matches.",
+ "f": "DOD ONR",
+ "fields": [
+  "all",
+  "inst"
+ ],
+ "id": "fy2027-durip-onr-posting",
+ "n": "FY2027 DURIP (ONR posting)",
+ "nofo": [
+  {
+   "opp": "N0001426SF003",
+   "u": "https://simpler.grants.gov/opportunity/812b55e0-deb1-43cc-a2e2-f9f82ad735ad"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/812b55e0-deb1-43cc-a2e2-f9f82ad735ad",
+ "us": false
+}

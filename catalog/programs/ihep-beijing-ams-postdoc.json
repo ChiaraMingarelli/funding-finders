@@ -1,0 +1,35 @@
+{
+ "a": "not listed",
+ "added": "2026-09-30",
+ "asub": [
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2027-03-19",
+ "dt": "Mar 19, 2027",
+ "e": "AMS silicon tracker upgrade and antimatter/cosmic-ray analysis. Requires a PhD in physics and coding skills.",
+ "f": "Institute of High Energy Physics, Beijing; contact Qi Yan",
+ "fields": [
+  "astro",
+  "ppx",
+  "inst"
+ ],
+ "id": "ihep-beijing-ams-postdoc",
+ "n": "IHEP Beijing: AMS postdoc",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3131172",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3131172",
+ "us": false
+}

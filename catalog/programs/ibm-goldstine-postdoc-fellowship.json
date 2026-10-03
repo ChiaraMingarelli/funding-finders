@@ -1,0 +1,29 @@
+{
+ "a": "1 year, renewable for a 2nd",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last listed deadline Dec 31, 2025; recurring",
+ "e": "Postdoctoral fellowship at IBM Research in algorithm theory, with emphasis on quantum algorithms, mathematics of AI, optimization and matrix/tensor algebra. No citizenship restriction stated.",
+ "f": "IBM Research",
+ "fields": [
+  "qp",
+  "ds"
+ ],
+ "id": "ibm-goldstine-postdoc-fellowship",
+ "n": "IBM Herman Goldstine Memorial Postdoctoral Fellowship (incl. quantum algorithms)",
+ "nom": false,
+ "pt": "prize",
+ "s": "watch",
+ "src": "other:ibm-goldstine",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.research.ibm.com/goldstine",
+ "unv": "IBM page still shows the 2025 deadline; next cycle not confirmed.",
+ "us": false
+}

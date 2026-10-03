@@ -1,0 +1,35 @@
+{
+ "a": "$75,268–85,000/yr; 3 years",
+ "added": "2026-09-30",
+ "asub": [
+  "cos",
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-30",
+ "dt": "Oct 30, 2026",
+ "e": "CMB polarization with BICEP/Keck, mm-wave detector development and B-mode analysis.",
+ "f": "Caltech, PMA experimental cosmology group; contact Shelly Aguda",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "caltech-experimental-cmb-cosmology-postdoc-bicep-keck",
+ "n": "Caltech: Experimental CMB cosmology postdoc (BICEP/Keck)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "aas:9bd32e66",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/9bd32e66",
+ "us": false
+}

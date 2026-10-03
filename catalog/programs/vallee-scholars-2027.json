@@ -1,0 +1,33 @@
+{
+ "a": "$400,000",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Foundation",
+ "checked": "2026-09-30",
+ "d": "2026-12-01",
+ "dt": "Institutional nomination due Dec 1, 2026; full application Feb 1, 2027.",
+ "e": "Junior faculty in basic biomedical sciences, nominated by their institution; relevant to biophysics.",
+ "f": "Vallee Foundation",
+ "fields": [
+  "bio"
+ ],
+ "id": "vallee-scholars-2027",
+ "n": "Vallee Scholars 2027",
+ "nom": true,
+ "s": "open",
+ "src": "other:vallee-2027",
+ "stages": [
+  "tt"
+ ],
+ "u": "https://yale.infoready4.com/",
+ "unv": "Details are from Yale's Sep 30, 2026 newsletter; the Vallee Foundation page was not checked.",
+ "us": false,
+ "yale": {
+  "d": "2026-10-05",
+  "t": "Yale limited submission: internal application due Oct 5, 2026 on InfoReady.",
+  "u": "https://yale.infoready4.com/"
+ }
+}

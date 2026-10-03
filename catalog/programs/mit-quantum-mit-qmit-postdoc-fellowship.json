@@ -1,0 +1,30 @@
+{
+ "a": "minimum $73,308 (FY26); 1 year, reappointment possible",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-10-23",
+ "dt": "2026/10/23 23:59:59 (time zone not stated on page)",
+ "e": "Interdisciplinary quantum science fellowship. PhD on/after Jan 1, 2025; start Jan 1-Sep 1, 2027.",
+ "f": "MIT School of Science, Quantum MIT initiative",
+ "fields": [
+  "qp",
+  "amo",
+  "cmx",
+  "cmt"
+ ],
+ "id": "mit-quantum-mit-qmit-postdoc-fellowship",
+ "n": "MIT: Quantum MIT (QMIT) Postdoc Fellowship",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32537",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32537",
+ "us": false
+}

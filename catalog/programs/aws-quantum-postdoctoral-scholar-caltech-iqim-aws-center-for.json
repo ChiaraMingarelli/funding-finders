@@ -1,0 +1,28 @@
+{
+ "a": "$85K first year plus $7K/yr research fund; 3 years",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-11-15",
+ "dt": "Applications and letters due Nov 15, 2026. Offers mid-Dec 2026 to Feb 2027.",
+ "e": "PhD by start. Name at least one Caltech faculty member (PMA, EAS or CCE).",
+ "f": "Caltech IQIM with Amazon Web Services",
+ "fields": [
+  "qp",
+  "cmx",
+  "amo"
+ ],
+ "id": "aws-quantum-postdoctoral-scholar-caltech-iqim-aws-center-for",
+ "n": "AWS Quantum Postdoctoral Scholar (Caltech IQIM / AWS Center for Quantum Computing)",
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://iqim.caltech.edu/aws-quantum-postdoctoral-scholar/",
+ "us": false
+}

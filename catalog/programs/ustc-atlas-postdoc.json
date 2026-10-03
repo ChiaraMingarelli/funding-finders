@@ -1,0 +1,30 @@
+{
+ "a": "250k-350k RMB gross per year; 2 years, extendable by 2",
+ "added": "2026-10-02",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-02",
+ "d": "2026-11-30",
+ "dt": "Applications accepted before Nov 30, 2026",
+ "e": "Postdoc in the USTC ATLAS group on upgrade programs and/or Higgs, electroweak and BSM physics, based at CERN or USTC. Open to PhDs (or near-completion) in experimental particle physics; no citizenship limit stated.",
+ "f": "University of Science and Technology of China (CICPI)",
+ "fields": [
+  "ppx"
+ ],
+ "id": "ustc-atlas-postdoc",
+ "n": "USTC Hefei: Postdoc in Experimental Particle Physics (ATLAS)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3210121",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3210121",
+ "us": false
+}

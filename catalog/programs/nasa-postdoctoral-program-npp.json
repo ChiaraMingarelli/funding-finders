@@ -1,0 +1,37 @@
+{
+ "a": "From $70k + $10k/yr travel, 1–3 yr",
+ "added": "2026-09-29",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-29",
+ "d": "2026-11-01",
+ "dt": "6 pm ET; about 3 cycles a year",
+ "e": "Hosted at NASA centers including JPL and GSFC. Some country restrictions apply.",
+ "f": "NASA / ORAU",
+ "fields": [
+  "astro",
+  "grav",
+  "ds",
+  "inst"
+ ],
+ "id": "nasa-postdoctoral-program-npp",
+ "n": "NASA Postdoctoral Program (NPP)",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://npp.orau.org/",
+ "us": false
+}

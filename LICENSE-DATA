@@ -1,7 +1,7 @@
 Copyright (c) 2026 Chiara Mingarelli
 
-The program catalog (data/programs.json), the data embedded in the pages and
-the page text are licensed under the Creative Commons Attribution 4.0
+The program catalog (catalog/ and data/programs.json), the data embedded in
+the pages and the page text are licensed under the Creative Commons Attribution 4.0
 International License (CC BY 4.0).
 
 You may share and adapt this material for any purpose, including commercially,

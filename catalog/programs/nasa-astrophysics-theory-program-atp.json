@@ -1,0 +1,33 @@
+{
+ "a": "Theory grants, ~3 yr",
+ "added": "2026-09-28",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "radar",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Awaiting ROSES-26 (biennial; last deadline Jul 2025)",
+ "e": "ROSES-26 was promised for July 2026 but hasn't been released. The FY27 request cuts Astrophysics R&A sharply.",
+ "f": "NASA SMD",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "nasa-astrophysics-theory-program-atp",
+ "n": "NASA Astrophysics Theory Program (ATP)",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/",
+ "unv": "ROSES-26 not released",
+ "us": false
+}

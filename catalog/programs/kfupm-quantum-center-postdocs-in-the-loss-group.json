@@ -1,0 +1,28 @@
+{
+ "a": "USD 48,000 base + USD 12,000 housing (tax-free); 24 months, extendable to 48",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": null,
+ "dt": "open while posted (listed until 2027-02-01); screening immediate",
+ "e": "Quantum condensed-matter theory: spin qubits, topology, magnetism/spintronics, many-body physics and quantum computing. PhD in hand or within one year.",
+ "f": "King Fahd University of Petroleum and Minerals, Quantum Center (Daniel Loss; Ji Zou, Even Thingstad)",
+ "fields": [
+  "cmt",
+  "qp"
+ ],
+ "id": "kfupm-quantum-center-postdocs-in-the-loss-group",
+ "n": "KFUPM Quantum Center: Postdocs in the Loss Group",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:31641",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/31641",
+ "us": false
+}

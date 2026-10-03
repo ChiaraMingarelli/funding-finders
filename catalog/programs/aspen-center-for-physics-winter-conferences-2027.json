@@ -1,0 +1,33 @@
+{
+ "a": "One-week conferences (~80 people)",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Visiting program",
+ "checked": "2026-10-03",
+ "d": "2026-10-15",
+ "dt": "Most 2027 deadlines have passed; Multimessenger Probes of New Scales in Physics (Jan 10-15) and World Models (Feb 28-Mar 5) take applications until Oct 15, 2026",
+ "e": "Open application through the ACP portal.",
+ "f": "Aspen Center for Physics",
+ "fields": [
+  "all"
+ ],
+ "id": "aspen-center-for-physics-winter-conferences-2027",
+ "n": "Aspen Center for Physics Winter Conferences 2027",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "stages": [
+  "pd",
+  "tt",
+  "ten",
+  "gr"
+ ],
+ "u": "https://aspenphys.org/winter-conferences/",
+ "us": false
+}

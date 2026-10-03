@@ -1,0 +1,23 @@
+{
+ "a": "competitive; 2 years, renewable 1–2 years",
+ "added": "2026-09-30",
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-31",
+ "dt": "Dec 31, 2026",
+ "e": "JUNO neutrino physics analysis and software. Requires a PhD in experimental particle physics.",
+ "f": "Institute of High Energy Physics, Beijing; Yu-Feng Li, Liang Zhan",
+ "fields": [
+  "ppx"
+ ],
+ "id": "ihep-beijing-experimental-neutrino-physics-postdocs-juno",
+ "n": "IHEP Beijing: Experimental neutrino physics postdocs (JUNO)",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:2049487",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/2049487",
+ "us": false
+}

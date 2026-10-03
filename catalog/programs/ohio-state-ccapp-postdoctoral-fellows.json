@@ -1,0 +1,35 @@
+{
+ "a": "$67,000/yr + $10,000/yr research + $3,000 relocation; 3 years",
+ "added": "2026-09-30",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-23",
+ "dt": "2026/11/23 23:59:59 (time zone not stated on page)",
+ "e": "Independent fellowship in any area of cosmology, astroparticle physics or astrophysics (dark energy, LSS, CMB, lensing, dark matter, cosmic rays, neutrinos).",
+ "f": "Ohio State University, Center for Cosmology and AstroParticle Physics (CCAPP), Depts. of Astronomy and Physics",
+ "fields": [
+  "astro",
+  "ppt",
+  "ppx"
+ ],
+ "id": "ohio-state-ccapp-postdoctoral-fellows",
+ "n": "Ohio State: CCAPP Postdoctoral Fellows",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32448",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32448",
+ "us": false
+}

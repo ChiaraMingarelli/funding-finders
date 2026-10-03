@@ -1,0 +1,29 @@
+{
+ "a": "not listed",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Listed deadline was Sep 30, 2026; applications are accepted until the position is filled.",
+ "e": "ML, quantum computing, Higgs factories and muon experiments. PhD required by the start date.",
+ "f": "Peking University; PI Chen Zhou",
+ "fields": [
+  "ppx",
+  "ds",
+  "qp"
+ ],
+ "id": "peking-u-boya-postdoctoral-fellow-ml-quantum-computing-f",
+ "n": "Peking U.: Boya postdoctoral fellow (ML, quantum computing, future colliders)",
+ "nom": false,
+ "s": "rolling",
+ "src": "inspire:3160199",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3160199",
+ "us": false
+}

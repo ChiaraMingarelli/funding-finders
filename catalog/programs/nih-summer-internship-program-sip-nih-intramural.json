@@ -1,0 +1,29 @@
+{
+ "a": "Stipend by education level; program runs May 10–Aug 31, 2027",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-09-29",
+ "d": "2027-01-26",
+ "dt": "Opens Oct 13, 2026; closes Jan 26, 2027, noon ET; references due Feb 2, 2027",
+ "e": "US citizens or permanent residents aged 18+ by Sept 30, 2027, enrolled at least half-time (or accepted to a graduate program). Includes NIBIB and NHLBI biophysics labs.",
+ "f": "NIH Office of Intramural Training & Education",
+ "fields": [
+  "bio",
+  "ds",
+  "inst"
+ ],
+ "id": "nih-summer-internship-program-sip-nih-intramural",
+ "n": "NIH Summer Internship Program (SIP), NIH Intramural",
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://www.training.nih.gov/research-training/pb/sip/",
+ "us": true
+}

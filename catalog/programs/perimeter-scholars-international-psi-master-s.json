@@ -1,0 +1,30 @@
+{
+ "a": null,
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Graduate program",
+ "checked": "2026-10-01",
+ "d": null,
+ "dt": "Applications for 2027–28 entry open October 2026",
+ "e": "Intensive one-year theoretical-physics master's with no application fee. Mainly relevant to students heading toward GW, cosmology or gravity theory.",
+ "f": "Perimeter Institute / University of Waterloo",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "perimeter-scholars-international-psi-master-s",
+ "n": "Perimeter Scholars International (PSI) Master's",
+ "nfit": "Low",
+ "nom": false,
+ "region": "Canada",
+ "s": "watch",
+ "src": "other:perimeter",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://perimeterinstitute.ca/training/masters-program/psi-how-apply",
+ "unv": "Deadline, tuition/stipend coverage and international eligibility not shown on page",
+ "us": false
+}

@@ -1,0 +1,42 @@
+{
+ "a": "Stipend + housing (varies by site)",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Site deadlines mostly mid-Jan to Feb 2027; fewer sites after 2025 cuts",
+ "e": "US citizens/PR undergrads; apply to each site.",
+ "f": "NSF",
+ "fields": [
+  "all",
+  "amo",
+  "cmx",
+  "cmt",
+  "qp"
+ ],
+ "id": "nsf-reu-sites-physics-astronomy",
+ "n": "NSF REU Sites (physics/astronomy)",
+ "nfit": "Low",
+ "nofo": [
+  {
+   "opp": "23-601",
+   "u": "https://simpler.grants.gov/opportunity/19553c47-f333-4b57-b6c3-74f38305903f"
+  }
+ ],
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.nsf.gov/",
+ "unv": "Per-site dates not posted/verified",
+ "us": true
+}

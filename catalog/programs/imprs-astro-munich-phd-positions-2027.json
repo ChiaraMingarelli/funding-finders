@@ -1,0 +1,38 @@
+{
+ "a": "About 25 funded PhD positions (fellowship or contract)",
+ "added": "2026-10-01",
+ "asub": [
+  "star",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Training",
+ "checked": "2026-10-01",
+ "d": "2026-11-01",
+ "dt": "Applications due Nov 1, 2026; PhD starts Sep 2027.",
+ "e": "PhD program in astrophysics at the Max Planck institutes in Garching and partner institutions; for students finishing a bachelor's or master's degree. Applicants interested in stellar astrophysics at MPA should mention Selma de Mink by name in the application.",
+ "f": "International Max Planck Research School on Astrophysics (MPA, MPE, LMU University Observatory, ESO)",
+ "fields": [
+  "astro",
+  "grav",
+  "inst"
+ ],
+ "id": "imprs-astro-munich-phd-positions-2027",
+ "n": "IMPRS on Astrophysics (Munich): funded PhD positions, Sep 2027 start",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "other:imprs-astro-2027",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.imprs-astro.mpg.de/",
+ "unv": "Exact degree requirements and stipend are on the program's admission and finances pages, not checked.",
+ "us": false
+}

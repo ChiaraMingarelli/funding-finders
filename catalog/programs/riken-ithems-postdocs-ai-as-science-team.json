@@ -1,0 +1,27 @@
+{
+ "a": "postdoc >= JPY 480,000/month; up to 3 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": null,
+ "dt": "open until filled (first screening Jul 31, 2026 JST); listed until 2027-02-11",
+ "e": "Foundational AI/deep learning and its applications to physics and other natural sciences; GPU experience welcome.",
+ "f": "RIKEN iTHEMS, AI as Science Team (Masato Taki)",
+ "fields": [
+  "ds"
+ ],
+ "id": "riken-ithems-postdocs-ai-as-science-team",
+ "n": "RIKEN iTHEMS: Postdocs, AI as Science Team",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32048",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32048",
+ "us": false
+}

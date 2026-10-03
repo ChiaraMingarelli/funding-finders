@@ -1,0 +1,28 @@
+{
+ "a": "not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Prize",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Reviewed twice a year (Spring and Fall meetings); nominations only",
+ "e": "Recognizes postdoctoral scholars in materials research who do not hold tenure-track or permanent staff positions. Candidates must be nominated (no self-nominations) and attend the meeting where the award is given.",
+ "f": "Materials Research Society",
+ "fields": [
+  "mat"
+ ],
+ "id": "mrs-postdoctoral-award",
+ "n": "MRS Postdoctoral Award",
+ "nom": true,
+ "pt": "prize",
+ "s": "watch",
+ "src": "other:mrs",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.mrs.org/advancing-careers/award-central/spring-awards/mrs-postdoctoral-award",
+ "unv": "The mrs.org award pages returned errors, so the amount and next nomination deadline could not be confirmed.",
+ "us": false
+}

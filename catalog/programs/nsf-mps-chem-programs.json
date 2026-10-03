@@ -1,0 +1,36 @@
+{
+ "a": "$150M across CHE programs",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Proposals accepted anytime",
+ "e": "Consolidated CHE solicitation; programs such as Chemical Measurement and Imaging (spectroscopy, microscopy), Chemical Structure and Dynamics, nanochemistry and Chemical Theory, Models and Computational Methods overlap with materials physics and optics. From Sept 1, 2026 each person may appear on at most two CHE proposals per year as PI, co-PI or senior/key personnel; no citizenship restriction.",
+ "f": "NSF MPS/CHE",
+ "fields": [
+  "mat",
+  "cmt",
+  "phot",
+  "energy"
+ ],
+ "id": "nsf-mps-chem-programs",
+ "n": "NSF MPS Chemistry Research Programs (NSF 26-519): incl. Chemical Measurement & Imaging, Chemical Structure & Dynamics, Macromolecular/Supramolecular/Nanochemistry, Theory & Computation",
+ "nofo": [
+  {
+   "opp": "26-519",
+   "u": "https://simpler.grants.gov/opportunity/6b8f181f-f43c-4307-9fc7-8642ac7bc91c"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "src": "grants:26-519",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/mps-chem-mps-chemistry-research-programs/nsf26-519/solicitation",
+ "us": false
+}

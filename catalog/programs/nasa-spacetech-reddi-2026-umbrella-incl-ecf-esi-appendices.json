@@ -1,0 +1,34 @@
+{
+ "a": "not listed",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Posted 2025-12-09; appendices released throughout the year",
+ "e": "US and non-US educational, industry, non-profit orgs; NASA centers/JPL restricted. Umbrella for STMD space-technology appendices.",
+ "f": "NASA",
+ "fields": [
+  "inst"
+ ],
+ "id": "nasa-spacetech-reddi-2026-umbrella-incl-ecf-esi-appendices",
+ "n": "NASA SpaceTech REDDI-2026 (umbrella: incl. ECF/ESI appendices)",
+ "nofo": [
+  {
+   "opp": "NNH26ZTR001N",
+   "u": "https://simpler.grants.gov/opportunity/09413154-0d72-4645-a9f8-ae4d8b10982b"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten",
+  "gr"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/09413154-0d72-4645-a9f8-ae4d8b10982b",
+ "us": false
+}

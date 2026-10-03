@@ -1,0 +1,34 @@
+{
+ "a": "not listed; 2 years, extensible to 3",
+ "added": "2026-09-30",
+ "asub": [
+  "exo",
+  "star"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-04",
+ "dt": "Oct 4, 2026",
+ "e": "SPIRou studies of M-dwarf planetary systems and T Tauri magnetic topologies. Background in stellar spectropolarimetry/velocimetry needed.",
+ "f": "IRAP (CNRS), Toulouse; Jean-François Donati, Claire Moutou",
+ "fields": [
+  "astro"
+ ],
+ "id": "irap-toulouse-postdocs-in-stellar-spectropolarimetry-exo",
+ "n": "IRAP Toulouse: Postdocs in stellar spectropolarimetry & exoplanets",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:1fa6ba25",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/1fa6ba25",
+ "us": false
+}

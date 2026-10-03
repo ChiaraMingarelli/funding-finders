@@ -1,0 +1,27 @@
+{
+ "a": "$85,000/yr ($79K salary plus $6K research) for 3 years",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Last deadline Oct 1, 2026; the next cycle is not posted yet",
+ "e": "Within 5 years of PhD, starting a postdoc between Aug 1, 2025 and July 31, 2027 in a lab other than the PhD lab. Non-US citizens must work in a US lab, and applicants in HHMI Investigator labs are ineligible this cycle.",
+ "f": "Life Sciences Research Foundation (sponsors incl. HHMI, Simons)",
+ "fields": [
+  "bio",
+  "ds"
+ ],
+ "id": "life-sciences-research-foundation-lsrf-postdoctoral-fellowsh",
+ "n": "Life Sciences Research Foundation (LSRF) Postdoctoral Fellowship",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://lsrf.org/apply/",
+ "us": false
+}

@@ -1,0 +1,27 @@
+{
+ "a": "$700 per week plus $10 per day for meals (about $7,000 total).",
+ "added": "2026-09-28",
+ "aud": [
+  "yale"
+ ],
+ "c": "Summer program",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "The 2026 deadline was 2026-02-21 for a 10-week program (May 26 - July 31, 2026). 2027 dates not posted.",
+ "e": "Undergrads working on SRF, accelerator design and particle detectors. NSF REU citizenship rules likely apply.",
+ "f": "Old Dominion University / Jefferson Lab (NSF REU)",
+ "fields": [
+  "nux",
+  "inst"
+ ],
+ "id": "odu-jefferson-lab-reu-nuclear-accelerator-physics",
+ "n": "ODU/Jefferson Lab REU (Nuclear & Accelerator Physics)",
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.jlab.org/accelerator/reu",
+ "unv": "2027 dates and eligibility not confirmed",
+ "us": false
+}

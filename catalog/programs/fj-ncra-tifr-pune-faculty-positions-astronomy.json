@@ -1,0 +1,29 @@
+{
+ "a": "Entry-level faculty (about 5 yrs postdoc expected); higher ranks possible",
+ "added": "2026-10-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-01",
+ "d": "2026-12-31",
+ "dt": "Deadline Dec 31, 2026",
+ "e": "Radio astronomy (GMRT home), plus other areas with synergy.",
+ "f": "National Centre for Radio Astrophysics, TIFR",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "fj-ncra-tifr-pune-faculty-positions-astronomy",
+ "n": "NCRA-TIFR (Pune): Faculty Positions (Astronomy)",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "aas:d8dd8f6f",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://www.ncra.tifr.res.in/jobs/academic/faculty",
+ "us": false
+}

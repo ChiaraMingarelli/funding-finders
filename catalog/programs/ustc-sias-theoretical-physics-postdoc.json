@@ -1,0 +1,28 @@
+{
+ "a": "not listed; 2 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-31",
+ "dt": "Dec 31, 2026",
+ "e": "Quantum simulation, topological states and quantum information. Requires a PhD in theoretical physics.",
+ "f": "SIAS, University of Science and Technology of China; PI Yu Shi",
+ "fields": [
+  "qp",
+  "cmt"
+ ],
+ "id": "ustc-sias-theoretical-physics-postdoc",
+ "n": "USTC SIAS: Theoretical physics postdoc",
+ "nom": false,
+ "s": "open",
+ "src": "inspire:3137865",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3137865",
+ "us": false
+}

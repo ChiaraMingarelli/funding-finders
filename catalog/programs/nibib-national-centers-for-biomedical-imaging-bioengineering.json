@@ -1,0 +1,33 @@
+{
+ "a": "not listed",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Forecast; est. post 2026-09-26; est. due 2027-01-25",
+ "e": "US organizations (foreign ineligible). National technology R&D resource centers in imaging/bioengineering.",
+ "f": "NIH NIBIB",
+ "fields": [
+  "bio",
+  "inst"
+ ],
+ "id": "nibib-national-centers-for-biomedical-imaging-bioengineering",
+ "n": "NIBIB National Centers for Biomedical Imaging & Bioengineering (P41) - forecast",
+ "nofo": [
+  {
+   "opp": "PAR-27-105",
+   "u": "https://simpler.grants.gov/opportunity/3e9fb0bc-ebab-45f3-aacf-906b0ebb446c"
+  }
+ ],
+ "nom": false,
+ "s": "watch",
+ "stages": [
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/3e9fb0bc-ebab-45f3-aacf-906b0ebb446c",
+ "us": false
+}

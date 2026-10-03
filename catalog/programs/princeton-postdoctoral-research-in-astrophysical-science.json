@@ -1,0 +1,36 @@
+{
+ "a": "$65,000–99,000 (PDRA $65–86k; ARS $79–99k); 1 year, renewable",
+ "added": "2026-09-30",
+ "asub": [
+  "exo",
+  "he",
+  "star",
+  "ism"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-11-01",
+ "dt": "Nov 1, 2026",
+ "e": "Exoplanet theory, ISM/star formation, plasma astrophysics, supernovae and instrumentation. Requires a PhD in astronomy or a related field.",
+ "f": "Princeton University, Department of Astrophysical Sciences",
+ "fields": [
+  "astro"
+ ],
+ "id": "princeton-postdoctoral-research-in-astrophysical-science",
+ "n": "Princeton: Postdoctoral research in Astrophysical Sciences",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "aas:b74bc3c8",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://apply.interfolio.com/193062",
+ "us": false
+}

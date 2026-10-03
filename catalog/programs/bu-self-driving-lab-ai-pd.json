@@ -1,0 +1,29 @@
+{
+ "a": "1-year renewable; salary not listed",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-03",
+ "d": "2026-12-18",
+ "dt": "Due Dec 18, 2026 (AJO)",
+ "e": "Postdoc linking agentic AI and RL with robotic high-throughput synthesis and characterization in self-driving laboratories (polymer and systems-biology workflows).",
+ "f": "Boston University, Division of Materials Science & Engineering and Division of Systems Engineering",
+ "fields": [
+  "ds",
+  "mat"
+ ],
+ "id": "bu-self-driving-lab-ai-pd",
+ "n": "Boston University: Postdoc in Autonomous Science & Robotic AI Orchestration",
+ "nom": false,
+ "pt": "group",
+ "s": "open",
+ "src": "ajo:32658",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32658",
+ "unv": "Posted Sep 10 (slightly outside the 3-week window).",
+ "us": false
+}

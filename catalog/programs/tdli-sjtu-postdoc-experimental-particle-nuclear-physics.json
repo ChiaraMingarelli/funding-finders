@@ -1,0 +1,28 @@
+{
+ "a": "competitive (US-comparable); 2+1 years, further 3 possible",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-12-20",
+ "dt": "2026/12/20 23:59:59 (time zone not stated on page)",
+ "e": "Underground (dark matter, neutrinos) and accelerator-based (LHC-ATLAS, muon science, light dark matter) experiments. PhD in experimental particle physics; start Fall 2027.",
+ "f": "Shanghai Jiao Tong University, Tsung-Dao Lee Institute, Particle and Nuclear Division (Jianglai Liu, Kim Siang Khaw, Haijun Yang and others)",
+ "fields": [
+  "ppx",
+  "nux",
+  "inst"
+ ],
+ "id": "tdli-sjtu-postdoc-experimental-particle-nuclear-physics",
+ "n": "TDLI (SJTU): Postdoc - Experimental Particle & Nuclear Physics",
+ "nom": false,
+ "s": "open",
+ "src": "ajo:32305",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32305",
+ "us": false
+}

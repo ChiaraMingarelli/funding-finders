@@ -1,0 +1,34 @@
+{
+ "a": "up to $87,035/yr + $17,000/yr research + $6,000 relocation; 3 years",
+ "added": "2026-09-30",
+ "asub": [
+  "xgal",
+  "star"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-09-30",
+ "d": "2026-11-01",
+ "dt": "Nov 1, 2026",
+ "e": "How stars and galaxies form and evolve across cosmic time. Requires a PhD.",
+ "f": "Arizona State University, SESE, Beus Center for Cosmic Foundations",
+ "fields": [
+  "astro"
+ ],
+ "id": "arizona-state-beus-prize-fellow",
+ "n": "Arizona State: Beus Prize Fellow",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "aas:dcf7a33c",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://apply.interfolio.com/190307",
+ "us": false
+}

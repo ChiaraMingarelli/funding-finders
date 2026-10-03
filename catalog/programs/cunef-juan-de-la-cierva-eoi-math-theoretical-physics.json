@@ -1,0 +1,29 @@
+{
+ "a": "",
+ "added": "2026-10-01",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-01",
+ "d": "2026-10-31",
+ "dt": "Expression of interest by Oct 31, 2026; official AEI application window Nov 12-26, 2026",
+ "e": "Expression of interest to be hosted by the GeomMPhys group (geometry, mathematical physics, QFT, quantum information) for a Spanish Juan de la Cierva postdoctoral fellowship. PhD must be defended between Jan 1, 2024 and Dec 31, 2026 (extensions per call).",
+ "f": "CUNEF Universidad, Geometrical Mathematical Physics (GeomMPhys) group, Madrid",
+ "fields": [
+  "ppt",
+  "qp"
+ ],
+ "id": "cunef-juan-de-la-cierva-eoi-math-theoretical-physics",
+ "n": "CUNEF Universidad: Juan de la Cierva 2026 Fellowship EOI (Mathematical & Theoretical Physics)",
+ "nom": false,
+ "pt": "prize",
+ "s": "open",
+ "src": "inspire:3209476",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3209476",
+ "us": false
+}

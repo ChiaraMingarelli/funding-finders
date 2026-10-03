@@ -1,0 +1,35 @@
+{
+ "a": "TESS 2-min and 20-s target slots plus NASA funding for US investigators",
+ "added": "2026-10-03",
+ "asub": [
+  "exo",
+  "star"
+ ],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Cycle 10 not posted; Cycle 9 closed 10 Mar 2026; calls usually come in spring",
+ "e": "NASA's call to put targets on TESS and fund related science. Open to all; NASA funding goes only to US investigators.",
+ "f": "NASA TESS",
+ "fields": [
+  "astro"
+ ],
+ "id": "tess-gi-cycle-10",
+ "n": "TESS Guest Investigator Cycle 10",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "watch",
+ "src": "other:tess-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://heasarc.gsfc.nasa.gov/docs/tess/proposing.html",
+ "unv": "Cycle 10 dates; ROSES-2026 not yet released",
+ "us": false
+}

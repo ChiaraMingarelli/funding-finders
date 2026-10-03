@@ -1,0 +1,31 @@
+{
+ "a": "UM postdoc salary plus limited travel/research funds; 1 year renewable for a 2nd",
+ "added": "2026-10-03",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Next submission cycle opens early 2027",
+ "e": "Postdoctoral fellowship in any quantum science and technology discipline, requiring a committed QRI faculty mentor; PhD within the last 3 years.",
+ "f": "University of Michigan, Quantum Research Institute",
+ "fields": [
+  "qp",
+  "amo",
+  "cmx",
+  "phot"
+ ],
+ "id": "umich-qri-postdoc-fellowship",
+ "n": "University of Michigan Quantum Research Institute (QRI) Postdoctoral Fellowship",
+ "nom": false,
+ "pt": "prize",
+ "s": "watch",
+ "src": "other:umich-qri",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://quantum.umich.edu/call-for-application-2026/",
+ "us": false
+}

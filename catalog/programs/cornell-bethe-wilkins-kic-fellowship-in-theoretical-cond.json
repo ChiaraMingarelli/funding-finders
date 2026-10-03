@@ -1,0 +1,30 @@
+{
+ "a": "$80,000/yr; ~2 years",
+ "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Oct 1, 2026 deadline (for Klarman nomination) has passed; the search continues until the positions are filled.",
+ "e": "Hard and soft condensed-matter theory incl. biophysics, cold atoms, electronic structure, ML, statistical physics and quantum information. No more than 3 years past PhD.",
+ "f": "Cornell University, LASSP / Department of Physics",
+ "fields": [
+  "cmt",
+  "bio",
+  "amo",
+  "qp"
+ ],
+ "id": "cornell-bethe-wilkins-kic-fellowship-in-theoretical-cond",
+ "n": "Cornell: Bethe/Wilkins/KIC Fellowship in Theoretical Condensed Matter",
+ "nom": false,
+ "s": "rolling",
+ "src": "ajo:32454",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32454",
+ "us": false
+}

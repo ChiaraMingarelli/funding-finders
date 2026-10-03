@@ -1,0 +1,27 @@
+{
+ "a": "not listed",
+ "added": "2026-09-30",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Listing closed Sep 30, 2026; the search stays open until the position is filled.",
+ "e": "Higgs and flavor physics, CP violation and deep learning. Requires a PhD in particle phenomenology.",
+ "f": "National Taiwan University; PI Cheng-Wei Chiang",
+ "fields": [
+  "ppt",
+  "ds"
+ ],
+ "id": "national-taiwan-u-particle-phenomenology-postdoc",
+ "n": "National Taiwan U.: Particle phenomenology postdoc",
+ "nom": false,
+ "s": "rolling",
+ "src": "inspire:3162343",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3162343",
+ "us": false
+}

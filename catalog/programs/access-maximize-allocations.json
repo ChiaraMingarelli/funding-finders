@@ -1,0 +1,30 @@
+{
+ "a": "Large-scale HPC allocations",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Compute",
+ "checked": "2026-09-29",
+ "d": "2027-01-31",
+ "dt": "Window Dec 15, 2026 to Jan 31, 2027",
+ "e": "US researchers needing large allocations; full proposal reviewed by panel. Coordinator-verified.",
+ "f": "NSF ACCESS",
+ "fields": [
+  "ds",
+  "all"
+ ],
+ "id": "access-maximize-allocations",
+ "n": "ACCESS Maximize allocations",
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://allocations.access-ci.org/",
+ "us": false
+}

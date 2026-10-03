@@ -1,0 +1,35 @@
+{
+ "a": "Total $30,000,000; ~30 awards; EAGER track plus 4-yr grants up to $2M",
+ "added": "2026-09-28",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-09-29",
+ "d": "2027-02-11",
+ "dt": "Posted 2026-08-17",
+ "e": "IHEs and non-profit research orgs. Computing approaches that harness wave dynamics (photonic, acoustic, etc.).",
+ "f": "NSF",
+ "fields": [
+  "amo",
+  "qp",
+  "cmx"
+ ],
+ "id": "nsf-efri-2026-27-wave-based-computing",
+ "n": "NSF EFRI-2026/27: Wave-Based Computing",
+ "nofo": [
+  {
+   "opp": "26-524",
+   "u": "https://simpler.grants.gov/opportunity/2428d7a5-a82f-456f-88ed-9eb6a3fd91e0"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/2428d7a5-a82f-456f-88ed-9eb6a3fd91e0",
+ "us": false
+}

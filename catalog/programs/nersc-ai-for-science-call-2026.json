@@ -1,0 +1,32 @@
+{
+ "a": "Up to 10k Perlmutter GPU node-hrs",
+ "added": "2026-09-28",
+ "aud": [
+  "radar",
+  "ast"
+ ],
+ "c": "Compute",
+ "checked": "2026-09-28",
+ "d": null,
+ "dt": "Rolling until resources run out; awards end Jan 19, 2027",
+ "e": "DOE NERSC call for AI-for-science projects on Perlmutter, open until resources run out; awards end Jan 19, 2027. Ask NERSC whether hours remain.",
+ "f": "DOE / NERSC",
+ "fields": [
+  "ds",
+  "all"
+ ],
+ "id": "nersc-ai-for-science-call-2026",
+ "n": "NERSC AI for Science call",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "other:nersc-ai4sci-2026",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nersc.gov/news-and-events/news/2026-ai-for-science-cfp",
+ "unv": "DOE-funding requirement",
+ "us": false
+}

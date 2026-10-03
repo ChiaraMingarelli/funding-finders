@@ -1,0 +1,32 @@
+{
+ "a": "Travel + registration waiver",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Travel",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Usually opens ~Oct 1",
+ "e": "For final-year students giving a dissertation talk, and postdocs within 1 year of the PhD.",
+ "f": "AAS",
+ "fields": [
+  "astro"
+ ],
+ "id": "rodger-doxsey-travel-prize-aas-249",
+ "n": "Rodger Doxsey Travel Prize (AAS 249)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "stages": [
+  "gr",
+  "pd"
+ ],
+ "u": "https://aas.org/grants-and-prizes/rodger-doxsey-travel-prize",
+ "unv": "2026 date not posted",
+ "us": false
+}

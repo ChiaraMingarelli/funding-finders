@@ -1,0 +1,24 @@
+{
+ "a": "not listed",
+ "added": "2026-09-30",
+ "c": "Group postdoc",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "Search remains open; applications reviewed as received.",
+ "e": "LEGEND, Project 8 and PHONON neutrino experiments. Requires a PhD in experimental subatomic or nuclear physics.",
+ "f": "Indiana University Bloomington; PI Walter C. Pettus",
+ "fields": [
+  "nux",
+  "ppx"
+ ],
+ "id": "indiana-u-neutrino-physics-postdoc-legend-project-8-phon",
+ "n": "Indiana U.: Neutrino physics postdoc (LEGEND/Project 8/PHONON)",
+ "nom": false,
+ "s": "rolling",
+ "src": "inspire:3167068",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://indiana.peopleadmin.com/postings/31263",
+ "us": false
+}

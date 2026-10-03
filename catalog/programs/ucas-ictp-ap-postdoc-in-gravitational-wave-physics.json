@@ -1,0 +1,36 @@
+{
+ "a": "~CNY 320,000/yr + travel funds; 2 years (+1)",
+ "added": "2026-09-30",
+ "asub": [
+  "cos",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-09-30",
+ "d": "2026-10-31",
+ "dt": "2026/10/31 23:59:59 (time zone not stated on page); open until filled",
+ "e": "GW detection, GW cosmology, data analysis and/or numerical relativity. PhD in theoretical physics.",
+ "f": "University of Chinese Academy of Sciences, ICTP Asia-Pacific (Jun Zhang)",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "ucas-ictp-ap-postdoc-in-gravitational-wave-physics",
+ "n": "UCAS ICTP-AP: Postdoc in Gravitational-Wave Physics",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:32144",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32144",
+ "us": false
+}

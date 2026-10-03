@@ -1,0 +1,35 @@
+{
+ "a": "AWS promotional credits (students max $5,000; no stated cap for faculty/staff)",
+ "added": "2026-09-29",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Compute",
+ "checked": "2026-09-29",
+ "d": null,
+ "dt": "Rolling; 90 to 120-day review",
+ "e": "Full-time faculty, research staff, or grad students at accredited research institutions.",
+ "f": "Amazon Web Services",
+ "fields": [
+  "ds",
+  "all"
+ ],
+ "id": "aws-cloud-credit-for-research",
+ "n": "AWS Cloud Credit for Research",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/",
+ "us": false
+}

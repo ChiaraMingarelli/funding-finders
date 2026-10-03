@@ -1,0 +1,31 @@
+{
+ "a": "IGNIITE 2026: up to $500,000 per award, ~$10M total",
+ "added": "2026-10-03",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-03",
+ "d": null,
+ "dt": "IGNIITE 2026 concept papers closed May 29, 2026; next cycle not announced",
+ "e": "Funds early-career scientists and engineers working on unconventional energy technology ideas. The 2026 call reportedly required a PhD within about 8 years and limited applicants to U.S. citizens, permanent residents and green-card applicants.",
+ "f": "ARPA-E",
+ "fields": [
+  "energy",
+  "mat",
+  "dev"
+ ],
+ "id": "arpa-e-igniite",
+ "n": "ARPA-E IGNIITE (early-career innovators)",
+ "nom": false,
+ "pt": "other",
+ "s": "watch",
+ "src": "other:arpa-e-igniite",
+ "stages": [
+  "tt",
+  "pd"
+ ],
+ "u": "https://arpa-e.energy.gov/programs-and-initiatives/view-all-programs/igniite-2026",
+ "unv": "ARPA-E pages did not render. Award size, eligibility and dates come from a consultant summary and the title of ARPA-E's announcement. Whether postdocs qualify and whether the program will recur are unverified.",
+ "us": true
+}
