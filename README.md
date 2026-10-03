@@ -55,7 +55,7 @@ Each program has these fields:
 
 1. The catalog is rechecked every Monday and new postings are added on the other days of the week. The tips are kept current daily.
 2. Whenever `catalog/`, `templates/` or `engine/` changes on `main`, the **Build pages** workflow runs `engine/build.py`, commits the result and publishes `docs/`. It also runs once a day.
-3. Updates sent as pull requests from `claude/` branches are merged by the **Accept catalog updates** workflow if they only touch the catalog and pass the build check. Anything else waits for review.
+3. Updates pushed to `claude/` branches (by the cloud routines) are merged into `main` by the **Accept catalog updates** workflow if they only touch the catalog, merge cleanly and pass the build check. Anything else is left on its branch for review.
 4. Each single-page repository ([Physics](https://github.com/ChiaraMingarelli/yale-physics-funding-finder), [Applied Physics](https://github.com/ChiaraMingarelli/yale-applied-physics-funding-finder), [Astronomy](https://github.com/ChiaraMingarelli/yale-astronomy-funding-finder), [NANOGrav](https://github.com/ChiaraMingarelli/nanohertz-opportunities)) copies its files from `sites/` every hour and publishes them.
 
 Deadlines move. Check the funder's page before you commit to a date.

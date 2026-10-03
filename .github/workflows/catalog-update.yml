@@ -1,0 +1,55 @@
+# Accept catalog updates that the cloud routines push to claude/ branches.
+# The branch is merged into main only if it changes nothing but catalog files (and the
+# "What changed" notes in the Applied Physics and Astronomy export scripts), merges cleanly,
+# and the merged catalog passes the build check. Otherwise the branch is left for review.
+name: Accept catalog updates
+
+on:
+  push:
+    branches: ["claude/**"]
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: catalog-update
+  cancel-in-progress: false
+
+jobs:
+  accept:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check that only catalog files changed
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          git fetch --quiet origin "$BRANCH"
+          git diff --name-only "origin/main...origin/$BRANCH" > "$RUNNER_TEMP/changed.txt"
+          cat "$RUNNER_TEMP/changed.txt"
+          if [ ! -s "$RUNNER_TEMP/changed.txt" ]; then echo "Nothing to merge."; exit 1; fi
+          if grep -v -E '^(catalog/(programs|meta)/[a-z0-9][a-z0-9-]*\.json|engine/export_(ap|astro)\.py)$' "$RUNNER_TEMP/changed.txt"; then
+            echo "::error::Branch $BRANCH changes files outside the catalog, so it is left for review."
+            exit 1
+          fi
+      - name: Merge into main and check the result
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git merge --no-edit "origin/$BRANCH" -m "Catalog update from $BRANCH"
+          python3 engine/build.py --check
+          git push origin HEAD:main
+          git push origin --delete "$BRANCH"
+      - name: Build and publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run build.yml --ref main
