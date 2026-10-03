@@ -455,7 +455,7 @@ const TODAY = new Date(); TODAY.setHours(0,0,0,0);
 const FIELDS = [
   {k:"cos", n:"Cosmology"},{k:"exo", n:"Exoplanets"},{k:"xgal", n:"Extragalactic Astronomy"},{k:"galac", n:"Galactic Astronomy"},
   {k:"he", n:"High Energy Astrophysics"},{k:"star", n:"Solar and Stellar Astrophysics"},{k:"ism", n:"Star Formation and Interstellar Medium"},
-  {k:"inst", n:"Instrumentation", x:true},{k:"*", n:"All areas", x:true}
+  {k:"inst", n:"Instrumentation", x:true},{k:"obs", n:"Telescope Time", x:true},{k:"*", n:"All areas", x:true}
 ];
 const TAGN = {};
 const STAGES = [
@@ -490,7 +490,9 @@ try{
 $("noUS").checked=noUS; $("noNom").checked=noNom;
 const save=()=>{try{localStorage.setItem("astff-field",field);localStorage.setItem("astff-stage",stage);localStorage.setItem("astff-nous",noUS?"1":"0");localStorage.setItem("astff-nonom",noNom?"1":"0");localStorage.setItem("astff-pt",ptype);}catch(e){}};
 
-const inField = (x,f=field) => f==="*" || arr(x.fields).includes("all") || !arr(x.asub).length || arr(x.asub).includes(f);
+/* Telescope time has its own tab: observing-time calls show only there and under All areas. */
+const isObs = x => x.c==="Observing time";
+const inField = (x,f=field) => f==="*" || (f==="obs" ? isObs(x) : !isObs(x) && (arr(x.fields).includes("all") || !arr(x.asub).length || arr(x.asub).includes(f)));
 const inStage = (x,s=stage) => arr(x.stages).includes(s);
 const eligible = x => !(noUS && x.us) && !(noNom && x.nom);
 const active = x => effStatus(x)!=="closed";
