@@ -95,6 +95,7 @@
   "n": "AAS International Travel Grants",
   "nfit": "Medium",
   "nom": false,
+  "pt": "other",
   "region": "US",
   "s": "watch",
   "stages": [
@@ -433,9 +434,9 @@
   "a": "Typically a few hundred to ~$1,000+",
   "added": "2026-09-29",
   "c": "Travel",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "d": null,
-  "dt": "Deadlines vary by unit and meeting (often ~2 to 3 months before a meeting)",
+  "dt": "Deadlines vary by unit and meeting; e.g., APS DAP student/postdoc travel grants for the Global Physics Summit close Oct 25, 2026",
   "e": "Students/postdocs presenting at society meetings; membership often required.",
   "f": "APS units / AAS",
   "fields": [
@@ -445,6 +446,7 @@
   "n": "APS / AAS student and early-career travel grants",
   "nfit": "Low",
   "nom": false,
+  "pt": "other",
   "region": "US",
   "s": "watch",
   "stages": [
@@ -453,16 +455,16 @@
    "ug"
   ],
   "u": "https://www.aps.org/",
-  "unv": "Unit-by-unit dates not checked; aps.org and aas.org returned 403 on Oct 7, 2026.",
+  "unv": "Other unit dates not checked; aas.org blocked automated access (HTTP 403) on Oct 7, 2026, so the AAS grants were not rechecked.",
   "us": false
  },
  {
   "a": "$5,000 to student + $5,000 to department + travel",
   "added": "2026-10-03",
   "c": "Prize",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "d": null,
-  "dt": "Last posted nomination deadline Jun 3, 2025; annual early-June cycle",
+  "dt": "Last deadline Jun 2, 2026; the next cycle is not posted yet",
   "e": "Recognizes outstanding research by undergraduates at US colleges and universities. One nominee per department.",
   "f": "American Physical Society",
   "fields": [
@@ -477,7 +479,7 @@
    "ug"
   ],
   "u": "https://www.aps.org/funding-recognition/award/leroy-apker-award",
-  "unv": "2027 deadline not posted. The APS page returned HTTP 403 on 2026-10-07, so it was not rechecked.",
+  "unv": "The 2027 nomination deadline is not posted.",
   "us": false
  },
  {
@@ -512,9 +514,9 @@
   "a": "Honorific",
   "added": "2026-09-28",
   "c": "Prize",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "d": null,
-  "dt": "Nominations open Jan 1; unit deadlines ~Apr 1 to mid-Jun (e.g., DCMP earliest, then DNP, then most units ~early Jun)",
+  "dt": "2026 deadlines included Apr 1 (DCMP) and Jun 1 (general category); 2027 dates are not posted yet",
   "e": "APS members nominated by two APS members through a division/topical group or the general category.",
   "f": "American Physical Society",
   "fields": [
@@ -527,18 +529,18 @@
   "stages": [
    "ten"
   ],
-  "u": "https://www.aps.org/funding-recognition/unit-deadlines",
-  "unv": "Official page shows 2024 dates only; 2027 unit deadlines not confirmed. The APS page returned HTTP 403 on 2026-10-07, so it was not rechecked.",
+  "u": "https://www.aps.org/funding-recognition/aps-fellowship/aps-general-fellowship",
+  "unv": "2027 deadlines not posted. Each unit's fellowship page lists its own deadline; only DCMP and the general category were checked. The APS unit-deadlines page showed no content on Oct 7, 2026.",
   "us": false
  },
  {
-  "a": "$1,500 + registration",
+  "a": "$1,500, certificate and registration waiver; finalists receive up to $750 travel reimbursement",
   "added": "2026-09-28",
   "c": "Prize",
-  "checked": "2026-09-28",
-  "d": null,
-  "dt": "",
-  "e": "APS Division of Astrophysics award for an outstanding astrophysics PhD thesis defended in the previous 2 years.",
+  "checked": "2026-10-07",
+  "d": "2026-11-01",
+  "dt": "Nominations due Nov 1, 2026",
+  "e": "APS Division of Astrophysics award for an outstanding astrophysics PhD thesis defended in the two calendar years before the award year. The thesis advisor nominates; the nominee and nominator must be DAP members.",
   "f": "APS Division of Astrophysics",
   "fields": [
    "astro"
@@ -549,14 +551,13 @@
   "nom": false,
   "pt": "other",
   "region": "US",
-  "s": "watch",
+  "s": "open",
   "src": "other:aps-dap-dissertation",
   "stages": [
    "gr",
    "pd"
   ],
   "u": "https://www.aps.org/funding-recognition/award/dissertation-in-astrophysics",
-  "unv": "deadline not posted. The APS page returned HTTP 403 on 2026-10-07, so it was not rechecked.",
   "us": false
  },
  {
@@ -727,6 +728,7 @@
   "n": "Aspen Center for Physics Summer Program 2027",
   "nfit": "Low",
   "nom": false,
+  "pt": "other",
   "region": "US",
   "s": "open",
   "stages": [
@@ -753,6 +755,7 @@
   "n": "Aspen Center for Physics Winter Conferences 2027",
   "nfit": "Low",
   "nom": false,
+  "pt": "other",
   "region": "US",
   "s": "open",
   "stages": [
@@ -1293,7 +1296,7 @@
    "xgal"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "d": "2027-01-08",
   "dt": "Deadline Jan 8, 2027; start Summer 2027",
   "e": "Galaxy evolution and large-scale structure at cosmic noon with the Roman Space Telescope (IGM tomography, protoclusters, environment at z~2-3). PhD in astronomy, physics or related field by start.",
@@ -1313,7 +1316,7 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/ff862c4f",
-  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
+  "unv": "Salary and term not reconfirmed: the AAS ad was blocked (HTTP 403) on Oct 7, 2026. Caltech PMA's Positions Available page confirms the Jan 8, 2027 deadline.",
   "us": false
  },
  {
@@ -1354,7 +1357,7 @@
    "he"
   ],
   "c": "Group postdoc",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "d": "2026-12-04",
   "dt": "Dec 4, 2026",
   "e": "Compact objects, ULXs, AGN, clusters, GRBs and SNRs. X-ray data analysis required; NuSTAR experience preferred.",
@@ -1374,7 +1377,7 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/ca443bb1",
-  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
+  "unv": "Salary and term not reconfirmed: the AAS ad was blocked (HTTP 403) on Oct 7, 2026. Caltech PMA's Positions Available page confirms the Dec 4, 2026 deadline.",
   "us": false
  },
  {
@@ -1844,6 +1847,7 @@
   "n": "Chandra Cycle 29 General Observer",
   "nfit": "Medium",
   "nom": false,
+  "pt": "other",
   "region": "US",
   "s": "watch",
   "stages": [
@@ -2383,13 +2387,13 @@
   "us": false
  },
  {
-  "a": "Full tuition, monthly stipend, health insurance, book allowance, summer internships",
+  "a": "Full tuition, annual stipend of $30,000-$46,000 by degree level, health and book allowances, summer internships",
   "added": "2026-10-03",
   "c": "Scholarship",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "d": "2026-12-04",
-  "dt": "Applications due Dec 4, 2026; awardees start May–June 2027",
-  "e": "Supports undergraduate, master's and PhD students in STEM. In return, recipients work at a DoD laboratory or facility after graduation. U.S. citizens only.",
+  "dt": "Applications due 5 p.m. ET, Dec 4, 2026 (the first Friday in December); funding begins Aug 2027",
+  "e": "Scholarships for bachelor's, master's and PhD students in STEM fields including physics, with summer internships and one year of civilian work at a Department of War (DoD) facility for each year of funding. Open to citizens of the US, Australia, Canada, New Zealand or the UK.",
   "f": "DoD SMART Scholarship Program",
   "fields": [
    "all"
@@ -2404,7 +2408,6 @@
    "ug"
   ],
   "u": "https://www.smartscholarship.org/smart",
-  "unv": "SMART site did not render on 2026-10-07; Dec 4, 2026 deadline is from a program press release dated Sept 30, 2026. The citizenship rule and the length of the service commitment were not re-checked on the site.",
   "us": true
  },
  {
@@ -2998,7 +3001,7 @@
   "added": "2026-10-03",
   "asub": [],
   "c": "Observing time",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "d": null,
   "dt": "The 2026 call was posted 31 Dec 2025 with a deadline of 16:00 UT, 31 Mar 2026, extended to 16:00 UT, 7 Apr 2026, for observations Aug 2026 to Jul 2027. The next call is not posted.",
   "e": "Yearly call for China's FAST radio telescope. Users of any nationality or affiliation may submit Regular Science Program proposals; Medium-Sized Program PIs must be at an institution in China.",
@@ -3852,6 +3855,7 @@
   ],
   "id": "guggenheim-fellowship-2028-competition",
   "n": "Guggenheim Fellowship (2028 competition)",
+  "nfit": "Low",
   "nom": false,
   "s": "watch",
   "stages": [
@@ -4149,6 +4153,7 @@
   ],
   "id": "heising-simons-science-events-gatherings",
   "n": "Heising-Simons Science Events & Gatherings",
+  "nfit": "Medium",
   "nom": false,
   "s": "open",
   "stages": [
@@ -4408,10 +4413,10 @@
   "a": "Stipend + housing eligibility; sabbatical stipends vary",
   "added": "2026-09-29",
   "c": "Sabbatical",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "d": "2026-11-15",
   "dt": "Nov 15, 2026 (physics & astrophysics); biology has no fixed deadline",
-  "e": "Postdoctoral members (3 yr), long-term members/Bahcall Fellows, visiting professorships for faculty within 10 yrs of PhD, and sabbaticals for senior scientists. Theory-focused.",
+  "e": "Postdoctoral members (3 to 5 years), long-term members (Bahcall Fellows in astrophysics), visiting professorships for faculty normally within 10 years of the PhD, and sabbatical visits for senior scientists. Theory-focused.",
   "f": "Institute for Advanced Study",
   "fields": [
    "astro",
@@ -4433,7 +4438,6 @@
    "ten"
   ],
   "u": "https://www.ias.edu/sns/apply",
-  "unv": "ias.edu returned 403 on 2026-10-07; Nov 15, 2026 deadline confirmed only by third-party listings",
   "us": false
  },
  {
@@ -5462,16 +5466,16 @@
   "us": false
  },
  {
-  "a": "—",
+  "a": "$70,000-$80,000 per year (salary range in the AJO ads)",
   "added": "2026-09-29",
   "asub": [
    "he"
   ],
   "c": "Group postdoc",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "d": null,
-  "dt": "Posted on Academic Jobs Online when open",
-  "e": "No current posting found.",
+  "dt": "No deadline: the instrument/experiment posting on AJO (#29381) stays open until all positions are filled; the data-analysis posting (#30721) is closed",
+  "e": "Postdocs at the LIGO Laboratory sites (Caltech, MIT, Hanford, Livingston); the current open posting is for experiment and instrumentation work, with hires as funding allows. No citizenship limits stated.",
   "f": "Caltech / MIT",
   "fields": [
    "grav",
@@ -5483,12 +5487,12 @@
   "nom": false,
   "pt": "group",
   "region": "US",
-  "s": "watch",
+  "s": "rolling",
   "stages": [
    "pd"
   ],
   "u": "https://www.ligo.caltech.edu/page/postdocs",
-  "unv": "Official LIGO postdocs page returned 503 on Oct 7, 2026. On AJO, the data-analysis posting (#30721) is closed; the instrument/experiment posting (#29381, from Dec 2024, no deadline) still shows Apply.",
+  "unv": "The instrument/experiment posting dates from Dec 2024; it still accepted applications on Oct 7, 2026.",
   "us": false
  },
  {
@@ -5762,10 +5766,10 @@
   "a": "$80,000/yr + $12,000/yr; 2 years",
   "added": "2026-09-30",
   "c": "Fellowship",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "d": "2026-11-02",
   "dt": "Nov 2, 2026, 7:00 pm EST",
-  "e": "AI/ML methods for Rubin LSST data. PhD awarded Jan 2019–Aug 2027 with a record of AI/ML data-intensive research.",
+  "e": "Two-year fellowship to apply AI/ML methods to Rubin LSST data, with dedicated NVIDIA GPU time at SLAC. PhD awarded Jan 2019–Aug 2027; open to English-speaking citizens of all nations, at an eligible host institution of the applicant's choice (including outside the US).",
   "f": "LSST Discovery Alliance; contact Ana Gabela",
   "fields": [
    "astro",
@@ -5782,8 +5786,7 @@
   "stages": [
    "pd"
   ],
-  "u": "https://aas.org/jobregister/ad/8bd99c92",
-  "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
+  "u": "https://lsstdiscoveryalliance.org/vera-c-rubin-astronomy-frontiers-fellowship/",
   "us": false
  },
  {
@@ -6371,7 +6374,7 @@
    "cos"
   ],
   "c": "Group postdoc",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "d": "2026-12-08",
   "dt": "Dec 8, 2026",
   "e": "FYST polarization analysis: TB/EB correlations, dust and polarization-angle signals. Background in CMB/submm polarization analysis wanted.",
@@ -6390,8 +6393,7 @@
   "stages": [
    "pd"
   ],
-  "u": "https://aas.org/jobregister/ad/7885b453",
-  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
+  "u": "https://www.mpa-garching.mpg.de/1155408/fystpolarization2026",
   "us": false
  },
  {
@@ -6554,9 +6556,9 @@
    "inst"
   ],
   "c": "Fellowship",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "d": "2026-10-13",
-  "dt": "Oct 13, 2026",
+  "dt": "Oct 13, 2026, 12 pm CEST",
   "e": "Extreme AO for ELT/PCS: wavefront sensing, control algorithms and DM characterization. Optics/instrumentation experience needed.",
   "f": "Max Planck Institute for Astronomy, PFE; contact Markus Feldt",
   "fields": [
@@ -6575,7 +6577,6 @@
    "pd"
   ],
   "u": "https://postdocprogram.mpg.de/node/58468",
-  "unv": "The MPG postdoc program page lists the September 2026 application round but no closing date, and the AAS ad returned 403 on Oct 7, 2026; Oct 13 not reconfirmed.",
   "us": false
  },
  {
@@ -6743,6 +6744,7 @@
   ],
   "id": "nasa-astrophysics-data-analysis-program-adap",
   "n": "NASA Astrophysics Data Analysis Program (ADAP)",
+  "nfit": "Medium",
   "nom": false,
   "s": "watch",
   "stages": [
@@ -6771,6 +6773,7 @@
   ],
   "id": "nasa-astrophysics-theory-program-atp",
   "n": "NASA Astrophysics Theory Program (ATP)",
+  "nfit": "Medium",
   "nom": false,
   "s": "watch",
   "stages": [
@@ -6978,6 +6981,7 @@
   ],
   "id": "nasa-lisa-preparatory-science",
   "n": "NASA LISA Preparatory Science",
+  "nfit": "High",
   "nom": false,
   "s": "watch",
   "stages": [
@@ -7097,6 +7101,7 @@
   ],
   "id": "nasa-theoretical-and-computational-astrophysics-networks-tca",
   "n": "NASA Theoretical and Computational Astrophysics Networks (TCAN, ROSES-25 D.4)",
+  "nfit": "High",
   "nofo": [
    {
     "opp": "NNH25ZDA001N-TCAN",
@@ -7978,6 +7983,7 @@
   ],
   "id": "nsf-astro-core-astronomical-sciences-core-research-formerly-",
   "n": "NSF Astro-Core (Astronomical Sciences Core Research; formerly AAG)",
+  "nfit": "Medium",
   "nofo": [
    {
     "opp": "26-522",
@@ -8135,6 +8141,7 @@
   ],
   "id": "nsf-cssi-cyberinfrastructure-for-sustained-scientific-innova",
   "n": "NSF CSSI (Cyberinfrastructure Systems for Scientific Innovation)",
+  "nfit": "Low",
   "nom": false,
   "s": "watch",
   "stages": [
@@ -8220,6 +8227,7 @@
   ],
   "id": "nsf-gravitational-physics",
   "n": "NSF Gravitational Physics",
+  "nfit": "High",
   "nofo": [
    {
     "opp": "26-523",
@@ -8707,10 +8715,10 @@
    "he"
   ],
   "c": "Fellowship",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "d": "2026-11-16",
   "dt": "Nov 16, 2026, noon (TZ not stated)",
-  "e": "Independent research in Earth and Universe sciences; also listed on the LIGO LAAC job board. Requires prior postdoc work outside OCA.",
+  "e": "Two-year contract for an independent research program in Earth and Universe sciences at OCA, Nice. Open to all applicants with a PhD completed by the deadline whose PhD and postdoc were outside OCA; an OCA scientific host submits the application.",
   "f": "Observatoire de la Côte d'Azur, Nice; contacts Muriel Billerey, Mathias Schultheis",
   "fields": [
    "astro",
@@ -8727,8 +8735,7 @@
   "stages": [
    "pd"
   ],
-  "u": "https://aas.org/jobregister/ad/6076de03",
-  "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
+  "u": "https://www.oca.eu/fr/programme-jeunes-chercheurs",
   "us": false
  },
  {
@@ -9105,6 +9112,7 @@
   ],
   "id": "peter-salovey-and-marta-moret-data-science-fellows-program",
   "n": "Peter Salovey and Marta Moret Data Science Fellows Program",
+  "nfit": "Low",
   "nom": false,
   "s": "watch",
   "stages": [
@@ -9271,7 +9279,7 @@
   "a": "$78,000 stipend + $5,000 project expenses; 1 yr in residence",
   "added": "2026-09-28",
   "c": "Sabbatical",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "d": null,
   "dt": "Last deadline Oct 1, 2026 (science, engineering and math); 2028–2029 application details expected in spring 2027",
   "e": "Scientists with a strong record (typically post-tenure or senior; untenured faculty with significant publications can apply). Coordinator-verified.",
@@ -9360,6 +9368,7 @@
   "n": "Rodger Doxsey Travel Prize (AAS 249)",
   "nfit": "Medium",
   "nom": false,
+  "pt": "other",
   "region": "US",
   "s": "watch",
   "stages": [
@@ -9531,6 +9540,7 @@
   ],
   "id": "simons-collaborations-in-mps",
   "n": "Simons Collaborations in MPS",
+  "nfit": "Low",
   "nom": false,
   "s": "open",
   "stages": [
@@ -9603,6 +9613,7 @@
   ],
   "id": "simons-targeted-grants-in-mps",
   "n": "Simons Targeted Grants in MPS",
+  "nfit": "Low",
   "nom": false,
   "s": "rolling",
   "stages": [
@@ -9964,6 +9975,7 @@
   ],
   "id": "stars-summer-research-program",
   "n": "STARS Summer Research Program",
+  "nfit": "Low",
   "nom": false,
   "s": "open",
   "stages": [
@@ -10317,6 +10329,7 @@
   ],
   "id": "templeton-open-funding-inquiries-ofi",
   "n": "Templeton Open Funding Inquiries (OFI)",
+  "nfit": "Low",
   "nom": false,
   "s": "watch",
   "stages": [
@@ -10918,7 +10931,7 @@
   "us": false
  },
  {
-  "a": "not listed; 3 years",
+  "a": "£46,261–£54,019 incl. London Allowance; 3 years",
   "added": "2026-09-30",
   "asub": [
    "xgal",
@@ -10927,7 +10940,7 @@
    "ism"
   ],
   "c": "Group postdoc",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "d": "2026-11-25",
   "dt": "Nov 25, 2026",
   "e": "JWST spectroscopy of ISM, stellar and black hole properties in early galaxies. Expertise in high-z extragalactic observations wanted.",
@@ -10947,7 +10960,6 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/57813d20",
-  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
   "us": false
  },
  {
@@ -11343,6 +11355,7 @@
   "n": "URA Visiting Scholars Program (Fermilab)",
   "nfit": "Medium",
   "nom": false,
+  "pt": "other",
   "region": "US",
   "s": "open",
   "stages": [
@@ -11617,6 +11630,7 @@
   ],
   "id": "w-m-keck-foundation-research-program-science-engineering",
   "n": "W.M. Keck Foundation Research Program (Science & Engineering)",
+  "nfit": "Low",
   "nom": true,
   "s": "open",
   "stages": [
@@ -11699,14 +11713,14 @@
   "us": false
  },
  {
-  "a": "not listed; 3 years",
+  "a": "3 years; extra living-expense assistance plus $15,000/yr research allowance",
   "added": "2026-09-30",
   "asub": [
    "cos",
    "he"
   ],
   "c": "Fellowship",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "d": "2026-12-15",
   "dt": "Dec 15, 2026",
   "e": "Independent theoretical or observational astrophysics research (transients, GWs, cosmology, lensing).",
@@ -11726,8 +11740,8 @@
   "stages": [
    "pd"
   ],
-  "u": "https://www.weizmann.ac.il/AstroCenter/fellowship-submission/",
-  "unv": "AAS ad returned 403 on 2026-10-07; the Weizmann center page still shows the 2025-26 cycle (closed, deadline Jan 15, 2026), so the Dec 15, 2026 date and salary are not re-verified.",
+  "u": "https://centers.weizmann.ac.il/AstroCenter/benoziyo-fellowship",
+  "unv": "AAS ad blocked (HTTP 403) on Oct 7, 2026; the Weizmann Benoziyo Fellowship page still shows the 2025-26 cycle (closed, deadline Jan 15, 2026), so the Dec 15, 2026 deadline is from the AAS listing only and was not reconfirmed.",
   "us": false
  },
  {
@@ -11885,7 +11899,7 @@
   "a": "Up to $30,000",
   "added": "2026-09-30",
   "c": "Yale internal",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "d": "2026-10-21",
   "dt": "Internal deadline Oct 21, 2026.",
   "e": "Yale faculty and staff eligible to serve as PIs, for international collaborations on issues of global significance (e.g. workshops or partner visits with institutions abroad). Contact: nathan.camp@yale.edu.",
@@ -11902,8 +11916,8 @@
    "tt",
    "ten"
   ],
-  "u": "https://world.yale.edu/news/spring-2026-yale-and-the-world-partnership-fund-awardees-announced",
-  "unv": "The listed page (Jun 18, 2026) says a fall 2026 call will be announced but does not state the Oct 21, 2026 deadline or the amount; no posted call was found on Oct 7, 2026.",
+  "u": "https://world.yale.edu/academics-research/major-partnerships",
+  "unv": "The Yale and the World page confirms the fall 2026 round with applications due Oct 21, 2026; it does not state an award amount, and the InfoReady call page could not be read (JavaScript), so 'Up to $30,000' is not verified.",
   "us": false
  },
  {
@@ -11921,6 +11935,7 @@
   "id": "yale-center-for-research-computing-standard-tier-hpc-free",
   "n": "Yale Center for Research Computing – standard-tier HPC (free)",
   "nom": false,
+  "pt": "other",
   "s": "rolling",
   "stages": [
    "tt",
@@ -11946,6 +11961,7 @@
   ],
   "id": "yale-college-dean-s-research-fellowship-rosenfeld-science-sc",
   "n": "Yale College Dean's Research Fellowship / Rosenfeld Science Scholars",
+  "nfit": "Low",
   "nom": false,
   "s": "watch",
   "stages": [
@@ -11969,6 +11985,7 @@
   ],
   "id": "yale-college-first-year-summer-research-fellowship-in-the-sc",
   "n": "Yale College First-Year Summer Research Fellowship in the Sciences & Engineering",
+  "nfit": "Low",
   "nom": false,
   "s": "watch",
   "stages": [

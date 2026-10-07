@@ -414,9 +414,9 @@
   "a": "Typically a few hundred to ~$1,000+",
   "added": "2026-09-29",
   "c": "Travel",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "d": null,
-  "dt": "Deadlines vary by unit and meeting (often ~2 to 3 months before a meeting)",
+  "dt": "Deadlines vary by unit and meeting; e.g., APS DAP student/postdoc travel grants for the Global Physics Summit close Oct 25, 2026",
   "e": "Students/postdocs presenting at society meetings; membership often required.",
   "f": "APS units / AAS",
   "fields": [
@@ -426,6 +426,7 @@
   "n": "APS / AAS student and early-career travel grants",
   "nfit": "Low",
   "nom": false,
+  "pt": "other",
   "region": "US",
   "s": "watch",
   "stages": [
@@ -434,16 +435,16 @@
    "ug"
   ],
   "u": "https://www.aps.org/",
-  "unv": "Unit-by-unit dates not checked; aps.org and aas.org returned 403 on Oct 7, 2026.",
+  "unv": "Other unit dates not checked; aas.org blocked automated access (HTTP 403) on Oct 7, 2026, so the AAS grants were not rechecked.",
   "us": false
  },
  {
   "a": "$5,000 to student + $5,000 to department + travel",
   "added": "2026-10-03",
   "c": "Prize",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "d": null,
-  "dt": "Last posted nomination deadline Jun 3, 2025; annual early-June cycle",
+  "dt": "Last deadline Jun 2, 2026; the next cycle is not posted yet",
   "e": "Recognizes outstanding research by undergraduates at US colleges and universities. One nominee per department.",
   "f": "American Physical Society",
   "fields": [
@@ -458,7 +459,7 @@
    "ug"
   ],
   "u": "https://www.aps.org/funding-recognition/award/leroy-apker-award",
-  "unv": "2027 deadline not posted. The APS page returned HTTP 403 on 2026-10-07, so it was not rechecked.",
+  "unv": "The 2027 nomination deadline is not posted.",
   "us": false
  },
  {
@@ -590,9 +591,9 @@
   "a": "Honorific",
   "added": "2026-09-28",
   "c": "Prize",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "d": null,
-  "dt": "Nominations open Jan 1; unit deadlines ~Apr 1 to mid-Jun (e.g., DCMP earliest, then DNP, then most units ~early Jun)",
+  "dt": "2026 deadlines included Apr 1 (DCMP) and Jun 1 (general category); 2027 dates are not posted yet",
   "e": "APS members nominated by two APS members through a division/topical group or the general category.",
   "f": "American Physical Society",
   "fields": [
@@ -605,8 +606,8 @@
   "stages": [
    "ten"
   ],
-  "u": "https://www.aps.org/funding-recognition/unit-deadlines",
-  "unv": "Official page shows 2024 dates only; 2027 unit deadlines not confirmed. The APS page returned HTTP 403 on 2026-10-07, so it was not rechecked.",
+  "u": "https://www.aps.org/funding-recognition/aps-fellowship/aps-general-fellowship",
+  "unv": "2027 deadlines not posted. Each unit's fellowship page lists its own deadline; only DCMP and the general category were checked. The APS unit-deadlines page showed no content on Oct 7, 2026.",
   "us": false
  },
  {
@@ -689,10 +690,10 @@
   "us": false
  },
  {
-  "a": "$3,000, certificate, up to $1,000 travel and registration waiver",
+  "a": "$3,000, certificate, up to $2,000 travel reimbursement and registration waiver",
   "added": "2026-10-03",
   "c": "Prize",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "d": null,
   "dt": "Last deadline June 1, 2026; next cycle not posted",
   "e": "Annual award for an outstanding doctoral thesis in experimental condensed matter or materials physics, submitted within roughly the two years before the award year. Candidates must be nominated.",
@@ -712,7 +713,7 @@
    "pd"
   ],
   "u": "https://www.aps.org/funding-recognition/award/greene",
-  "unv": "The next nomination deadline is not posted. The APS page returned HTTP 403 on 2026-10-07, so it was not rechecked.",
+  "unv": "The next nomination deadline is not posted. The page text says the deadline is typically Sep 1, but the posted 2026 deadline was Jun 1.",
   "us": false
  },
  {
@@ -1084,6 +1085,7 @@
   "n": "Aspen Center for Physics Summer Program 2027",
   "nfit": "Low",
   "nom": false,
+  "pt": "other",
   "region": "US",
   "s": "open",
   "stages": [
@@ -1110,6 +1112,7 @@
   "n": "Aspen Center for Physics Winter Conferences 2027",
   "nfit": "Low",
   "nom": false,
+  "pt": "other",
   "region": "US",
   "s": "open",
   "stages": [
@@ -2532,13 +2535,13 @@
   "us": false
  },
  {
-  "a": "Full tuition, monthly stipend, health insurance, book allowance, summer internships",
+  "a": "Full tuition, annual stipend of $30,000-$46,000 by degree level, health and book allowances, summer internships",
   "added": "2026-10-03",
   "c": "Scholarship",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "d": "2026-12-04",
-  "dt": "Applications due Dec 4, 2026; awardees start May–June 2027",
-  "e": "Supports undergraduate, master's and PhD students in STEM. In return, recipients work at a DoD laboratory or facility after graduation. U.S. citizens only.",
+  "dt": "Applications due 5 p.m. ET, Dec 4, 2026 (the first Friday in December); funding begins Aug 2027",
+  "e": "Scholarships for bachelor's, master's and PhD students in STEM fields including physics, with summer internships and one year of civilian work at a Department of War (DoD) facility for each year of funding. Open to citizens of the US, Australia, Canada, New Zealand or the UK.",
   "f": "DoD SMART Scholarship Program",
   "fields": [
    "all"
@@ -2553,7 +2556,6 @@
    "ug"
   ],
   "u": "https://www.smartscholarship.org/smart",
-  "unv": "SMART site did not render on 2026-10-07; Dec 4, 2026 deadline is from a program press release dated Sept 30, 2026. The citizenship rule and the length of the service commitment were not re-checked on the site.",
   "us": true
  },
  {
@@ -3870,6 +3872,7 @@
   ],
   "id": "google-phd-fellowship-quantum-computing",
   "n": "Google PhD Fellowship – Quantum Computing",
+  "nfit": "Low",
   "nom": true,
   "s": "watch",
   "stages": [
@@ -3950,6 +3953,7 @@
   ],
   "id": "guggenheim-fellowship-2028-competition",
   "n": "Guggenheim Fellowship (2028 competition)",
+  "nfit": "Low",
   "nom": false,
   "s": "watch",
   "stages": [
@@ -4190,6 +4194,7 @@
   ],
   "id": "heising-simons-science-events-gatherings",
   "n": "Heising-Simons Science Events & Gatherings",
+  "nfit": "Medium",
   "nom": false,
   "s": "open",
   "stages": [
@@ -4571,10 +4576,10 @@
   "a": "Stipend + housing eligibility; sabbatical stipends vary",
   "added": "2026-09-29",
   "c": "Sabbatical",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "d": "2026-11-15",
   "dt": "Nov 15, 2026 (physics & astrophysics); biology has no fixed deadline",
-  "e": "Postdoctoral members (3 yr), long-term members/Bahcall Fellows, visiting professorships for faculty within 10 yrs of PhD, and sabbaticals for senior scientists. Theory-focused.",
+  "e": "Postdoctoral members (3 to 5 years), long-term members (Bahcall Fellows in astrophysics), visiting professorships for faculty normally within 10 years of the PhD, and sabbatical visits for senior scientists. Theory-focused.",
   "f": "Institute for Advanced Study",
   "fields": [
    "astro",
@@ -4596,7 +4601,6 @@
    "ten"
   ],
   "u": "https://www.ias.edu/sns/apply",
-  "unv": "ias.edu returned 403 on 2026-10-07; Nov 15, 2026 deadline confirmed only by third-party listings",
   "us": false
  },
  {
@@ -5173,7 +5177,7 @@
   "a": "Salary per KIAS rules plus individual research grant; 2 years, renewable once for up to 2 years",
   "added": "2026-10-02",
   "c": "Fellowship",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "d": "2026-10-31",
   "dt": "Deadline 31 Oct 2026",
   "e": "Postdoc-level research fellowships at KIAS in areas including quantum algorithms for many-body theory, quantum computation and information, computational condensed matter, and biophysics. Needs a PhD by the start date; no citizenship limits stated.",
@@ -5196,7 +5200,7 @@
    "pd"
   ],
   "u": "https://jobs.kias.re.kr/ext/rec/rec_1001.do?ANNC_NO=REC202608260001",
-  "unv": "Labeled as prize/independent because KIAS fellows get individual research grants; the ad does not say outright that the research is independent. On Oct 7, 2026 the KIAS posting page showed only a consent notice, so the deadline could not be reconfirmed.",
+  "unv": "Labeled as prize/independent because KIAS fellows get individual research grants; the ad does not say outright that the research is independent. The Oct 31, 2026 deadline was confirmed on the KIAS job list on Oct 7, 2026; salary and term were not rechecked because the posting text sits behind a consent notice.",
   "us": false
  },
  {
@@ -8001,6 +8005,7 @@
   ],
   "id": "nsf-cssi-cyberinfrastructure-for-sustained-scientific-innova",
   "n": "NSF CSSI (Cyberinfrastructure Systems for Scientific Innovation)",
+  "nfit": "Low",
   "nom": false,
   "s": "watch",
   "stages": [
@@ -8682,13 +8687,13 @@
   "us": false
  },
  {
-  "a": "$32M program total; Pilot/Design/Implementation phases",
+  "a": "Design awards up to $2,000,000/yr for up to 2 years (up to $32,000,000 in total for the Design phase); Implementation awards up to $10,000,000/yr for 6 years, subject to appropriations",
   "added": "2026-09-28",
   "c": "Federal grant",
   "checked": "2026-10-07",
   "d": "2027-04-06",
-  "dt": "Grants.gov listing (NSF 24-586) closes Apr 6, 2027. Contact NSF program officers at least 2 weeks before submitting.",
-  "e": "Team-scale proposals from US institutions for use-inspired quantum testbeds. Program officer consultation required.",
+  "dt": "Full proposal target date Apr 6, 2027 for both Design and Implementation proposals (NSF 24-586). Contact the NQVL program officers at least 2 weeks before submitting.",
+  "e": "Design- and Implementation-phase proposals for use-inspired quantum testbeds (Quantum Science and Technology Demonstration projects). A Design proposal requires an existing QSTD:Pilot project in the same topical area with a positive design review, and an Implementation proposal requires an existing QSTD:Design project; Pilot proposals are not solicited. Program officer consultation required.",
   "f": "NSF (multi-directorate)",
   "fields": [
    "qp",
@@ -8709,7 +8714,6 @@
    "ten"
   ],
   "u": "https://simpler.grants.gov/opportunity/dd97ae1d-d356-4337-a255-5aeeb1160258",
-  "unv": "Phase-specific due dates not confirmed on nsf.gov (program page returned 404). Close date taken from the Grants.gov listing.",
   "us": false
  },
  {
@@ -9641,6 +9645,7 @@
   ],
   "id": "peter-salovey-and-marta-moret-data-science-fellows-program",
   "n": "Peter Salovey and Marta Moret Data Science Fellows Program",
+  "nfit": "Low",
   "nom": false,
   "s": "watch",
   "stages": [
@@ -10056,7 +10061,7 @@
   "a": "$78,000 stipend + $5,000 project expenses; 1 yr in residence",
   "added": "2026-09-28",
   "c": "Sabbatical",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "d": null,
   "dt": "Last deadline Oct 1, 2026 (science, engineering and math); 2028–2029 application details expected in spring 2027",
   "e": "Scientists with a strong record (typically post-tenure or senior; untenured faculty with significant publications can apply). Coordinator-verified.",
@@ -10571,6 +10576,7 @@
   ],
   "id": "simons-collaborations-in-mps",
   "n": "Simons Collaborations in MPS",
+  "nfit": "Low",
   "nom": false,
   "s": "open",
   "stages": [
@@ -10694,6 +10700,7 @@
   ],
   "id": "simons-targeted-grants-in-mps",
   "n": "Simons Targeted Grants in MPS",
+  "nfit": "Low",
   "nom": false,
   "s": "rolling",
   "stages": [
@@ -11100,6 +11107,7 @@
   ],
   "id": "stars-summer-research-program",
   "n": "STARS Summer Research Program",
+  "nfit": "Low",
   "nom": false,
   "s": "open",
   "stages": [
@@ -11141,7 +11149,7 @@
   "c": "Group postdoc",
   "checked": "2026-10-07",
   "d": "2026-11-16",
-  "dt": "Due Nov 16, 2026 (AJO)",
+  "dt": "Review begins Nov 16, 2026 (AJO deadline) and continues until the positions are filled",
   "e": "Theory postdocs in topological phases on quantum devices, quantum error correction and fault tolerance, non-equilibrium dynamics and generalized symmetries; strong applicants may be considered for a Simons Targeted Research Group fellowship.",
   "f": "Stony Brook University, C.N. Yang Institute for Theoretical Physics",
   "fields": [
@@ -11307,6 +11315,7 @@
   ],
   "id": "templeton-open-funding-inquiries-ofi",
   "n": "Templeton Open Funding Inquiries (OFI)",
+  "nfit": "Low",
   "nom": false,
   "s": "watch",
   "stages": [
@@ -11932,7 +11941,7 @@
   "a": "UM postdoc salary plus limited travel/research funds; 1 year renewable for a 2nd",
   "added": "2026-10-03",
   "c": "Fellowship",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "d": null,
   "dt": "Next submission cycle opens early 2027",
   "e": "Postdoctoral fellowship in any quantum science and technology discipline, requiring a committed QRI faculty mentor; PhD within the last 3 years.",
@@ -11953,7 +11962,6 @@
    "pd"
   ],
   "u": "https://quantum.umich.edu/call-for-application-2026/",
-  "unv": "Official page blocks automated access (HTTP 403) on Oct 7, 2026; a search result from it still says the next cycle opens in early 2027.",
   "us": false
  },
  {
@@ -12507,6 +12515,7 @@
   ],
   "id": "w-m-keck-foundation-research-program-science-engineering",
   "n": "W.M. Keck Foundation Research Program (Science & Engineering)",
+  "nfit": "Low",
   "nom": true,
   "s": "open",
   "stages": [
@@ -12588,7 +12597,7 @@
   "a": "Up to $30,000",
   "added": "2026-09-30",
   "c": "Yale internal",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "d": "2026-10-21",
   "dt": "Internal deadline Oct 21, 2026.",
   "e": "Yale faculty and staff eligible to serve as PIs, for international collaborations on issues of global significance (e.g. workshops or partner visits with institutions abroad). Contact: nathan.camp@yale.edu.",
@@ -12605,8 +12614,8 @@
    "tt",
    "ten"
   ],
-  "u": "https://world.yale.edu/news/spring-2026-yale-and-the-world-partnership-fund-awardees-announced",
-  "unv": "The listed page (Jun 18, 2026) says a fall 2026 call will be announced but does not state the Oct 21, 2026 deadline or the amount; no posted call was found on Oct 7, 2026.",
+  "u": "https://world.yale.edu/academics-research/major-partnerships",
+  "unv": "The Yale and the World page confirms the fall 2026 round with applications due Oct 21, 2026; it does not state an award amount, and the InfoReady call page could not be read (JavaScript), so 'Up to $30,000' is not verified.",
   "us": false
  },
  {
@@ -12649,6 +12658,7 @@
   "id": "yale-center-for-research-computing-standard-tier-hpc-free",
   "n": "Yale Center for Research Computing – standard-tier HPC (free)",
   "nom": false,
+  "pt": "other",
   "s": "rolling",
   "stages": [
    "tt",
@@ -12674,6 +12684,7 @@
   ],
   "id": "yale-college-dean-s-research-fellowship-rosenfeld-science-sc",
   "n": "Yale College Dean's Research Fellowship / Rosenfeld Science Scholars",
+  "nfit": "Low",
   "nom": false,
   "s": "watch",
   "stages": [
@@ -12697,6 +12708,7 @@
   ],
   "id": "yale-college-first-year-summer-research-fellowship-in-the-sc",
   "n": "Yale College First-Year Summer Research Fellowship in the Sciences & Engineering",
+  "nfit": "Low",
   "nom": false,
   "s": "watch",
   "stages": [
