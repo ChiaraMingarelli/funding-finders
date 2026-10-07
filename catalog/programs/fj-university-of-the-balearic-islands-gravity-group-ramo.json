@@ -1,0 +1,29 @@
+{
+ "a": "5-year contract, then a permanent position",
+ "added": "2026-10-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-07",
+ "d": "2026-10-25",
+ "dt": "Group expression of interest by Oct 25 for full consideration; national Ramón y Cajal 2026 call closes 2026-12-11",
+ "e": "The group is recruiting Ramón y Cajal tenure-track candidates in GW data analysis, waveform modeling and numerical relativity (PhD 2016-2024, strong publication and leadership record, international experience). Local faculty support is required, and no citizenship limit is stated.",
+ "f": "University of the Balearic Islands (UIB), GRAVITY group (Mallorca)",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "fj-university-of-the-balearic-islands-gravity-group-ramo",
+ "n": "University of the Balearic Islands (GRAVITY group): Ramón y Cajal tenure-track fellowship in GW physics",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "other:lisa-uib-gw-ryc",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://www.lisamission.org/fellowship-and-tenure-track-opportunities-in-gravitational-wave-physics-mallorca-spain/",
+ "us": false
+}

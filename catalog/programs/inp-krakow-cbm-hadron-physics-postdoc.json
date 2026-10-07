@@ -1,0 +1,28 @@
+{
+ "a": "",
+ "added": "2026-10-07",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": "2026-11-16",
+ "dt": "Nov 16, 2026",
+ "e": "Simulation-based feasibility studies of meson and hyperon production and decays for the CBM experiment at FAIR, using CBMRoot and transport codes. Requires a PhD in experimental nuclear or particle physics.",
+ "f": "Institute of Nuclear Physics PAS, Kraków, CBM group",
+ "fields": [
+  "nux"
+ ],
+ "id": "inp-krakow-cbm-hadron-physics-postdoc",
+ "n": "INP PAS Kraków: Postdoc in experimental hadron physics (CBM)",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3211328",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.ifj.edu.pl/en/career/job-offers/offers/recruitment/2026/october/NZ24-1-Adiunkt_postdoc_AP-II-26-eng.pdf",
+ "us": false
+}

@@ -1,0 +1,29 @@
+{
+ "a": "Open rank (Assistant, Associate or Full Professor)",
+ "added": "2026-10-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-07",
+ "d": "2026-11-01",
+ "dt": "Nov 1, 2026; start autumn 2027",
+ "e": "Tenure-track faculty position for a theorist working at the intersection of high energy physics and astrophysics, starting autumn 2027.",
+ "f": "Ohio State University, Department of Physics",
+ "fields": [
+  "ppt",
+  "astro"
+ ],
+ "id": "fj-ohio-state-open-rank-theoretical-hep-astrophysics",
+ "n": "Ohio State: Open-rank TT faculty, theoretical high energy physics with astrophysics",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3210820",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Open-Rank-Tenure-Track-Faculty-Position-in-Theoretical-High-Energy-Physics_R160038-1",
+ "us": false
+}

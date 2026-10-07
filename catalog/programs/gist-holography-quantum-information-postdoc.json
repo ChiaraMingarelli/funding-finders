@@ -1,0 +1,31 @@
+{
+ "a": "",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": "2026-12-07",
+ "dt": "Dec 7, 2026",
+ "e": "Two-year theory postdoc on the holographic principle and its applications to quantum information, quantum chaos, tensor networks, AdS/CMT and AdS/QCD, starting 2027.",
+ "f": "Gwangju Institute of Science and Technology, Theoretical Physics Group (Keun-Young Kim)",
+ "fields": [
+  "ppt",
+  "qp",
+  "cmt"
+ ],
+ "id": "gist-holography-quantum-information-postdoc",
+ "n": "GIST: Postdoc in holography, quantum information and strongly correlated systems",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3210874",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://phys.gist.ac.kr/gctp/index.do",
+ "us": false
+}

@@ -1,0 +1,30 @@
+{
+ "a": "Associate or Assistant Professor (permanent)",
+ "added": "2026-10-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-07",
+ "d": "2027-03-31",
+ "dt": "AJO lists Mar 31, 2027; selection conducted as needed, closes when filled",
+ "e": "Permanent data-science post in the MCPoP fusion project, improving shared-data use and diagnostic data analysis for high-temperature plasma experiments and simulations. PhD required (or expected, for assistant professor); documents submitted by e-mail.",
+ "f": "National Institute for Fusion Science (NIFS), Japan",
+ "fields": [
+  "ds",
+  "energy"
+ ],
+ "id": "fj-nifs-associate-or-assistant-professor-data-science-pe",
+ "n": "NIFS: Associate or Assistant Professor (Data science, permanent)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:32198",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32198",
+ "unv": "AJO labels it non-tenure-track, but the ad calls it a permanent position.",
+ "us": false
+}

@@ -1,0 +1,30 @@
+{
+ "a": "Assistant Professor, endowed Cowen Chair Professorship",
+ "added": "2026-10-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-07",
+ "d": "2026-11-30",
+ "dt": "Nov 30, 2026 (review begins); late applications considered if not yet filled",
+ "e": "Tenure-system assistant professor in experimental condensed matter: topological/quantum materials, quantum dynamics and control, solid-state quantum information, non-equilibrium many-body physics, optical/electronic properties. Apply via jobs.msu.edu (posting 1164944).",
+ "f": "Michigan State University, Department of Physics and Astronomy",
+ "fields": [
+  "cmx",
+  "qp",
+  "mat"
+ ],
+ "id": "fj-michigan-state-university-assistant-professor-experim",
+ "n": "Michigan State University: Assistant Professor, Experimental Condensed Matter Physics (Cowen Chair)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32954",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32954",
+ "us": false
+}

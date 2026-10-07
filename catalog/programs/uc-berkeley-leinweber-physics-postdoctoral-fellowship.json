@@ -1,0 +1,39 @@
+{
+ "a": "",
+ "added": "2026-10-07",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-07",
+ "d": "2026-11-21",
+ "dt": "Nov 21, 2026 (letters by same date)",
+ "e": "One or two 3-year distinguished fellowships starting Fall 2027 in any area of theoretical physics, including cosmology, QFT, condensed matter, quantum gravity, quantum information, particle physics and string theory. PhD in theoretical physics by start.",
+ "f": "University of California, Berkeley, Leinweber Institute for Theoretical Physics",
+ "fields": [
+  "ppt",
+  "cmt",
+  "qp",
+  "grav",
+  "astro"
+ ],
+ "id": "uc-berkeley-leinweber-physics-postdoctoral-fellowship",
+ "n": "UC Berkeley: Leinweber Physics Postdoctoral Fellowship",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32957",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32957",
+ "us": false
+}

@@ -1,0 +1,33 @@
+{
+ "a": "",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Requisition 17146, posted late Sep 2026; no deadline stated",
+ "e": "Build squeezed-light sensing and quantum-enhanced label-free microscopy for cells and tissues; PhD within the last 5 years, three reference letters required. Up to 24 months with possible extension; no citizenship restriction stated.",
+ "f": "Oak Ridge National Laboratory, Quantum Computing and Sensing Group",
+ "fields": [
+  "phot",
+  "qp",
+  "amo",
+  "bio",
+  "inst"
+ ],
+ "id": "oak-ridge-postdoctoral-research-associate-quantum-optics",
+ "n": "Oak Ridge: Postdoctoral Research Associate, Quantum Optics and Bioimaging",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:ornl-17146-quantum-optics-bioimaging",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Quantum-Optics-and-Bioimaging-TN-37830/1434745800/",
+ "us": false
+}

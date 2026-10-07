@@ -1,0 +1,31 @@
+{
+ "a": "$67,600-$80,000",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": "2026-11-01",
+ "dt": "Materials by Nov 1, 2026 for full consideration; later applications considered on a rolling basis",
+ "e": "Joint search by Harvard quantum condensed matter theory groups (Khalaf, Lukin, Sachdev, Vishwanath, Yao, Yelin, Kaxiras); applicants are automatically considered for the HQI fellowship and possibly a Moore EPiQS fellowship. No citizenship restriction stated.",
+ "f": "Harvard University, Department of Physics",
+ "fields": [
+  "cmt",
+  "qp",
+  "amo"
+ ],
+ "id": "harvard-postdoctoral-research-positions-in-condensed-mat",
+ "n": "Harvard: Postdoctoral Research Positions in Condensed Matter Theory (Fall 2027)",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "other:harvard-cmt-postdocs-2027",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicpositions.harvard.edu/postings/16861",
+ "us": false
+}

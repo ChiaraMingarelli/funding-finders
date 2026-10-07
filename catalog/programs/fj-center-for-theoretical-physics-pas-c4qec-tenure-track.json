@@ -1,0 +1,28 @@
+{
+ "a": "PLN 20,750-24,250 gross/month; R2/R3 group leader",
+ "added": "2026-10-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-07",
+ "d": "2026-11-15",
+ "dt": "Deadline Nov 15, 2026, 12:00 Warsaw time; ref MAB/27/2026",
+ "e": "A tenure-track group leader who will found an independent group in quantum algorithms, QML, QEC and quantum complexity at the new C4QEC center, with a permanent post after a positive evaluation. It requires a PhD in physics or a related field, and no citizenship limit is stated.",
+ "f": "Center for Theoretical Physics, Polish Academy of Sciences (Warsaw)",
+ "fields": [
+  "qp"
+ ],
+ "id": "fj-center-for-theoretical-physics-pas-c4qec-tenure-track",
+ "n": "Center for Theoretical Physics PAS (C4QEC): Tenure-track Group Leader in Quantum Algorithms & ML / Theory of Quantum Computing",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "other:ctp-pas-c4qec-group-leader",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://euraxess.ec.europa.eu/jobs/470096",
+ "us": false
+}

@@ -1,0 +1,28 @@
+{
+ "a": "",
+ "added": "2026-10-07",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": "2026-12-31",
+ "dt": "Dec 31, 2026 (AJO); review begins Jan 1, 2027, continues until filled",
+ "e": "Theory postdoc on perturbative QCD, quark-gluon plasma phenomenology, heavy-ion transport, jets/heavy flavor and Bayesian/ML modeling for RHIC, LHC and EIC, with Steffen Bass and Berndt Mueller. PhD in physics or related field by start.",
+ "f": "Duke University, Department of Physics, QCD Group",
+ "fields": [
+  "nut"
+ ],
+ "id": "duke-university-postdoctoral-research-associate-qcd-grou",
+ "n": "Duke University: Postdoctoral Research Associate, QCD Group (Bass/Mueller)",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32936",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32936",
+ "us": false
+}

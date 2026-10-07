@@ -1,0 +1,33 @@
+{
+ "a": "$80,000/yr stipend plus benefits, travel support and relocation",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-07",
+ "d": "2026-11-01",
+ "dt": "Next review date Nov 1, 2026 (full consideration); final date Jun 30, 2027 if not filled",
+ "e": "Two-year fellowship starting in 2027; applicants must be co-sponsored by at least two EQI faculty, and this cycle prioritizes experimentalists. No citizenship restriction stated.",
+ "f": "UC Irvine, Eddleman Quantum Institute (EQI)",
+ "fields": [
+  "qp",
+  "amo",
+  "cmx",
+  "phot"
+ ],
+ "id": "uc-irvine-eddleman-quantum-institute-postdoctoral-fellow",
+ "n": "UC Irvine: Eddleman Quantum Institute Postdoctoral Fellowship (2027 start)",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "other:uci-eqi-postdoc-fellowship",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://recruit.ap.uci.edu/JPF10362/",
+ "unv": "Recruitment opened Sep 1, 2026 (before the Sep 27 window) but is not in the catalog.",
+ "us": false
+}

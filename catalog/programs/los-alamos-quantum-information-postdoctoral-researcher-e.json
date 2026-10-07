@@ -1,0 +1,29 @@
+{
+ "a": "$97,000 starting salary for a new PhD",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Posted Oct 5, 2026 (Req. IRC146130); no deadline stated",
+ "e": "Two-year appointment (possible third year) in quantum error correction, fault-tolerant protocols and resource estimation; PhD within the last 5 years. Federal rules bar citizens of China, Iran, North Korea and Russia who are not US permanent residents.",
+ "f": "Los Alamos National Laboratory, CAI-3 Information Sciences",
+ "fields": [
+  "qp"
+ ],
+ "id": "los-alamos-quantum-information-postdoctoral-researcher-e",
+ "n": "Los Alamos: Quantum Information Postdoctoral Researcher (early fault-tolerant QC)",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:lanl-irc146130-qi-postdoc",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://lanl.jobs/search/jobdetails/quantum-information-postdoctoral-researcher/c56e6286-1124-4069-b396-ea0055c49ed8",
+ "us": false
+}

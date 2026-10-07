@@ -1,0 +1,33 @@
+{
+ "a": "Assistant/Associate Professor; $83,200-$226,200 (9-month)",
+ "added": "2026-10-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-07",
+ "d": "2026-12-04",
+ "dt": "Dec 4, 2026 for full consideration",
+ "e": "Tenure-track faculty in applied physics: biophysics, optics and photonics, nanoscience, instrumentation, quantum information, energy, or materials physics, experimental or theoretical. Postdoctoral experience expected for assistant level; bridging postdoc available; start July 1, 2027.",
+ "f": "Cornell University, School of Applied and Engineering Physics",
+ "fields": [
+  "phot",
+  "qp",
+  "mat",
+  "bio",
+  "inst",
+  "energy"
+ ],
+ "id": "fj-cornell-aep-tenure-track-assistant-or-associate-profe",
+ "n": "Cornell AEP: Tenure-Track Assistant or Associate Professor",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32893",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32893",
+ "us": false
+}

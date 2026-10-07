@@ -1,0 +1,38 @@
+{
+ "a": "",
+ "added": "2026-10-07",
+ "asub": [
+  "he",
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "The ad lists no closing date (posted on LAAC Oct 2, 2026)",
+ "e": "An experimental postdoc on the structure, optical and mechanical properties of amorphous coatings for current and future GW detectors, including Cosmic Explorer, part of the Center for Coatings Research. Applicants must be eligible to work in the US at the start of the appointment.",
+ "f": "Kennesaw State University, gravitational-wave group / Center for Coatings Research",
+ "fields": [
+  "grav",
+  "inst",
+  "mat"
+ ],
+ "id": "kennesaw-state-university-postdoctoral-researcher-amorph",
+ "n": "Kennesaw State University: Postdoctoral Researcher, Amorphous Optical Coatings for GW Detectors",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:kennesaw-gw-coatings-pd",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=43000&JobOpeningId=304028&PostingSeq=1",
+ "us": false
+}

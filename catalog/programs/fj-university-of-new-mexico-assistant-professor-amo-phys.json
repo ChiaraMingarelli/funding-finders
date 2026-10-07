@@ -1,0 +1,29 @@
+{
+ "a": "Assistant Professor (tenure-track)",
+ "added": "2026-10-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-07",
+ "d": "2026-12-01",
+ "dt": "Best consideration by Dec 1, 2026; open until filled; start Aug 2027",
+ "e": "A tenure-track assistant professor in any area of AMO theory, with links to QNM-I, CHTM and CARC. The ad states no citizenship limit.",
+ "f": "University of New Mexico, Department of Physics & Astronomy",
+ "fields": [
+  "amo",
+  "qp"
+ ],
+ "id": "fj-university-of-new-mexico-assistant-professor-amo-phys",
+ "n": "University of New Mexico: Assistant Professor, AMO Physics Theory",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:unm-ap-amo-theory",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://unm.csod.com/ux/ats/careersite/18/home/requisition/37928?c=unm",
+ "us": false
+}

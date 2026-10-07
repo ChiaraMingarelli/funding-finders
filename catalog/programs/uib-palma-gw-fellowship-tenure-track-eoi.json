@@ -1,0 +1,37 @@
+{
+ "a": "",
+ "added": "2026-10-07",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-07",
+ "d": "2026-10-25",
+ "dt": "Expressions of interest to the group by Oct 25, 2026; the national Juan de la Cierva call closes Nov 26 and Ramón y Cajal Dec 11, 2026",
+ "e": "The UIB gravity group invites expressions of interest from candidates it could support for competitive fellowships (junior and senior postdoc, and Ramón y Cajal tenure-track). Topics include gravitational-wave data analysis, waveform modelling and numerical relativity, with interest in IGWN, LISA and Einstein Telescope work.",
+ "f": "University of the Balearic Islands (UIB), GRAVITY group",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "uib-palma-gw-fellowship-tenure-track-eoi",
+ "n": "UIB Palma: Fellowship and tenure-track opportunities in gravitational-wave physics",
+ "nfit": "High",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3211690",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3211690",
+ "unv": "Eligibility and salary depend on each fellowship call; the regional Margalida Comas and Vicenç Mut calls had not opened yet.",
+ "us": false
+}

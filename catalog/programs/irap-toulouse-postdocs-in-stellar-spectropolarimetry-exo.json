@@ -11,9 +11,9 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
- "d": "2026-10-04",
- "dt": "Oct 4, 2026",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Last deadline Oct 4, 2026; the AAS Job Register page could not be reached to confirm whether the ad is still open",
  "e": "SPIRou studies of M-dwarf planetary systems and T Tauri magnetic topologies. Background in stellar spectropolarimetry/velocimetry needed.",
  "f": "IRAP (CNRS), Toulouse; Jean-François Donati, Claire Moutou",
  "fields": [
@@ -24,7 +24,7 @@
  "nfit": "Medium",
  "nom": false,
  "region": "International",
- "s": "open",
+ "s": "watch",
  "src": "aas:1fa6ba25",
  "stages": [
   "pd"

@@ -1,0 +1,29 @@
+{
+ "a": "Tenure-track assistant professor or full professor (chair professor for exceptional candidates)",
+ "added": "2026-10-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-07",
+ "d": "2026-11-16",
+ "dt": "Nov 16, 2026 for full consideration",
+ "e": "1-2 faculty in any area of astronomy and astrophysics, including cosmology, galaxies, planets and stars, high-energy and gravitational physics, particle astrophysics and computational/AI astrophysics. Start Sep 1, 2027; applicants of any nationality encouraged.",
+ "f": "Peking University, Kavli Institute for Astronomy and Astrophysics and Department of Astronomy",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "fj-peking-university-kiaa-doa-tenure-track-faculty-in-as",
+ "n": "Peking University KIAA/DoA: Tenure-track faculty in astronomy",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:32985",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32985",
+ "us": false
+}

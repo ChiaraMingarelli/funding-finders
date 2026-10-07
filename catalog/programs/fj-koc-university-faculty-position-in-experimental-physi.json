@@ -1,0 +1,30 @@
+{
+ "a": "Priority at assistant professor level",
+ "added": "2026-10-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-07",
+ "d": "2026-12-15",
+ "dt": "Dec 15, 2026 for full consideration; later reviewed until filled",
+ "e": "Tenure-track experimental physics faculty to complement areas such as cold atoms, condensed and soft matter, photonics, quantum optics and ultrafast optics. Postdoctoral experience required; teaching in English.",
+ "f": "Koç University, Department of Physics (Istanbul)",
+ "fields": [
+  "amo",
+  "cmx",
+  "phot"
+ ],
+ "id": "fj-koc-university-faculty-position-in-experimental-physi",
+ "n": "Koç University: Faculty Position in Experimental Physics",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:32968",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32968",
+ "us": false
+}

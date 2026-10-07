@@ -1,0 +1,31 @@
+{
+ "a": "",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": "2026-12-01",
+ "dt": "Dec 1, 2026 (AJO); applications considered until positions filled",
+ "e": "Postdoctoral positions in the Klinovaja/Loss group covering quantum condensed matter theory, topological matter, spin qubits, spintronics and quantum information. PhD required or expected within a year; CV, research statement, publication list and 2 letters.",
+ "f": "University of Basel, Condensed Matter Theory and Quantum Computing group",
+ "fields": [
+  "cmt",
+  "qp"
+ ],
+ "id": "university-of-basel-postdoctoral-position-in-condensed-m",
+ "n": "University of Basel: Postdoctoral position in Condensed Matter Theory (Klinovaja/Loss group)",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:21540",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/21540",
+ "unv": "Evergreen ad first posted 2022 (updated 2026-10-06); distinct from the known NCCR SPIN fellowship row but same PIs.",
+ "us": false
+}

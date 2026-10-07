@@ -8,9 +8,9 @@
   "ast"
  ],
  "c": "Prize",
- "checked": "2026-09-29",
- "d": "2026-10-05",
- "dt": "Chambliss entries need an iPoster",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Last deadline Oct 5, 2026; the AAS page could not be reached to check for an extension",
  "e": "For undergraduates and graduate students presenting research. The meeting is Jan 10–14, 2027 in Salt Lake City.",
  "f": "AAS",
  "fields": [
@@ -21,7 +21,7 @@
  "nfit": "Medium",
  "nom": false,
  "region": "US",
- "s": "open",
+ "s": "watch",
  "stages": [
   "ug",
   "gr"

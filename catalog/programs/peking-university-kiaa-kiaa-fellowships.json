@@ -1,0 +1,32 @@
+{
+ "a": "",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-07",
+ "d": "2026-11-16",
+ "dt": "Nov 16, 2026 (letters by same date)",
+ "e": "2-year (renewable to 3) fellowships for independent research in any area of astrophysics, with special consideration for strong AI backgrounds; applicants list possible KIAA/DoA advisors. Any nationality; preferred start May/Sep/Dec 2027.",
+ "f": "Peking University, Kavli Institute for Astronomy and Astrophysics",
+ "fields": [
+  "astro"
+ ],
+ "id": "peking-university-kiaa-kiaa-fellowships",
+ "n": "Peking University KIAA: KIAA Fellowships",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:32986",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32986",
+ "unv": "Distinct from the known 'KIAA Boya Fellowship' row; KIAA fellows get some preference for Boya selection.",
+ "us": false
+}

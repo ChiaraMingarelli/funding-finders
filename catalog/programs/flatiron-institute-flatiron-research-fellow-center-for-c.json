@@ -1,0 +1,33 @@
+{
+ "a": "$95,000/yr",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-07",
+ "d": "2026-10-09",
+ "dt": "Apply by Oct 9, 2026 for full consideration; rolling until filled",
+ "e": "Postdoctoral-level fellowship (2 years, renewable for a third) in computational quantum many-body physics, quantum materials and related methods, starting Aug-Nov 2027 in New York. No citizenship restriction stated.",
+ "f": "Simons Foundation Flatiron Institute, CCQ",
+ "fields": [
+  "cmt",
+  "qp",
+  "mat",
+  "ds"
+ ],
+ "id": "flatiron-institute-flatiron-research-fellow-center-for-c",
+ "n": "Flatiron Institute: Flatiron Research Fellow, Center for Computational Quantum Physics (CCQ)",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "other:flatiron-ccq-research-fellow",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://apply.interfolio.com/191742",
+ "unv": "Posted Aug 27, 2026 (before the Sep 27 window) but is not in the catalog.",
+ "us": false
+}

@@ -1,0 +1,29 @@
+{
+ "a": "",
+ "added": "2026-10-07",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": "2026-11-06",
+ "dt": "Nov 6, 2026",
+ "e": "ATLAS physics analyses, the ATLAS TDAQ upgrade and future collider R&D, with AI/ML tool development. Requires a PhD in experimental particle physics.",
+ "f": "Tufts University, high energy physics group",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "tufts-atlas-postdoc",
+ "n": "Tufts: Postdoctoral Research Associate, ATLAS",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3211342",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3211342",
+ "us": false
+}

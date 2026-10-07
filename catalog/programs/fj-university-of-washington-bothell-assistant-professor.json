@@ -1,0 +1,31 @@
+{
+ "a": "Assistant Professor; $102,996-$108,414 (9-month)",
+ "added": "2026-10-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-07",
+ "d": "2026-11-01",
+ "dt": "Priority to applications received by Nov 1, 2026; open until filled; start Sep 16, 2027",
+ "e": "A tenure-track assistant professor in physics who will teach across the undergraduate curriculum and lead an experimental or applied physics research program involving undergraduates. The ad states no citizenship limit.",
+ "f": "University of Washington Bothell, School of STEM, Physical Sciences",
+ "fields": [
+  "inst",
+  "cmx",
+  "amo"
+ ],
+ "id": "fj-university-of-washington-bothell-assistant-professor",
+ "n": "University of Washington Bothell: Assistant Professor of Physics (tenure track)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:uwb-ap-physics",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://ap.washington.edu/ahr/position-details/?job_id=189352",
+ "unv": "The subfield is open (experimental/applied physics), so the field codes are approximate",
+ "us": false
+}

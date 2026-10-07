@@ -1,0 +1,34 @@
+{
+ "a": "$73,308-$90,000; ~$15,000 research budget",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-07",
+ "d": "2026-12-11",
+ "dt": "Dec 11, 2026 (all materials and letters)",
+ "e": "Two fellowships for independent research in any area of astrophysics (theory, observation, instrumentation), up to 3 years; fellows can work with TESS, LIGO, HERA, CHIME, WINTER, Chandra, Magellan and Cosmic Explorer efforts. PhD by appointment date.",
+ "f": "MIT Kavli Institute for Astrophysics and Space Research",
+ "fields": [
+  "astro",
+  "grav",
+  "inst"
+ ],
+ "id": "mit-kavli-institute-mit-kavli-postdoctoral-fellowship-an",
+ "n": "MIT Kavli Institute: MIT Kavli Postdoctoral Fellowship and Juan Carlos Torres Fellowship in Astrophysics",
+ "nfit": "High",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32990",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32990",
+ "us": false
+}

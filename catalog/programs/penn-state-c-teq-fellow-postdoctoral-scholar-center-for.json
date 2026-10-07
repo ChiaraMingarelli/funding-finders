@@ -1,0 +1,31 @@
+{
+ "a": "$80,000 plus one-time $5,000 research award",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-07",
+ "d": "2026-10-30",
+ "dt": "Oct 30, 2026 first-round consideration; rolling until filled",
+ "e": "Several postdoctoral fellow positions in theory of emergent quantum matter: quantum information, quantum materials, quantum computation, AI/computational methods, quantum geometry, Majorana modes, fractional quantum anomalous Hall effect. Flexible start, can be immediate.",
+ "f": "Pennsylvania State University, Center for Theory of Emergent Quantum Matter (ICDS Quantum Hub)",
+ "fields": [
+  "cmt",
+  "qp"
+ ],
+ "id": "penn-state-c-teq-fellow-postdoctoral-scholar-center-for",
+ "n": "Penn State: C-TEQ Fellow Postdoctoral Scholar (Center for Theory of Emergent Quantum Matter)",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32970",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32970",
+ "unv": "Whether fellows propose fully independent research vs. join a faculty affiliate's group is not explicit.",
+ "us": false
+}

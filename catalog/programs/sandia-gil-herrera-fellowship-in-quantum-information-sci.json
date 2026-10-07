@@ -1,0 +1,32 @@
+{
+ "a": "",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-07",
+ "d": "2026-12-31",
+ "dt": "Complete applications (Job ID 699061 plus 3 letters to herrerafellow@sandia.gov) received through Dec 31, 2026 get full consideration",
+ "e": "Two-year postdoctoral fellowship (possible third year) for self-directed QIS research (quantum devices, qubit control, error mitigation, algorithms) with Sandia mentors in Albuquerque or Livermore. Requires ability to obtain a DOE security clearance, which requires US citizenship.",
+ "f": "Sandia National Laboratories",
+ "fields": [
+  "qp",
+  "dev",
+  "amo",
+  "phot"
+ ],
+ "id": "sandia-gil-herrera-fellowship-in-quantum-information-sci",
+ "n": "Sandia: Gil Herrera Fellowship in Quantum Information Science (2027)",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "other:sandia-herrera-qis",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/fellowships/gil-herrera-fellowship-in-quantum-information-science/",
+ "us": true
+}
