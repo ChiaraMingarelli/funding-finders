@@ -5,14 +5,15 @@
   "he"
  ],
  "aud": [
+  "yale",
   "ng",
   "radar",
   "ast"
  ],
- "c": "Graduate program",
+ "c": "Training",
  "checked": "2026-10-07",
  "d": "2026-12-15",
- "dt": "Full consideration Dec 15, 2026; search stays open until filled; start fall 2027",
+ "dt": "Full consideration Dec 15, 2026; search stays open until filled; preferred start fall 2027",
  "e": "PhD position on gravitational-wave theory and the relativistic two-body problem (second-order self-force, environmental and beyond-GR effects, EOB waveform models), with possible co-supervision at SISSA, UCLA or AEI. Apply via AcademicJobsOnline; no citizenship limits stated.",
  "f": "Niels Bohr Institute, University of Copenhagen, Center of Gravity (Maarten van de Meent)",
  "fields": [
@@ -27,7 +28,7 @@
  "s": "open",
  "src": "ajo:32852",
  "stages": [
-  "gr"
+  "ug"
  ],
  "u": "https://academicjobsonline.org/ajo/jobs/32852",
  "us": false
