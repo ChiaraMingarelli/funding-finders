@@ -18,6 +18,7 @@
  ],
  "id": "nasa-astrophysics-data-analysis-program-adap",
  "n": "NASA Astrophysics Data Analysis Program (ADAP)",
+ "nfit": "Medium",
  "nom": false,
  "s": "watch",
  "stages": [

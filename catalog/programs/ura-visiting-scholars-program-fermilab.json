@@ -27,6 +27,7 @@
   "e": "Faculty, research scientists, postdocs and grad students at URA member universities (check whether yours is a member). The home institution must waive indirect costs."
  },
  "nom": false,
+ "pt": "other",
  "region": "US",
  "s": "open",
  "stages": [

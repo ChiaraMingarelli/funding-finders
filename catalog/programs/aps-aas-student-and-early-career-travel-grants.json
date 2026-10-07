@@ -8,9 +8,9 @@
   "ast"
  ],
  "c": "Travel",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
- "dt": "Deadlines vary by unit and meeting (often ~2 to 3 months before a meeting)",
+ "dt": "Deadlines vary by unit and meeting; e.g., APS DAP student/postdoc travel grants for the Global Physics Summit close Oct 25, 2026",
  "e": "Students/postdocs presenting at society meetings; membership often required.",
  "f": "APS units / AAS",
  "fields": [
@@ -20,6 +20,7 @@
  "n": "APS / AAS student and early-career travel grants",
  "nfit": "Low",
  "nom": false,
+ "pt": "other",
  "region": "US",
  "s": "watch",
  "stages": [
@@ -28,6 +29,6 @@
   "ug"
  ],
  "u": "https://www.aps.org/",
- "unv": "Unit-by-unit dates not checked; aps.org and aas.org returned 403 on Oct 7, 2026.",
+ "unv": "Other unit dates not checked; aas.org blocked automated access (HTTP 403) on Oct 7, 2026, so the AAS grants were not rechecked.",
  "us": false
 }

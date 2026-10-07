@@ -1,12 +1,12 @@
 {
- "a": "$3,000, certificate, up to $1,000 travel and registration waiver",
+ "a": "$3,000, certificate, up to $2,000 travel reimbursement and registration waiver",
  "added": "2026-10-03",
  "aud": [
   "yale",
   "ap"
  ],
  "c": "Prize",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Last deadline June 1, 2026; next cycle not posted",
  "e": "Annual award for an outstanding doctoral thesis in experimental condensed matter or materials physics, submitted within roughly the two years before the award year. Candidates must be nominated.",
@@ -26,6 +26,6 @@
   "pd"
  ],
  "u": "https://www.aps.org/funding-recognition/award/greene",
- "unv": "The next nomination deadline is not posted. The APS page returned HTTP 403 on 2026-10-07, so it was not rechecked.",
+ "unv": "The next nomination deadline is not posted. The page text says the deadline is typically Sep 1, but the posted 2026 deadline was Jun 1.",
  "us": false
 }

@@ -7,9 +7,9 @@
   "ast"
  ],
  "c": "Prize",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
- "dt": "Nominations open Jan 1; unit deadlines ~Apr 1 to mid-Jun (e.g., DCMP earliest, then DNP, then most units ~early Jun)",
+ "dt": "2026 deadlines included Apr 1 (DCMP) and Jun 1 (general category); 2027 dates are not posted yet",
  "e": "APS members nominated by two APS members through a division/topical group or the general category.",
  "f": "American Physical Society",
  "fields": [
@@ -22,7 +22,7 @@
  "stages": [
   "ten"
  ],
- "u": "https://www.aps.org/funding-recognition/unit-deadlines",
- "unv": "Official page shows 2024 dates only; 2027 unit deadlines not confirmed. The APS page returned HTTP 403 on 2026-10-07, so it was not rechecked.",
+ "u": "https://www.aps.org/funding-recognition/aps-fellowship/aps-general-fellowship",
+ "unv": "2027 deadlines not posted. Each unit's fellowship page lists its own deadline; only DCMP and the general category were checked. The APS unit-deadlines page showed no content on Oct 7, 2026.",
  "us": false
 }

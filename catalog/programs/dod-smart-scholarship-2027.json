@@ -1,5 +1,5 @@
 {
- "a": "Full tuition, monthly stipend, health insurance, book allowance, summer internships",
+ "a": "Full tuition, annual stipend of $30,000-$46,000 by degree level, health and book allowances, summer internships",
  "added": "2026-10-03",
  "aud": [
   "yale",
@@ -7,10 +7,10 @@
   "ast"
  ],
  "c": "Scholarship",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": "2026-12-04",
- "dt": "Applications due Dec 4, 2026; awardees start May–June 2027",
- "e": "Supports undergraduate, master's and PhD students in STEM. In return, recipients work at a DoD laboratory or facility after graduation. U.S. citizens only.",
+ "dt": "Applications due 5 p.m. ET, Dec 4, 2026 (the first Friday in December); funding begins Aug 2027",
+ "e": "Scholarships for bachelor's, master's and PhD students in STEM fields including physics, with summer internships and one year of civilian work at a Department of War (DoD) facility for each year of funding. Open to citizens of the US, Australia, Canada, New Zealand or the UK.",
  "f": "DoD SMART Scholarship Program",
  "fields": [
   "all"
@@ -25,6 +25,5 @@
   "ug"
  ],
  "u": "https://www.smartscholarship.org/smart",
- "unv": "SMART site did not render on 2026-10-07; Dec 4, 2026 deadline is from a program press release dated Sept 30, 2026. The citizenship rule and the length of the service commitment were not re-checked on the site.",
  "us": true
 }

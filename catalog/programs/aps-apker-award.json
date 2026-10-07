@@ -7,9 +7,9 @@
   "ast"
  ],
  "c": "Prize",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
- "dt": "Last posted nomination deadline Jun 3, 2025; annual early-June cycle",
+ "dt": "Last deadline Jun 2, 2026; the next cycle is not posted yet",
  "e": "Recognizes outstanding research by undergraduates at US colleges and universities. One nominee per department.",
  "f": "American Physical Society",
  "fields": [
@@ -24,6 +24,6 @@
   "ug"
  ],
  "u": "https://www.aps.org/funding-recognition/award/leroy-apker-award",
- "unv": "2027 deadline not posted. The APS page returned HTTP 403 on 2026-10-07, so it was not rechecked.",
+ "unv": "The 2027 nomination deadline is not posted.",
  "us": false
 }

@@ -18,6 +18,7 @@
  "id": "yale-center-for-research-computing-standard-tier-hpc-free",
  "n": "Yale Center for Research Computing – standard-tier HPC (free)",
  "nom": false,
+ "pt": "other",
  "s": "rolling",
  "stages": [
   "tt",

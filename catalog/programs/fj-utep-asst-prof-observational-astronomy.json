@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-10-01",
+ "checked": "2026-10-07",
  "d": "2026-11-15",
- "dt": "Deadline/review Nov 15, 2026",
+ "dt": "Review begins Nov 15, 2026; open until filled",
  "e": "Observational astronomy; ISM, dust evolution and star/planet formation preferred.",
  "f": "Dept. of Physics, University of Texas at El Paso",
  "fields": [
@@ -18,12 +18,12 @@
  "nfit": "Medium",
  "nom": false,
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "aas:bc3bd0d1",
  "stages": [
   "fj"
  ],
- "u": "https://apptrkr.com/9774400",
- "unv": "Official Interview Exchange ad (via apptrkr.com) returned 403 on Oct 7, 2026; deadline not reconfirmed",
+ "u": "https://www.utep.edu/science/physics/available_positions/observational_astronomy_fall_2026.html",
+ "unv": "The department's ad says review begins November 15 but gives no year; 2026 comes from the AAS listing. The Interview Exchange application page returned 403 on Oct 7, 2026.",
  "us": false
 }

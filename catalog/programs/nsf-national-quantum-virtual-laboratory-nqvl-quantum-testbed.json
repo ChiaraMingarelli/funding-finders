@@ -1,5 +1,5 @@
 {
- "a": "$32M program total; Pilot/Design/Implementation phases",
+ "a": "Design awards up to $2,000,000/yr for up to 2 years (up to $32,000,000 in total for the Design phase); Implementation awards up to $10,000,000/yr for 6 years, subject to appropriations",
  "added": "2026-09-28",
  "aud": [
   "yale",
@@ -8,8 +8,8 @@
  "c": "Federal grant",
  "checked": "2026-10-07",
  "d": "2027-04-06",
- "dt": "Grants.gov listing (NSF 24-586) closes Apr 6, 2027. Contact NSF program officers at least 2 weeks before submitting.",
- "e": "Team-scale proposals from US institutions for use-inspired quantum testbeds. Program officer consultation required.",
+ "dt": "Full proposal target date Apr 6, 2027 for both Design and Implementation proposals (NSF 24-586). Contact the NQVL program officers at least 2 weeks before submitting.",
+ "e": "Design- and Implementation-phase proposals for use-inspired quantum testbeds (Quantum Science and Technology Demonstration projects). A Design proposal requires an existing QSTD:Pilot project in the same topical area with a positive design review, and an Implementation proposal requires an existing QSTD:Design project; Pilot proposals are not solicited. Program officer consultation required.",
  "f": "NSF (multi-directorate)",
  "fields": [
   "qp",
@@ -30,6 +30,5 @@
   "ten"
  ],
  "u": "https://simpler.grants.gov/opportunity/dd97ae1d-d356-4337-a255-5aeeb1160258",
- "unv": "Phase-specific due dates not confirmed on nsf.gov (program page returned 404). Close date taken from the Grants.gov listing.",
  "us": false
 }

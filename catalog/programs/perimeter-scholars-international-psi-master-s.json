@@ -1,14 +1,14 @@
 {
- "a": null,
+ "a": "Full scholarship (tuition, accommodation, meals, living stipend, health insurance, travel supplement); considered for all admitted students",
  "added": "2026-10-01",
  "aud": [
   "ng"
  ],
  "c": "Graduate program",
- "checked": "2026-10-01",
- "d": null,
- "dt": "Applications for 2027–28 entry open October 2026",
- "e": "Intensive one-year theoretical-physics master's with no application fee. Mainly relevant to students heading toward GW, cosmology or gravity theory.",
+ "checked": "2026-10-07",
+ "d": "2027-01-24",
+ "dt": "Jan 24, 2027, 11:59 pm ET; no application fee",
+ "e": "Intensive one-year theoretical-physics master's at Perimeter Institute with the University of Waterloo, open to students from any country with an undergraduate degree in physics and/or math. Mainly relevant to students heading toward GW, cosmology or gravity theory.",
  "f": "Perimeter Institute / University of Waterloo",
  "fields": [
   "astro",
@@ -19,12 +19,11 @@
  "nfit": "Low",
  "nom": false,
  "region": "Canada",
- "s": "watch",
+ "s": "open",
  "src": "other:perimeter",
  "stages": [
   "gr"
  ],
  "u": "https://perimeterinstitute.ca/training/masters-program/psi-how-apply",
- "unv": "The Perimeter Institute page blocked automated access (HTTP 403) on Oct 7, 2026; deadline, tuition/stipend coverage and international eligibility not confirmed.",
  "us": false
 }

@@ -7,10 +7,10 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-02",
  "dt": "Nov 2, 2026, 7:00 pm EST",
- "e": "AI/ML methods for Rubin LSST data. PhD awarded Jan 2019–Aug 2027 with a record of AI/ML data-intensive research.",
+ "e": "Two-year fellowship to apply AI/ML methods to Rubin LSST data, with dedicated NVIDIA GPU time at SLAC. PhD awarded Jan 2019–Aug 2027; open to English-speaking citizens of all nations, at an eligible host institution of the applicant's choice (including outside the US).",
  "f": "LSST Discovery Alliance; contact Ana Gabela",
  "fields": [
   "astro",
@@ -27,7 +27,6 @@
  "stages": [
   "pd"
  ],
- "u": "https://aas.org/jobregister/ad/8bd99c92",
- "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
+ "u": "https://lsstdiscoveryalliance.org/vera-c-rubin-astronomy-frontiers-fellowship/",
  "us": false
 }

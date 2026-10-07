@@ -1,13 +1,13 @@
 {
- "a": "Assistant Professor, tenure-track",
+ "a": "Assistant Professor, tenure-track; starts spring 2027",
  "added": "2026-10-01",
  "aud": [
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-10-01",
+ "checked": "2026-10-07",
  "d": "2026-11-01",
- "dt": "Deadline Nov 1, 2026; open until filled",
+ "dt": "Deadline Nov 1, 2026 (AAS ad); UAH's own ad says applications stay open until the position is filled",
  "e": "Solar/interplanetary physics and space weather; computational heliophysics with AI/ML.",
  "f": "Dept. of Space Science, University of Alabama in Huntsville",
  "fields": [
@@ -23,7 +23,7 @@
  "stages": [
   "fj"
  ],
- "u": "https://aas.org/jobregister/ad/e0906a12",
- "unv": "The AAS Job Register page returned HTTP 403 on 2026-10-07, so the posting was not rechecked.",
+ "u": "https://www.uah.edu/hr/careers/faculty-careers",
+ "unv": "The AAS Job Register ad returned 403 on Oct 7, 2026. The Nov 1, 2026 date comes from that ad; UAH's own ad (log 26-27-5008) gives no date.",
  "us": false
 }
