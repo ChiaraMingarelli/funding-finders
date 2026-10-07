@@ -1,0 +1,34 @@
+{
+ "a": "Upgraded GMRT time at 120-1460 MHz, including pulsar beamformer modes and the SPOTLIGHT FRB/pulsar backend; no funding",
+ "added": "2026-10-07",
+ "aud": [
+  "ast",
+  "ng",
+  "radar"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Cycle 52 call not posted yet; GMRT's tentative schedule puts April-September proposal deadlines on 15 January. Cycle 51 closed 15 Jul 2026, 17:00 IST.",
+ "e": "NCRA's twice-yearly call for the upgraded GMRT in India. The GMRT Time Allocation Committee reviews proposals on scientific merit and technical feasibility; PIs submit through the NAPS system, and the call states no nationality limit.",
+ "f": "NCRA-TIFR Giant Metrewave Radio Telescope (GMRT)",
+ "fields": [
+  "astro"
+ ],
+ "id": "gmrt-cycle-52",
+ "n": "GMRT Call for Proposals, Cycle 52 (April-September 2027)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "watch",
+ "src": "other:gmrt-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://www.gmrt.ncra.tifr.res.in/gmrt_users/gtac/gtac.html",
+ "unv": "Cycle 52 deadline not announced (15 Jan is GMRT's tentative date). The Cycle 51 call does not spell out eligibility for non-Indian PIs or grad-student PIs.",
+ "us": false
+}

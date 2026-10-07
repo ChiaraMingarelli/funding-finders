@@ -1,0 +1,31 @@
+{
+ "a": "£50,733–£59,484 per year; 36 months",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": "2026-10-18",
+ "dt": "Closes Oct 18, 2026; Imperial may close early if many applications arrive",
+ "e": "Theory postdoc leading projects on full-stack error suppression in quantum hardware, from noise suppression and error mitigation to fault-tolerant computation, funded by an EPSRC Quantum Technologies Fellowship. No citizenship limits stated.",
+ "f": "Imperial College London, Department of Computing (Zhenyu Cai)",
+ "fields": [
+  "qp"
+ ],
+ "id": "imperial-computing-ra-quantum-computation-cai",
+ "n": "Imperial College London (Computing): Research Associate in Quantum Computation (Cai group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:quantiki-imperial-cai-qec",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?nPostingId=18063&nPostingTargetId=28890&id=PMMFK026203F3VBQB8NLOV4CQ&LG=UK&languageSelect=UK&mask=ext",
+ "unv": "Closing date and salary confirmed from Imperial's listing as indexed (job ref ENG04009) and jobs.ac.uk; the Imperial page did not render its text to a script.",
+ "us": false
+}

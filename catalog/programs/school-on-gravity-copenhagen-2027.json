@@ -1,0 +1,36 @@
+{
+ "a": "One-week school; fees and travel support not stated",
+ "added": "2026-10-07",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Training",
+ "checked": "2026-10-07",
+ "d": "2027-02-01",
+ "dt": "Apply by Feb 1, 2027; school runs June 21-25, 2027; seats limited",
+ "e": "One-week school on gravitational-wave physics (numerical relativity, self-force, GW data analysis) for graduate students and advanced undergraduates with a background in general relativity. Apply with a CV, short motivation letter and an advisor support letter.",
+ "f": "Center of Gravity, Niels Bohr Institute",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "school-on-gravity-copenhagen-2027",
+ "n": "School on Gravity: from commotion to locomotion (Copenhagen, June 2027)",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "other:cog-school-2027",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://the-center-of-gravity.com/features/the-school-on-gravity-from-commotion-to-locomotion-2027/",
+ "unv": "Registration fee, travel or lodging support not checked (school page needs JavaScript); deadline taken from the organizers' Hyperspace announcement"
+}

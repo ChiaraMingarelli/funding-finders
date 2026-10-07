@@ -1,0 +1,38 @@
+{
+ "a": "$6,000 stipend for 10 weeks plus UF campus housing",
+ "added": "2026-10-07",
+ "asub": [
+  "xgal",
+  "cos",
+  "exo",
+  "ism",
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-07",
+ "d": "2027-02-01",
+ "dt": "Application PDF and information form due Feb 1, 2027; first offers Mar 1, 2027",
+ "e": "NSF-funded summer research in astrophysics at UF from about late May to early August, with computational and data-intensive projects (galaxies, cosmology, exoplanets, star formation, compact objects, LIGO counterparts, ISM). Open to undergraduates regardless of prior astronomy training.",
+ "f": "University of Florida, Department of Astronomy",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "uf-astronomy-reu-2027",
+ "n": "UF Astronomy REU (Summer 2027)",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:uf-astro-reu",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.astro.ufl.edu/reu",
+ "unv": "The page does not state citizenship limits (NSF REU sites normally require US citizenship or permanent residence). Program dates are tentative."
+}

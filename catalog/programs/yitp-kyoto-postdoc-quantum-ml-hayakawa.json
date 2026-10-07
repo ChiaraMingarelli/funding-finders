@@ -1,0 +1,31 @@
+{
+ "a": "Program-specific researcher (possibly Research Assistant Professor title); renewable 1-year terms to Mar 31, 2030; salary per Kyoto University rules",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": "2026-10-31",
+ "dt": "Materials must arrive by 9:00 a.m. JST, Oct 31, 2026",
+ "e": "Postdoc on quantum-enhanced feature design and algorithms using topological data analysis and quantum computational complexity, with stays in the Netherlands. PhD required by appointment; overseas applicants welcome; apply by e-mail.",
+ "f": "Yukawa Institute for Theoretical Physics, Kyoto University (Ryu Hayakawa)",
+ "fields": [
+  "qp",
+  "ds"
+ ],
+ "id": "yitp-kyoto-postdoc-quantum-ml-hayakawa",
+ "n": "Yukawa Institute (Kyoto University): Postdoc in quantum computing and quantum machine learning (JST ASPIRE)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:quantiki-yitp-hayakawa-qml",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.kyoto-u.ac.jp/sites/default/files/acceptance_teacher/2026-07/yukawa_JST%20ASPIRE%20PD%20202607E-b9bacb543ee55b27963e4f4c2a411483.pdf",
+ "us": false
+}

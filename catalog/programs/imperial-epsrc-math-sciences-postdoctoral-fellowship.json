@@ -1,0 +1,30 @@
+{
+ "a": "3 years of support",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Imperial nominations accepted year-round (no internal deadline)",
+ "e": "A personal, career-development EPSRC fellowship for early-career researchers whose research falls mainly within EPSRC's mathematical sciences remit, hosted in Imperial's Department of Physics (including the Abdus Salam Centre for Theoretical Physics). Open to PhD holders without significant prior funding; applicants first send an Imperial expression of interest with a sponsor. No citizenship limit stated.",
+ "f": "Department of Physics, Imperial College London (EPSRC-funded)",
+ "fields": [
+  "ppt"
+ ],
+ "id": "imperial-epsrc-math-sciences-postdoctoral-fellowship",
+ "n": "Imperial Physics: EPSRC Mathematical Sciences Postdoctoral Fellowship",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "rolling",
+ "src": "inspire:3117190",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.imperial.ac.uk/physics/opportunities/research-fellowships/",
+ "us": false
+}

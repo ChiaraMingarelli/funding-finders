@@ -1,0 +1,35 @@
+{
+ "a": "Synchrotron beamtime (peer-reviewed)",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Instrumentation",
+ "checked": "2026-10-07",
+ "d": "2026-11-18",
+ "dt": "Proposals due Nov 18, 2026; beam time requests due Dec 2, 2026; run Jan 27 – Mar 30, 2027",
+ "e": "Peer-reviewed x-ray beamtime at the Cornell synchrotron for materials, structural biology and other research, submitted through BeamPASS; a proposal stays active for two years. Open to outside research groups, with in-person, remote or mail-in access.",
+ "f": "Cornell High Energy Synchrotron Source (NSF, AFRL and NIH partner program)",
+ "fields": [
+  "cmx",
+  "mat",
+  "bio",
+  "inst"
+ ],
+ "id": "chess-general-user-2027-1",
+ "n": "CHESS General User Proposals – Winter 2027 run (2027_1)",
+ "nom": false,
+ "pt": "other",
+ "s": "open",
+ "src": "other:chess-gup",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://www.chess.cornell.edu/users/chess-deadlines",
+ "unv": "User fees and eligibility details for non-US institutions were not confirmed on the pages read",
+ "us": false
+}

@@ -1,0 +1,31 @@
+{
+ "a": "Salary not listed",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Open until filled; start date negotiable",
+ "e": "Experimental postdoc on fermionic lithium-6 superfluids, quantum vortices and quantum transport. PhD (or near completion) in atomic physics, optics or a related field with laser cooling, UHV and optics experience; contact Prof. Kwon directly. No citizenship limits stated.",
+ "f": "University of Milan, Department of Physics (Woojin Kwon)",
+ "fields": [
+  "amo"
+ ],
+ "id": "unimi-kwon-ultracold-fermi-gas-postdoc",
+ "n": "University of Milan: Experimental postdoc in ultracold Fermi gases (Kwon group, ERC StG)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "rolling",
+ "src": "other:quantiki-unimi-kwon",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://sites.google.com/view/wjkwonlab/",
+ "unv": "Group site confirms an open postdoc but gives no deadline; Quantiki's listing date is Dec 22, 2026.",
+ "us": false
+}

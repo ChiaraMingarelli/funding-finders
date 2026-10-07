@@ -1,0 +1,34 @@
+{
+ "a": "Funded PhD position (ERC Advanced Grant)",
+ "added": "2026-10-07",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Graduate program",
+ "checked": "2026-10-07",
+ "d": "2026-12-01",
+ "dt": "Dec 1, 2026; start spring–fall 2027",
+ "e": "One or more PhD positions modelling compact binaries in astrophysical and dark-matter environments and interpreting LISA and next-generation ground-based GW observations. Requires an MSc in physics, astronomy or a related field by the start date; apply via AcademicJobsOnline.",
+ "f": "GRAPPA, University of Amsterdam (Gianfranco Bertone)",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "grappa-uva-phd-gw-astrophysics-dark-matter",
+ "n": "GRAPPA, University of Amsterdam: PhD in gravitational-wave astrophysics and dark matter (ERC De Tenebris)",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:32885",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32885",
+ "us": false
+}

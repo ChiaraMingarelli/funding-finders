@@ -1,0 +1,32 @@
+{
+ "a": "Varies by division or section",
+ "added": "2026-10-07",
+ "aud": [
+  "ap"
+ ],
+ "c": "Travel",
+ "checked": "2026-10-07",
+ "d": "2027-03-01",
+ "dt": "Applications open Dec 4, 2026; deadline Mar 1, 2027",
+ "e": "Travel grants from ECS divisions and sections for undergraduates, graduate students, postdocs and early-career faculty presenting papers at the 251st ECS Meeting; some divisions add their own requirements.",
+ "f": "The Electrochemical Society",
+ "fields": [
+  "energy",
+  "mat"
+ ],
+ "id": "ecs-travel-grants-251st-meeting",
+ "n": "ECS Division and Section Travel Grants (251st ECS Meeting)",
+ "nom": false,
+ "pt": "other",
+ "s": "open",
+ "src": "other:ecs-travel",
+ "stages": [
+  "ug",
+  "gr",
+  "pd",
+  "tt"
+ ],
+ "u": "https://www.electrochem.org/travel-grants",
+ "unv": "Award amounts and the 251st meeting dates and location were not listed on the travel-grant page",
+ "us": false
+}

@@ -1,0 +1,33 @@
+{
+ "a": "Perlmutter CPU/GPU node-hours and storage for Jan 20, 2027 to Jan 18, 2028",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Compute",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Main AY2027 deadline was Oct 5, 2026; NERSC accepts requests year-round and may award more time during the year while resources remain",
+ "e": "Annual call for time on NERSC supercomputers (DOE Mission Science, Exploratory and Education classes). Proposals must support the mission of the DOE Office of Science; late requests are considered only while resources remain.",
+ "f": "DOE Office of Science / NERSC",
+ "fields": [
+  "ds",
+  "all"
+ ],
+ "id": "nersc-ercap-allocations-ay2027",
+ "n": "NERSC ERCAP allocations (allocation year 2027)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "other:nersc-ercap-ay2027",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nersc.gov/users/user-news/call-for-proposals-for-nersc-ay-2027",
+ "unv": "Whether a PI without DOE funding can get a Mission Science award, and who may serve as PI, not checked; late-request success depends on remaining hours"
+}

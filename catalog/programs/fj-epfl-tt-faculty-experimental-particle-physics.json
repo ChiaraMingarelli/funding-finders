@@ -1,0 +1,28 @@
+{
+ "a": "Tenure-track professor; start 2027; salary not listed",
+ "added": "2026-10-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-07",
+ "d": "2026-10-15",
+ "dt": "Application deadline Oct 15, 2026",
+ "e": "Tenure-track faculty position in experimental particle physics, any sub-field (AI and detector instrumentation especially welcome), joining the LHCb group and FCC-ee preparation. No citizenship limit stated.",
+ "f": "Institute of Physics, School of Basic Sciences, EPFL",
+ "fields": [
+  "ppx"
+ ],
+ "id": "fj-epfl-tt-faculty-experimental-particle-physics",
+ "n": "EPFL: Tenure-Track Faculty, Experimental Particle Physics",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3187982",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://www.epfl.ch/about/working/faculty-position-in-experimantal-particle-physics/",
+ "us": false
+}

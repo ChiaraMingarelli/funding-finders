@@ -1,0 +1,32 @@
+{
+ "a": "not listed (team seed awards to fellows)",
+ "added": "2026-10-07",
+ "asub": [
+  "exo"
+ ],
+ "aud": [
+  "yale",
+  "ast"
+ ],
+ "c": "Foundation",
+ "checked": "2026-10-07",
+ "d": "2027-04-15",
+ "dt": "Fellow applications due Apr 15, 2027 for full consideration; first meeting Nov 3–6, 2027 (Tucson, AZ)",
+ "e": "New Scialog initiative (2027–2029) that invites about 50 early-career faculty, from first year on faculty through recently post-tenure, to a meeting where teams form and compete for seed funding on modeling and characterizing the atmospheres of Earth, solar-system planets and exoplanets. It seeks exoplanet observers, astrophysicists, planetary and atmospheric scientists, astrostatisticians and laboratory chemists; applicants apply through the RCSA portal.",
+ "f": "Research Corporation for Science Advancement",
+ "fields": [
+  "astro"
+ ],
+ "id": "scialog-terrestrial-extraterrestrial-atmospheres-2027",
+ "n": "Scialog: Terrestrial and Extraterrestrial Atmospheres (2027 Fellows)",
+ "nom": false,
+ "s": "open",
+ "src": "other:scialog-atmospheres-2027",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://rescorp.org/scialog/terrestrial-and-extraterrestrial-atmospheres/",
+ "unv": "Co-sponsors, seed award amounts and any country limit are not stated on the initiative page (RCSA generally funds US and Canadian institutions).",
+ "us": false
+}

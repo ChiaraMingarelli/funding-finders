@@ -1,0 +1,33 @@
+{
+ "a": "Up to $20,000 per year (travel, salary, publication costs, small equipment)",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Foundation",
+ "checked": "2026-10-07",
+ "d": "2027-04-01",
+ "dt": "Due April 1 each year; the two reference letters must also arrive by the deadline",
+ "e": "AAS grants for observational astronomy research with an international dimension, with emphasis on long-term international visits. Applicants must hold a PhD or equivalent; graduate students are not eligible.",
+ "f": "American Astronomical Society (AAS)",
+ "fields": [
+  "astro"
+ ],
+ "id": "aas-chretien-international-research-grants",
+ "n": "AAS Chrétien International Research Grants",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "open",
+ "src": "other:aas-chretien",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://aas.org/grants-and-prizes/chretien-international-research-grants",
+ "unv": "aas.org returned HTTP 403 on Oct 7, 2026; the April 1 annual deadline, amount and eligibility come from search snippets of the AAS grant page and AAS FAQ. Citizenship rules not checked."
+}

@@ -1,0 +1,33 @@
+{
+ "a": "",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Full consideration by Aug 15, 2026; review continues until the position is filled",
+ "e": "ATLAS searches for physics beyond the Standard Model, machine-learning applications and Phase-2 trigger upgrades. Requires a PhD in particle physics by the start date; start date negotiable; no citizenship limit stated.",
+ "f": "University of Illinois Urbana-Champaign, High-Energy Physics Group (Ben Hooberman)",
+ "fields": [
+  "ppx",
+  "ds",
+  "inst"
+ ],
+ "id": "uiuc-postdoc-atlas-hooberman",
+ "n": "UIUC: Postdoctoral Research Associate, High-Energy Physics (ATLAS, Hooberman)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "ajo:32197",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32197",
+ "unv": "Salary not stated.",
+ "us": false
+}

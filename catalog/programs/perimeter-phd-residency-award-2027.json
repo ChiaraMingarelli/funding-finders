@@ -1,0 +1,33 @@
+{
+ "a": "PhD residency at Perimeter (value not stated)",
+ "added": "2026-10-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "No deadline posted; submit at the same time as the PhD application to a partner university",
+ "e": "Lets PhD students at a Perimeter partner university do their PhD in residence at Perimeter with a Perimeter-affiliated supervisor. Requires admission to the partner university's PhD program and acceptance by a Perimeter faculty member; it is not itself a PhD application.",
+ "f": "Perimeter Institute for Theoretical Physics",
+ "fields": [
+  "ppt",
+  "grav",
+  "astro",
+  "qp",
+  "cmt"
+ ],
+ "id": "perimeter-phd-residency-award-2027",
+ "n": "Perimeter Institute PhD Residency Award (2027 expression of interest)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "Canada",
+ "s": "rolling",
+ "src": "ajo:32457",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://perimeterinstitute.ca/phd-students",
+ "unv": "Award value and the list of partner universities not checked (perimeterinstitute.ca returned 403); details from the AcademicJobsOnline posting"
+}

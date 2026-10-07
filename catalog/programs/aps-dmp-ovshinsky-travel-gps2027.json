@@ -1,0 +1,28 @@
+{
+ "a": "$750",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Travel",
+ "checked": "2026-10-07",
+ "d": "2026-10-25",
+ "dt": "Apply by Oct 25, 2026, 11:59 pm ET; advisor support letter due the same day",
+ "e": "Travel awards for students presenting in DMP-sponsored sessions at the 2027 APS Global Physics Summit (Atlanta, April 11-16, 2027), chosen on merit by the DMP Executive Committee.",
+ "f": "APS Division of Materials Physics",
+ "fields": [
+  "cmx",
+  "mat"
+ ],
+ "id": "aps-dmp-ovshinsky-travel-gps2027",
+ "n": "APS DMP Ovshinsky Student Travel Awards (2027 Global Physics Summit)",
+ "nom": false,
+ "s": "open",
+ "src": "other:aps-dmp-ovshinsky",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://engage.aps.org/dmp/honors/student-travel-awards",
+ "us": false
+}

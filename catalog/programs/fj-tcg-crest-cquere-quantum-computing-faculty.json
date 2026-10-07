@@ -1,0 +1,28 @@
+{
+ "a": "Permanent position after a 1-year probation; salary not listed",
+ "added": "2026-10-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-07",
+ "d": "2026-10-15",
+ "dt": "Oct 15, 2026",
+ "e": "Faculty posts in quantum algorithms, quantum error correction and fault-tolerant quantum computing theory. Assistant Professor requires 3+ years of postdoctoral experience; foreign nationals encouraged, with visa support.",
+ "f": "Centre for Quantum Engineering, Research and Education (CQuERE), TCG CREST, Kolkata, India",
+ "fields": [
+  "qp"
+ ],
+ "id": "fj-tcg-crest-cquere-quantum-computing-faculty",
+ "n": "TCG CREST (CQuERE), Kolkata: Assistant/Associate Professor in quantum algorithms, QEC and fault tolerance",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "other:quantiki-tcg-crest-cquere",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://www.tcgcrest.org/announcements/advertisement-for-faculty-positions-at-cquere-tcg-crest-kolkata-india/",
+ "us": false
+}

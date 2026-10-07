@@ -1,0 +1,30 @@
+{
+ "a": "5 years; up to £1.25M full economic cost (EPSRC pays 80%)",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Imperial nominations accepted year-round; EPSRC assesses applications in batches (submit by 30 April or 30 September)",
+ "e": "A 5-year EPSRC fellowship for researchers with a PhD plus postdoctoral experience who are ready to set up an independent program mainly within EPSRC's mathematical sciences remit, hosted in Imperial's Department of Physics. Applicants first send an Imperial expression of interest with a sponsor. No citizenship limit stated.",
+ "f": "Department of Physics, Imperial College London (EPSRC-funded)",
+ "fields": [
+  "ppt"
+ ],
+ "id": "imperial-epsrc-math-sciences-early-independence-fellow",
+ "n": "Imperial Physics: EPSRC Mathematical Sciences Early Independence Fellowship",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "rolling",
+ "src": "inspire:3162949",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.imperial.ac.uk/physics/opportunities/research-fellowships/",
+ "us": false
+}

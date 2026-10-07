@@ -1,0 +1,36 @@
+{
+ "a": "Covers the registration fee and other costs (amount not stated)",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Travel",
+ "checked": "2026-10-07",
+ "d": "2027-01-15",
+ "dt": "Abstracts and grant applications due Jan 15, 2027, 23:59 CET; GA is Aug 10-19, 2027",
+ "e": "Limited grants for attending the 33rd IAU General Assembly in Rome, awarded on abstract acceptance. Priority goes to early-career researchers and to people from countries eligible for official development assistance; an abstract must be submitted first.",
+ "f": "International Astronomical Union",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "iau-general-assembly-2027-grants",
+ "n": "IAU General Assembly 2027 grants (Rome)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "open",
+ "src": "other:iau-ga-2027-grants",
+ "stages": [
+  "gr",
+  "pd",
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.iau.org/IAU/News/Ann2026/GA2027-registration-open.aspx",
+ "unv": "Grant size and whether US/Canadian applicants are funded in practice not stated"
+}

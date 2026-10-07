@@ -1,0 +1,28 @@
+{
+ "a": "$7,000 for the 10-week internship plus housing",
+ "added": "2026-10-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-07",
+ "d": "2027-01-31",
+ "dt": "Application available in December 2026; due Jan 31, 2027",
+ "e": "Paid summer research internship at Carnegie Observatories in Pasadena for 15-20 undergraduates from colleges and universities in California, with a scientific communication and computing program.",
+ "f": "Carnegie Observatories",
+ "fields": [
+  "astro"
+ ],
+ "id": "carnegie-cassi-2027",
+ "n": "Carnegie Astrophysics Summer Student Internship (CASSI) 2027",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:carnegie-cassi",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://carnegiescience.edu/about/working/interns/cassi",
+ "unv": "2027 program dates and citizenship rules not stated."
+}

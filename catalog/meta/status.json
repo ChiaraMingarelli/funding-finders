@@ -1,11 +1,11 @@
 {
  "cadence": "weekly",
  "changes": [
-  "Sweep: 38 new postdoc postings (10 prize fellowships; 7 in gravitational physics; 18 in quantum, condensed-matter, AMO or photonics)",
-  "Midweek: 10 new postdoc postings (5 prize fellowships; 1 in gravitational physics)",
-  "Added Yale limited-submission deadlines from the Sep 30 funding newsletter (Blavatnik National and Regional, Oct 28)",
-  "Added postdoc position-type filter: prize fellowships vs group postdocs",
-  "Added 299 open postdoc positions and fellowships from Academic Jobs Online, INSPIRE, the AAS Job Register and GW/quantum job boards"
+  "Weekly recheck: every listing checked against its official page; 13 filled or expired postings removed",
+  "New: 16 postdoc postings and fellowships (3 prize fellowships; 2 in gravitational physics)",
+  "New: Center of Gravity / AEI short visit grants and the 2027 Copenhagen School on Gravity; APS Global Physics Summit 2027 student travel awards; CHESS and SSRL user calls",
+  "DOE Office of Science FY2027 Open Call (DE-FOA-0003665) posted Sep 30; HEP, NP and BES rows updated",
+  "NSF Astro-Core and Plasma Physics now accept proposals anytime (no Nov 16 target date)"
  ],
- "lastChecked": "2026-09-30"
+ "lastChecked": "2026-10-07"
 }

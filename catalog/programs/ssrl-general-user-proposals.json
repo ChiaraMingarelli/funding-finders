@@ -1,0 +1,35 @@
+{
+ "a": "Synchrotron beamtime (peer-reviewed)",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Instrumentation",
+ "checked": "2026-10-07",
+ "d": "2026-12-01",
+ "dt": "Macromolecular crystallography proposals due Dec 1, 2026 (also Apr 1, Jul 1); X-ray/VUV proposals due May 1, Aug 1 and Oct 1 each year",
+ "e": "Standard general user proposals for x-ray/VUV beamlines (spectroscopy, scattering, imaging of materials) and macromolecular crystallography at SSRL, submitted through the user portal three times a year; proposals can request beamtime for up to two years.",
+ "f": "SLAC National Accelerator Laboratory / Stanford Synchrotron Radiation Lightsource (DOE BES)",
+ "fields": [
+  "cmx",
+  "mat",
+  "bio",
+  "inst"
+ ],
+ "id": "ssrl-general-user-proposals",
+ "n": "SSRL General User Proposals (X-ray/VUV and Macromolecular Crystallography)",
+ "nom": false,
+ "pt": "other",
+ "s": "open",
+ "src": "other:ssrl-gup",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://www-ssrl.slac.stanford.edu/ssrl/web/user-services/proposal-submission-procedures",
+ "unv": "Next X-ray/VUV deadline (May 1, 2027) follows the fixed annual dates on the page; user fees not confirmed",
+ "us": false
+}

@@ -1,0 +1,38 @@
+{
+ "a": "Competitive salary plus travel support; 1 year, renewable to 2–3 years; start as early as March 2027",
+ "added": "2026-10-07",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": "2026-10-31",
+ "dt": "All materials by Oct 31, 2026 for full consideration",
+ "e": "Several postdocs in an NRF-funded programme on AI for gravitational-wave astronomy (surrogate modelling, simulation-based inference, Bayesian methods and related ML). Applicants with GW analysis or statistical ML backgrounds, or general applied math/statistics/data science, may apply by e-mail to ai4gw.nus@gmail.com; no citizenship limits stated.",
+ "f": "National University of Singapore, Dept. of Physics and Dept. of Statistics and Data Science (Alvin Chua, Li Cheng, Alexandre Thiery, David Nott)",
+ "fields": [
+  "grav",
+  "astro",
+  "ds"
+ ],
+ "id": "nus-ai-for-gw-postdoc-fellowships",
+ "n": "National University of Singapore: Postdoctoral Fellowships in AI for Gravitational-Wave Astronomy",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:lisa-nus-ai4gw",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.lisamission.org/postdoctoral-fellowships-in-ai-for-gravitational-waves-at-the-national-university-of-singapore/",
+ "unv": "Announcement posted on the LISA Consortium positions page (Sep 1, 2026); no NUS-hosted ad found.",
+ "us": false
+}

@@ -1,0 +1,28 @@
+{
+ "a": "2-year fixed-term post; pay per TV-AVH",
+ "added": "2026-10-07",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": "2026-10-15",
+ "dt": "Deadline Oct 15, 2026",
+ "e": "A 2-year post to develop the plasma injector for PETRA IV: review the X-band dechirper design, test X-band hardware and build a prototype energy compressor for GeV-class laser-plasma-accelerated electron beams. Requires a PhD in physics with accelerator physics and RF experience; no citizenship limit stated.",
+ "f": "DESY, Hamburg (contact Andreas Maier)",
+ "fields": [
+  "inst"
+ ],
+ "id": "desy-accelerator-scientist-x-band-petra-iv",
+ "n": "DESY: Accelerator Scientist, X-band technology and energy compression (PETRA IV)",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3205289",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://cockpit.as-mediendesign.de/job/131518",
+ "us": false
+}

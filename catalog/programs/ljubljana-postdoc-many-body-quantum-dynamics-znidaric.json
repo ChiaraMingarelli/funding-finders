@@ -1,0 +1,33 @@
+{
+ "a": "Two years (extension possible); start Jan 1, 2027 (somewhat flexible); ERC Advanced Grant NUMBS",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Listed deadline Sep 19, 2026; reviewed on a rolling basis until the position is filled",
+ "e": "Theory postdoc on dynamics of many-body quantum systems: quantum chaos, quantum information and non-equilibrium physics. Apply via AJO with CV, research statement, publication list and two reference letters; no citizenship limit stated.",
+ "f": "University of Ljubljana, Faculty of Mathematics and Physics (Marko Znidaric)",
+ "fields": [
+  "cmt",
+  "qp"
+ ],
+ "id": "ljubljana-postdoc-many-body-quantum-dynamics-znidaric",
+ "n": "University of Ljubljana: Postdoc in Many-Body Quantum Dynamics (Znidaric group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "rolling",
+ "src": "ajo:32296",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32296",
+ "unv": "Salary not stated.",
+ "us": false
+}

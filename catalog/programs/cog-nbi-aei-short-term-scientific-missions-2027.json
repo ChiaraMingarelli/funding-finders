@@ -1,0 +1,38 @@
+{
+ "a": "Economy travel plus hotel accommodation for part or all of a 1–6 week visit",
+ "added": "2026-10-07",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Travel",
+ "checked": "2026-10-07",
+ "d": "2026-11-30",
+ "dt": "Call open Oct 1 – Nov 30, 2026; results by Jan 1, 2027",
+ "e": "Grants for short research visits to the Center of Gravity in Copenhagen or AEI Potsdam (ACR), for projects agreed with a CoG or ACR member, starting after April 2027 and ending before Oct 1, 2027. Open to scientists in the community, with preference for early-career researchers; a home-institution support letter is required.",
+ "f": "Center of Gravity, Niels Bohr Institute (DNRF Center of Excellence), with the AEI Astrophysical and Cosmological Relativity Department",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "cog-nbi-aei-short-term-scientific-missions-2027",
+ "n": "Center of Gravity (NBI Copenhagen) / AEI ACR: Short-Term Scientific Mission grants (visits Apr–Sep 2027)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "open",
+ "src": "other:lisa-cog-stsm-2027",
+ "stages": [
+  "gr",
+  "pd",
+  "tt"
+ ],
+ "u": "https://www.aei.mpg.de/1514289/the-center-of-gravity-exchange-of-researchers-working-on-gravitational-physics",
+ "us": false
+}

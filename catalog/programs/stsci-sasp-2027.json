@@ -1,0 +1,30 @@
+{
+ "a": "Stipend tentatively $880 per week; travel and housing assistance",
+ "added": "2026-10-07",
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Applications open January 2027; deadline not yet posted (the 2026 deadline was Jan 31, 2026)",
+ "e": "Summer internship at STScI in Baltimore, May 31 to July 30, 2027, mainly for undergraduates between their junior and senior years from the US and other countries; projects in space-based astronomy, engineering or public outreach. STScI helps accepted international students obtain work visas.",
+ "f": "Space Telescope Science Institute (STScI)",
+ "fields": [
+  "astro"
+ ],
+ "id": "stsci-sasp-2027",
+ "n": "STScI Space Astronomy Summer Program (SASP) 2027",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "src": "other:stsci-sasp",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.stsci.edu/opportunities/space-astronomy-summer-program",
+ "unv": "2027 deadline not posted.",
+ "us": false
+}

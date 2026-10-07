@@ -1,0 +1,32 @@
+{
+ "a": "$6,500 stipend for the 10-week program",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-07",
+ "d": "2027-02-01",
+ "dt": "Reviews begin Jan 15, 2027; final deadline for applications and letters 11:59 pm Feb 1, 2027",
+ "e": "NSF-funded 10-week summer research program in the Stony Brook Department of Physics and Astronomy. US citizens or permanent residents only.",
+ "f": "Stony Brook University, Department of Physics and Astronomy",
+ "fields": [
+  "all"
+ ],
+ "id": "stony-brook-physics-astronomy-reu-2027",
+ "n": "Stony Brook Physics and Astronomy REU (Summer 2027)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:stonybrook-reu",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.stonybrook.edu/commcms/physics-reu/_includes/apply.php",
+ "unv": "The apply page still says it is not currently accepting applications, while giving the Summer 2027 dates; the stipend figure may be from an earlier year.",
+ "us": true
+}

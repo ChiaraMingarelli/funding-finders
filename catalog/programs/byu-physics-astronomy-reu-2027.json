@@ -1,0 +1,36 @@
+{
+ "a": "$7,000 salary stipend (2026 figure), settling-in stipend, free housing and round-trip travel for non-BYU students",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-07",
+ "d": "2027-02-06",
+ "dt": "Applications open Nov 9, 2026; applications and letters due Sat Feb 6, 2027 for full consideration",
+ "e": "Ten-week summer research in Provo, May 31 to Aug 6, 2027, in optics, modeling, materials, acoustics, particle theory, quantum information and astronomy. The NSF REU is for US citizens and permanent residents; the BYU-funded Fletcher internship also takes international students enrolled at US universities.",
+ "f": "Brigham Young University, Department of Physics and Astronomy",
+ "fields": [
+  "phot",
+  "mat",
+  "ppt",
+  "qp",
+  "astro"
+ ],
+ "id": "byu-physics-astronomy-reu-2027",
+ "n": "BYU Physics and Astronomy REU / Fletcher Research Internship (Summer 2027)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:byu-reu",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://reu.byu.edu/home",
+ "unv": "BYU is reapplying for NSF funding, which it says may affect the 2027 program; stipend amount is the 2026 figure.",
+ "us": false
+}

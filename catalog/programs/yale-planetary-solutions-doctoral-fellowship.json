@@ -1,0 +1,29 @@
+{
+ "a": "$3,500/yr stipend top-up for 2 years + $2,000 research budget ($9,000 total)",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Yale internal",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Applications for the 2027–2029 cohort open Nov 30, 2026; the deadline is not posted yet",
+ "e": "Two-year interdisciplinary training fellowship for first- and second-year Yale doctoral students in any program whose research aligns with planetary solutions (climate, biodiversity, communities). Faculty advisor support is required.",
+ "f": "Yale Planetary Solutions",
+ "fields": [
+  "all"
+ ],
+ "id": "yale-planetary-solutions-doctoral-fellowship",
+ "n": "Yale Planetary Solutions Doctoral Fellowship (2027–2029 cohort)",
+ "nom": false,
+ "s": "watch",
+ "src": "other:yps-doctoral-fellowship",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://planetarysolutions.yale.edu/programs/yps-doctoral-fellowship",
+ "unv": "Application deadline for the 2027–2029 cohort not yet posted.",
+ "us": false
+}

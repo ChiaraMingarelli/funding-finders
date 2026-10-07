@@ -1,0 +1,36 @@
+{
+ "a": "Free high-throughput CPU/GPU capacity under a fair-share policy",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Compute",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Rolling; sign up for an account any time",
+ "e": "Free distributed computing for work that splits into many independent jobs (parameter sweeps, Monte Carlo, ML). Open to researchers affiliated with projects at US-based academic, government or non-profit institutions.",
+ "f": "OSG Consortium / PATh (NSF)",
+ "fields": [
+  "ds",
+  "all"
+ ],
+ "id": "ospool-open-science-pool",
+ "n": "OSPool (Open Science Pool) high-throughput computing",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:ospool",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://osg-htc.org/services/ospool/"
+}

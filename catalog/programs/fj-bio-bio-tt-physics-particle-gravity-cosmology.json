@@ -1,0 +1,30 @@
+{
+ "a": "Tenure-track faculty; about US$30,000 per year; start March 2027",
+ "added": "2026-10-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-07",
+ "d": "2026-11-03",
+ "dt": "All materials must be received by Nov 3, 2026",
+ "e": "Tenure-track faculty position in physics specializing in particle physics, gravity or cosmology, with undergraduate and graduate teaching. Apply by email; non-Chilean applicants must meet visa and work-permit requirements.",
+ "f": "Dept. of Elementary Sciences, Faculty of Science, University of Bío-Bío (Chillán, Chile)",
+ "fields": [
+  "ppt",
+  "grav"
+ ],
+ "id": "fj-bio-bio-tt-physics-particle-gravity-cosmology",
+ "n": "Univ. of Bío-Bío (Chile): TT Faculty in Particle Physics, Gravity or Cosmology",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3198780",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://inspirehep.net/jobs/3198780",
+ "unv": "No official university page for the ad was found; details are from the INSPIRE listing (applications go to gcabello@ubiobio.cl).",
+ "us": false
+}

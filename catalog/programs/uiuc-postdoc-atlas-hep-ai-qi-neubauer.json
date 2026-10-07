@@ -1,0 +1,32 @@
+{
+ "a": "",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Full consideration by Sep 15, 2026; review continues until the position is filled",
+ "e": "ATLAS data analysis (BSM searches) and Phase-II tracking and trigger upgrades, with links to the A3D3 AI institute and IQUIST for AI and quantum-information work. Requires a PhD in particle physics by the start date; no citizenship limit stated.",
+ "f": "University of Illinois Urbana-Champaign, Department of Physics (Mark Neubauer)",
+ "fields": [
+  "ppx",
+  "ds"
+ ],
+ "id": "uiuc-postdoc-atlas-hep-ai-qi-neubauer",
+ "n": "UIUC: Postdoctoral Research Associate in HEP/AI/QI (ATLAS, Neubauer)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "ajo:32375",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32375",
+ "unv": "Salary and start date not stated.",
+ "us": false
+}

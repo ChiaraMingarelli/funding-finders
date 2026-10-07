@@ -1,0 +1,31 @@
+{
+ "a": "TV-L up to E14; 3 years",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Junior group leader",
+ "checked": "2026-10-07",
+ "d": "2026-10-18",
+ "dt": "Oct 18, 2026 (e-mail application to qute@uni-saarland.de; refs W2911–W2914)",
+ "e": "Four 3-year positions to build and lead an independent research group at QuTe (collaborations with Forschungszentrum Jülich): applied quantum sciences, quantum informatics, quantum mathematics, and numerics for quantum and AI. PhD in physics, mathematics, computer science or a related field required; English C1; no citizenship limits stated.",
+ "f": "Center for Quantum Technologies (QuTe), Saarland University",
+ "fields": [
+  "qp",
+  "ds"
+ ],
+ "id": "saarland-qute-research-group-leaders",
+ "n": "Saarland University QuTe: Research Group Leaders (Applied Quantum Sciences, Quantum Informatics, Quantum Mathematics, Numerics for Quantum and AI)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "other:quantiki-saarland-qute-rgl",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.uni-saarland.de/fileadmin/upload/verwaltung/stellen/Wissenschaftler/W2912_Quantum_Informatics.pdf",
+ "us": false
+}

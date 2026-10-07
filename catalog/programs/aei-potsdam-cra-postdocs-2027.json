@@ -1,0 +1,36 @@
+{
+ "a": "TVöD Bund, usually E13; 2–3 years",
+ "added": "2026-10-07",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": "2026-12-13",
+ "dt": "Deadline for full consideration Dec 13, 2026; positions available from Sep 1, 2027",
+ "e": "Postdoc appointments in numerical relativity and relativistic astrophysics: neutron star mergers, collapsars, nucleosynthesis, core collapse, massive black hole formation and multi-messenger astrophysics. PhD required; no citizenship limits stated.",
+ "f": "Max Planck Institute for Gravitational Physics (AEI), Potsdam, Computational Relativistic Astrophysics division (Masaru Shibata)",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "aei-potsdam-cra-postdocs-2027",
+ "n": "Max Planck AEI Potsdam: Postdocs in Computational Relativistic Astrophysics (CRA division, 2027)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:lisa-aei-cra-2027",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.aei.mpg.de/1496849/cra-postdoc-2027",
+ "us": false
+}

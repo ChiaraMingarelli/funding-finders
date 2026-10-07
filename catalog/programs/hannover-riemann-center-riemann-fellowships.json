@@ -1,0 +1,30 @@
+{
+ "a": "About €2,000 per month after deductions, for visits of up to 4 months",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Applications accepted any time; considered as fellowships become available",
+ "e": "Short visiting fellowships (up to four months) for mathematicians and theoretical physicists early in their postdoctoral career to join one of the Riemann Center's research groups; may include light teaching. No citizenship limit stated.",
+ "f": "Riemann Center for Geometry and Physics, Leibniz Universität Hannover",
+ "fields": [
+  "ppt"
+ ],
+ "id": "hannover-riemann-center-riemann-fellowships",
+ "n": "Riemann Center (Hannover): Riemann Fellowships",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "rolling",
+ "src": "inspire:1753873",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.rc.uni-hannover.de/en/center/riemann-fellowships/",
+ "us": false
+}

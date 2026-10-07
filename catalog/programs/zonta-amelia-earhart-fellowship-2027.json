@@ -1,0 +1,31 @@
+{
+ "a": "US$12,000 (up to 30 fellows)",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-07",
+ "d": "2026-11-15",
+ "dt": "Application must be submitted in full by Nov 15, 2026",
+ "e": "Fellowship for women of any nationality in a full-time PhD or doctoral program in aerospace engineering or the space sciences, who have completed at least one year of the program (or hold a master's in an aerospace-applied field) and will not graduate before April 2028. Postdocs are not eligible.",
+ "f": "Zonta International Foundation",
+ "fields": [
+  "astro"
+ ],
+ "id": "zonta-amelia-earhart-fellowship-2027",
+ "n": "Zonta International Amelia Earhart Fellowship (2027)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "other:zonta-amelia-earhart-2027",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://www.zonta.org/Web/Programs/Education/Amelia_Earhart_Fellowship",
+ "unv": "The page names aerospace engineering and space sciences only; whether astronomy or physics theses qualify depends on their space-science focus.",
+ "us": false
+}

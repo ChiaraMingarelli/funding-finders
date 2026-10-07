@@ -1,0 +1,34 @@
+{
+ "a": "Up to $500,000 per award; ~10 awards; ~$8M total (forecast)",
+ "added": "2026-10-07",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Forecast RFA-RM-28-006: est. post Oct 1, 2026 (not yet posted); est. due Feb 15, 2027",
+ "e": "Planned phased Common Fund awards to develop new experimental and computational technologies for sequencing RNA, detecting RNA modifications and studying RNA structure, location and function. Applications are not being accepted yet; the forecast lists US institutions of higher education among eligible applicants and states no citizenship limit.",
+ "f": "NIH Common Fund",
+ "fields": [
+  "bio"
+ ],
+ "id": "nih-rnomics-transformative-technologies-forecast",
+ "n": "NIH Common Fund RNomics: Transformative Technologies for RNome Characterization - forecast",
+ "nofo": [
+  {
+   "opp": "RFA-RM-28-006",
+   "u": "https://simpler.grants.gov/opportunity/d74df651-ab55-4651-9c55-fc67b40d917c"
+  }
+ ],
+ "nom": false,
+ "s": "watch",
+ "src": "grants:RFA-RM-28-006",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://commonfund.nih.gov/rnomics",
+ "unv": "Dates and amounts are grants.gov forecast estimates; the NOFO has not been published and eligibility details may change.",
+ "us": false
+}

@@ -1,0 +1,39 @@
+{
+ "a": "One-year appointment, renewable; salary not stated (described as very competitive); remote work with monthly UNM visits possible",
+ "added": "2026-10-07",
+ "asub": [
+  "he",
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Listed deadline Sep 20, 2026; review continues until the positions are filled",
+ "e": "DOE-funded GENESIS program building one AI/ML image-processing pipeline for rare-event searches in particle detectors, strong-lens component separation, and transient identification in interferometric radio astronomy (team includes Greg Taylor and Jayce Dowell). Requires a PhD in physics, astronomy, computer science or a related field by the start date; no citizenship limit stated.",
+ "f": "University of New Mexico, Department of Physics & Astronomy (Dinesh Loomba, PI)",
+ "fields": [
+  "astro",
+  "ppx",
+  "ds"
+ ],
+ "id": "unm-postdoc-ai-rare-events-radio-transients",
+ "n": "University of New Mexico: Postdoctoral Fellow in AI-Driven Search for Rare Events (particle physics, lensing, radio transients)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "ajo:32373",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32373",
+ "unv": "Salary and start date not stated in the posting.",
+ "us": false
+}

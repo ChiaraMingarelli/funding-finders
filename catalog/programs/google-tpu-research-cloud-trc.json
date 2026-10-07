@@ -1,0 +1,37 @@
+{
+ "a": "Free access to Cloud TPUs",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Compute",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Rolling; express interest any time",
+ "e": "Free Cloud TPU access for machine-learning research. Participants are expected to share their results openly (papers, code or posts) and give feedback to Google.",
+ "f": "Google Research",
+ "fields": [
+  "ds",
+  "all"
+ ],
+ "id": "google-tpu-research-cloud-trc",
+ "n": "Google TPU Research Cloud (TRC)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "rolling",
+ "src": "other:google-trc",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://sites.research.google/trc/about/",
+ "unv": "Eligibility rules (career stage, country) and allocation size are not stated on the program page"
+}

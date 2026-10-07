@@ -1,0 +1,30 @@
+{
+ "a": "Up to $1,000 (domestic) or $1,500 (international institutions)",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Travel",
+ "checked": "2026-10-07",
+ "d": "2026-10-25",
+ "dt": "Apply by Oct 25, 2026, 11:59 pm ET",
+ "e": "Three travel awards (Graduate Research Excellence, Underrepresented Minority, and First-Time Conference Participant) for graduate students presenting at the 2027 APS Global Physics Summit. Applicants must be APS and FGSA members.",
+ "f": "APS Forum on Graduate Student Affairs",
+ "fields": [
+  "all"
+ ],
+ "id": "aps-fgsa-travel-awards-gps2027",
+ "n": "APS FGSA Graduate Student Travel Awards (2027 Global Physics Summit)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:aps-fgsa-travel",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://engage.aps.org/fgsa/prizes-awards",
+ "us": false
+}

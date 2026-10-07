@@ -1,0 +1,28 @@
+{
+ "a": "Assistant or Associate Professor; start August 2027; salary not listed",
+ "added": "2026-10-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-07",
+ "d": "2026-12-04",
+ "dt": "Full consideration for applications completed by Dec 4, 2026; search continues until filled",
+ "e": "Tenure-track faculty position in experimental relativistic heavy-ion physics (RHIC/STAR/sPHENIX, LHC/CMS, ePIC at the EIC). PhD in nuclear physics or a closely related field required; no citizenship limit stated.",
+ "f": "Dept. of Physics & Astronomy, Purdue University",
+ "fields": [
+  "nux"
+ ],
+ "id": "fj-purdue-asst-assoc-prof-exp-relativistic-heavy-ion",
+ "n": "Purdue: Asst/Assoc Prof, Experimental Relativistic Heavy-Ion Physics",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3201552",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://careers.purdue.edu/job/AssistantAssociate-Professor-of-Experimental-Relativistic-Heavy-Ion-Physics/43899-en_US/",
+ "us": false
+}

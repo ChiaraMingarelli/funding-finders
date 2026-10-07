@@ -1,0 +1,31 @@
+{
+ "a": "Funded PhD positions (amount not checked)",
+ "added": "2026-10-07",
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Training",
+ "checked": "2026-10-07",
+ "d": "2026-11-03",
+ "dt": "Apply by Nov 3, 2026, 14:00 CET; interviews Feb 1-5, 2027; PhD starts Sep 2027",
+ "e": "PhD program in astronomy and astrophysics at the Heidelberg Max Planck institutes and Heidelberg University. Applicants generally need a master's degree (or equivalent) in physics or astronomy.",
+ "f": "International Max Planck Research School for Astronomy & Cosmic Physics at the University of Heidelberg (IMPRS-HD)",
+ "fields": [
+  "astro"
+ ],
+ "id": "imprs-heidelberg-phd-2027",
+ "n": "IMPRS for Astronomy & Cosmic Physics (Heidelberg): PhD positions, fall 2027 start",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "other:imprs-hd-2027",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://www.imprs-hd.mpg.de/3192/Application",
+ "unv": "Stipend or salary level and exact degree requirements not checked"
+}
