@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "no deadline stated",
  "e": "Building optical instruments to measure and manipulate neural dynamics in C. elegans and Drosophila. Instrument-development, optics/microscopy and programming experience required.",
@@ -18,11 +18,13 @@
  "id": "princeton-postdoc-in-optical-instrumentation-for-neuro-b",
  "n": "Princeton: Postdoc in Optical Instrumentation for Neuro/Biophysics (Leifer Lab)",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "ajo:32075",
  "stages": [
   "pd"
  ],
  "u": "https://academicjobsonline.org/ajo/jobs/32075",
+ "unv": "AJO ad still posted with no deadline; the Interfolio application page (186001) loads by script and its open status could not be confirmed.",
  "us": false
 }

@@ -13,7 +13,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "open until filled",
  "e": "Detector R&D and operations: quantum noise reduction, cryogenic interferometry, ML feedback control, suspensions; based at Caltech, MIT, Hanford or Livingston.",
@@ -27,8 +27,9 @@
  "n": "LIGO Laboratory: Instrument/Experiment Postdoc",
  "nfit": "High",
  "nom": false,
+ "pt": "group",
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:29381",
  "stages": [
   "pd"

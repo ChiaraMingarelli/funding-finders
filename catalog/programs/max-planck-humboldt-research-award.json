@@ -1,5 +1,5 @@
 {
- "a": "See funder",
+ "a": "€80,000 personal award plus €1.5 million over five years for research collaboration in Germany",
  "added": "2026-09-28",
  "aud": [
   "yale",
@@ -8,16 +8,17 @@
   "ast"
  ],
  "c": "Prize",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Nomination-only; annual",
- "e": "Nomination by German institutions; field rotates by year. Coordinator-verified.",
+ "e": "Outstanding researchers who have lived and worked outside Germany for over five years and gained their doctorate no more than 15 years ago. Nominations are made only by the Max Planck Society.",
  "f": "Max Planck Society / Humboldt Foundation",
  "fields": [
   "all"
  ],
  "id": "max-planck-humboldt-research-award",
  "n": "Max Planck-Humboldt Research Award",
+ "nfit": "Low",
  "nom": true,
  "s": "watch",
  "stages": [

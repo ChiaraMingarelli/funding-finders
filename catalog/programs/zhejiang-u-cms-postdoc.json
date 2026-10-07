@@ -5,7 +5,7 @@
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2027-01-02",
  "dt": "Jan 2, 2027",
  "e": "CMS flavor and exotic physics and the HGCAL upgrade. Requires a PhD in experimental HEP.",
@@ -17,6 +17,7 @@
  "id": "zhejiang-u-cms-postdoc",
  "n": "Zhejiang U.: CMS postdoc",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3179805",
  "stages": [

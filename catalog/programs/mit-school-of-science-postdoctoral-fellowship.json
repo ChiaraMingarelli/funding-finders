@@ -12,7 +12,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-15",
  "dt": "2026/11/15 (no time given)",
  "e": "School-wide fellowship (incl. Physics) for innovative, cross-disciplinary researchers who identify an MIT mentor. PhD by Aug 2027; start Sep 2027.",
@@ -34,6 +34,7 @@
  "n": "MIT: School of Science Postdoctoral Fellowship",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "src": "ajo:32631",

@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-10-01",
+ "checked": "2026-10-07",
  "d": "2026-12-01",
- "dt": "Deadline Dec 1, 2026",
+ "dt": "Official ad: review began immediately and continues until filled; the AAS listing gave Dec 1, 2026",
  "e": "Astronomy research with undergraduates. Start Aug 2027; 2028/2029 starts considered.",
  "f": "Dept. of Physics & Astronomy, Calvin University",
  "fields": [
@@ -18,7 +18,7 @@
  "nfit": "Medium",
  "nom": false,
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "aas:7255701c",
  "stages": [
   "fj"

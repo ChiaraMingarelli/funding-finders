@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "page lists '2026/09/31' (sic); listed until 2027-01-21; apply by email",
  "e": "Strongly correlated and topological systems using DMRG, tensor networks, exact diagonalization and Monte Carlo. Cover letter, CV, 2 letters to donna.sheng@csun.edu.",
@@ -18,7 +18,8 @@
  "id": "csun-postdoc-in-condensed-matter-theory-sheng-group",
  "n": "CSUN: Postdoc in Condensed Matter Theory (Sheng group)",
  "nom": false,
- "s": "open",
+ "pt": "group",
+ "s": "rolling",
  "src": "ajo:32340",
  "stages": [
   "pd"

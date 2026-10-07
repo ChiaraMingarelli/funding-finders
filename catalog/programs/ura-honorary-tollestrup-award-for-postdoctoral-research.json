@@ -8,7 +8,7 @@
   "ast"
  ],
  "c": "Prize",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "2026 nominations closed 2026-04-17. Expect a similar spring 2027 deadline.",
  "e": "Within 6 years of PhD, in a non-tenure-track role, doing research on a Fermilab experiment or project or with Fermilab Theory/Astrophysics.",
@@ -23,6 +23,7 @@
  "n": "URA Honorary Tollestrup Award for Postdoctoral Research",
  "nfit": "Medium",
  "nom": true,
+ "pt": "other",
  "region": "US",
  "s": "watch",
  "stages": [

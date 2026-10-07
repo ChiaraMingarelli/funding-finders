@@ -8,7 +8,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-02",
  "dt": "Nov 2, 2026 (letters Nov 9)",
  "e": "Observational astrophysics or instrumentation with Las Campanas and SDSS-V access. PhD before the start.",
@@ -21,6 +21,7 @@
  "n": "Carnegie Observatories: Carnegie Fellowship in Observational Astrophysics",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "src": "aas:75eb0ae8",

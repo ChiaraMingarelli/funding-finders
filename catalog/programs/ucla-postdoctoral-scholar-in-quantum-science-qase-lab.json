@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-15",
  "dt": "2026/11/15 23:59:59 (time zone not stated on page)",
  "e": "Quantum algorithms, learning theory for quantum systems, quantum complexity and many-body physics, fault-tolerant applications. Start 2027.",
@@ -17,11 +17,13 @@
  "id": "ucla-postdoctoral-scholar-in-quantum-science-qase-lab",
  "n": "UCLA: Postdoctoral Scholar in Quantum Science (QASE Lab)",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "ajo:32849",
  "stages": [
   "pd"
  ],
  "u": "https://academicjobsonline.org/ajo/jobs/32849",
+ "unv": "AJO deadline field says Nov 15, 2026; the ad text says Nov 15, 2025 (apparent typo).",
  "us": false
 }

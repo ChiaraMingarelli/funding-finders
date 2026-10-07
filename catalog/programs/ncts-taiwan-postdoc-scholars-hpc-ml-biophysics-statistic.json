@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2027-03-31",
  "dt": "2027/03/31 23:59:59 (time zone not stated on page); open until filled",
  "e": "High-performance computation and machine learning, chemical physics, nanoscience, biophysics, statistical physics and complex systems.",
@@ -19,6 +19,7 @@
  "id": "ncts-taiwan-postdoc-scholars-hpc-ml-biophysics-statistic",
  "n": "NCTS Taiwan: Postdoc Scholars, HPC/ML, Biophysics, Statistical & Complex Systems",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "ajo:32557",
  "stages": [

@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Industry",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
- "dt": "Invitation-only faculty nomination. 2027 nomination window not stated on the official page.",
+ "dt": "IBM has paused the 2026-2027 PhD Fellowship Program; a new program is anticipated in Q1 2027. Invitation-only faculty nomination.",
  "e": "Full-time PhD students within 2 years of estimated graduation, nominated by doctoral faculty. Embargoed-country restrictions apply.",
  "f": "IBM Research",
  "fields": [
@@ -22,6 +22,6 @@
   "gr"
  ],
  "u": "https://research.ibm.com/labs/yorktown-heights/ibm-academic-awards-program",
- "unv": "Nomination dates not confirmed.",
+ "unv": "Whether the new program covers quantum computing is not stated.",
  "us": false
 }

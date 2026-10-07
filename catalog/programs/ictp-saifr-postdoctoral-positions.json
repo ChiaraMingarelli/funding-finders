@@ -1,18 +1,20 @@
 {
- "a": "150,840 BRL/yr + benefits; 2 years",
+ "a": "150,840 BRL/yr tax-free, plus moving costs and 15,084 BRL/yr research funds; 2 years",
  "added": "2026-09-30",
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-31",
- "dt": "Oct 31, 2026",
- "e": "General call for postdocs in theoretical physics. Requires a PhD in physics.",
+ "dt": "INSPIRE lists Oct 31, 2026; the ICTP-SAIFR ad says review begins in Oct 2026 and continues until the position is filled",
+ "e": "One two-year FAPESP postdoctoral position in complex systems (including applications to biology) at ICTP-SAIFR in Sao Paulo. Requires a PhD.",
  "f": "ICTP-SAIFR, São Paulo; contact Nathan Berkovits",
  "fields": [
-  "ppt"
+  "cmt",
+  "bio"
  ],
  "id": "ictp-saifr-postdoctoral-positions",
  "n": "ICTP-SAIFR: Postdoctoral positions",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3205043",
  "stages": [

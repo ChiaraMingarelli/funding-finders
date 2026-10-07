@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-01",
  "dt": "Nov 1, 2026",
  "e": "High-pressure physics, planetary impacts and planet formation. Requires a relevant doctorate.",
@@ -24,6 +24,7 @@
  "n": "Arizona State: Planet formation & shock physics postdocs",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "US",
  "s": "open",
  "src": "aas:542dc57e",

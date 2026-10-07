@@ -9,7 +9,7 @@
   "ast"
  ],
  "c": "Compute",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Rolling",
  "e": "US researchers; grad students can be PI on Explore. Coordinator-verified.",
@@ -22,6 +22,7 @@
  "n": "ACCESS Explore / Discover / Accelerate allocations",
  "nfit": "Low",
  "nom": false,
+ "pt": "other",
  "region": "US",
  "s": "rolling",
  "stages": [

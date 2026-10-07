@@ -14,7 +14,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Sep 30, 2026 date has passed; open until the positions are filled (AJO listing to Dec 31, 2026).",
  "e": "Quantum sensors and devices for dark matter, axion and gravitational-wave detection. PhD in physics or related field by start.",
@@ -29,6 +29,7 @@
  "n": "KEK: QUP Postdoctoral Fellows in Experimental Physics",
  "nfit": "High",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "rolling",
  "src": "ajo:32184",

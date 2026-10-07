@@ -2,9 +2,9 @@
  "a": "not listed",
  "added": "2026-09-30",
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": null,
- "dt": "review began Sep 15, 2026",
+ "dt": "No deadline stated; review began Sep 15, 2026",
  "e": "DUNE, SBND and ICARUS: LArTPC technology, neutrino oscillations/interactions and BSM searches. PhD in HEP/nuclear experiment; computing/ML skills encouraged.",
  "f": "University of Texas at Arlington, High Energy Physics group",
  "fields": [
@@ -14,7 +14,8 @@
  "id": "ut-arlington-intensity-frontier-postdocs-dune-sbn",
  "n": "UT Arlington: Intensity Frontier Postdocs (DUNE/SBN)",
  "nom": false,
- "s": "open",
+ "pt": "group",
+ "s": "rolling",
  "src": "ajo:32488",
  "stages": [
   "pd"

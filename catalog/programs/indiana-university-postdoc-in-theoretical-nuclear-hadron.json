@@ -2,7 +2,7 @@
  "a": "2 years, renewable for a 3rd",
  "added": "2026-09-30",
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-15",
  "dt": "review begins Nov 15, 2026; until filled",
  "e": "Hadronic amplitude analysis, few-body/multichannel scattering, EFT and lattice QCD. PhD in theoretical HEP or nuclear physics by appointment.",
@@ -13,6 +13,7 @@
  "id": "indiana-university-postdoc-in-theoretical-nuclear-hadron",
  "n": "Indiana University: Postdoc in Theoretical Nuclear/Hadronic Physics",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "ajo:32446",
  "stages": [

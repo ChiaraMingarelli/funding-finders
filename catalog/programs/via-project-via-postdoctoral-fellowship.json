@@ -14,7 +14,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-11",
  "dt": "Dec 11, 2026, 23:59:59 Eastern",
  "e": "Astrophysics enabled by the Via spectroscopic survey (stellar streams, dwarf galaxies, cold gas, transients). PhD 2024-2027; 1-2 positions.",
@@ -29,6 +29,7 @@
   "f": "Stanford University Via Project (with partner institutions incl. Carnegie Observatories and CfA)"
  },
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "src": "ajo:32740",

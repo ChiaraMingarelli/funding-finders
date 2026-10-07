@@ -2,7 +2,7 @@
  "a": "not listed",
  "added": "2026-09-30",
  "c": "Group postdoc",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Full consideration by Sep 30, 2026; later applications are reviewed until the position is filled.",
  "e": "KamLAND-Zen and COHERENT neutrino physics. Requires a PhD in experimental physics, engineering or CS.",
@@ -14,6 +14,7 @@
  "id": "u-hawaii-neutrino-physics-postdoc-kamland-zen-coherent",
  "n": "U. Hawaii: Neutrino physics postdoc (KamLAND-Zen/COHERENT)",
  "nom": false,
+ "pt": "group",
  "s": "rolling",
  "src": "inspire:3185089",
  "stages": [

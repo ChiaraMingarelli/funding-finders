@@ -9,9 +9,9 @@
   "ast"
  ],
  "c": "Summer program",
- "checked": "2026-09-29",
- "d": "2027-02-26",
- "dt": "Feb 26, 2027 (per coordinator)",
+ "checked": "2026-10-07",
+ "d": "2027-03-01",
+ "dt": "Summer 2027: Mar 1, 2027, 11:59 pm ET; Fall 2027: May 24, 2027, 11:59 pm ET",
  "e": "US citizens; minimum GPA applies.",
  "f": "NASA",
  "fields": [
@@ -29,6 +29,5 @@
   "gr"
  ],
  "u": "https://intern.nasa.gov/",
- "unv": "Date per coordinator; not re-verified",
  "us": true
 }

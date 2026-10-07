@@ -1,7 +1,8 @@
 {
- "a": "not listed; 3 years (start Jan 2027)",
+ "a": "not listed; 3 years (start Jan or Feb 2027)",
  "added": "2026-09-30",
  "asub": [
+  "he",
   "inst"
  ],
  "aud": [
@@ -11,9 +12,9 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-15",
- "dt": "Oct 15, 2026",
+ "dt": "Oct 15, 2026 for full consideration",
  "e": "IceCube neutrino observatory calibration. Requires a PhD in experimental or astroparticle physics.",
  "f": "TU Munich, Cosmic Particles; Elisa Resconi, Philipp Eller",
  "fields": [
@@ -25,6 +26,7 @@
  "n": "TU Munich: IceCube astroparticle postdoc",
  "nfit": "High",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "inspire:3184963",
@@ -32,5 +34,6 @@
   "pd"
  ],
  "u": "https://www.ph.nat.tum.de/cosmic-particles",
+ "unv": "The ad is on INSPIRE only; the TUM group page lists no openings.",
  "us": false
 }

@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Last deadline Oct 1, 2026; the next cycle is not posted yet. Registration usually opens in late July",
  "e": "Within 1 year of finishing the PhD, or already have it. US citizenship not required. Open to all technical disciplines.",
@@ -21,6 +21,7 @@
  "id": "llnl-lawrence-fellowship",
  "n": "LLNL Lawrence Fellowship",
  "nom": false,
+ "pt": "prize",
  "s": "watch",
  "stages": [
   "pd"

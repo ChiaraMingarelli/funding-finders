@@ -1,9 +1,6 @@
 {
  "a": "Stipend + housing eligibility; sabbatical stipends vary",
  "added": "2026-09-29",
- "asub": [
-  "he"
- ],
  "aud": [
   "yale",
   "ng",
@@ -28,6 +25,7 @@
  "n": "IAS School of Natural Sciences Membership (postdoc, visiting professor, sabbatical)",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "stages": [
@@ -36,5 +34,6 @@
   "ten"
  ],
  "u": "https://www.ias.edu/sns/apply",
+ "unv": "ias.edu returned 403 on 2026-10-07; Nov 15, 2026 deadline confirmed only by third-party listings",
  "us": false
 }

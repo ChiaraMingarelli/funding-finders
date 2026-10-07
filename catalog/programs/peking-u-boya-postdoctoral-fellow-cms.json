@@ -2,7 +2,7 @@
  "a": "not listed",
  "added": "2026-09-30",
  "c": "Fellowship",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Listed deadline was Sep 30, 2026; applications are accepted until the position is filled.",
  "e": "CMS Higgs physics, rare decays and new-physics searches. PhD required by the start date.",
@@ -13,6 +13,7 @@
  "id": "peking-u-boya-postdoctoral-fellow-cms",
  "n": "Peking U.: Boya postdoctoral fellow (CMS)",
  "nom": false,
+ "pt": "group",
  "s": "rolling",
  "src": "inspire:3160198",
  "stages": [

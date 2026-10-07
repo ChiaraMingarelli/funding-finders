@@ -23,6 +23,7 @@
  "n": "IRAP Toulouse: Postdocs in stellar spectropolarimetry & exoplanets",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "watch",
  "src": "aas:1fa6ba25",
@@ -30,5 +31,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/1fa6ba25",
+ "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, and no host ad was found, so it is unknown whether the posting is still open after the Oct 4, 2026 deadline.",
  "us": false
 }

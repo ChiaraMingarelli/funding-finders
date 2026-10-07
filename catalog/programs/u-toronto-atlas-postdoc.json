@@ -5,7 +5,7 @@
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-01",
  "dt": "Dec 1, 2026",
  "e": "ATLAS physics analysis and the ITk tracker upgrade. Requires a PhD in particle physics.",
@@ -17,6 +17,7 @@
  "id": "u-toronto-atlas-postdoc",
  "n": "U. Toronto: ATLAS postdoc",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3205300",
  "stages": [

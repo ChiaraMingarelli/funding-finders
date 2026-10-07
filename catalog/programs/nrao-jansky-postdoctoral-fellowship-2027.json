@@ -1,5 +1,5 @@
 {
- "a": "$75,000 + $17,000/yr research; 2 years",
+ "a": "Typical starting salary $75,000 + $17,000/yr for research and travel; 2 to 3 years",
  "added": "2026-09-30",
  "asub": [],
  "aud": [
@@ -8,7 +8,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-28",
  "dt": "Oct 28, 2026, 11:59 pm EDT (letters Nov 11)",
  "e": "Radio astronomy science, techniques, instrumentation or theory using NRAO facilities. At most 5 years postdoc at the start.",
@@ -21,6 +21,7 @@
  "n": "NRAO: Jansky Postdoctoral Fellowship 2027",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "src": "aas:77bb2a0f",

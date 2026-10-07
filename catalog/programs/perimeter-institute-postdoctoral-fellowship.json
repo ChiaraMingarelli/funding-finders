@@ -1,5 +1,5 @@
 {
- "a": "3 yr (named fellowships 4 yr)",
+ "a": "CAD 79,000 starting salary; 3 yr (named fellowships 4 yr)",
  "added": "2026-09-29",
  "asub": [
   "cos",
@@ -13,9 +13,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2026-11-06",
- "dt": "23:59",
+ "dt": "Consideration begins Nov 6, 2026 (23:59); applications accepted until all positions are filled",
  "e": "Theoretical physics, including strong gravity, cosmology, quantum and condensed matter theory.",
  "f": "Perimeter Institute",
  "fields": [
@@ -29,6 +29,7 @@
  "n": "Perimeter Institute Postdoctoral Fellowship",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "Canada",
  "s": "open",
  "stages": [

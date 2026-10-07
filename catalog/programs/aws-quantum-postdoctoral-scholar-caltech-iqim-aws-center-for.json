@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2026-11-15",
  "dt": "Applications and letters due Nov 15, 2026. Offers mid-Dec 2026 to Feb 2027.",
  "e": "PhD by start. Name at least one Caltech faculty member (PMA, EAS or CCE).",
@@ -19,6 +19,7 @@
  "id": "aws-quantum-postdoctoral-scholar-caltech-iqim-aws-center-for",
  "n": "AWS Quantum Postdoctoral Scholar (Caltech IQIM / AWS Center for Quantum Computing)",
  "nom": false,
+ "pt": "prize",
  "s": "open",
  "stages": [
   "pd"

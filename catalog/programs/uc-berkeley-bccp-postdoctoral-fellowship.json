@@ -12,7 +12,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-15",
  "dt": "2026/11/15 23:59:59 (time zone not stated on page)",
  "e": "Cosmology: supernovae, galaxy clustering, weak lensing, CMB, theory and AI for cosmology (Roman, Rubin, DESI, LS4). Start Summer/Fall 2027.",
@@ -25,6 +25,7 @@
  "n": "UC Berkeley: BCCP Postdoctoral Fellowship",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "src": "ajo:32646",

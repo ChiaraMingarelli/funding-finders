@@ -1,5 +1,5 @@
 {
- "a": "Postdoc appointment; terms not verified.",
+ "a": "3-year postdoctoral appointment",
  "added": "2026-09-29",
  "asub": [
   "cos"
@@ -11,9 +11,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
- "d": null,
- "dt": "The 2025-26 call closed 2025-11-21 (INSPIRE listing). The next call would usually be posted in fall 2026.",
+ "checked": "2026-10-07",
+ "d": "2026-11-20",
+ "dt": "Nov 20, 2026, 11:59 pm ET (including letters); for appointments starting fall 2027",
  "e": "Recent PhDs in particle theory, cosmology or quantum theory.",
  "f": "Fermilab",
  "fields": [
@@ -25,12 +25,13 @@
  "n": "Fermilab Theory Division Research Associate",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "US",
- "s": "watch",
+ "s": "open",
  "stages": [
   "pd"
  ],
- "u": "https://theory.fnal.gov/",
- "unv": "2026 call not yet posted; deadline taken from an INSPIRE listing",
+ "u": "https://academicjobsonline.org/ajo/jobs/32971",
+ "unv": "Salary not stated in the ad",
  "us": false
 }

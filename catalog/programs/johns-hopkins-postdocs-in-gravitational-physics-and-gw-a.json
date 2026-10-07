@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-01",
  "dt": "11:59 pm (time zone not stated)",
  "e": "Berti group; fellows are encouraged to join the Simons Collaboration on Black Holes and Strong Gravity. Send a CV, research statement, publication list and three letters.",
@@ -24,6 +24,7 @@
  "n": "Johns Hopkins: Postdocs in gravitational physics and GW astronomy",
  "nfit": "High",
  "nom": false,
+ "pt": "group",
  "region": "US",
  "s": "open",
  "src": "ajo:32881",

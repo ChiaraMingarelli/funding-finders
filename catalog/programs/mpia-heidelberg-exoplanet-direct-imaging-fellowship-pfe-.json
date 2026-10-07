@@ -22,6 +22,7 @@
  "n": "MPIA Heidelberg: Exoplanet direct imaging fellowship (PFE, Ref. 431)",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "International",
  "s": "open",
  "src": "aas:87a62a5a",
@@ -29,5 +30,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/87a62a5a",
+ "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
  "us": false
 }

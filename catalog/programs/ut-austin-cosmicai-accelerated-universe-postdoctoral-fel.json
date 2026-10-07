@@ -24,6 +24,7 @@
  "n": "UT Austin: CosmicAI Accelerated Universe Postdoctoral Fellow",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "src": "aas:6f3e50b2",
@@ -31,5 +32,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/6f3e50b2",
+ "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
  "us": false
 }

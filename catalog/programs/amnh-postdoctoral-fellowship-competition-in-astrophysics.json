@@ -24,6 +24,7 @@
  "n": "AMNH: Postdoctoral Fellowship competition in astrophysics",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "src": "aas:e7317b1f",
@@ -31,5 +32,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/e7317b1f",
+ "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
  "us": false
 }

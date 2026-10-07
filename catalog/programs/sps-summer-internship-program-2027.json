@@ -9,9 +9,9 @@
   "ast"
  ],
  "c": "Summer program",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2027-01-15",
- "dt": "Jan 15, 2027 (per coordinator)",
+ "dt": "Applications open Nov 2, 2026; full application due Jan 15, 2027, 11:59 pm EST (per program-details page)",
  "e": "SPS member undergrads.",
  "f": "Society of Physics Students / AIP",
  "fields": [
@@ -26,7 +26,7 @@
  "stages": [
   "ug"
  ],
- "u": "https://www.spsnational.org/programs/internships",
- "unv": "Date per coordinator; not re-verified",
+ "u": "https://students.aip.org/internships/program-details",
+ "unv": "The internships overview page says applications are open Nov 2, 2026 - Jan 5, 2027, which conflicts with the Jan 15, 2027 due date on the program-details page",
  "us": false
 }

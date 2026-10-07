@@ -12,7 +12,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "No deadline; applications are reviewed weekly.",
  "e": "Theoretical physics and mathematics. The summary notes the scheme targets researchers with a Russian background; check eligibility on the page.",
@@ -26,6 +26,7 @@
  "n": "LIMS London: Arnold & Landau Junior Fellowships",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "International",
  "s": "rolling",
  "src": "inspire:3118038",

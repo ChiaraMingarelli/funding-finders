@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "open until filled; review begins immediately",
  "e": "CVD diamond growth and NV/group-IV color centers for quantum repeater nodes. Hands-on crystal/thin-film growth (CVD/MBE/MOCVD) experience required; start ASAP.",
@@ -18,7 +18,8 @@
  "id": "cornell-postdoc-in-diamond-growth-for-quantum-networking",
  "n": "Cornell: Postdoc in Diamond Growth for Quantum Networking",
  "nom": false,
- "s": "open",
+ "pt": "group",
+ "s": "rolling",
  "src": "ajo:32860",
  "stages": [
   "pd"

@@ -5,7 +5,7 @@
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-01",
  "dt": "2026/11/01 23:59:59 (time zone not stated on page); apply via Harvard portal",
  "e": "ATLAS ITk tracker commissioning or muon Level-1 MDT trigger plus physics analysis; stationed at CERN. PhD in experimental particle physics with detector experience.",
@@ -17,6 +17,7 @@
  "id": "harvard-lppc-postdoctoral-fellow-atlas",
  "n": "Harvard LPPC: Postdoctoral Fellow (ATLAS)",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "ajo:32704",
  "stages": [

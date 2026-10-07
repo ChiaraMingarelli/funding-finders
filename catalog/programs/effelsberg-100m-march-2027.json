@@ -7,9 +7,9 @@
   "ng"
  ],
  "c": "Observing time",
- "checked": "2026-10-03",
- "d": null,
- "dt": "Last deadline 1 Sep 2026, 15:00 UT. The September 2026 Effelsberg Newsletter says 'The following deadline will be on March 1st, 2027.' ToO/DDT requests are possible at any time.",
+ "checked": "2026-10-07",
+ "d": "2027-03-01",
+ "dt": "Next deadline 1 March 2027 (stated in the September 2026 Effelsberg Newsletter); last deadline was 1 Sep 2026, 15:00 UT. ToO/DDT requests are possible at any time.",
  "e": "MPIfR's regular call for the Effelsberg 100-m single dish. 'Access to the telescope is open to all qualified astronomers', and use by scientists from outside MPIfR is encouraged.",
  "f": "Max Planck Institute for Radio Astronomy (MPIfR)",
  "fields": [
@@ -21,7 +21,7 @@
  "nom": false,
  "pt": "other",
  "region": "International",
- "s": "watch",
+ "s": "open",
  "src": "other:effelsberg-cfp",
  "stages": [
   "tt",
@@ -29,6 +29,6 @@
   "pd"
  ],
  "u": "https://www.mpifr-bonn.mpg.de/9468614/eff-news-autumn2026.pdf",
- "unv": "The March 2027 call text is not yet released; the date is from the September 2026 newsletter. MPIfR's general astronomers page still lists an older schedule of three deadlines a year (1 Feb, 1 Jun, 1 Oct), which conflicts with the newsletter. Grad-student PI status was not checked.",
+ "unv": "The March 2027 call text is not yet released; the date and time of day are from the September 2026 newsletter. MPIfR's general astronomers page still lists an older schedule of three deadlines a year (1 Feb, 1 Jun, 1 Oct), which conflicts with the newsletter. Grad-student PI status was not checked.",
  "us": false
 }

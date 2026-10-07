@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": "2027-09-28",
  "dt": "Next deadline Sept 28, 2027 (fourth Tuesday of September each year)",
  "e": "US citizens, nationals or permanent residents with at most 15 months of post-PhD work. The program now has a single track, Intersection of AI and Biological Sciences, and biomedically focused proposals are returned.",
@@ -24,6 +24,7 @@
   }
  ],
  "nom": false,
+ "pt": "prize",
  "s": "open",
  "stages": [
   "pd"

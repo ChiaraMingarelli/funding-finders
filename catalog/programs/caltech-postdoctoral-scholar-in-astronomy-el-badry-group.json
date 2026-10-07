@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-10",
  "dt": "2026/11/10 23:59:59 (time zone not stated on page)",
  "e": "Observational binary/multiple-star and compact-object astrophysics with Gaia DR4, Roman, SDSS-V, ZTF and Euclid. Start Aug 1, 2027.",
@@ -23,6 +23,7 @@
  "n": "Caltech: Postdoctoral Scholar in Astronomy (El-Badry group)",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "US",
  "s": "open",
  "src": "ajo:32426",

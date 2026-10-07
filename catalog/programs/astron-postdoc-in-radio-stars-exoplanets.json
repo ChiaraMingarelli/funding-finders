@@ -12,7 +12,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-06",
  "dt": "Nov 6, 2026, 23:59 CET",
  "e": "Detect and characterize stellar and exoplanetary radio emission and space weather. Requires a PhD in radio, stellar or exoplanet science.",
@@ -24,6 +24,7 @@
  "n": "ASTRON: Postdoc in radio stars & exoplanets",
  "nfit": "High",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "aas:bb13cc34",

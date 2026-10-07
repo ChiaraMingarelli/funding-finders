@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2026-10-15",
  "dt": "5 pm submitter's local time (window opened Aug 15)",
  "e": "US citizens, nationals and permanent residents only. PhD within 5 years or by Oct 1, 2027. At most 2 attempts.",
@@ -30,6 +30,7 @@
   }
  ],
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "stages": [

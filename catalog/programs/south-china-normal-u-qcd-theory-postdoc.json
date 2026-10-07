@@ -2,7 +2,7 @@
  "a": "competitive; 2 years + possible 3rd",
  "added": "2026-09-30",
  "c": "Group postdoc",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Review began Dec 1, 2025 and continues until the positions are filled.",
  "e": "QCD, hadron physics, amplitudes and quantum computing. Requires a PhD in theoretical nuclear or particle physics.",
@@ -14,6 +14,7 @@
  "id": "south-china-normal-u-qcd-theory-postdoc",
  "n": "South China Normal U.: QCD theory postdoc",
  "nom": false,
+ "pt": "group",
  "s": "rolling",
  "src": "ajo:edelivery/3904",
  "stages": [

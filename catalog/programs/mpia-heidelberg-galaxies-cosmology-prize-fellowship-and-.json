@@ -25,6 +25,7 @@
  "n": "MPIA Heidelberg: Galaxies & Cosmology prize fellowship and postdocs",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "International",
  "s": "open",
  "src": "aas:1d7c9bc2",
@@ -32,5 +33,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/1d7c9bc2",
+ "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
  "us": false
 }

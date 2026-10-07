@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-31",
  "dt": "2026/12/31 23:59:59 (time zone not stated on page)",
  "e": "JUNO, SNO+ and TRIDENT: detector hardware, electronics, simulation or analysis; theorists and phenomenologists welcome. Start Nov 2026-Mar 2027.",
@@ -25,6 +25,7 @@
  "n": "SUSTech: Postdoc in Particle Physics (neutrinos & dark matter)",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "ajo:32225",

@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-01",
  "dt": "Nov 1, 2026, 12:00 pm PST",
  "e": "Experimental particle and AMO physics with emphasis on instrumentation; applicant identifies host. Not open to current Stanford affiliates; start Jun-Dec 2027.",
@@ -19,6 +19,7 @@
  "id": "stanford-van-bibber-fellowship-in-experimental-physics",
  "n": "Stanford: Van Bibber Fellowship in Experimental Physics",
  "nom": false,
+ "pt": "prize",
  "s": "open",
  "src": "ajo:32797",
  "stages": [

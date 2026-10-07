@@ -5,7 +5,7 @@
   "ap"
  ],
  "c": "Federal grant",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "IGNIITE 2026 concept papers closed May 29, 2026; next cycle not announced",
  "e": "Funds early-career scientists and engineers working on unconventional energy technology ideas. The 2026 call reportedly required a PhD within about 8 years and limited applicants to U.S. citizens, permanent residents and green-card applicants.",
@@ -17,6 +17,12 @@
  ],
  "id": "arpa-e-igniite",
  "n": "ARPA-E IGNIITE (early-career innovators)",
+ "nofo": [
+  {
+   "opp": "DE-FOA-0003624",
+   "u": "https://simpler.grants.gov/opportunity/b672fee6-acbc-4034-a1fa-5be7a212a02d"
+  }
+ ],
  "nom": false,
  "pt": "other",
  "s": "watch",
@@ -26,6 +32,6 @@
   "pd"
  ],
  "u": "https://arpa-e.energy.gov/programs-and-initiatives/view-all-programs/igniite-2026",
- "unv": "ARPA-E pages did not render. Award size, eligibility and dates come from a consultant summary and the title of ARPA-E's announcement. Whether postdocs qualify and whether the program will recur are unverified.",
+ "unv": "ARPA-E pages did not render. The $500,000 award ceiling and ~$10M total are confirmed on the grants.gov notice DE-FOA-0003624; the May 29, 2026 concept paper date, whether postdocs qualify and whether the program will recur are unverified.",
  "us": true
 }

@@ -1,11 +1,11 @@
 {
- "a": "not listed",
+ "a": "$110,000 over 2 years",
  "added": "2026-10-03",
  "aud": [
   "ap"
  ],
  "c": "Foundation",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": "2026-10-09",
  "dt": "Fall 2026 deadline",
  "e": "Seed grants for faculty at PhD-granting nonprofit institutions to start research in an area new to the PI and related to the petroleum field, with little or no preliminary data. At least 60% of the budget must support students.",
@@ -24,6 +24,6 @@
   "ten"
  ],
  "u": "https://www.acs.org/funding/grants/petroleum-research-fund/programs.html",
- "unv": "acs.org blocks automated access. Secondary listings give the Oct 9 2026 deadline and amounts of either $110K or $125K over 2 years, so confirm on the ACS page.",
+ "unv": "acs.org pages do not load for automated access; the Oct 9, 2026 deadline (Fall 2026 window Sep 14 to Oct 9) and the $110,000 two-year amount come from the ACS PRF programs page as shown in search results.",
  "us": false
 }

@@ -9,9 +9,9 @@
   "ast"
  ],
  "c": "Instrumentation",
- "checked": "2026-09-29",
- "d": "2026-11-16",
- "dt": "Target date",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Proposals accepted anytime under NSF 26-522 (no target date in the solicitation)",
  "e": "The AST route for instrumentation and facility-scale projects. A project execution plan outline is required for some categories.",
  "f": "NSF MPS/AST · NSF 26-522",
  "fields": [
@@ -27,7 +27,7 @@
   }
  ],
  "nom": false,
- "s": "open",
+ "s": "rolling",
  "stages": [
   "tt",
   "ten"

@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2026-10-28",
  "dt": "7 pm EDT; letters Nov 4",
  "e": "Any nationality. PhD on or after Jan 1, 2023 or by Sep 2027. About 24 awards, subject to NASA funding. At most 2 new fellows per host each year.",
@@ -24,6 +24,7 @@
  "n": "NASA Hubble Fellowship Program (NHFP)",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "stages": [

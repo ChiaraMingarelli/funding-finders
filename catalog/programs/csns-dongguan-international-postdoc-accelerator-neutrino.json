@@ -5,7 +5,7 @@
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2027-01-07",
  "dt": "Jan 7, 2027",
  "e": "Accelerator-based neutrino beams. Requires a PhD in experimental or nuclear physics.",
@@ -17,6 +17,7 @@
  "id": "csns-dongguan-international-postdoc-accelerator-neutrino",
  "n": "CSNS Dongguan: International postdoc (accelerator neutrino beams)",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3138797",
  "stages": [

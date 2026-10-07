@@ -13,7 +13,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-02",
  "dt": "Nov 2, 2026, 11:59 pm ET; nominations due Oct 9",
  "e": "Nomination-based fellowship across QFT, quantum gravity, strings, cosmology, phenomenology, nuclear theory and QIS; 3+ letters. Start Sep 1, 2027.",
@@ -29,6 +29,7 @@
  "n": "MIT CTP: Leinweber Postdoctoral Fellowships in Theoretical Physics",
  "nfit": "High",
  "nom": true,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "src": "ajo:32742",

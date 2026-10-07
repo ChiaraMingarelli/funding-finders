@@ -9,7 +9,7 @@
   "ast"
  ],
  "c": "Compute",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Rolling",
  "e": "US researchers only (GPAR currently US-only).",
@@ -22,6 +22,7 @@
  "n": "Google Cloud Research Credits (GPAR)",
  "nfit": "Low",
  "nom": false,
+ "pt": "other",
  "region": "US",
  "s": "rolling",
  "stages": [

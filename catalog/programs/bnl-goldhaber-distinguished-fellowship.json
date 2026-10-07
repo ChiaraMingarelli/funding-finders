@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Application period currently closed. The last confirmed call (March 2025) had a deadline of 2025-05-09.",
  "e": "No more than 3 years past PhD at application. Needs a committed BNL mentor with an opening.",
@@ -22,6 +22,7 @@
  "id": "bnl-goldhaber-distinguished-fellowship",
  "n": "BNL Goldhaber Distinguished Fellowship",
  "nom": false,
+ "pt": "prize",
  "s": "watch",
  "stages": [
   "pd"

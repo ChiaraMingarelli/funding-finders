@@ -24,6 +24,7 @@
  "n": "Caltech: Experimental CMB cosmology postdoc (BICEP/Keck)",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "US",
  "s": "open",
  "src": "aas:9bd32e66",
@@ -31,5 +32,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/9bd32e66",
+ "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
  "us": false
 }

@@ -23,6 +23,7 @@
  "n": "UT Austin: Multiscale physics of clouds across planetary atmospheres",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "US",
  "s": "open",
  "src": "aas:bdbbb7e9",
@@ -30,5 +31,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/bdbbb7e9",
+ "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
  "us": false
 }

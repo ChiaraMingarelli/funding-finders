@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2026-12-15",
  "dt": "Opens Nov 3, 2026; closes Dec 15, 2026",
  "e": "Postdocs with no more than 7 years of postdoctoral training by Dec 15, 2026, at an HHMI-eligible institution and authorized to work in the US. Research must be basic biological/biomedical science, and the fellow must plan to start a faculty job by May 1, 2030.",
@@ -17,6 +17,7 @@
  "id": "hhmi-hanna-h-gray-fellows-2028-competition",
  "n": "HHMI Hanna H. Gray Fellows (2028 competition)",
  "nom": false,
+ "pt": "prize",
  "s": "open",
  "stages": [
   "pd"

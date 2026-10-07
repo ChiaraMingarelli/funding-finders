@@ -12,7 +12,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Last deadline Oct 2, 2026; the next cycle is not posted yet.",
  "e": "Postdocs developing instrumentation for astronomy, cosmology and planetary science.",
@@ -25,6 +25,7 @@
  "n": "Astronova Fellowship (instrumentation)",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "watch",
  "src": "aas:c5b5f68e",

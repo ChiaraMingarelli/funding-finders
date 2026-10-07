@@ -11,9 +11,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2026-10-31",
- "dt": "",
+ "dt": "Oct 31, 2026 (all materials, including letters)",
  "e": "Covers computational astrophysics, including the CCA gravitational-wave group. A software research fellow track is also posted.",
  "f": "Simons Foundation, NYC",
  "fields": [
@@ -25,6 +25,7 @@
  "n": "Flatiron CCA Research Fellow",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "stages": [

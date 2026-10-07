@@ -2,7 +2,7 @@
  "a": "300,000–400,000 RMB; 2 years",
  "added": "2026-09-30",
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-31",
  "dt": "Oct 31, 2026",
  "e": "Neutrino and dark matter physics with XENONnT. Requires an experimental HEP/nuclear PhD, Python and under 3 years of postdoc.",
@@ -13,6 +13,7 @@
  "id": "tsinghua-u-xenonnt-postdoc-fellow",
  "n": "Tsinghua U.: XENONnT postdoc fellow",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3113210",
  "stages": [

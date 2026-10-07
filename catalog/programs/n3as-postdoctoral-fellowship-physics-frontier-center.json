@@ -7,7 +7,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2026-12-07",
  "dt": "Due 2026-12-07 23:59 (AJO #32732).",
  "e": "Recent PhD (on or after August 2024) in theoretical physics or astrophysics, working on neutrinos, nuclear astrophysics or symmetries.",
@@ -21,6 +21,7 @@
  "n": "N3AS Postdoctoral Fellowship (Physics Frontier Center)",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "stages": [

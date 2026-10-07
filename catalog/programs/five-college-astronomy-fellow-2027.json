@@ -9,9 +9,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-02",
+ "checked": "2026-10-07",
  "d": "2027-01-01",
- "dt": "Deadline 1 Jan 2027",
+ "dt": "Review of applications begins Jan 1, 2027 and continues until the position is filled",
  "e": "Fellowship in the Five College Astronomy Department pairing observational research (possibly with the Large Millimeter Telescope) with undergraduate mentoring. PhD (or anticipated) in astronomy, planetary science, physics or related field; no citizenship limits stated.",
  "f": "Mount Holyoke College / Five College Astronomy Department",
  "fields": [
@@ -29,6 +29,6 @@
   "pd"
  ],
  "u": "https://mtholyoke.wd504.myworkdayjobs.com/External/job/Mount-Holyoke-College---Main-Campus/Five-College-Astronomy-Department-Fellow_R-0000003668",
- "unv": "Whether the fellow sets an independent research program or works in a host group is not fully clear from the ad",
- "us": true
+ "unv": "Teaching and research fellowship: two undergraduate courses a year plus the fellow's own proposed research project",
+ "us": false
 }

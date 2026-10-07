@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
- "d": "2027-01-07",
- "dt": "Jan 7, 2027",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Evaluated on a rolling basis until filled (INSPIRE lists Jan 7, 2027)",
  "e": "Cryogenic detectors, CosmiQ quantum sensing and qubits. Requires a PhD in experimental physics.",
  "f": "Northwestern University; group of Enectali Figueroa-Feliciano",
  "fields": [
@@ -19,7 +19,8 @@
  "id": "northwestern-particle-physics-quantum-computing-postdocs",
  "n": "Northwestern: Particle physics & quantum computing postdocs",
  "nom": false,
- "s": "open",
+ "pt": "group",
+ "s": "rolling",
  "src": "inspire:3205351",
  "stages": [
   "pd"

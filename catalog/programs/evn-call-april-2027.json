@@ -7,9 +7,9 @@
   "ng"
  ],
  "c": "Observing time",
- "checked": "2026-10-03",
- "d": null,
- "dt": "Last deadline 1 Oct 2026, 16:00 UTC. From 2027 the EVN moves to two calls a year with deadlines on 1 April and 1 October, so the next regular deadline is 1 April 2027. ToO and short requests may be sent at any time.",
+ "checked": "2026-10-07",
+ "d": "2027-04-01",
+ "dt": "Next regular deadline 1 April 2027: the October 2026 call says that from 2027 the deadlines are 1 April and 1 October each year. Last deadline was 1 Oct 2026, 16:00 UTC. ToO and short requests may be sent at any time.",
  "e": "Open call from an international VLBI consortium. 'The EVN facility is open to all astronomers', except that PIs and co-Is at institutes in Russia or Belarus are currently barred. Student proposals are encouraged.",
  "f": "European VLBI Network / JIVE",
  "fields": [
@@ -21,7 +21,7 @@
  "nom": false,
  "pt": "other",
  "region": "International",
- "s": "watch",
+ "s": "open",
  "src": "other:evn-cfp",
  "stages": [
   "tt",
@@ -30,6 +30,6 @@
   "gr"
  ],
  "u": "https://www.evlbi.org/sites/default/files/shared/EVNCfP.pdf",
- "unv": "The April 2027 call document is not yet released; the date comes from the stated new fixed schedule.",
+ "unv": "The April 2027 call document is not yet released, so the time of day is not confirmed.",
  "us": false
 }

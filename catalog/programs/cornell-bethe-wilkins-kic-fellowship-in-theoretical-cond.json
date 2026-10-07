@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Oct 1, 2026 deadline (for Klarman nomination) has passed; the search continues until the positions are filled.",
  "e": "Hard and soft condensed-matter theory incl. biophysics, cold atoms, electronic structure, ML, statistical physics and quantum information. No more than 3 years past PhD.",
@@ -20,6 +20,7 @@
  "id": "cornell-bethe-wilkins-kic-fellowship-in-theoretical-cond",
  "n": "Cornell: Bethe/Wilkins/KIC Fellowship in Theoretical Condensed Matter",
  "nom": false,
+ "pt": "prize",
  "s": "rolling",
  "src": "ajo:32454",
  "stages": [

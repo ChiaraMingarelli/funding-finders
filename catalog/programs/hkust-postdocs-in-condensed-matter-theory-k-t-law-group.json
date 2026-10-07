@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "no deadline stated; apply by email to phlaw@ust.hk",
  "e": "Topological and moire materials, superconductivity and quantum-metric effects in flat bands. Send CV, publication list and 2 letters.",
@@ -17,7 +17,8 @@
  "id": "hkust-postdocs-in-condensed-matter-theory-k-t-law-group",
  "n": "HKUST: Postdocs in Condensed Matter Theory (K. T. Law group)",
  "nom": false,
- "s": "open",
+ "pt": "group",
+ "s": "rolling",
  "src": "ajo:29811",
  "stages": [
   "pd"

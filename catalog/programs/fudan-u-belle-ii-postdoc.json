@@ -2,7 +2,7 @@
  "a": "250k CNY/yr; 2 years, renewable",
  "added": "2026-09-30",
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-31",
  "dt": "Dec 31, 2026",
  "e": "Belle II semileptonic B decays and new-physics searches. Requires a PhD in experimental HEP with data analysis and programming skills.",
@@ -13,6 +13,7 @@
  "id": "fudan-u-belle-ii-postdoc",
  "n": "Fudan U.: Belle II postdoc",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3207889",
  "stages": [

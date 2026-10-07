@@ -2,9 +2,9 @@
  "a": "not listed",
  "added": "2026-09-30",
  "c": "Group postdoc",
- "checked": "2026-09-30",
- "d": "2026-10-31",
- "dt": "Oct 31, 2026",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Review began Jun 22, 2026 and continues until all positions are filled",
  "e": "Lifetime measurements and spectroscopy with rare-isotope beams at FRIB. Requires a PhD in nuclear physics or a related field.",
  "f": "Michigan State University / FRIB; PI Hiro Iwasaki",
  "fields": [
@@ -13,7 +13,8 @@
  "id": "michigan-state-frib-postdoc-in-rare-isotope-spectroscopy",
  "n": "Michigan State / FRIB: Postdoc in rare-isotope spectroscopy",
  "nom": false,
- "s": "open",
+ "pt": "group",
+ "s": "rolling",
  "src": "inspire:3162070",
  "stages": [
   "pd"

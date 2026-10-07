@@ -12,7 +12,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2026-10-18",
  "dt": "Complete application and all reference letters due 2026-10-18 (AJO #32681). Start typically September 2027.",
  "e": "PhD by start and no more than 24 months of prior postdoc. 2027 priorities: cosmology, direct dark matter searches, rare-event searches with quantum sensors, and quantum simulation.",
@@ -27,6 +27,7 @@
  "n": "LBNL Owen Chamberlain Fellowship (Experimental Particle Physics & Cosmology)",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "stages": [

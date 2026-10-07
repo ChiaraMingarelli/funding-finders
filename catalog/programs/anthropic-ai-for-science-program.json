@@ -9,7 +9,7 @@
   "ast"
  ],
  "c": "Compute",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Rolling; reviewed monthly (first Monday of each month)",
  "e": "Open to researchers in any science since the Aug 27, 2026 expansion. The older help-center article still shows $20k.",
@@ -22,6 +22,7 @@
  "n": "Anthropic AI for Science Program",
  "nfit": "Low",
  "nom": false,
+ "pt": "other",
  "region": "US",
  "s": "rolling",
  "stages": [
@@ -30,5 +31,6 @@
   "pd"
  ],
  "u": "https://www.anthropic.com/news/expanding-support-for-scientists",
+ "unv": "The announcement page does not state the review cadence (first Monday of each month); kept from the earlier check.",
  "us": false
 }

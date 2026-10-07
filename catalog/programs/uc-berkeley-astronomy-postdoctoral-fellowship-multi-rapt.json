@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-31",
  "dt": "Dec 31, 2026",
  "e": "Multi-messenger and time-domain astrophysics spanning observations (Keck, Lick; LSST, ZTF, LIGO), ML, theory and instrumentation. Recent PhD; start Fall 2027.",
@@ -25,6 +25,7 @@
  "n": "UC Berkeley Astronomy: Postdoctoral Fellowship (Multi-RAPTOR)",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "src": "ajo:32853",

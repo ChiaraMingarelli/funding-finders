@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Listed deadline was Sep 30, 2026; applications are accepted until the position is filled.",
  "e": "ML, quantum computing, Higgs factories and muon experiments. PhD required by the start date.",
@@ -19,6 +19,7 @@
  "id": "peking-u-boya-postdoctoral-fellow-ml-quantum-computing-f",
  "n": "Peking U.: Boya postdoctoral fellow (ML, quantum computing, future colliders)",
  "nom": false,
+ "pt": "group",
  "s": "rolling",
  "src": "inspire:3160199",
  "stages": [

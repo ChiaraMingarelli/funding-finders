@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": "2026-10-31",
  "dt": "Deadline Oct 31, 2026 on the TU Berlin posting (ref. IV-359/26); apply by email, not through AJO.",
  "e": "First-principles and ML design of spin defects for quantum sensing (coherence, optical readout, charge stability). Needs expertise in >=2 of defect spin physics, ML for materials, multiscale simulation, excited-state chemistry.",
@@ -20,6 +20,7 @@
  "id": "tu-berlin-postdoc-computational-design-of-quantum-sensin",
  "n": "TU Berlin: Postdoc, Computational Design of Quantum Sensing Materials",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "ajo:32712",
  "stages": [

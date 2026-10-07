@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-06",
  "dt": "Nov 6, 2026, 11:59 CET (as listed)",
  "e": "Any radio astronomy direction; preference for candidates with instrument development or commissioning interests (LOFAR, WSRT, EVN, SKA).",
@@ -24,6 +24,7 @@
  "n": "ASTRON: Bell Burnell Postdoctoral Fellowship",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "International",
  "s": "open",
  "src": "aas:783d4e4a",

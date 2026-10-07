@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-12",
  "dt": "2026/10/12 23:59:59 (time zone not stated on page)",
  "e": "Ultracold erbium atoms and quantum gases of light in optical micro-resonators, aiming at novel fractional quantum Hall physics. Excellent PhD in experimental quantum optics/AMO.",
@@ -17,6 +17,7 @@
  "id": "bonn-postdoc-experimental-quantum-optics-cold-atoms",
  "n": "Bonn: Postdoc, Experimental Quantum Optics / Cold Atoms",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "ajo:32684",
  "stages": [

@@ -20,11 +20,12 @@
  "id": "harvard-quantum-initiative-hqi-prize-postdoctoral-fellowship",
  "n": "Harvard Quantum Initiative (HQI) Prize Postdoctoral Fellowship",
  "nom": false,
+ "pt": "prize",
  "s": "watch",
  "stages": [
   "pd"
  ],
  "u": "https://quantum.harvard.edu/hqi-prize-postdoctoral-fellowships",
- "unv": "HQI site blocks automated access, so the deadline and terms were not verified.",
+ "unv": "HQI and Harvard FAS pages block automated access (HTTP 403) on Oct 7, 2026; past cycles had November deadlines, but no 2027-28 call or date was confirmed.",
  "us": false
 }

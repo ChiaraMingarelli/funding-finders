@@ -9,10 +9,10 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
- "d": null,
- "dt": "US round typically mid-Oct (via Cambridge grad application)",
- "e": "Non-UK citizens applying to full-time Cambridge postgraduate degrees.",
+ "checked": "2026-10-07",
+ "d": "2026-10-14",
+ "dt": "Oct 14, 2026, 11:59pm UK time (full application incl. references)",
+ "e": "For US citizens living in the US who apply to a full-time Cambridge postgraduate degree; this is an earlier round, separate from the main round. US citizens studying or working abroad apply in the main round instead.",
  "f": "Gates Cambridge Trust",
  "fields": [
   "all"
@@ -22,14 +22,13 @@
  "nfit": "Low",
  "nom": false,
  "region": "US",
- "s": "watch",
+ "s": "open",
  "stages": [
   "ug",
   "gr"
  ],
- "u": "https://www.gatescambridge.org/apply/",
- "unv": "2027-entry US-round date not confirmed",
- "us": false,
+ "u": "https://www.gatescambridge.org/apply/timeline/",
+ "us": true,
  "yale": {
   "d": null,
   "t": "No Yale endorsement is required: the Yale postgraduate awards grid does not mark it as needing Yale nomination. Apply directly to Cambridge by the October US-round deadline. Yale Office of Fellowships advises.",

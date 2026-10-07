@@ -6,10 +6,10 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-01",
- "dt": "Dec 1, 2026",
- "e": "Novel detector technologies and quantum sensors. Requires a PhD and US work authorization.",
+ "dt": "Dec 1, 2026 (INSPIRE listing); the UTA posting says review began immediately and it is open until filled",
+ "e": "Novel detector technologies and quantum sensors. Requires a PhD and US work authorization; UTA cannot sponsor an employment visa.",
  "f": "University of Texas at Arlington; PI Jonathan Asaadi",
  "fields": [
   "inst",
@@ -19,6 +19,7 @@
  "id": "ut-arlington-postdoc-in-novel-detectors-quantum-sensors",
  "n": "UT Arlington: Postdoc in novel detectors & quantum sensors",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3195081",
  "stages": [

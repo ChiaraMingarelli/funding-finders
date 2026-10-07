@@ -5,9 +5,9 @@
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-29",
- "dt": "Nov 29, 2026",
+ "dt": "Nov 29, 2026 (INSPIRE listing); review began immediately and continues until filled",
  "e": "Machine learning for collider experiments. Requires a PhD in physics or CS, ML experience and PyTorch.",
  "f": "Weizmann Institute of Science; PI Eilam Gross",
  "fields": [
@@ -17,11 +17,13 @@
  "id": "weizmann-institute-ai-ml-for-collider-experiments-postdo",
  "n": "Weizmann Institute: AI/ML for collider experiments postdoc",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3158953",
  "stages": [
   "pd"
  ],
  "u": "https://www.weizmann.ac.il/particle/gross/",
+ "unv": "The ad is on INSPIRE only; the group page lists no openings.",
  "us": false
 }

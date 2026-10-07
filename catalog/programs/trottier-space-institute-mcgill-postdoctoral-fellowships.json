@@ -10,9 +10,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-01",
- "d": null,
- "dt": "2026 call closed Dec 1, 2025; 2027-start call not yet posted (previous cycles had December 1 deadlines)",
+ "checked": "2026-10-07",
+ "d": "2026-12-01",
+ "dt": "Dec 1, 2026 (all materials, including letters), for 2027 start",
  "e": "Open to all nationalities, with preference for applicants within 3 years of the PhD. Independent fellowship in McGill astrophysics, home of a major pulsar/FRB/CHIME radio group. Applicants are encouraged to also apply for a CITA National Fellowship held at McGill.",
  "f": "Trottier Space Institute, McGill University",
  "fields": [
@@ -25,12 +25,12 @@
  "nom": false,
  "pt": "prize",
  "region": "Canada",
- "s": "watch",
+ "s": "open",
  "src": "other:tsi",
  "stages": [
   "pd"
  ],
- "u": "https://tsi.mcgill.ca/index.php?page=opportunities",
- "unv": "2027 posting, deadline and salary not yet published",
+ "u": "https://tsi.mcgill.ca/index.php?page=opening-2027-postdoctoral-fellowships",
+ "unv": "Salary not stated (\"competitive salary and benefits\")",
  "us": false
 }

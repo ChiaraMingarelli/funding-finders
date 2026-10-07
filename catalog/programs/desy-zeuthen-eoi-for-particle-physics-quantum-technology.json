@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-12",
  "dt": "Oct 12, 2026 (expression of interest)",
  "e": "Call for expressions of interest in hosted fellowships in ATLAS, quantum technologies and lattice QCD. Eligibility depends on the scheme.",
@@ -19,6 +19,7 @@
  "id": "desy-zeuthen-eoi-for-particle-physics-quantum-technology",
  "n": "DESY Zeuthen: EOI for particle physics & quantum technology fellowships",
  "nom": false,
+ "pt": "prize",
  "s": "open",
  "src": "inspire:3188739",
  "stages": [

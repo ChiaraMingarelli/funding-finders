@@ -20,6 +20,7 @@
  "n": "Cambridge: Kavli Institute Fellowship in Cosmology & Astrophysics",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "International",
  "s": "open",
  "src": "aas:8c7f51df",
@@ -27,5 +28,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/8c7f51df",
+ "unv": "AAS job-register page blocked (HTTP 403) on 2026-10-07; the KICC ad confirms salary scales and the £10,000/yr allowance (references needed by Oct 20, 2026) but shows no closing date, so Oct 15 is not reconfirmed",
  "us": false
 }

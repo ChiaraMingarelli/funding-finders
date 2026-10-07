@@ -2,7 +2,7 @@
  "a": "3 years; salary and benefits plus $10K per year for research and travel (subject to funds). Up to 2 fellows a year.",
  "added": "2026-09-28",
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2026-10-16",
  "dt": "Due 2026-10-16 23:59 (AJO #32593). Start fall 2027.",
  "e": "Theory PhD with neutrino expertise. The fellow chooses host US university or lab(s) and can split time between two.",
@@ -14,6 +14,7 @@
  "id": "neutrino-theory-network-ntn-postdoctoral-fellowship",
  "n": "Neutrino Theory Network (NTN) Postdoctoral Fellowship",
  "nom": false,
+ "pt": "prize",
  "s": "open",
  "stages": [
   "pd"

@@ -14,7 +14,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-01",
+ "checked": "2026-10-07",
  "d": "2026-11-15",
  "dt": "Nov 15, 2026. Humboldt applicants who want MPA's Stellar Department as host: email MPA-Stellar-Inquiries@MPA-garching.MPG.de by Oct 15, 2026.",
  "e": "Five positions across stellar, transient, GW, computational, galaxy and cosmology research. PhD within the last 6 years. MPA's Stellar Department (Selma de Mink) also hosts Humboldt fellows: to request hosting, send a short paragraph on your interests/expertise and your publication list to MPA-Stellar-Inquiries@MPA-garching.MPG.de by Oct 15, 2026.",
@@ -27,6 +27,7 @@
  "n": "MPA Garching: Postdoctoral Fellowships in Astrophysics",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "International",
  "s": "open",
  "src": "aas:9dd64bf5",

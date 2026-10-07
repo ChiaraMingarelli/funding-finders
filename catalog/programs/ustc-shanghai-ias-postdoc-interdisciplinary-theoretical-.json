@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-31",
  "dt": "2026/12/31 23:59:59 (time zone not stated on page); open until filled",
  "e": "CM theory and stat phys, quantum computing/foundations, cosmology, entanglement in HEP and lattice gauge simulation. Apply by email.",
@@ -26,6 +26,7 @@
  "n": "USTC Shanghai IAS: Postdoc, Interdisciplinary Theoretical Physics",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "ajo:29470",

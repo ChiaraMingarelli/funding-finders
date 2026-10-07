@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-01",
  "dt": "Nov 1, 2026, 11:59 pm ET; apply via MIT site",
  "e": "Research combining AI with a discipline including physics. PhD Jan 2024-Aug 2027; no visa sponsorship; start by Sep 1, 2027.",
@@ -17,6 +17,7 @@
  "id": "mit-schwarzman-college-tayebati-postdoctoral-fellows-ai-",
  "n": "MIT Schwarzman College: Tayebati Postdoctoral Fellows (AI + science)",
  "nom": false,
+ "pt": "prize",
  "s": "open",
  "src": "ajo:32591",
  "stages": [

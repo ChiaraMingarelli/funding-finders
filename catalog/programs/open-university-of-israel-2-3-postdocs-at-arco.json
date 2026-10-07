@@ -23,6 +23,7 @@
  "n": "Open University of Israel: 2–3 postdocs at ARCO",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "aas:9ab70683",
@@ -30,5 +31,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/9ab70683",
+ "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
  "us": false
 }

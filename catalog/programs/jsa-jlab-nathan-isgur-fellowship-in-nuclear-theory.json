@@ -2,7 +2,7 @@
  "a": "Not verified.",
  "added": "2026-09-28",
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "The last found call was the 2024 fellowship, with a 2023-11-05 deadline (INSPIRE copy). The JLab careers page blocks automated access. The JLab Theory Center general postdoc call closed 2026-01-28.",
  "e": "Named early-career nuclear theory fellowship at JLab. It does not appear to run every year.",
@@ -13,6 +13,7 @@
  "id": "jsa-jlab-nathan-isgur-fellowship-in-nuclear-theory",
  "n": "JSA/JLab Nathan Isgur Fellowship in Nuclear Theory",
  "nom": false,
+ "pt": "prize",
  "s": "watch",
  "stages": [
   "pd"

@@ -7,10 +7,10 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "No new class announced; last solicitation (Class of 2025) posted July 2024",
- "e": "A five-year fellowship for senior university researchers doing high-risk basic research. It has historically been run through a white-paper competition.",
+ "e": "A five-year fellowship for tenured university researchers doing high-risk basic research. It has historically been run through a white-paper competition; the last solicitation required the PI to be a US citizen or permanent resident.",
  "f": "DoD Basic Research Office (via ONR)",
  "fields": [
   "all"
@@ -24,6 +24,6 @@
   "ten"
  ],
  "u": "https://basicresearch.defense.gov/Programs/Vannevar-Bush-Faculty-Fellowship/",
- "unv": "No solicitation since July 2024 was found, so the next cycle is uncertain. Eligibility details, including citizenship and any institutional limits, were not checked.",
- "us": false
+ "unv": "No solicitation since July 2024 was found, so the next cycle is uncertain. The program page returned HTTP 403 on Oct 7, 2026; citizenship rule taken from the Class of 2025 solicitation (N0001424SF007).",
+ "us": true
 }

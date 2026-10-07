@@ -2,7 +2,7 @@
  "a": "250–300k CNY/yr; 2+ years",
  "added": "2026-09-30",
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2027-01-20",
  "dt": "Jan 20, 2027",
  "e": "Flavor physics, CP violation, QCD and BSM physics. Requires a PhD in theoretical particle physics.",
@@ -13,6 +13,7 @@
  "id": "ccnu-wuhan-theoretical-particle-physics-postdocs",
  "n": "CCNU Wuhan: Theoretical particle physics postdocs",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3205065",
  "stages": [

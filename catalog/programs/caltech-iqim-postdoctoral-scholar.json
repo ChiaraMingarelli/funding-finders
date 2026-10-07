@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2026-11-15",
  "dt": "Applications due Nov 15, 2026 for Fall 2027 start (AJO).",
  "e": "PhD by start. Must name at least one Caltech faculty mentor. No citizenship restriction stated.",
@@ -20,6 +20,7 @@
  "id": "caltech-iqim-postdoctoral-scholar",
  "n": "Caltech IQIM Postdoctoral Scholar",
  "nom": false,
+ "pt": "prize",
  "s": "open",
  "stages": [
   "pd"

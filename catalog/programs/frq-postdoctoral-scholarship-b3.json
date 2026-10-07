@@ -9,10 +9,10 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-01",
+ "checked": "2026-10-07",
  "d": "2026-10-08",
  "dt": "2027–28 competition: Oct 8, 2026, 4:00 pm ET",
- "e": "Canadian citizens/PRs with a valid RAMQ card; must move to an institution other than the PhD institution. Can fund a Québec postdoc held in Québec or elsewhere, including at a NANOGrav or CHIME institution.",
+ "e": "Canadian citizens and permanent residents with a valid RAMQ card may hold it in Québec or elsewhere; other applicants must hold it in Québec. Must move to an institution other than the PhD institution.",
  "f": "Fonds de recherche du Québec",
  "fields": [
   "astro",
@@ -30,6 +30,5 @@
   "pd"
  ],
  "u": "https://frq.gouv.qc.ca/programme/bourses-postdoctorales-2027-2028-b3/",
- "unv": "Summary page wording on non-citizens is ambiguous; check program rules",
  "us": false
 }

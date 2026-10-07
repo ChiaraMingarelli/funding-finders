@@ -12,9 +12,9 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-15",
- "dt": "Nov 15, 2026",
+ "dt": "Nov 15, 2026; later expressions of interest may also be considered",
  "e": "Black-hole binaries in magnetized disks, astrophysical fluid dynamics, compact mergers and GW/multimessenger modeling. Start Fall 2027.",
  "f": "University of Copenhagen, Niels Bohr International Academy (Martin Pessah)",
  "fields": [
@@ -25,6 +25,7 @@
  "n": "Copenhagen NBIA: Postdoc in Theoretical & GW Astrophysics",
  "nfit": "High",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "ajo:32776",

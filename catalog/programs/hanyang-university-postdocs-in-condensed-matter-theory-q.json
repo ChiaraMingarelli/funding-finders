@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
- "d": "2027-03-31",
- "dt": "rolling review; closes 2027-03-31",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Rolling review until filled; AJO listing ends Mar 31, 2027",
  "e": "Topological physics, quantum geometry, topological superconductivity, QI, correlated systems (DMFT, DFT, tensor networks). Start 2026 or early 2027.",
  "f": "Hanyang University, Department of Physics, CMT group (Sangmo Cheon; with Moon Jip Park, Sunwoo Kim, Youngseok Kim)",
  "fields": [
@@ -18,7 +18,8 @@
  "id": "hanyang-university-postdocs-in-condensed-matter-theory-q",
  "n": "Hanyang University: Postdocs in Condensed Matter Theory & Quantum Information",
  "nom": false,
- "s": "open",
+ "pt": "group",
+ "s": "rolling",
  "src": "ajo:32064",
  "stages": [
   "pd"

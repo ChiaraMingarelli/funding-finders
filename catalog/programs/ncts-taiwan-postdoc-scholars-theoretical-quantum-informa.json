@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2027-03-31",
  "dt": "2027/03/31 23:59:59 (time zone not stated on page)",
  "e": "Quantum computing, communication, control, sensing/metrology, error correction, open systems and quantum ML. Start Jan 1, 2027 (negotiable).",
@@ -17,6 +17,7 @@
  "id": "ncts-taiwan-postdoc-scholars-theoretical-quantum-informa",
  "n": "NCTS Taiwan: Postdoc Scholars, Theoretical Quantum Information Science",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "ajo:32555",
  "stages": [

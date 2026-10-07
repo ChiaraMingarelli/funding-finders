@@ -23,6 +23,6 @@
   "ten"
  ],
  "u": "https://www.aps.org/funding-recognition/unit-deadlines",
- "unv": "Official page shows 2024 dates only; 2027 unit deadlines not confirmed",
+ "unv": "Official page shows 2024 dates only; 2027 unit deadlines not confirmed. The APS page returned HTTP 403 on 2026-10-07, so it was not rechecked.",
  "us": false
 }

@@ -1,12 +1,12 @@
 {
- "a": "3 years; competitive salary plus $3K/yr travel",
+ "a": "3 years; competitive salary plus dedicated research funds",
  "added": "2026-09-28",
  "aud": [
   "yale",
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": "2026-11-01",
  "dt": "Full consideration by Nov 1, 2026; review continues on a rolling basis after that.",
  "e": "PhD by start, less than 7 years past PhD. Experimental and/or theoretical quantum science.",
@@ -20,11 +20,12 @@
  "id": "uchicago-quantum-fellows-physics-cqe",
  "n": "UChicago Quantum Fellows (Physics / CQE)",
  "nom": false,
+ "pt": "prize",
  "s": "open",
  "stages": [
   "pd"
  ],
  "u": "https://physics.uchicago.edu/academics/postdoctoral-fellowships/quantum-fellows/",
- "unv": "2026 deadline not yet posted.",
+ "unv": "Salary amount not stated; travel funding not mentioned on the current page.",
  "us": false
 }

@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-09",
  "dt": "Oct 9, 2026",
  "e": "Direct dark matter detection with SENSEI, PICO and SuperCDMS. Requires a PhD in particle physics and instrumentation expertise.",
@@ -25,6 +25,7 @@
  "n": "U. Montréal: Experimental dark matter postdocs",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "Canada",
  "s": "open",
  "src": "inspire:3205034",

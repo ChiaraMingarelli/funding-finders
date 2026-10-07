@@ -1,13 +1,13 @@
 {
- "a": "Assistant Professor, tenure-track",
+ "a": "Assistant Professor, tenure-track; starting salary budgeted at $85,000",
  "added": "2026-10-01",
  "aud": [
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-10-01",
+ "checked": "2026-10-07",
  "d": null,
- "dt": "No deadline in the listing; the Physics Today ad runs to Oct 6, 2026",
+ "dt": "Review began Oct 1, 2026; open until filled",
  "e": "All subfields of physics and applied physics, theory or experiment. Start 2027-28.",
  "f": "Dept. of Physics, University of Richmond",
  "fields": [
@@ -18,12 +18,12 @@
  "nfit": "Low",
  "nom": false,
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "other:physicstoday-41980238",
  "stages": [
   "fj"
  ],
  "u": "https://jobs.richmond.edu",
- "unv": "Application deadline not stated; posting is on jobs.richmond.edu",
+ "unv": "jobs.richmond.edu could not be reached; the ad text (review from Oct 1, open until filled) was confirmed on Inside Higher Ed Careers. The Physics Today listing has expired.",
  "us": false
 }

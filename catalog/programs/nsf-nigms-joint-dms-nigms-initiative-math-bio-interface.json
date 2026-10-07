@@ -1,14 +1,14 @@
 {
- "a": "not listed",
+ "a": "Track 1 up to $600,000 over 3 yr; Track 2 up to $1,200,000 over 3-4 yr; up to $5M per year in total",
  "added": "2026-09-28",
  "aud": [
   "yale",
   "ap"
  ],
  "c": "Federal grant",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2027-09-20",
- "dt": "Posted 2022-06-01 (details page not opened)",
+ "dt": "Next window Sep 1-20, 2027 (NSF program page); window is Sep 1-18 annually per NSF 22-600",
  "e": "Mathematical/computational research at the biology interface; relevant to theoretical biophysics.",
  "f": "NSF / NIH NIGMS",
  "fields": [
@@ -30,6 +30,5 @@
   "ten"
  ],
  "u": "https://simpler.grants.gov/opportunity/3ca83b4a-6e88-407d-8a94-7292acdb686e",
- "unv": true,
  "us": false
 }

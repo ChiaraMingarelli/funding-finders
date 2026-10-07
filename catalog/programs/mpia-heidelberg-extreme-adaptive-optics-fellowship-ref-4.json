@@ -23,6 +23,7 @@
  "n": "MPIA Heidelberg: Extreme adaptive optics fellowship (Ref. 429)",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "aas:652ee3d5",
@@ -30,5 +31,6 @@
   "pd"
  ],
  "u": "https://postdocprogram.mpg.de/node/58468",
+ "unv": "The MPG postdoc program page lists the September 2026 application round but no closing date, and the AAS ad returned 403 on Oct 7, 2026; Oct 13 not reconfirmed.",
  "us": false
 }

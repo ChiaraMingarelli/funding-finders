@@ -5,7 +5,7 @@
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2027-01-01",
  "dt": "rolling review since Sep 1, 2026; closes 2027/01/01",
  "e": "Resonant-cavity and broadband axion detection; low-noise RF/microwave and cryogenics experience preferred. Within 7 years of PhD.",
@@ -17,6 +17,7 @@
  "id": "uchicago-efi-postdoc-in-experimental-axion-dark-matter",
  "n": "UChicago EFI: Postdoc in Experimental Axion Dark Matter",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "ajo:32581",
  "stages": [

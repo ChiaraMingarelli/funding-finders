@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
- "dt": "Candidates must be nominated and sponsored by LANL technical staff. Packages are reviewed at the December Quarterly Review.",
+ "dt": "Candidates must be nominated and sponsored by LANL technical staff. Packages are reviewed at the Fall Quarterly Review.",
  "e": "Application within 5 years of PhD. Feynman is for theory and computing; Reines is for experimental science.",
  "f": "Los Alamos National Laboratory",
  "fields": [
@@ -21,11 +21,12 @@
  "id": "lanl-distinguished-postdoc-fellowships-feynman-oppenheimer-r",
  "n": "LANL Distinguished Postdoc Fellowships (Feynman, Oppenheimer, Reines, Hoffman)",
  "nom": true,
+ "pt": "prize",
  "s": "rolling",
  "stages": [
   "pd"
  ],
- "u": "https://www.lanl.gov/engage/collaboration/postdoctoral-research/becoming-a-postdoc/eligibility-and-appointments",
- "unv": "Sponsor deadline for the December 2026 review not posted",
+ "u": "https://lanl.gov/engage/collaboration/postdoctoral-research/becoming-a-postdoc/eligibility-and-appointments",
+ "unv": "Sponsor deadline for the fall 2026 review not posted",
  "us": false
 }

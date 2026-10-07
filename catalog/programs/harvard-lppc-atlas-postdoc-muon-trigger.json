@@ -1,13 +1,13 @@
 {
- "a": "not listed",
+ "a": "$67,600–80,000/yr",
  "added": "2026-09-30",
  "aud": [
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
- "d": "2026-11-02",
- "dt": "Nov 2, 2026",
+ "checked": "2026-10-07",
+ "d": "2026-11-01",
+ "dt": "Nov 1, 2026 for full consideration; later applications accepted until filled",
  "e": "ATLAS detector commissioning and muon trigger work. Requires a PhD in experimental particle physics.",
  "f": "Harvard University, Laboratory for Particle Physics and Cosmology; PI Melissa Franklin",
  "fields": [
@@ -17,6 +17,7 @@
  "id": "harvard-lppc-atlas-postdoc-muon-trigger",
  "n": "Harvard LPPC: ATLAS postdoc (muon trigger)",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3204682",
  "stages": [

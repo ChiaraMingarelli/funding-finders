@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-15",
  "dt": "2026/11/15 23:59:59 (time zone not stated on page); letters same date",
  "e": "Independent fellowship in nuclear/particle, condensed matter, quantum information, biophysics or astrophysics/cosmology. At most 5 years prior postdoc experience; start Jul 1, 2027.",
@@ -31,6 +31,7 @@
  "n": "WashU: Edwin T. Jaynes Postdoctoral Fellowship",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "src": "ajo:32521",

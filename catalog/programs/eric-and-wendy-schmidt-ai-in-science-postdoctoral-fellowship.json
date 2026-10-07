@@ -8,7 +8,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Run through partner universities",
  "e": "~160 postdocs a year across nine partner universities; Yale is not confirmed as a partner.",
@@ -24,12 +24,13 @@
   "e": "About 160 postdocs a year across nine partner universities; you must be hosted at a partner university."
  },
  "nom": false,
- "region": "US",
+ "pt": "prize",
+ "region": "International",
  "s": "watch",
  "stages": [
   "pd"
  ],
  "u": "https://www.schmidtsciences.org/ai-in-science/",
- "unv": "Partner list and deadlines not on page",
+ "unv": "Partner universities are shown only as logos (links suggest Chicago, Cornell, Imperial, Michigan, NTU, NUS, Oxford, UC San Diego, Toronto); deadlines are set by each partner and not on page.",
  "us": false
 }

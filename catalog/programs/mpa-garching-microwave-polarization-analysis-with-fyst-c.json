@@ -22,6 +22,7 @@
  "n": "MPA Garching: Microwave polarization analysis with FYST/CCAT",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "aas:7885b453",
@@ -29,5 +30,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/7885b453",
+ "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
  "us": false
 }

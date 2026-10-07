@@ -25,6 +25,7 @@
  "n": "Weizmann Institute: Benoziyo Prize Postdoctoral Fellowship",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "International",
  "s": "open",
  "src": "aas:c6c0cb4c",
@@ -32,5 +33,6 @@
   "pd"
  ],
  "u": "https://www.weizmann.ac.il/AstroCenter/fellowship-submission/",
+ "unv": "AAS ad returned 403 on 2026-10-07; the Weizmann center page still shows the 2025-26 cycle (closed, deadline Jan 15, 2026), so the Dec 15, 2026 date and salary are not re-verified.",
  "us": false
 }

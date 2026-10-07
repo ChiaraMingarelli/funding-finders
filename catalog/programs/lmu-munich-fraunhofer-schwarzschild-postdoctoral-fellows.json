@@ -25,6 +25,7 @@
  "n": "LMU Munich: Fraunhofer-Schwarzschild Postdoctoral Fellowships",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "International",
  "s": "open",
  "src": "aas:06255dfe",
@@ -32,5 +33,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/06255dfe",
+ "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
  "us": false
 }

@@ -1,5 +1,5 @@
 {
- "a": "Paid summer research internship",
+ "a": "$10,500 for a 10-week internship (interns budget their own meals, housing and travel)",
  "added": "2026-09-29",
  "aud": [
   "yale",
@@ -9,10 +9,10 @@
   "ast"
  ],
  "c": "Summer program",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2026-11-02",
- "dt": "Nov 2, 2026 (per coordinator); program launches summer 2027 with 20 positions",
- "e": "Undergraduates; new program announced Aug 21, 2026.",
+ "dt": "Nov 2, 2026; interns announced Jan 15, 2027; program runs summer 2027 with 20 positions",
+ "e": "Paid 10-week summer research internships for college freshmen and sophomores in chemistry, computing, engineering, life sciences, and physics and astronomy. US citizens and permanent residents only.",
  "f": "Barry Goldwater Scholarship Foundation",
  "fields": [
   "all"
@@ -26,7 +26,7 @@
  "stages": [
   "ug"
  ],
- "u": "https://goldwaterscholarship.gov/",
- "unv": "Deadline not shown on Goldwater homepage; per coordinator",
- "us": false
+ "u": "https://www.goldwaterinternship.gov/",
+ "unv": "Time of day for the deadline is not stated",
+ "us": true
 }

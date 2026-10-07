@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2026-12-08",
- "dt": "Standard dates Dec 8, 2026; Apr 8, 2027; Aug 8, 2027",
+ "dt": "Standard dates Dec 8, 2026; Apr 8, 2027; Aug 8, 2027 (5 pm local time)",
  "e": "US citizens, non-citizen nationals or permanent residents by the time of award. NIGMS participates.",
  "f": "NIH",
  "fields": [
@@ -25,11 +25,11 @@
   }
  ],
  "nom": false,
+ "pt": "prize",
  "s": "open",
  "stages": [
   "pd"
  ],
  "u": "https://grants.nih.gov/grants/guide/pa-files/PA-25-423.html",
- "unv": "The Aug 8, 2027 date is inferred from the standard F cycle; NOFO text confirmed only Dec 8, 2026 and Apr 8, 2027",
  "us": true
 }

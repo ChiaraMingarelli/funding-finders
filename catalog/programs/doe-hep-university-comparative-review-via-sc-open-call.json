@@ -8,9 +8,9 @@
   "ast"
  ],
  "c": "Federal grant",
- "checked": "2026-09-29",
- "d": null,
- "dt": "FY2027 cycle has closed: pre-application encouraged by 2026-07-30, application due 2026-09-03, panels in November 2026. FY2028 dates should appear in the FY2027 SC Open Call, which is not yet posted (DE-FOA-0003600 closes 2026-09-30).",
+ "checked": "2026-10-07",
+ "d": "2027-09-02",
+ "dt": "FY2028 HENP comparative review (FY2027 Open Call, DE-FOA-0003665): pre-applications strongly encouraged by Jul 29, 2027; applications due Sep 2, 2027; panels meet in November 2027. The FY2027 HEP panels used applications to the previous open call.",
  "e": "University PIs, new and renewal applications. Reviewers explicitly judge work against P5 priorities. Applications not in the comparative review get lower priority.",
  "f": "DOE Office of Science - High Energy Physics",
  "fields": [
@@ -25,17 +25,16 @@
  "n": "DOE HEP University Comparative Review (via SC Open Call)",
  "nofo": [
   {
-   "opp": "DE-FOA-0003600",
-   "u": "https://simpler.grants.gov/opportunity/34942f3a-232f-48f4-a624-123dd6d042a0"
+   "opp": "DE-FOA-0003665",
+   "u": "https://simpler.grants.gov/opportunity/53270f52-3c80-4fe0-bd26-d9411d9b251e"
   }
  ],
  "nom": false,
- "s": "watch",
+ "s": "open",
  "stages": [
   "tt",
   "ten"
  ],
  "u": "https://science.osti.gov/hep/Funding-Opportunities",
- "unv": "FY2028 comparative review dates not yet posted",
  "us": false
 }

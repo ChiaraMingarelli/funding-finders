@@ -12,7 +12,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-22",
  "dt": "2026/11/22 23:59:59 (time zone not stated on page)",
  "e": "GW backgrounds with pulsar timing arrays, multimessenger approaches, lensing/environmental effects. Start autumn 2027.",
@@ -25,6 +25,7 @@
  "n": "University of Geneva: Postdocs in Gravitational-Wave Physics",
  "nfit": "High",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "ajo:32750",

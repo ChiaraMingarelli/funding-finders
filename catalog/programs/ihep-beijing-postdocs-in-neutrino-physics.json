@@ -10,7 +10,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "interviews ongoing until filled",
  "e": "Reactor neutrino oscillation measurements, diffuse supernova neutrino background, supernova burst neutrinos and core-collapse simulation. International applicants welcome; Chinese not required.",
@@ -24,8 +24,9 @@
  "n": "IHEP Beijing: Postdocs in Neutrino Physics",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "International",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:29978",
  "stages": [
   "pd"

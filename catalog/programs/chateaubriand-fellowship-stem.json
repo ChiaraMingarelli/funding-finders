@@ -6,9 +6,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-28",
- "d": null,
- "dt": "Last deadline Jan 25, 2026",
+ "checked": "2026-10-07",
+ "d": "2027-01-18",
+ "dt": "2027-28 call opens Oct 2026; due Jan 18, 2027, 11:59 pm EST",
  "e": "Funds 4+ months of PhD research in a French lab. Open to doctoral students at US universities, including international students.",
  "f": "Embassy of France",
  "fields": [
@@ -19,12 +19,12 @@
  "nfit": "Medium",
  "nom": false,
  "region": "International",
- "s": "watch",
+ "s": "open",
  "src": "other:chateaubriand-stem",
  "stages": [
   "gr"
  ],
  "u": "https://chateaubriand-fellowship.org/stem-application/",
- "unv": "2027–28 call not posted",
+ "unv": "The page gives both Oct 5 and Oct 7, 2026 as the call opening date",
  "us": false
 }

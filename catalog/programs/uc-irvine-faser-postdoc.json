@@ -5,9 +5,9 @@
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
- "d": "2026-12-31",
- "dt": "Dec 31, 2026",
+ "checked": "2026-10-07",
+ "d": "2027-06-30",
+ "dt": "Review date Jul 31, 2026; applications accepted until Jun 30, 2027 if the position is not filled.",
  "e": "R&D and construction of the FASER neutrino detector. Requires an experimental particle physics PhD with hardware and software experience.",
  "f": "UC Irvine; Jianming Bian, Jonathan Feng",
  "fields": [
@@ -17,6 +17,7 @@
  "id": "uc-irvine-faser-postdoc",
  "n": "UC Irvine: FASER postdoc",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3202263",
  "stages": [

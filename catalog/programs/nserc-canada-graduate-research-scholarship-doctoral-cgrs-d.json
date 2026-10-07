@@ -1,5 +1,5 @@
 {
- "a": "See NSERC",
+ "a": "$40,000/yr for 36 months",
  "added": "2026-09-29",
  "aud": [
   "yale",
@@ -8,9 +8,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2026-10-19",
- "dt": "Oct 19, 2026 (per coordinator)",
+ "dt": "Direct applications to NSERC due Oct 17, 8 pm ET; Oct 17, 2026 is a Saturday, so the deadline moves to 8 pm ET on Mon Oct 19, 2026. Applicants applying through a Canadian institution face an earlier institutional deadline.",
  "e": "Canadian citizens/PR; tenable abroad under certain conditions.",
  "f": "NSERC (Canada)",
  "fields": [
@@ -25,7 +25,6 @@
  "stages": [
   "gr"
  ],
- "u": "https://www.nserc-crsng.gc.ca/",
- "unv": "Date per coordinator; not re-verified on NSERC page",
+ "u": "https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program",
  "us": false
 }

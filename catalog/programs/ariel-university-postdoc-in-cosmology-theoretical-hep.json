@@ -12,7 +12,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "open until filled (listed until 2027-04-01)",
  "e": "Cosmology, theoretical high-energy physics, dark matter, axions and gravitational physics. PhD in physics or astronomy; CV, publication list, cover letter, 3 letters.",
@@ -26,8 +26,9 @@
  "n": "Ariel University: Postdoc in Cosmology & Theoretical HEP",
  "nfit": "High",
  "nom": false,
+ "pt": "group",
  "region": "International",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:31948",
  "stages": [
   "pd"

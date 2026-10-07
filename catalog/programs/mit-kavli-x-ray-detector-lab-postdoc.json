@@ -12,7 +12,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-01",
  "dt": "2026/11/01 23:59:59 (time zone not stated on page)",
  "e": "X-ray detector characterization/background reduction plus galaxy-cluster ICM science. PhD by Fall 2027; start as early as Spring 2027.",
@@ -25,6 +25,7 @@
  "n": "MIT Kavli: X-Ray Detector Lab Postdoc",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "US",
  "s": "open",
  "src": "ajo:32370",

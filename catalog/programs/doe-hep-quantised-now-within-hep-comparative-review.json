@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Federal grant",
- "checked": "2026-09-29",
- "d": null,
- "dt": "QuantISED joined the HEP comparative review for the first time in FY2027 (applications were due 2026-09-03). There is no separate NOFO; the last was DE-FOA-0003354 (FY2024) plus a targeted FY2026 review.",
+ "checked": "2026-10-07",
+ "d": "2027-09-02",
+ "dt": "FY2028 HENP comparative review (FY2027 Open Call, DE-FOA-0003665): pre-applications strongly encouraged by Jul 29, 2027; applications due Sep 2, 2027; panels meet in November 2027. QuantISED is research area (i), Quantum Information Science for High Energy Physics Research.",
  "e": "University PIs doing QIS with a clear HEP connection. General quantum computing, algorithms or networking work is declined without review.",
  "f": "DOE Office of Science - High Energy Physics",
  "fields": [
@@ -19,13 +19,19 @@
  ],
  "id": "doe-hep-quantised-now-within-hep-comparative-review",
  "n": "DOE HEP QuantISED (now within HEP Comparative Review)",
+ "nofo": [
+  {
+   "opp": "DE-FOA-0003665",
+   "u": "https://simpler.grants.gov/opportunity/53270f52-3c80-4fe0-bd26-d9411d9b251e"
+  }
+ ],
  "nom": false,
- "s": "watch",
+ "s": "open",
  "stages": [
   "tt",
   "ten"
  ],
  "u": "https://science.osti.gov/hep/Funding-Opportunities",
- "unv": "Next cycle depends on the FY2027 Open Call (not yet posted)",
+ "unv": "Award sizes and number of new awards for FY2028 not stated in the NOFO.",
  "us": false
 }

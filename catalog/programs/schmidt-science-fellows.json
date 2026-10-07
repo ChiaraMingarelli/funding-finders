@@ -8,9 +8,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
- "dt": "Current cycle closed; next opens ~spring 2027 (institutional nomination)",
+ "dt": "Last final application deadline Jul 13, 2026 (2027 fellows); the next cycle is not posted yet. Candidates need an institutional nomination.",
  "e": "PhD candidates/recent PhDs nominated by invited institutions, pivoting into a new field.",
  "f": "Schmidt Science Fellows",
  "fields": [
@@ -20,13 +20,14 @@
  "n": "Schmidt Science Fellows",
  "nfit": "Low",
  "nom": true,
+ "pt": "prize",
  "region": "US",
  "s": "watch",
  "stages": [
   "pd"
  ],
  "u": "https://schmidtsciencefellows.org/",
- "unv": "2027 dates per coordinator",
+ "unv": "Official site pages could not be read (404 on apply pages); 2026 dates from university announcements of the 2027 call.",
  "us": false,
  "yale": {
   "d": null,

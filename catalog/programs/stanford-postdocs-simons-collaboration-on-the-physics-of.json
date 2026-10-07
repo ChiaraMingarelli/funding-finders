@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "no deadline stated",
  "e": "Understanding AI through theory and numerical experiments using tools from physics, math, CS and neuroscience.",
@@ -17,6 +17,7 @@
  "id": "stanford-postdocs-simons-collaboration-on-the-physics-of",
  "n": "Stanford: Postdocs, Simons Collaboration on the Physics of Learning",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "ajo:31056",
  "stages": [

@@ -1,5 +1,5 @@
 {
- "a": "—",
+ "a": "$80,000/yr stipend + up to $1,000 relocation; 2 years from Sep 1, 2027, renewable for a third",
  "added": "2026-09-29",
  "aud": [
   "yale",
@@ -8,10 +8,10 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
- "d": null,
- "dt": "Last cycle Dec 2025 – Jan 2026",
- "e": "No 2027 call yet.",
+ "checked": "2026-10-07",
+ "d": "2026-11-23",
+ "dt": "Current posting: CosmicAI Accelerated Universe Postdoctoral Fellow (UT Austin), due Nov 23, 2026",
+ "e": "Postdoctoral fellows at the NSF-Simons AI Institute for Cosmic Origins; the current posting (UT Austin, surrogate modeling of astrophysical systems) splits time 50/50 between CosmicAI research and independent research and needs a PhD awarded Sep 2025-Sep 2027. No citizenship restriction stated.",
  "f": "UT Austin / NRAO (NSF-Simons AI Institute)",
  "fields": [
   "astro",
@@ -21,12 +21,13 @@
  "n": "CosmicAI Postdoctoral Fellows",
  "nfit": "High",
  "nom": false,
+ "pt": "group",
  "region": "US",
- "s": "watch",
+ "s": "open",
  "stages": [
   "pd"
  ],
  "u": "https://cosmicai.org/jobs",
- "unv": "2027 call not posted",
+ "unv": "Only one fellow posting is open for this cycle; the posting lists both a 2-year term with a possible third year and a 3-year duration",
  "us": false
 }

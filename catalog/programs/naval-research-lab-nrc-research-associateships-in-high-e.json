@@ -11,9 +11,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-01",
- "dt": "Nov 1, 2026",
+ "dt": "Nov 1, 2026 (NRC deadlines are quarterly: Feb 1, May 1, Aug 1, Nov 1)",
  "e": "High-energy astrophysics, GRBs, pulsars and instrumentation. Requires a PhD and US citizenship or permanent residency.",
  "f": "U.S. Naval Research Laboratory, Washington DC (NRC RAP; multiple advisers)",
  "fields": [
@@ -24,12 +24,13 @@
  "n": "Naval Research Lab: NRC Research Associateships in high-energy astrophysics",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "src": "inspire:2659197",
  "stages": [
   "pd"
  ],
- "u": "http://nrc58.nas.edu/RAPLab10/Opportunity/Program.aspx?LabCode=64",
+ "u": "https://nrc58.nas.edu/RAPLab10/Opportunity/Program.aspx?LabCode=64",
  "us": true
 }

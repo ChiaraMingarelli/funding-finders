@@ -5,7 +5,7 @@
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-31",
  "dt": "Oct 31, 2026",
  "e": "Work on the ATLAS muon spectrometer upgrade for HL-LHC. Requires a PhD in particle physics and experience operating detectors.",
@@ -17,6 +17,7 @@
  "id": "mpi-for-physics-atlas-muon-spectrometer-upgrade-postdoc",
  "n": "MPI for Physics: ATLAS muon spectrometer upgrade postdoc",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3209370",
  "stages": [

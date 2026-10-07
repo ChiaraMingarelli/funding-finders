@@ -1,18 +1,15 @@
 {
- "a": "No cap stated; up to 5 yr",
+ "a": "No cap stated; up to 5 yr encouraged; ~130 Core Research awards expected, $100M across the 26-522 programs",
  "added": "2026-09-28",
- "asub": [
-  "he"
- ],
  "aud": [
   "yale",
   "radar",
   "ast"
  ],
  "c": "Federal grant",
- "checked": "2026-09-29",
- "d": "2026-11-16",
- "dt": "Target date; third Monday of November yearly",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Proposals accepted anytime under NSF 26-522 (MPS Astronomical Sciences Research Programs); the new solicitation has no November target date",
  "e": "FY2027 is flagged \"especially competitive\" and multiple submissions by the same lead PI are strongly discouraged. Resubmissions must be substantially revised.",
  "f": "NSF MPS/AST · NSF 26-522",
  "fields": [
@@ -28,7 +25,7 @@
   }
  ],
  "nom": false,
- "s": "open",
+ "s": "rolling",
  "stages": [
   "tt",
   "ten"

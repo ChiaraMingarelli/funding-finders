@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-15",
  "dt": "2026/11/15 23:59:59 (time zone not stated on page); review begins Nov 15",
  "e": "Independent postdoctoral fellowship in quantum information science; applicants identify at least one Caltech faculty host. PhD by start (Sep 1, 2027); current postdocs eligible.",
@@ -17,6 +17,7 @@
  "id": "caltech-aws-quantum-fellowships",
  "n": "Caltech: AWS Quantum Fellowships",
  "nom": false,
+ "pt": "prize",
  "s": "open",
  "src": "ajo:32774",
  "stages": [

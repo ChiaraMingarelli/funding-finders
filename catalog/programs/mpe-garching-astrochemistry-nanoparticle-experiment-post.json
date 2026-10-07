@@ -11,9 +11,9 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-15",
- "dt": "Oct 15, 2026",
+ "dt": "Full consideration Sep 15, 2026; later applications considered until Oct 15, 2026 if unfilled",
  "e": "Nanoparticle mass spectrometry in the SRET ion trap for ISM chemistry. Hands-on UHV, laser and RF-ion-trap experience needed.",
  "f": "Max Planck Institute for Extraterrestrial Physics, Center for Astrochemical Studies; PI Paola Caselli",
  "fields": [
@@ -25,6 +25,7 @@
  "n": "MPE Garching: Astrochemistry nanoparticle experiment postdoc",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "aas:5fe8c95e",

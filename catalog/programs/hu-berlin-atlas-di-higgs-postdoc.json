@@ -5,7 +5,7 @@
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-26",
  "dt": "Oct 26, 2026",
  "e": "ATLAS HH→4b analysis, b-tagging and ML. Requires a PhD in experimental particle physics.",
@@ -17,6 +17,7 @@
  "id": "hu-berlin-atlas-di-higgs-postdoc",
  "n": "HU Berlin: ATLAS di-Higgs postdoc",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3202922",
  "stages": [

@@ -24,6 +24,7 @@
  "n": "Observatoire de la Côte d'Azur: Poincaré early-career fellowship",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "International",
  "s": "open",
  "src": "aas:6076de03",
@@ -31,5 +32,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/6076de03",
+ "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
  "us": false
 }

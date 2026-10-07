@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-09",
  "dt": "Oct 9, 2026",
  "e": "Quantum science: materials, devices and computing. Requires a PhD (or near completion) in physics, EE, chemistry or CS.",
@@ -18,6 +18,7 @@
  "id": "princeton-associate-research-scholar-in-quantum-science",
  "n": "Princeton: Associate Research Scholar in quantum science",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3203562",
  "stages": [

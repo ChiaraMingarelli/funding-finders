@@ -5,9 +5,9 @@
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
- "d": "2026-11-30",
- "dt": "Nov 30, 2026",
+ "checked": "2026-10-07",
+ "d": "2026-10-15",
+ "dt": "Oct 15, 2026 (Unistra posting; INSPIRE lists Nov 30)",
  "e": "Instrumentation for high-power lasers within the EIC Pathfinder EUROPA project. Requires a PhD in detector physics or instrumentation with electronics skills.",
  "f": "Université de Strasbourg / IPHC; contact Maciej Kachel",
  "fields": [
@@ -17,6 +17,7 @@
  "id": "iphc-strasbourg-detector-physics-instrumentation-postdoc",
  "n": "IPHC Strasbourg: Detector physics & instrumentation postdoc",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3203573",
  "stages": [

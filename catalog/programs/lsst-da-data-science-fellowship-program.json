@@ -8,9 +8,9 @@
   "ast"
  ],
  "c": "Training",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
- "dt": "Last call Mar 2026",
+ "dt": "Last deadline Mar 27, 2026 (2026 cohort); the next call is not posted yet",
  "e": "Data science training for astronomy graduate students.",
  "f": "LSST Discovery Alliance",
  "fields": [
@@ -27,6 +27,6 @@
   "gr"
  ],
  "u": "https://lsstdiscoveryalliance.org/lsst-discovery-alliance-programs/data-science-fellowship/",
- "unv": "next call",
+ "unv": "Official program page blocked automated access; last deadline taken from the LSST-DA announcement on the Rubin Community Forum; next call not posted",
  "us": false
 }

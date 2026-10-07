@@ -1,5 +1,5 @@
 {
- "a": "$5,000 stipend + $300 travel + campus housing (per most recent posted details)",
+ "a": "$5,000 stipend for 10 weeks + $1,570 for food + $300 travel + campus housing (2026 terms)",
  "added": "2026-10-01",
  "asub": [
   "cos",
@@ -11,9 +11,9 @@
   "ast"
  ],
  "c": "Summer program",
- "checked": "2026-10-01",
+ "checked": "2026-10-07",
  "d": null,
- "dt": "Page says program full / not accepting applications; 2027 dates not posted",
+ "dt": "Summer 2026 program ran May 18-July 24, 2026; 2027 dates and deadline not posted",
  "e": "US citizens, nationals or permanent residents only. WVU's Gravitational Waves and Cosmology Center hosts NANOGrav pulsar-timing and GW projects.",
  "f": "West Virginia University (NSF REU)",
  "fields": [
@@ -31,6 +31,6 @@
   "ug"
  ],
  "u": "https://gwac.wvu.edu/reu",
- "unv": "Page shows 2024 dates; stipend may be outdated; 2027 status unclear",
+ "unv": "2027 deadline and NSF funding for 2027 not posted; page now describes the Astrophysics & Plasma Physics REU",
  "us": true
 }

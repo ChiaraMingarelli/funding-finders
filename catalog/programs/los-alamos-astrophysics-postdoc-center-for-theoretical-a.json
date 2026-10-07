@@ -12,9 +12,9 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
- "d": "2026-10-11",
- "dt": "Oct 11, 2026",
+ "checked": "2026-10-07",
+ "d": "2026-11-30",
+ "dt": "Nov 30, 2026 for the winter 2027 fellowship round; other positions by Feb 2, 2027",
  "e": "Theory and computation: supernovae, kilonovae, GRBs, accretion, stars and cosmology. PhD within 5 years with simulation experience.",
  "f": "Los Alamos National Laboratory, CTA",
  "fields": [
@@ -24,6 +24,7 @@
  "n": "Los Alamos: Astrophysics postdoc (Center for Theoretical Astrophysics)",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "US",
  "s": "open",
  "src": "aas:4bf7089d",

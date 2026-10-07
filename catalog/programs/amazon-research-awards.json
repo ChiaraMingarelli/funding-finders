@@ -7,9 +7,9 @@
   "ap"
  ],
  "c": "Compute",
- "checked": "2026-09-29",
- "d": null,
- "dt": "No open calls; Spring 2026 closed May 13, 2026; Fall 2025 closed Nov 12, 2025; no Fall 2026 call posted yet",
+ "checked": "2026-10-07",
+ "d": "2026-11-04",
+ "dt": "Fall 2026 call open; submissions close Nov 4, 2026",
  "e": "Academic PIs; calls are topic-specific (e.g., Agentic AI, Build on Trainium).",
  "f": "Amazon",
  "fields": [
@@ -17,13 +17,13 @@
  ],
  "id": "amazon-research-awards",
  "n": "Amazon Research Awards",
+ "nfit": "Low",
  "nom": false,
- "s": "watch",
+ "s": "open",
  "stages": [
   "tt",
   "ten"
  ],
  "u": "https://www.amazon.science/research-awards/call-for-proposals",
- "unv": "Fall 2026 call not posted",
  "us": false
 }

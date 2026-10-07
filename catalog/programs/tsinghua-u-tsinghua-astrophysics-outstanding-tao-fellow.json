@@ -14,7 +14,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-15",
  "dt": "Dec 15, 2026",
  "e": "Two fellowships across cosmology, galaxies, high-energy, GW, exoplanet, radio and time-domain astrophysics. Requires a PhD in physics or astronomy.",
@@ -27,6 +27,7 @@
  "n": "Tsinghua U.: Tsinghua Astrophysics Outstanding (TAO) Fellow",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "International",
  "s": "open",
  "src": "aas:5fa2601e",
@@ -34,5 +35,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/5fa2601e",
+ "unv": "AAS page blocked by Cloudflare on 2026-10-07; deadline confirmed from search-indexed copies of the ad",
  "us": false
 }

@@ -8,7 +8,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2026-10-09",
  "dt": "Nominations closed Sep 11, 2026; nominee materials due Oct 9, 2026 (midnight EST)",
  "e": "PhD in physics/astronomy/related by Sep 1, 2027; nominated by advisor; current MIT students/postdocs generally ineligible.",
@@ -24,6 +24,7 @@
  "n": "MIT Pappalardo Fellowships in Physics (2027-2030)",
  "nfit": "Low",
  "nom": true,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "stages": [

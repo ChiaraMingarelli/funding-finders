@@ -14,7 +14,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-15",
  "dt": "2026/12/15 23:59:59 (time zone not stated on page)",
  "e": "GW data analysis, stellar/binary and compact-object astrophysics, statistics/ML, and protoplanetary/accretion disk theory. PhD before appointment; start Fall 2027.",
@@ -28,6 +28,7 @@
  "n": "Northwestern CIERA: Postdoc Associates in Theoretical Astrophysics",
  "nfit": "High",
  "nom": false,
+ "pt": "group",
  "region": "US",
  "s": "open",
  "src": "ajo:32507",

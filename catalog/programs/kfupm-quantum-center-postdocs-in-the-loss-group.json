@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "open while posted (listed until 2027-02-01); screening immediate",
  "e": "Quantum condensed-matter theory: spin qubits, topology, magnetism/spintronics, many-body physics and quantum computing. PhD in hand or within one year.",
@@ -18,7 +18,8 @@
  "id": "kfupm-quantum-center-postdocs-in-the-loss-group",
  "n": "KFUPM Quantum Center: Postdocs in the Loss Group",
  "nom": false,
- "s": "open",
+ "pt": "group",
+ "s": "rolling",
  "src": "ajo:31641",
  "stages": [
   "pd"

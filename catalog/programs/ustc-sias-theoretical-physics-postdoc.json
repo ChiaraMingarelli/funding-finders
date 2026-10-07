@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-31",
  "dt": "Dec 31, 2026",
  "e": "Quantum simulation, topological states and quantum information. Requires a PhD in theoretical physics.",
@@ -18,6 +18,7 @@
  "id": "ustc-sias-theoretical-physics-postdoc",
  "n": "USTC SIAS: Theoretical physics postdoc",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3137865",
  "stages": [

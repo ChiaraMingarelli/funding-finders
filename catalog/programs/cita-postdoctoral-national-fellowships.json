@@ -11,9 +11,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2026-11-02",
- "dt": "",
+ "dt": "Nov 2, 2026; start Sep 1, 2027",
  "e": "Theoretical astrophysics, including GW and compact objects. Start Sep 1, 2027.",
  "f": "CITA Toronto",
  "fields": [
@@ -24,6 +24,7 @@
  "n": "CITA Postdoctoral & National Fellowships",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "Canada",
  "s": "open",
  "stages": [

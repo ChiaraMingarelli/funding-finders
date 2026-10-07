@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "open until filled; apply via UMN job 376108",
  "e": "Quantum many-body systems, superconductivity and correlated electrons. CV, research statement, 3 letters; start immediately.",
@@ -17,7 +17,8 @@
  "id": "university-of-minnesota-postdocs-in-condensed-matter-the",
  "n": "University of Minnesota: Postdocs in Condensed Matter Theory (Vafek)",
  "nom": false,
- "s": "open",
+ "pt": "group",
+ "s": "rolling",
  "src": "ajo:32783",
  "stages": [
   "pd"

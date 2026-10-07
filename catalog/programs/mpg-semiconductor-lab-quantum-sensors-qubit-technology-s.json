@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-31",
  "dt": "Oct 31, 2026",
  "e": "Development of quantum sensors and qubit technology (listed at postdoc level). Requires a PhD in physics or engineering with a quantum sensing background.",
@@ -18,6 +18,7 @@
  "id": "mpg-semiconductor-lab-quantum-sensors-qubit-technology-s",
  "n": "MPG Semiconductor Lab: Quantum sensors & qubit technology scientist",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3208119",
  "stages": [

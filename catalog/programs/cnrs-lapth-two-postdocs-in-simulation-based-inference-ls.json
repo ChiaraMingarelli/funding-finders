@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-20",
  "dt": "2026/11/20 23:59:59 (time zone not stated on page)",
  "e": "Joint simulation-based inference for large-scale structure and high-energy (gamma-ray) astrophysics. Strong programming and ML/SBI skills; start Oct 1, 2027.",
@@ -24,6 +24,7 @@
  "n": "CNRS LAPTh: Two Postdocs in Simulation-Based Inference (LSS & gamma rays)",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "ajo:32695",

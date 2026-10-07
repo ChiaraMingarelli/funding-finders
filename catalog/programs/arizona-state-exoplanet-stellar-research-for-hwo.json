@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-26",
  "dt": "Oct 26, 2026",
  "e": "Exoplanet and stellar research supporting the Habitable Worlds Observatory.",
@@ -23,6 +23,7 @@
  "n": "Arizona State: Exoplanet & stellar research for HWO",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "US",
  "s": "open",
  "src": "aas:0e671982",

@@ -8,7 +8,7 @@
   "ast"
  ],
  "c": "Compute",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2027-01-31",
  "dt": "Window Dec 15, 2026 to Jan 31, 2027",
  "e": "US researchers needing large allocations; full proposal reviewed by panel. Coordinator-verified.",
@@ -19,6 +19,7 @@
  ],
  "id": "access-maximize-allocations",
  "n": "ACCESS Maximize allocations",
+ "nfit": "Low",
  "nom": false,
  "s": "open",
  "stages": [

@@ -2,7 +2,7 @@
  "a": "not listed",
  "added": "2026-09-30",
  "c": "Group postdoc",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Search remains open; applications reviewed as received.",
  "e": "LEGEND, Project 8 and PHONON neutrino experiments. Requires a PhD in experimental subatomic or nuclear physics.",
@@ -14,6 +14,7 @@
  "id": "indiana-u-neutrino-physics-postdoc-legend-project-8-phon",
  "n": "Indiana U.: Neutrino physics postdoc (LEGEND/Project 8/PHONON)",
  "nom": false,
+ "pt": "group",
  "s": "rolling",
  "src": "inspire:3167068",
  "stages": [

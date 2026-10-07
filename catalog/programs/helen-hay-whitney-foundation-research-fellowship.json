@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Last deadline June 15, 2026; the 2027 deadline is not posted yet (expected mid-June 2027)",
  "e": "PhD within 2 years of the deadline and no more than 1 year in the postdoc lab. Foreign nationals must train in US labs.",
@@ -17,6 +17,7 @@
  "id": "helen-hay-whitney-foundation-research-fellowship",
  "n": "Helen Hay Whitney Foundation Research Fellowship",
  "nom": false,
+ "pt": "prize",
  "s": "watch",
  "stages": [
   "pd"

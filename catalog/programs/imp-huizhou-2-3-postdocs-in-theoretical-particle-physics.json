@@ -2,7 +2,7 @@
  "a": "not listed; 2 years, extendable",
  "added": "2026-09-30",
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2027-05-06",
  "dt": "May 6, 2027",
  "e": "Neutrino physics, BSM and precision calculations. Requires a PhD in theoretical particle physics.",
@@ -13,6 +13,7 @@
  "id": "imp-huizhou-2-3-postdocs-in-theoretical-particle-physics",
  "n": "IMP Huizhou: 2–3 postdocs in theoretical particle physics",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3151973",
  "stages": [

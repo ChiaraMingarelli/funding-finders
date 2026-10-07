@@ -13,7 +13,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-15",
  "dt": "2026/11/15 23:59:59 (time zone not stated on page)",
  "e": "Prize fellowship for experimentalists across AMO, biophysics, condensed matter, gravitational, high-energy, low-energy particle, nuclear, QI and experimental/instrumentation astrophysics. Contact faculty about mutual interest; start Fall 2027.",
@@ -33,6 +33,7 @@
  "n": "Caltech: EXP Fellowships in Experimental Physics & Astrophysics",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "src": "ajo:32275",

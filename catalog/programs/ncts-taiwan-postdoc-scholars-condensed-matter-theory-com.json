@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2027-03-31",
  "dt": "2027/03/31 23:59:59 (time zone not stated on page); open until filled",
  "e": "Computational quantum materials, strongly correlated condensed matter and cold-atom systems. Start Jan 1, 2027 (negotiable).",
@@ -18,6 +18,7 @@
  "id": "ncts-taiwan-postdoc-scholars-condensed-matter-theory-com",
  "n": "NCTS Taiwan: Postdoc Scholars, Condensed Matter Theory & Computational Materials",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "ajo:32556",
  "stages": [

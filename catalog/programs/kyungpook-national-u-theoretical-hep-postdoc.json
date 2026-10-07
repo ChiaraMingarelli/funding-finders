@@ -10,7 +10,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Deadline was Sep 30, 2026; applications are still considered until the position is filled.",
  "e": "Particle phenomenology and cosmology, focused on astroparticle, dark matter and BSM. Requires a PhD in particle physics.",
@@ -23,6 +23,7 @@
  "n": "Kyungpook National U.: Theoretical HEP postdoc",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "rolling",
  "src": "inspire:3198255",

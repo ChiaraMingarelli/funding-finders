@@ -20,10 +20,12 @@
  "id": "princeton-dicke-fellowship-experimental-physics",
  "n": "Princeton Dicke Fellowship (experimental physics)",
  "nom": false,
+ "pt": "prize",
  "s": "open",
  "stages": [
   "pd"
  ],
  "u": "https://phy.princeton.edu/dicke-fellows",
+ "unv": "The official page returned 403 on Oct 7, 2026; the Oct 19, 2026 date could not be reconfirmed.",
  "us": false
 }

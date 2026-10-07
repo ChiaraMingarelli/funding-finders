@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
- "d": "2026-11-30",
- "dt": "Nov 30, 2026",
+ "checked": "2026-10-07",
+ "d": "2027-02-28",
+ "dt": "Feb 28, 2027",
  "e": "Quantum distributed computing, nonlocality, fermionic QI, foundations and noncommutative optimization.",
  "f": "Inria Saclay / École Polytechnique, PhIQuS team; PI Marc-Olivier Renou",
  "fields": [
@@ -17,6 +17,7 @@
  "id": "inria-saclay-phiqus-several-postdocs-in-quantum-informat",
  "n": "Inria Saclay PhIQuS: Several postdocs in quantum information theory",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "other:quantiki",
  "stages": [

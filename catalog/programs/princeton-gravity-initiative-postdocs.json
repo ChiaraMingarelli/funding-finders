@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "No 2026 posting yet; last deadline Oct 30, 2025",
  "e": "Postdoc positions in gravitational physics and GW astrophysics.",
@@ -24,12 +24,13 @@
  "n": "Princeton Gravity Initiative postdocs",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "watch",
  "stages": [
   "pd"
  ],
  "u": "https://gravity.princeton.edu/job-opportunities",
- "unv": "2026 call not posted",
+ "unv": "2026 call not found; the program page and Princeton/AAS job pages returned HTTP 403 on Oct 7, 2026",
  "us": false
 }

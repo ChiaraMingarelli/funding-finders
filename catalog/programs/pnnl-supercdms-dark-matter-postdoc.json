@@ -1,13 +1,13 @@
 {
- "a": "not listed",
+ "a": "$69,000–119,100/yr",
  "added": "2026-09-30",
  "aud": [
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-08",
- "dt": "Oct 8, 2026",
+ "dt": "Posting closes Oct 8, 2026",
  "e": "Background analysis for SuperCDMS SNOLAB. Background in cryogenic detectors, radiation measurement or dark matter searches wanted.",
  "f": "Pacific Northwest National Laboratory; PI John L. Orrell",
  "fields": [
@@ -17,6 +17,7 @@
  "id": "pnnl-supercdms-dark-matter-postdoc",
  "n": "PNNL: SuperCDMS dark matter postdoc",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3202083",
  "stages": [

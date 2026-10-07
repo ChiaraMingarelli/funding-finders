@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-15",
  "dt": "2026/10/15 23:59:59 (time zone not stated on page); review begins Oct 16",
  "e": "GAPS Antarctic balloon cosmic-ray antinuclei search for dark matter; radiation-sensor instrumentation. PhD on/after Jan 1, 2022; start Jan 2027.",
@@ -25,6 +25,7 @@
  "n": "U Toronto Dunlap: Postdoc in Experimental Particle Astrophysics (GAPS)",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "Canada",
  "s": "open",
  "src": "ajo:32620",

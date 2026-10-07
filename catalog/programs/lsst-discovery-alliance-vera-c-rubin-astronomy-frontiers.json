@@ -20,6 +20,7 @@
  "n": "LSST Discovery Alliance: Vera C. Rubin Astronomy Frontiers Fellowship",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "src": "aas:8bd99c92",
@@ -27,5 +28,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/8bd99c92",
+ "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
  "us": false
 }

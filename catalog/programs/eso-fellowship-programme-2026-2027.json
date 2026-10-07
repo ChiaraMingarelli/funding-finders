@@ -7,7 +7,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-15",
  "dt": "Oct 15, 2026",
  "e": "Fellowships in all astrophysical fields using ESO facilities. PhD before Nov 1, 2027.",
@@ -19,6 +19,7 @@
  "n": "ESO: Fellowship Programme 2026/2027",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "International",
  "s": "open",
  "src": "aas:794d54ad",

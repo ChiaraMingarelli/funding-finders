@@ -5,9 +5,9 @@
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
- "d": "2026-10-15",
- "dt": "Oct 15, 2026",
+ "checked": "2026-10-07",
+ "d": null,
+ "dt": "Full consideration by Sep 15, 2026; the position remains posted until filled (INSPIRE listed Oct 15, 2026).",
  "e": "CMS Phase-2 trigger and BSM searches. Requires a PhD in particle physics.",
  "f": "University of Colorado Boulder; Keith Ulmer, Kevin Stenson",
  "fields": [
@@ -17,7 +17,8 @@
  "id": "cu-boulder-cms-postdoctoral-associate",
  "n": "CU Boulder: CMS postdoctoral associate",
  "nom": false,
- "s": "open",
+ "pt": "group",
+ "s": "rolling",
  "src": "inspire:3183367",
  "stages": [
   "pd"

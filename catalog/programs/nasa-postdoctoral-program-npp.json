@@ -12,7 +12,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2026-11-01",
  "dt": "6 pm ET; about 3 cycles a year",
  "e": "Hosted at NASA centers including JPL and GSFC. Some country restrictions apply.",
@@ -27,6 +27,7 @@
  "n": "NASA Postdoctoral Program (NPP)",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "stages": [

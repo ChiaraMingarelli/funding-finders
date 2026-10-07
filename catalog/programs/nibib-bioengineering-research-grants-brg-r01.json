@@ -1,14 +1,14 @@
 {
- "a": "Floor $500,000 (as listed)",
+ "a": "Direct costs less than $500,000 per year; up to 5 years",
  "added": "2026-09-28",
  "aud": [
   "yale",
   "ap"
  ],
  "c": "Federal grant",
- "checked": "2026-09-29",
- "d": "2029-07-05",
- "dt": "Posted 2026-05-04",
+ "checked": "2026-10-07",
+ "d": "2026-11-05",
+ "dt": "Renewal/resubmission Nov 5, 2026; new applications Feb 5, 2027 (standard 5th of Feb/Jun/Oct for new, Mar/Jul/Nov for others); NOFO expires Jul 6, 2029",
  "e": "Broad eligibility incl. foreign orgs. Life-/physical-science collaborations applying bioengineering to biomedical problems.",
  "f": "NIH NIBIB",
  "fields": [

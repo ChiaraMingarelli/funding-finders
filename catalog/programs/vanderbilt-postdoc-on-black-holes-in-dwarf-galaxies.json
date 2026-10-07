@@ -24,6 +24,7 @@
  "n": "Vanderbilt: Postdoc on black holes in dwarf galaxies",
  "nfit": "High",
  "nom": false,
+ "pt": "group",
  "region": "US",
  "s": "open",
  "src": "aas:342eb81d",
@@ -31,5 +32,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/342eb81d",
+ "unv": "AAS Job Register ad blocked (HTTP 403 bot check) on Oct 7, 2026; deadline not reconfirmed",
  "us": false
 }

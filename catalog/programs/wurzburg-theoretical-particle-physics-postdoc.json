@@ -1,5 +1,5 @@
 {
- "a": "German civil-service grade A13 (Akademischer Rat auf Zeit)",
+ "a": "German civil-service grade A13 (Akademischer Rat auf Zeit); 3 years, extendable by up to 3 more",
  "added": "2026-10-07",
  "aud": [
   "yale"
@@ -7,7 +7,7 @@
  "c": "Group postdoc",
  "checked": "2026-10-07",
  "d": "2026-11-15",
- "dt": "Nov 15, 2026",
+ "dt": "Nov 15, 2026 for full consideration; later applications considered until filled",
  "e": "A 3-year post (extendable by 3 years) in precision collider phenomenology, higher-order QCD and electroweak calculations, scattering amplitudes and computational methods.",
  "f": "University of Würzburg, Chair of Theoretical Physics II",
  "fields": [
@@ -23,6 +23,6 @@
  "stages": [
   "pd"
  ],
- "u": "https://www.physik.uni-wuerzburg.de/tp2/",
+ "u": "https://www.physik.uni-wuerzburg.de/tp2/stellenangebote/",
  "us": false
 }

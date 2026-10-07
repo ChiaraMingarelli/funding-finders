@@ -15,7 +15,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-02",
  "dt": "Nov 2, 2026, 23:59 EDT",
  "e": "Exoplanets, stars, galaxies, cosmology and time-domain astronomy. PhD since Sept 2022 or within 6 months of the start.",
@@ -27,6 +27,7 @@
  "n": "NRC Canada: Plaskett Postdoctoral Fellowship",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "Canada",
  "s": "open",
  "src": "aas:ca903e5f",

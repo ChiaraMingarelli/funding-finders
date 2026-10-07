@@ -1,5 +1,5 @@
 {
- "a": "$2,500 stipend plus room, board and SCIE 101 tuition",
+ "a": "$2,500 stipend plus room, board and SCIE 1010 tuition",
  "added": "2026-09-28",
  "aud": [
   "yale",
@@ -8,9 +8,9 @@
   "ast"
  ],
  "c": "Yale internal",
- "checked": "2026-09-29",
- "d": null,
- "dt": "The last deadline was Feb 6, 2026, 11pm ET. STARS II (academic year) was due Jan 5, 2026.",
+ "checked": "2026-10-07",
+ "d": "2027-02-05",
+ "dt": "Summer 2027 deadline Feb 5, 2027, 11pm ET, via the Student Grants Database.",
  "e": "Yale College undergraduates doing full-time summer lab research with Yale faculty while living on campus. No other courses or jobs are allowed.",
  "f": "Yale College Science & QR Education",
  "fields": [
@@ -19,11 +19,11 @@
  "id": "stars-summer-research-program",
  "n": "STARS Summer Research Program",
  "nom": false,
- "s": "watch",
+ "s": "open",
  "stages": [
   "ug"
  ],
  "u": "https://science.yalecollege.yale.edu/stem-fellowships/funding-stem-opportunities-yale/stars/stars-summer-research-program",
- "unv": "The 2027 dates are not posted.",
+ "unv": "Summer 2027 program dates are listed as TBA.",
  "us": false
 }

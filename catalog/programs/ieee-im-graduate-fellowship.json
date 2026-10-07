@@ -5,9 +5,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": "2027-02-01",
- "dt": "Annual deadline Feb 1",
+ "dt": "Annual deadline Feb 1; nominations (by the advisor) open 30 days before",
  "e": "Fellowship for graduate students doing instrumentation and measurement research; student must be an IEEE member and advisor an IEEE and I&M Society member.",
  "f": "IEEE Instrumentation and Measurement Society",
  "fields": [
@@ -16,7 +16,7 @@
  ],
  "id": "ieee-im-graduate-fellowship",
  "n": "IEEE Instrumentation & Measurement Society Graduate Fellowship",
- "nom": false,
+ "nom": true,
  "s": "open",
  "src": "other:ieee-ims",
  "stages": [

@@ -8,24 +8,24 @@
   "ast"
  ],
  "c": "Federal grant",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "No open solicitation. NSF lists the program as waiting for a new publication; the last guidelines were NSF 22-632",
- "e": "Research software and data infrastructure program, currently paused. Per coordinator.",
+ "e": "Research software and data cyberinfrastructure program. NSF lists it as waiting for a new solicitation (last guidelines NSF 22-632).",
  "f": "NSF",
  "fields": [
   "ds",
   "all"
  ],
  "id": "nsf-cssi-cyberinfrastructure-for-sustained-scientific-innova",
- "n": "NSF CSSI (Cyberinfrastructure for Sustained Scientific Innovation)",
+ "n": "NSF CSSI (Cyberinfrastructure Systems for Scientific Innovation)",
  "nom": false,
  "s": "watch",
  "stages": [
   "tt",
   "ten"
  ],
- "u": "https://www.nsf.gov/",
- "unv": "Status per coordinator; not re-fetched",
+ "u": "https://www.nsf.gov/funding/opportunities/cssi-cyberinfrastructure-sustained-scientific-innovation",
+ "unv": "NSF has not said when the new solicitation will be published.",
  "us": false
 }

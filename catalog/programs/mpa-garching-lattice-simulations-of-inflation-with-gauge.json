@@ -10,7 +10,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-08",
  "dt": "Dec 8, 2026",
  "e": "Lattice simulations of cosmic inflation with gauge fields. Needs a PhD and a numerical/computational cosmology background. Also listed on AAS (aas:75310742).",
@@ -23,6 +23,7 @@
  "n": "MPA Garching: Lattice simulations of inflation with gauge fields",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "inspire:3208682",

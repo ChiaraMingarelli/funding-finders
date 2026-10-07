@@ -2,15 +2,17 @@
  "a": "not listed",
  "added": "2026-09-30",
  "asub": [
-  "cos"
+  "cos",
+  "he"
  ],
  "aud": [
   "yale",
   "ng",
-  "ast"
+  "ast",
+  "radar"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-15",
  "dt": "Dec 15, 2026 for full consideration",
  "e": "Independent research in cosmological data analysis with SPHEREx, Simons Observatory, Rubin LSST, Roman and DESI; ML/statistical inference expertise helpful.",
@@ -21,8 +23,9 @@
  ],
  "id": "university-of-arizona-arizona-cosmology-lab-fellowship",
  "n": "University of Arizona: Arizona Cosmology Lab Fellowship",
- "nfit": "Medium",
+ "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "src": "ajo:32884",

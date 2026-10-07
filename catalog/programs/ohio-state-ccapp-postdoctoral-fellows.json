@@ -10,7 +10,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-23",
  "dt": "2026/11/23 23:59:59 (time zone not stated on page)",
  "e": "Independent fellowship in any area of cosmology, astroparticle physics or astrophysics (dark energy, LSS, CMB, lensing, dark matter, cosmic rays, neutrinos).",
@@ -24,6 +24,7 @@
  "n": "Ohio State: CCAPP Postdoctoral Fellows",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "src": "ajo:32448",

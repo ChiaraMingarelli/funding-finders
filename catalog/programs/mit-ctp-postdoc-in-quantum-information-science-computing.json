@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-16",
  "dt": "Nov 16, 2026, 11:59 pm ET",
  "e": "All areas of quantum information science and quantum computing. CV, research statement, 3 letters; start Sep 1, 2027.",
@@ -17,6 +17,7 @@
  "id": "mit-ctp-postdoc-in-quantum-information-science-computing",
  "n": "MIT CTP: Postdoc in Quantum Information Science/Computing",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "ajo:32745",
  "stages": [

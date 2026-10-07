@@ -10,7 +10,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-13",
  "dt": "Oct 13, 2026",
  "e": "Direct imaging and spectroscopy of exoplanets with GRAVITY+, Roman CGI and ELT/METIS. Requires a PhD in astronomy or related.",
@@ -23,6 +23,7 @@
  "n": "MPIA Heidelberg: Exoplanet direct imaging postdoc (Ref. 427)",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "aas:886eed2d",

@@ -7,7 +7,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-15",
  "dt": "Nov 15, 2026",
  "e": "Frontier research at two or more EACOA institutes. PhD within 5 years of the start.",
@@ -19,6 +19,7 @@
  "n": "EACOA: East Asian Core Observatories Fellowship 2027",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "International",
  "s": "open",
  "src": "aas:e43f1fd0",

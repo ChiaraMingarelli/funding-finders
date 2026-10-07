@@ -5,7 +5,7 @@
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2027-03-19",
  "dt": "Mar 19, 2027",
  "e": "Advanced silicon detectors (LGAD, ASIC). Requires a PhD in physics or electronics with detector development experience.",
@@ -17,6 +17,7 @@
  "id": "ihep-beijing-silicon-detector-development-postdoc",
  "n": "IHEP Beijing: Silicon detector development postdoc",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3130950",
  "stages": [

@@ -2,9 +2,9 @@
  "a": "$6,643–7,145/month; 2 years, renewable",
  "added": "2026-09-30",
  "c": "Group postdoc",
- "checked": "2026-09-30",
- "d": "2027-06-01",
- "dt": "Jun 1, 2027",
+ "checked": "2026-10-07",
+ "d": "2026-10-10",
+ "dt": "Priority consideration by Oct 10, 2026; later applications accepted until the posting is removed.",
  "e": "Electron-nucleus scattering phenomenology and short-range-correlation modeling. Requires a recent nuclear or particle physics PhD with an electron-scattering background.",
  "f": "Lawrence Berkeley National Laboratory; PI Shujie Li",
  "fields": [
@@ -14,7 +14,8 @@
  "id": "lbnl-electron-nucleus-scattering-phenomenology-postdoc",
  "n": "LBNL: Electron-nucleus scattering phenomenology postdoc",
  "nom": false,
- "s": "open",
+ "pt": "group",
+ "s": "rolling",
  "src": "inspire:3201460",
  "stages": [
   "pd"

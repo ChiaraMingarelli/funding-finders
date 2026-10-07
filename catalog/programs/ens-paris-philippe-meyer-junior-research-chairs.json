@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-08",
  "dt": "2026/11/08 23:59:59 (time zone not stated on page)",
  "e": "Postdoc-level chairs for theorists only: field/string theory, particle and astroparticle, astrophysics/cosmology, statistical, condensed-matter and biophysics. Up to 3 positions; start Oct 2027.",
@@ -26,6 +26,7 @@
  "n": "ENS Paris: Philippe Meyer Junior Research Chairs",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "International",
  "s": "open",
  "src": "ajo:32283",

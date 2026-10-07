@@ -1,5 +1,5 @@
 {
- "a": "not listed; 2 years",
+ "a": "€3,706–5,760 gross/month (scale 10); 2 years",
  "added": "2026-09-30",
  "asub": [
   "he"
@@ -12,7 +12,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-14",
  "dt": "Oct 14, 2026",
  "e": "Mathematical and theoretical physics of irreversibility, entropy and chaos. Requires a PhD or equivalent.",
@@ -25,6 +25,7 @@
  "n": "Radboud U.: 3 postdocs on Origins of Irreversibility",
  "nfit": "High",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "inspire:3205307",

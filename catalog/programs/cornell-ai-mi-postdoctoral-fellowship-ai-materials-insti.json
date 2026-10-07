@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-15",
  "dt": "2026/10/15 23:59:59 (time zone not stated on page)",
  "e": "AI for materials: PhD in theoretical/computational condensed-matter physics, applied math, CS or related. Start spring/summer 2027; 3 letters incl. advisor.",
@@ -19,6 +19,7 @@
  "id": "cornell-ai-mi-postdoctoral-fellowship-ai-materials-insti",
  "n": "Cornell: AI-MI Postdoctoral Fellowship (AI Materials Institute)",
  "nom": false,
+ "pt": "prize",
  "s": "open",
  "src": "ajo:32600",
  "stages": [

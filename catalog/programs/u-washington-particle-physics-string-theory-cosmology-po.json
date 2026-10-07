@@ -1,5 +1,5 @@
 {
- "a": "about $5,705–6,000/month (as summarized); 3 years",
+ "a": "$5,705–6,000/month; 3 years",
  "added": "2026-09-30",
  "asub": [
   "cos",
@@ -12,9 +12,9 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-01",
- "dt": "Dec 1, 2026",
+ "dt": "Dec 1, 2026 for full consideration",
  "e": "Theoretical high-energy physics, astroparticle physics and cosmology. Requires a PhD in physics or a related field.",
  "f": "University of Washington, Seattle; PST&C group; contacts Isabel Garcia-Garcia, Marilena Loverde",
  "fields": [
@@ -26,6 +26,7 @@
  "n": "U. Washington: Particle Physics, String Theory & Cosmology postdoc",
  "nfit": "High",
  "nom": false,
+ "pt": "group",
  "region": "US",
  "s": "open",
  "src": "inspire:3208407",

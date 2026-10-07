@@ -25,6 +25,7 @@
  "n": "LPENS Paris: Postdoc in radio astronomy & signal processing (SKA)",
  "nfit": "High",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "aas:c4281ec5",
@@ -32,5 +33,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/c4281ec5",
+ "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
  "us": false
 }

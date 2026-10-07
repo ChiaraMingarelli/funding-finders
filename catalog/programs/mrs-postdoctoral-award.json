@@ -23,6 +23,6 @@
   "pd"
  ],
  "u": "https://www.mrs.org/advancing-careers/award-central/spring-awards/mrs-postdoctoral-award",
- "unv": "The mrs.org award pages returned errors, so the amount and next nomination deadline could not be confirmed.",
+ "unv": "The mrs.org award pages returned errors, so the amount and next nomination deadline could not be confirmed. The mrs.org page returned HTTP 403 on 2026-10-07, so it was not rechecked.",
  "us": false
 }

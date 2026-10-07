@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-31",
  "dt": "2026/12/31; accepted until filled; apply via group website",
  "e": "Theory of quantum matter in nanoscale systems: quantum wires, 2D van der Waals structures, topological insulators/superconductors, correlated, non-Hermitian and disordered systems. Flexible start, earlier preferred.",
@@ -17,6 +17,7 @@
  "id": "academia-sinica-postdoctoral-researcher-quantum-matter-t",
  "n": "Academia Sinica: Postdoctoral Researcher, Quantum Matter Theory",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "ajo:31469",
  "stages": [

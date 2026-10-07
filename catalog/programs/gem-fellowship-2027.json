@@ -5,7 +5,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": "2026-11-13",
  "dt": "Application due second Friday in November (Nov 13, 2026); must also apply to 3 GEM member universities by Jan 15",
  "e": "Portable fellowship for MS and PhD study in engineering and science at GEM member universities, paired with paid industry or lab internships. US citizens or permanent residents only.",
@@ -23,6 +23,6 @@
   "gr"
  ],
  "u": "https://www.gemfellowship.org/gem-fellowship-program/",
- "unv": "Yale's current GEM membership not confirmed on GEM site (member list is login-only); exact date computed from 'second Friday in November' rule",
+ "unv": "Yale's current GEM membership not confirmed on GEM site (member list is login-only)",
  "us": true
 }

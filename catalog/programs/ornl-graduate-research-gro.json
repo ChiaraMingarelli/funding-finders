@@ -1,5 +1,5 @@
 {
- "a": "$3,800/month stipend",
+ "a": "$3,800/month stipend plus $1,000 housing allowance",
  "added": "2026-10-03",
  "aud": [
   "yale",
@@ -7,7 +7,7 @@
   "ast"
  ],
  "c": "Training",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Rolling; student must first secure an ORNL mentor",
  "e": "Extended thesis or dissertation research appointments at ORNL for graduate students, arranged with an ORNL mentor and the university adviser. No citizenship requirement.",
@@ -27,6 +27,6 @@
  "stages": [
   "gr"
  ],
- "u": "https://www.ornl.gov/content/graduate-research-ornl",
+ "u": "https://www.ornl.gov/internships/gro/",
  "us": false
 }

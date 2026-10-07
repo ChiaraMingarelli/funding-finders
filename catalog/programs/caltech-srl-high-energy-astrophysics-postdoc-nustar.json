@@ -24,6 +24,7 @@
  "n": "Caltech SRL: High-energy astrophysics postdoc (NuSTAR)",
  "nfit": "High",
  "nom": false,
+ "pt": "group",
  "region": "US",
  "s": "open",
  "src": "aas:ca443bb1",
@@ -31,5 +32,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/ca443bb1",
+ "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
  "us": false
 }

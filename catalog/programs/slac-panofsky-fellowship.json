@@ -9,9 +9,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
- "d": null,
- "dt": "SLAC says the 2027 call will be 'announced by late September' with a deadline 'anticipated to be in mid-November' 2026. The 2026 deadline was 2025-11-14.",
+ "checked": "2026-10-07",
+ "d": "2026-11-30",
+ "dt": "2027 Panofsky Fellowship application due Nov 30, 2026",
  "e": "Early-career PhDs; postdoc experience not strictly required. Fields across the SLAC mission, including particle physics and astrophysics.",
  "f": "SLAC National Accelerator Laboratory",
  "fields": [
@@ -25,12 +25,13 @@
  "n": "SLAC Panofsky Fellowship",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "US",
- "s": "watch",
+ "s": "open",
  "stages": [
   "pd"
  ],
  "u": "https://cro.slac.stanford.edu/career-pathways/panofsky-fellowship",
- "unv": "Exact 2026 deadline not yet posted",
+ "unv": "The page links only the past application site; the 2027 application link was not confirmed",
  "us": false
 }

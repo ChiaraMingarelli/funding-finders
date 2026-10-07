@@ -27,6 +27,7 @@
  "n": "Astronomical Institute CAS (Czechia): Postdoctoral fellowships",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "International",
  "s": "open",
  "src": "aas:8b7ef074",
@@ -34,5 +35,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/8b7ef074",
+ "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
  "us": false
 }

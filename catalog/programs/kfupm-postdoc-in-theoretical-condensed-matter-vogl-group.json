@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "review immediate, until filled (listed until 2027-03-06)",
  "e": "Strongly correlated electrons, quantum magnetism, non-equilibrium phases and quantum information. PhD within last 5 years.",
@@ -18,7 +18,8 @@
  "id": "kfupm-postdoc-in-theoretical-condensed-matter-vogl-group",
  "n": "KFUPM: Postdoc in Theoretical Condensed Matter (Vogl group)",
  "nom": false,
- "s": "open",
+ "pt": "group",
+ "s": "rolling",
  "src": "ajo:32626",
  "stages": [
   "pd"

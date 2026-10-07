@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "open until filled (first review Aug 16, 2026 JST); listed until 2027-02-11",
  "e": "Quantum information, operator algebras, quantum error-correcting codes and resource theory. Doctorate by start.",
@@ -18,7 +18,8 @@
  "id": "riken-ithems-research-scientists-postdocs-in-quantum-inf",
  "n": "RIKEN iTHEMS: Research Scientists/Postdocs in Quantum Information & Mathematical Physics",
  "nom": false,
- "s": "open",
+ "pt": "group",
+ "s": "rolling",
  "src": "ajo:32174",
  "stages": [
   "pd"

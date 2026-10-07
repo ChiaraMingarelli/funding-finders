@@ -5,7 +5,7 @@
   "yale"
  ],
  "c": "Fellowship",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Full consideration by Sep 30, 2026; applications are still considered until the position is filled.",
  "e": "Interdisciplinary research with ML, AI and simulation-based inference. Requires a PhD in physics or astrophysics; data science expertise preferred.",
@@ -17,6 +17,7 @@
  "id": "tu-munich-odsl-postdoc-fellowship-data-science",
  "n": "TU Munich: ODSL Postdoc Fellowship (data science)",
  "nom": false,
+ "pt": "prize",
  "s": "rolling",
  "src": "inspire:3199251",
  "stages": [

@@ -10,9 +10,9 @@
   "ast"
  ],
  "c": "Summer program",
- "checked": "2026-09-29",
- "d": null,
- "dt": "Last call: pre-proposals best by Oct 17, 2025 (for 2027-28 programs); the 2026 call (for 2028-29) is not yet posted and would likely fall ~mid-Oct",
+ "checked": "2026-10-07",
+ "d": "2026-10-16",
+ "dt": "Pre-proposals due Oct 16, 2026 for programs in 2028-29; preliminary decisions at the Advisory Board meeting in early March 2027",
  "e": "3 to 4 prospective organizers plus ~20 participants; reviewed by subfield committees and the Advisory Board.",
  "f": "Kavli Institute for Theoretical Physics, UCSB",
  "fields": [
@@ -28,12 +28,12 @@
  "id": "kitp-program-proposals-organize-a-kitp-program",
  "n": "KITP Program Proposals (organize a KITP program)",
  "nom": false,
- "s": "watch",
+ "s": "open",
  "stages": [
   "tt",
   "ten"
  ],
- "u": "https://www.kitp.ucsb.edu/propose-activity/program-pre-proposals",
- "unv": "2026 call deadline not posted",
+ "u": "https://www.kitp.ucsb.edu/scientific-activities/lead/submit-a-program-proposal",
+ "unv": "Page gives \"October 16\" without a year; the year follows from the 2028-29 cycle it names",
  "us": false
 }

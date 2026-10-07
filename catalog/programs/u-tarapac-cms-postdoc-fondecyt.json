@@ -5,7 +5,7 @@
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-31",
  "dt": "Oct 31, 2026",
  "e": "CMS BSM searches and the Phase-II GEM upgrade. Requires a PhD defended Jan 2024 or later.",
@@ -17,6 +17,7 @@
  "id": "u-tarapac-cms-postdoc-fondecyt",
  "n": "U. Tarapacá: CMS postdoc (FONDECYT)",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3204207",
  "stages": [

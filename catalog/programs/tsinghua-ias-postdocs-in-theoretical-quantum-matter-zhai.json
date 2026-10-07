@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": null,
- "dt": "no deadline stated",
+ "dt": "No deadline stated; applications accepted through AJO",
  "e": "Ultracold atoms, atom-array quantum computation, non-equilibrium quantum matter and quantum machine learning.",
  "f": "Tsinghua University, Institute for Advanced Study (Hui Zhai)",
  "fields": [
@@ -19,7 +19,8 @@
  "id": "tsinghua-ias-postdocs-in-theoretical-quantum-matter-zhai",
  "n": "Tsinghua IAS: Postdocs in Theoretical Quantum Matter (Zhai group)",
  "nom": false,
- "s": "open",
+ "pt": "group",
+ "s": "rolling",
  "src": "ajo:31453",
  "stages": [
   "pd"

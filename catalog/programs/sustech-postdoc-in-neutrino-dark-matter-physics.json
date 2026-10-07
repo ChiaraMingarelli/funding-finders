@@ -10,7 +10,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-30",
  "dt": "Nov 30, 2026 (an earlier INSPIRE record, 3173262, lists Oct 31)",
  "e": "Neutrino physics, dark matter and astrophysics with JUNO, SNO+ and TRIDENT. Requires a PhD in physics or astronomy.",
@@ -23,6 +23,7 @@
  "n": "SUSTech: Postdoc in neutrino & dark matter physics",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "inspire:3179554",

@@ -13,7 +13,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-02",
  "dt": "2026/11/02 23:59:59 (time zone not stated on page)",
  "e": "CMB, cosmology, galaxy formation, early universe, gravitational physics/GWs and ML methods. Doctorate in physics or related.",
@@ -27,6 +27,7 @@
  "n": "Oxford: Beecroft Fellow in Cosmology",
  "nfit": "High",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "ajo:32694",

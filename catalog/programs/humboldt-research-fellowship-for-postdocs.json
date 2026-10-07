@@ -1,5 +1,5 @@
 {
- "a": "Monthly stipend for 6 to 24 months in Germany",
+ "a": "€3,000/month stipend plus benefits, for 6 to 24 months in Germany",
  "added": "2026-09-29",
  "aud": [
   "yale",
@@ -9,7 +9,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Next call opens Nov 15, 2026 and closes once it has 800 applications",
  "e": "PhD within the last 4 yrs, with a German host; non-German researchers.",
@@ -21,12 +21,12 @@
  "n": "Humboldt Research Fellowship for Postdocs",
  "nfit": "Low",
  "nom": false,
+ "pt": "prize",
  "region": "International",
  "s": "watch",
  "stages": [
   "pd"
  ],
  "u": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
- "unv": "Call date per coordinator",
  "us": false
 }

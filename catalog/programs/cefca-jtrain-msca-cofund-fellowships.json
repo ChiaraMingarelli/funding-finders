@@ -30,5 +30,6 @@
   "pd"
  ],
  "u": "https://jtrain.cefca.es/",
+ "unv": "On Oct 7, 2026 jtrain.cefca.es failed with a TLS certificate error and the AAS ad returned 403, so the deadline and terms could not be reconfirmed.",
  "us": false
 }

@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": "2026-11-01",
- "dt": "Due Nov 1, 2026 (AJO)",
+ "dt": "Due Nov 1, 2026; apply via Interfolio (not AJO)",
  "e": "Postdoctoral positions joining a PCCM investigator's group in quantum materials, biomolecular condensates/soft materials, or emerging complex-materials directions. Not eligible for H-1B requiring consular processing; other visas may be possible.",
  "f": "Princeton University, Princeton Center for Complex Materials (NSF MRSEC)",
  "fields": [
@@ -20,7 +20,7 @@
  "id": "princeton-pccm-mrsec-postdoc-2027",
  "n": "Princeton Materials Science Postdoctoral Fellowship (PCCM MRSEC)",
  "nom": false,
- "pt": "prize",
+ "pt": "group",
  "s": "open",
  "src": "ajo:32674",
  "stages": [

@@ -7,7 +7,7 @@
   "ast"
  ],
  "c": "Federal grant",
- "checked": "2026-10-03",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Forecast RFA-RM-28-003: est. post Mar 15, 2027; est. due Sep 3, 2027",
  "e": "High-risk, high-reward Common Fund award for individuals or teams pursuing unconventional research or transformative technologies relevant to NIH's mission. Open to any career stage; no citizenship restriction.",
@@ -32,6 +32,6 @@
   "ten"
  ],
  "u": "https://commonfund.nih.gov/tra",
- "unv": "Dates are grants.gov estimates; commonfund.nih.gov/tra page not fetched.",
+ "unv": "Dates are grants.gov forecast estimates; the Common Fund TRA page shows no new call yet.",
  "us": false
 }

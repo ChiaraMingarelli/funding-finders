@@ -6,7 +6,7 @@
   "ast"
  ],
  "c": "Compute",
- "checked": "2026-09-28",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Apply form on page",
  "e": "Serverless GPU credits for academic research projects, useful for bursty ML training such as simulation-based inference.",

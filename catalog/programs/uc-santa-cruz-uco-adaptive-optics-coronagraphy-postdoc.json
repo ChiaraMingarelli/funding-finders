@@ -23,6 +23,7 @@
  "n": "UC Santa Cruz / UCO: Adaptive optics & coronagraphy postdoc",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "US",
  "s": "open",
  "src": "aas:95c9bf97",
@@ -30,5 +31,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/95c9bf97",
+ "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
  "us": false
 }

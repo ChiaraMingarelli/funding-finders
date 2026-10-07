@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "until filled; apply by email",
  "e": "Quantum information and computation, device characterization, error mitigation/correction and Bayesian inference. Python/MATLAB preferred.",
@@ -17,7 +17,8 @@
  "id": "sejong-university-postdoc-quantum-information-science-th",
  "n": "Sejong University: Postdoc, Quantum Information Science Theory",
  "nom": false,
- "s": "open",
+ "pt": "group",
+ "s": "rolling",
  "src": "ajo:32078",
  "stages": [
   "pd"

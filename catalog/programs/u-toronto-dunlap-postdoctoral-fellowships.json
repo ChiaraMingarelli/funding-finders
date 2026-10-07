@@ -1,14 +1,13 @@
 {
  "a": "CAD 81,916/yr + CAD 20,000/yr research; 3 years (up to 5 for instrumentation)",
  "added": "2026-09-30",
- "asub": [],
  "aud": [
   "yale",
   "ng",
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-09",
  "dt": "2026/11/09 23:59:59 (time zone not stated on page)",
  "e": "Instrumentation, software and observational astronomy. PhD on/after Jan 1, 2022; start Sep 1, 2027.",
@@ -21,6 +20,7 @@
  "n": "U Toronto: Dunlap Postdoctoral Fellowships",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "Canada",
  "s": "open",
  "src": "ajo:32533",

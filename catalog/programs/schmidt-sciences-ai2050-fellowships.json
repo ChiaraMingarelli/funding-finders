@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Closed nominations only; no open application",
  "e": "Early Career and Senior Fellows chosen by invited nomination; focus is AI's hard problems for society.",
@@ -17,6 +17,7 @@
  "id": "schmidt-sciences-ai2050-fellowships",
  "n": "Schmidt Sciences AI2050 Fellowships",
  "nom": true,
+ "pt": "prize",
  "s": "watch",
  "stages": [
   "tt",

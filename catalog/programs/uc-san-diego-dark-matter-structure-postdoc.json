@@ -22,6 +22,7 @@
  "n": "UC San Diego: Dark matter structure postdoc",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "US",
  "s": "open",
  "src": "aas:e18b0a66",
@@ -29,5 +30,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/e18b0a66",
+ "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
  "us": false
 }

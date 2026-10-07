@@ -5,7 +5,7 @@
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-11",
  "dt": "Nov 11, 2026",
  "e": "Develop a long-lived-particle trigger for ATLAS at the HL-LHC. Requires a PhD in experimental particle physics.",
@@ -17,6 +17,7 @@
  "id": "tel-aviv-u-atlas-long-lived-particle-trigger-postdoc",
  "n": "Tel Aviv U.: ATLAS long-lived particle trigger postdoc",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3200072",
  "stages": [

@@ -2,7 +2,7 @@
  "a": "negotiable; 2 years",
  "added": "2026-09-30",
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-11-01",
  "dt": "Nov 1, 2026",
  "e": "Theoretical particle physics, focused on Feynman integrals. Requires a PhD in particle physics with a Feynman-integral background.",
@@ -13,6 +13,7 @@
  "id": "zhejiang-u-postdoc-in-feynman-integrals",
  "n": "Zhejiang U.: Postdoc in Feynman integrals",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3205867",
  "stages": [

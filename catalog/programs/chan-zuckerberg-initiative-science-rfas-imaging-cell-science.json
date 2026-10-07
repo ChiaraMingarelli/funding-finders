@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Foundation",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "All 28 listed RFAs are closed; watch for new imaging and cell-science calls",
  "e": "Eligibility varies by RFA; past imaging RFAs have funded physicists and engineers.",
@@ -19,6 +19,7 @@
  "id": "chan-zuckerberg-initiative-science-rfas-imaging-cell-science",
  "n": "Chan Zuckerberg Initiative science RFAs (imaging, cell science)",
  "nom": false,
+ "pt": "other",
  "s": "watch",
  "stages": [
   "tt",
@@ -26,6 +27,6 @@
   "pd"
  ],
  "u": "https://chanzuckerberg.com/science/science-funding/",
- "unv": "No open call as of 2026-09-29",
+ "unv": "No open call as of 2026-10-07",
  "us": false
 }

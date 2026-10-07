@@ -6,10 +6,10 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-02",
+ "checked": "2026-10-07",
  "d": "2026-10-24",
  "dt": "24 Oct 2026; letters one week later",
- "e": "Independent early-career fellowship to lead your own quantum science project and small team within MCQST, hosted by an MCQST PI, as a step toward grants like the ERC Starting Grant. Eligibility details are on the MCQST site; no citizenship limits stated.",
+ "e": "Independent early-career fellowship to lead your own quantum science project and small team within MCQST, hosted by an MCQST PI, as a step toward grants like the ERC Starting Grant. Eligibility details are on the MCQST site; no citizenship limits stated. Applicants need a PhD and fewer than four years of postdoctoral experience at the deadline.",
  "f": "Munich Center for Quantum Science and Technology (MCQST)",
  "fields": [
   "qp",
@@ -28,6 +28,5 @@
   "pd"
  ],
  "u": "https://www.mcqst.de/support/start-fellowship/",
- "unv": "Exact career-stage limits not checked on the MCQST page",
  "us": false
 }

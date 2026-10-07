@@ -8,9 +8,9 @@
   "ast"
  ],
  "c": "Prize",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-02",
- "dt": "Nomination period Oct 7–Dec 2, 2026; letters of support due Dec 16, 2026.",
+ "dt": "Nominations Oct 7 to Dec 2, 2026 (11:59 pm ET); age-limit exception requests by Nov 11, 2026; letters of support due Dec 16, 2026 (11:59 pm ET).",
  "e": "Postdoctoral-rank scientists (doctorate, in a temporary mentored training position) at eligible institutions in New York, New Jersey or Connecticut; no citizenship or residency requirement. Age rule: born in or after 1985* for 2027 (it was 1984 for 2026). *Age-limit exceptions are considered only in exceptional circumstances, on a detailed written request from the nominating institution. Categories: Life Sciences, Physical Sciences & Engineering, Chemical Sciences. Yale may nominate up to 15 across the categories; self-nomination not allowed; past finalists can be re-nominated.",
  "f": "Blavatnik Family Foundation / NY Academy of Sciences",
  "fields": [
@@ -31,7 +31,6 @@
   "pd"
  ],
  "u": "https://blavatnikawards.org/awards/regional-awards/nomination-guidelines/",
- "unv": "The Regional guidelines page still shows the 2026 cycle (born in or after 1984*). The Regional and National cutoffs have matched each cycle, so 1985 is expected for 2027; confirm when the 2027 guidelines are posted.",
  "us": false,
  "yale": {
   "d": "2026-10-28",

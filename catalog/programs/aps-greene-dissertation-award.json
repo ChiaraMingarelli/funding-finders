@@ -26,6 +26,6 @@
   "pd"
  ],
  "u": "https://www.aps.org/funding-recognition/award/greene",
- "unv": "The next nomination deadline is not posted.",
+ "unv": "The next nomination deadline is not posted. The APS page returned HTTP 403 on 2026-10-07, so it was not rechecked.",
  "us": false
 }

@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2027-01-11",
  "dt": "2027 LOI closed Aug 14, 2026; the full application is due Jan 11, 2027 for LOI submitters. The next LOI is expected around Aug 2027",
  "e": "For physical, mathematical, computational and engineering scientists who have moved into biology. Requires 12–60 months of postdoc experience and no tenure-track appointment held or accepted. Open to US/Canadian citizens, permanent residents and temporary residents with valid visas.",
@@ -21,6 +21,7 @@
  "id": "burroughs-wellcome-fund-career-awards-at-the-scientific-inte",
  "n": "Burroughs Wellcome Fund Career Awards at the Scientific Interface (CASI)",
  "nom": false,
+ "pt": "other",
  "s": "open",
  "stages": [
   "pd"

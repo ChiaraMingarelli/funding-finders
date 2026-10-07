@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-01",
  "dt": "2026/12/01 23:59:59 (time zone not stated on page); evaluated until filled",
  "e": "Spin-based quantum computing/simulation, complex and topological quantum systems and quantum materials. Recent PhD in theoretical physics or related.",
@@ -18,11 +18,13 @@
  "id": "university-of-basel-nccr-spin-postdoctoral-fellowship",
  "n": "University of Basel: NCCR SPIN Postdoctoral Fellowship",
  "nom": false,
+ "pt": "prize",
  "s": "open",
  "src": "ajo:27103",
  "stages": [
   "pd"
  ],
  "u": "https://academicjobsonline.org/ajo/jobs/27103",
+ "unv": "AJO lists deadline 2026/12/01 and status accepting applications, but the ad text is stale (mentions a 2024 start and an Oct 31, 2025 extension).",
  "us": false
 }

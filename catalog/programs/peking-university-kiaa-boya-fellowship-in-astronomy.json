@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-14",
  "dt": "2026/10/14 23:59:59 (time zone not stated on page)",
  "e": "Astrophysics and gravitational physics fellowship; requires support of a PKU faculty host and letters from PhD supervisor and prospective PKU supervisor. Start before July 2027.",
@@ -24,6 +24,7 @@
  "n": "Peking University KIAA: Boya Fellowship in Astronomy",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "International",
  "s": "open",
  "src": "ajo:32553",

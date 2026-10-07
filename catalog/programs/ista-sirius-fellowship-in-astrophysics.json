@@ -10,7 +10,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-15",
  "dt": "Oct 15, 2026, 14:00 CEST",
  "e": "Independent programs in astronomy, astrophysics and cosmology. PhD no more than 6 years before the start.",
@@ -22,6 +22,7 @@
  "n": "ISTA: Sirius Fellowship in Astrophysics",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "International",
  "s": "open",
  "src": "aas:3349ec10",

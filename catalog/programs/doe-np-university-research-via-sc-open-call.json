@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Federal grant",
- "checked": "2026-09-29",
- "d": null,
- "dt": "Under the FY2026 Open Call, NP subprogram panels considered applications submitted by 2025-11-14, with panels in early 2026. FY2027 panel dates will be in the FY2027 Open Call, not yet posted.",
+ "checked": "2026-10-07",
+ "d": "2026-11-16",
+ "dt": "FY2027 nuclear physics comparative review: applications due Nov 16, 2026, for full consideration. FY2028 HENP comparative review: pre-applications encouraged by Jul 29, 2027; applications due Sep 2, 2027 (panels November 2027). Both under the FY2027 Open Call, DE-FOA-0003665.",
  "e": "University PIs across Medium Energy, Heavy Ion, Nuclear Structure/Astrophysics, Fundamental Symmetries, Theory, Data, Computing, AI/ML, QIS and Detector R&D. Narrative limit is 20 pages; a student tracking table and annual measurable objectives are required.",
  "f": "DOE Office of Science - Nuclear Physics",
  "fields": [
@@ -20,13 +20,18 @@
  ],
  "id": "doe-np-university-research-via-sc-open-call",
  "n": "DOE NP University Research (via SC Open Call)",
+ "nofo": [
+  {
+   "opp": "DE-FOA-0003665",
+   "u": "https://simpler.grants.gov/opportunity/53270f52-3c80-4fe0-bd26-d9411d9b251e"
+  }
+ ],
  "nom": false,
- "s": "watch",
+ "s": "open",
  "stages": [
   "tt",
   "ten"
  ],
  "u": "https://science.osti.gov/np/Funding-Opportunities",
- "unv": "FY2027 NP panel deadline not yet posted; the 2025-11-14 date is from the FY2026 NOFO text",
  "us": false
 }

@@ -8,9 +8,8 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
- "d": "2027-08-01",
- "dt": "Nominations closed; reopen May 1 to Aug 1, 2027",
+ "checked": "2026-10-07",
+ "dt": "Last nomination deadline Aug 4, 2026 (for fellowships starting Jul 1, 2027); the next cycle is not posted yet",
  "e": "Recent PhDs or PhD candidates, nominated by an academic mentor; no self-nomination.",
  "f": "Harvard University",
  "fields": [
@@ -20,11 +19,13 @@
  "n": "Harvard Society of Fellows (Junior Fellows)",
  "nfit": "Low",
  "nom": true,
+ "pt": "prize",
  "region": "US",
  "s": "watch",
  "stages": [
   "pd"
  ],
  "u": "https://socfell.fas.harvard.edu/nomination-procedure",
+ "unv": "Official page blocks automated access (HTTP 403); dates from a search summary of the official nomination page",
  "us": false
 }

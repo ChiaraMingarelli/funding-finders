@@ -8,7 +8,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2026-11-02",
  "dt": "11:59 pm ET",
  "e": "PhD between Jun 2024 and Sep 2027. Includes Rubin-linked tracks.",
@@ -21,6 +21,7 @@
  "n": "KIPAC Fellowships",
  "nfit": "Medium",
  "nom": false,
+ "pt": "prize",
  "region": "US",
  "s": "open",
  "stages": [

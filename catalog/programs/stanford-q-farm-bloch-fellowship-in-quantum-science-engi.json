@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-16",
  "dt": "2026/10/16 23:59:59 (time zone not stated on page)",
  "e": "Fellowship across quantum algorithms, computing, information, materials, optics and sensing; at least four awards. PhD before start (~Autumn 2027).",
@@ -20,6 +20,7 @@
  "id": "stanford-q-farm-bloch-fellowship-in-quantum-science-engi",
  "n": "Stanford Q-FARM: Bloch Fellowship in Quantum Science & Engineering",
  "nom": false,
+ "pt": "prize",
  "s": "open",
  "src": "ajo:32497",
  "stages": [

@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-31",
  "dt": "Oct 31, 2026",
  "e": "Computational and theoretical modeling of X-ray nanophotonics driven by free electrons. Requires a PhD in physics or engineering with electrodynamics and programming skills.",
@@ -17,6 +17,7 @@
  "id": "ntu-singapore-research-fellow-computational-free-electro",
  "n": "NTU Singapore: Research Fellow, computational free-electron X-ray nanophotonics",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3198260",
  "stages": [

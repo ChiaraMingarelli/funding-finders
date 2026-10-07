@@ -26,6 +26,7 @@
  "n": "UCL: Postdoc in high-redshift extragalactic observations (JWST)",
  "nfit": "High",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "aas:57813d20",
@@ -33,5 +34,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/57813d20",
+ "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
  "us": false
 }

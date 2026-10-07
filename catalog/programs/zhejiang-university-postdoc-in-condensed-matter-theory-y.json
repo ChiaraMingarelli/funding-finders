@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "rolling until filled (listed until 2027-03-25)",
  "e": "Correlated electrons, disorder, moire/quantum materials, nonequilibrium dynamics and CM-QI interfaces.",
@@ -18,7 +18,8 @@
  "id": "zhejiang-university-postdoc-in-condensed-matter-theory-y",
  "n": "Zhejiang University: Postdoc in Condensed Matter Theory (Yi-Ming Wu)",
  "nom": false,
- "s": "open",
+ "pt": "group",
+ "s": "rolling",
  "src": "ajo:32838",
  "stages": [
   "pd"

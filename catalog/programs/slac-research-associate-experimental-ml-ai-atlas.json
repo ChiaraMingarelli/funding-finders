@@ -5,7 +5,7 @@
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "review began Feb 20, 2026; open until filled",
  "e": "ML/AI for HEP (TREASURE project: AI-ready data, foundation models) with ATLAS analysis, reconstruction and detector R&D. Recent PhD in experimental particle physics.",
@@ -17,7 +17,8 @@
  "id": "slac-research-associate-experimental-ml-ai-atlas",
  "n": "SLAC: Research Associate, Experimental ML/AI (ATLAS)",
  "nom": false,
- "s": "open",
+ "pt": "group",
+ "s": "rolling",
  "src": "ajo:31664",
  "stages": [
   "pd"

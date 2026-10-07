@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-13",
  "dt": "2026/12/13 23:59:59 (time zone not stated on page)",
  "e": "Surface physics of spin-split 2D Pb films using STM and synchrotron ARPES/XPS; DFT experience a plus.",
@@ -17,6 +17,7 @@
  "id": "karlstad-university-postdoc-rashba-splitting-in-pb-quant",
  "n": "Karlstad University: Postdoc, Rashba splitting in Pb quantum wells",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "ajo:32071",
  "stages": [

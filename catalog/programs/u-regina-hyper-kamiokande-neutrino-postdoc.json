@@ -5,7 +5,7 @@
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-28",
  "dt": "Oct 28, 2026",
  "e": "Construction, commissioning and calibration for Hyper-Kamiokande. Requires a PhD in experimental physics, programming skills and detector experience.",
@@ -17,11 +17,13 @@
  "id": "u-regina-hyper-kamiokande-neutrino-postdoc",
  "n": "U. Regina: Hyper-Kamiokande neutrino postdoc",
  "nom": false,
+ "pt": "group",
  "s": "open",
  "src": "inspire:3208411",
  "stages": [
   "pd"
  ],
  "u": "https://inspirehep.net/jobs/3208411",
+ "unv": "Deadline from INSPIRE 3208411 (open); the Regina employment page does not list the post.",
  "us": false
 }

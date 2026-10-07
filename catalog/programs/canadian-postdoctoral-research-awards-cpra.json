@@ -1,5 +1,5 @@
 {
- "a": "See funder",
+ "a": "$70,000/yr for 24 months",
  "added": "2026-09-29",
  "aud": [
   "yale",
@@ -9,9 +9,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
- "d": "2026-10-17",
- "dt": "Oct 17, 2026 (per coordinator)",
+ "checked": "2026-10-07",
+ "d": "2026-10-19",
+ "dt": "NSERC deadline Oct 17, 8 pm ET; Oct 17, 2026 is a Saturday, so NSERC accepts applications until 8 pm ET on Mon Oct 19, 2026. Institutional deadlines are earlier.",
  "e": "Mainly Canadian citizens/PR; some awards tenable abroad.",
  "f": "Tri-agency (Canada)",
  "fields": [
@@ -21,12 +21,12 @@
  "n": "Canadian Postdoctoral Research Awards (CPRA)",
  "nfit": "Low",
  "nom": false,
+ "pt": "prize",
  "region": "Canada",
  "s": "open",
  "stages": [
   "pd"
  ],
- "u": "https://www.nserc-crsng.gc.ca/",
- "unv": "Date per coordinator; not re-verified",
+ "u": "https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program",
  "us": false
 }

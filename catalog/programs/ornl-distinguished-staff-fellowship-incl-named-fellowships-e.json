@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": "2026-10-16",
- "dt": "Current window closes 2026-10-16 11:59 pm Eastern. Three cycles a year (January, May, September).",
+ "dt": "Current window Sep 1 to Oct 16, 2026, 11:59 pm Eastern. Three cycles a year (January, May, September).",
  "e": "PhD before start and no more than 5 years past the degree at application. Needs a proposal aligned with the ORNL mission.",
  "f": "Oak Ridge National Laboratory",
  "fields": [
@@ -21,11 +21,12 @@
  "id": "ornl-distinguished-staff-fellowship-incl-named-fellowships-e",
  "n": "ORNL Distinguished Staff Fellowship (incl. named fellowships, e.g. Wigner)",
  "nom": false,
+ "pt": "prize",
  "s": "open",
  "stages": [
   "pd"
  ],
- "u": "https://www.ornl.gov/careers/distinguished-fellowships",
- "unv": "Whether the Wigner name is still used within DSF not confirmed on this page",
+ "u": "https://jobs.ornl.gov/job/Oak-Ridge-Distinguished-Staff-Fellowship-Program-TN-37830/1424893900/",
+ "unv": "The program page ornl.gov/careers/distinguished-fellowships returns 404; dates confirmed on the ORNL job posting (requisition 17022), which also names the Wigner Fellows.",
  "us": false
 }

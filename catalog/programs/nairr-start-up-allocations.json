@@ -9,7 +9,7 @@
   "ast"
  ],
  "c": "Compute",
- "checked": "2026-09-29",
+ "checked": "2026-10-07",
  "d": null,
  "dt": "Rolling",
  "e": "US-based researchers. Coordinator-verified.",
@@ -22,6 +22,7 @@
  "n": "NAIRR Start-Up allocations",
  "nfit": "Low",
  "nom": false,
+ "pt": "other",
  "region": "US",
  "s": "rolling",
  "stages": [

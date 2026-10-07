@@ -10,7 +10,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-12-31",
  "dt": "Dec 31, 2026 for full consideration; open until filled, final 2027-03-31",
  "e": "High-energy phenomenology, high-energy theory and theoretical/computational astrophysics and cosmology. Start Sep 1, 2027 (negotiable).",
@@ -23,6 +23,7 @@
  "n": "NCTS Taiwan: Postdoc Scholars, HEP Theory/Phenomenology, Astrophysics & Cosmology",
  "nfit": "Medium",
  "nom": false,
+ "pt": "group",
  "region": "International",
  "s": "open",
  "src": "ajo:32554",

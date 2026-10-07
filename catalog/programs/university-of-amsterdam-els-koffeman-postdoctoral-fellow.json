@@ -12,7 +12,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-09-30",
+ "checked": "2026-10-07",
  "d": "2026-10-18",
  "dt": "Oct 18, 2026, 23:59 CEST",
  "e": "Any field of experimental or theoretical physics; for candidates underrepresented at faculty level. Diversity statement and 3 references required.",
@@ -30,6 +30,7 @@
  "n": "University of Amsterdam: Els Koffeman Postdoctoral Fellowship",
  "nfit": "High",
  "nom": false,
+ "pt": "prize",
  "region": "International",
  "s": "open",
  "src": "ajo:32465",
