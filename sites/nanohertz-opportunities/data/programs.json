@@ -9,6 +9,7 @@
   "a": "Medal + recognition",
   "e": "For undergraduates and graduate students presenting research. The meeting is Jan 10–14, 2027 in Salt Lake City.",
   "u": "https://aas.org/meetings/aas249/abstracts",
+  "unv": "The AAS page returned HTTP 403 on 2026-10-07; whether the Oct 5, 2026 deadline was extended could not be checked.",
   "us": false,
   "nom": false,
   "region": "US",
@@ -31,6 +32,7 @@
   "a": "Travel support",
   "e": "Aimed at groups underrepresented in astronomy.",
   "u": "https://aas.org/meetings/aas249/meeting-grants",
+  "unv": "AAS page returned 403 on Oct 7, 2026; the Nov 2 deadline could not be reconfirmed.",
   "us": false,
   "nom": false,
   "region": "US",
@@ -53,6 +55,7 @@
   "a": "Economy airfare",
   "e": "For people employed at or studying at US institutions.",
   "u": "https://aas.org/grants-and-prizes/international-travel-grants",
+  "unv": "AAS page returned 403 on Oct 7, 2026; round dates could not be reconfirmed.",
   "us": false,
   "nom": false,
   "region": "US",
@@ -77,9 +80,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32878",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -97,9 +101,10 @@
   "u": "https://allocations.access-ci.org/",
   "us": false,
   "nom": false,
+  "pt": "other",
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd",
@@ -121,7 +126,7 @@
   "nom": false,
   "region": "Canada",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr"
@@ -139,8 +144,10 @@
   "a": "not listed; 2 years",
   "e": "Exoplanets, brown dwarfs, star formation, cluster dynamics and more. Contact a curator first.",
   "u": "https://aas.org/jobregister/ad/e7317b1f",
+  "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
@@ -159,11 +166,13 @@
   "a": "Up to $50k in Claude API credits per project",
   "e": "Open to researchers in any science since the Aug 27, 2026 expansion. The older help-center article still shows $20k.",
   "u": "https://www.anthropic.com/news/expanding-support-for-scientists",
+  "unv": "The announcement page does not state the review cadence (first Monday of each month); kept from the earlier check.",
   "us": false,
   "nom": false,
+  "pt": "other",
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -201,7 +210,7 @@
   "a": "Typically a few hundred to ~$1,000+",
   "e": "Students/postdocs presenting at society meetings; membership often required.",
   "u": "https://www.aps.org/",
-  "unv": "Unit-by-unit dates not checked",
+  "unv": "Unit-by-unit dates not checked; aps.org and aas.org returned 403 on Oct 7, 2026.",
   "us": false,
   "nom": false,
   "region": "US",
@@ -229,7 +238,7 @@
   "nom": false,
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "gr",
@@ -241,16 +250,17 @@
   "n": "Ariel University: Postdoc in Cosmology & Theoretical HEP",
   "f": "Ariel University, Physics Department (Ido Ben-Dayan)",
   "c": "Group postdoc",
-  "s": "open",
+  "s": "rolling",
   "dt": "open until filled (listed until 2027-04-01)",
   "a": "2 years, possible 3rd; salary per university matrix",
   "e": "Cosmology, theoretical high-energy physics, dark matter, axions and gravitational physics. PhD in physics or astronomy; CV, publication list, cover letter, 3 letters.",
   "u": "https://academicjobsonline.org/ajo/jobs/31948",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -264,15 +274,16 @@
   "c": "Fellowship",
   "s": "open",
   "d": "2026-11-01",
-  "dt": "Nov 1, 2026",
-  "a": "up to $87,035/yr + $17,000/yr research + $6,000 relocation; 3 years",
+  "dt": "Nov 1, 2026; later applications go to a reserve pool reviewed until filled",
+  "a": "$87,035/yr + $17,000/yr research + $6,000 relocation; 1 year, renewable up to 2 more",
   "e": "How stars and galaxies form and evolve across cosmic time. Requires a PhD.",
   "u": "https://apply.interfolio.com/190307",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -291,9 +302,10 @@
   "u": "https://apply.interfolio.com/193373",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -312,9 +324,10 @@
   "u": "https://apply.interfolio.com/193463",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -335,7 +348,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -356,7 +369,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd",
@@ -376,9 +389,10 @@
   "u": "https://werkenbijastron.nl/job-offer/?o=bell-burnell-postdoctoral-fellowship-1",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -399,7 +413,7 @@
   "nom": false,
   "region": "International",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr"
@@ -419,9 +433,10 @@
   "u": "https://werkenbijastron.nl/job-offer/?o=postdoctoral-researcher-in-radio-stars-and-exoplanets",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -438,8 +453,10 @@
   "a": "~€1,900/month before tax; 1 year, extendable to 2",
   "e": "Galaxies, stars, compact objects, solar physics, GWs and interplanetary matter. Applicants must contact a staff sponsor before Oct 9.",
   "u": "https://aas.org/jobregister/ad/8b7ef074",
+  "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
@@ -460,9 +477,10 @@
   "u": "https://www.hsfoundation.org/programs/science/astronomical-innovation-astronova-fellowship/",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -485,7 +503,7 @@
   "pt": "other",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-10-03",
   "stages": [
    "pd"
@@ -504,9 +522,10 @@
   "u": "https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/",
   "us": false,
   "nom": false,
+  "pt": "other",
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd",
@@ -521,17 +540,16 @@
   "c": "Prize",
   "s": "open",
   "d": "2026-12-02",
-  "dt": "Nomination period Oct 7–Dec 2, 2026; letters of support due Dec 16, 2026.",
+  "dt": "Nominations Oct 7 to Dec 2, 2026 (11:59 pm ET); age-limit exception requests by Nov 11, 2026; letters of support due Dec 16, 2026 (11:59 pm ET).",
   "a": "$30,000 unrestricted to each of 3 laureates; $10,000 to each of 6 finalists",
   "e": "Postdoctoral-rank scientists (doctorate, in a temporary mentored training position) at eligible institutions in New York, New Jersey or Connecticut; no citizenship or residency requirement. Age rule: born in or after 1985* for 2027 (it was 1984 for 2026). *Age-limit exceptions are considered only in exceptional circumstances, on a detailed written request from the nominating institution. Categories: Life Sciences, Physical Sciences & Engineering, Chemical Sciences. Each institution may nominate up to 15; self-nomination not allowed; past finalists can be re-nominated.",
   "u": "https://blavatnikawards.org/awards/regional-awards/nomination-guidelines/",
-  "unv": "The Regional guidelines page still shows the 2026 cycle (born in or after 1984*). The Regional and National cutoffs have matched each cycle, so 1985 is expected for 2027; confirm when the 2027 guidelines are posted.",
   "us": false,
   "nom": true,
   "pt": "other",
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -552,7 +570,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "ug"
@@ -572,9 +590,10 @@
   "u": "https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -595,7 +614,7 @@
   "nom": false,
   "region": "Canada",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr"
@@ -615,9 +634,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32276",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -636,9 +656,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32275",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -655,8 +676,10 @@
   "a": "$75,268–85,000/yr; 3 years",
   "e": "CMB polarization with BICEP/Keck, mm-wave detector development and B-mode analysis.",
   "u": "https://aas.org/jobregister/ad/9bd32e66",
+  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
@@ -678,9 +701,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32787",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -697,6 +721,7 @@
   "a": "$75,268/yr; 2 years, renewable for a third",
   "e": "Galaxy evolution and large-scale structure at cosmic noon with the Roman Space Telescope (IGM tomography, protoclusters, environment at z~2-3). PhD in astronomy, physics or related field by start.",
   "u": "https://aas.org/jobregister/ad/ff862c4f",
+  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
   "us": false,
   "nom": false,
   "pt": "group",
@@ -704,27 +729,6 @@
   "nfit": "Medium",
   "checked": "2026-10-01",
   "added": "2026-10-01",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "caltech-postdoc-in-binary-star-astrophysics",
-  "n": "Caltech: Postdoc in binary star astrophysics",
-  "f": "Caltech PMA; group of Kareem El-Badry; contact Brick Hale",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-11-10",
-  "dt": "Nov 10, 2026",
-  "a": "$76,000–82,000/yr",
-  "e": "Binary and multiple star evolution with Gaia DR4 and Roman. Observational astronomy background needed.",
-  "u": "https://aas.org/jobregister/ad/9677d2aa",
-  "us": false,
-  "nom": false,
-  "region": "US",
-  "nfit": "Medium",
-  "checked": "2026-09-30",
-  "added": "2026-09-30",
   "stages": [
    "pd"
   ]
@@ -742,9 +746,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32426",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -761,8 +766,10 @@
   "a": "$75,268–85,000; 2 years + 3rd",
   "e": "Compact objects, ULXs, AGN, clusters, GRBs and SNRs. X-ray data analysis required; NuSTAR experience preferred.",
   "u": "https://aas.org/jobregister/ad/ca443bb1",
+  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
@@ -782,8 +789,10 @@
   "a": "£37,694–46,049 (RA) or £47,389–59,966 (Senior) + £10k/yr; 3 years",
   "e": "Cosmology and astrophysics, including CMB, galaxies, dark matter, GWs and instrumentation. PhD or thesis submitted by the start.",
   "u": "https://aas.org/jobregister/ad/8c7f51df",
+  "unv": "AAS job-register page blocked (HTTP 403) on 2026-10-07; the KICC ad confirms salary scales and the £10,000/yr allowance (references needed by Oct 20, 2026) but shows no closing date, so Oct 15 is not reconfirmed",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
@@ -808,7 +817,7 @@
   "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -824,12 +833,13 @@
   "dt": "Oct 18, 2026",
   "a": "not listed; up to 36 months",
   "e": "Numerical simulations of accretion onto spinning black holes. Requires a PhD in astrophysics, astronomy or physics.",
-  "u": "https://aas.org/jobregister/ad/25009d1a",
+  "u": "https://camk.edu.pl/en/archiwum/2026/09/04/competition-for-postdoctoral-position-in-numerical-astrophysics/",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -841,17 +851,17 @@
   "f": "Tri-agency (Canada)",
   "c": "Fellowship",
   "s": "open",
-  "d": "2026-10-17",
-  "dt": "Oct 17, 2026 (per coordinator)",
-  "a": "See funder",
+  "d": "2026-10-19",
+  "dt": "NSERC deadline Oct 17, 8 pm ET; Oct 17, 2026 is a Saturday, so NSERC accepts applications until 8 pm ET on Mon Oct 19, 2026. Institutional deadlines are earlier.",
+  "a": "$70,000/yr for 24 months",
   "e": "Mainly Canadian citizens/PR; some awards tenable abroad.",
-  "u": "https://www.nserc-crsng.gc.ca/",
-  "unv": "Date per coordinator; not re-verified",
+  "u": "https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "Canada",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -870,9 +880,10 @@
   "u": "https://apply.interfolio.com/189651",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -891,9 +902,10 @@
   "u": "https://apply.interfolio.com/192639",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -912,9 +924,10 @@
   "u": "https://apply.interfolio.com/192644",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -935,7 +948,7 @@
   "pt": "prize",
   "region": "Canada",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "pd"
@@ -949,15 +962,16 @@
   "c": "Fellowship",
   "s": "open",
   "d": "2026-12-31",
-  "dt": "2026/12/31 (no time given)",
+  "dt": "Applications received by Dec 31, 2026 are fully considered (no time given)",
   "a": "CNY 250,000 + X (negotiable) before tax; 1+1 years",
   "e": "Particle, nuclear, astroparticle and cosmology theory/experiment, quantum computing and AI for theoretical physics. PhD required; applicants must be under 35.",
   "u": "https://academicjobsonline.org/ajo/jobs/32628",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -976,9 +990,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32841",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -995,6 +1010,7 @@
   "a": "About EUR 42,695 gross/yr; 48 months; 4 fellowships",
   "e": "Four independent fellowships in Teruel, Spain, tied to J-PAS, J-PLUS, J-VAR and/or ARRAKIHS, with dual supervision and secondments. Open to all nationalities, but the MSCA mobility rule applies (no more than 12 of the last 36 months in Spain).",
   "u": "https://jtrain.cefca.es/",
+  "unv": "On Oct 7, 2026 jtrain.cefca.es failed with a TLS certificate error and the AAS ad returned 403, so the deadline and terms could not be reconfirmed.",
   "us": false,
   "nom": false,
   "pt": "prize",
@@ -1020,9 +1036,10 @@
   "unv": "Stipend figure is from the general Research Fellowship page",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -1041,9 +1058,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32461",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -1062,9 +1080,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32462",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -1077,15 +1096,16 @@
   "c": "Group postdoc",
   "s": "open",
   "d": "2026-12-04",
-  "dt": "Dec 4, 2026",
-  "a": "not listed; 2 years + 3rd",
+  "dt": "Complete applications by Dec 4, 2026 for full consideration",
+  "a": "$67,600–69,000/yr; 2 years + possible 3rd",
   "e": "EM counterparts, data analysis and ML classification of optical transients. Requires a PhD by appointment.",
   "u": "https://academicpositions.harvard.edu/postings/16785",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -1102,12 +1122,11 @@
   "a": "$27,000 for one year",
   "e": "Domestic students only (Canadian citizens/permanent residents). Funds a research master's at a Canadian university, including radio/pulsar/GW theses.",
   "u": "https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm_eng.asp",
-  "unv": "NSERC page blocked automated fetch; deadline and amount verified on the U of T SGS CGRS M page",
   "us": false,
   "nom": false,
   "region": "Canada",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr"
@@ -1128,7 +1147,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -1150,7 +1169,7 @@
   "nom": true,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "ug"
@@ -1169,9 +1188,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32506",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -1192,7 +1212,7 @@
   "nom": false,
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "ug"
@@ -1206,14 +1226,16 @@
   "c": "Fellowship",
   "s": "open",
   "d": "2026-11-02",
+  "dt": "Nov 2, 2026; start Sep 1, 2027",
   "a": "C$81.5k (National varies by host), 3 yr",
   "e": "Theoretical astrophysics, including GW and compact objects. Start Sep 1, 2027.",
   "u": "https://www.cita.utoronto.ca/opportunities/post-docs/",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "Canada",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -1233,7 +1255,7 @@
   "nom": false,
   "region": "Canada",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "ug"
@@ -1253,9 +1275,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32772",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -1274,9 +1297,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32695",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -1298,7 +1322,7 @@
   "pt": "other",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr",
@@ -1320,9 +1344,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32792",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -1335,15 +1360,16 @@
   "c": "Group postdoc",
   "s": "open",
   "d": "2026-11-15",
-  "dt": "Nov 15, 2026",
+  "dt": "Nov 15, 2026; later expressions of interest may also be considered",
   "a": "3 years",
   "e": "Black-hole binaries in magnetized disks, astrophysical fluid dynamics, compact mergers and GW/multimessenger modeling. Start Fall 2027.",
   "u": "https://academicjobsonline.org/ajo/jobs/32776",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -1362,9 +1388,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32641",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -1385,7 +1412,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "ug"
@@ -1397,44 +1424,44 @@
   "n": "CosmicAI Postdoctoral Fellows",
   "f": "UT Austin / NRAO (NSF-Simons AI Institute)",
   "c": "Fellowship",
-  "s": "watch",
-  "dt": "Last cycle Dec 2025 – Jan 2026",
-  "a": "—",
-  "e": "No 2027 call yet.",
+  "s": "open",
+  "d": "2026-11-23",
+  "dt": "Current posting: CosmicAI Accelerated Universe Postdoctoral Fellow (UT Austin), due Nov 23, 2026",
+  "a": "$80,000/yr stipend + up to $1,000 relocation; 2 years from Sep 1, 2027, renewable for a third",
+  "e": "Postdoctoral fellows at the NSF-Simons AI Institute for Cosmic Origins; the current posting (UT Austin, surrogate modeling of astrophysical systems) splits time 50/50 between CosmicAI research and independent research and needs a PhD awarded Sep 2025-Sep 2027. No citizenship restriction stated.",
   "u": "https://cosmicai.org/jobs",
-  "unv": "2027 call not posted",
+  "unv": "Only one fellow posting is open for this cycle; the posting lists both a 2-year term with a possible third year and a 3-year duration",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "d": null
+  ]
  },
  {
   "id": "daad-rise-germany",
   "n": "DAAD RISE Germany",
   "f": "DAAD (German Academic Exchange Service)",
   "c": "Summer program",
-  "s": "watch",
-  "dt": "Last cycle: applications Oct 15–Nov 30, 2025 (letters Dec 15); 2027 placement dates not yet posted",
+  "s": "open",
+  "d": "2026-11-30",
+  "dt": "Applications Oct 15–Nov 30, 2026, 11:59 pm CET; reference letters due Dec 15, 2026; internships start May 15–Jul 15, 2027",
   "a": "US students: €992/month; Canadian students: CAD $7,000 (via Mitacs); ~3 months",
   "e": "For undergraduates (2+ years completed) at universities in the US, Canada, UK or Ireland, in physics and other sciences. Summer research in Germany, e.g. with PhD-student mentors at MPIfR Bonn or AEI.",
   "u": "https://www.daad.de/rise/en/rise-germany/find-an-internship/what-applicants-need-to-know/",
-  "unv": "2027 application window not yet posted (expected similar Oct–Nov timing, unconfirmed)",
   "us": false,
   "nom": false,
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "ug"
-  ],
-  "d": null
+  ]
  },
  {
   "id": "doe-computational-science-graduate-fellowship-csgf",
@@ -1451,7 +1478,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "gr",
@@ -1473,7 +1500,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "gr"
@@ -1486,16 +1513,16 @@
   "c": "Summer program",
   "s": "open",
   "d": "2027-01-06",
-  "dt": "Jan 6, 2027, 5 pm ET (per coordinator)",
+  "dt": "Summer 2027: opens Oct 14, 2026; applications and recommendations due Jan 6, 2027, 5 pm ET (dates marked tentative)",
   "a": "Paid 10-week internship at a DOE lab",
   "e": "US citizens/PR undergrads or recent grads in STEM.",
   "u": "https://science.osti.gov/wdts/suli",
-  "unv": "Summer date not yet shown on SULI page (only Spring 2027 listed)",
+  "unv": "SULI Key Dates page says all dates are tentative and subject to change",
   "us": true,
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "ug"
@@ -1509,7 +1536,7 @@
   "s": "open",
   "d": "2026-11-15",
   "dt": "Deadline 15 Nov 2026",
-  "a": "TV-L pay scale; 2 years with possible 2-year extension",
+  "a": "TV-L E13 (gross €59,324–84,319/yr); 2 years, start Mar 1, 2027",
   "e": "Postdoc in Brandt Gaches' Emmy Noether group modeling how cosmic rays interact with icy dust grains. Needs a PhD in astrophysics, physics, chemistry or related field and C/C++/Fortran skills; no citizenship limits stated.",
   "u": "https://www.uni-due.de/karriere/stelle.php?kennziffer=461-26",
   "us": false,
@@ -1517,7 +1544,7 @@
   "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -1538,7 +1565,7 @@
   "nom": false,
   "region": "Canada",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "ug",
@@ -1557,13 +1584,12 @@
   "a": "CAD 74,922/yr + CAD 10,000/yr research allowance; 2 years, extendable subject to funding",
   "e": "Postdoc in Suresh Sivanandam's group building and testing a compact optical ground station with photonic adaptive optics for classical and quantum space-to-ground links, including on-sky tests. PhD in astronomy, physics, photonics, engineering or related field; no citizenship limits stated.",
   "u": "https://academicjobsonline.org/ajo/UofT/Dunlap/PDF_OGS2026",
-  "unv": "PhD-date window assumed to match the sister photonics posting; not confirmed on this ad",
   "us": false,
   "nom": false,
   "pt": "group",
   "region": "Canada",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -1585,7 +1611,7 @@
   "pt": "group",
   "region": "Canada",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -1608,7 +1634,7 @@
   "pt": "other",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-10-03",
   "stages": [
    "pd"
@@ -1627,9 +1653,10 @@
   "u": "https://www.eacoa.net/job/",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -1640,23 +1667,23 @@
   "n": "Effelsberg 100-m Radio Telescope Call for Proposals (1 March 2027 deadline)",
   "f": "Max Planck Institute for Radio Astronomy (MPIfR)",
   "c": "Observing time",
-  "s": "watch",
-  "dt": "Last deadline 1 Sep 2026, 15:00 UT. The September 2026 Effelsberg Newsletter says 'The following deadline will be on March 1st, 2027.' ToO/DDT requests are possible at any time.",
+  "s": "open",
+  "d": "2027-03-01",
+  "dt": "Next deadline 1 March 2027 (stated in the September 2026 Effelsberg Newsletter); last deadline was 1 Sep 2026, 15:00 UT. ToO/DDT requests are possible at any time.",
   "a": "Observing time on the 100-m Effelsberg radio telescope, judged by the Effelsberg Program Committee on scientific merit and feasibility, and submitted through NorthStar. MPIfR offers support with preparation, observing and data analysis.",
   "e": "MPIfR's regular call for the Effelsberg 100-m single dish. 'Access to the telescope is open to all qualified astronomers', and use by scientists from outside MPIfR is encouraged.",
   "u": "https://www.mpifr-bonn.mpg.de/9468614/eff-news-autumn2026.pdf",
-  "unv": "The March 2027 call text is not yet released; the date is from the September 2026 newsletter. MPIfR's general astronomers page still lists an older schedule of three deadlines a year (1 Feb, 1 Jun, 1 Oct), which conflicts with the newsletter. Grad-student PI status was not checked.",
+  "unv": "The March 2027 call text is not yet released; the date and time of day are from the September 2026 newsletter. MPIfR's general astronomers page still lists an older schedule of three deadlines a year (1 Feb, 1 Jun, 1 Oct), which conflicts with the newsletter. Grad-student PI status was not checked.",
   "us": false,
   "nom": false,
   "pt": "other",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-10-03",
   "stages": [
    "pd"
-  ],
-  "d": null
+  ]
  },
  {
   "id": "ens-paris-philippe-meyer-junior-research-chairs",
@@ -1671,9 +1698,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32283",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -1689,12 +1717,13 @@
   "a": "See host institution",
   "e": "About 160 postdocs a year across nine partner universities; you must be hosted at a partner university.",
   "u": "https://www.schmidtsciences.org/ai-in-science/",
-  "unv": "Partner list and deadlines not on page",
+  "unv": "Partner universities are shown only as logos (links suggest Chicago, Cornell, Imperial, Michigan, NTU, NUS, Oxford, UC San Diego, Toronto); deadlines are set by each partner and not on page.",
   "us": false,
   "nom": false,
-  "region": "US",
+  "pt": "prize",
+  "region": "International",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -1714,9 +1743,10 @@
   "u": "https://recruitment.eso.org/",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -1737,7 +1767,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr"
@@ -1748,24 +1778,24 @@
   "n": "European VLBI Network (EVN) Call for Proposals, 1 April 2027 deadline",
   "f": "European VLBI Network / JIVE",
   "c": "Observing time",
-  "s": "watch",
-  "dt": "Last deadline 1 Oct 2026, 16:00 UTC. From 2027 the EVN moves to two calls a year with deadlines on 1 April and 1 October, so the next regular deadline is 1 April 2027. ToO and short requests may be sent at any time.",
+  "s": "open",
+  "d": "2027-04-01",
+  "dt": "Next regular deadline 1 April 2027: the October 2026 call says that from 2027 the deadlines are 1 April and 1 October each year. Last deadline was 1 Oct 2026, 16:00 UTC. ToO and short requests may be sent at any time.",
   "a": "VLBI observing time on the EVN, optionally with joint e-MERLIN and global VLBI on NRAO/GBO telescopes, plus MeerKAT and GMRT at L-band. From 2027 the EVN observes in 10 one-week sessions a year. JIVE offers user support.",
   "e": "Open call from an international VLBI consortium. 'The EVN facility is open to all astronomers', except that PIs and co-Is at institutes in Russia or Belarus are currently barred. Student proposals are encouraged.",
   "u": "https://www.evlbi.org/sites/default/files/shared/EVNCfP.pdf",
-  "unv": "The April 2027 call document is not yet released; the date comes from the stated new fixed schedule.",
+  "unv": "The April 2027 call document is not yet released, so the time of day is not confirmed.",
   "us": false,
   "nom": false,
   "pt": "other",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-10-03",
   "stages": [
    "pd",
    "gr"
-  ],
-  "d": null
+  ]
  },
  {
   "id": "fast-open-time-2027",
@@ -1795,44 +1825,45 @@
   "n": "Fermilab Leon Lederman Fellowship",
   "f": "Fermilab",
   "c": "Fellowship",
-  "s": "watch",
-  "dt": "The 2026 call (AJO fellowship #30895) closed 2025-11-12. The 2027 call is not yet posted; Fermilab posts details 'when a new opening becomes available'.",
+  "s": "open",
+  "d": "2026-11-04",
+  "dt": "Nov 4, 2026, 23:59 (AJO #32904, posted Oct 1, 2026)",
   "a": "3-year appointment, extendable up to 2 more years.",
-  "e": "Experimental PhD within about 1 year of the deadline, or finishing about 6 months after it. Includes an outreach commitment.",
-  "u": "https://www.fnal.gov/pub/forphysicists/fellowships/leon_lederman/index.html",
-  "unv": "2027 cycle deadline not posted (a fall 2026 call is likely)",
+  "e": "For candidates with a PhD in experimental particle physics, astrophysics or a related field earned after Sep 1, 2025, or expected by Sep 1, 2027. Includes an outreach commitment.",
+  "u": "https://academicjobsonline.org/ajo/jobs/32904",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "d": null
+  ]
  },
  {
   "id": "fermilab-theory-division-research-associate",
   "n": "Fermilab Theory Division Research Associate",
   "f": "Fermilab",
   "c": "Fellowship",
-  "s": "watch",
-  "dt": "The 2025-26 call closed 2025-11-21 (INSPIRE listing). The next call would usually be posted in fall 2026.",
-  "a": "Postdoc appointment; terms not verified.",
+  "s": "open",
+  "d": "2026-11-20",
+  "dt": "Nov 20, 2026, 11:59 pm ET (including letters); for appointments starting fall 2027",
+  "a": "3-year postdoctoral appointment",
   "e": "Recent PhDs in particle theory, cosmology or quantum theory.",
-  "u": "https://theory.fnal.gov/",
-  "unv": "2026 call not yet posted; deadline taken from an INSPIRE listing",
+  "u": "https://academicjobsonline.org/ajo/jobs/32971",
+  "unv": "Salary not stated in the ad",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "d": null
+  ]
  },
  {
   "id": "finca-turku-postdoctoral-researcher-positions",
@@ -1842,7 +1873,7 @@
   "s": "open",
   "d": "2026-10-30",
   "dt": "Deadline Oct 30, 2026 16:00 EET",
-  "a": "about EUR 3,500-3,900/month; 3-year fixed term",
+  "a": "about EUR 3,700-4,000/month; 3-year fixed term",
   "e": "Independent research in observational astronomy themes (cosmology, AGN, galaxy evolution, transients, compact binaries, planets), with priority on ESO facilities. PhD no more than five years before the deadline (plus parental leave).",
   "u": "https://ats.talentadore.com/apply/1-2-tutkijatohtorin-maaraaikaista-tehtavaa-suomen-eso-keskuksella/ZAYvbj?lang=en",
   "us": false,
@@ -1850,7 +1881,7 @@
   "pt": "prize",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "pd"
@@ -1863,17 +1894,17 @@
   "c": "Fellowship",
   "s": "open",
   "d": "2027-01-01",
-  "dt": "Deadline 1 Jan 2027",
+  "dt": "Review of applications begins Jan 1, 2027 and continues until the position is filled",
   "a": "$65,000/yr; 3 years, non-extendable",
   "e": "Fellowship in the Five College Astronomy Department pairing observational research (possibly with the Large Millimeter Telescope) with undergraduate mentoring. PhD (or anticipated) in astronomy, planetary science, physics or related field; no citizenship limits stated.",
   "u": "https://mtholyoke.wd504.myworkdayjobs.com/External/job/Mount-Holyoke-College---Main-Campus/Five-College-Astronomy-Department-Fellow_R-0000003668",
-  "unv": "Whether the fellow sets an independent research program or works in a host group is not fully clear from the ad",
-  "us": true,
+  "unv": "Teaching and research fellowship: two undergraduate courses a year plus the fellow's own proposed research project",
+  "us": false,
   "nom": false,
   "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -1893,7 +1924,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -1914,7 +1945,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -1936,7 +1967,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -1956,7 +1987,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -1970,9 +2001,9 @@
   "c": "Faculty job",
   "s": "rolling",
   "dt": "Review begins Oct 5, 2026; open until filled",
-  "a": "Assistant Professor, tenure-track",
+  "a": "Assistant Professor, tenure-track; $87,000–$91,000",
   "e": "Open to all subfields of physics and astronomy at a liberal-arts college. Start July 2027.",
-  "u": "https://jobs.physicstoday.org/job/41979771/",
+  "u": "https://apply.interfolio.com/190460",
   "us": false,
   "nom": false,
   "region": "US",
@@ -1998,7 +2029,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -2021,7 +2052,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -2042,7 +2073,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -2053,9 +2084,9 @@
   "n": "Calvin University: Assistant Professor (Astronomy)",
   "f": "Dept. of Physics & Astronomy, Calvin University",
   "c": "Faculty job",
-  "s": "open",
+  "s": "rolling",
   "d": "2026-12-01",
-  "dt": "Deadline Dec 1, 2026",
+  "dt": "Official ad: review began immediately and continues until filled; the AAS listing gave Dec 1, 2026",
   "a": "Assistant Professor, regular (tenure-track) faculty",
   "e": "Astronomy research with undergraduates. Start Aug 2027; 2028/2029 starts considered.",
   "u": "https://calvin.wd5.myworkdayjobs.com/en-US/CalvinUniversityCareers/job/Physics-Astronomy-Faculty_R-4917",
@@ -2063,7 +2094,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -2091,28 +2122,6 @@
   ]
  },
  {
-  "id": "fj-college-of-the-holy-cross-tt-asst-prof-theoretical-or",
-  "n": "College of the Holy Cross: TT Asst Prof, Theoretical or Computational Physics",
-  "f": "Dept. of Physics, College of the Holy Cross",
-  "c": "Faculty job",
-  "s": "rolling",
-  "dt": "Full-consideration date (Sep 25, 2026) has passed; listing still active",
-  "a": "Assistant Professor, tenure-track",
-  "e": "Theoretical or computational physics at a liberal-arts college. Start Aug 2027.",
-  "u": "https://jobs.physicstoday.org/job/41983458/",
-  "unv": "Unclear whether applications are still reviewed after Sep 25",
-  "us": false,
-  "nom": false,
-  "region": "US",
-  "nfit": "Low",
-  "checked": "2026-10-01",
-  "added": "2026-10-01",
-  "stages": [
-   "fj"
-  ],
-  "d": null
- },
- {
   "id": "fj-columbia-flatiron-ap-computational-cmt",
   "n": "Columbia University / Flatiron CCQ: Assistant Professor, Computational Quantum Condensed Matter",
   "f": "Columbia University and Simons Foundation Flatiron Institute",
@@ -2126,7 +2135,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -2170,7 +2179,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -2191,7 +2200,7 @@
   "nom": false,
   "region": "US",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -2212,7 +2221,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -2233,7 +2242,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -2251,11 +2260,12 @@
   "a": "Tenure-track Assistant Professor (5-yr contract)",
   "e": "All research topics, including astro-ph and gr-qc. Postdoc experience required. Apply by email.",
   "u": "https://physics.elte.hu/",
+  "unv": "physics.elte.hu could not be reached on Oct 7, 2026; deadline and open-until-filled wording confirmed on the INSPIRE listing.",
   "us": false,
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -2266,17 +2276,17 @@
   "n": "Florida Gulf Coast Univ.: Assistant Professor, Physics",
   "f": "Physics, Florida Gulf Coast University",
   "c": "Faculty job",
-  "s": "open",
+  "s": "rolling",
   "d": "2026-11-15",
-  "dt": "Deadline Nov 15, 2026",
+  "dt": "Priority consideration by Nov 15, 2026; open until filled",
   "a": "Assistant Professor, tenure-track",
   "e": "Undergraduate-focused physics position. No subfield is specified.",
-  "u": "https://apptrkr.com/9844303",
+  "u": "https://jobs.fgcu.edu/jobs/assistant-professor-physics-fort-myers-florida-united-states-0f5fed66-bd15-47d8-aa30-9110abd475df",
   "us": false,
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -2293,6 +2303,7 @@
   "a": "Tenure-track or tenured",
   "e": "All areas of astronomy and astrophysics. Apply by email as given in the ad.",
   "u": "https://aas.org/jobregister/ad/3d08f53b",
+  "unv": "The AAS Job Register page returned HTTP 403 on 2026-10-07, so the posting was not rechecked.",
   "us": false,
   "nom": false,
   "region": "International",
@@ -2318,7 +2329,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -2339,7 +2350,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -2361,7 +2372,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -2382,7 +2393,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -2403,7 +2414,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -2425,7 +2436,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -2447,7 +2458,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -2469,7 +2480,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -2491,7 +2502,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -2512,7 +2523,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -2535,7 +2546,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -2556,7 +2567,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -2598,7 +2609,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -2661,7 +2672,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -2682,7 +2693,7 @@
   "nom": false,
   "region": "US",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -2699,6 +2710,7 @@
   "a": "Assistant Professor, tenure-track",
   "e": "Any area of astronomy/astrophysics, with a research program that involves undergraduates.",
   "u": "https://mcdaniel.interviewexchange.com/jobofferdetails.jsp?JOBID=205255",
+  "unv": "The host ad (interviewexchange.com) and the AAS listing were blocked (403) on Oct 7, 2026; dates not rechecked.",
   "us": false,
   "nom": false,
   "region": "US",
@@ -2724,7 +2736,7 @@
   "nom": false,
   "region": "Canada",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -2745,7 +2757,7 @@
   "nom": false,
   "region": "Canada",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -2766,7 +2778,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -2787,7 +2799,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -2830,7 +2842,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -2851,7 +2863,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -2872,7 +2884,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -2893,7 +2905,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -2914,7 +2926,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -2931,7 +2943,7 @@
   "a": "Entry-level faculty about INR 2,45,410/month (higher levels by experience); 4 positions",
   "e": "Faculty roles at NCRA's radio telescope facility, with about 75% of time on user support, telescope operations and instrumentation and 25% on research. Needs a PhD and radio telescope/data experience; no citizenship limits stated.",
   "u": "https://www.ncra.tifr.res.in/jobs/academic/faculty",
-  "unv": "The ad mentions a 5+ year initial term (extendable) but does not say whether the track is tenure-track",
+  "unv": "The NCRA faculty pages still show the Jan 1 to Jun 30, 2026 evaluation period and do not show the Dec 31, 2026 deadline; the AAS ad could not be opened (403) on Oct 7, 2026. The ad mentions a 5+ year initial term (extendable) but does not say whether the track is tenure-track.",
   "us": false,
   "nom": false,
   "region": "International",
@@ -2953,6 +2965,7 @@
   "a": "Entry-level faculty (about 5 yrs postdoc expected); higher ranks possible",
   "e": "Radio astronomy (GMRT home), plus other areas with synergy.",
   "u": "https://www.ncra.tifr.res.in/jobs/academic/faculty",
+  "unv": "The NCRA faculty page still shows the Jan 1 to Jun 30, 2026 evaluation period and does not show the Dec 31, 2026 deadline; the AAS ad could not be opened (403) on Oct 7, 2026.",
   "us": false,
   "nom": false,
   "region": "International",
@@ -2974,6 +2987,7 @@
   "a": "Tenure-track; entry-level about INR 2,45,410/month; 5+ year initial term, extendable; 4 positions",
   "e": "Four tenure-track faculty roles developing instruments, software or algorithms for radio astronomy, combining independent research with facility support. Needs a PhD and a strong record in radio-astronomy technology; no citizenship limits stated.",
   "u": "https://www.ncra.tifr.res.in/jobs/academic/faculty",
+  "unv": "The NCRA faculty pages still show the Jan 1 to Jun 30, 2026 evaluation period and do not show the Dec 31, 2026 deadline; the AAS ad could not be opened (403) on Oct 7, 2026.",
   "us": false,
   "nom": false,
   "region": "International",
@@ -3000,7 +3014,7 @@
   "nom": false,
   "region": "International",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3043,7 +3057,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -3055,7 +3069,7 @@
   "f": "Institute of Physics, National Yang Ming Chiao Tung University",
   "c": "Faculty job",
   "s": "rolling",
-  "dt": "No deadline stated",
+  "dt": "Review begins Oct 28, 2026; open until filled",
   "a": "Assistant/Associate/Full Professor",
   "e": "Astronomy is especially welcome (observational cosmology, galaxy formation, multi-messenger).",
   "u": "https://academicjobsonline.org/ajo/jobs/32260",
@@ -3063,7 +3077,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3106,7 +3120,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3127,7 +3141,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -3149,7 +3163,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -3170,7 +3184,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -3212,7 +3226,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3232,7 +3246,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3254,7 +3268,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3276,7 +3290,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -3289,15 +3303,15 @@
   "c": "Faculty job",
   "s": "rolling",
   "d": "2026-10-15",
-  "dt": "Priority to applications by Oct 15, 2026",
+  "dt": "Priority to applications by Oct 15, 2026; open until filled",
   "a": "Assistant Professor, tenure-track",
   "e": "All areas of physics considered; areas that complement current faculty are preferred.",
-  "u": "https://jobs.physicstoday.org/job/41989294/",
+  "u": "https://marylandconnect.wd1.myworkdayjobs.com/en-US/su_careers/job/Salisbury-University/Assistant-Professor---Physics_JR102106",
   "us": false,
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3318,7 +3332,7 @@
   "nom": false,
   "region": "International",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3338,7 +3352,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -3382,7 +3396,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -3403,7 +3417,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -3424,7 +3438,7 @@
   "nom": false,
   "region": "International",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3445,7 +3459,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3466,7 +3480,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -3483,6 +3497,7 @@
   "a": "Assistant Professor, tenure-track",
   "e": "Solar/interplanetary physics and space weather; computational heliophysics with AI/ML.",
   "u": "https://aas.org/jobregister/ad/e0906a12",
+  "unv": "The AAS Job Register page returned HTTP 403 on 2026-10-07, so the posting was not rechecked.",
   "us": false,
   "nom": false,
   "region": "US",
@@ -3529,7 +3544,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -3550,7 +3565,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3563,7 +3578,7 @@
   "c": "Faculty job",
   "s": "open",
   "d": "2026-11-16",
-  "dt": "Deadline Nov 16, 2026 (AJO)",
+  "dt": "Review begins Nov 16, 2026; open until filled",
   "a": "Assistant or Associate Professor (tenure-track/tenured)",
   "e": "Theory, computation and/or observation of the 'Extreme Universe', including multi-messenger/time-domain and high-energy/plasma astrophysics. Links to KICP, LIGO, Rubin, SPT.",
   "u": "https://academicjobsonline.org/ajo/jobs/32618",
@@ -3571,7 +3586,7 @@
   "nom": false,
   "region": "US",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3584,7 +3599,7 @@
   "c": "Faculty job",
   "s": "open",
   "d": "2026-11-16",
-  "dt": "Deadline Nov 16, 2026 (AJO)",
+  "dt": "Review begins Nov 16, 2026; open until filled",
   "a": "Assistant or Associate Professor",
   "e": "Observational astrophysics relevant to the origins of life, tied to the Chicago Center for the Origins of Life; access to Magellan and GMT.",
   "u": "https://academicjobsonline.org/ajo/jobs/32619",
@@ -3592,7 +3607,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3614,7 +3629,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -3626,8 +3641,8 @@
   "f": "Dept. of Physics & Astronomy, UNC Chapel Hill",
   "c": "Faculty job",
   "s": "open",
-  "d": "2026-11-16",
-  "dt": "Closes Nov 16, 2026",
+  "d": "2026-11-19",
+  "dt": "Upload materials by Nov 16, 2026, when review begins; posting closes Nov 19, 2026",
   "a": "Assistant Professor, tenure-track",
   "e": "AI/ML for large astronomical datasets: real-time transient detection, survey-scale inference and faint-signal extraction from imaging/time-series. Time-domain and data-intensive.",
   "u": "https://unc.peopleadmin.com/postings/325834",
@@ -3635,7 +3650,7 @@
   "nom": false,
   "region": "US",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3656,7 +3671,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3677,7 +3692,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3698,7 +3713,7 @@
   "nom": false,
   "region": "International",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3719,7 +3734,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3730,18 +3745,17 @@
   "n": "Univ. of Michigan: Assistant Professor of Physics",
   "f": "Dept. of Physics, University of Michigan",
   "c": "Faculty job",
-  "s": "open",
+  "s": "rolling",
   "d": "2026-11-01",
-  "dt": "Deadline Nov 1, 2026 (INSPIRE)",
+  "dt": "Review begins Nov 1, 2026; later applications accepted",
   "a": "Assistant Professor, tenure-track",
   "e": "Open to all subfields of physics; AI and the physics of learning are encouraged. Start Aug 25, 2027.",
   "u": "https://apply.interfolio.com/188444",
-  "unv": "Details from the INSPIRE/Physics Today listing; the Interfolio page is JS-only",
   "us": false,
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3762,7 +3776,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3773,17 +3787,17 @@
   "n": "Univ. of Richmond: Assistant Professor of Physics",
   "f": "Dept. of Physics, University of Richmond",
   "c": "Faculty job",
-  "s": "open",
-  "dt": "No deadline in the listing; the Physics Today ad runs to Oct 6, 2026",
-  "a": "Assistant Professor, tenure-track",
+  "s": "rolling",
+  "dt": "Review began Oct 1, 2026; open until filled",
+  "a": "Assistant Professor, tenure-track; starting salary budgeted at $85,000",
   "e": "All subfields of physics and applied physics, theory or experiment. Start 2027-28.",
   "u": "https://jobs.richmond.edu",
-  "unv": "Application deadline not stated; posting is on jobs.richmond.edu",
+  "unv": "jobs.richmond.edu could not be reached; the ad text (review from Oct 1, open until filled) was confirmed on Inside Higher Ed Careers. The Physics Today listing has expired.",
   "us": false,
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3805,7 +3819,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3826,7 +3840,7 @@
   "nom": false,
   "region": "International",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3846,7 +3860,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3868,7 +3882,7 @@
   "nom": false,
   "region": "Canada",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -3973,7 +3987,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -3995,7 +4009,7 @@
   "nom": false,
   "region": "US",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -4016,7 +4030,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -4033,6 +4047,7 @@
   "a": "Assistant Professor, tenure-track",
   "e": "Observational astronomy; ISM, dust evolution and star/planet formation preferred.",
   "u": "https://apptrkr.com/9774400",
+  "unv": "Official Interview Exchange ad (via apptrkr.com) returned 403 on Oct 7, 2026; deadline not reconfirmed",
   "us": false,
   "nom": false,
   "region": "US",
@@ -4058,7 +4073,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -4079,7 +4094,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -4100,7 +4115,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -4121,7 +4136,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -4142,7 +4157,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -4162,7 +4177,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -4184,7 +4199,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "fj"
@@ -4205,7 +4220,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "fj"
@@ -4224,9 +4239,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32795",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -4239,14 +4255,16 @@
   "c": "Fellowship",
   "s": "open",
   "d": "2026-10-31",
+  "dt": "Oct 31, 2026 (all materials, including letters)",
   "a": "$95k, 2+1 yr",
   "e": "Covers computational astrophysics, including the CCA gravitational-wave group. A software research fellow track is also posted.",
   "u": "https://academicjobsonline.org/ajo/jobs/32794",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -4267,7 +4285,7 @@
   "nom": false,
   "region": "Canada",
   "nfit": "Medium",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr"
@@ -4289,7 +4307,7 @@
   "nom": false,
   "region": "Canada",
   "nfit": "Medium",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr"
@@ -4312,7 +4330,7 @@
   "pt": "other",
   "region": "Canada",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr",
@@ -4328,15 +4346,14 @@
   "d": "2026-10-08",
   "dt": "2027–28 competition: Oct 8, 2026, 4:00 pm ET",
   "a": "$45,000/yr for 6 months–2 years; +$10,000/yr if held outside Québec",
-  "e": "Canadian citizens/PRs with a valid RAMQ card; must move to an institution other than the PhD institution. Can fund a Québec postdoc held in Québec or elsewhere, including at a NANOGrav or CHIME institution.",
+  "e": "Canadian citizens and permanent residents with a valid RAMQ card may hold it in Québec or elsewhere; other applicants must hold it in Québec. Must move to an institution other than the PhD institution.",
   "u": "https://frq.gouv.qc.ca/programme/bourses-postdoctorales-2027-2028-b3/",
-  "unv": "Summary page wording on non-citizens is ambiguous; check program rules",
   "us": false,
   "nom": false,
   "pt": "prize",
   "region": "Canada",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "pd"
@@ -4353,8 +4370,10 @@
   "a": "competitive; 2 years, extendable to 3",
   "e": "Accretion, lensing, cosmology, galaxy formation, planet formation and AI in astrophysics. Requires a PhD within 5 years of the start.",
   "u": "https://aas.org/jobregister/ad/2f04eb74",
+  "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
@@ -4368,23 +4387,22 @@
   "n": "Gates Cambridge Scholarship (US round)",
   "f": "Gates Cambridge Trust",
   "c": "Fellowship",
-  "s": "watch",
-  "dt": "US round typically mid-Oct (via Cambridge grad application)",
+  "s": "open",
+  "d": "2026-10-14",
+  "dt": "Oct 14, 2026, 11:59pm UK time (full application incl. references)",
   "a": "Full cost of Cambridge postgraduate study",
-  "e": "Non-UK citizens applying to full-time Cambridge postgraduate degrees.",
-  "u": "https://www.gatescambridge.org/apply/",
-  "unv": "2027-entry US-round date not confirmed",
-  "us": false,
+  "e": "For US citizens living in the US who apply to a full-time Cambridge postgraduate degree; this is an earlier round, separate from the main round. US citizens studying or working abroad apply in the main round instead.",
+  "u": "https://www.gatescambridge.org/apply/timeline/",
+  "us": true,
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "ug",
    "gr"
-  ],
-  "d": null
+  ]
  },
  {
   "id": "gbt-observer-training-workshop",
@@ -4402,7 +4420,7 @@
   "pt": "other",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr",
@@ -4425,7 +4443,7 @@
   "nom": true,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "ug"
@@ -4438,16 +4456,16 @@
   "c": "Summer program",
   "s": "open",
   "d": "2026-11-02",
-  "dt": "Nov 2, 2026 (per coordinator); program launches summer 2027 with 20 positions",
-  "a": "Paid summer research internship",
-  "e": "Undergraduates; new program announced Aug 21, 2026.",
-  "u": "https://goldwaterscholarship.gov/",
-  "unv": "Deadline not shown on Goldwater homepage; per coordinator",
-  "us": false,
+  "dt": "Nov 2, 2026; interns announced Jan 15, 2027; program runs summer 2027 with 20 positions",
+  "a": "$10,500 for a 10-week internship (interns budget their own meals, housing and travel)",
+  "e": "Paid 10-week summer research internships for college freshmen and sophomores in chemistry, computing, engineering, life sciences, and physics and astronomy. US citizens and permanent residents only.",
+  "u": "https://www.goldwaterinternship.gov/",
+  "unv": "Time of day for the deadline is not stated",
+  "us": true,
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "ug"
@@ -4465,9 +4483,10 @@
   "u": "https://cloud.google.com/edu/researchers",
   "us": false,
   "nom": false,
+  "pt": "other",
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd",
@@ -4491,7 +4510,7 @@
   "pt": "other",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr",
@@ -4515,7 +4534,7 @@
   "nom": true,
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "gr"
@@ -4538,7 +4557,7 @@
   "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -4557,9 +4576,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32741",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -4578,9 +4598,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32754",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -4593,15 +4614,16 @@
   "c": "Fellowship",
   "s": "open",
   "d": "2026-11-15",
-  "dt": "Nov 15, 2026",
+  "dt": "Nov 15, 2026, 6 pm EST; letters same time",
   "a": "$73,000–76,000; 1 year, extendable 2 more",
   "e": "Search for interstellar objects and UAP with Rubin Observatory data. Requires a PhD by appointment.",
   "u": "https://academicpositions.harvard.edu/postings/16798",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -4614,15 +4636,16 @@
   "c": "Fellowship",
   "s": "open",
   "d": "2026-11-01",
-  "dt": "6 pm EST; letters same day",
+  "dt": "Nov 1, 2026, 6 pm EST; letters same time",
   "a": "$87.5k–89.5k, 1 yr renewable to 3",
   "e": "For theory and computation. PhD by Sep 1, 2027.",
   "u": "https://academicpositions.harvard.edu/postings/16741",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -4634,20 +4657,22 @@
   "f": "Harvard University",
   "c": "Fellowship",
   "s": "watch",
-  "d": "2027-08-01",
-  "dt": "Nominations closed; reopen May 1 to Aug 1, 2027",
+  "dt": "Last nomination deadline Aug 4, 2026 (for fellowships starting Jul 1, 2027); the next cycle is not posted yet",
   "a": "3-yr stipend + research budget",
   "e": "Recent PhDs or PhD candidates, nominated by an academic mentor; no self-nomination.",
   "u": "https://socfell.fas.harvard.edu/nomination-procedure",
+  "unv": "Official page blocks automated access (HTTP 403); dates from a search summary of the official nomination page",
   "us": false,
   "nom": true,
+  "pt": "prize",
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "hertz-fellowship-2027",
@@ -4664,7 +4689,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "gr",
@@ -4682,11 +4707,13 @@
   "a": "competitive + relocation/childcare allowances; 2 years, extendable",
   "e": "Independent theoretical/computational research in an interdisciplinary institute (simulation, data).",
   "u": "https://aas.org/jobregister/ad/09fe3cd2",
+  "unv": "AAS page blocked by Cloudflare on 2026-10-07; deadline confirmed from search-indexed copies of the ad",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -4699,15 +4726,15 @@
   "c": "Fellowship",
   "s": "watch",
   "dt": "Next call opens Nov 15, 2026 and closes once it has 800 applications",
-  "a": "Monthly stipend for 6 to 24 months in Germany",
+  "a": "€3,000/month stipend plus benefits, for 6 to 24 months in Germany",
   "e": "PhD within the last 4 yrs, with a German host; non-German researchers.",
   "u": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
-  "unv": "Call date per coordinator",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -4725,11 +4752,13 @@
   "a": "R$12,570/month; 1 year, renewable",
   "e": "SWGO detector simulations for gamma-ray arrays. Requires a PhD in physics or astronomy with simulation and coding skills.",
   "u": "https://fapesp.br/oportunidades/explorando-desenhos-de-detectores-cherenkov-em-%C3%81gua-%E2%80%93-de-dupla-camada-%E2%80%93-para-o-swgo:-aproximando-o-ao-ctao/9059/",
+  "unv": "INSPIRE marks its listing closed (deadline field Sep 30, 2026); the FAPESP listing still gives Dec 31, 2026.",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -4748,9 +4777,10 @@
   "u": "https://academicjobsonline.org/ajo/MIT/IAIFI/FELLOW",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -4767,8 +4797,10 @@
   "a": "Stipend + housing eligibility; sabbatical stipends vary",
   "e": "Postdoctoral members (3 yr), long-term members/Bahcall Fellows, visiting professorships for faculty within 10 yrs of PhD, and sabbaticals for senior scientists. Theory-focused.",
   "u": "https://www.ias.edu/sns/apply",
+  "unv": "ias.edu returned 403 on 2026-10-07; Nov 15, 2026 deadline confirmed only by third-party listings",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-29",
@@ -4790,9 +4822,10 @@
   "u": "https://ictp-ap.org/form/92",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -4814,7 +4847,7 @@
   "pt": "prize",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -4833,9 +4866,10 @@
   "u": "https://inspirehep.net/jobs/3131172",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -4853,9 +4887,10 @@
   "u": "https://inspirehep.net/jobs/3149734",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -4867,16 +4902,17 @@
   "n": "IHEP Beijing: Postdocs in Neutrino Physics",
   "f": "Institute of High Energy Physics, CAS, Experimental Physics Division, Neutrino Group (Yi Jia)",
   "c": "Group postdoc",
-  "s": "open",
+  "s": "rolling",
   "dt": "interviews ongoing until filled",
   "a": "CNY 300,000-500,000/yr before tax; 2 years + 1-2 renewal",
   "e": "Reactor neutrino oscillation measurements, diffuse supernova neutrino background, supernova burst neutrinos and core-collapse simulation. International applicants welcome; Chinese not required.",
   "u": "https://academicjobsonline.org/ajo/jobs/29978",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -4899,7 +4935,7 @@
   "nom": false,
   "region": "International",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "ug"
@@ -4920,7 +4956,7 @@
   "nom": false,
   "region": "International",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr"
@@ -4940,8 +4976,8 @@
   "us": false,
   "nom": false,
   "region": "International",
-  "nfit": "Medium",
-  "checked": "2026-10-01",
+  "nfit": "High",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr"
@@ -4982,9 +5018,10 @@
   "unv": "2027 cycle dates not posted",
   "us": true,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -5005,7 +5042,7 @@
   "nom": false,
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "gr",
@@ -5023,12 +5060,13 @@
   "dt": "Nov 8, 2026",
   "a": "not listed; 2 years, extendable",
   "e": "Research at mm wavelengths plus NOEMA science operations. Needs observational experience; driver's license and high-altitude medical clearance required.",
-  "u": "https://aas.org/jobregister/ad/cb4df8d3",
+  "u": "https://iram-institute.org/careers/job-offers/job-offers-vn2026-08-postdoctoral-research-positions-in-millimeter-astronomy-for-noema/",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -5044,8 +5082,10 @@
   "a": "not listed; 2 years, extensible to 3",
   "e": "SPIRou studies of M-dwarf planetary systems and T Tauri magnetic topologies. Background in stellar spectropolarimetry/velocimetry needed.",
   "u": "https://aas.org/jobregister/ad/1fa6ba25",
+  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, and no host ad was found, so it is unknown whether the posting is still open after the Oct 4, 2026 deadline.",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-10-07",
@@ -5068,9 +5108,10 @@
   "u": "https://ista.ac.at/en/education/postdocs/sirius-fellowship",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -5092,7 +5133,7 @@
   "pt": "group",
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -5112,30 +5153,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32881",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
-  "added": "2026-09-30",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "jpl-jwst-high-contrast-imaging-data-analysis-postdoc",
-  "n": "JPL: JWST high-contrast imaging data analysis postdoc",
-  "f": "Jet Propulsion Laboratory, Exoplanet Systems group; contact Geoffrey Bryden",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-10-09",
-  "dt": "Oct 9, 2026",
-  "a": "$83,820/yr; 2 years + 1",
-  "e": "JWST coronagraphy reduction, phase retrieval and forward modeling for Roman/HWO. Requires high-contrast imaging and Python experience.",
-  "u": "https://www.jpl.jobs/job/R5931/Postdoc-JWST-High-Contrast-Imaging-Data-Analysis",
-  "us": false,
-  "nom": false,
-  "region": "US",
-  "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -5157,7 +5178,7 @@
   "pt": "group",
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -5176,9 +5197,10 @@
   "u": "https://academicjobsonline.org/ajo/UTokyo/KavliIPMU/PD2026",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -5196,9 +5218,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32184",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -5239,9 +5262,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32418",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -5260,9 +5284,10 @@
   "u": "https://academicjobsonline.org/ajo/Stanford/KIPAC/FELLOWS",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -5281,9 +5306,10 @@
   "u": "https://www.kitp.ucsb.edu/apply/fellowships/postdoctoral-scholars-theoretical-physics",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -5301,9 +5327,10 @@
   "u": "https://inspirehep.net/jobs/3198255",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -5325,7 +5352,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr",
@@ -5349,7 +5376,7 @@
   "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -5368,9 +5395,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32681",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -5381,16 +5409,17 @@
   "n": "LIGO Laboratory: Instrument/Experiment Postdoc",
   "f": "LIGO Laboratory, Caltech/MIT (Rana Adhikari, Lee McCuller, Matt Evans, Nergis Mavalvala)",
   "c": "Group postdoc",
-  "s": "open",
+  "s": "rolling",
   "dt": "open until filled",
   "a": "1 year, renewable up to 2 more",
   "e": "Detector R&D and operations: quantum noise reduction, cryogenic interferometry, ML feedback control, suspensions; based at Caltech, MIT, Hanford or Livingston.",
   "u": "https://academicjobsonline.org/ajo/jobs/29381",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -5407,6 +5436,7 @@
   "a": "—",
   "e": "No current posting found.",
   "u": "https://www.ligo.caltech.edu/page/postdocs",
+  "unv": "Official LIGO postdocs page returned 503 on Oct 7, 2026. On AJO, the data-analysis posting (#30721) is closed; the instrument/experiment posting (#29381, from Dec 2024, no deadline) still shows Apply.",
   "us": false,
   "nom": false,
   "pt": "group",
@@ -5429,7 +5459,7 @@
   "a": "Summer stipend + travel",
   "e": "Open to US and international students. For continuing undergraduates.",
   "u": "https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/applicants-info.shtml",
-  "unv": "2027 date",
+  "unv": "2027 date not posted; official page unreachable (HTTP 503/timeout) on 2026-10-07",
   "us": false,
   "nom": false,
   "region": "US",
@@ -5453,9 +5483,10 @@
   "u": "https://lims.ac.uk/jobs/arnold--landau-fellows/",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -5473,8 +5504,10 @@
   "a": "TV-L E13; 4 years (extensible)",
   "e": "Cosmology, structure formation and extragalactic transients. Requires a PhD plus first postdoc experience or exceptional independence.",
   "u": "https://aas.org/jobregister/ad/06255dfe",
+  "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
@@ -5489,16 +5522,17 @@
   "f": "Los Alamos National Laboratory, CTA",
   "c": "Group postdoc",
   "s": "open",
-  "d": "2026-10-11",
-  "dt": "Oct 11, 2026",
+  "d": "2026-11-30",
+  "dt": "Nov 30, 2026 for the winter 2027 fellowship round; other positions by Feb 2, 2027",
   "a": "min $97,000; 2 years + 3rd",
   "e": "Theory and computation: supernovae, kilonovae, GRBs, accretion, stars and cosmology. PhD within 5 years with simulation experience.",
   "u": "https://lanl.jobs/search/jobdetails/astrophysics-postdoctoral-researcher/53d46566-456a-46a9-8107-755a725b2849",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -5517,9 +5551,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32729",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -5536,8 +5571,10 @@
   "a": "French public research scale; 2 years",
   "e": "HI in nearby galaxies: imaging, deconvolution and hyperspectral analysis. Requires a PhD and strong Python.",
   "u": "https://aas.org/jobregister/ad/01fbe942",
+  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
@@ -5557,8 +5594,10 @@
   "a": "French public research scale; 2 years",
   "e": "Scalable, energy-efficient signal processing for SKA (imaging, GPU optimization). Requires a PhD with Python/HPC skills.",
   "u": "https://aas.org/jobregister/ad/c4281ec5",
+  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
@@ -5573,16 +5612,16 @@
   "f": "LSST Discovery Alliance",
   "c": "Training",
   "s": "watch",
-  "dt": "Last call Mar 2026",
+  "dt": "Last deadline Mar 27, 2026 (2026 cohort); the next call is not posted yet",
   "a": "Six one-week schools over 2 yr",
   "e": "Data science training for astronomy graduate students.",
   "u": "https://lsstdiscoveryalliance.org/lsst-discovery-alliance-programs/data-science-fellowship/",
-  "unv": "next call",
+  "unv": "Official program page blocked automated access; last deadline taken from the LSST-DA announcement on the Rubin Community Forum; next call not posted",
   "us": false,
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "gr"
@@ -5600,8 +5639,10 @@
   "a": "$80,000/yr + $12,000/yr; 2 years",
   "e": "AI/ML methods for Rubin LSST data. PhD awarded Jan 2019–Aug 2027 with a record of AI/ML data-intensive research.",
   "u": "https://aas.org/jobregister/ad/8bd99c92",
+  "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
@@ -5627,7 +5668,7 @@
   "pt": "group",
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -5646,9 +5687,10 @@
   "unv": "2027 call dates not posted",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -5666,11 +5708,13 @@
   "a": "€5,011.96/month; 2 years",
   "e": "AI/ML applications for rare-event searches with cryogenic detectors. Requires a PhD in particle or astroparticle physics with an AI/ML background.",
   "u": "https://www.oeaw.ac.at/jobs?jh=uy5i0affp3iqf8t6bwrmcvptsjrjvhk",
+  "unv": "OeAW job page returned 403 on Oct 7, 2026; deadline taken from the INSPIRE listing (a third-party repost gave an Aug 15, 2026 window).",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -5692,7 +5736,7 @@
   "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -5714,7 +5758,7 @@
   "pt": "other",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-10-03",
   "stages": [
    "pd",
@@ -5735,9 +5779,10 @@
   "u": "https://miller.berkeley.edu/nominate-apply/miller-research-fellowship",
   "us": false,
   "nom": true,
+  "pt": "prize",
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -5756,9 +5801,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32742",
   "us": false,
   "nom": true,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -5777,9 +5823,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32743",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -5820,9 +5867,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32518",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -5841,9 +5889,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32370",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -5862,9 +5911,10 @@
   "u": "https://physics.mit.edu/research/pappalardo-fellowships-in-physics/competition/",
   "us": false,
   "nom": true,
+  "pt": "prize",
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -5883,9 +5933,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32631",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -5906,7 +5957,7 @@
   "pt": "prize",
   "region": "Canada",
   "nfit": "Low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr",
@@ -5930,7 +5981,7 @@
   "pt": "other",
   "region": "Canada",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr",
@@ -5954,7 +6005,7 @@
   "nom": false,
   "region": "Canada",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "ug"
@@ -5977,7 +6028,7 @@
   "pt": "prize",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "pd"
@@ -5991,7 +6042,7 @@
   "s": "open",
   "d": "2026-10-27",
   "dt": "Applications close 27 Oct 2026",
-  "a": "About US$86,195–116,981/yr incl. 17% superannuation; 2 years, possibly extendable",
+  "a": "AUD 86,195–116,981 + 17% superannuation; 2 years, possibly extendable",
   "e": "Postdoc on kilonova and collapsar r-process transients with Monash's observational transient group and OzGrav, using multi-wavelength and multi-messenger data. Open to PhDs in astrophysics or related fields; no citizenship limits stated.",
   "u": "https://careers.pageuppeople.com/513/cw/en/job/698298/research-fellow",
   "us": false,
@@ -5999,7 +6050,7 @@
   "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -6018,9 +6069,10 @@
   "u": "https://inspirehep.net/jobs/3208682",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -6037,8 +6089,10 @@
   "a": "German civil-service rates (as for MPA postdocs); 4 years, not extendable",
   "e": "FYST polarization analysis: TB/EB correlations, dust and polarization-angle signals. Background in CMB/submm polarization analysis wanted.",
   "u": "https://aas.org/jobregister/ad/7885b453",
+  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
@@ -6060,9 +6114,10 @@
   "u": "https://www.mpa-garching.mpg.de/postdoc2026",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "pd"
@@ -6075,15 +6130,16 @@
   "c": "Group postdoc",
   "s": "open",
   "d": "2026-10-15",
-  "dt": "Oct 15, 2026",
+  "dt": "Full consideration Sep 15, 2026; later applications considered until Oct 15, 2026 if unfilled",
   "a": "TVöD Bund E14; 3 years, extendable to 5",
   "e": "Nanoparticle mass spectrometry in the SRET ion trap for ISM chemistry. Hands-on UHV, laser and RF-ion-trap experience needed.",
   "u": "https://recruitingapp-5257.de.umantis.com/Vacancies/710/Application/CheckLogin/2?lang=eng",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -6102,9 +6158,10 @@
   "u": "https://postdocprogram.mpg.de/node/58457",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -6121,8 +6178,10 @@
   "a": "TVöD E14; 3 years",
   "e": "Independent exoplanet research plus Roman coronagraph, SPHERE+ and ELT/METIS/PCS direct-imaging projects. Requires a PhD in astronomy or a related field.",
   "u": "https://aas.org/jobregister/ad/87a62a5a",
+  "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
@@ -6144,9 +6203,10 @@
   "u": "https://postdocprogram.mpg.de/node/58458",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -6163,8 +6223,10 @@
   "a": "TVöD E14; 3 years",
   "e": "Extreme AO for ELT/PCS: wavefront sensing, control algorithms and DM characterization. Optics/instrumentation experience needed.",
   "u": "https://postdocprogram.mpg.de/node/58468",
+  "unv": "The MPG postdoc program page lists the September 2026 application round but no closing date, and the AAS ad returned 403 on Oct 7, 2026; Oct 13 not reconfirmed.",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
@@ -6184,8 +6246,10 @@
   "a": "TVöD E14; 4 years (prize fellowship)",
   "e": "Galaxy evolution from Milky Way stars to high-z quasars. Requires a PhD in astronomy or a related field.",
   "u": "https://aas.org/jobregister/ad/1d7c9bc2",
+  "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
@@ -6205,8 +6269,10 @@
   "a": "TVöD E14; 3 years",
   "e": "Star formation science within the PFE program. PhD in astronomy, physics, chemistry or related.",
   "u": "https://aas.org/jobregister/ad/07007ae4",
+  "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
@@ -6228,9 +6294,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32732",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -6248,9 +6315,10 @@
   "u": "https://nairrpilot.org/",
   "us": false,
   "nom": false,
+  "pt": "other",
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd",
@@ -6270,9 +6338,10 @@
   "u": "https://nairrpilot.org/",
   "us": false,
   "nom": false,
+  "pt": "other",
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd",
@@ -6290,12 +6359,12 @@
   "a": "Student-led research award",
   "e": "The student writes the proposal and the advisor acts as mentor.",
   "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/",
-  "unv": "ROSES-26 not released",
+  "unv": "ROSES-2026 not released as of Oct 7, 2026; FINESST last appeared in ROSES-2025 (due Jul 14, 2026)",
   "us": false,
   "nom": false,
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "gr"
@@ -6338,9 +6407,10 @@
   "u": "https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -6352,17 +6422,16 @@
   "f": "NASA",
   "c": "Summer program",
   "s": "open",
-  "d": "2027-02-26",
-  "dt": "Feb 26, 2027 (per coordinator)",
+  "d": "2027-03-01",
+  "dt": "Summer 2027: Mar 1, 2027, 11:59 pm ET; Fall 2027: May 24, 2027, 11:59 pm ET",
   "a": "Paid internship",
   "e": "US citizens; minimum GPA applies.",
   "u": "https://intern.nasa.gov/",
-  "unv": "Date per coordinator; not re-verified",
   "us": true,
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "ug",
@@ -6382,9 +6451,10 @@
   "u": "https://npp.orau.org/",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -6401,8 +6471,10 @@
   "a": "min NTD 65,800/month; 1 year, renewable to 4",
   "e": "Numerical methods for gravitational equations and solar-system dynamics. Needs a PhD in physics, math or CS with ODE-numerics skills.",
   "u": "https://aas.org/jobregister/ad/5238c7ed",
+  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
@@ -6418,15 +6490,16 @@
   "c": "Fellowship",
   "s": "open",
   "d": "2026-11-01",
-  "dt": "Nov 1, 2026",
+  "dt": "Nov 1, 2026 (NRC deadlines are quarterly: Feb 1, May 1, Aug 1, Nov 1)",
   "a": "not listed",
   "e": "High-energy astrophysics, GRBs, pulsars and instrumentation. Requires a PhD and US citizenship or permanent residency.",
-  "u": "http://nrc58.nas.edu/RAPLab10/Opportunity/Program.aspx?LabCode=64",
+  "u": "https://nrc58.nas.edu/RAPLab10/Opportunity/Program.aspx?LabCode=64",
   "us": true,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -6449,7 +6522,7 @@
   "pt": "prize",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "pd"
@@ -6468,9 +6541,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32554",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -6492,7 +6566,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "gr",
@@ -6515,7 +6589,7 @@
   "pt": "group",
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -6534,9 +6608,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32507",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -6555,9 +6630,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32643",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -6576,9 +6652,10 @@
   "u": "https://academicjobsonline.org/ajo/fellowship/32622",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -6600,7 +6677,7 @@
   "pt": "other",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-10-03",
   "stages": [
    "pd",
@@ -6623,7 +6700,7 @@
   "nom": false,
   "region": "US",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr"
@@ -6644,7 +6721,7 @@
   "nom": false,
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "ug",
@@ -6666,7 +6743,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr"
@@ -6688,7 +6765,7 @@
   "nom": false,
   "region": "US",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr"
@@ -6703,14 +6780,15 @@
   "s": "open",
   "d": "2026-10-28",
   "dt": "Oct 28, 2026, 11:59 pm EDT (letters Nov 11)",
-  "a": "$75,000 + $17,000/yr research; 2 years",
+  "a": "Typical starting salary $75,000 + $17,000/yr for research and travel; 2 to 3 years",
   "e": "Radio astronomy science, techniques, instrumentation or theory using NRAO facilities. At most 5 years postdoc at the start.",
   "u": "https://science.nrao.edu/opportunities/postdoctoral-programs/jansky",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -6721,17 +6799,17 @@
   "n": "NRAO Post-Baccalaureate Fellowship",
   "f": "NSF NRAO",
   "c": "Fellowship",
-  "s": "watch",
-  "dt": "2026 deadline was May 4, 2026; next cycle not announced",
+  "s": "rolling",
+  "dt": "Applications received by May 4, 2026 got full consideration; the page says applications are still accepted until the position is filled",
   "a": "Stipend up to 1 year + moving allowance + funded AAS meeting attendance",
   "e": "US citizens or permanent residents only, who have recently finished a bachelor's and plan a PhD in astronomy or a related field. 9–12 months at Socorro, Charlottesville or Green Bank, a bridge into radio/pulsar PhD work.",
   "u": "https://science.nrao.edu/opportunities/student-programs/nrao-post-baccalaureate-fellowship",
-  "unv": "Whether a 2027 cycle will run is not stated",
+  "unv": "The page has not been updated since spring 2026, so the position may already be filled; no 2027 cycle is announced",
   "us": true,
   "nom": false,
   "region": "US",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "ug"
@@ -6753,7 +6831,7 @@
   "nom": false,
   "region": "US",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr",
@@ -6775,7 +6853,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr"
@@ -6790,14 +6868,15 @@
   "s": "open",
   "d": "2026-11-06",
   "dt": "Nov 6, 2026",
-  "a": "full salary + research/travel/relocation; up to 5 years",
+  "a": "Full salary plus research, travel and relocation support; 3 years, extendable by 2 years",
   "e": "Early-career SKA science, radio instrumentation and pathfinder work. Needs an endorsement and faculty sponsor from the host institution.",
   "u": "https://nrc.canada.ca/en/corporate/careers/canadian-ska-scientist-program-call-applications",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "Canada",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -6816,9 +6895,10 @@
   "u": "https://recruitment-recrutement.nrc-cnrc.gc.ca/job-invite/26055/",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "Canada",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -6837,9 +6917,10 @@
   "u": "https://recruitment-recrutement.nrc-cnrc.gc.ca/job-invite/26131/",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "Canada",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -6861,7 +6942,7 @@
   "pt": "prize",
   "region": "Canada",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "pd"
@@ -6884,7 +6965,7 @@
   "pt": "group",
   "region": "Canada",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -6897,16 +6978,15 @@
   "c": "Fellowship",
   "s": "open",
   "d": "2026-10-19",
-  "dt": "Oct 19, 2026 (per coordinator)",
-  "a": "See NSERC",
+  "dt": "Direct applications to NSERC due Oct 17, 8 pm ET; Oct 17, 2026 is a Saturday, so the deadline moves to 8 pm ET on Mon Oct 19, 2026. Applicants applying through a Canadian institution face an earlier institutional deadline.",
+  "a": "$40,000/yr for 36 months",
   "e": "Canadian citizens/PR; tenable abroad under certain conditions.",
-  "u": "https://www.nserc-crsng.gc.ca/",
-  "unv": "Date per coordinator; not re-verified on NSERC page",
+  "u": "https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program",
   "us": false,
   "nom": false,
   "region": "Canada",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "gr"
@@ -6927,7 +7007,7 @@
   "nom": false,
   "region": "Canada",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "ug"
@@ -6947,9 +7027,10 @@
   "u": "https://www.nsf.gov/funding/opportunities/aapf-nsf-astronomy-astrophysics-postdoctoral-fellowships",
   "us": true,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "nofo": [
    {
     "opp": "22-621",
@@ -6976,7 +7057,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "gr",
@@ -6998,7 +7079,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "nofo": [
    {
     "opp": "23-601",
@@ -7024,9 +7105,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32872",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7043,8 +7125,10 @@
   "a": "€48k gross/yr + €5k/yr environment; 2 years",
   "e": "Independent research in Earth and Universe sciences; also listed on the LIGO LAAC job board. Requires prior postdoc work outside OCA.",
   "u": "https://aas.org/jobregister/ad/6076de03",
+  "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
@@ -7066,9 +7150,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32448",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7087,9 +7172,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32814",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7110,7 +7196,7 @@
   "nom": false,
   "region": "Canada",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr"
@@ -7128,8 +7214,10 @@
   "a": "not listed; 2+1 years",
   "e": "Theory and simulation in high-energy astrophysics and exoplanets. Requires a PhD and strong computational skills.",
   "u": "https://aas.org/jobregister/ad/9ab70683",
+  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
@@ -7151,9 +7239,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32694",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7175,7 +7264,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "gr",
@@ -7195,9 +7284,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32553",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7232,15 +7322,16 @@
   "c": "Fellowship",
   "s": "open",
   "d": "2026-11-06",
-  "dt": "23:59",
-  "a": "3 yr (named fellowships 4 yr)",
+  "dt": "Consideration begins Nov 6, 2026 (23:59); applications accepted until all positions are filled",
+  "a": "CAD 79,000 starting salary; 3 yr (named fellowships 4 yr)",
   "e": "Theoretical physics, including strong gravity, cosmology, quantum and condensed matter theory.",
   "u": "https://academicjobsonline.org/ajo/PI/Research/2027PDF",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "Canada",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -7256,7 +7347,7 @@
   "a": "Summer school: travel, accommodation and food provided, no fee; internship is paid (up to 15 weeks)",
   "e": "For undergraduates planning to start a physics graduate program in 2027 or later; nationality limits not stated. Theory-focused, but useful for GW and cosmology theory.",
   "u": "https://perimeterinstitute.ca/undergraduate-summer-programs",
-  "unv": "International eligibility not explicitly stated",
+  "unv": "Official page returned 403 on 2026-10-07; International eligibility not explicitly stated",
   "us": false,
   "nom": false,
   "region": "Canada",
@@ -7277,7 +7368,7 @@
   "dt": "Applications for 2027–28 entry open October 2026",
   "e": "Intensive one-year theoretical-physics master's with no application fee. Mainly relevant to students heading toward GW, cosmology or gravity theory.",
   "u": "https://perimeterinstitute.ca/training/masters-program/psi-how-apply",
-  "unv": "Deadline, tuition/stipend coverage and international eligibility not shown on page",
+  "unv": "The Perimeter Institute page blocked automated access (HTTP 403) on Oct 7, 2026; deadline, tuition/stipend coverage and international eligibility not confirmed.",
   "us": false,
   "nom": false,
   "region": "Canada",
@@ -7299,12 +7390,13 @@
   "a": "Last cycle $77k, 3 yr",
   "e": "Postdoc positions in gravitational physics and GW astrophysics.",
   "u": "https://gravity.princeton.edu/job-opportunities",
-  "unv": "2026 call not posted",
+  "unv": "2026 call not found; the program page and Princeton/AAS job pages returned HTTP 403 on Oct 7, 2026",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -7324,9 +7416,10 @@
   "u": "https://apply.interfolio.com/193062",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7347,7 +7440,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "ug"
@@ -7367,9 +7460,10 @@
   "u": "https://inspirehep.net/jobs/3171411",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7383,14 +7477,15 @@
   "s": "open",
   "d": "2026-10-14",
   "dt": "Oct 14, 2026",
-  "a": "not listed; 2 years",
+  "a": "€3,706–5,760 gross/month (scale 10); 2 years",
   "e": "Mathematical and theoretical physics of irreversibility, entropy and chaos. Requires a PhD or equivalent.",
   "u": "https://www.ru.nl/en/working-at/job-opportunities/postdoc-positions-origins-of-irreversibility",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7401,43 +7496,21 @@
   "n": "Rhodes Scholarship (US, 2027)",
   "f": "Rhodes Trust",
   "c": "Fellowship",
-  "s": "watch",
-  "dt": "US deadline typically early Oct; institutional endorsement required",
+  "s": "open",
+  "d": "2026-10-07",
+  "dt": "Applications and references close Oct 7, 2026, 11:59 pm ET; campus endorsement usually required",
   "a": "Graduate study at Oxford",
   "e": "US citizens, typically seniors/recent grads under age limit.",
-  "u": "https://www.rhodeshouse.ox.ac.uk/",
-  "unv": "2026 US deadline not confirmed (page 404)",
+  "u": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/united-states/",
   "us": true,
   "nom": true,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "ug"
-  ],
-  "d": null
- },
- {
-  "id": "riken-ithems-postdocs-in-string-theory-qft-ml",
-  "n": "RIKEN iTHEMS: Postdocs in String Theory, QFT & ML",
-  "f": "RIKEN iTHEMS, Division of Fundamental Mathematical Science (Yuta Hamada; director Satoshi Iso)",
-  "c": "Group postdoc",
-  "s": "open",
-  "dt": "open until filled (first round Apr 30, 2026 JST); listed until 2027-03-18",
-  "a": "~JPY 480,000+/month; 1-year contracts renewable to Mar 2031",
-  "e": "String theory, machine learning, quantum gravity and QFT. Doctorate by hire date; start ASAP.",
-  "u": "https://academicjobsonline.org/ajo/jobs/31692",
-  "us": false,
-  "nom": false,
-  "region": "International",
-  "nfit": "High",
-  "checked": "2026-09-30",
-  "added": "2026-09-30",
-  "stages": [
-   "pd"
-  ],
-  "d": null
+  ]
  },
  {
   "id": "rodger-doxsey-travel-prize-aas-249",
@@ -7449,7 +7522,7 @@
   "a": "Travel + registration waiver",
   "e": "For final-year students giving a dissertation talk, and postdocs within 1 year of the PhD.",
   "u": "https://aas.org/grants-and-prizes/rodger-doxsey-travel-prize",
-  "unv": "2026 date not posted",
+  "unv": "AAS page returned 403 on Oct 7, 2026; the AAS 249 deadline is not confirmed.",
   "us": false,
   "nom": false,
   "region": "US",
@@ -7468,16 +7541,17 @@
   "f": "Schmidt Science Fellows",
   "c": "Fellowship",
   "s": "watch",
-  "dt": "Current cycle closed; next opens ~spring 2027 (institutional nomination)",
+  "dt": "Last final application deadline Jul 13, 2026 (2027 fellows); the next cycle is not posted yet. Candidates need an institutional nomination.",
   "a": "Stipend for 1 to 2 yrs of interdisciplinary postdoc",
   "e": "PhD candidates/recent PhDs nominated by invited institutions, pivoting into a new field.",
   "u": "https://schmidtsciencefellows.org/",
-  "unv": "2027 dates per coordinator",
+  "unv": "Official site pages could not be read (404 on apply pages); 2026 dates from university announcements of the 2027 call.",
   "us": false,
   "nom": true,
+  "pt": "prize",
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -7493,14 +7567,14 @@
   "d": "2027-03-15",
   "dt": "Next deadline Mar 15, 2027 (spring cycle); the fall deadline is Oct 1",
   "a": "Astronomy designated awards up to $5,000; members: grad $500–$5,000, undergrad $500–$2,000; non-members up to $1,000",
-  "e": "For undergraduate and graduate students (members and non-members). Small research grants for travel to observatories, equipment or data costs on pulsar/PTA projects.",
+  "e": "Small research grants for undergraduate and graduate students (members and non-members) to cover travel to research sites, equipment or other research costs; designated National Academy of Sciences funds support astronomy research, e.g. pulsar or PTA projects.",
   "u": "https://www.sigmaxi.org/programs/grants-in-aid-of-research",
   "unv": "International-student eligibility not stated",
   "us": false,
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "gr",
@@ -7519,9 +7593,10 @@
   "u": "https://www.simonsfoundation.org/grant/simons-society-of-fellows-nominations/",
   "us": false,
   "nom": true,
+  "pt": "prize",
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -7541,9 +7616,10 @@
   "u": "https://academicjobsonline.org/ajo/SkAIInstitute/PDASSOCIATE",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -7554,22 +7630,23 @@
   "n": "SLAC Panofsky Fellowship",
   "f": "SLAC National Accelerator Laboratory",
   "c": "Fellowship",
-  "s": "watch",
-  "dt": "SLAC says the 2027 call will be 'announced by late September' with a deadline 'anticipated to be in mid-November' 2026. The 2026 deadline was 2025-11-14.",
+  "s": "open",
+  "d": "2026-11-30",
+  "dt": "2027 Panofsky Fellowship application due Nov 30, 2026",
   "a": "5-year Associate Staff Scientist appointment with research support; review for continuing staff at or before the end.",
   "e": "Early-career PhDs; postdoc experience not strictly required. Fields across the SLAC mission, including particle physics and astrophysics.",
   "u": "https://cro.slac.stanford.edu/career-pathways/panofsky-fellowship",
-  "unv": "Exact 2026 deadline not yet posted",
+  "unv": "The page links only the past application site; the 2027 application link was not confirmed",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
-  ],
-  "d": null
+  ]
  },
  {
   "id": "slac-postdoctoral-research-associate-particle-theory-gro",
@@ -7584,9 +7661,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32870",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7603,8 +7681,10 @@
   "a": "13,263 PLN/month; up to 48 months",
   "e": "Model local interstellar medium interactions seen in IBEX/IMAP neutral atoms. Requires a PhD and Python/C/C++ or Mathematica.",
   "u": "https://aas.org/jobregister/ad/48ea5448",
+  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
@@ -7620,16 +7700,16 @@
   "c": "Summer program",
   "s": "open",
   "d": "2027-01-15",
-  "dt": "Jan 15, 2027 (per coordinator)",
+  "dt": "Applications open Nov 2, 2026; full application due Jan 15, 2027, 11:59 pm EST (per program-details page)",
   "a": "Paid 10-week internship in DC area",
   "e": "SPS member undergrads.",
-  "u": "https://www.spsnational.org/programs/internships",
-  "unv": "Date per coordinator; not re-verified",
+  "u": "https://students.aip.org/internships/program-details",
+  "unv": "The internships overview page says applications are open Nov 2, 2026 - Jan 5, 2027, which conflicts with the Jan 15, 2027 due date on the program-details page",
   "us": false,
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "ug"
@@ -7648,9 +7728,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32589",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7669,9 +7750,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32623",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7688,12 +7770,13 @@
   "a": "$84,875/yr; up to 3 years, non-extendable",
   "e": "Independent fellowship at STScI for research combining data science (large databases, ML, statistics, image processing) with astronomy, astrophysics or planetary science. PhD in astronomy, physics or related field by start; no citizenship limits stated.",
   "u": "https://stsci.slideroom.com/#/permalink/program/91301/56TDfZ4aqB",
+  "unv": "STScI fellowships page (Oct 7, 2026) lists the Lasker Fellowship as open with an Oct 29, 2026 deadline; salary and the data-science framing not re-confirmed (SlideRoom and AAS pages not readable)",
   "us": true,
   "nom": false,
   "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -7712,9 +7795,10 @@
   "u": "https://inspirehep.net/jobs/3204650",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7733,9 +7817,10 @@
   "u": "https://phy.sustech.edu.cn/faculty/detail/id/5298.html?lang=en-us",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7754,9 +7839,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32225",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7775,9 +7861,10 @@
   "u": "https://inspirehep.net/jobs/3188738",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7796,9 +7883,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32303",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7817,9 +7905,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32597",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7830,23 +7919,23 @@
   "n": "Trottier Space Institute (McGill) Postdoctoral Fellowships",
   "f": "Trottier Space Institute, McGill University",
   "c": "Fellowship",
-  "s": "watch",
-  "dt": "2026 call closed Dec 1, 2025; 2027-start call not yet posted (previous cycles had December 1 deadlines)",
+  "s": "open",
+  "d": "2026-12-01",
+  "dt": "Dec 1, 2026 (all materials, including letters), for 2027 start",
   "a": "Competitive salary and benefits; 2 years, possible 3rd",
   "e": "Open to all nationalities, with preference for applicants within 3 years of the PhD. Independent fellowship in McGill astrophysics, home of a major pulsar/FRB/CHIME radio group. Applicants are encouraged to also apply for a CITA National Fellowship held at McGill.",
-  "u": "https://tsi.mcgill.ca/index.php?page=opportunities",
-  "unv": "2027 posting, deadline and salary not yet published",
+  "u": "https://tsi.mcgill.ca/index.php?page=opening-2027-postdoctoral-fellowships",
+  "unv": "Salary not stated (\"competitive salary and benefits\")",
   "us": false,
   "nom": false,
   "pt": "prize",
   "region": "Canada",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "pd"
-  ],
-  "d": null
+  ]
  },
  {
   "id": "tsi-summer-undergraduate-research-award-mcgill",
@@ -7863,7 +7952,7 @@
   "nom": false,
   "region": "Canada",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "ug"
@@ -7881,11 +7970,13 @@
   "a": "not listed; 2 years + 3rd",
   "e": "Two fellowships across cosmology, galaxies, high-energy, GW, exoplanet, radio and time-domain astrophysics. Requires a PhD in physics or astronomy.",
   "u": "https://aas.org/jobregister/ad/5fa2601e",
+  "unv": "AAS page blocked by Cloudflare on 2026-10-07; deadline confirmed from search-indexed copies of the ad",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7898,15 +7989,17 @@
   "c": "Group postdoc",
   "s": "open",
   "d": "2026-10-15",
-  "dt": "Oct 15, 2026",
-  "a": "not listed; 3 years (start Jan 2027)",
+  "dt": "Oct 15, 2026 for full consideration",
+  "a": "not listed; 3 years (start Jan or Feb 2027)",
   "e": "IceCube neutrino observatory calibration. Requires a PhD in experimental or astroparticle physics.",
   "u": "https://www.ph.nat.tum.de/cosmic-particles",
+  "unv": "The ad is on INSPIRE only; the TUM group page lists no openings.",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7928,7 +8021,7 @@
   "pt": "prize",
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -7947,9 +8040,10 @@
   "u": "https://inspirehep.net/jobs/3205034",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "Canada",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -7969,7 +8063,7 @@
   "nom": false,
   "region": "Canada",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "ug"
@@ -7989,9 +8083,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32620",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "Canada",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -8010,9 +8105,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32533",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "Canada",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -8025,15 +8121,16 @@
   "c": "Group postdoc",
   "s": "open",
   "d": "2026-12-01",
-  "dt": "Dec 1, 2026",
-  "a": "about $5,705–6,000/month (as summarized); 3 years",
+  "dt": "Dec 1, 2026 for full consideration",
+  "a": "$5,705–6,000/month; 3 years",
   "e": "Theoretical high-energy physics, astroparticle physics and cosmology. Requires a PhD in physics or a related field.",
   "u": "https://apply.interfolio.com/194203",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -8052,9 +8149,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32853",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -8073,9 +8171,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32646",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -8113,8 +8212,10 @@
   "a": "$71,491–85,736; 2 years + 1",
   "e": "Simulations and models of dark matter structure for dwarfs, lensing and streams. Requires a PhD by the start.",
   "u": "https://aas.org/jobregister/ad/e18b0a66",
+  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
@@ -8134,8 +8235,10 @@
   "a": "$71,491–80,000; min 2 years",
   "e": "High-contrast AO and coronagraph performance, Roman CGI data and GPI upgrade commissioning. Optics/AO expertise needed.",
   "u": "https://aas.org/jobregister/ad/95c9bf97",
+  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
@@ -8157,9 +8260,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32144",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -8172,15 +8276,16 @@
   "c": "Fellowship",
   "s": "open",
   "d": "2026-11-01",
-  "dt": "2026/11/01 23:59:59 (time zone not stated on page); letters by Nov 8; review begins Nov 9",
+  "dt": "2026/11/01 23:59:59 (time zone not stated on page); letters by Nov 8; review begins Nov 9; open until filled",
   "a": "$80,000/yr + $15,000/yr research; up to 3 years",
   "e": "Any area of astrophysics (cosmology, dark matter, exoplanets, gravitational, high-energy, particle astrophysics). PhD Jun 2023-Sep 2027; start Fall 2027.",
   "u": "https://academicjobsonline.org/ajo/jobs/32565",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -8199,9 +8304,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32842",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -8223,7 +8329,7 @@
   "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "pd"
@@ -8240,8 +8346,10 @@
   "a": "not listed; 3 years",
   "e": "JWST spectroscopy of ISM, stellar and black hole properties in early galaxies. Expertise in high-z extragalactic observations wanted.",
   "u": "https://aas.org/jobregister/ad/57813d20",
+  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
@@ -8257,15 +8365,17 @@
   "c": "Fellowship",
   "s": "open",
   "d": "2026-10-24",
-  "dt": "Oct 24, 2026 (nomination-based)",
-  "a": "not listed; 3 years",
-  "e": "Nomination-based fellowship in physics, astronomy, chemistry and biochemistry. Candidates need a PhD awarded between Sept 2023 and Aug 2026.",
+  "dt": "Nominations due Oct 24, 2026 (self-nominations not allowed); invited full applications due Dec 15, 2026",
+  "a": "$90,000/yr plus $2,000 travel and benefits; 3 years",
+  "e": "Nomination-based fellowship in physics, astronomy, chemistry and biochemistry, with research in a participating UCLA faculty member's lab. Candidates need a PhD conferred between Sept 2024 and Aug 2027 and must be a US citizen, permanent resident or J-1 visa eligible.",
   "u": "https://physicalsciences.ucla.edu/bhaumik-prize-postdoctoral-fellows-program/",
+  "unv": "The official page also gives Oct 31, 2026 in its nomination instructions; the overview and nomination form say Oct 24, 2026.",
   "us": false,
   "nom": true,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -8282,6 +8392,7 @@
   "a": "2 years, renewable for a third",
   "e": "High-redshift galaxies and black holes with JWST Large Program 9645 plus HST, Keck and VLT data, with some time for independent research. PhD required; JWST/HST experience preferred.",
   "u": "https://aas.org/jobregister/ad/1ce29275",
+  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
   "us": false,
   "nom": false,
   "pt": "group",
@@ -8308,7 +8419,7 @@
   "nom": false,
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "ug"
@@ -8353,7 +8464,7 @@
   "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -8372,9 +8483,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32465",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -8393,9 +8505,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32884",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
-  "nfit": "Medium",
-  "checked": "2026-09-30",
+  "nfit": "High",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -8414,9 +8527,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32750",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -8435,9 +8549,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32880",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -8456,9 +8571,10 @@
   "unv": "2027 deadline not yet posted",
   "us": false,
   "nom": true,
+  "pt": "other",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
@@ -8480,7 +8596,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-29",
+  "checked": "2026-10-07",
   "added": "2026-09-29",
   "stages": [
    "pd",
@@ -8503,7 +8619,7 @@
   "pt": "group",
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -8522,9 +8638,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/29470",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -8541,8 +8658,10 @@
   "a": "$80,000/yr; 2 years + possible 3rd",
   "e": "AI surrogate modeling of astrophysical systems, including star formation. For PhDs awarded Sept 2025–Sept 2027.",
   "u": "https://aas.org/jobregister/ad/6f3e50b2",
+  "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
@@ -8562,8 +8681,10 @@
   "a": "from $71,490; 3 years",
   "e": "Clouds in Solar System, exoplanet and brown dwarf atmospheres via microphysics, dynamics and radiative transfer.",
   "u": "https://aas.org/jobregister/ad/bdbbb7e9",
+  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "Medium",
   "checked": "2026-09-30",
@@ -8585,9 +8706,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32699",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -8608,7 +8730,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "ug"
@@ -8626,8 +8748,10 @@
   "a": "not listed; 1 year, renewable up to 2 more",
   "e": "Detection and properties of black holes in dwarf galaxies from multiwavelength surveys. Requires a PhD by appointment.",
   "u": "https://aas.org/jobregister/ad/342eb81d",
+  "unv": "AAS Job Register ad blocked (HTTP 403 bot check) on Oct 7, 2026; deadline not reconfirmed",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "US",
   "nfit": "High",
   "checked": "2026-09-30",
@@ -8649,9 +8773,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32740",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -8673,7 +8798,7 @@
   "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -8692,9 +8817,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32521",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -8732,8 +8858,10 @@
   "a": "not listed; 3 years",
   "e": "Independent theoretical or observational astrophysics research (transients, GWs, cosmology, lensing).",
   "u": "https://www.weizmann.ac.il/AstroCenter/fellowship-submission/",
+  "unv": "AAS ad returned 403 on 2026-10-07; the Weizmann center page still shows the 2025-26 cycle (closed, deadline Jan 15, 2026), so the Dec 15, 2026 date and salary are not re-verified.",
   "us": false,
   "nom": false,
+  "pt": "prize",
   "region": "International",
   "nfit": "High",
   "checked": "2026-09-30",
@@ -8758,7 +8886,7 @@
   "pt": "prize",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-02",
+  "checked": "2026-10-07",
   "added": "2026-10-02",
   "stages": [
    "pd"
@@ -8770,16 +8898,16 @@
   "f": "West Virginia University (NSF REU)",
   "c": "Summer program",
   "s": "watch",
-  "dt": "Page says program full / not accepting applications; 2027 dates not posted",
-  "a": "$5,000 stipend + $300 travel + campus housing (per most recent posted details)",
+  "dt": "Summer 2026 program ran May 18-July 24, 2026; 2027 dates and deadline not posted",
+  "a": "$5,000 stipend for 10 weeks + $1,570 for food + $300 travel + campus housing (2026 terms)",
   "e": "US citizens, nationals or permanent residents only. WVU's Gravitational Waves and Cosmology Center hosts NANOGrav pulsar-timing and GW projects.",
   "u": "https://gwac.wvu.edu/reu",
-  "unv": "Page shows 2024 dates; stipend may be outdated; 2027 status unclear",
+  "unv": "2027 deadline and NSF funding for 2027 not posted; page now describes the Astrophysics & Plasma Physics REU",
   "us": true,
   "nom": false,
   "region": "US",
   "nfit": "High",
-  "checked": "2026-10-01",
+  "checked": "2026-10-07",
   "added": "2026-10-01",
   "stages": [
    "ug"
@@ -8799,9 +8927,10 @@
   "u": "https://academicjobsonline.org/ajo/jobs/32277",
   "us": false,
   "nom": false,
+  "pt": "group",
   "region": "International",
   "nfit": "High",
-  "checked": "2026-09-30",
+  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
