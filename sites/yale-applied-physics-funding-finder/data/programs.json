@@ -716,6 +716,90 @@
   "us": false
  },
  {
+  "a": "$72,879-$121,465",
+  "added": "2026-10-07",
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": null,
+  "dt": "Posted Oct 2, 2026 (Req. 423275); no deadline stated",
+  "e": "Develop NV-diamond membrane quantum sensors for field mapping in HEP experiments; PhD within the last 0-5 years in physics, astronomy or quantum engineering. No citizenship restriction stated.",
+  "f": "Argonne National Laboratory (HEP, MSD and Q-NEXT)",
+  "fields": [
+   "qp",
+   "mat",
+   "dev",
+   "inst"
+  ],
+  "id": "argonne-postdoctoral-appointee-quantum-magnetometry-for",
+  "n": "Argonne: Postdoctoral Appointee, Quantum Magnetometry for High-Energy Physics (NV diamond)",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:anl-423275-nv-magnetometry",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/en-US/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Quantum-Magnetometry-for-High-Energy-Physics_423275",
+  "us": false
+ },
+ {
+  "a": "$72,879-$121,465",
+  "added": "2026-10-07",
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": null,
+  "dt": "Posted Sep 21, 2026 (Req. 423429); no deadline stated",
+  "e": "Design, fabrication and characterization of SNSPDs and kinetic-inductance multiplexed readout for quantum networking; requires a recent or soon-to-be-completed PhD. No citizenship restriction stated.",
+  "f": "Argonne National Laboratory (HEP, XSD and MSD divisions)",
+  "fields": [
+   "phot",
+   "dev",
+   "qp",
+   "inst"
+  ],
+  "id": "argonne-postdoctoral-appointee-superconducting-single-ph",
+  "n": "Argonne: Postdoctoral Appointee, Superconducting Single-Photon Devices for Quantum Information Science",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:anl-423429-snspd",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/en-US/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Superconducting-Single-Photon-Devices-for-Quantum-Information-Science_423429",
+  "us": false
+ },
+ {
+  "a": "$72,879-$121,465",
+  "added": "2026-10-07",
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": null,
+  "dt": "Posted Sep 22, 2026 (Req. 423459); no deadline stated",
+  "e": "Develop terahertz cavity-magnonics platforms coupling antiferromagnetic oxide magnons to engineered THz resonators; PhD in condensed matter, AMO, EE or materials science. No citizenship restriction stated.",
+  "f": "Argonne National Laboratory, Materials Science Division",
+  "fields": [
+   "cmx",
+   "mat",
+   "dev",
+   "phot"
+  ],
+  "id": "argonne-postdoctoral-appointee-terahertz-cavity-antiferr",
+  "n": "Argonne: Postdoctoral Appointee, Terahertz Cavity Antiferromagnonics",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:anl-423459-thz-magnonics",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/en-US/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee-Terahertz-Cavity-Antiferromagnonics_423459",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-09-30",
   "c": "Group postdoc",
@@ -3137,6 +3221,35 @@
   "us": false
  },
  {
+  "a": "$95,000/yr",
+  "added": "2026-10-07",
+  "c": "Fellowship",
+  "checked": "2026-10-07",
+  "d": "2026-10-09",
+  "dt": "Apply by Oct 9, 2026 for full consideration; rolling until filled",
+  "e": "Postdoctoral-level fellowship (2 years, renewable for a third) in computational quantum many-body physics, quantum materials and related methods, starting Aug-Nov 2027 in New York. No citizenship restriction stated.",
+  "f": "Simons Foundation Flatiron Institute, CCQ",
+  "fields": [
+   "cmt",
+   "qp",
+   "mat",
+   "ds"
+  ],
+  "id": "flatiron-institute-flatiron-research-fellow-center-for-c",
+  "n": "Flatiron Institute: Flatiron Research Fellow, Center for Computational Quantum Physics (CCQ)",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "other:flatiron-ccq-research-fellow",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://apply.interfolio.com/191742",
+  "unv": "Posted Aug 27, 2026 (before the Sep 27 window) but is not in the catalog.",
+  "us": false
+ },
+ {
   "a": "$2,000 for graduate students; $3,000 for postdocs",
   "added": "2026-09-28",
   "c": "Yale internal",
@@ -3182,31 +3295,6 @@
   ],
   "u": "https://fulbrightscholars.org/us-scholar-awards",
   "unv": "2028-29 dates not posted",
-  "us": true
- },
- {
-  "a": "not listed",
-  "added": "2026-10-03",
-  "c": "Fellowship",
-  "checked": "2026-10-03",
-  "d": "2026-10-06",
-  "dt": "National deadline Oct 6, 2026, 5pm ET; Yale campus deadline is earlier",
-  "e": "Grants for graduating seniors, recent graduates and graduate students to study or research abroad for an academic year. US citizens only.",
-  "f": "US Department of State / IIE",
-  "fields": [
-   "all"
-  ],
-  "id": "fulbright-us-student-2027-28",
-  "n": "Fulbright U.S. Student Program 2027-28",
-  "nom": false,
-  "s": "open",
-  "src": "other:fulbright-student",
-  "stages": [
-   "ug",
-   "gr"
-  ],
-  "u": "https://us.fulbrightonline.org/",
-  "unv": "Yale students apply through the campus Fulbright adviser, whose earlier deadline has likely passed",
   "us": true
  },
  {
@@ -3412,6 +3500,33 @@
   "u": "https://www.gemfellowship.org/gem-fellowship-program/",
   "unv": "Yale's current GEM membership not confirmed on GEM site (member list is login-only); exact date computed from 'second Friday in November' rule",
   "us": true
+ },
+ {
+  "a": "",
+  "added": "2026-10-07",
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": "2026-12-07",
+  "dt": "Dec 7, 2026",
+  "e": "Two-year theory postdoc on the holographic principle and its applications to quantum information, quantum chaos, tensor networks, AdS/CMT and AdS/QCD, starting 2027.",
+  "f": "Gwangju Institute of Science and Technology, Theoretical Physics Group (Keun-Young Kim)",
+  "fields": [
+   "ppt",
+   "qp",
+   "cmt"
+  ],
+  "id": "gist-holography-quantum-information-postdoc",
+  "n": "GIST: Postdoc in holography, quantum information and strongly correlated systems",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3210874",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://phys.gist.ac.kr/gctp/index.do",
+  "us": false
  },
  {
   "a": "Scholarship for tuition/fees/books (up to 2 yrs)",
@@ -3643,6 +3758,33 @@
   "u": "https://www.mrsec.harvard.edu/education/reu.php",
   "unv": "2027 dates, stipend and deadline not posted",
   "us": true
+ },
+ {
+  "a": "$67,600-$80,000",
+  "added": "2026-10-07",
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": "2026-11-01",
+  "dt": "Materials by Nov 1, 2026 for full consideration; later applications considered on a rolling basis",
+  "e": "Joint search by Harvard quantum condensed matter theory groups (Khalaf, Lukin, Sachdev, Vishwanath, Yao, Yelin, Kaxiras); applicants are automatically considered for the HQI fellowship and possibly a Moore EPiQS fellowship. No citizenship restriction stated.",
+  "f": "Harvard University, Department of Physics",
+  "fields": [
+   "cmt",
+   "qp",
+   "amo"
+  ],
+  "id": "harvard-postdoctoral-research-positions-in-condensed-mat",
+  "n": "Harvard: Postdoctoral Research Positions in Condensed Matter Theory (Fall 2027)",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:harvard-cmt-postdocs-2027",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicpositions.harvard.edu/postings/16861",
+  "us": false
  },
  {
   "a": "not listed; up to 3 years",
@@ -4010,6 +4152,34 @@
    "ten"
   ],
   "u": "https://www.hhmi.org/news/hhmi-announces-five-competitions-scientists-across-career-stages",
+  "us": false
+ },
+ {
+  "a": "",
+  "added": "2026-10-07",
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": "2026-11-30",
+  "dt": "Nov 30, 2026",
+  "e": "Postdoc with Hiromasa Niinomi on light-matter interactions and light-induced phase transitions using chiral/topological light, or nonequilibrium water-ice interfaces under high pressure. Lasers, optical microscopy, spectroscopy or nanofabrication skills expected.",
+  "f": "Hiroshima University, WPI International Institute for Sustainability with Knotted Chiral Meta Matter (PI Hiromasa Niinomi)",
+  "fields": [
+   "amo",
+   "phot",
+   "mat"
+  ],
+  "id": "hiroshima-university-wpi-skcm2-researcher-postdoctoral-f",
+  "n": "Hiroshima University WPI-SKCM2: Researcher (Postdoctoral Fellow), light-matter interactions",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:32718",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32718",
+  "unv": "Salary and terms only on the linked WPI-SKCM2 page, not checked.",
   "us": false
  },
  {
@@ -4805,36 +4975,6 @@
   "us": false
  },
  {
-  "a": "Up to 3 yrs of full funding for Stanford graduate study",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": "2026-10-06",
-  "dt": "Oct 6, 2026, 1 pm PT",
-  "e": "Applicants to any Stanford graduate program; any citizenship.",
-  "f": "Stanford University",
-  "fields": [
-   "all"
-  ],
-  "id": "knight-hennessy-scholars-2027-cohort",
-  "n": "Knight-Hennessy Scholars (2027 cohort)",
-  "nfit": "Low",
-  "nom": false,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "ug",
-   "gr"
-  ],
-  "u": "https://knight-hennessy.stanford.edu/admission",
-  "us": false,
-  "yale": {
-   "d": null,
-   "t": "No Yale endorsement is required: the Yale grid does not mark it as needing Yale nomination. Apply directly to Stanford (deadline in October).",
-   "u": "https://funding.yale.edu/sites/default/files/files/Yale%20Postgraduate%20Fellowships%20Grid.pdf"
-  }
- },
- {
   "a": "Distinguished postdoc appointment; salary not listed.",
   "added": "2026-09-28",
   "c": "Fellowship",
@@ -5213,6 +5353,31 @@
   ],
   "u": "https://st.llnl.gov/opportunities/postdocs/postdoc-program/lawrence-fellowship",
   "unv": "Page date references were ambiguous; Oct 1 read as 2026 for the 2027 cohort",
+  "us": false
+ },
+ {
+  "a": "$97,000 starting salary for a new PhD",
+  "added": "2026-10-07",
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": null,
+  "dt": "Posted Oct 5, 2026 (Req. IRC146130); no deadline stated",
+  "e": "Two-year appointment (possible third year) in quantum error correction, fault-tolerant protocols and resource estimation; PhD within the last 5 years. Federal rules bar citizens of China, Iran, North Korea and Russia who are not US permanent residents.",
+  "f": "Los Alamos National Laboratory, CAI-3 Information Sciences",
+  "fields": [
+   "qp"
+  ],
+  "id": "los-alamos-quantum-information-postdoctoral-researcher-e",
+  "n": "Los Alamos: Quantum Information Postdoctoral Researcher (early fault-tolerant QC)",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:lanl-irc146130-qi-postdoc",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://lanl.jobs/search/jobdetails/quantum-information-postdoctoral-researcher/c56e6286-1124-4069-b396-ea0055c49ed8",
   "us": false
  },
  {
@@ -6095,9 +6260,9 @@
   "a": "Under $500K direct per year; up to 5 years",
   "added": "2026-10-03",
   "c": "Federal grant",
-  "checked": "2026-10-03",
-  "d": "2026-10-05",
-  "dt": "Oct 5, 2026 is the last standard date before the NOFO expires Jan 7, 2027",
+  "checked": "2026-10-07",
+  "d": "2026-11-05",
+  "dt": "Renewal, resubmission and revision applications Nov 5, 2026, the last due date before the NOFO expires Jan 8, 2027; the last date for new applications was Oct 5, 2026",
   "e": "Academic-industry teams translating imaging, spectroscopy and data-science technologies into validated in vivo imaging tools for cancer or other disease. An industrial partner is part of the team; no citizenship restriction.",
   "f": "NIH NCI",
   "fields": [
@@ -6630,9 +6795,9 @@
   "a": "Typically up to 5 years; budget is not capped by the parent NOFO",
   "added": "2026-09-28",
   "c": "Federal grant",
-  "checked": "2026-09-29",
-  "d": "2026-10-05",
-  "dt": "New applications Oct 5, 2026; Feb 5, Jun 5 and Oct 5, 2027. Resubmissions on the 5th of Mar/Jul/Nov",
+  "checked": "2026-10-07",
+  "d": "2026-11-05",
+  "dt": "Resubmissions Nov 5, 2026 (5th of Mar/Jul/Nov); new applications Feb 5, Jun 5 and Oct 5, 2027",
   "e": "Faculty at US institutions; ESIs get career-stage consideration. Since Sept 25, 2025, NIH accepts at most 6 new, renewal, resubmission or revision applications per PI per calendar year (NOT-OD-25-132). From the January 2026 council round, NIH ICs no longer use paylines (unified funding strategy).",
   "f": "NIH",
   "fields": [
@@ -8513,6 +8678,35 @@
   "us": false
  },
  {
+  "a": "",
+  "added": "2026-10-07",
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": null,
+  "dt": "Requisition 17146, posted late Sep 2026; no deadline stated",
+  "e": "Build squeezed-light sensing and quantum-enhanced label-free microscopy for cells and tissues; PhD within the last 5 years, three reference letters required. Up to 24 months with possible extension; no citizenship restriction stated.",
+  "f": "Oak Ridge National Laboratory, Quantum Computing and Sensing Group",
+  "fields": [
+   "phot",
+   "qp",
+   "amo",
+   "bio",
+   "inst"
+  ],
+  "id": "oak-ridge-postdoctoral-research-associate-quantum-optics",
+  "n": "Oak Ridge: Postdoctoral Research Associate, Quantum Optics and Bioimaging",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-17146-quantum-optics-bioimaging",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Quantum-Optics-and-Bioimaging-TN-37830/1434745800/",
+  "us": false
+ },
+ {
   "a": "Varies",
   "added": "2026-09-28",
   "c": "Federal grant",
@@ -8868,6 +9062,33 @@
   "u": "https://www.lrsm.upenn.edu/outreach/reu/",
   "unv": "2027 deadline not posted (historically Feb 1)",
   "us": true
+ },
+ {
+  "a": "$80,000 plus one-time $5,000 research award",
+  "added": "2026-10-07",
+  "c": "Fellowship",
+  "checked": "2026-10-07",
+  "d": "2026-10-30",
+  "dt": "Oct 30, 2026 first-round consideration; rolling until filled",
+  "e": "Several postdoctoral fellow positions in theory of emergent quantum matter: quantum information, quantum materials, quantum computation, AI/computational methods, quantum geometry, Majorana modes, fractional quantum anomalous Hall effect. Flexible start, can be immediate.",
+  "f": "Pennsylvania State University, Center for Theory of Emergent Quantum Matter (ICDS Quantum Hub)",
+  "fields": [
+   "cmt",
+   "qp"
+  ],
+  "id": "penn-state-c-teq-fellow-postdoctoral-scholar-center-for",
+  "n": "Penn State: C-TEQ Fellow Postdoctoral Scholar (Center for Theory of Emergent Quantum Matter)",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:32970",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32970",
+  "unv": "Whether fellows propose fully independent research vs. join a faculty affiliate's group is not explicit.",
+  "us": false
  },
  {
   "a": "not listed",
@@ -9549,6 +9770,34 @@
   "us": false
  },
  {
+  "a": "",
+  "added": "2026-10-07",
+  "c": "Fellowship",
+  "checked": "2026-10-07",
+  "d": "2026-12-31",
+  "dt": "Complete applications (Job ID 699061 plus 3 letters to herrerafellow@sandia.gov) received through Dec 31, 2026 get full consideration",
+  "e": "Two-year postdoctoral fellowship (possible third year) for self-directed QIS research (quantum devices, qubit control, error mitigation, algorithms) with Sandia mentors in Albuquerque or Livermore. Requires ability to obtain a DOE security clearance, which requires US citizenship.",
+  "f": "Sandia National Laboratories",
+  "fields": [
+   "qp",
+   "dev",
+   "amo",
+   "phot"
+  ],
+  "id": "sandia-gil-herrera-fellowship-in-quantum-information-sci",
+  "n": "Sandia: Gil Herrera Fellowship in Quantum Information Science (2027)",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "other:sandia-herrera-qis",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/fellowships/gil-herrera-fellowship-in-quantum-information-science/",
+  "us": true
+ },
+ {
   "a": "Paid; rates by class standing and degree level",
   "added": "2026-10-03",
   "c": "Training",
@@ -9608,9 +9857,9 @@
   "a": "~$2,800/month",
   "added": "2026-09-30",
   "c": "Group postdoc",
-  "checked": "2026-09-30",
-  "d": "2026-10-04",
-  "dt": "Oct 4, 2026",
+  "checked": "2026-10-07",
+  "d": "2026-10-18",
+  "dt": "Oct 18, 2026 (extended on INSPIRE)",
   "e": "Theory of quantum mechanics and QCD. Requires a PhD; apply by email.",
   "f": "Sami Shamoon College of Engineering (SCE), Israel; contact Yair",
   "fields": [
@@ -10758,6 +11007,68 @@
   "us": false
  },
  {
+  "a": "",
+  "added": "2026-10-07",
+  "asub": [
+   "cos"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-07",
+  "d": "2026-11-21",
+  "dt": "Nov 21, 2026 (letters by same date)",
+  "e": "One or two 3-year distinguished fellowships starting Fall 2027 in any area of theoretical physics, including cosmology, QFT, condensed matter, quantum gravity, quantum information, particle physics and string theory. PhD in theoretical physics by start.",
+  "f": "University of California, Berkeley, Leinweber Institute for Theoretical Physics",
+  "fields": [
+   "ppt",
+   "cmt",
+   "qp",
+   "grav",
+   "astro"
+  ],
+  "id": "uc-berkeley-leinweber-physics-postdoctoral-fellowship",
+  "n": "UC Berkeley: Leinweber Physics Postdoctoral Fellowship",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:32957",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32957",
+  "us": false
+ },
+ {
+  "a": "$80,000/yr stipend plus benefits, travel support and relocation",
+  "added": "2026-10-07",
+  "c": "Fellowship",
+  "checked": "2026-10-07",
+  "d": "2026-11-01",
+  "dt": "Next review date Nov 1, 2026 (full consideration); final date Jun 30, 2027 if not filled",
+  "e": "Two-year fellowship starting in 2027; applicants must be co-sponsored by at least two EQI faculty, and this cycle prioritizes experimentalists. No citizenship restriction stated.",
+  "f": "UC Irvine, Eddleman Quantum Institute (EQI)",
+  "fields": [
+   "qp",
+   "amo",
+   "cmx",
+   "phot"
+  ],
+  "id": "uc-irvine-eddleman-quantum-institute-postdoctoral-fellow",
+  "n": "UC Irvine: Eddleman Quantum Institute Postdoctoral Fellowship (2027 start)",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "other:uci-eqi-postdoc-fellowship",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://recruit.ap.uci.edu/JPF10362/",
+  "unv": "Recruitment opened Sep 1, 2026 (before the Sep 27 window) but is not in the catalog.",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-10-03",
   "c": "Fellowship",
@@ -11010,6 +11321,34 @@
   "us": false
  },
  {
+  "a": "$55,000-$65,000",
+  "added": "2026-10-07",
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": null,
+  "dt": "No deadline stated; AJO listing runs until Nov 26, 2026",
+  "e": "Experimental research on photonic devices for classical and quantum information processing, sensing and networking in Prof. Kejie Fang's group. PhD in EE, physics, applied physics or related field; work-authorization sponsorship available except new H-1B petitions.",
+  "f": "University of Illinois Urbana-Champaign, Holonyak Micro and Nanotechnology Laboratory (Kejie Fang)",
+  "fields": [
+   "phot",
+   "qp",
+   "dev"
+  ],
+  "id": "uiuc-holonyak-lab-postdoctoral-research-associate-in-int",
+  "n": "UIUC Holonyak Lab: Postdoctoral Research Associate in Integrated Quantum Photonics",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "ajo:32103",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32103",
+  "unv": "Anticipated start Sep 1, 2026 (negotiable); posted May 2026, so may already be filled.",
+  "us": false
+ },
+ {
   "a": "renewable up to 3 years",
   "added": "2026-09-30",
   "c": "Fellowship",
@@ -11225,6 +11564,33 @@
   "us": false
  },
  {
+  "a": "",
+  "added": "2026-10-07",
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": "2026-12-01",
+  "dt": "Dec 1, 2026 (AJO); applications considered until positions filled",
+  "e": "Postdoctoral positions in the Klinovaja/Loss group covering quantum condensed matter theory, topological matter, spin qubits, spintronics and quantum information. PhD required or expected within a year; CV, research statement, publication list and 2 letters.",
+  "f": "University of Basel, Condensed Matter Theory and Quantum Computing group",
+  "fields": [
+   "cmt",
+   "qp"
+  ],
+  "id": "university-of-basel-postdoctoral-position-in-condensed-m",
+  "n": "University of Basel: Postdoctoral position in Condensed Matter Theory (Klinovaja/Loss group)",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:21540",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/21540",
+  "unv": "Evergreen ad first posted 2022 (updated 2026-10-06); distinct from the known NCCR SPIN fellowship row but same PIs.",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-09-30",
   "c": "Group postdoc",
@@ -11416,6 +11782,34 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/31732",
+  "us": false
+ },
+ {
+  "a": "$84,000/yr salary plus $10,000/yr research fund and $2,000 relocation",
+  "added": "2026-10-07",
+  "c": "Fellowship",
+  "checked": "2026-10-07",
+  "d": "2026-10-31",
+  "dt": "Rolling, reviewed quarterly; complete applications by Oct 31, 2026 for the Autumn 2026 round",
+  "e": "Three-year fellowships (Dehmelt: any area of physics; Thouless: quantum matter and information); the process starts with a nomination by a PI in the candidate's field, and nominees may have at most 24 months of prior postdoc experience and no prior UW Seattle position. Non-US citizens must show English proficiency.",
+  "f": "University of Washington, Department of Physics / Thouless Institute for Quantum Matter",
+  "fields": [
+   "cmt",
+   "cmx",
+   "qp",
+   "amo"
+  ],
+  "id": "university-of-washington-hans-g-dehmelt-and-david-j-thou",
+  "n": "University of Washington: Hans G. Dehmelt and David J. Thouless Postdoctoral Fellowships",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "other:uw-dehmelt-thouless",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://apply.interfolio.com/194644",
   "us": false
  },
  {
@@ -11789,29 +12183,57 @@
   "us": false
  },
  {
-  "a": "$80,000/yr plus benefits (2.5% annual raise), plus $5,000/yr discretionary research fund; 2 years",
-  "added": "2026-09-29",
-  "c": "Yale internal",
-  "checked": "2026-09-29",
-  "d": "2026-10-04",
-  "dt": "Apply by Oct 4, 2026, 11:59 pm ET, via Interfolio (apply.interfolio.com/189279). Start Fall 2027.",
-  "e": "For researchers within 3 years of their PhD, from outside Yale, whose interests align with YQI faculty mentors. Non-US citizens must be eligible for J-1 status.",
-  "f": "Yale Quantum Institute",
+  "a": "",
+  "added": "2026-10-07",
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": "2026-11-06",
+  "dt": "Applications and letters by Nov 6, 2026 for full consideration",
+  "e": "Postdoc starting Summer/Fall 2027 working with Leonid Glazman on electron correlations, low-dimensional and topological solids, and the physics of superconducting qubits. No citizenship restriction stated.",
+  "f": "Yale University, Department of Physics",
   "fields": [
-   "qp",
-   "amo",
-   "cmx",
-   "cmt"
+   "cmt",
+   "qp"
   ],
-  "id": "yale-quantum-institute-yqi-postdoctoral-fellowship-2027",
-  "n": "Yale Quantum Institute (YQI) Postdoctoral Fellowship 2027",
+  "id": "yale-postdoctoral-associate-condensed-matter-physics-the",
+  "n": "Yale: Postdoctoral Associate, Condensed Matter Physics Theory (Glazman)",
   "nom": false,
-  "pt": "prize",
+  "pt": "group",
+  "region": "US",
   "s": "open",
+  "src": "other:yale-cmt-glazman-postdoc",
   "stages": [
    "pd"
   ],
-  "u": "https://quantuminstitute.yale.edu/apply-to-the-2027-yqi-fellowship",
+  "u": "https://apply.interfolio.com/194965",
+  "us": false
+ },
+ {
+  "a": "$70,000/yr",
+  "added": "2026-10-07",
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": "2026-11-01",
+  "dt": "Deadline Nov 1, 2026, 11:59 pm ET; considered until filled",
+  "e": "Multiple theory postdocs with the Ding, Kubica, Girvin and Puri groups on circuit QED, Rydberg arrays, trapped ions and quantum error correction; PhD within the past three years. No citizenship restriction stated.",
+  "f": "Yale University, Yale Quantum Institute",
+  "fields": [
+   "qp",
+   "amo",
+   "cmt"
+  ],
+  "id": "yale-quantum-institute-quantum-information-science-and-e",
+  "n": "Yale Quantum Institute: Quantum Information Science and Engineering Theory Postdoctoral Associate",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:yale-yqi-qise-theory-postdoc",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://apply.interfolio.com/192016",
+  "unv": "Posted Aug 24, 2026 (before the Sep 27 window) but is not in the catalog.",
   "us": false
  },
  {

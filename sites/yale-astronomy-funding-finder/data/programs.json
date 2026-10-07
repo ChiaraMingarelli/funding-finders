@@ -3,9 +3,9 @@
   "a": "Medal + recognition",
   "added": "2026-09-29",
   "c": "Prize",
-  "checked": "2026-09-29",
-  "d": "2026-10-05",
-  "dt": "Chambliss entries need an iPoster",
+  "checked": "2026-10-07",
+  "d": null,
+  "dt": "Last deadline Oct 5, 2026; the AAS page could not be reached to check for an extension",
   "e": "For undergraduates and graduate students presenting research. The meeting is Jan 10–14, 2027 in Salt Lake City.",
   "f": "AAS",
   "fields": [
@@ -16,7 +16,7 @@
   "nfit": "Medium",
   "nom": false,
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "ug",
    "gr"
@@ -328,6 +328,37 @@
    "pd"
   ],
   "u": "https://www.anthropic.com/news/expanding-support-for-scientists",
+  "us": false
+ },
+ {
+  "a": "",
+  "added": "2026-10-07",
+  "asub": [
+   "he",
+   "inst"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": "2026-11-15",
+  "dt": "Nov 15, 2026",
+  "e": "Develop, install and commission a calibration method for Advanced Virgo+ (O5) that uses back-scattered light from the end benches, as an independent cross-check of photon-calibrator strain calibration. No citizenship limit stated.",
+  "f": "University of Antwerp, Particle Physics group (Virgo, Einstein Telescope and ETpathfinder member)",
+  "fields": [
+   "grav",
+   "inst"
+  ],
+  "id": "antwerp-virgo-scattered-light-calibration-postdoc",
+  "n": "U. Antwerp: Postdoc in scattered-light calibration for gravitational-wave detectors",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3211697",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3211697",
   "us": false
  },
  {
@@ -3173,31 +3204,6 @@
   "us": true
  },
  {
-  "a": "not listed",
-  "added": "2026-10-03",
-  "c": "Fellowship",
-  "checked": "2026-10-03",
-  "d": "2026-10-06",
-  "dt": "National deadline Oct 6, 2026, 5pm ET; Yale campus deadline is earlier",
-  "e": "Grants for graduating seniors, recent graduates and graduate students to study or research abroad for an academic year. US citizens only.",
-  "f": "US Department of State / IIE",
-  "fields": [
-   "all"
-  ],
-  "id": "fulbright-us-student-2027-28",
-  "n": "Fulbright U.S. Student Program 2027-28",
-  "nom": false,
-  "s": "open",
-  "src": "other:fulbright-student",
-  "stages": [
-   "ug",
-   "gr"
-  ],
-  "u": "https://us.fulbrightonline.org/",
-  "unv": "Yale students apply through the campus Fulbright adviser, whose earlier deadline has likely passed",
-  "us": true
- },
- {
   "a": "Ceiling $7,500,000; total $170,000,000",
   "added": "2026-09-30",
   "c": "Federal grant",
@@ -4432,6 +4438,38 @@
   "us": false
  },
  {
+  "a": "",
+  "added": "2026-10-07",
+  "asub": [
+   "he",
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": "2026-11-15",
+  "dt": "Nov 15, 2026; reference letters by Nov 18",
+  "e": "A 24-month postdoc (renewable for 12 months) in the theory and phenomenology of elementary particles, astroparticles and gravity, starting autumn 2027. Two reference letters required.",
+  "f": "INFN Theory Group, Frascati National Laboratories (LNF)",
+  "fields": [
+   "ppt",
+   "grav",
+   "astro"
+  ],
+  "id": "infn-lnf-cabibbo-theory-postdoc",
+  "n": "INFN Frascati: Nicola Cabibbo postdoc in particle, astroparticle and gravity theory",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3211332",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.dsi.infn.it/dettagli_job.php?id=4679",
+  "us": false
+ },
+ {
   "a": "$87,000 to $91,000/yr (incl. health insurance)",
   "added": "2026-09-29",
   "c": "Fellowship",
@@ -4551,9 +4589,9 @@
    "star"
   ],
   "c": "Group postdoc",
-  "checked": "2026-09-30",
-  "d": "2026-10-04",
-  "dt": "Oct 4, 2026",
+  "checked": "2026-10-07",
+  "d": null,
+  "dt": "Last deadline Oct 4, 2026; the AAS Job Register page could not be reached to confirm whether the ad is still open",
   "e": "SPIRou studies of M-dwarf planetary systems and T Tauri magnetic topologies. Background in stellar spectropolarimetry/velocimetry needed.",
   "f": "IRAP (CNRS), Toulouse; Jean-François Donati, Claire Moutou",
   "fields": [
@@ -4564,7 +4602,7 @@
   "nfit": "Medium",
   "nom": false,
   "region": "International",
-  "s": "open",
+  "s": "watch",
   "src": "aas:1fa6ba25",
   "stages": [
    "pd"
@@ -4778,6 +4816,38 @@
   "us": false
  },
  {
+  "a": "",
+  "added": "2026-10-07",
+  "asub": [
+   "he",
+   "inst"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": null,
+  "dt": "The ad lists no closing date (posted on LAAC Oct 2, 2026)",
+  "e": "An experimental postdoc on the structure, optical and mechanical properties of amorphous coatings for current and future GW detectors, including Cosmic Explorer, part of the Center for Coatings Research. Applicants must be eligible to work in the US at the start of the appointment.",
+  "f": "Kennesaw State University, gravitational-wave group / Center for Coatings Research",
+  "fields": [
+   "grav",
+   "inst",
+   "mat"
+  ],
+  "id": "kennesaw-state-university-postdoctoral-researcher-amorph",
+  "n": "Kennesaw State University: Postdoctoral Researcher, Amorphous Optical Coatings for GW Detectors",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:kennesaw-gw-coatings-pd",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=43000&JobOpeningId=304028&PostingSeq=1",
+  "us": false
+ },
+ {
   "a": "$76k–80k, up to 3 yr",
   "added": "2026-09-29",
   "c": "Fellowship",
@@ -4895,36 +4965,6 @@
   "u": "https://www.kitp.ucsb.edu/propose-activity/program-pre-proposals",
   "unv": "2026 call deadline not posted",
   "us": false
- },
- {
-  "a": "Up to 3 yrs of full funding for Stanford graduate study",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": "2026-10-06",
-  "dt": "Oct 6, 2026, 1 pm PT",
-  "e": "Applicants to any Stanford graduate program; any citizenship.",
-  "f": "Stanford University",
-  "fields": [
-   "all"
-  ],
-  "id": "knight-hennessy-scholars-2027-cohort",
-  "n": "Knight-Hennessy Scholars (2027 cohort)",
-  "nfit": "Low",
-  "nom": false,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "ug",
-   "gr"
-  ],
-  "u": "https://knight-hennessy.stanford.edu/admission",
-  "us": false,
-  "yale": {
-   "d": null,
-   "t": "No Yale endorsement is required: the Yale grid does not mark it as needing Yale nomination. Apply directly to Stanford (deadline in October).",
-   "u": "https://funding.yale.edu/sites/default/files/files/Yale%20Postgraduate%20Fellowships%20Grid.pdf"
-  }
  },
  {
   "a": "~KRW 50,000,000/yr; 2 years, renewable",
@@ -5620,6 +5660,34 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32743",
+  "us": false
+ },
+ {
+  "a": "$73,308-$90,000; ~$15,000 research budget",
+  "added": "2026-10-07",
+  "c": "Fellowship",
+  "checked": "2026-10-07",
+  "d": "2026-12-11",
+  "dt": "Dec 11, 2026 (all materials and letters)",
+  "e": "Two fellowships for independent research in any area of astrophysics (theory, observation, instrumentation), up to 3 years; fellows can work with TESS, LIGO, HERA, CHIME, WINTER, Chandra, Magellan and Cosmic Explorer efforts. PhD by appointment date.",
+  "f": "MIT Kavli Institute for Astrophysics and Space Research",
+  "fields": [
+   "astro",
+   "grav",
+   "inst"
+  ],
+  "id": "mit-kavli-institute-mit-kavli-postdoctoral-fellowship-an",
+  "n": "MIT Kavli Institute: MIT Kavli Postdoctoral Fellowship and Juan Carlos Torres Fellowship in Astrophysics",
+  "nfit": "High",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:32990",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32990",
   "us": false
  },
  {
@@ -6357,6 +6425,38 @@
   ],
   "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/",
   "unv": "ROSES-26 not released",
+  "us": false
+ },
+ {
+  "a": "$79,600-$98,000",
+  "added": "2026-10-07",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": "2026-10-23",
+  "dt": "Full consideration by Fri Oct 23, 2026, 11:59 pm ET; nominal start Jan 2027",
+  "e": "A 1-year research scientist appointment in LISA data analysis with Ira Thorpe at Goddard (Greenbelt, MD), renewable up to 3 years; it requires a PhD, and 3+ years of postdoc experience is preferred. The ad states no citizenship requirement.",
+  "f": "CRESST II / University of Maryland, Baltimore County at NASA Goddard Space Flight Center",
+  "fields": [
+   "grav",
+   "astro",
+   "ds"
+  ],
+  "id": "nasa-gsfc-cresst-ii-umbc-research-scientist-in-lisa-data",
+  "n": "NASA GSFC / CRESST II (UMBC): Research Scientist in LISA Data Analysis",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:cresst2-lisa-da",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://cresst2.breezy.hr/p/93c7a39e8360",
+  "unv": "This is a research-scientist level post (3+ yrs postdoc preferred), above an entry-level postdoc",
   "us": false
  },
  {
@@ -8407,6 +8507,33 @@
   "us": false
  },
  {
+  "a": "",
+  "added": "2026-10-07",
+  "c": "Fellowship",
+  "checked": "2026-10-07",
+  "d": "2026-11-16",
+  "dt": "Nov 16, 2026 (letters by same date)",
+  "e": "2-year (renewable to 3) fellowships for independent research in any area of astrophysics, with special consideration for strong AI backgrounds; applicants list possible KIAA/DoA advisors. Any nationality; preferred start May/Sep/Dec 2027.",
+  "f": "Peking University, Kavli Institute for Astronomy and Astrophysics",
+  "fields": [
+   "astro"
+  ],
+  "id": "peking-university-kiaa-kiaa-fellowships",
+  "n": "Peking University KIAA: KIAA Fellowships",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:32986",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32986",
+  "unv": "Distinct from the known 'KIAA Boya Fellowship' row; KIAA fellows get some preference for Boya selection.",
+  "us": false
+ },
+ {
   "a": "3 yr (named fellowships 4 yr)",
   "added": "2026-09-29",
   "asub": [
@@ -9913,6 +10040,39 @@
   "us": false
  },
  {
+  "a": "",
+  "added": "2026-10-07",
+  "asub": [
+   "cos"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-07",
+  "d": "2026-11-21",
+  "dt": "Nov 21, 2026 (letters by same date)",
+  "e": "One or two 3-year distinguished fellowships starting Fall 2027 in any area of theoretical physics, including cosmology, QFT, condensed matter, quantum gravity, quantum information, particle physics and string theory. PhD in theoretical physics by start.",
+  "f": "University of California, Berkeley, Leinweber Institute for Theoretical Physics",
+  "fields": [
+   "ppt",
+   "cmt",
+   "qp",
+   "grav",
+   "astro"
+  ],
+  "id": "uc-berkeley-leinweber-physics-postdoctoral-fellowship",
+  "n": "UC Berkeley: Leinweber Physics Postdoctoral Fellowship",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:32957",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32957",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-10-03",
   "c": "Fellowship",
@@ -10233,6 +10393,37 @@
   ],
   "u": "https://ireu.phys.ufl.edu/",
   "unv": "2027 status",
+  "us": false
+ },
+ {
+  "a": "",
+  "added": "2026-10-07",
+  "asub": [
+   "he"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-07",
+  "d": "2026-10-25",
+  "dt": "Expressions of interest to the group by Oct 25, 2026; the national Juan de la Cierva call closes Nov 26 and Ramón y Cajal Dec 11, 2026",
+  "e": "The UIB gravity group invites expressions of interest from candidates it could support for competitive fellowships (junior and senior postdoc, and Ramón y Cajal tenure-track). Topics include gravitational-wave data analysis, waveform modelling and numerical relativity, with interest in IGWN, LISA and Einstein Telescope work.",
+  "f": "University of the Balearic Islands (UIB), GRAVITY group",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "uib-palma-gw-fellowship-tenure-track-eoi",
+  "n": "UIB Palma: Fellowship and tenure-track opportunities in gravitational-wave physics",
+  "nfit": "High",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3211690",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3211690",
+  "unv": "Eligibility and salary depend on each fellowship call; the regional Margalida Comas and Vicenç Mut calls had not opened yet.",
   "us": false
  },
  {
@@ -10751,6 +10942,35 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32521",
+  "us": false
+ },
+ {
+  "a": "",
+  "added": "2026-10-07",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": "2026-11-06",
+  "dt": "Nov 6, 2026",
+  "e": "3-year postdoc with Will Percival on galaxy redshift survey analysis and interpretation, with possible access to DESI, Euclid and/or Roman data. Applicants must meet Waterloo postdoc eligibility guidelines.",
+  "f": "University of Waterloo, Waterloo Centre for Astrophysics",
+  "fields": [
+   "astro"
+  ],
+  "id": "waterloo-centre-for-astrophysics-postdoctoral-fellowship",
+  "n": "Waterloo Centre for Astrophysics: Postdoctoral Fellowship (galaxy redshift surveys, Percival)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "open",
+  "src": "ajo:32951",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32951",
   "us": false
  },
  {
