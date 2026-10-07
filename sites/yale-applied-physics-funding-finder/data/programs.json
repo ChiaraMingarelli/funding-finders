@@ -538,6 +538,30 @@
   "us": false
  },
  {
+  "a": "$750",
+  "added": "2026-10-07",
+  "c": "Travel",
+  "checked": "2026-10-07",
+  "d": "2026-10-25",
+  "dt": "Apply by Oct 25, 2026, 11:59 pm ET; advisor support letter due the same day",
+  "e": "Travel awards for students presenting in DMP-sponsored sessions at the 2027 APS Global Physics Summit (Atlanta, April 11-16, 2027), chosen on merit by the DMP Executive Committee.",
+  "f": "APS Division of Materials Physics",
+  "fields": [
+   "cmx",
+   "mat"
+  ],
+  "id": "aps-dmp-ovshinsky-travel-gps2027",
+  "n": "APS DMP Ovshinsky Student Travel Awards (2027 Global Physics Summit)",
+  "nom": false,
+  "s": "open",
+  "src": "other:aps-dmp-ovshinsky",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://engage.aps.org/dmp/honors/student-travel-awards",
+  "us": false
+ },
+ {
   "a": "$1,200 each (multiple awards)",
   "added": "2026-10-03",
   "c": "Travel",
@@ -586,6 +610,31 @@
   "us": false
  },
  {
+  "a": "Up to $1,000 (domestic) or $1,500 (international institutions)",
+  "added": "2026-10-07",
+  "c": "Travel",
+  "checked": "2026-10-07",
+  "d": "2026-10-25",
+  "dt": "Apply by Oct 25, 2026, 11:59 pm ET",
+  "e": "Three travel awards (Graduate Research Excellence, Underrepresented Minority, and First-Time Conference Participant) for graduate students presenting at the 2027 APS Global Physics Summit. Applicants must be APS and FGSA members.",
+  "f": "APS Forum on Graduate Student Affairs",
+  "fields": [
+   "all"
+  ],
+  "id": "aps-fgsa-travel-awards-gps2027",
+  "n": "APS FGSA Graduate Student Travel Awards (2027 Global Physics Summit)",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:aps-fgsa-travel",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://engage.aps.org/fgsa/prizes-awards",
+  "us": false
+ },
+ {
   "a": "Beamtime at no cost for non-proprietary research",
   "added": "2026-10-03",
   "c": "Instrumentation",
@@ -613,6 +662,30 @@
   ],
   "u": "https://www.aps.anl.gov/Users-Information/About-Proposals/Proposal-Deadlines-and-Meetings",
   "unv": "Official page returned HTTP 403 on the Oct 7, 2026 recheck; the Oct 21, 2026 deadline was not re-confirmed",
+  "us": false
+ },
+ {
+  "a": "$500 (plus $200 for students from institutions outside the US); up to ten awards",
+  "added": "2026-10-07",
+  "c": "Travel",
+  "checked": "2026-10-07",
+  "d": "2026-10-25",
+  "dt": "Apply by Oct 25, 2026, 11:59 pm ET",
+  "e": "Travel support for students presenting at the 2027 APS Global Physics Summit. Applicants must be GMAG members and need a statement of support from a PhD scientist who is a GMAG member.",
+  "f": "APS Topical Group on Magnetism and its Applications",
+  "fields": [
+   "cmx",
+   "mat"
+  ],
+  "id": "aps-gmag-student-travel-gps2027",
+  "n": "APS GMAG Student Travel Awards (2027 Global Physics Summit)",
+  "nom": false,
+  "s": "open",
+  "src": "other:aps-gmag-travel",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://engage.aps.org/gmag/honors/student-travel-award",
   "us": false
  },
  {
@@ -1620,6 +1693,36 @@
   "us": false
  },
  {
+  "a": "$7,000 salary stipend (2026 figure), settling-in stipend, free housing and round-trip travel for non-BYU students",
+  "added": "2026-10-07",
+  "c": "Summer program",
+  "checked": "2026-10-07",
+  "d": "2027-02-06",
+  "dt": "Applications open Nov 9, 2026; applications and letters due Sat Feb 6, 2027 for full consideration",
+  "e": "Ten-week summer research in Provo, May 31 to Aug 6, 2027, in optics, modeling, materials, acoustics, particle theory, quantum information and astronomy. The NSF REU is for US citizens and permanent residents; the BYU-funded Fletcher internship also takes international students enrolled at US universities.",
+  "f": "Brigham Young University, Department of Physics and Astronomy",
+  "fields": [
+   "phot",
+   "mat",
+   "ppt",
+   "qp",
+   "astro"
+  ],
+  "id": "byu-physics-astronomy-reu-2027",
+  "n": "BYU Physics and Astronomy REU / Fletcher Research Internship (Summer 2027)",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:byu-reu",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://reu.byu.edu/home",
+  "unv": "BYU is reapplying for NSF funding, which it says may affect the 2027 program; stipend amount is the 2026 figure.",
+  "us": false
+ },
+ {
   "a": "$85,000 first year + $7,000/yr research fund + relocation; 3 years",
   "added": "2026-09-30",
   "c": "Fellowship",
@@ -1843,6 +1946,37 @@
   ],
   "u": "https://chanzuckerberg.com/science/science-funding/",
   "unv": "No open call as of 2026-10-07",
+  "us": false
+ },
+ {
+  "a": "Synchrotron beamtime (peer-reviewed)",
+  "added": "2026-10-07",
+  "c": "Instrumentation",
+  "checked": "2026-10-07",
+  "d": "2026-11-18",
+  "dt": "Proposals due Nov 18, 2026; beam time requests due Dec 2, 2026; run Jan 27 – Mar 30, 2027",
+  "e": "Peer-reviewed x-ray beamtime at the Cornell synchrotron for materials, structural biology and other research, submitted through BeamPASS; a proposal stays active for two years. Open to outside research groups, with in-person, remote or mail-in access.",
+  "f": "Cornell High Energy Synchrotron Source (NSF, AFRL and NIH partner program)",
+  "fields": [
+   "cmx",
+   "mat",
+   "bio",
+   "inst"
+  ],
+  "id": "chess-general-user-2027-1",
+  "n": "CHESS General User Proposals – Winter 2027 run (2027_1)",
+  "nom": false,
+  "pt": "other",
+  "s": "open",
+  "src": "other:chess-gup",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://www.chess.cornell.edu/users/chess-deadlines",
+  "unv": "User fees and eligibility details for non-US institutions were not confirmed on the pages read",
   "us": false
  },
  {
@@ -3135,6 +3269,35 @@
   "us": false
  },
  {
+  "a": "Varies by division or section",
+  "added": "2026-10-07",
+  "c": "Travel",
+  "checked": "2026-10-07",
+  "d": "2027-03-01",
+  "dt": "Applications open Dec 4, 2026; deadline Mar 1, 2027",
+  "e": "Travel grants from ECS divisions and sections for undergraduates, graduate students, postdocs and early-career faculty presenting papers at the 251st ECS Meeting; some divisions add their own requirements.",
+  "f": "The Electrochemical Society",
+  "fields": [
+   "energy",
+   "mat"
+  ],
+  "id": "ecs-travel-grants-251st-meeting",
+  "n": "ECS Division and Section Travel Grants (251st ECS Meeting)",
+  "nom": false,
+  "pt": "other",
+  "s": "open",
+  "src": "other:ecs-travel",
+  "stages": [
+   "ug",
+   "gr",
+   "pd",
+   "tt"
+  ],
+  "u": "https://www.electrochem.org/travel-grants",
+  "unv": "Award amounts and the 251st meeting dates and location were not listed on the travel-grant page",
+  "us": false
+ },
+ {
   "a": "competitive salary; 2 years, usually extended to 3",
   "added": "2026-09-30",
   "asub": [
@@ -3720,6 +3883,36 @@
    "u": "https://gsas.yale.edu/resources/external-fellowships-awards/nomination",
    "unv": "No internal date is posted."
   }
+ },
+ {
+  "a": "Free access to Cloud TPUs",
+  "added": "2026-10-07",
+  "c": "Compute",
+  "checked": "2026-10-07",
+  "d": null,
+  "dt": "Rolling; express interest any time",
+  "e": "Free Cloud TPU access for machine-learning research. Participants are expected to share their results openly (papers, code or posts) and give feedback to Google.",
+  "f": "Google Research",
+  "fields": [
+   "ds",
+   "all"
+  ],
+  "id": "google-tpu-research-cloud-trc",
+  "n": "Google TPU Research Cloud (TRC)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:google-trc",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://sites.research.google/trc/about/",
+  "unv": "Eligibility rules (career stage, country) and allocation size are not stated on the program page"
  },
  {
   "a": "Up to $800 per student per cycle",
@@ -4633,6 +4826,33 @@
   "us": false
  },
  {
+  "a": "£50,733–£59,484 per year; 36 months",
+  "added": "2026-10-07",
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": "2026-10-18",
+  "dt": "Closes Oct 18, 2026; Imperial may close early if many applications arrive",
+  "e": "Theory postdoc leading projects on full-stack error suppression in quantum hardware, from noise suppression and error mitigation to fault-tolerant computation, funded by an EPSRC Quantum Technologies Fellowship. No citizenship limits stated.",
+  "f": "Imperial College London, Department of Computing (Zhenyu Cai)",
+  "fields": [
+   "qp"
+  ],
+  "id": "imperial-computing-ra-quantum-computation-cai",
+  "n": "Imperial College London (Computing): Research Associate in Quantum Computation (Cai group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-imperial-cai-qec",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?nPostingId=18063&nPostingTargetId=28890&id=PMMFK026203F3VBQB8NLOV4CQ&LG=UK&languageSelect=UK&mask=ext",
+  "unv": "Closing date and salary confirmed from Imperial's listing as indexed (job ref ENG04009) and jobs.ac.uk; the Imperial page did not render its text to a script.",
+  "us": false
+ },
+ {
   "a": "not listed (ERC StG QINF and QuantERA funding)",
   "added": "2026-09-30",
   "c": "Group postdoc",
@@ -5215,6 +5435,31 @@
   "us": false
  },
  {
+  "a": "Registration fee €850–900 (full board included)",
+  "added": "2026-10-07",
+  "c": "Summer program",
+  "checked": "2026-10-07",
+  "d": "2026-10-23",
+  "dt": "Second application round closes Oct 23, 2026; school Apr 4-9, 2027",
+  "e": "One-week school (70 places) on machine learning for photonic design, photonic hardware for AI, and neuromorphic photonics. Open internationally to PhD students, postdocs and researchers; apply with a short CV, abstract and motivation letter.",
+  "f": "Société Française d'Optique / Les Houches School of Physics",
+  "fields": [
+   "phot"
+  ],
+  "id": "les-houches-2027-photonics-ai",
+  "n": "Les Houches Thematic School 2027: Photonics & Artificial Intelligence",
+  "nom": false,
+  "pt": "other",
+  "s": "open",
+  "src": "other:sfo-photonics-ai-2027",
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "u": "https://www.sfoptique.org/pages/sfo/ecoles-thematiques/2027-artificial-intelligence-photonics/photonics-ai.html",
+  "us": false
+ },
+ {
   "a": "$85,000/yr ($79K salary plus $6K research) for 3 years",
   "added": "2026-09-28",
   "c": "Fellowship",
@@ -5377,6 +5622,34 @@
   ],
   "u": "https://linksim.org/apply/",
   "unv": "2027 deadline not yet posted; citizenship limits not stated",
+  "us": false
+ },
+ {
+  "a": "Two years (extension possible); start Jan 1, 2027 (somewhat flexible); ERC Advanced Grant NUMBS",
+  "added": "2026-10-07",
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": null,
+  "dt": "Listed deadline Sep 19, 2026; reviewed on a rolling basis until the position is filled",
+  "e": "Theory postdoc on dynamics of many-body quantum systems: quantum chaos, quantum information and non-equilibrium physics. Apply via AJO with CV, research statement, publication list and two reference letters; no citizenship limit stated.",
+  "f": "University of Ljubljana, Faculty of Mathematics and Physics (Marko Znidaric)",
+  "fields": [
+   "cmt",
+   "qp"
+  ],
+  "id": "ljubljana-postdoc-many-body-quantum-dynamics-znidaric",
+  "n": "University of Ljubljana: Postdoc in Many-Body Quantum Dynamics (Znidaric group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "ajo:32296",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32296",
+  "unv": "Salary not stated.",
   "us": false
  },
  {
@@ -6564,6 +6837,33 @@
   "us": true
  },
  {
+  "a": "Perlmutter CPU/GPU node-hours and storage for Jan 20, 2027 to Jan 18, 2028",
+  "added": "2026-10-07",
+  "c": "Compute",
+  "checked": "2026-10-07",
+  "d": null,
+  "dt": "Main AY2027 deadline was Oct 5, 2026; NERSC accepts requests year-round and may award more time during the year while resources remain",
+  "e": "Annual call for time on NERSC supercomputers (DOE Mission Science, Exploratory and Education classes). Proposals must support the mission of the DOE Office of Science; late requests are considered only while resources remain.",
+  "f": "DOE Office of Science / NERSC",
+  "fields": [
+   "ds",
+   "all"
+  ],
+  "id": "nersc-ercap-allocations-ay2027",
+  "n": "NERSC ERCAP allocations (allocation year 2027)",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "rolling",
+  "src": "other:nersc-ercap-ay2027",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://www.nersc.gov/users/user-news/call-for-proposals-for-nersc-ay-2027",
+  "unv": "Whether a PI without DOE funding can get a Mission Science award, and who may serve as PI, not checked; late-request success depends on remaining hours"
+ },
+ {
   "a": "Budget not capped; up to 5 years",
   "added": "2026-10-03",
   "c": "Federal grant",
@@ -6951,6 +7251,37 @@
    "pd"
   ],
   "u": "https://grants.nih.gov/grants/guide/pa-files/PA-24-194.html",
+  "us": false
+ },
+ {
+  "a": "Up to $500,000 per award; ~10 awards; ~$8M total (forecast)",
+  "added": "2026-10-07",
+  "c": "Federal grant",
+  "checked": "2026-10-07",
+  "d": null,
+  "dt": "Forecast RFA-RM-28-006: est. post Oct 1, 2026 (not yet posted); est. due Feb 15, 2027",
+  "e": "Planned phased Common Fund awards to develop new experimental and computational technologies for sequencing RNA, detecting RNA modifications and studying RNA structure, location and function. Applications are not being accepted yet; the forecast lists US institutions of higher education among eligible applicants and states no citizenship limit.",
+  "f": "NIH Common Fund",
+  "fields": [
+   "bio"
+  ],
+  "id": "nih-rnomics-transformative-technologies-forecast",
+  "n": "NIH Common Fund RNomics: Transformative Technologies for RNome Characterization - forecast",
+  "nofo": [
+   {
+    "opp": "RFA-RM-28-006",
+    "u": "https://simpler.grants.gov/opportunity/d74df651-ab55-4651-9c55-fc67b40d917c"
+   }
+  ],
+  "nom": false,
+  "s": "watch",
+  "src": "grants:RFA-RM-28-006",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://commonfund.nih.gov/rnomics",
+  "unv": "Dates and amounts are grants.gov forecast estimates; the NOFO has not been published and eligibility details may change.",
   "us": false
  },
  {
@@ -8695,6 +9026,33 @@
   "us": false
  },
  {
+  "a": "Salary not listed",
+  "added": "2026-10-07",
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": "2026-12-12",
+  "dt": "Quantiki lists Dec 12, 2026; the NTU posting shows no closing date",
+  "e": "Postdoc in a new group designing and deploying geometrically motivated quantum circuits (e.g. double-bracket algorithms) for preparing low-energy many-body states on commercial hardware. PhD required; no citizenship limits stated.",
+  "f": "Nanyang Technological University, Singapore (Marek Gluza)",
+  "fields": [
+   "qp"
+  ],
+  "id": "ntu-gluza-research-fellow-quantum-circuits",
+  "n": "NTU Singapore: Research Fellow (Quantum Circuits), geometrically designed quantum algorithms (Gluza group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-ntu-gluza",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://ntu.wd3.myworkdayjobs.com/Careers/job/NTU-Main-Campus-Singapore/Research-Fellow--Quantum-Circuits-_R00024438",
+  "unv": "Deadline comes from the Quantiki listing; NTU's Workday posting (open since May 2026) gives no end date.",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-09-30",
   "c": "Group postdoc",
@@ -9071,6 +9429,35 @@
   "u": "https://www.ornl.gov/internships/rsi/",
   "unv": "Summer 2027 deadline not listed",
   "us": true
+ },
+ {
+  "a": "Free high-throughput CPU/GPU capacity under a fair-share policy",
+  "added": "2026-10-07",
+  "c": "Compute",
+  "checked": "2026-10-07",
+  "d": null,
+  "dt": "Rolling; sign up for an account any time",
+  "e": "Free distributed computing for work that splits into many independent jobs (parameter sweeps, Monte Carlo, ML). Open to researchers affiliated with projects at US-based academic, government or non-profit institutions.",
+  "f": "OSG Consortium / PATh (NSF)",
+  "fields": [
+   "ds",
+   "all"
+  ],
+  "id": "ospool-open-science-pool",
+  "n": "OSPool (Open Science Pool) high-throughput computing",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ospool",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://osg-htc.org/services/ospool/"
  },
  {
   "a": "$875,000 over 5 yrs",
@@ -9820,6 +10207,33 @@
   }
  },
  {
+  "a": "TV-L up to E14; 3 years",
+  "added": "2026-10-07",
+  "c": "Junior group leader",
+  "checked": "2026-10-07",
+  "d": "2026-10-18",
+  "dt": "Oct 18, 2026 (e-mail application to qute@uni-saarland.de; refs W2911–W2914)",
+  "e": "Four 3-year positions to build and lead an independent research group at QuTe (collaborations with Forschungszentrum Jülich): applied quantum sciences, quantum informatics, quantum mathematics, and numerics for quantum and AI. PhD in physics, mathematics, computer science or a related field required; English C1; no citizenship limits stated.",
+  "f": "Center for Quantum Technologies (QuTe), Saarland University",
+  "fields": [
+   "qp",
+   "ds"
+  ],
+  "id": "saarland-qute-research-group-leaders",
+  "n": "Saarland University QuTe: Research Group Leaders (Applied Quantum Sciences, Quantum Informatics, Quantum Mathematics, Numerics for Quantum and AI)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-saarland-qute-rgl",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.uni-saarland.de/fileadmin/upload/verwaltung/stellen/Wissenschaftler/W2912_Quantum_Informatics.pdf",
+  "us": false
+ },
+ {
   "a": "Up to US$150,000 per project for one year (2026 call), with possible extension",
   "added": "2026-10-03",
   "c": "Industry",
@@ -10454,6 +10868,37 @@
   "us": false
  },
  {
+  "a": "Synchrotron beamtime (peer-reviewed)",
+  "added": "2026-10-07",
+  "c": "Instrumentation",
+  "checked": "2026-10-07",
+  "d": "2026-12-01",
+  "dt": "Macromolecular crystallography proposals due Dec 1, 2026 (also Apr 1, Jul 1); X-ray/VUV proposals due May 1, Aug 1 and Oct 1 each year",
+  "e": "Standard general user proposals for x-ray/VUV beamlines (spectroscopy, scattering, imaging of materials) and macromolecular crystallography at SSRL, submitted through the user portal three times a year; proposals can request beamtime for up to two years.",
+  "f": "SLAC National Accelerator Laboratory / Stanford Synchrotron Radiation Lightsource (DOE BES)",
+  "fields": [
+   "cmx",
+   "mat",
+   "bio",
+   "inst"
+  ],
+  "id": "ssrl-general-user-proposals",
+  "n": "SSRL General User Proposals (X-ray/VUV and Macromolecular Crystallography)",
+  "nom": false,
+  "pt": "other",
+  "s": "open",
+  "src": "other:ssrl-gup",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://www-ssrl.slac.stanford.edu/ssrl/web/user-services/proposal-submission-procedures",
+  "unv": "Next X-ray/VUV deadline (May 1, 2027) follows the fixed annual dates on the page; user fees not confirmed",
+  "us": false
+ },
+ {
   "a": "$80,000/yr salary plus $5,000/yr discretionary funds; 2 years (offers expected early spring 2027)",
   "added": "2026-10-03",
   "c": "Fellowship",
@@ -10663,6 +11108,32 @@
   "u": "https://science.yalecollege.yale.edu/stem-fellowships/funding-stem-opportunities-yale/stars/stars-summer-research-program",
   "unv": "Summer 2027 program dates are listed as TBA.",
   "us": false
+ },
+ {
+  "a": "$6,500 stipend for the 10-week program",
+  "added": "2026-10-07",
+  "c": "Summer program",
+  "checked": "2026-10-07",
+  "d": "2027-02-01",
+  "dt": "Reviews begin Jan 15, 2027; final deadline for applications and letters 11:59 pm Feb 1, 2027",
+  "e": "NSF-funded 10-week summer research program in the Stony Brook Department of Physics and Astronomy. US citizens or permanent residents only.",
+  "f": "Stony Brook University, Department of Physics and Astronomy",
+  "fields": [
+   "all"
+  ],
+  "id": "stony-brook-physics-astronomy-reu-2027",
+  "n": "Stony Brook Physics and Astronomy REU (Summer 2027)",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:stonybrook-reu",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://www.stonybrook.edu/commcms/physics-reu/_includes/apply.php",
+  "unv": "The apply page still says it is not currently accepting applications, while giving the Summer 2027 dates; the stipend figure may be from an earlier year.",
+  "us": true
  },
  {
   "a": "2 years renewable for 3rd; salary not listed",
@@ -11486,6 +11957,33 @@
   "us": false
  },
  {
+  "a": "Salary not listed",
+  "added": "2026-10-07",
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": null,
+  "dt": "Open until filled; start date negotiable",
+  "e": "Experimental postdoc on fermionic lithium-6 superfluids, quantum vortices and quantum transport. PhD (or near completion) in atomic physics, optics or a related field with laser cooling, UHV and optics experience; contact Prof. Kwon directly. No citizenship limits stated.",
+  "f": "University of Milan, Department of Physics (Woojin Kwon)",
+  "fields": [
+   "amo"
+  ],
+  "id": "unimi-kwon-ultracold-fermi-gas-postdoc",
+  "n": "University of Milan: Experimental postdoc in ultracold Fermi gases (Kwon group, ERC StG)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:quantiki-unimi-kwon",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://sites.google.com/view/wjkwonlab/",
+  "unv": "Group site confirms an open postdoc but gives no deadline; Quantiki's listing date is Dec 22, 2026.",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-10-03",
   "c": "Foundation",
@@ -12209,6 +12707,30 @@
   "us": false
  },
  {
+  "a": "$3,500/yr stipend top-up for 2 years + $2,000 research budget ($9,000 total)",
+  "added": "2026-10-07",
+  "c": "Yale internal",
+  "checked": "2026-10-07",
+  "d": null,
+  "dt": "Applications for the 2027–2029 cohort open Nov 30, 2026; the deadline is not posted yet",
+  "e": "Two-year interdisciplinary training fellowship for first- and second-year Yale doctoral students in any program whose research aligns with planetary solutions (climate, biodiversity, communities). Faculty advisor support is required.",
+  "f": "Yale Planetary Solutions",
+  "fields": [
+   "all"
+  ],
+  "id": "yale-planetary-solutions-doctoral-fellowship",
+  "n": "Yale Planetary Solutions Doctoral Fellowship (2027–2029 cohort)",
+  "nom": false,
+  "s": "watch",
+  "src": "other:yps-doctoral-fellowship",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://planetarysolutions.yale.edu/programs/yps-doctoral-fellowship",
+  "unv": "Application deadline for the 2027–2029 cohort not yet posted.",
+  "us": false
+ },
+ {
   "a": "Initiation up to $25,000 (12 mo); Exploration up to $100,000 (18 mo); Constellation up to $250,000 (24 mo)",
   "added": "2026-10-03",
   "c": "Yale internal",
@@ -12334,6 +12856,33 @@
   ],
   "u": "https://ventures.yale.edu/student-opportunities/rothberg-build-fund",
   "unv": "Whether postdocs are eligible is not stated. The page still describes the 2025-2026 academic year (Nov 5, Feb 5, May 5), so the Nov 5, 2026 date is not confirmed for 2026-27.",
+  "us": false
+ },
+ {
+  "a": "Program-specific researcher (possibly Research Assistant Professor title); renewable 1-year terms to Mar 31, 2030; salary per Kyoto University rules",
+  "added": "2026-10-07",
+  "c": "Group postdoc",
+  "checked": "2026-10-07",
+  "d": "2026-10-31",
+  "dt": "Materials must arrive by 9:00 a.m. JST, Oct 31, 2026",
+  "e": "Postdoc on quantum-enhanced feature design and algorithms using topological data analysis and quantum computational complexity, with stays in the Netherlands. PhD required by appointment; overseas applicants welcome; apply by e-mail.",
+  "f": "Yukawa Institute for Theoretical Physics, Kyoto University (Ryu Hayakawa)",
+  "fields": [
+   "qp",
+   "ds"
+  ],
+  "id": "yitp-kyoto-postdoc-quantum-ml-hayakawa",
+  "n": "Yukawa Institute (Kyoto University): Postdoc in quantum computing and quantum machine learning (JST ASPIRE)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-yitp-hayakawa-qml",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.kyoto-u.ac.jp/sites/default/files/acceptance_teacher/2026-07/yukawa_JST%20ASPIRE%20PD%20202607E-b9bacb543ee55b27963e4f4c2a411483.pdf",
   "us": false
  },
  {
