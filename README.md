@@ -1,6 +1,6 @@
 # Funding Finders
 
-Searchable lists of grants, fellowships, jobs and student programs for Yale Physics, Applied Physics and Astronomy, and for the NANOGrav collaboration. All pages read from one shared catalog of about 980 programs, each taken from the funder's own page.
+Searchable lists of grants, fellowships, jobs and student programs for Yale Physics, Applied Physics and Astronomy, and for the NANOGrav collaboration. All pages read from one shared catalog of about 980 programs, each taken from the funder's or employer's own page or from an academic job board such as Academic Jobs Online.
 
 ## Pages (`docs/`)
 
@@ -17,10 +17,10 @@ Each page is a single self-contained HTML file with its data embedded. They are 
 
 Features on every page:
 
-- Filters by research area, career stage, status, type and deadline window. "Next 6 weeks" falls back to "all" when nothing is due.
+- Filters by career stage, deadline window and, for postdocs, position type (prize fellowship, group postdoc or other). The three Yale pages also filter by research area, status and type; the NANOGrav page also filters by region and by fit with pulsar-timing and gravitational-wave work. "Next 6 weeks" falls back to "all" when nothing is due.
 - A **New** tag on programs added in the last 7 days. Filter with "New this week" or type `new` in the search box.
 - Tick boxes to export only the programs you care about, as a calendar file (`.ics`, with reminders 6 and 4 weeks before each deadline) or a CSV.
-- Per-program **Google Calendar** and **Outlook** links. These can't carry custom reminders, so set the 6- and 4-week alerts yourself.
+- Per-program **Google Calendar**, **Outlook** and **Apple Calendar** links. The Apple Calendar link downloads a one-program `.ics` file with reminders 6 and 4 weeks before the deadline. The Google Calendar and Outlook links can't carry custom reminders, so set those alerts yourself.
 
 ## Catalog (`catalog/`)
 
@@ -32,13 +32,17 @@ Each program has these fields:
 |---|---|
 | `id` | Stable slug |
 | `n`, `f`, `c` | Program name, funder, type |
-| `s` | Status: `open`, `rolling`, `watch`, `closed` |
+| `s` | Status: `open`, `rolling` or `watch`. A listing whose deadline has passed is removed, or kept as `watch` with no deadline if the program recurs and its next call is not posted yet |
 | `d`, `dt` | Next deadline (ISO date or null) and a free-text deadline note |
 | `a`, `e`, `u` | Award, eligibility and notes, official link |
 | `fields` | Research areas (`all` = open to every field) |
 | `asub` | Astronomy sub-areas |
 | `stages` | `ug`, `gr`, `pd`, `fj` (faculty jobs), `tt` (tenure-track), `ten` (tenured) |
-| `aud` | Which pages show the row: `yale`, `ng`, `ap`, `ast` (no `aud` = Physics only) |
+| `aud` | Which pages show the row: `yale` (Physics), `ng`, `ap`, `ast` (no `aud` = Physics only). `radar` marks rows for a separate page the maintainer keeps by hand; it does not affect these pages |
+| `pt` | Postdoc type: `prize`, `group` or `other` |
+| `src` | Source key used to avoid duplicate rows |
+| `nofo` | Related grants.gov funding notices |
+| `ng` | Replacement text for some fields on the NANOGrav page |
 | `yale` | Yale internal or limited-submission step `{d, t, u}` |
 | `us`, `nom`, `region`, `nfit` | US-only flag, nomination needed, region, fit for pulsar-timing work |
 | `unv` | What could not be confirmed on the funder's page |
@@ -55,11 +59,11 @@ Each program has these fields:
 
 1. The catalog is rechecked every Monday and new postings are added on the other days of the week. The tips are kept current daily.
 2. Whenever `catalog/`, `templates/` or `engine/` changes on `main`, the **Build pages** workflow runs `engine/build.py`, commits the result and publishes `docs/`. It also runs once a day.
-3. Updates pushed to `claude/catalog-*` branches (by the cloud routines) are merged into `main` by the **Accept catalog updates** workflow if they only change catalog data files, delete at most 60 programs, keep every existing `added` date, merge cleanly and pass the build check. Anything else is left on its branch for review.
-4. Each single-page repository ([Physics](https://github.com/ChiaraMingarelli/yale-physics-funding-finder), [Applied Physics](https://github.com/ChiaraMingarelli/yale-applied-physics-funding-finder), [Astronomy](https://github.com/ChiaraMingarelli/yale-astronomy-funding-finder), [NANOGrav](https://github.com/ChiaraMingarelli/nanohertz-opportunities)) copies its files from `sites/` every hour and publishes them, and republishes if its live site ever differs from the repository.
+3. Catalog updates from the scheduled Claude Code runs in step 1 are pushed to `claude/catalog-*` branches and merged into `main` by the **Accept catalog updates** workflow if they only change catalog data files, delete at most 60 programs, keep every existing `added` date, merge cleanly and pass the build check. Anything else is left on its branch for review.
+4. Each single-page repository ([Physics](https://github.com/ChiaraMingarelli/yale-physics-funding-finder), [Applied Physics](https://github.com/ChiaraMingarelli/yale-applied-physics-funding-finder), [Astronomy](https://github.com/ChiaraMingarelli/yale-astronomy-funding-finder), [NANOGrav](https://github.com/ChiaraMingarelli/nanohertz-opportunities)) copies its files from `sites/` and publishes them, and republishes if its live site ever differs from the repository. The copy is scheduled for every hour, but GitHub runs it only every few hours, so the single-page sites can be several hours behind the combined site.
 
 Deadlines move. Check the funder's page before you commit to a date.
 
 ## License
 
-The code (the scripts in the pages and in `engine/`) is released under the [MIT License](LICENSE). The catalog (`data/programs.json`), the data embedded in the pages and the page text are released under [CC BY 4.0](LICENSE-DATA), so you can reuse them with credit to Chiara Mingarelli. Program details come from each funder's own page; check there before relying on a date.
+The code (the scripts in the pages and in `engine/`) is released under the [MIT License](LICENSE). The catalog (`data/programs.json`), the data embedded in the pages and the page text are released under [CC BY 4.0](LICENSE-DATA), so you can reuse them with credit to Chiara Mingarelli. Program details come from each program's official posting; check there before relying on a date.
