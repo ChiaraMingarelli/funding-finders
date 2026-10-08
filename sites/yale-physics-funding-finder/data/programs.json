@@ -29,38 +29,6 @@
   "us": false
  },
  {
-  "a": "Medal + recognition",
-  "added": "2026-09-29",
-  "aud": [
-   "yale",
-   "ng",
-   "radar",
-   "ast"
-  ],
-  "c": "Prize",
-  "checked": "2026-10-07",
-  "d": null,
-  "dt": "Last deadline Oct 5, 2026; the AAS page could not be reached to check for an extension",
-  "e": "For undergraduates and graduate students presenting research. The meeting is Jan 10–14, 2027 in Salt Lake City.",
-  "f": "AAS",
-  "fields": [
-   "astro"
-  ],
-  "id": "aas-249-abstracts-chambliss-student-award",
-  "n": "AAS 249 abstracts / Chambliss Student Award",
-  "nfit": "Medium",
-  "nom": false,
-  "region": "US",
-  "s": "watch",
-  "stages": [
-   "ug",
-   "gr"
-  ],
-  "u": "https://aas.org/meetings/aas249/abstracts",
-  "unv": "The AAS page returned HTTP 403 on 2026-10-07; whether the Oct 5, 2026 deadline was extended could not be checked.",
-  "us": false
- },
- {
   "a": "Up to $20,000 per year (travel, salary, publication costs, small equipment)",
   "added": "2026-10-07",
   "aud": [
@@ -135,9 +103,9 @@
    "ast"
   ],
   "c": "Travel",
-  "checked": "2026-09-29",
+  "checked": "2026-10-08",
   "d": "2027-04-01",
-  "dt": "Special round for the IAU General Assembly (Rome); next round May 1",
+  "dt": "Special round for the IAU General Assembly (Rome, Aug 10–19, 2027); the regular round for other meetings is due May 1",
   "e": "For people employed at or studying at US institutions.",
   "f": "AAS",
   "fields": [
@@ -149,7 +117,7 @@
   "nom": false,
   "pt": "other",
   "region": "US",
-  "s": "watch",
+  "s": "open",
   "stages": [
    "tt",
    "ten",
@@ -157,7 +125,7 @@
    "gr"
   ],
   "u": "https://aas.org/grants-and-prizes/international-travel-grants",
-  "unv": "AAS page returned 403 on Oct 7, 2026; round dates could not be reconfirmed.",
+  "unv": "aas.org returned 403 to automated requests on Oct 8, 2026; the Apr 1, 2027 date is from the AAS application page as shown in search results. An AAS news item gives Jan 15, 2027 for GA abstracts and grant applications, which appears to be the IAU's own deadline.",
   "us": false
  },
  {
@@ -235,7 +203,7 @@
   "checked": "2026-10-07",
   "d": null,
   "dt": "Rolling",
-  "e": "US researchers; grad students can be PI on Explore. Coordinator-verified.",
+  "e": "US researchers; grad students can be PI on Explore.",
   "f": "NSF ACCESS",
   "fields": [
    "ds",
@@ -270,7 +238,7 @@
   "checked": "2026-10-07",
   "d": "2027-01-31",
   "dt": "Window Dec 15, 2026 to Jan 31, 2027",
-  "e": "US researchers needing large allocations; full proposal reviewed by panel. Coordinator-verified.",
+  "e": "US researchers needing large allocations; full proposal reviewed by panel.",
   "f": "NSF ACCESS",
   "fields": [
    "ds",
@@ -764,10 +732,10 @@
    "ast"
   ],
   "c": "Travel",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-25",
-  "dt": "",
-  "e": "For DGRAV members presenting at the APS Global Physics Summit 2027. Requires an advisor letter.",
+  "dt": "Apply by Oct 25, 2026; the advisor's brief statement of support is due the same day",
+  "e": "For graduate students and advanced undergraduates who are DGRAV members and are giving a talk or poster at the 2027 APS Global Physics Summit. A supervisor or advisor sends a brief (1-2 sentence) statement of support.",
   "f": "APS Division of Gravitational Physics",
   "fields": [
    "grav"
@@ -850,9 +818,9 @@
    "ap"
   ],
   "c": "Travel",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-25",
-  "dt": "11:59 pm ET; requires an abstract in a DMP Focus Topic",
+  "dt": "Apply by Oct 25, 2026, 11:59 pm ET; advisor letter of support due the same day; requires an abstract in a DMP Focus Topic",
   "e": "Travel awards for postdocs presenting materials-physics research in DMP Focus Topic sessions at the 2027 APS Global Physics Summit, chosen on research quality and innovation.",
   "f": "APS Division of Materials Physics",
   "fields": [
@@ -937,9 +905,9 @@
    "ap"
   ],
   "c": "Instrumentation",
-  "checked": "2026-10-03",
+  "checked": "2026-10-08",
   "d": "2026-10-21",
-  "dt": "2027-1 call due Oct 21, 2026; next calls ~March and ~June 2027",
+  "dt": "2027-1 call due Oct 21, 2026 (call opened Sept 14, 2026)",
   "e": "Peer-reviewed synchrotron beamtime for x-ray scattering, spectroscopy and imaging, for example resonant scattering and diffraction on oxide films and quantum materials. Open to researchers from any institution.",
   "f": "Argonne National Laboratory / DOE BES",
   "fields": [
@@ -960,7 +928,7 @@
    "gr"
   ],
   "u": "https://www.aps.anl.gov/Users-Information/About-Proposals/Proposal-Deadlines-and-Meetings",
-  "unv": "Official page returned HTTP 403 on the Oct 7, 2026 recheck; the Oct 21, 2026 deadline was not re-confirmed",
+  "unv": "The official deadlines page returns HTTP 403 to automated checks. On Oct 8, 2026 the Oct 21, 2026 deadline was confirmed from a search-engine copy of that page's table, not from the live page.",
   "us": false
  },
  {
@@ -1596,10 +1564,10 @@
    "ap"
   ],
   "c": "Federal grant",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2027-04-30",
-  "dt": "Posted 2021-04-16",
-  "e": "IHEs, non-profits, for-profits, individuals. Incubator projects, Collaboratory partnerships and QuaCR Fellowships in qubit/QIS research.",
+  "dt": "Broad agency announcement open until Apr 30, 2027",
+  "e": "Army Research Office broad agency announcement with NSA's Laboratory for Physical Sciences for qubit and quantum-information research: Incubator projects, Collaboratory partnerships and QuaCR graduate and postdoctoral fellowships. Universities, non-profits, companies and individuals may apply; the fellowships are for US citizens working with an investigator who holds an ARO or LPS quantum-information award, and that investigator submits the proposal.",
   "f": "DOD ARO / LPS",
   "fields": [
    "qp",
@@ -1615,6 +1583,7 @@
    }
   ],
   "nom": false,
+  "pt": "other",
   "s": "open",
   "stages": [
    "tt",
@@ -1780,9 +1749,9 @@
    "ast"
   ],
   "c": "Fellowship",
-  "checked": "2026-09-30",
+  "checked": "2026-10-08",
   "d": "2026-10-23",
-  "dt": "Oct 23, 2026, 12:00 CEST (contact staff sponsor by Oct 9)",
+  "dt": "Oct 23, 2026, 12:00 noon CEST, by email with subject POSTDOC 2027; contact a supervisor at the institute before Oct 9, 2026",
   "e": "Galaxies, stars, compact objects, solar physics, GWs and interplanetary matter. Applicants must contact a staff sponsor before Oct 9.",
   "f": "Astronomical Institute of the Czech Academy of Sciences, Ondřejov/Prague; contact Lenka Čiháková",
   "fields": [
@@ -1800,8 +1769,7 @@
   "stages": [
    "pd"
   ],
-  "u": "https://aas.org/jobregister/ad/8b7ef074",
-  "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
+  "u": "https://www.asu.cas.cz/en/about/open-positions",
   "us": false
  },
  {
@@ -1954,7 +1922,7 @@
   "checked": "2026-10-07",
   "d": null,
   "dt": "Rolling; nomination by a German host",
-  "e": "Internationally recognized researchers within 18 yrs of PhD; nominated by a researcher in Germany. Coordinator-verified.",
+  "e": "Internationally recognized researchers within 18 yrs of PhD; nominated by a researcher in Germany.",
   "f": "Alexander von Humboldt Foundation",
   "fields": [
    "all"
@@ -1979,9 +1947,9 @@
    "ap"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": null,
-  "dt": "no deadline stated; listed until 2026-11-11",
+  "dt": "No deadline stated; the AcademicJobsOnline ad is listed until Nov 11, 2026",
   "e": "Institute-wide postdocs in mathematics and theoretical physics (condensed matter theory, high energy theory, mathematical physics, amplitudes, string theory). PhD before appointment.",
   "f": "Beijing Institute of Mathematical Sciences and Applications (BIMSA)",
   "fields": [
@@ -1992,7 +1960,7 @@
   "n": "BIMSA: Postdoctoral positions (incl. theoretical physics)",
   "nom": false,
   "pt": "group",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:31181",
   "stages": [
    "pd"
@@ -2693,9 +2661,9 @@
    "ast"
   ],
   "c": "Fellowship",
-  "checked": "2026-09-30",
+  "checked": "2026-10-08",
   "d": "2026-10-15",
-  "dt": "Oct 15, 2026",
+  "dt": "Oct 15, 2026; references needed by Oct 20, 2026",
   "e": "Cosmology and astrophysics, including CMB, galaxies, dark matter, GWs and instrumentation. PhD or thesis submitted by the start.",
   "f": "Kavli Institute for Cosmology, Cambridge (IoA, Cavendish, DAMTP)",
   "fields": [
@@ -2712,8 +2680,7 @@
   "stages": [
    "pd"
   ],
-  "u": "https://aas.org/jobregister/ad/8c7f51df",
-  "unv": "AAS job-register page blocked (HTTP 403) on 2026-10-07; the KICC ad confirms salary scales and the £10,000/yr allowance (references needed by Oct 20, 2026) but shows no closing date, so Oct 15 is not reconfirmed",
+  "u": "https://www.cam.ac.uk/jobs/kavli-institute-fellowship-in-cosmology-and-astrophysics-fixed-term-ka50918",
   "us": false
  },
  {
@@ -3024,9 +2991,9 @@
    "yale"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-15",
-  "dt": "Oct 15, 2026",
+  "dt": "Position to be filled by Oct 15, 2026; later complete applications considered until filled",
   "e": "High-precision characterization and calibration of ultra-low-threshold cryogenic detectors. Requires a PhD in astroparticle, particle or nuclear physics.",
   "f": "CEA Saclay; Loïc Thulliez, David Lhuillier",
   "fields": [
@@ -3038,7 +3005,7 @@
   "n": "CEA Saclay: Cryogenic detectors for dark matter & CEvNS",
   "nom": false,
   "pt": "group",
-  "s": "open",
+  "s": "rolling",
   "src": "inspire:3203617",
   "stages": [
    "pd"
@@ -3451,9 +3418,9 @@
    "ast"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-11-02",
-  "dt": "Nov 2, 2026, 5 pm ET; Yale internal ~mid-Oct",
+  "dt": "Nov 2, 2026, 5 pm ET",
   "e": "US citizen seniors/recent grads from participating institutions (Yale participates), endorsed by the institution.",
   "f": "Winston Churchill Foundation",
   "fields": [
@@ -5528,7 +5495,7 @@
    "ap"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-09",
   "dt": "Apply by Oct 9, 2026 for full consideration; rolling until filled",
   "e": "Postdoctoral-level fellowship (2 years, renewable for a third) in computational quantum many-body physics, quantum materials and related methods, starting Aug-Nov 2027 in New York. No citizenship restriction stated.",
@@ -5544,7 +5511,7 @@
   "nom": false,
   "pt": "prize",
   "region": "US",
-  "s": "open",
+  "s": "rolling",
   "src": "other:flatiron-ccq-research-fellow",
   "stages": [
    "pd"
@@ -5971,7 +5938,7 @@
    "ug"
   ],
   "u": "https://goldwaterscholarship.gov/",
-  "unv": "Yale internal date per coordinator",
+  "unv": "The Yale campus date is from the Yale Student Grants Database; funding.yale.edu still shows an old date.",
   "us": true,
   "yale": {
    "d": "2026-11-10",
@@ -6736,7 +6703,7 @@
   "checked": "2026-10-07",
   "d": "2027-07-01",
   "dt": "Submission window May 3 to Jul 1, 2027",
-  "e": "Organizers of scientific meetings in the foundation's science areas. Coordinator-verified.",
+  "e": "Organizers of scientific meetings in the foundation's science areas.",
   "f": "Heising-Simons Foundation",
   "fields": [
    "astro",
@@ -7169,7 +7136,7 @@
   "checked": "2026-10-07",
   "d": null,
   "dt": "Next call opens Nov 15, 2026 and closes once it has 800 applications",
-  "e": "PhD within the last 12 yrs, with a German host. Coordinator-verified.",
+  "e": "PhD within the last 12 yrs, with a German host.",
   "f": "Alexander von Humboldt Foundation",
   "fields": [
    "all"
@@ -8390,13 +8357,13 @@
   "us": false
  },
  {
-  "a": "",
+  "a": "Salary not listed; 24 months from Jan 1, 2027",
   "added": "2026-10-07",
   "aud": [
    "yale"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-20",
   "dt": "Oct 20, 2026, 23:59 Paris time",
   "e": "A 24-month postdoc starting Jan 2027 applying deep learning to particle physics in the DRIFTS project. Apply by email with CV, cover letter and two reference letters.",
@@ -8431,7 +8398,7 @@
   ],
   "c": "Fellowship",
   "checked": "2026-10-08",
-  "d": null,
+  "d": "2026-11-30",
   "dt": "Send CV, publication list and research statement to David Hilditch (subject \"FCT-Application-2026\") before December 2026, when the FCT call opens; start around Summer 2027",
   "e": "The grit gravity group will support a few candidates applying to the upcoming FCT individual researcher contract call. Open to researchers at different experience levels; no citizenship limits stated.",
   "f": "Instituto Superior Tecnico, Lisbon, CENTRA gravity group (grit); contact David Hilditch",
@@ -8454,7 +8421,7 @@
   "us": false
  },
  {
-  "a": "min €76,986 gross/yr + €25,000/yr research; 3 years",
+  "a": "min €76,986 gross/yr + €25,000/yr research budget; 2-year contract, expected to be renewed for a third year after review",
   "added": "2026-09-30",
   "asub": [
    "cos"
@@ -8465,9 +8432,9 @@
    "ast"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-15",
-  "dt": "Oct 15, 2026, 14:00 CEST",
+  "dt": "Oct 15, 2026, 14:00 CEST; at least 2 of 3 reference letters must arrive by then",
   "e": "Independent programs in astronomy, astrophysics and cosmology. PhD no more than 6 years before the start.",
   "f": "Institute of Science and Technology Austria, Klosterneuburg",
   "fields": [
@@ -8763,7 +8730,7 @@
    "ap"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-09",
   "dt": "INSPIRE deadline Oct 9, 2026; review on receipt until filled",
   "e": "Postdoc or research professor on storage-ring beam dynamics for short-pulse generation via laser-seeded FEL schemes. PhD within the last 2 years for the postdoc track; no citizenship limit stated.",
@@ -8777,7 +8744,7 @@
   "nom": false,
   "pt": "group",
   "region": "International",
-  "s": "open",
+  "s": "rolling",
   "src": "inspire:3205751",
   "stages": [
    "pd"
@@ -9164,7 +9131,7 @@
    "ast"
   ],
   "c": "Summer program",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-16",
   "dt": "Pre-proposals due Oct 16, 2026 for programs in 2028-29; preliminary decisions at the Advisory Board meeting in early March 2027",
   "e": "3 to 4 prospective organizers plus ~20 participants; reviewed by subfield committees and the Advisory Board.",
@@ -9188,7 +9155,7 @@
    "ten"
   ],
   "u": "https://www.kitp.ucsb.edu/scientific-activities/lead/submit-a-program-proposal",
-  "unv": "Page gives \"October 16\" without a year; the year follows from the 2028-29 cycle it names",
+  "unv": "Page gives \"October 16\" without a year; the year follows from the 2028-29 cycle it names. The pre-proposal, guidelines and visit pages (checked Oct 8, 2026) do not say what KITP pays for, so the award note is not confirmed there.",
   "us": false
  },
  {
@@ -10123,9 +10090,9 @@
    "ap"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-11",
-  "dt": "Oct 11, 2026",
+  "dt": "INSPIRE listing deadline Oct 11, 2026; the ad says review continues until the position is filled",
   "e": "Build an atomic hydrogen beam for Project 8 (and KATRIN-related) neutrino mass work. Requires an experimental physics PhD; atomic-beam experience preferred.",
   "f": "Johannes Gutenberg University Mainz; Martin Fertl, Sebastian Böser",
   "fields": [
@@ -10137,7 +10104,7 @@
   "n": "Mainz U.: Project 8 atomic hydrogen beam development",
   "nom": false,
   "pt": "group",
-  "s": "open",
+  "s": "rolling",
   "src": "inspire:3194860",
   "stages": [
    "pd"
@@ -10225,9 +10192,9 @@
    "ast"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-15",
-  "dt": "Oct 15, 2026",
+  "dt": "Oct 15, 2026 (INSPIRE listing); applications reviewed on a rolling basis until filled",
   "e": "AI/ML applications for rare-event searches with cryogenic detectors. Requires a PhD in particle or astroparticle physics with an AI/ML background.",
   "f": "Marietta Blau Institute (ÖAW), Vienna; Jochen Schieck, Florian Reindl",
   "fields": [
@@ -10241,13 +10208,13 @@
   "nom": false,
   "pt": "group",
   "region": "International",
-  "s": "open",
+  "s": "rolling",
   "src": "inspire:3179833",
   "stages": [
    "pd"
   ],
   "u": "https://www.oeaw.ac.at/jobs?jh=uy5i0affp3iqf8t6bwrmcvptsjrjvhk",
-  "unv": "OeAW job page returned 403 on Oct 7, 2026; deadline taken from the INSPIRE listing (a third-party repost gave an Aug 15, 2026 window).",
+  "unv": "The OeAW job page blocked automated access (HTTP 403) on Oct 8, 2026; the deadline and the rolling-review note come from the INSPIRE listing (a third-party repost gave an Aug 15, 2026 window).",
   "us": false
  },
  {
@@ -10781,9 +10748,9 @@
    "ap"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-23",
-  "dt": "2026/10/23 23:59:59 (time zone not stated on page)",
+  "dt": "Oct 23, 2026, 11:59:59 pm (time zone not stated on the ad)",
   "e": "Interdisciplinary quantum science fellowship. PhD on/after Jan 1, 2025; start Jan 1-Sep 1, 2027.",
   "f": "MIT School of Science, Quantum MIT initiative",
   "fields": [
@@ -11016,7 +10983,7 @@
    "ap"
   ],
   "c": "Foundation",
-  "checked": "2026-10-03",
+  "checked": "2026-10-08",
   "d": null,
   "dt": "Last pre-application deadline Mar 27, 2026; the next open call is planned for 2029 and is not posted yet",
   "e": "US faculty (tenured, tenure-track or research). Fellows track requires a first tenure-track appointment beginning in 2024 or later.",
@@ -11033,8 +11000,8 @@
    "tt",
    "ten"
   ],
-  "u": "https://epiqs.smapply.io/prog/2026_synthesis/",
-  "unv": "Program page returned 404 on 2026-10-07; the 2029 next-call plan is confirmed on the EPiQS Experimental Investigators page.",
+  "u": "https://www.moore.org/initiative-additional-info?initiativeId=emergent-phenomena-in-quantum-systems",
+  "unv": "The 2026 synthesis call page on epiqs.smapply.io was removed (404); the plan for open calls in 2029 and 2032 is stated on the EPiQS 2026 Experimental Investigators call page.",
   "us": false
  },
  {
@@ -11045,7 +11012,7 @@
    "ap"
   ],
   "c": "Foundation",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-08",
   "dt": "Pre-proposal due Oct 8, 2026, noon PT (hard deadline). Invited full proposals due early Feb 2027; awards in Aug 2027.",
   "e": "Received tenure for the first time within the past 5 years (or equivalent), at a US nonprofit or public institution. Experimental only (AMO, condensed matter, quantum information, precision measurement and more). No theory or large collaborations.",
@@ -11067,7 +11034,6 @@
    "ten"
   ],
   "u": "https://www.moore.org/initiative-strategy-detail?initiativeId=moore-investigators-in-experimental-physics-initiative",
-  "unv": "Oct 8 date is from the application portal, not the main program page",
   "us": false
  },
  {
@@ -11191,7 +11157,7 @@
    "ast"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-15",
   "dt": "Full consideration Sep 15, 2026; later applications considered until Oct 15, 2026 if unfilled",
   "e": "Nanoparticle mass spectrometry in the SRET ion trap for ISM chemistry. Hands-on UHV, laser and RF-ion-trap experience needed.",
@@ -11212,7 +11178,7 @@
   "stages": [
    "pd"
   ],
-  "u": "https://recruitingapp-5257.de.umantis.com/Vacancies/710/Application/CheckLogin/2?lang=eng",
+  "u": "https://www.mpe.mpg.de/8221585/job_full_offer_26916354?c=247046",
   "us": false
  },
  {
@@ -11309,9 +11275,9 @@
    "ast"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-13",
-  "dt": "Oct 13, 2026",
+  "dt": "Oct 13, 2026, 12 pm CEST",
   "e": "GCMs with chemistry and hazes, sub-Neptune photochemistry and retrieval parameterizations. Requires a PhD in astronomy or related.",
   "f": "Max Planck Institute for Astronomy, APEx; supervisor Elspeth Lee",
   "fields": [
@@ -11378,9 +11344,9 @@
    "ast"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-13",
-  "dt": "Oct 13, 2026",
+  "dt": "Oct 13, 2026, 12 pm CEST",
   "e": "Direct imaging and spectroscopy of exoplanets with GRAVITY+, Roman CGI and ELT/METIS. Requires a PhD in astronomy or related.",
   "f": "Max Planck Institute for Astronomy, APEx; group of Wolfgang Brandner",
   "fields": [
@@ -11557,7 +11523,7 @@
   "checked": "2026-10-07",
   "d": null,
   "dt": "Monthly, by the 15th",
-  "e": "US-based researchers and educators. Coordinator-verified.",
+  "e": "US-based researchers and educators.",
   "f": "NSF-led NAIRR Pilot",
   "fields": [
    "ds",
@@ -11593,7 +11559,7 @@
   "checked": "2026-10-07",
   "d": null,
   "dt": "Rolling",
-  "e": "US-based researchers. Coordinator-verified.",
+  "e": "US-based researchers.",
   "f": "NSF-led NAIRR Pilot",
   "fields": [
    "ds",
@@ -11835,10 +11801,10 @@
    "ast"
   ],
   "c": "Federal grant",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": null,
-  "dt": "Not solicited in ROSES-24 or ROSES-25",
-  "e": "Dormant. The FY27 request cuts Physics of the Cosmos to $3.8M.",
+  "dt": "Last solicited in ROSES-2024 (element D.15; proposals were due Mar 20, 2025); not in ROSES-2025.",
+  "e": "Supports US investigators doing research that prepares for LISA science. The FY2027 budget request would cut Physics of the Cosmos to $3.8M.",
   "f": "NASA SMD",
   "fields": [
    "grav",
@@ -12000,7 +11966,7 @@
   "us": false
  },
  {
-  "a": "Multi-node networks, up to 3 yr",
+  "a": "Multi-node networks, up to 3 years; NASA expects about $6M in first-year funding across 5-6 new awards",
   "added": "2026-09-28",
   "asub": [
    "he"
@@ -12011,7 +11977,7 @@
    "ast"
   ],
   "c": "Federal grant",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-15",
   "dt": "Mandatory NOI Oct 15; proposal Dec 3, 2026",
   "e": "This round focuses on time-domain multi-messenger astrophysics. It must be a multi-institution network with one PI per proposal, and review is dual-anonymous.",
@@ -12788,17 +12754,17 @@
   "us": false
  },
  {
-  "a": "not listed",
+  "a": "Salary and research development support set by each participating NIH institute; up to 5 years",
   "added": "2026-09-29",
   "aud": [
    "yale",
    "ap"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-12",
   "dt": "Next due date Oct 12, 2026 (new; Nov 12, 2026 for resubmissions); then Feb 12, 2027. The notice expires May 8, 2027",
-  "e": "Investigators with quantitative backgrounds (math, physics, CS, statistics) moving into health research; clinical-trial-not-allowed version.",
+  "e": "Investigators with quantitative backgrounds (math, physics, CS, statistics) moving into health research; clinical-trial-not-allowed version. US citizens, non-citizen nationals or permanent residents only (by the time of award).",
   "f": "NIH",
   "fields": [
    "bio",
@@ -12820,7 +12786,7 @@
    "tt"
   ],
   "u": "https://simpler.grants.gov/opportunity/bfff80db-fe94-4069-b095-ea79fe5fe2c8",
-  "us": false
+  "us": true
  },
  {
   "a": "Typically up to 5 years; budget is not capped by the parent NOFO",
@@ -12865,9 +12831,9 @@
    "ap"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-12",
-  "dt": "Due Oct 12, 2026 and Feb 12, 2027. NIH is extending parent K NOFOs to July 13, 2027, and a new consolidated 'KT' transition award starts with due dates on or after Oct 12, 2027",
+  "dt": "Due Oct 12, 2026 and Feb 12, 2027. NIH plans to extend parent K NOFOs to July 13, 2027 (the notice now expires May 8, 2027), and a new consolidated 'KT' transition award starts with due dates on or after Oct 12, 2027",
   "e": "Postdocs with no more than 4 years of postdoctoral experience; no citizenship requirement. Not all ICs participate (NCI dropped out in 2025), so check that NIGMS or another fitting IC accepts the application.",
   "f": "NIH",
   "fields": [
@@ -14132,10 +14098,10 @@
    "ast"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-23",
   "dt": "Physics & Astronomy: Oct 23, 2026, 8 pm ET; reference letters by Oct 16, 2026",
-  "e": "College seniors and first-year grad students (limited second-year eligibility) in research degrees; US citizens, nationals or permanent residents.",
+  "e": "College seniors, bachelor's degree holders not yet enrolled in a graduate program, and students in the first year of their first graduate program (graduate students can apply only once), for research-based degrees; US citizens, nationals or permanent residents.",
   "f": "NSF",
   "fields": [
    "all"
@@ -14303,7 +14269,7 @@
    "ast"
   ],
   "c": "Instrumentation",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": null,
   "dt": "No FY2026 window (NSF funded more FY2025 proposals instead). NSF had signaled an Oct 15 to Nov 16, 2026 window, but NSF 23-519 is archived and the FY2027 solicitation is 'waiting for new publication'",
   "e": "Limited submission under 23-519: max 2 Track 1, 1 Track 2 and 1 Track 3 per organization (Yale internal competition). Cost sharing was waived for 5 yrs starting with FY2023 (would cover FY2027 unless changed).",
@@ -14327,7 +14293,7 @@
   "us": false,
   "yale": {
    "d": "2026-04-13",
-   "t": "Yale internal application for NSF 23-519 MRI (up to $4M), sponsor deadline Nov 16, 2026. Apply via InfoReady. The internal deadline has passed.",
+   "t": "Yale's internal competition for NSF MRI under NSF 23-519 (up to $4M) closed Apr 13, 2026, for a sponsor window then expected to end Nov 16, 2026. NSF has since archived 23-519 and expects to issue a new MRI solicitation for FY2027.",
    "u": "https://research.yale.edu/funding-opportunities-newsletter-archive",
    "unv": "Source is the Mar 11, Mar 18, Apr 1 and Apr 8, 2026 Yale Funding Opportunities newsletters."
   }
@@ -14662,10 +14628,10 @@
    "ap"
   ],
   "c": "Federal grant",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": null,
-  "dt": "Full proposal accepted anytime under NSF 26-523 (PIF and QIS are listed separately).",
-  "e": "Faculty PIs. PIF covers computing and data science for physics; QIS covers quantum information science. Both are options for quantum-sensing or AI/ML work in particle and nuclear physics.",
+  "dt": "QIS proposals accepted anytime under NSF 26-523. The PIF program page lists no PIF topic open for proposals.",
+  "e": "Faculty PIs. PIF covers computing and data science for physics; QIS covers quantum information science. QIS is an option for quantum-sensing or AI/ML work in particle and nuclear physics; PIF takes proposals only in announced topics.",
   "f": "NSF MPS/PHY (NSF 26-523)",
   "fields": [
    "ds",
@@ -15640,14 +15606,14 @@
   "us": false
  },
  {
-  "a": "3 years of guaranteed funding.",
+  "a": "Fellowship funding covers the first 3 years of ORNL employment; salary not listed.",
   "added": "2026-09-28",
   "aud": [
    "yale",
    "ap"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-16",
   "dt": "Current window Sep 1 to Oct 16, 2026, 11:59 pm Eastern. Three cycles a year (January, May, September).",
   "e": "PhD before start and no more than 5 years past the degree at application. Needs a proposal aligned with the ORNL mission.",
@@ -15668,7 +15634,7 @@
    "pd"
   ],
   "u": "https://jobs.ornl.gov/job/Oak-Ridge-Distinguished-Staff-Fellowship-Program-TN-37830/1424893900/",
-  "unv": "The program page ornl.gov/careers/distinguished-fellowships returns 404; dates confirmed on the ORNL job posting (requisition 17022), which also names the Wigner Fellows.",
+  "unv": "Window and deadline confirmed on the ORNL job posting (requisition 17022) on Oct 8, 2026. The program page ornl.gov/careers/distinguished-fellowships blocked automated access, so the note about three cycles a year was not reconfirmed.",
   "us": false
  },
  {
@@ -15807,7 +15773,7 @@
   "us": false,
   "yale": {
    "d": null,
-   "t": "Yale nominates through an internal InfoReady competition (2026 cycle's internal deadline was Jan 26, 2026). Yale Research Development holds a Packard / limited-submissions info session on Oct 6, 2026 (registration required); the 2027 internal date is not announced yet.",
+   "t": "Yale nominates through an internal InfoReady competition (2026 cycle's internal deadline was Jan 26, 2026); the 2027 internal date is not announced yet.",
    "u": "https://research.yale.edu/funding-opportunities-newsletter-archive",
    "unv": "Jan 26, 2026 is confirmed from the Jan 21, 2026 newsletter. The next cycle's date is unconfirmed."
   }
@@ -15900,7 +15866,7 @@
   "us": false
  },
  {
-  "a": "not listed",
+  "a": "Pre-tax salary of 200,000 RMB/yr for 24 months, plus social insurance and benefits; 60,000 RMB subsidy if no postdoc housing; the PKU supervisor may add 30,000, 60,000 or 90,000 RMB/yr",
   "added": "2026-09-30",
   "asub": [
    "he"
@@ -15912,7 +15878,7 @@
    "ast"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-14",
   "dt": "2026/10/14 23:59:59 (time zone not stated on page)",
   "e": "Astrophysics and gravitational physics fellowship; requires support of a PKU faculty host and letters from PhD supervisor and prospective PKU supervisor. Start before July 2027.",
@@ -16103,16 +16069,16 @@
   }
  },
  {
-  "a": "Full funding for self-designed project; salary not listed on the posting",
+  "a": "$118,000/yr (posted salary); full funding for a self-designed research project",
   "added": "2026-10-03",
   "aud": [
    "yale",
    "ap"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-15",
-  "dt": "Posting closes Oct 15, 2026",
+  "dt": "Oct 15, 2026, 4:00 pm Pacific time",
   "e": "Distinguished fellowship for recent/upcoming PhDs (PhD in 2024 or later, or by Aug 31, 2027) to run their own research program at PNNL in scientific discovery, sustainable energy, national security or data science and computing; start fall 2027. Applicants must have legal right to work in the US.",
   "f": "Pacific Northwest National Laboratory",
   "fields": [
@@ -16132,7 +16098,6 @@
    "pd"
   ],
   "u": "https://careers.pnnl.gov/jobs/11983?lang=en-us",
-  "unv": "Salary not on PNNL page (third-party sites say up to $118,000/yr).",
   "us": false
  },
  {
@@ -16193,16 +16158,16 @@
   "us": false
  },
  {
-  "a": "competitive; 3 years",
+  "a": "$82,000–90,000/yr + $10,000/yr research funds; 3 years",
   "added": "2026-09-30",
   "aud": [
    "yale",
    "ap"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-09",
-  "dt": "Oct 9, 2026",
+  "dt": "Full consideration by Oct 9, 2026, 11:59 PM; posting closes Oct 16, 2026, 11:59 PM ET",
   "e": "Quantum science: materials, devices and computing. Requires a PhD (or near completion) in physics, EE, chemistry or CS.",
   "f": "Princeton University; contact Alison Cummins",
   "fields": [
@@ -16424,10 +16389,10 @@
    "ap"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": null,
-  "dt": "no deadline stated",
-  "e": "Building optical instruments to measure and manipulate neural dynamics in C. elegans and Drosophila. Instrument-development, optics/microscopy and programming experience required.",
+  "dt": "No deadline stated; apply via Interfolio",
+  "e": "Building optical instruments to measure and manipulate neural dynamics in C. elegans and Drosophila. Instrument-development, optics/microscopy and programming experience required; no sponsorship for H-1B visas that need consular processing.",
   "f": "Princeton University, Department of Physics & Princeton Neuroscience Institute, Leifer Lab (Andrew Leifer)",
   "fields": [
    "bio",
@@ -16437,13 +16402,13 @@
   "n": "Princeton: Postdoc in Optical Instrumentation for Neuro/Biophysics (Leifer Lab)",
   "nom": false,
   "pt": "group",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:32075",
   "stages": [
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32075",
-  "unv": "AJO ad still posted with no deadline; the Interfolio application page (186001) loads by script and its open status could not be confirmed.",
+  "unv": "AJO ad (posted May 15, 2026) still up with no deadline; the Interfolio page (186001) loads by script and could not be checked, and the Leifer Lab positions page currently lists no open postdoc search.",
   "us": false
  },
  {
@@ -16484,16 +16449,16 @@
   "us": false
  },
  {
-  "a": "competitive salary + $10,000/yr research; 3 years",
+  "a": "$82,000–90,000/yr + $10,000/yr research funds; 3 years",
   "added": "2026-09-30",
   "aud": [
    "yale",
    "ap"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-09",
-  "dt": "Oct 9, 2026, 11:59 PM; apply via Interfolio",
+  "dt": "Full consideration by Oct 9, 2026, 11:59 PM; Interfolio posting closes Oct 16, 2026, 11:59 PM ET; apply via Interfolio",
   "e": "Foundational quantum science, quantum materials, quantum devices and quantum computer science. PhD (or near) in physics, EE, chemistry or CS.",
   "f": "Princeton University, Princeton Quantum Initiative",
   "fields": [
@@ -16688,7 +16653,7 @@
   "checked": "2026-10-07",
   "d": null,
   "dt": "Last deadline Oct 1, 2026 (science, engineering and math); 2028–2029 application details expected in spring 2027",
-  "e": "Scientists with a strong record (typically post-tenure or senior; untenured faculty with significant publications can apply). Coordinator-verified.",
+  "e": "Scientists with a strong record (typically post-tenure or senior; untenured faculty with significant publications can apply).",
   "f": "Harvard Radcliffe Institute",
   "fields": [
    "all"
@@ -16990,14 +16955,14 @@
   "us": true
  },
  {
-  "a": "~$2,800/month",
+  "a": "Scholarship up to 8,000 NIS (about $2,700) per month",
   "added": "2026-09-30",
   "aud": [
    "yale",
    "ap"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-18",
   "dt": "Oct 18, 2026 (extended on INSPIRE)",
   "e": "Theory of quantum mechanics and QCD. Requires a PhD; apply by email.",
@@ -17309,7 +17274,7 @@
   "checked": "2026-10-07",
   "d": "2026-10-29",
   "dt": "LOI Oct 29, 2026, noon ET",
-  "e": "Multi-institution teams led by faculty at eligible institutions. Coordinator-verified.",
+  "e": "Multi-institution teams led by faculty at eligible institutions.",
   "f": "Simons Foundation",
   "fields": [
    "all"
@@ -17458,7 +17423,7 @@
   "checked": "2026-10-07",
   "d": null,
   "dt": "Rolling LOI",
-  "e": "Tenure-track or tenured faculty; start with an LOI. Coordinator-verified.",
+  "e": "Tenure-track or tenured faculty; start with an LOI.",
   "f": "Simons Foundation",
   "fields": [
    "all"
@@ -17633,7 +17598,7 @@
   "us": false,
   "yale": {
    "d": null,
-   "t": "Sloan nominations come from the department; no central Yale limited-submission competition was found. Contact the Physics chair.",
+   "t": "Sloan nominations come from the department; no central Yale limited-submission competition was found. Contact your department chair.",
    "u": "https://researchdev.yale.edu/limited-submissions-internal-competitions",
    "unv": "No Yale page found. Internal department timing is unverified."
   }
@@ -17676,7 +17641,7 @@
    "ast"
   ],
   "c": "Group postdoc",
-  "checked": "2026-09-30",
+  "checked": "2026-10-08",
   "d": "2026-10-17",
   "dt": "Oct 17, 2026",
   "e": "Model local interstellar medium interactions seen in IBEX/IMAP neutral atoms. Requires a PhD and Python/C/C++ or Mathematica.",
@@ -17696,7 +17661,7 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/48ea5448",
-  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
+  "unv": "Deadline and pay confirmed on Oct 8, 2026 on the CBK PAN announcement (ref. DK.110.K.5.2026.WR) linked from the PI's website; the AAS Job Register blocks automated access.",
   "us": false
  },
  {
@@ -17909,9 +17874,9 @@
    "ap"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": null,
-  "dt": "no deadline stated",
+  "dt": "No deadline stated; apply on AcademicJobsOnline (ad posted Nov 1, 2025)",
   "e": "Understanding AI through theory and numerical experiments using tools from physics, math, CS and neuroscience.",
   "f": "Stanford Institute for Theoretical Physics, Simons Collaboration on the Physics of Learning and Neural Computation (Surya Ganguli, Eva Silverstein)",
   "fields": [
@@ -17921,7 +17886,7 @@
   "n": "Stanford: Postdocs, Simons Collaboration on the Physics of Learning",
   "nom": false,
   "pt": "group",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:31056",
   "stages": [
    "pd"
@@ -18833,7 +18798,7 @@
    "yale"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": null,
   "dt": "Full consideration by Sep 30, 2026; applications are still considered until the position is filled.",
   "e": "Interdisciplinary research with ML, AI and simulation-based inference. Requires a PhD in physics or astrophysics; data science expertise preferred.",
@@ -18851,7 +18816,8 @@
   "stages": [
    "pd"
   ],
-  "u": "http://www.decodingnature.com",
+  "u": "https://www.decodingnature.com/",
+  "unv": "INSPIRE closed its listing at the Sep 30, 2026 deadline field; the ad says applications are considered until the position is filled. The group's jobs page does not list this fellowship.",
   "us": false
  },
  {
@@ -19068,9 +19034,9 @@
    "ast"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-09",
-  "dt": "Oct 9, 2026",
+  "dt": "Review of applications starts Oct 9, 2026; positions open until filled",
   "e": "Direct dark matter detection with SENSEI, PICO and SuperCDMS. Requires a PhD in particle physics and instrumentation expertise.",
   "f": "Université de Montréal; PI Alan Robinson",
   "fields": [
@@ -19084,7 +19050,7 @@
   "nom": false,
   "pt": "group",
   "region": "Canada",
-  "s": "open",
+  "s": "rolling",
   "src": "inspire:3205034",
   "stages": [
    "pd"
@@ -19689,9 +19655,9 @@
    "ap"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-15",
-  "dt": "Due Oct 15, 2026",
+  "dt": "Full consideration by Oct 15, 2026 (application form, materials and letters)",
   "e": "Independent postdoctoral fellowship in the physics of living systems for applicants with a doctorate in physics or related fields by fall 2027. No citizenship restriction stated.",
   "f": "University of Chicago, Center for Living Systems",
   "fields": [
@@ -20147,7 +20113,7 @@
   "us": false
  },
  {
-  "a": "",
+  "a": "Depends on the call: Ramón y Cajal is a 5-year contract followed by a permanent position; Juan de la Cierva, Margalida Comas and Vicenç Mut are 3-year fellowships",
   "added": "2026-10-07",
   "asub": [
    "he"
@@ -20159,7 +20125,7 @@
    "ast"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-25",
   "dt": "Expressions of interest to the group by Oct 25, 2026; the national Juan de la Cierva call closes Nov 26 and Ramón y Cajal Dec 11, 2026",
   "e": "The UIB gravity group invites expressions of interest from candidates it could support for competitive fellowships (junior and senior postdoc, and Ramón y Cajal tenure-track). Topics include gravitational-wave data analysis, waveform modelling and numerical relativity, with interest in IGWN, LISA and Einstein Telescope work.",
@@ -20191,9 +20157,9 @@
    "ap"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-15",
-  "dt": "2026/10/15 23:59:59 (time zone not stated on page)",
+  "dt": "Full consideration by Oct 15, 2026; apply through the Illinois Physics online form linked in the ad",
   "e": "Condensed matter theory and QIS: correlated and topological matter, non-equilibrium physics. Start Fall 2027.",
   "f": "University of Illinois Urbana-Champaign, Anthony J. Leggett Institute for Condensed Matter Theory (Director Eduardo Fradkin)",
   "fields": [
@@ -21000,9 +20966,9 @@
    "ap"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-20",
-  "dt": "2026/10/20 23:59:59 (time zone not stated on page); apply via UNM jobs req 38011",
+  "dt": "Review begins mid-October 2026; applications considered until the positions are filled. Apply via UNMJobs req 38011 (AJO lists 2026/10/20).",
   "e": "Quantum computation, control, measurement, communication and simulation. PhD in a QIS-related discipline.",
   "f": "University of New Mexico, Quantum New Mexico Institute (OVPR)",
   "fields": [
@@ -21012,7 +20978,7 @@
   "n": "University of New Mexico: QNM-I Postdoctoral Fellow",
   "nom": false,
   "pt": "prize",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:32802",
   "stages": [
    "pd"
@@ -21028,9 +20994,9 @@
    "ap"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": null,
-  "dt": "page gives Jan 15, 2026 for full consideration of Canada Impact+ award (posted 2026-08-31)",
+  "dt": "Open until filled; review of applications starts immediately; apply by email to Prof. Chi",
   "e": "Magnetic quantum hybrids, altermagnets, skyrmions, magnonics and nonreciprocal superconductors; MBE/MOCVD, crystal growth, device fabrication or transport background.",
   "f": "University of Ottawa, Quantum Electronic Devices and Circuits Lab (Hang Chi)",
   "fields": [
@@ -21041,13 +21007,13 @@
   "n": "University of Ottawa: Postdoc in Quantum Materials (Chi group)",
   "nom": false,
   "pt": "group",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:32559",
   "stages": [
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32559",
-  "unv": "The ad (posted Aug 31, 2026) gives Jan 15, 2026 for full consideration, which predates the posting and may be a typo; no deadline confirmed.",
+  "unv": "The AJO ad (posted Aug 31, 2026) gives Jan 15, 2026 for full consideration for the Canada Impact+ Research Training Award, which predates the posting; the lab's Join Us page (which links an earlier AJO ad, #30077) says its postdoc opening remains open until filled.",
   "us": false
  },
  {
@@ -21783,10 +21749,10 @@
    "ast"
   ],
   "c": "Foundation",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-12-07",
-  "dt": "Phase I Dec 7, 2026, 4:30 pm PT (Yale internal selection earlier)",
-  "e": "Limited to 3 Phase I submissions per institution; goes through Yale's internal competition. Coordinator-verified.",
+  "dt": "Application due Dec 7, 2026, 4:30 pm PT (single application for the June 2027 grant cycle; Yale internal selection earlier)",
+  "e": "Limited to 3 applications per institution; goes through Yale's internal competition.",
   "f": "W.M. Keck Foundation",
   "fields": [
    "all"
