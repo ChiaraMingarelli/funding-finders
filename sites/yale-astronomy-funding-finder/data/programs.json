@@ -4384,8 +4384,8 @@
   ],
   "c": "Fellowship",
   "checked": "2026-10-07",
-  "d": "2026-10-07",
-  "dt": "11:59 pm",
+  "d": null,
+  "dt": "Last deadline Oct 7, 2026; the next cycle is not posted yet",
   "e": "PhD by Sep 1, 2027 in physics, astrophysics, statistics or CS. No citizenship limit stated.",
   "f": "MIT · NSF AI Institute",
   "fields": [
@@ -4402,7 +4402,7 @@
   "nom": false,
   "pt": "prize",
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
@@ -4972,6 +4972,36 @@
   ],
   "u": "https://aas.org/jobregister/ad/1fa6ba25",
   "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, and no host ad was found, so it is unknown whether the posting is still open after the Oct 4, 2026 deadline.",
+  "us": false
+ },
+ {
+  "a": "3-year position; level depends on experience",
+  "added": "2026-10-08",
+  "asub": [
+   "he"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-08",
+  "d": null,
+  "dt": "Send CV, publication list and research statement to David Hilditch (subject \"FCT-Application-2026\") before December 2026, when the FCT call opens; start around Summer 2027",
+  "e": "The grit gravity group will support a few candidates applying to the upcoming FCT individual researcher contract call. Open to researchers at different experience levels; no citizenship limits stated.",
+  "f": "Instituto Superior Tecnico, Lisbon, CENTRA gravity group (grit); contact David Hilditch",
+  "fields": [
+   "grav"
+  ],
+  "id": "ist-lisbon-grit-fct-research-fellowship-eoi",
+  "n": "Instituto Superior Tecnico (Lisbon): Expressions of interest for FCT research fellowships in gravitational physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "other:hyperspace-ist-lisbon-fct-eoi",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://hyperspace.uni-frankfurt.de/2026/10/08/research-fellowships-in-gravitational-physics-lisbon-portugal-2/",
+  "unv": "The board lists a deadline of 2026-01-12, which conflicts with the text (before December 2026); exact EOI date and FCT eligibility rules not confirmed.",
   "us": false
  },
  {
@@ -9153,6 +9183,38 @@
   "us": false
  },
  {
+  "a": "3-year appointment",
+  "added": "2026-10-08",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-08",
+  "d": "2026-11-30",
+  "dt": "All materials, including reference letters, by Nov 30, 2026 for full consideration; start Sep 1, 2027",
+  "e": "Honorific postdoctoral fellowship in high-energy theory, gravitational physics, gravitational astrophysics, cosmology and related mathematics, held in person at Princeton. PhD required before the start date; no citizenship limits stated.",
+  "f": "Princeton University, Leinweber Forum for Theoretical Physics (Physics, Astrophysical Sciences and Mathematics)",
+  "fields": [
+   "ppt",
+   "grav",
+   "astro"
+  ],
+  "id": "princeton-leinweber-forum-associate-research-scholar",
+  "n": "Princeton: Leinweber Forum for Theoretical Physics Associate Research Scholar",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "other:hyperspace-princeton-leinweber-forum",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://apply.interfolio.com/192724",
+  "us": false
+ },
+ {
   "a": "$65,000–99,000 (PDRA $65–86k; ARS $79–99k); 1 year, renewable",
   "added": "2026-09-30",
   "asub": [
@@ -9322,35 +9384,6 @@
   ],
   "u": "https://rescorp.org/team-science-accelerator/",
   "us": false
- },
- {
-  "a": "Graduate study at Oxford",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-10-07",
-  "d": "2026-10-07",
-  "dt": "Applications and references close Oct 7, 2026, 11:59 pm ET; campus endorsement usually required",
-  "e": "US citizens, typically seniors/recent grads under age limit.",
-  "f": "Rhodes Trust",
-  "fields": [
-   "all"
-  ],
-  "id": "rhodes-scholarship-us-2027",
-  "n": "Rhodes Scholarship (US, 2027)",
-  "nfit": "Low",
-  "nom": true,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "ug"
-  ],
-  "u": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/united-states/",
-  "us": true,
-  "yale": {
-   "d": "2026-07-29",
-   "t": "Yale endorsement for US and Canadian citizens goes through the Marshall/Rhodes Common Application for Endorsement. First campus deadline was Jul 15, 2026 at 1pm (start the application and request letters); second was Jul 29, 2026 at 1pm (complete). Rhodes national deadline is Oct 7 (Canadian Sep 24). This has passed.",
-   "u": "https://funding.yale.edu/marshall-rhodes-scholarships-yale-application"
-  }
  },
  {
   "a": "Travel + registration waiver",

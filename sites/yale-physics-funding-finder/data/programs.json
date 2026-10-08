@@ -1054,6 +1054,69 @@
   "us": false
  },
  {
+  "a": "$72,879-$121,465",
+  "added": "2026-10-08",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-08",
+  "d": null,
+  "dt": "Posted Jul 24, 2026 (Req. 423150); no deadline stated",
+  "e": "Design, fabricate and measure superconducting photonic quantum devices (superconducting qubits, microwave-optical transducers) for a quantum network; PhD within the last 0-5 years or soon to be completed. No citizenship restriction stated.",
+  "f": "Argonne National Laboratory, Center for Nanoscale Materials",
+  "fields": [
+   "qp",
+   "dev",
+   "phot"
+  ],
+  "id": "argonne-cnm-quantum-devices-experiments-postdoc",
+  "n": "Argonne CNM: Postdoctoral Researcher, Quantum Devices and Experiments (superconducting photonic quantum networks)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:anl-423150-quantum-devices",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/en-US/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Researcher---Quantum-Devices-and-Experiments--NST-_423150",
+  "us": false
+ },
+ {
+  "a": "$72,879-$121,465",
+  "added": "2026-10-08",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-08",
+  "d": null,
+  "dt": "Posted Aug 12, 2026 (Req. 423271); no deadline stated",
+  "e": "Design, fabrication and measurement of electron-on-solid-neon qubit devices aimed at high-fidelity two-qubit gates; PhD within the last 0-5 years or soon to be completed. No citizenship restriction stated.",
+  "f": "Argonne National Laboratory, Center for Nanoscale Materials",
+  "fields": [
+   "qp",
+   "dev"
+  ],
+  "id": "argonne-cnm-single-electron-qubits-postdoc",
+  "n": "Argonne CNM: Postdoctoral Appointee, Single Electron Qubits (electron-on-solid-neon)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:anl-423271-electron-qubits",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/en-US/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Single-Electron-Qubits--NST-_423271",
+  "us": false
+ },
+ {
   "a": "Up to 3 years, renewed annually, with competitive salary and a research-support stipend. Years 1-2 fully LDRD-funded.",
   "added": "2026-09-28",
   "aud": [
@@ -1085,6 +1148,37 @@
   ],
   "u": "https://www.anl.gov/hr/ldrd-named-fellowships",
   "unv": "anl.gov blocks automated access (HTTP 403) on Oct 7, 2026; Oct 1, 2026 deadline confirmed only through search results of Argonne pages",
+  "us": false
+ },
+ {
+  "a": "$72,879-$121,465",
+  "added": "2026-10-08",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-08",
+  "d": null,
+  "dt": "Posted Jul 30, 2026 (Req. 423193); no deadline stated",
+  "e": "Exploratory synthesis and crystal growth of new quantum materials, mainly superconductors, with structural, optical, magnetic and transport characterization; PhD in physics, materials science or chemistry, typically within the last 0-5 years. No citizenship restriction stated.",
+  "f": "Argonne National Laboratory, Materials Science Division, Quantum States and Crystalline Matter Group",
+  "fields": [
+   "mat",
+   "cmx"
+  ],
+  "id": "argonne-msd-quantum-materials-crystal-growth-postdoc",
+  "n": "Argonne MSD: Postdoctoral Appointee, Exploratory Synthesis & Crystal Growth of Quantum Materials",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:anl-423193-crystal-growth",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/en-US/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Exploratory-Synthesis---Crystal-Growth-of-Quantum-Materials_423193",
   "us": false
  },
  {
@@ -4033,6 +4127,38 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32340",
+  "us": false
+ },
+ {
+  "a": "PLN 12,980-14,660 gross/month; initially 1 year, extendable to the end of 2029",
+  "added": "2026-10-08",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-08",
+  "d": "2026-11-08",
+  "dt": "Deadline Nov 8, 2026 (12:00 Warsaw time); email application to recruitment@cft.edu.pl, ref. MAB/29/2026",
+  "e": "Theory and numerics for neutral atoms in optical tweezers and Rydberg arrays: quantum control, simulation, many-body dynamics and sensing. PhD awarded no earlier than 2021 (extendable for documented career breaks); no citizenship limits stated.",
+  "f": "Center for Theoretical Physics, Polish Academy of Sciences, Center for Quantum-Enabled Computing (C4QEC), Neutral Atoms Applications Group (Piotr T. Grochowski)",
+  "fields": [
+   "qp",
+   "amo"
+  ],
+  "id": "ctp-pas-warsaw-postdoc-neutral-atoms-c4qec",
+  "n": "Center for Theoretical Physics PAS (Warsaw): Postdoc in Neutral Atoms Applications (C4QEC)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-ctp-pas-neutral-atoms",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://euraxess.ec.europa.eu/jobs/471138",
   "us": false
  },
  {
@@ -7143,8 +7269,8 @@
   ],
   "c": "Fellowship",
   "checked": "2026-10-07",
-  "d": "2026-10-07",
-  "dt": "11:59 pm",
+  "d": null,
+  "dt": "Last deadline Oct 7, 2026; the next cycle is not posted yet",
   "e": "PhD by Sep 1, 2027 in physics, astrophysics, statistics or CS. No citizenship limit stated.",
   "f": "MIT · NSF AI Institute",
   "fields": [
@@ -7161,7 +7287,7 @@
   "nom": false,
   "pt": "prize",
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
@@ -7920,6 +8046,38 @@
   "us": false
  },
  {
+  "added": "2026-10-08",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-08",
+  "d": null,
+  "dt": "Full consideration for applications by Oct 5, 2026; open until filled; expected start Dec 1, 2026",
+  "e": "Experimental work on low-dimensional, molecular and hybrid materials for quantum sensing and quantum photonics; PhD in physics, chemistry, materials, EE or related by the start date, with hands-on experimental experience. No citizenship restriction stated.",
+  "f": "Indiana University Bloomington, Intelligent Systems Engineering (Iqbal Utama)",
+  "fields": [
+   "mat",
+   "phot",
+   "qp"
+  ],
+  "id": "indiana-utama-quantum-materials-optics-postdoc",
+  "n": "Indiana University: Postdoctoral Fellow in Quantum Materials and Quantum Optics (Utama group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:iu-34167-utama",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://indiana.peopleadmin.com/postings/34167",
+  "us": false
+ },
+ {
   "a": "",
   "added": "2026-10-07",
   "asub": [
@@ -8258,6 +8416,41 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3210712",
+  "us": false
+ },
+ {
+  "a": "3-year position; level depends on experience",
+  "added": "2026-10-08",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-08",
+  "d": null,
+  "dt": "Send CV, publication list and research statement to David Hilditch (subject \"FCT-Application-2026\") before December 2026, when the FCT call opens; start around Summer 2027",
+  "e": "The grit gravity group will support a few candidates applying to the upcoming FCT individual researcher contract call. Open to researchers at different experience levels; no citizenship limits stated.",
+  "f": "Instituto Superior Tecnico, Lisbon, CENTRA gravity group (grit); contact David Hilditch",
+  "fields": [
+   "grav"
+  ],
+  "id": "ist-lisbon-grit-fct-research-fellowship-eoi",
+  "n": "Instituto Superior Tecnico (Lisbon): Expressions of interest for FCT research fellowships in gravitational physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "other:hyperspace-ist-lisbon-fct-eoi",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://hyperspace.uni-frankfurt.de/2026/10/08/research-fellowships-in-gravitational-physics-lisbon-portugal-2/",
+  "unv": "The board lists a deadline of 2026-01-12, which conflicts with the text (before December 2026); exact EOI date and FCT eligibility rules not confirmed.",
   "us": false
  },
  {
@@ -9158,6 +9351,40 @@
   "us": false
  },
  {
+  "a": "$110,000/year; 2-year appointment",
+  "added": "2026-10-08",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-08",
+  "d": "2027-01-29",
+  "dt": "Apply by Jan 29, 2027 for full consideration; expected start Oct 1, 2027; appointment runs through Dec 31, 2029",
+  "e": "Independent research fellowship for early-career scientists aiming at DOE-lab careers in nonproliferation (radiochemistry, nuclear physics, detection and instrumentation, materials, photonics and sensors, data science). Needs a PhD and under 3 years of paid postdoc experience as of Oct 1, 2027; U.S. citizenship required (DOE Q clearance).",
+  "f": "Lawrence Berkeley National Laboratory, Chemical Sciences Division (NNSA NextGen program)",
+  "fields": [
+   "nux",
+   "mat",
+   "phot",
+   "inst"
+  ],
+  "id": "lbnl-hoffman-distinguished-postdoc-nonproliferation",
+  "n": "Berkeley Lab: Hoffman Distinguished Postdoctoral Fellow, Nuclear Nonproliferation",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "other:lbnl-7632-hoffman",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.lbl.gov/jobs/hoffman-distinguished-postdoctoral-fellow-%E2%80%94-nuclear-nonproliferation-7632",
+  "us": true
+ },
+ {
   "a": "3 years, renewable for 2 more. $6,777-$7,145 per month (union scale) plus a $10K per year research supplement.",
   "added": "2026-09-29",
   "asub": [
@@ -9193,6 +9420,39 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32681",
+  "us": false
+ },
+ {
+  "a": "$6,924-$8,026 (pay period not stated on posting); 2-year appointment",
+  "added": "2026-10-08",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-08",
+  "d": null,
+  "dt": "Review began Jun 15, 2026; applications accepted on a rolling basis until the posting is removed (Req. 105663)",
+  "e": "Materials and electric-field engineering of superconducting qubits for the Advanced Quantum Testbed; PhD in physics, applied physics, EE, materials science or related, with less than 3 years of paid postdoc experience. No citizenship restriction stated; work must be done in the US.",
+  "f": "Lawrence Berkeley National Laboratory, Applied Math & Computational Research Division, Quantum Information Science and Technology Group",
+  "fields": [
+   "qp",
+   "dev",
+   "mat"
+  ],
+  "id": "lbnl-quist-quantum-engineering-postdoc",
+  "n": "Berkeley Lab: Quantum Engineering Postdoctoral Fellow (superconducting qubits, AQT/QSA)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:lbnl-7448-quist",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.lbl.gov/jobs/quantum-engineering-postdoctoral-fellow-7448",
   "us": false
  },
  {
@@ -16059,6 +16319,43 @@
   "us": false
  },
  {
+  "a": "3-year appointment",
+  "added": "2026-10-08",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-08",
+  "d": "2026-11-30",
+  "dt": "All materials, including reference letters, by Nov 30, 2026 for full consideration; start Sep 1, 2027",
+  "e": "Honorific postdoctoral fellowship in high-energy theory, gravitational physics, gravitational astrophysics, cosmology and related mathematics, held in person at Princeton. PhD required before the start date; no citizenship limits stated.",
+  "f": "Princeton University, Leinweber Forum for Theoretical Physics (Physics, Astrophysical Sciences and Mathematics)",
+  "fields": [
+   "ppt",
+   "grav",
+   "astro"
+  ],
+  "id": "princeton-leinweber-forum-associate-research-scholar",
+  "n": "Princeton: Leinweber Forum for Theoretical Physics Associate Research Scholar",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "other:hyperspace-princeton-leinweber-forum",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://apply.interfolio.com/192724",
+  "us": false
+ },
+ {
   "a": "Not confirmed",
   "added": "2026-09-28",
   "aud": [
@@ -16438,40 +16735,38 @@
   "us": false
  },
  {
-  "a": "Graduate study at Oxford",
-  "added": "2026-09-29",
+  "a": "Monthly salary plus discretionary work allowance of 480,000 JPY or more; one-year contract renewable up to March 31, 2030",
+  "added": "2026-10-08",
   "aud": [
    "yale",
    "ng",
-   "radar",
-   "ap",
-   "ast"
+   "ap"
   ],
-  "c": "Fellowship",
-  "checked": "2026-10-07",
-  "d": "2026-10-07",
-  "dt": "Applications and references close Oct 7, 2026, 11:59 pm ET; campus endorsement usually required",
-  "e": "US citizens, typically seniors/recent grads under age limit.",
-  "f": "Rhodes Trust",
+  "c": "Group postdoc",
+  "checked": "2026-10-08",
+  "d": "2026-11-30",
+  "dt": "Open until filled; applications received by Nov 30, 2026 (JST) are screened first. Apply via AJO.",
+  "e": "A few postdoc positions on the JST PRESTO project building lattice models of quantum phases from generalized/non-invertible symmetries, category theory, CFT/TQFT and tensor networks. Requires a PhD by the start date; no citizenship restriction stated.",
+  "f": "RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences (iTHEMS), Category Theoretical Physics RIKEN ECL Research Unit (Kantaro Ohmori), Wako, Japan",
   "fields": [
-   "all"
+   "cmt",
+   "qp",
+   "ppt"
   ],
-  "id": "rhodes-scholarship-us-2027",
-  "n": "Rhodes Scholarship (US, 2027)",
+  "id": "riken-ithems-ohmori-pd-category-theoretical-physics",
+  "n": "RIKEN iTHEMS: Postdoctoral Researchers, Category Theoretical Physics (Ohmori unit, 26-1454)",
   "nfit": "Low",
-  "nom": true,
-  "region": "US",
-  "s": "open",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "ajo:32815",
   "stages": [
-   "ug"
+   "pd"
   ],
-  "u": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/united-states/",
-  "us": true,
-  "yale": {
-   "d": "2026-07-29",
-   "t": "Yale endorsement for US and Canadian citizens goes through the Marshall/Rhodes Common Application for Endorsement. First campus deadline was Jul 15, 2026 at 1pm (start the application and request letters); second was Jul 29, 2026 at 1pm (complete). Rhodes national deadline is Oct 7 (Canadian Sep 24). This has passed.",
-   "u": "https://funding.yale.edu/marshall-rhodes-scholarships-yale-application"
-  }
+  "u": "https://academicjobsonline.org/ajo/jobs/32815",
+  "unv": "Start date not stated in posting.",
+  "us": false
  },
  {
   "a": "postdoc >= JPY 480,000/month; up to 3 years",
@@ -19911,6 +20206,38 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32638",
+  "us": false
+ },
+ {
+  "a": "$67,000/year salary plus $5,000 research budget; up to 2 years, renewed annually",
+  "added": "2026-10-08",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-08",
+  "d": "2026-10-16",
+  "dt": "Applications due 5:00 pm CST Oct 16, 2026 via the online form; awards expected late Nov 2026; start between Feb and Dec 2027",
+  "e": "Independent fellowship for researchers whose interests match MRL faculty research areas; PhD or equivalent earned within the last 10 years, with three reference letters. External and international applicants are encouraged; no citizenship limit stated.",
+  "f": "University of Illinois Urbana-Champaign, Materials Research Laboratory",
+  "fields": [
+   "mat",
+   "cmx"
+  ],
+  "id": "uiuc-mrl-greene-postdoc-fellowship-2027",
+  "n": "UIUC Materials Research Laboratory: Professor Joe Greene Postdoctoral Fellowship (2027)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "other:uiuc-mrl-greene",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://mrl.illinois.edu/research/opportunities",
   "us": false
  },
  {
