@@ -31,7 +31,7 @@ def main(src, status_path, out):
         rows.append(r)
     st = json.load(open(status_path)); st = st.get("data", st)
     status = {"lastChecked": st.get("lastChecked") or datetime.date.today().isoformat(),
-              "changes": ["New: Astronomy edition, organized by the department's eight research areas"]}
+              "changes": []}
     json.dump({"programs": rows, "status": status, "notes": notes, "updated": datetime.date.today().isoformat()},
               open(out, "w"), ensure_ascii=False, separators=(",", ":"))
     print(f"{len(rows)} Astronomy rows exported")

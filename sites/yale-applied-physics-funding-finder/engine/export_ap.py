@@ -33,7 +33,7 @@ def main(src, status_path, out):
     st = json.load(open(status_path))
     st = st.get("data", st)
     status = {"lastChecked": st.get("lastChecked") or datetime.date.today().isoformat(),
-              "changes": ["New: Applied Physics edition covering quantum information, photonics and quantum materials"]}
+              "changes": []}
     data = {"programs": rows, "status": status, "notes": notes,
             "updated": datetime.date.today().isoformat()}
     json.dump(data, open(out, "w"), ensure_ascii=False, separators=(",", ":"))
