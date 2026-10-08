@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Nanohertz Opportunities</title>
+<meta name="description" content="Fellowships, summer programs, postdoc openings and faculty job ads for early-career researchers in pulsar timing, gravitational waves and astrophysics. Not an official NANOGrav page.">
 </head>
 <body>
-<meta charset="utf-8">
-<title>Nanohertz Opportunities</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Saira:wght@300;400;500;600&family=Inter:wght@400;500;600&display=swap">
@@ -52,7 +52,7 @@ a{color:inherit}
 .stat span{font-size:12px;color:var(--mast-dim);letter-spacing:.04em}
 .mast canvas{position:absolute;left:0;right:0;bottom:0;width:100%;height:56px;opacity:.7}
 @media (max-width:700px){.mast .wrap{grid-template-columns:1fr}.stats{gap:22px}}
-@media (max-width:700px){.bar{position:static}.seg{display:grid;grid-template-columns:1fr 1fr;border-radius:18px}.seg button{border-radius:14px}}
+@media (max-width:700px){div.bar{position:static}.bar .seg{display:grid;grid-template-columns:1fr 1fr;border-radius:18px}.bar .seg button{border-radius:14px}}
 
 /* sticky control bar */
 .bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:10;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
@@ -166,7 +166,7 @@ footer{font-size:13px;color:var(--ink-3);max-width:80ch;border-top:1px solid var
     <button class="more" id="viewAll" hidden></button>
     <div class="expbar"><span class="expmsg" id="pickCount"></span><button type="button" id="pickAllBtn">Tick all shown</button><button type="button" id="pickClearBtn">Clear ticks</button><button type="button" class="pri" id="icsBtn">Add ticked to my calendar</button><button type="button" id="csvBtn">Download ticked as CSV</button></div>
     <p class="expmsg" id="csvMsg" aria-live="polite"></p>
-    <footer>Maintained by Chiara Mingarelli, Department of Physics, Yale University, for NANOGrav students and postdocs. This is not an official NANOGrav page. Made with Claude Opus 5.5 by Anthropic. We are grateful to the Yale FAS Dean of Science for his support. Entries come from funder pages, Academic Jobs Online, the AAS Job Register, INSPIRE and grants.gov, and are rechecked every Monday, with new postings added Tuesday to Sunday. Always confirm details on the official page before applying. Fit dots are a rough guide to how closely an opportunity matches pulsar-timing and gravitational-wave work.</footer>
+    <footer>Maintained by Chiara Mingarelli, Department of Physics, Yale University, for NANOGrav students and postdocs. This is not an official NANOGrav page. Made with Claude Opus 5.5 by Anthropic. We are grateful to the Yale FAS Dean of Science for his support. Entries come from funder pages, Academic Jobs Online, the AAS Job Register, INSPIRE and grants.gov, and are rechecked weekly, with new postings added between rechecks. Always confirm details on the official page before applying. Open means a deadline is posted. Rolling means applications are accepted at any time or until the position is filled. Watch means the next call or deadline is not posted yet or could not be confirmed. Fit dots are a rough guide to how closely an opportunity matches pulsar-timing and gravitational-wave work.</footer>
   </div>
 </main>
 
@@ -230,9 +230,9 @@ function expIcs(rows){
 }
 function expCsv(rows){
   const c=v=>`"${String(v??"").replace(/"/g,'""')}"`;
-  const L=[["Program","Funder","Deadline","Yale internal deadline","Reminder (6 weeks before)","Reminder (4 weeks before)","Status","Award","Deadline note","Link"].map(c).join(",")];
+  const L=[["Program","Funder","Deadline","Reminder (6 weeks before)","Reminder (4 weeks before)","Status","Award","Deadline note","Link"].map(c).join(",")];
   rows.forEach(x=>{const f=expDates(x).map(d=>d[0]).sort()[0]||"";
-    L.push([x.n,x.f,expIso(x.d)?x.d:"",x.yale&&expIso(x.yale.d)?x.yale.d:"",f?expShift(f,-42):"",f?expShift(f,-28):"",x.s,x.a,x.dt,expUrl(x.u)].map(c).join(","));});
+    L.push([x.n,x.f,expIso(x.d)?x.d:"",f?expShift(f,-42):"",f?expShift(f,-28):"",x.s,x.a,x.dt,expUrl(x.u)].map(c).join(","));});
   return L.join("\r\n")+"\r\n";
 }
 function expCrc(u){let crc=0xFFFFFFFF;for(let i=0;i<u.length;i++){let c=(crc^u[i])&0xFF;for(let k=0;k<8;k++)c=c&1?(c>>>1)^0xEDB88320:c>>>1;crc=(crc>>>8)^c;}return (crc^0xFFFFFFFF)>>>0;}
@@ -270,16 +270,16 @@ const STAGES=[{k:"ug",n:"Undergraduate"},{k:"gr",n:"Graduate"},{k:"pd",n:"Postdo
 const TIPS={
  ug:[["Summer research","REU and summer-student programs mostly close between December and February. Apply to several, and ask your NANOGrav advisor which groups are taking students."],
      ["Citizenship","Many US federal programs require US citizenship or permanent residency. Canadian students should look at NSERC USRA through their own university."],
-     ["Heading to grad school?","Graduate fellowships for seniors and funded PhD programs abroad are listed here too."]],
- gr:[["Early fellowships","NSF GRFP is for US citizens and permanent residents in their first or second year. Canadians should check CGRS and provincial scholarships."],
-     ["Observing support","Students on successful NRAO or Green Bank proposals can request NRAO Student Observing Support."],
-     ["Travel","AAS and APS gravitational-physics travel grants, the IPTA Student Week and summer schools are good places to present PTA work."]],
+     ["Heading to grad school?","Graduate fellowships for seniors are listed here too. Funded PhD programs abroad appear when you choose + International."]],
+ gr:[["Early fellowships","NSF GRFP is open to US citizens, nationals and permanent residents who are college seniors or in the first year of their first graduate program; graduate students can apply only once. Canadians should check CGRS and provincial scholarships."],
+     ["Observing support","When an ALMA, VLA, VLBA or GBT proposal you work on is accepted, an investigator at your institution who is not a student or postdoc, such as your advisor, can apply to NRAO Student Observing Support to fund your stipend, travel or computing."],
+     ["Travel","AAS and APS DGRAV student travel grants help pay for travel to present PTA work at meetings. The IPTA Student Week and summer schools outside North America appear when you choose + International."]],
  pd:[["Two kinds of postdoc","Prize fellowships let you propose your own research and have fixed fall deadlines. Group postdocs hire you into a PI's project and post all year."],
      ["Letters take time","Most prize-fellowship deadlines fall between October and mid-November. Give letter writers several weeks' notice."],
      ["US-only fellowships","Some, such as NSF AAPF, require US citizenship or permanent residency. Each card says so when that applies."]],
  fj:[["Season","Faculty searches mostly post from September to November, with review dates from October to January."],
      ["Reading fit","Three dots means the ad names gravitational waves, pulsars, radio, time-domain or compact objects. Open-subfield physics searches often welcome astrophysicists too."],
-     ["Scope","Tenure-track assistant or open-rank positions only. Postdoc and research-staff posts are under Postdoc."]]
+     ["Scope","Faculty posts that are tenure-track or permanent, mostly at assistant level or open rank, including equivalents abroad such as lecturer and group-leader posts. Postdoc and research-staff posts are under Postdoc."]]
 };
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -344,8 +344,8 @@ function card(x){
 }
 function render(){
   {const la=DATA.reduce((m,x)=>isoOk(x.added)&&x.added>m?x.added:m,"");$("kicker").textContent=`For NANOGrav students & postdocs`+(la?` · new postings added ${fmt(la)}`:"")+` · rechecked weekly`;}
-  const all=STAGES.reduce((a,s)=>a+base(s.k).length,0), soon=STAGES.reduce((a,s)=>a+base(s.k).filter(x=>future(x)&&days(x.d)<=14).length,0);
-  $("stats").innerHTML=`<div class="stat"><b>${all}</b><span>open now</span></div><div class="stat"><b>${soon}</b><span>due in 2 weeks</span></div>`;
+  const seen=new Map();STAGES.forEach(s=>base(s.k).forEach(x=>seen.set(x.id,x)));const listed=[...seen.values()],all=listed.length,soon=listed.filter(x=>future(x)&&days(x.d)<=14).length;
+  $("stats").innerHTML=`<div class="stat"><b>${all}</b><span>listed</span></div><div class="stat"><b>${soon}</b><span>due in 2 weeks</span></div>`;
   $("stages").innerHTML=STAGES.map(s=>`<button role="tab" data-k="${s.k}" aria-selected="${s.k===stage}">${s.n}<span class="n">${base(s.k).length}</span></button>`).join("");
   $("stages").querySelectorAll("button").forEach(b=>b.onclick=()=>{stage=b.dataset.k;pt="all";save();render();});
   toggle("fRegion",[["0","US & Canada"],["1","+ International"]],intl?"1":"0",k=>{intl=k==="1";save();});

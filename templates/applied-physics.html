@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Yale Applied Physics Funding Finder</title>
+<meta name="description" content="Grants, fellowships, postdoc postings, user-facility calls and student programs for Yale Applied Physics, with Yale internal deadlines. Rechecked weekly.">
 </head>
 <body>
-<meta charset="utf-8">
-<title>Applied Physics Funding Finder</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600&family=Libre+Franklin:wght@400;500;600;700&display=swap">
@@ -193,7 +193,7 @@ footer#foot{font-size:13px;color:#555;max-width:90ch}
 <div class="wrap">
   <header id="find">
     <h1>Funding for research, fellowships and training</h1>
-    <p>Grants, federal and industry calls, fellowships, user-facility time and student programs for quantum information, photonics and condensed matter and quantum materials, plus the department's affiliated work in devices, materials and physical biology. Choose your area and career stage. Programs open to all fields appear under every area, and Yale's internal and limited-submission steps are shown next to each external deadline. See also <a href="{{link:physics}}">Funding for Physics</a>.</p>
+    <p>Grants, federal and industry calls, fellowships, user-facility time and student programs for quantum information, photonics, and condensed matter and quantum materials, plus the department's affiliated work in devices, materials and physical biology. Choose your area and career stage. Programs open to all fields appear under every area, and Yale's internal and limited-submission steps are shown next to each external deadline. See also <a href="{{link:physics}}">Funding for Physics</a>.</p>
   </header>
 
   <div class="banner" id="banner">Loading the program list…</div>
@@ -271,13 +271,13 @@ footer#foot{font-size:13px;color:#555;max-width:90ch}
   </section>
 
   <section id="changedSec">
-    <h2>What changed in 2025–26</h2>
+    <h2>Recent changes at federal funders</h2>
     <ul class="changes" id="changes"></ul>
   </section>
 
-  <footer id="foot">Programs are compiled from official funder pages, grants.gov funding notices, national-lab and university fellowship pages, and Yale's public funding newsletters, and rechecked weekly. Research areas follow the Yale Applied Physics research page. Yale's full limited-submission list is in InfoReady (NetID required), so an internal date marked unverified should be confirmed there. Deadlines move: check the linked page before committing.</footer>
+  <footer id="foot">Programs are compiled from official funder pages, grants.gov funding notices, national-lab and university fellowship pages, job boards (Academic Jobs Online, INSPIRE and the AAS Job Register) and Yale's public funding newsletters, and rechecked weekly. Open means a deadline is posted. Rolling means applications are accepted at any time or until the position is filled. Watch means the next call or deadline is not posted yet or could not be confirmed. Research areas follow the Yale Applied Physics research page. Yale's full limited-submission list is in InfoReady (NetID required), so an internal date marked unverified should be confirmed there. Deadlines move: check the linked page before committing.</footer>
 </div>
-<div class="site-foot"><div class="site-foot-in"><span>Built by Chiara Mingarelli (Department of Physics) for Yale Applied Physics, from the same catalog as the Physics Funding Finder. Not an official Yale University page. Made with Claude Opus 5.5 by Anthropic. We are grateful to the Yale FAS Dean of Science for his support.</span><span>Rechecked every Monday; new postings added Tuesday to Sunday</span></div></div>
+<div class="site-foot"><div class="site-foot-in"><span>Built by Chiara Mingarelli (Department of Physics) for Yale Applied Physics, from the same catalog as the Physics Funding Finder. Not an official Yale University page. Made with Claude Opus 5.5 by Anthropic. We are grateful to the Yale FAS Dean of Science for his support.</span><span>Rechecked weekly; new postings added between rechecks</span></div></div>
 
 
 <dialog id="editDlg">
@@ -413,7 +413,7 @@ const FIELDS = [
   {k:"bio", n:"Physical & Engineering Biology", c:["bio"]},
   {k:"ds", n:"AI & Data Science", c:["ds"], x:true},{k:"inst", n:"Instrumentation & Facilities", c:["inst"], x:true},{k:"*", n:"All areas", x:true}
 ];
-const TAGN = {qp:"Quantum information",phot:"Photonics & optics",amo:"Atomic, molecular & optical",cmx:"Condensed matter (exp.)",cmt:"Condensed matter (theory)",mat:"Materials science",dev:"Devices & semiconductors",energy:"Energy materials",bio:"Biophysics & bioengineering",ds:"AI & data science",inst:"Instrumentation"};
+const TAGN = {qp:"Quantum information",phot:"Photonics & optics",amo:"Atomic, molecular & optical",cmx:"Condensed matter (exp.)",cmt:"Condensed matter (theory)",mat:"Materials science",dev:"Devices & semiconductors",energy:"Energy materials",bio:"Biophysics & bioengineering",ds:"AI & data science",inst:"Instrumentation",astro:"Astrophysics & cosmology",grav:"Gravitational physics",ppx:"Particle physics (exp.)",ppt:"Particle physics (theory)",nux:"Nuclear physics (exp.)",nut:"Nuclear physics (theory)",all:"All areas"};
 const STAGES = [
   {k:"tt", n:"Faculty (tenure track)"},{k:"ten", n:"Faculty (tenured)"},{k:"pd", n:"Postdocs"},{k:"gr", n:"Graduate students"},{k:"ug", n:"Undergraduates"}
 ];
@@ -469,7 +469,7 @@ function banner(){
   const lc=isoOk(META.lastChecked)?fmt(META.lastChecked):"—";
   const ch=arr(META.changes).slice(0,4).map(c=>esc(c)).join(" · ");
   const la=DATA.reduce((m,x)=>isoOk(x.added)&&x.added>m?x.added:m,"");
-  b.innerHTML=`<span><b>${DATA.length}</b> programs · every program rechecked <b>${esc(lc)}</b>${la?` · new postings added <b>${esc(fmt(la))}</b>`:""}</span>${ch?`<span>This week: ${ch}</span>`:""}`;
+  b.innerHTML=`<span><b>${DATA.length}</b> programs · last weekly recheck <b>${esc(lc)}</b>${la?` · new postings added <b>${esc(fmt(la))}</b>`:""}</span>${ch?`<span>This week: ${ch}</span>`:""}`;
 }
 function fieldButtons(){
   const box=$("fields");
@@ -515,7 +515,7 @@ function chips(){
   dc.innerHTML=`<span class="lbl">Due</span>`+dues.map(([k,l])=>`<button class="chip" data-k="${k}" aria-pressed="${k===fDue}">${l}</button>`).join("");
   dc.querySelectorAll(".chip").forEach(b=>b.onclick=()=>{fDue=b.dataset.k;render();});
   const sc=$("statusChips");
-  const opts=[["active","Active (open, rolling, watch)"],["open","Open"],["rolling","Rolling"],["watch","Watch"],["closed","Closed"],["all","All, including closed"]];
+  const opts=[["active","Active (open, rolling, watch)"],["open","Open"],["rolling","Rolling"],["watch","Watch"]];
   if(uid) opts.push(["mine","My list"]);
   const stVal=fStatus==="new"?"active":fStatus;
   sc.innerHTML=`<label class="lbl" for="statusSel">Status</label><select class="sel" id="statusSel">${opts.map(([k,l])=>`<option value="${k}"${k===stVal?" selected":""}>${l}</option>`).join("")}</select>`
@@ -569,7 +569,7 @@ function render(){
     else if(future(x)){dl=`${fmt(x.d)} ${cd(days(x.d))}<small>${esc(x.dt)}</small>`;}
     else if(isoOk(x.d)){dl=`—<small>Last: ${fmt(x.d)}. ${esc(x.dt)}</small>`;}
     else dl=`—<small>${esc(x.dt)}</small>`;
-    if(x.yale){ const yd=yFirst?"Yale step":isoOk(x.yale.d)?(days(x.yale.d)>=0?`Yale: ${fmt(x.yale.d)}`:`Yale last cycle: ${fmt(x.yale.d)}`):"Yale step"; dl+=`<span class="yd">${esc(yd)}. ${esc(x.yale.t)}${x.yale.unv?" (unverified)":""}</span>`; }
+    if(x.yale){ const yd=yFirst?"Yale step":isoOk(x.yale.d)?(days(x.yale.d)>=0?`Yale: ${fmt(x.yale.d)}`:`Yale internal deadline passed: ${fmt(x.yale.d)}`):"Yale step"; dl+=`<span class="yd">${esc(yd)}. ${esc(x.yale.t)}${x.yale.unv?" (unverified)":""}</span>`; }
     const tags=(isNew(x)?`<span class="tag new" title="Added ${esc(fmt(x.added))}">New</span>`:"")+(arr(x.fields).includes("all")?`<span class="tag">all fields</span>`:arr(x.fields).map(f=>`<span class="tag">${esc(TAGN[f]||FNAME[f]||f)}</span>`).join(""))
       +(x.us?`<span class="tag flag">US citizens/PR</span>`:"")+(x.nom?`<span class="tag flag">nomination / limited</span>`:"");
     const nofo=arr(x.nofo).filter(n=>safeUrl(n.u)).map(n=>`<a href="${esc(safeUrl(n.u))}" target="_blank" rel="noopener">grants.gov ${esc(n.opp)}</a>`).join(" · ");
