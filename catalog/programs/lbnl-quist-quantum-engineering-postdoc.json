@@ -1,0 +1,33 @@
+{
+ "a": "$6,924-$8,026 (pay period not stated on posting); 2-year appointment",
+ "added": "2026-10-08",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-08",
+ "d": null,
+ "dt": "Review began Jun 15, 2026; applications accepted on a rolling basis until the posting is removed (Req. 105663)",
+ "e": "Materials and electric-field engineering of superconducting qubits for the Advanced Quantum Testbed; PhD in physics, applied physics, EE, materials science or related, with less than 3 years of paid postdoc experience. No citizenship restriction stated; work must be done in the US.",
+ "f": "Lawrence Berkeley National Laboratory, Applied Math & Computational Research Division, Quantum Information Science and Technology Group",
+ "fields": [
+  "qp",
+  "dev",
+  "mat"
+ ],
+ "id": "lbnl-quist-quantum-engineering-postdoc",
+ "n": "Berkeley Lab: Quantum Engineering Postdoctoral Fellow (superconducting qubits, AQT/QSA)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:lbnl-7448-quist",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.lbl.gov/jobs/quantum-engineering-postdoctoral-fellow-7448",
+ "us": false
+}

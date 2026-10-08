@@ -1,0 +1,34 @@
+{
+ "a": "$110,000/year; 2-year appointment",
+ "added": "2026-10-08",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-08",
+ "d": "2027-01-29",
+ "dt": "Apply by Jan 29, 2027 for full consideration; expected start Oct 1, 2027; appointment runs through Dec 31, 2029",
+ "e": "Independent research fellowship for early-career scientists aiming at DOE-lab careers in nonproliferation (radiochemistry, nuclear physics, detection and instrumentation, materials, photonics and sensors, data science). Needs a PhD and under 3 years of paid postdoc experience as of Oct 1, 2027; U.S. citizenship required (DOE Q clearance).",
+ "f": "Lawrence Berkeley National Laboratory, Chemical Sciences Division (NNSA NextGen program)",
+ "fields": [
+  "nux",
+  "mat",
+  "phot",
+  "inst"
+ ],
+ "id": "lbnl-hoffman-distinguished-postdoc-nonproliferation",
+ "n": "Berkeley Lab: Hoffman Distinguished Postdoctoral Fellow, Nuclear Nonproliferation",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "other:lbnl-7632-hoffman",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.lbl.gov/jobs/hoffman-distinguished-postdoctoral-fellow-%E2%80%94-nuclear-nonproliferation-7632",
+ "us": true
+}

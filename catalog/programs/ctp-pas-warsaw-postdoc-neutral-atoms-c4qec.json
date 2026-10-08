@@ -1,0 +1,32 @@
+{
+ "a": "PLN 12,980-14,660 gross/month; initially 1 year, extendable to the end of 2029",
+ "added": "2026-10-08",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-08",
+ "d": "2026-11-08",
+ "dt": "Deadline Nov 8, 2026 (12:00 Warsaw time); email application to recruitment@cft.edu.pl, ref. MAB/29/2026",
+ "e": "Theory and numerics for neutral atoms in optical tweezers and Rydberg arrays: quantum control, simulation, many-body dynamics and sensing. PhD awarded no earlier than 2021 (extendable for documented career breaks); no citizenship limits stated.",
+ "f": "Center for Theoretical Physics, Polish Academy of Sciences, Center for Quantum-Enabled Computing (C4QEC), Neutral Atoms Applications Group (Piotr T. Grochowski)",
+ "fields": [
+  "qp",
+  "amo"
+ ],
+ "id": "ctp-pas-warsaw-postdoc-neutral-atoms-c4qec",
+ "n": "Center for Theoretical Physics PAS (Warsaw): Postdoc in Neutral Atoms Applications (C4QEC)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:quantiki-ctp-pas-neutral-atoms",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://euraxess.ec.europa.eu/jobs/471138",
+ "us": false
+}

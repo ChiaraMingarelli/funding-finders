@@ -1,0 +1,32 @@
+{
+ "a": "$67,000/year salary plus $5,000 research budget; up to 2 years, renewed annually",
+ "added": "2026-10-08",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-08",
+ "d": "2026-10-16",
+ "dt": "Applications due 5:00 pm CST Oct 16, 2026 via the online form; awards expected late Nov 2026; start between Feb and Dec 2027",
+ "e": "Independent fellowship for researchers whose interests match MRL faculty research areas; PhD or equivalent earned within the last 10 years, with three reference letters. External and international applicants are encouraged; no citizenship limit stated.",
+ "f": "University of Illinois Urbana-Champaign, Materials Research Laboratory",
+ "fields": [
+  "mat",
+  "cmx"
+ ],
+ "id": "uiuc-mrl-greene-postdoc-fellowship-2027",
+ "n": "UIUC Materials Research Laboratory: Professor Joe Greene Postdoctoral Fellowship (2027)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "other:uiuc-mrl-greene",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://mrl.illinois.edu/research/opportunities",
+ "us": false
+}

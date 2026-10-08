@@ -1,0 +1,32 @@
+{
+ "added": "2026-10-08",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-08",
+ "d": null,
+ "dt": "Full consideration for applications by Oct 5, 2026; open until filled; expected start Dec 1, 2026",
+ "e": "Experimental work on low-dimensional, molecular and hybrid materials for quantum sensing and quantum photonics; PhD in physics, chemistry, materials, EE or related by the start date, with hands-on experimental experience. No citizenship restriction stated.",
+ "f": "Indiana University Bloomington, Intelligent Systems Engineering (Iqbal Utama)",
+ "fields": [
+  "mat",
+  "phot",
+  "qp"
+ ],
+ "id": "indiana-utama-quantum-materials-optics-postdoc",
+ "n": "Indiana University: Postdoctoral Fellow in Quantum Materials and Quantum Optics (Utama group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:iu-34167-utama",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://indiana.peopleadmin.com/postings/34167",
+ "us": false
+}

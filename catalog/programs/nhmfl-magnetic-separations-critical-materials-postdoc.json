@@ -1,0 +1,30 @@
+{
+ "a": "1-year appointment, renewable up to 2 more years",
+ "added": "2026-10-08",
+ "aud": [
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-08",
+ "d": "2026-12-08",
+ "dt": "Application deadline Dec 8, 2026; apply at jobs.fsu.edu (Job ID 63477)",
+ "e": "Experiments, modeling and simulation of magnetic separation of critical materials with a team of chemical engineers, physicists and chemists; PhD in engineering, physics or a related field. No citizenship restriction stated.",
+ "f": "National High Magnetic Field Laboratory and Florida State University (contact Hadi Mohammadigoushki)",
+ "fields": [
+  "mat",
+  "energy"
+ ],
+ "id": "nhmfl-magnetic-separations-critical-materials-postdoc",
+ "n": "National MagLab / FSU: Postdoctoral Scholar, Magnetic Separations of Critical Materials",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "other:nhmfl-63477-magsep",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://nationalmaglab.org/careers/job-opportunities/postdoctoral-scholar-experimental-modeling-and-simulations-of-magnetic-separations-of-critical-materials/",
+ "us": false
+}

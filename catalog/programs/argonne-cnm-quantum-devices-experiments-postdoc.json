@@ -1,0 +1,32 @@
+{
+ "a": "$72,879-$121,465",
+ "added": "2026-10-08",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-08",
+ "d": null,
+ "dt": "Posted Jul 24, 2026 (Req. 423150); no deadline stated",
+ "e": "Design, fabricate and measure superconducting photonic quantum devices (superconducting qubits, microwave-optical transducers) for a quantum network; PhD within the last 0-5 years or soon to be completed. No citizenship restriction stated.",
+ "f": "Argonne National Laboratory, Center for Nanoscale Materials",
+ "fields": [
+  "qp",
+  "dev",
+  "phot"
+ ],
+ "id": "argonne-cnm-quantum-devices-experiments-postdoc",
+ "n": "Argonne CNM: Postdoctoral Researcher, Quantum Devices and Experiments (superconducting photonic quantum networks)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:anl-423150-quantum-devices",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://argonne.wd1.myworkdayjobs.com/en-US/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Researcher---Quantum-Devices-and-Experiments--NST-_423150",
+ "us": false
+}

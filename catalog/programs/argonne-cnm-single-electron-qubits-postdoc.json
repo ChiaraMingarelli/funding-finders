@@ -1,0 +1,31 @@
+{
+ "a": "$72,879-$121,465",
+ "added": "2026-10-08",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-08",
+ "d": null,
+ "dt": "Posted Aug 12, 2026 (Req. 423271); no deadline stated",
+ "e": "Design, fabrication and measurement of electron-on-solid-neon qubit devices aimed at high-fidelity two-qubit gates; PhD within the last 0-5 years or soon to be completed. No citizenship restriction stated.",
+ "f": "Argonne National Laboratory, Center for Nanoscale Materials",
+ "fields": [
+  "qp",
+  "dev"
+ ],
+ "id": "argonne-cnm-single-electron-qubits-postdoc",
+ "n": "Argonne CNM: Postdoctoral Appointee, Single Electron Qubits (electron-on-solid-neon)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:anl-423271-electron-qubits",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://argonne.wd1.myworkdayjobs.com/en-US/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Single-Electron-Qubits--NST-_423271",
+ "us": false
+}
