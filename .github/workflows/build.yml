@@ -1,5 +1,7 @@
 # Rebuild every page from the catalog and publish the combined site (docs/).
-# The four single-page repos copy their files from sites/ on their own schedule.
+# After each build, the sync-sites job asks the four single-page repos to copy their files from
+# sites/ right away (they also check on their own schedule). It needs the SYNC_TOKEN secret: a
+# fine-grained token with Actions read and write on those four repos.
 name: Build pages
 
 on:
@@ -71,3 +73,20 @@ jobs:
           path: docs
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  sync-sites:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ask the four single-page sites to copy the new build
+        env:
+          GH_TOKEN: ${{ secrets.SYNC_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "No SYNC_TOKEN secret yet; the single-page sites will copy on their own schedule."
+            exit 0
+          fi
+          for repo in yale-physics-funding-finder yale-applied-physics-funding-finder yale-astronomy-funding-finder nanohertz-opportunities; do
+            gh workflow run sync.yml -R "${{ github.repository_owner }}/$repo"
+            echo "Started the copy for $repo"
+          done
