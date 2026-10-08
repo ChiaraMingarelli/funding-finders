@@ -7,7 +7,7 @@
   "ast"
  ],
  "c": "Foundation",
- "checked": "2026-10-07",
+ "checked": "2026-10-08",
  "d": "2026-11-09",
  "dt": "Letter of intent due Nov 9, 2026; full application due Jul 1, 2027.",
  "e": "Teams of 3–5 non-hierarchical investigators at US or Canadian universities, labs or institutes, each within 10 years of their first independent position, working in basic physical sciences (physics incl. astrophysics and biophysics, astronomy, chemistry, materials, Earth and planetary science). A person may join only one LOI. At Yale, contact zandra.ruiz@yale.edu (Corporate & Foundation Relations).",
@@ -25,5 +25,9 @@
   "ten"
  ],
  "u": "https://rescorp.org/team-science-accelerator/",
- "us": false
+ "us": false,
+ "yale": {
+  "d": null,
+  "t": "Yale applicants should contact Yale Corporate and Foundation Relations before applying (Yale funding newsletter, Oct 7, 2026)."
+ }
 }

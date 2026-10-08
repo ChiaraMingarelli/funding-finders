@@ -7,9 +7,9 @@
   "ast"
  ],
  "c": "Federal grant",
- "checked": "2026-10-07",
+ "checked": "2026-10-08",
  "d": "2027-08-27",
- "dt": "Posted 2026-08-28; abstracts encouraged (dates not listed)",
+ "dt": "Executive summaries, abstracts and full proposals accepted any time until Aug 27, 2027",
  "e": "All responsible sources. Revolutionary (not evolutionary) advances in science, devices or systems, incl. physics, quantum, materials.",
  "f": "DOD DARPA",
  "fields": [
@@ -27,7 +27,7 @@
   }
  ],
  "nom": false,
- "s": "open",
+ "s": "rolling",
  "stages": [
   "tt",
   "ten"
