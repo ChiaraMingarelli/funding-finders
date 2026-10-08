@@ -6,9 +6,9 @@
   "radar"
  ],
  "c": "Scholarship",
- "checked": "2026-10-07",
+ "checked": "2026-10-08",
  "d": null,
- "dt": "Each university sets its own internal deadline (typically winter for summer 2027); check your USRA liaison",
+ "dt": "Each university sets its own internal deadline; ask the USRA liaison officer at the university where you want to hold the award",
  "e": "Canadian citizens, permanent residents or protected persons only. Funds a summer research placement at a Canadian university, e.g. in a pulsar, CHIME or NANOGrav group.",
  "f": "NSERC",
  "fields": [
@@ -25,7 +25,7 @@
  "stages": [
   "ug"
  ],
- "u": "https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp",
- "unv": "No 2026–27 cycle dates on the NSERC page; institutional deadlines vary",
+ "u": "https://nserc-crsng.canada.ca/en/funding-opportunity/undergraduate-student-research-awards",
+ "unv": "Institutional deadlines for 2027 not checked",
  "us": false
 }

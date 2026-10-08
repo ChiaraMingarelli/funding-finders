@@ -5,7 +5,7 @@
   "yale"
  ],
  "c": "Fellowship",
- "checked": "2026-10-07",
+ "checked": "2026-10-08",
  "d": null,
  "dt": "Full consideration by Sep 30, 2026; applications are still considered until the position is filled.",
  "e": "Interdisciplinary research with ML, AI and simulation-based inference. Requires a PhD in physics or astrophysics; data science expertise preferred.",
@@ -23,6 +23,7 @@
  "stages": [
   "pd"
  ],
- "u": "http://www.decodingnature.com",
+ "u": "https://www.decodingnature.com/",
+ "unv": "INSPIRE closed its listing at the Sep 30, 2026 deadline field; the ad says applications are considered until the position is filled. The group's jobs page does not list this fellowship.",
  "us": false
 }

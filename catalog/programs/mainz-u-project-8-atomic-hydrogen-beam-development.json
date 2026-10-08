@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-07",
+ "checked": "2026-10-08",
  "d": "2026-10-11",
- "dt": "Oct 11, 2026",
+ "dt": "INSPIRE listing deadline Oct 11, 2026; the ad says review continues until the position is filled",
  "e": "Build an atomic hydrogen beam for Project 8 (and KATRIN-related) neutrino mass work. Requires an experimental physics PhD; atomic-beam experience preferred.",
  "f": "Johannes Gutenberg University Mainz; Martin Fertl, Sebastian Böser",
  "fields": [
@@ -20,7 +20,7 @@
  "n": "Mainz U.: Project 8 atomic hydrogen beam development",
  "nom": false,
  "pt": "group",
- "s": "open",
+ "s": "rolling",
  "src": "inspire:3194860",
  "stages": [
   "pd"

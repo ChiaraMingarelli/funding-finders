@@ -6,10 +6,10 @@
   "ap"
  ],
  "c": "Federal grant",
- "checked": "2026-10-07",
+ "checked": "2026-10-08",
  "d": "2027-04-30",
- "dt": "Posted 2021-04-16",
- "e": "IHEs, non-profits, for-profits, individuals. Incubator projects, Collaboratory partnerships and QuaCR Fellowships in qubit/QIS research.",
+ "dt": "Broad agency announcement open until Apr 30, 2027",
+ "e": "Army Research Office broad agency announcement with NSA's Laboratory for Physical Sciences for qubit and quantum-information research: Incubator projects, Collaboratory partnerships and QuaCR graduate and postdoctoral fellowships. Universities, non-profits, companies and individuals may apply; the fellowships are for US citizens working with an investigator who holds an ARO or LPS quantum-information award, and that investigator submits the proposal.",
  "f": "DOD ARO / LPS",
  "fields": [
   "qp",
@@ -25,6 +25,7 @@
   }
  ],
  "nom": false,
+ "pt": "other",
  "s": "open",
  "stages": [
   "tt",

@@ -11,9 +11,9 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-07",
+ "checked": "2026-10-08",
  "d": "2026-10-15",
- "dt": "Oct 15, 2026",
+ "dt": "Oct 15, 2026 (INSPIRE listing); applications reviewed on a rolling basis until filled",
  "e": "AI/ML applications for rare-event searches with cryogenic detectors. Requires a PhD in particle or astroparticle physics with an AI/ML background.",
  "f": "Marietta Blau Institute (ÖAW), Vienna; Jochen Schieck, Florian Reindl",
  "fields": [
@@ -27,12 +27,12 @@
  "nom": false,
  "pt": "group",
  "region": "International",
- "s": "open",
+ "s": "rolling",
  "src": "inspire:3179833",
  "stages": [
   "pd"
  ],
  "u": "https://www.oeaw.ac.at/jobs?jh=uy5i0affp3iqf8t6bwrmcvptsjrjvhk",
- "unv": "OeAW job page returned 403 on Oct 7, 2026; deadline taken from the INSPIRE listing (a third-party repost gave an Aug 15, 2026 window).",
+ "unv": "The OeAW job page blocked automated access (HTTP 403) on Oct 8, 2026; the deadline and the rolling-review note come from the INSPIRE listing (a third-party repost gave an Aug 15, 2026 window).",
  "us": false
 }

@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-07",
+ "checked": "2026-10-08",
  "d": "2026-10-20",
- "dt": "2026/10/20 23:59:59 (time zone not stated on page); apply via UNM jobs req 38011",
+ "dt": "Review begins mid-October 2026; applications considered until the positions are filled. Apply via UNMJobs req 38011 (AJO lists 2026/10/20).",
  "e": "Quantum computation, control, measurement, communication and simulation. PhD in a QIS-related discipline.",
  "f": "University of New Mexico, Quantum New Mexico Institute (OVPR)",
  "fields": [
@@ -18,7 +18,7 @@
  "n": "University of New Mexico: QNM-I Postdoctoral Fellow",
  "nom": false,
  "pt": "prize",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:32802",
  "stages": [
   "pd"

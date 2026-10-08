@@ -1,13 +1,13 @@
 {
- "a": "PhD residency at Perimeter (value not stated)",
+ "a": "Top-up to $30,000 a year (after fees and tuition) through Term 12, a technology grant of up to $2,000, and a desk at Perimeter",
  "added": "2026-10-07",
  "aud": [
   "ng"
  ],
  "c": "Fellowship",
- "checked": "2026-10-07",
+ "checked": "2026-10-08",
  "d": null,
- "dt": "No deadline posted; submit at the same time as the PhD application to a partner university",
+ "dt": "No fixed date: submit the expression of interest within one week of your partner-university PhD application (the earliest one if you apply to several)",
  "e": "Lets PhD students at a Perimeter partner university do their PhD in residence at Perimeter with a Perimeter-affiliated supervisor. Requires admission to the partner university's PhD program and acceptance by a Perimeter faculty member; it is not itself a PhD application.",
  "f": "Perimeter Institute for Theoretical Physics",
  "fields": [
@@ -28,6 +28,5 @@
   "ug",
   "gr"
  ],
- "u": "https://perimeterinstitute.ca/phd-students",
- "unv": "Award value and the list of partner universities not checked (perimeterinstitute.ca returned 403); details from the AcademicJobsOnline posting"
+ "u": "https://perimeterinstitute.ca/training/phd-students"
 }

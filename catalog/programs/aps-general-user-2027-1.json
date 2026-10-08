@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Instrumentation",
- "checked": "2026-10-03",
+ "checked": "2026-10-08",
  "d": "2026-10-21",
- "dt": "2027-1 call due Oct 21, 2026; next calls ~March and ~June 2027",
+ "dt": "2027-1 call due Oct 21, 2026 (call opened Sept 14, 2026)",
  "e": "Peer-reviewed synchrotron beamtime for x-ray scattering, spectroscopy and imaging, for example resonant scattering and diffraction on oxide films and quantum materials. Open to researchers from any institution.",
  "f": "Argonne National Laboratory / DOE BES",
  "fields": [
@@ -29,6 +29,6 @@
   "gr"
  ],
  "u": "https://www.aps.anl.gov/Users-Information/About-Proposals/Proposal-Deadlines-and-Meetings",
- "unv": "Official page returned HTTP 403 on the Oct 7, 2026 recheck; the Oct 21, 2026 deadline was not re-confirmed",
+ "unv": "The official deadlines page returns HTTP 403 to automated checks. On Oct 8, 2026 the Oct 21, 2026 deadline was confirmed from a search-engine copy of that page's table, not from the live page.",
  "us": false
 }

@@ -5,9 +5,9 @@
   "ap"
  ],
  "c": "Scholarship",
- "checked": "2026-10-07",
- "d": "2027-05-30",
- "dt": "Annual deadline May 30",
+ "checked": "2026-10-08",
+ "d": null,
+ "dt": "Annual deadline May 30; last deadline May 30, 2026; no 2027 call found yet",
  "e": "Awards for graduate students who are IEEE Photonics Society members working in the Society's fields, normally in the second-to-last year of study. Ten were awarded in 2026.",
  "f": "IEEE Photonics Society",
  "fields": [
@@ -22,5 +22,6 @@
   "gr"
  ],
  "u": "https://ieeephotonics.org/awards/graduate-student-scholarship/",
+ "unv": "ieeephotonics.org returned 403 to automated requests on Oct 8, 2026; the May 30 annual deadline is from the society's scholarship page as shown in search results, and no 2027 call was found.",
  "us": false
 }

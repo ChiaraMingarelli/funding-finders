@@ -7,10 +7,10 @@
   "ap"
  ],
  "c": "Federal grant",
- "checked": "2026-10-07",
+ "checked": "2026-10-08",
  "d": null,
- "dt": "Full proposal accepted anytime under NSF 26-523 (PIF and QIS are listed separately).",
- "e": "Faculty PIs. PIF covers computing and data science for physics; QIS covers quantum information science. Both are options for quantum-sensing or AI/ML work in particle and nuclear physics.",
+ "dt": "QIS proposals accepted anytime under NSF 26-523. The PIF program page lists no PIF topic open for proposals.",
+ "e": "Faculty PIs. PIF covers computing and data science for physics; QIS covers quantum information science. QIS is an option for quantum-sensing or AI/ML work in particle and nuclear physics; PIF takes proposals only in announced topics.",
  "f": "NSF MPS/PHY (NSF 26-523)",
  "fields": [
   "ds",

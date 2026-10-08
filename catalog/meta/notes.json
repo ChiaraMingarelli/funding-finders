@@ -10,7 +10,7 @@
   },
   {
    "b": "Archived or paused NSF programs",
-   "t": "MRI is waiting for a new solicitation. MPS-Ascend, WoU-MMA, Mid-scale RI-2 and the AI Institutes competition are archived. CSSI is paused, and PIF has no open topic."
+   "t": "MRI, CSSI and the AI Institutes are waiting for new solicitations. MPS-Ascend, WoU-MMA and Mid-scale RI-2 are archived, and PIF has no open topic."
   },
   {
    "b": "DOE Office of Science",
@@ -18,7 +18,7 @@
   },
   {
    "b": "NIH",
-   "t": "Since Sep 25, 2025, NIH accepts at most 6 applications per PI per calendar year, and from January 2026 institutes no longer use paylines. The K awards will be consolidated into a new \"KT\" award for due dates from Oct 12, 2027."
+   "t": "Since Sep 25, 2025, NIH accepts at most 6 applications per PI per calendar year, and from January 2026 institutes no longer use paylines. For due dates from Oct 12, 2027, NIH will merge most individual K awards into four parent notices; the K99/R00 and K22 become the KT1/R00 Career Transition to Research Independence Award."
   },
   {
    "b": "Defense agencies",
@@ -30,18 +30,18 @@
   },
   {
    "b": "Budget requests",
-   "t": "The President's FY2027 request cuts NSF by 55% (MPS by 67%) and the DOE Office of Science by 13%. Appropriations are still pending."
+   "t": "The President's FY2027 request cuts NSF by 55% (MPS by 67%) and the DOE Office of Science by 13%. A continuing resolution (P.L. 119-103) funds agencies through Dec 11, 2026, largely at FY2026 rates, and full-year appropriations are still pending."
   }
  ],
  "gr": {
   "items": [
    {
     "b": "First-year students only:",
-    "t": "GRFP (Oct 23) and DOE CSGF (Jan 7). Both require US citizenship or permanent residency. Hertz (Oct 30) mostly takes first-year students."
+    "t": "GRFP (Oct 23), DOE CSGF (Jan 7) and Hertz (Oct 30). All three require US citizenship or permanent residency. Hertz takes PhD students who will be in their first or second year in fall 2027."
    },
    {
     "b": "Other deadlines:",
-    "t": "Soros for New Americans Oct 29, NDSEG Oct 30, DOE SCGSR Nov 4, NNSA SSGF Jan 5, NIH F31 Dec 8 and HHMI Gilliam Oct 27."
+    "t": "HHMI Gilliam Oct 27, Soros for New Americans Oct 29, NDSEG Oct 30, DOE SCGSR Nov 4, NIH F31 Dec 8 and NNSA SSGF Jan 5."
    },
    {
     "b": "Final-year students",
@@ -57,7 +57,7 @@
  "pd": {
   "items": [
    {
-    "b": "National-lab fellowships close first.",
+    "b": "National-lab fellowships.",
     "t": "ORNL and the Neutrino Theory Network are due Oct 16, and LBNL Chamberlain Oct 18."
    },
    {
@@ -83,19 +83,19 @@
   "items": [
    {
     "b": "Moore Experimental Physics Investigators:",
-    "t": "the pre-proposal is due Oct 8. Awards are $1.35M over 5 years for experimentalists first tenured within the past 5 years."
+    "t": "the 2027 pre-proposals are due Oct 8 at noon PT (3 pm ET), and invited full proposals are due in early February 2027. Awards are $1.35M over 5 years for experimentalists first tenured within the past 5 years."
    },
    {
     "b": "Sabbaticals and visits.",
-    "t": "IAS School of Natural Sciences is due Nov 15 and the Aspen summer program Jan 15. Guggenheim and Fulbright closed Sep 15, and both reopen around Sep 2027."
+    "t": "IAS School of Natural Sciences is due Nov 15 and the Aspen summer program Jan 15. Guggenheim and Fulbright closed Sep 15. Fulbright's next competition is expected to open around Feb 2027, and Guggenheim usually opens in the summer and closes in mid-September."
    },
    {
     "b": "Large awards.",
-    "t": "Keck Phase I is due Dec 7 (limited submission; Yale runs an internal round first). The Simons Collaborations LOI is due Oct 29, and the FY2027 DoD MURI is due Apr 9, 2027. Simons Targeted Grants take LOIs anytime."
+    "t": "The W.M. Keck Foundation application is due Dec 7 (limited submission; Yale runs an internal round first). The Simons Collaborations LOI is due Oct 29. FY2027 MURI white papers (optional) are due Nov 20 and full proposals Apr 9, 2027. Simons Targeted Grants take LOIs anytime."
    },
    {
     "b": "Instrumentation.",
-    "t": "FY2027 DURIP is due Nov 6. NSF MRI is waiting for a new solicitation. The new NIH S10 shared-instrumentation notices (PAR-27-022, PAR-27-021) are posted."
+    "t": "FY2027 DURIP is due Nov 6. NSF MRI is waiting for a new solicitation. The NIH S10 notices (PAR-27-022 and PAR-27-021) have one receipt date a year, and this year's dates have passed (Jul 27 for SIG, Sep 25 for SIS); the 2027 dates are not posted yet."
    }
   ],
   "title": "For tenured faculty"
@@ -108,7 +108,7 @@
    },
    {
     "b": "Defense early-career awards are due soon.",
-    "t": "The AFOSR YIP white paper is due Oct 9 (full proposal Dec 4) and ONR YIP Oct 30. Both require a PhD in 2019 or later and US citizenship or permanent residency. FY2027 DURIP equipment proposals are due Nov 6."
+    "t": "The AFOSR YIP white paper is due Oct 9 (full proposal Dec 4) and ONR YIP Oct 30. AFOSR requires a PhD on or after Apr 1, 2019 and ONR a PhD on or after Jan 1, 2019; both are limited to US citizens, nationals and permanent residents. FY2027 DURIP equipment proposals are due Nov 6."
    },
    {
     "b": "DOE Early Career",
@@ -120,7 +120,7 @@
    },
    {
     "b": "Tenure changes eligibility.",
-    "t": "Sloan, Packard, Cottrell, Beckman, Searle and DOE Early Career are for untenured faculty. Moore EPI is for faculty tenured within the past 5 years."
+    "t": "Sloan, Packard, Cottrell, Beckman and DOE Early Career are for untenured faculty. Moore EPI is for faculty tenured within the past 5 years."
    }
   ],
   "title": "For tenure-track faculty"
@@ -137,7 +137,7 @@
    },
    {
     "b": "REU slots are scarcer since 2025.",
-    "t": "NSF made 52 new site awards, against about 200 a year before. Confirm each site is running in 2027."
+    "t": "NSF funded fewer REU sites after the 2025 cuts, and some sites did not run. Confirm each site is running in 2027."
    },
    {
     "b": "Seniors",

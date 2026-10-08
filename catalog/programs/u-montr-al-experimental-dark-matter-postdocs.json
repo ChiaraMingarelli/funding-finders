@@ -11,9 +11,9 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-07",
+ "checked": "2026-10-08",
  "d": "2026-10-09",
- "dt": "Oct 9, 2026",
+ "dt": "Review of applications starts Oct 9, 2026; positions open until filled",
  "e": "Direct dark matter detection with SENSEI, PICO and SuperCDMS. Requires a PhD in particle physics and instrumentation expertise.",
  "f": "Université de Montréal; PI Alan Robinson",
  "fields": [
@@ -27,7 +27,7 @@
  "nom": false,
  "pt": "group",
  "region": "Canada",
- "s": "open",
+ "s": "rolling",
  "src": "inspire:3205034",
  "stages": [
   "pd"

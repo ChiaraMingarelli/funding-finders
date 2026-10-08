@@ -8,9 +8,9 @@
   "ast"
  ],
  "c": "Travel",
- "checked": "2026-09-29",
+ "checked": "2026-10-08",
  "d": "2027-04-01",
- "dt": "Special round for the IAU General Assembly (Rome); next round May 1",
+ "dt": "Special round for the IAU General Assembly (Rome, Aug 10–19, 2027); the regular round for other meetings is due May 1",
  "e": "For people employed at or studying at US institutions.",
  "f": "AAS",
  "fields": [
@@ -22,7 +22,7 @@
  "nom": false,
  "pt": "other",
  "region": "US",
- "s": "watch",
+ "s": "open",
  "stages": [
   "tt",
   "ten",
@@ -30,6 +30,6 @@
   "gr"
  ],
  "u": "https://aas.org/grants-and-prizes/international-travel-grants",
- "unv": "AAS page returned 403 on Oct 7, 2026; round dates could not be reconfirmed.",
+ "unv": "aas.org returned 403 to automated requests on Oct 8, 2026; the Apr 1, 2027 date is from the AAS application page as shown in search results. An AAS news item gives Jan 15, 2027 for GA abstracts and grant applications, which appears to be the IAU's own deadline.",
  "us": false
 }

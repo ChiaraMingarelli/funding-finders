@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-07",
+ "checked": "2026-10-08",
  "d": null,
- "dt": "no deadline stated; listed until 2026-11-11",
+ "dt": "No deadline stated; the AcademicJobsOnline ad is listed until Nov 11, 2026",
  "e": "Institute-wide postdocs in mathematics and theoretical physics (condensed matter theory, high energy theory, mathematical physics, amplitudes, string theory). PhD before appointment.",
  "f": "Beijing Institute of Mathematical Sciences and Applications (BIMSA)",
  "fields": [
@@ -19,7 +19,7 @@
  "n": "BIMSA: Postdoctoral positions (incl. theoretical physics)",
  "nom": false,
  "pt": "group",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:31181",
  "stages": [
   "pd"

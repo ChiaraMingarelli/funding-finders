@@ -10,10 +10,10 @@
   "ast"
  ],
  "c": "Federal grant",
- "checked": "2026-10-07",
+ "checked": "2026-10-08",
  "d": null,
- "dt": "Not solicited in ROSES-24 or ROSES-25",
- "e": "Dormant. The FY27 request cuts Physics of the Cosmos to $3.8M.",
+ "dt": "Last solicited in ROSES-2024 (element D.15; proposals were due Mar 20, 2025); not in ROSES-2025.",
+ "e": "Supports US investigators doing research that prepares for LISA science. The FY2027 budget request would cut Physics of the Cosmos to $3.8M.",
  "f": "NASA SMD",
  "fields": [
   "grav",
