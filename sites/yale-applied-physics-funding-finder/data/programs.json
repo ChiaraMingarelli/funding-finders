@@ -2533,9 +2533,9 @@
   "a": "not listed",
   "added": "2026-09-28",
   "c": "Federal grant",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2027-08-27",
-  "dt": "Posted 2026-08-28; abstracts encouraged (dates not listed)",
+  "dt": "Executive summaries, abstracts and full proposals accepted any time until Aug 27, 2027",
   "e": "All responsible sources. Revolutionary (not evolutionary) advances in science, devices or systems, incl. physics, quantum, materials.",
   "f": "DOD DARPA",
   "fields": [
@@ -2553,7 +2553,7 @@
    }
   ],
   "nom": false,
-  "s": "open",
+  "s": "rolling",
   "stages": [
    "tt",
    "ten"
@@ -10305,7 +10305,7 @@
   "a": "Up to $1M total over 2 years per team; 3–4 teams in the pilot year",
   "added": "2026-09-30",
   "c": "Foundation",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-11-09",
   "dt": "Letter of intent due Nov 9, 2026; full application due Jul 1, 2027.",
   "e": "Teams of 3–5 non-hierarchical investigators at US or Canadian universities, labs or institutes, each within 10 years of their first independent position, working in basic physical sciences (physics incl. astrophysics and biophysics, astronomy, chemistry, materials, Earth and planetary science). A person may join only one LOI. At Yale, contact zandra.ruiz@yale.edu (Corporate & Foundation Relations).",
@@ -10323,7 +10323,11 @@
    "ten"
   ],
   "u": "https://rescorp.org/team-science-accelerator/",
-  "us": false
+  "us": false,
+  "yale": {
+   "d": null,
+   "t": "Yale applicants should contact Yale Corporate and Foundation Relations before applying (Yale funding newsletter, Oct 7, 2026)."
+  }
  },
  {
   "a": "Monthly salary plus discretionary work allowance of 480,000 JPY or more; one-year contract renewable up to March 31, 2030",
@@ -12841,10 +12845,10 @@
   "us": false
  },
  {
-  "a": "Up to $30,000",
+  "a": "$20,000",
   "added": "2026-09-30",
   "c": "Yale internal",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "d": "2026-10-21",
   "dt": "Internal deadline Oct 21, 2026.",
   "e": "Yale faculty and staff eligible to serve as PIs, for international collaborations on issues of global significance (e.g. workshops or partner visits with institutions abroad). Contact: nathan.camp@yale.edu.",
@@ -12862,7 +12866,7 @@
    "ten"
   ],
   "u": "https://world.yale.edu/academics-research/major-partnerships",
-  "unv": "The Yale and the World page confirms the fall 2026 round with applications due Oct 21, 2026; it does not state an award amount, and the InfoReady call page could not be read (JavaScript), so 'Up to $30,000' is not verified.",
+  "unv": "The Partnership Fund page does not state the amount; $20,000 is from the Yale research office's funding newsletter of Oct 7, 2026.",
   "us": false
  },
  {
