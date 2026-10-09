@@ -5739,16 +5739,16 @@
   "us": false
  },
  {
-  "a": "1 year, renewable up to 2 more",
+  "a": "$70,000-$80,000 per year; 1 year, renewable up to 2 more",
   "added": "2026-09-30",
   "asub": [
    "he",
    "inst"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-07",
+  "checked": "2026-10-09",
   "d": null,
-  "dt": "open until filled",
+  "dt": "Review begins Nov 15, 2026; continues throughout the academic year until all positions are filled",
   "e": "Detector R&D and operations: quantum noise reduction, cryogenic interferometry, ML feedback control, suspensions; based at Caltech, MIT, Hanford or Livingston.",
   "f": "LIGO Laboratory, Caltech/MIT (Rana Adhikari, Lee McCuller, Matt Evans, Nergis Mavalvala)",
   "fields": [

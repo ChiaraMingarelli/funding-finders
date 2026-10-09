@@ -15893,7 +15893,7 @@
   "us": false
  },
  {
-  "a": "1 year, renewable up to 2 more",
+  "a": "$70,000-$80,000 per year; 1 year, renewable up to 2 more",
   "added": "2026-09-30",
   "asub": [
    "he",
@@ -15907,9 +15907,9 @@
    "ast"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-07",
+  "checked": "2026-10-09",
   "d": null,
-  "dt": "open until filled",
+  "dt": "Review begins Nov 15, 2026; continues throughout the academic year until all positions are filled",
   "e": "Detector R&D and operations: quantum noise reduction, cryogenic interferometry, ML feedback control, suspensions; based at Caltech, MIT, Hanford or Livingston.",
   "f": "LIGO Laboratory, Caltech/MIT (Rana Adhikari, Lee McCuller, Matt Evans, Nergis Mavalvala)",
   "fields": [
@@ -15929,42 +15929,6 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/29381",
-  "us": false
- },
- {
-  "a": "$70,000-$80,000 per year (salary range in the AJO ads)",
-  "added": "2026-09-29",
-  "asub": [
-   "he"
-  ],
-  "aud": [
-   "yale",
-   "ng",
-   "radar",
-   "ast"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-07",
-  "d": null,
-  "dt": "No deadline: the instrument/experiment posting on AJO (#29381) stays open until all positions are filled; the data-analysis posting (#30721) is closed",
-  "e": "Postdocs at the LIGO Laboratory sites (Caltech, MIT, Hanford, Livingston); the current open posting is for experiment and instrumentation work, with hires as funding allows. No citizenship limits stated.",
-  "f": "Caltech / MIT",
-  "fields": [
-   "grav",
-   "inst"
-  ],
-  "id": "ligo-laboratory-postdocs",
-  "n": "LIGO Laboratory postdocs",
-  "nfit": "High",
-  "nom": false,
-  "pt": "group",
-  "region": "US",
-  "s": "rolling",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.ligo.caltech.edu/page/postdocs",
-  "unv": "The instrument/experiment posting dates from Dec 2024; it still accepted applications on Oct 7, 2026.",
   "us": false
  },
  {
