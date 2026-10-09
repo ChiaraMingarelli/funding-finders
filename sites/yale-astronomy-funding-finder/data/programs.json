@@ -927,6 +927,37 @@
   "us": false
  },
  {
+  "a": "",
+  "added": "2026-10-09",
+  "asub": [
+   "he"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-09",
+  "d": "2026-12-15",
+  "dt": "Expressions of interest preferably by Dec 15, 2026 (anticipated opening of the 9th FCT CEEC Individual call); FCT call deadline not yet announced",
+  "e": "The Gr@v group at the University of Aveiro (black holes, exotic compact objects, lensing, GRMHD, numerical relativity) seeks researchers to support as applicants to the 9th FCT CEEC Individual call, which funds research contracts of up to three years in Portugal. Interested researchers send a CV, publication list and brief research statement to Carlos Herdeiro; no citizenship restriction stated.",
+  "f": "University of Aveiro (Gr@v group, CIDMA)",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "aveiro-grav-ceec9-eoi",
+  "n": "University of Aveiro (Gr@v): Expressions of interest for FCT CEEC Individual research contracts in strong gravity",
+  "nfit": "High",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "other:hyperspace-aveiro-grav-ceec",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://gravitation.web.ua.pt/node/5748",
+  "unv": "Salary/contract level not stated (set by FCT CEEC rules); 9th CEEC call dates and eligibility not yet published; Dec 15 date is a preferred EOI date, not a formal deadline.",
+  "us": false
+ },
+ {
   "a": "AWS promotional credits (students max $5,000; no stated cap for faculty/staff)",
   "added": "2026-09-29",
   "c": "Compute",
@@ -953,6 +984,71 @@
    "gr"
   ],
   "u": "https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/",
+  "us": false
+ },
+ {
+  "a": "",
+  "added": "2026-10-09",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-09",
+  "d": "2026-11-21",
+  "dt": "Apply by Nov 21, 2026",
+  "e": "Several postdoctoral fellows from Fall 2027 in theoretical physics (cosmology, phenomenology, QFT, quantum gravity, quantum information theory, strings), 2-3 years, extendable in exceptional cases up to 5. No citizenship restriction stated.",
+  "f": "University of California, Berkeley / Lawrence Berkeley National Laboratory",
+  "fields": [
+   "ppt",
+   "grav",
+   "qp"
+  ],
+  "id": "berkeley-litp-lbnl-theory-postdoc-2027",
+  "n": "UC Berkeley LITP / Berkeley Lab: Postdoctoral Fellows in Theoretical Particle Physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33012",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33012",
+  "unv": "Salary not stated (\"competitive\").",
+  "us": false
+ },
+ {
+  "a": "",
+  "added": "2026-10-09",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-09",
+  "d": "2026-11-20",
+  "dt": "Apply by Nov 20, 2026",
+  "e": "Postdoc up to 3 years from Fall 2027 with Benjamin Safdi in the Simons Working Group on Axions (astrophysical probes of axions: supernova simulations, black hole superradiance, cosmological simulations), with travel funds. No citizenship restriction stated.",
+  "f": "University of California, Berkeley",
+  "fields": [
+   "ppt",
+   "astro",
+   "nut"
+  ],
+  "id": "berkeley-litp-simons-axions-postdoc-2027",
+  "n": "UC Berkeley LITP: Postdoctoral Researcher, Simons Working Group on Axions",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33011",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33011",
+  "unv": "Salary not stated (\"competitive\").",
   "us": false
  },
  {
@@ -1463,6 +1559,37 @@
    "pd"
   ],
   "u": "https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program",
+  "us": false
+ },
+ {
+  "a": "2+1 years from fall 2027; one position may be a McDonald Institute theory fellowship",
+  "added": "2026-10-09",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-09",
+  "d": "2027-01-04",
+  "dt": "Full consideration by Jan 4, 2027; first offers mid-to-late Jan 2027",
+  "e": "One or two postdoctoral positions in theoretical astroparticle physics (broadly defined) with Carleton's BSM theory group, starting fall 2027. No citizenship restriction stated.",
+  "f": "Carleton University, Theoretical Particle Physics group",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "carleton-astroparticle-theory-postdoc-2027",
+  "n": "Carleton University: Postdoc in theoretical astroparticle physics (McDonald Institute)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "open",
+  "src": "ajo:33001",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33001",
+  "unv": "Salary not stated in the listing.",
   "us": false
  },
  {
@@ -3260,36 +3387,6 @@
    "pd"
   ],
   "u": "https://frq.gouv.qc.ca/programme/bourses-dexcellence-pour-etudiantes-etrangeres-et-etudiants-etrangers-pbeee-2027-2028/",
-  "us": false
- },
- {
-  "a": "$45,000/yr for 6 months–2 years; +$10,000/yr if held outside Québec",
-  "added": "2026-10-01",
-  "asub": [
-   "he"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-10-07",
-  "d": "2026-10-08",
-  "dt": "2027–28 competition: Oct 8, 2026, 4:00 pm ET",
-  "e": "Canadian citizens and permanent residents with a valid RAMQ card may hold it in Québec or elsewhere; other applicants must hold it in Québec. Must move to an institution other than the PhD institution.",
-  "f": "Fonds de recherche du Québec",
-  "fields": [
-   "astro",
-   "grav"
-  ],
-  "id": "frq-postdoctoral-scholarship-b3",
-  "n": "FRQ Postdoctoral Scholarship (B3)",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "Canada",
-  "s": "open",
-  "src": "other:frq",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://frq.gouv.qc.ca/programme/bourses-postdoctorales-2027-2028-b3/",
   "us": false
  },
  {
@@ -5433,6 +5530,37 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32681",
+  "us": false
+ },
+ {
+  "a": "$70,000-$80,000 per year",
+  "added": "2026-10-09",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-09",
+  "d": null,
+  "dt": "Review begins Nov 15, 2026; continues until all positions are filled (AJO listing runs to Apr 7, 2027)",
+  "e": "One or more data-analysis postdocs at Caltech and/or MIT working on LIGO data (searches, detector characterization, calibration) with Weinstein, Chatziioannou and Vitale; hires depend on funding. No citizenship restriction stated.",
+  "f": "LIGO Laboratory (Caltech / MIT)",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "ligo-lab-data-analysis-postdoc-2026",
+  "n": "LIGO Laboratory: Data Analysis Postdoc",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "ajo:32996",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32996",
+  "unv": "Posted 2026-10-07. May belong in the existing 'LIGO Laboratory postdocs' row, which lists the earlier data-analysis posting (#30721) as closed.",
   "us": false
  },
  {
@@ -9125,6 +9253,33 @@
   "us": false
  },
  {
+  "a": "Postdoc $73,000-$75,000/yr or associate research scholar $75,000-$83,000/yr, plus annual research fund; up to 3 years",
+  "added": "2026-10-09",
+  "c": "Fellowship",
+  "checked": "2026-10-09",
+  "d": "2026-11-01",
+  "dt": "Full consideration for applications and letters received by Nov 1, 2026; applications accepted until filled",
+  "e": "Fellowship for early-career scientists to do independent or collaborative research in physics broadly (including astrophysics, biophysics, geophysics and planetary physics) at Princeton, starting around Sep 1, 2027; commitment to broadening participation is encouraged. PhD in the physical sciences or a related field required; no citizenship restriction stated, but the ad says it cannot sponsor H-1B visas that require consular processing.",
+  "f": "Princeton University (Physics, Astrophysical Sciences, Geosciences)",
+  "fields": [
+   "all"
+  ],
+  "id": "princeton-future-faculty-physical-sciences-fellowship",
+  "n": "Princeton University: Future Faculty in the Physical Sciences (FFPS) Postdoctoral Fellowship",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3212699",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33005",
+  "unv": "Also posted on INSPIRE (3212699) with an Interfolio application link; not eligible for H-1B sponsorship requiring consular processing per the AJO ad.",
+  "us": false
+ },
+ {
   "a": "Last cycle $77k, 3 yr",
   "added": "2026-09-29",
   "asub": [
@@ -11152,6 +11307,38 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32907",
   "us": true
+ },
+ {
+  "a": "",
+  "added": "2026-10-09",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-09",
+  "d": "2026-12-15",
+  "dt": "Apply by Dec 15, 2026",
+  "e": "Postdoc starting Fall 2027 in the high-energy theory group of the Leinweber Institute for Theoretical Physics (SM/BSM, astroparticle physics and cosmology, strings, QFT, amplitudes, gravity); applicants are also considered for Leinweber Postdoctoral Fellowships, with a research and travel budget. No citizenship restriction stated.",
+  "f": "University of Michigan",
+  "fields": [
+   "ppt",
+   "astro",
+   "grav"
+  ],
+  "id": "umich-litp-het-postdoc-2027",
+  "n": "University of Michigan: High Energy Theory Postdoc (Leinweber Institute)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:32979",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32979",
+  "unv": "Salary not stated.",
+  "us": false
  },
  {
   "a": "EUR 3,706-5,760/month + 8% holiday + 8.3% year-end; 36 months",

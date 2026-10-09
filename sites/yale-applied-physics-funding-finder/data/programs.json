@@ -799,6 +799,35 @@
   "us": false
  },
  {
+  "a": "$72,879–$121,465/yr (expected hiring range)",
+  "added": "2026-10-09",
+  "c": "Group postdoc",
+  "checked": "2026-10-09",
+  "d": null,
+  "dt": "No deadline stated; posted Oct 8, 2026; start as early as Fall 2026",
+  "e": "Center for Nanoscale Materials postdoc to design, fabricate and measure superconducting transmon qubits in a dilution refrigerator for quantum-sensing experiments, including reinforcement-learning approaches to qubit control, in collaboration with UChicago. Requires a PhD within the last 0–5 years; no citizenship restriction stated, but applicants must disclose foreign-government-sponsored activities under DOE Order 486.1A.",
+  "f": "Argonne National Laboratory",
+  "fields": [
+   "qp",
+   "dev",
+   "cmx"
+  ],
+  "id": "argonne-cnm-superconducting-qubits-quantum-sensing",
+  "n": "Argonne CNM: Postdoctoral Appointee, Superconducting Qubits for Quantum Sensing",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:argonne-423526",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---NST-Superconducting-Qubits-for-Quantum-Sensing_423526",
+  "unv": "No application deadline stated.",
+  "us": false
+ },
+ {
   "a": "Up to 3 years, renewed annually, with competitive salary and a research-support stipend. Years 1-2 fully LDRD-funded.",
   "added": "2026-09-28",
   "c": "Fellowship",
@@ -4234,6 +4263,33 @@
   "us": false
  },
  {
+  "a": "Starting at $67,600/yr",
+  "added": "2026-10-09",
+  "c": "Group postdoc",
+  "checked": "2026-10-09",
+  "d": null,
+  "dt": "Rolling review until filled; posted Oct 6, 2026; start from Nov 2026",
+  "e": "Postdoc in the Wahab Lab with the Mundy Lab (Harvard Physics) studying electrocatalysis and operando spectroscopy of molecular-beam-epitaxy-grown thin-film oxides. Requires a PhD (or near completion) in chemistry, physics, materials science or related field with electrochemistry and materials experience; no citizenship restriction stated.",
+  "f": "Harvard University (Rowland Institute / Physics)",
+  "fields": [
+   "mat",
+   "cmx"
+  ],
+  "id": "harvard-rowland-mbe-oxide-electrochem-postdoc",
+  "n": "Harvard Rowland Institute: Postdoc in Electrochemistry of Layered Thin-Film Oxides (Wahab/Mundy labs)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:harvard-ap-16891",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicpositions.harvard.edu/postings/16891",
+  "us": false
+ },
+ {
   "a": "3-yr stipend + research budget",
   "added": "2026-09-29",
   "c": "Fellowship",
@@ -6515,34 +6571,6 @@
   ],
   "u": "https://www.moore.org/initiative-additional-info?initiativeId=emergent-phenomena-in-quantum-systems",
   "unv": "The 2026 synthesis call page on epiqs.smapply.io was removed (404); the plan for open calls in 2029 and 2032 is stated on the EPiQS 2026 Experimental Investigators call page.",
-  "us": false
- },
- {
-  "a": "~$1.35–1.4M over 5 years plus possible equipment funds; ~20 awards/yr",
-  "added": "2026-09-28",
-  "c": "Foundation",
-  "checked": "2026-10-08",
-  "d": "2026-10-08",
-  "dt": "Pre-proposal due Oct 8, 2026, noon PT (hard deadline). Invited full proposals due early Feb 2027; awards in Aug 2027.",
-  "e": "Received tenure for the first time within the past 5 years (or equivalent), at a US nonprofit or public institution. Experimental only (AMO, condensed matter, quantum information, precision measurement and more). No theory or large collaborations.",
-  "f": "Gordon and Betty Moore Foundation",
-  "fields": [
-   "amo",
-   "cmx",
-   "ppx",
-   "nux",
-   "bio",
-   "qp",
-   "inst"
-  ],
-  "id": "moore-foundation-experimental-physics-investigators-epi-2027",
-  "n": "Moore Foundation Experimental Physics Investigators (EPI) – 2027 cohort",
-  "nom": false,
-  "s": "open",
-  "stages": [
-   "ten"
-  ],
-  "u": "https://www.moore.org/initiative-strategy-detail?initiativeId=moore-investigators-in-experimental-physics-initiative",
   "us": false
  },
  {
@@ -10037,6 +10065,33 @@
   "us": false
  },
  {
+  "a": "Postdoc $73,000-$75,000/yr or associate research scholar $75,000-$83,000/yr, plus annual research fund; up to 3 years",
+  "added": "2026-10-09",
+  "c": "Fellowship",
+  "checked": "2026-10-09",
+  "d": "2026-11-01",
+  "dt": "Full consideration for applications and letters received by Nov 1, 2026; applications accepted until filled",
+  "e": "Fellowship for early-career scientists to do independent or collaborative research in physics broadly (including astrophysics, biophysics, geophysics and planetary physics) at Princeton, starting around Sep 1, 2027; commitment to broadening participation is encouraged. PhD in the physical sciences or a related field required; no citizenship restriction stated, but the ad says it cannot sponsor H-1B visas that require consular processing.",
+  "f": "Princeton University (Physics, Astrophysical Sciences, Geosciences)",
+  "fields": [
+   "all"
+  ],
+  "id": "princeton-future-faculty-physical-sciences-fellowship",
+  "n": "Princeton University: Future Faculty in the Physical Sciences (FFPS) Postdoctoral Fellowship",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3212699",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33005",
+  "unv": "Also posted on INSPIRE (3212699) with an Interfolio application link; not eligible for H-1B sponsorship requiring consular processing per the AJO ad.",
+  "us": false
+ },
+ {
   "a": "Not confirmed",
   "added": "2026-09-28",
   "c": "Fellowship",
@@ -10245,6 +10300,62 @@
   ],
   "u": "https://www.quadfellowship.org/apply",
   "unv": "Next deadline and amount not posted.",
+  "us": false
+ },
+ {
+  "a": "$110,000–$120,000 base salary plus equity",
+  "added": "2026-10-09",
+  "c": "Group postdoc",
+  "checked": "2026-10-09",
+  "d": null,
+  "dt": "No deadline stated; first published Sep 28, 2026",
+  "e": "Fixed-term industry postdoc designing algorithms and protocols for neutral-atom (Rydberg/tweezer-array) quantum computers, including quantum simulation, optimization and fault-tolerant resource estimation. Requires a PhD in physics, quantum information or related field; no citizenship restriction stated.",
+  "f": "QuEra Computing Inc. (Boston)",
+  "fields": [
+   "qp",
+   "amo"
+  ],
+  "id": "quera-applications-postdoc-fellow",
+  "n": "QuEra Computing: Quantum Innovation Postdoctoral Fellow – Quantum Applications",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:quera-5436775008",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5436775008",
+  "unv": "Term length and deadline not stated; industry (company) position.",
+  "us": false
+ },
+ {
+  "a": "$110,000–$120,000 base salary plus equity",
+  "added": "2026-10-09",
+  "c": "Group postdoc",
+  "checked": "2026-10-09",
+  "d": null,
+  "dt": "No deadline stated; first published Sep 28, 2026",
+  "e": "Fixed-term industry postdoc developing quantum error-correction schemes for neutral-atom quantum computers and evaluating them against algorithms and architectures, working with QuEra scientists and engineers. Requires a PhD in physics, CS, quantum information or related field and demonstrated QEC expertise; no citizenship restriction stated.",
+  "f": "QuEra Computing Inc. (Boston)",
+  "fields": [
+   "qp",
+   "amo"
+  ],
+  "id": "quera-qec-postdoc-fellow",
+  "n": "QuEra Computing: Quantum Innovation Postdoctoral Fellow – QEC",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:quera-5436784008",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5436784008",
+  "unv": "Term length and deadline not stated; industry (company) position.",
   "us": false
  },
  {
