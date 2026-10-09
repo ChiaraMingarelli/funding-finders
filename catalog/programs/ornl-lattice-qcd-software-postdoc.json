@@ -1,0 +1,33 @@
+{
+ "a": "",
+ "added": "2026-10-09",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-09",
+ "d": null,
+ "dt": "No closing date stated; listed Oct 4, 2026",
+ "e": "Postdoc in the NCCS Advanced Computing for Nuclear, Particle and Astrophysics group developing and porting lattice QCD software and algorithms for exascale machines such as Frontier. Requires a PhD within five years in theoretical/computational physics, CS, applied math or related field; no citizenship restriction stated, but DOE access restrictions and a PIV credential apply.",
+ "f": "Oak Ridge National Laboratory",
+ "fields": [
+  "ppt",
+  "nut",
+  "ds"
+ ],
+ "id": "ornl-lattice-qcd-software-postdoc",
+ "n": "Oak Ridge: Postdoctoral Research Associate, Lattice Quantum Chromodynamics (OLCF/NCCS)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:ornl-16889-lattice-qcd",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Lattice-Quantum-Chromodynamics-TN-37830/1416949000/",
+ "unv": "Salary not stated; requisition 16889 may be a repost of an earlier listing.",
+ "us": false
+}

@@ -1,0 +1,31 @@
+{
+ "a": "$84,800–$132,900 (9-month, Assistant Professor)",
+ "added": "2026-10-09",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-09",
+ "d": "2026-11-15",
+ "dt": "Apply by Nov 15, 2026 (11:59pm PT); opened Sep 29, 2026",
+ "e": "Tenure-track Assistant Professor search emphasising space sciences (including gravitational waves, black hole imaging, gamma-ray and multi-messenger astronomy, radio cosmology, dark matter), astrophysics experiment, data-science-driven astrophysics, and experimental nuclear/particle fundamental symmetries. Applicants need a PhD or current PhD enrolment; no citizenship restriction stated.",
+ "f": "University of California, Berkeley",
+ "fields": [
+  "astro",
+  "grav",
+  "nux",
+  "ppx"
+ ],
+ "id": "fj-ucb-physics-open-field",
+ "n": "UC Berkeley: Assistant Professor, Open Physics Field (space sciences, GW, multi-messenger, fundamental symmetries)",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:ucb-jpf05524",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://aprecruit.berkeley.edu/JPF05524",
+ "us": false
+}

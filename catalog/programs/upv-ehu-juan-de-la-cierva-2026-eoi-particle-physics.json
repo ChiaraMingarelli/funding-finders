@@ -1,0 +1,32 @@
+{
+ "a": "Three-year postdoctoral contract (Juan de la Cierva)",
+ "added": "2026-10-09",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-09",
+ "d": "2026-11-07",
+ "dt": "Contact the group by Nov 7, 2026; official application forms Nov 12-26, 2026",
+ "e": "Expression of interest for a Spanish Juan de la Cierva postdoctoral fellowship hosted by the UPV/EHU particle physics group (QCD theory and phenomenology, experimental QCD, neutrino physics and cosmology). PhD obtained between Jan 1, 2024 and Dec 31, 2026 (extensions per call); each supervisor endorses one candidate.",
+ "f": "University of the Basque Country (UPV/EHU), Particle Physics group, Bilbao",
+ "fields": [
+  "ppt",
+  "ppx"
+ ],
+ "id": "upv-ehu-juan-de-la-cierva-2026-eoi-particle-physics",
+ "n": "University of the Basque Country (UPV/EHU): Juan de la Cierva 2026 Fellowship EOI (Particle Physics)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3212682",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3212682",
+ "unv": "Salary not stated in the listing; see the AEI call.",
+ "us": false
+}

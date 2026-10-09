@@ -1,0 +1,37 @@
+{
+ "a": "",
+ "added": "2026-10-09",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-09",
+ "d": "2026-12-15",
+ "dt": "Expressions of interest preferably by Dec 15, 2026 (anticipated opening of the 9th FCT CEEC Individual call); FCT call deadline not yet announced",
+ "e": "The Gr@v group at the University of Aveiro (black holes, exotic compact objects, lensing, GRMHD, numerical relativity) seeks researchers to support as applicants to the 9th FCT CEEC Individual call, which funds research contracts of up to three years in Portugal. Interested researchers send a CV, publication list and brief research statement to Carlos Herdeiro; no citizenship restriction stated.",
+ "f": "University of Aveiro (Gr@v group, CIDMA)",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "aveiro-grav-ceec9-eoi",
+ "n": "University of Aveiro (Gr@v): Expressions of interest for FCT CEEC Individual research contracts in strong gravity",
+ "nfit": "High",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "other:hyperspace-aveiro-grav-ceec",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://gravitation.web.ua.pt/node/5748",
+ "unv": "Salary/contract level not stated (set by FCT CEEC rules); 9th CEEC call dates and eligibility not yet published; Dec 15 date is a preferred EOI date, not a formal deadline.",
+ "us": false
+}

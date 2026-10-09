@@ -1,0 +1,32 @@
+{
+ "a": "$110,000–$120,000 base salary plus equity",
+ "added": "2026-10-09",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-09",
+ "d": null,
+ "dt": "No deadline stated; first published Sep 28, 2026",
+ "e": "Fixed-term industry postdoc designing algorithms and protocols for neutral-atom (Rydberg/tweezer-array) quantum computers, including quantum simulation, optimization and fault-tolerant resource estimation. Requires a PhD in physics, quantum information or related field; no citizenship restriction stated.",
+ "f": "QuEra Computing Inc. (Boston)",
+ "fields": [
+  "qp",
+  "amo"
+ ],
+ "id": "quera-applications-postdoc-fellow",
+ "n": "QuEra Computing: Quantum Innovation Postdoctoral Fellow – Quantum Applications",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:quera-5436775008",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5436775008",
+ "unv": "Term length and deadline not stated; industry (company) position.",
+ "us": false
+}

@@ -1,0 +1,37 @@
+{
+ "a": "$70,000-$80,000 per year",
+ "added": "2026-10-09",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-09",
+ "d": null,
+ "dt": "Review begins Nov 15, 2026; continues until all positions are filled (AJO listing runs to Apr 7, 2027)",
+ "e": "One or more data-analysis postdocs at Caltech and/or MIT working on LIGO data (searches, detector characterization, calibration) with Weinstein, Chatziioannou and Vitale; hires depend on funding. No citizenship restriction stated.",
+ "f": "LIGO Laboratory (Caltech / MIT)",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "ligo-lab-data-analysis-postdoc-2026",
+ "n": "LIGO Laboratory: Data Analysis Postdoc",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "ajo:32996",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32996",
+ "unv": "Posted 2026-10-07. May belong in the existing 'LIGO Laboratory postdocs' row, which lists the earlier data-analysis posting (#30721) as closed.",
+ "us": false
+}

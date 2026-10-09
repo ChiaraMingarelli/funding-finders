@@ -1,0 +1,32 @@
+{
+ "a": "$110,000–$120,000 base salary plus equity",
+ "added": "2026-10-09",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-09",
+ "d": null,
+ "dt": "No deadline stated; first published Sep 28, 2026",
+ "e": "Fixed-term industry postdoc developing quantum error-correction schemes for neutral-atom quantum computers and evaluating them against algorithms and architectures, working with QuEra scientists and engineers. Requires a PhD in physics, CS, quantum information or related field and demonstrated QEC expertise; no citizenship restriction stated.",
+ "f": "QuEra Computing Inc. (Boston)",
+ "fields": [
+  "qp",
+  "amo"
+ ],
+ "id": "quera-qec-postdoc-fellow",
+ "n": "QuEra Computing: Quantum Innovation Postdoctoral Fellow – QEC",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:quera-5436784008",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5436784008",
+ "unv": "Term length and deadline not stated; industry (company) position.",
+ "us": false
+}

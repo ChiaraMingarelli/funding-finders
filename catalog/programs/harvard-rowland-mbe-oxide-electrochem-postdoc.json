@@ -1,0 +1,31 @@
+{
+ "a": "Starting at $67,600/yr",
+ "added": "2026-10-09",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-09",
+ "d": null,
+ "dt": "Rolling review until filled; posted Oct 6, 2026; start from Nov 2026",
+ "e": "Postdoc in the Wahab Lab with the Mundy Lab (Harvard Physics) studying electrocatalysis and operando spectroscopy of molecular-beam-epitaxy-grown thin-film oxides. Requires a PhD (or near completion) in chemistry, physics, materials science or related field with electrochemistry and materials experience; no citizenship restriction stated.",
+ "f": "Harvard University (Rowland Institute / Physics)",
+ "fields": [
+  "mat",
+  "cmx"
+ ],
+ "id": "harvard-rowland-mbe-oxide-electrochem-postdoc",
+ "n": "Harvard Rowland Institute: Postdoc in Electrochemistry of Layered Thin-Film Oxides (Wahab/Mundy labs)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:harvard-ap-16891",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicpositions.harvard.edu/postings/16891",
+ "us": false
+}

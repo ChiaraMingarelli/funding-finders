@@ -1,0 +1,31 @@
+{
+ "a": "Asst Prof $111,400–$163,200; Assoc Prof $134,000–$180,800 (9-month)",
+ "added": "2026-10-09",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-09",
+ "d": "2026-12-07",
+ "dt": "Apply by Dec 7, 2026 (11:59pm PT); opened Sep 29, 2026",
+ "e": "Tenure-track or tenured joint 50/50 appointment in Materials Science & Engineering and EECS in electronic, functional, photonic/optoelectronic and quantum materials, from synthesis to device integration; start July 1, 2027. No citizenship restriction stated.",
+ "f": "University of California, Berkeley",
+ "fields": [
+  "mat",
+  "cmx",
+  "phot",
+  "dev"
+ ],
+ "id": "fj-ucb-eecs-mse-quantum-materials",
+ "n": "UC Berkeley: Assistant/Associate Professor, Electronic, Functional, and Quantum Materials (EECS/MSE)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:ucb-jpf05584",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://aprecruit.berkeley.edu/JPF05584",
+ "us": false
+}

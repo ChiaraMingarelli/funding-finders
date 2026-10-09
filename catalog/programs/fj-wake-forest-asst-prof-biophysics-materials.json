@@ -1,0 +1,31 @@
+{
+ "a": "",
+ "added": "2026-10-09",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-09",
+ "d": "2026-11-15",
+ "dt": "Apply by Nov 15, 2026 (via Interfolio); review continues until filled",
+ "e": "Tenure-track assistant professor from July 1, 2027 in biophysics and/or materials science, with interest in biophotonics, biomaterials, bioelectronics or AI-focused research. No citizenship restriction stated.",
+ "f": "Wake Forest University",
+ "fields": [
+  "bio",
+  "mat",
+  "cmx"
+ ],
+ "id": "fj-wake-forest-asst-prof-biophysics-materials",
+ "n": "Wake Forest University: Assistant Professor of Physics (Biophysics/Materials)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33007",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33007",
+ "unv": "Salary not stated.",
+ "us": false
+}

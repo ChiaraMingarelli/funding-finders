@@ -1,0 +1,33 @@
+{
+ "a": "$72,879–$121,465/yr (expected hiring range)",
+ "added": "2026-10-09",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-09",
+ "d": null,
+ "dt": "No deadline stated; posted Oct 8, 2026; start as early as Fall 2026",
+ "e": "Center for Nanoscale Materials postdoc to design, fabricate and measure superconducting transmon qubits in a dilution refrigerator for quantum-sensing experiments, including reinforcement-learning approaches to qubit control, in collaboration with UChicago. Requires a PhD within the last 0–5 years; no citizenship restriction stated, but applicants must disclose foreign-government-sponsored activities under DOE Order 486.1A.",
+ "f": "Argonne National Laboratory",
+ "fields": [
+  "qp",
+  "dev",
+  "cmx"
+ ],
+ "id": "argonne-cnm-superconducting-qubits-quantum-sensing",
+ "n": "Argonne CNM: Postdoctoral Appointee, Superconducting Qubits for Quantum Sensing",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:argonne-423526",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---NST-Superconducting-Qubits-for-Quantum-Sensing_423526",
+ "unv": "No application deadline stated.",
+ "us": false
+}
