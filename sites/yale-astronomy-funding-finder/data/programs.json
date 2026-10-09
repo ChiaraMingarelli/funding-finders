@@ -3889,6 +3889,30 @@
   "us": false
  },
  {
+  "a": "$116,238–$169,942 a year; full time, City of Los Angeles civil service",
+  "added": "2026-10-09",
+  "c": "Staff position",
+  "checked": "2026-10-09",
+  "d": "2026-10-29",
+  "dt": "Applications must be received by Oct 29, 2026, 11:59 pm PT. The exam is an online training-and-experience questionnaire for invited applicants, expected Dec 7 to 14, 2026.",
+  "e": "Plans, develops and evaluates all of Griffith Observatory's public and educational programs, planetarium shows, publications and exhibits, and manages the staff who carry them out. Requires a PhD in astronomy, physics or planetary science and four years of full-time paid professional experience at a public observatory, major planetarium, science museum or related facility, supervising staff who develop and run public astronomy and physical-science programs and exhibits.",
+  "f": "City of Los Angeles, Department of Recreation and Parks (Griffith Observatory)",
+  "fields": [
+   "astro"
+  ],
+  "id": "griffith-observatory-curator-los-angeles-2026",
+  "n": "Griffith Observatory (Los Angeles): Curator",
+  "nom": false,
+  "s": "open",
+  "src": "other:lacity-6230-griffith-curator",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://www.governmentjobs.com/careers/lacity/jobs/5481469/curator-of-griffith-observatory-6230",
+  "us": false
+ },
+ {
   "a": "Up to $800 per student per cycle",
   "added": "2026-09-28",
   "c": "Yale internal",
