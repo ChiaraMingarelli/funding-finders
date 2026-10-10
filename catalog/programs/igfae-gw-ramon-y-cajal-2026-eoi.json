@@ -1,0 +1,36 @@
+{
+ "a": "5-year contract, at least €40,000 gross a year; project budget of at least €200,000; €50,000 incentive for a permanent post",
+ "added": "2026-10-10",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-10",
+ "d": "2026-12-10",
+ "dt": "Contact the group as soon as possible; AEI call open Nov 10 to Dec 10, 2026, 14:00 Spanish time",
+ "e": "Spain's main tenure-track fellowship, hosted by the IGFAE gravitational-wave group (T. Dent, J. Calderón Bustillo); the group says awardees can also apply for extra regional funding. Interested applicants should first contact the group.",
+ "f": "Instituto Galego de Física de Altas Enerxías (IGFAE), Universidade de Santiago de Compostela",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "igfae-gw-ramon-y-cajal-2026-eoi",
+ "n": "IGFAE (Santiago de Compostela) gravitational-wave group: Ramón y Cajal 2026 tenure-track fellowship (expressions of interest)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "other:igfae-gw-ryc-2026",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://wiki.ligo.org/LAAC/JobPostings#Postdoctoral_and_Tenure_45track_fellowships_at_IGFAE_GW_group",
+ "us": false
+}

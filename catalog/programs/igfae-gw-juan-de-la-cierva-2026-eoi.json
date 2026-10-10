@@ -1,0 +1,36 @@
+{
+ "a": "3 years; AEI grant of €35,700 a year toward salary, plus €15,000 for research costs",
+ "added": "2026-10-10",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-10",
+ "d": "2026-11-26",
+ "dt": "Contact the group as soon as possible; AEI candidate form open Nov 12 to Nov 26, 2026, 14:00 Spanish time; institutions submit by Dec 3, 2026",
+ "e": "Spanish national 3-year postdoctoral fellowship, hosted by the IGFAE gravitational-wave group (T. Dent, J. Calderón Bustillo), for people whose PhD was awarded or is expected in 2024 to 2026. Interested applicants should first contact the group.",
+ "f": "Instituto Galego de Física de Altas Enerxías (IGFAE), Universidade de Santiago de Compostela",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "igfae-gw-juan-de-la-cierva-2026-eoi",
+ "n": "IGFAE (Santiago de Compostela) gravitational-wave group: Juan de la Cierva 2026 postdoctoral fellowship (expressions of interest)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "other:igfae-gw-jdlc-2026",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://wiki.ligo.org/LAAC/JobPostings#Postdoctoral_and_Tenure_45track_fellowships_at_IGFAE_GW_group",
+ "us": false
+}

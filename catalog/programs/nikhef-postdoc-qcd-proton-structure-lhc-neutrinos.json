@@ -1,0 +1,30 @@
+{
+ "a": "UNL scale 10, EUR 3,706–5,760 gross/month; 2 years plus a possible third",
+ "added": "2026-10-10",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-10",
+ "d": "2027-01-31",
+ "dt": "Deadline Jan 31, 2027; open until filled; start Sep 1, 2027",
+ "e": "Postdoc in the Nikhef Theory group (ERC Advanced Grant UNICORN) on LHC forward neutrino fluxes, neutrino DIS structure functions and NNPDF, working with the FASER collaboration. PhD holders in particle physics may apply; no citizenship restriction stated.",
+ "f": "Nikhef / VU Amsterdam (Theory group, Juan Rojo)",
+ "fields": [
+  "ppt"
+ ],
+ "id": "nikhef-postdoc-qcd-proton-structure-lhc-neutrinos",
+ "n": "Nikhef: Postdoc on QCD and proton structure with LHC neutrinos",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3213122",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.nikhef.nl/jobs/postdoc-position-on-qcd-and-proton-structure-with-lhc-neutrinos-1344494/",
+ "us": false
+}

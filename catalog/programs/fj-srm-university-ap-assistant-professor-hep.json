@@ -1,0 +1,30 @@
+{
+ "a": "Assistant Professor",
+ "added": "2026-10-10",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-10",
+ "d": "2026-10-25",
+ "dt": "Deadline Oct 25, 2026 (per INSPIRE); apply by email to hod.phy@srmap.edu.in",
+ "e": "Faculty post in the high-energy physics group, with preference for quantum aspects of gravity and cosmology, string theory and AdS/CFT, or particle phenomenology. Apply by email with CV, teaching and research statements and three papers; no citizenship restriction stated.",
+ "f": "SRM University-AP, Amaravati, Department of Physics",
+ "fields": [
+  "ppt",
+  "grav"
+ ],
+ "id": "fj-srm-university-ap-assistant-professor-hep",
+ "n": "SRM University-AP: Assistant Professor in High Energy Physics",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3212760",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://inspirehep.net/jobs/3212760",
+ "unv": "The host careers page gave no readable text; deadline, salary and eligibility not confirmed on the host site; tenure-track status not stated",
+ "us": false
+}

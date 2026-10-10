@@ -1,0 +1,34 @@
+{
+ "a": "Appointment up to 24 months",
+ "added": "2026-10-10",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-10",
+ "d": null,
+ "dt": "Open until filled (requisition 16703, posted Sep 19, 2026)",
+ "e": "Postdoc on quantum integrated photonics and quantum sensing, with priority for experience designing, fabricating and testing integrated photonic devices; PhD in physics or a related field within the last 5 years. The work is export-controlled, so candidates must qualify for access without an export license and pass a federal background check.",
+ "f": "Oak Ridge National Laboratory, Computational Sciences and Engineering Division",
+ "fields": [
+  "phot",
+  "qp",
+  "dev"
+ ],
+ "id": "ornl-postdoc-integrated-photonics-quantum-sensing",
+ "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Integrated Photonics (Quantum Sensing and Computing Group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:ornl-16703-integrated-photonics",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Integrated-Photonics-TN-37830/1403080700/",
+ "unv": "Salary not stated.",
+ "us": false
+}

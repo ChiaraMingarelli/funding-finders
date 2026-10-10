@@ -1,0 +1,34 @@
+{
+ "a": "$67,600–$80,000",
+ "added": "2026-10-10",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-10",
+ "d": null,
+ "dt": "Open until filled; start fall 2027",
+ "e": "One or more postdoctoral fellows in quantum many-body physics starting fall 2027; a PhD is required by the start date. Apply with a CV and research statement; 3 to 5 references are required.",
+ "f": "Harvard University, Department of Physics (Norman Yao group)",
+ "fields": [
+  "cmt",
+  "qp",
+  "amo"
+ ],
+ "id": "harvard-postdoc-quantum-many-body-physics-yao-group",
+ "n": "Harvard University: Postdoctoral Fellow in Quantum Many-Body Physics (Yao Group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:harvard-ap-16653-yao",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicpositions.harvard.edu/postings/16653",
+ "unv": "Posting date and citizenship terms not stated.",
+ "us": false
+}

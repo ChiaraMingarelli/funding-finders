@@ -1,0 +1,33 @@
+{
+ "a": "$8,570–$9,935 a month; 2-year appointment, renewable",
+ "added": "2026-10-10",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-10",
+ "d": null,
+ "dt": "Priority consideration was given to applications by Sep 1, 2026; the host ad accepts applications until the posting is removed",
+ "e": "Postdoc developing Krylov-type quantum subspace algorithms for superconducting-materials discovery, with tests on neutral-atom quantum processors. Applicants must have less than 3 years of paid postdoc experience and be authorized to work in the US at hire; no visa sponsorship.",
+ "f": "Lawrence Berkeley National Laboratory, Applied Mathematics and Computational Research Division (Scalable Solvers Group)",
+ "fields": [
+  "qp",
+  "ds"
+ ],
+ "id": "lbnl-quantum-algorithms-postdoctoral-fellow-qc3",
+ "n": "Lawrence Berkeley National Laboratory: Quantum Algorithms Postdoctoral Fellow (QC3 program)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:lbnl-7584-quantum-algorithms",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.lbl.gov/jobs/quantum-algorithms-postdoctoral-fellow-7584",
+ "unv": "Quantiki lists Oct 23, 2026 as a deadline; the host ad does not state one.",
+ "us": false
+}

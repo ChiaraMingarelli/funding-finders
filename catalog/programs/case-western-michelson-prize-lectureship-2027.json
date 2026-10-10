@@ -1,0 +1,33 @@
+{
+ "a": "$3,000 award plus travel expenses",
+ "added": "2026-10-10",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-10",
+ "d": "2027-01-01",
+ "dt": "All materials, including 3 letters of support, due Jan 1, 2027",
+ "e": "Annual prize lectureship for a junior scholar in any field of physics: one week in residence at Case Western in spring 2027, giving two technical lectures and a colloquium. Nominees need a PhD awarded between Aug 31, 2018 and Aug 31, 2026 and may not hold a tenured or tenure-track position as of Jan 1, 2027; no citizenship restriction stated.",
+ "f": "Case Western Reserve University, Department of Physics",
+ "fields": [
+  "all"
+ ],
+ "id": "case-western-michelson-prize-lectureship-2027",
+ "n": "Case Western Reserve University: Michelson Postdoctoral Prize Lectureship (2027)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33023",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33023",
+ "unv": "A one-week residency award, not a postdoc appointment.",
+ "us": false
+}

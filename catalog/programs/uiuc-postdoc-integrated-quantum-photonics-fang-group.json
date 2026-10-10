@@ -1,0 +1,33 @@
+{
+ "a": "$55,000–$65,000",
+ "added": "2026-10-10",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-10",
+ "d": "2026-11-26",
+ "dt": "Listed until Nov 26, 2026",
+ "e": "Experimental work on photonic devices for classical and quantum information processing, sensing and networking; PhD in electrical engineering, physics, applied physics or a related field within 10 years of the start date. Work-authorization sponsorship is available, except a new H-1B petition carrying the $100,000 fee.",
+ "f": "University of Illinois Urbana-Champaign, Holonyak Micro and Nanotechnology Laboratory (Kejie Fang)",
+ "fields": [
+  "phot",
+  "qp",
+  "dev"
+ ],
+ "id": "uiuc-postdoc-integrated-quantum-photonics-fang-group",
+ "n": "University of Illinois Urbana-Champaign: Postdoctoral Research Associate in Integrated Quantum Photonics (Fang group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32103",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32103",
+ "us": false
+}

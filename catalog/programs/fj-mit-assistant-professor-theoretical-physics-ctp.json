@@ -1,0 +1,32 @@
+{
+ "a": "Assistant Professor (tenure-track); 9-month salary $143,000–$154,000",
+ "added": "2026-10-10",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-10",
+ "d": "2026-12-01",
+ "dt": "Apply by Dec 1, 2026 (11:59 pm); 3 letters due by the deadline",
+ "e": "Tenure-track faculty position in theoretical high-energy, nuclear, gravitational and/or quantum physics (including cosmology, astroparticle physics, classical and quantum gravity, holography and quantum information), starting Jul 1, 2027, preferably at Assistant Professor level. A PhD in physics or a related field is required by the start date; no citizenship restriction stated.",
+ "f": "Massachusetts Institute of Technology, Department of Physics (Center for Theoretical Physics)",
+ "fields": [
+  "ppt",
+  "grav",
+  "nut",
+  "qp",
+  "astro"
+ ],
+ "id": "fj-mit-assistant-professor-theoretical-physics-ctp",
+ "n": "MIT Physics: Assistant Professor, Theoretical Physics (CTP)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33025",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33025",
+ "us": false
+}

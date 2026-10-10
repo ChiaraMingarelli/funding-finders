@@ -1,0 +1,34 @@
+{
+ "a": "Two-year fellowship; salary not stated",
+ "added": "2026-10-10",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-10",
+ "d": "2026-12-02",
+ "dt": "Apply by Dec 2, 2026 for full consideration (Job ID 699003)",
+ "e": "Two-year independent postdoctoral fellowship in radiation effects, electrical and electromagnetic sciences, high energy density science and pulsed power; PhD within the past three years or expected by the start date, with a 5-page research proposal. The fellow must be able to obtain a DOE Q clearance, which requires US citizenship, and must work onsite.",
+ "f": "Sandia National Laboratories",
+ "fields": [
+  "dev",
+  "energy",
+  "inst"
+ ],
+ "id": "sandia-james-clerk-maxwell-fellowship-2027",
+ "n": "Sandia National Laboratories: James Clerk Maxwell Fellowship (2027)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "other:sandia-maxwell-2027",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/fellowships/maxwell-fellowship/",
+ "unv": "Salary not stated.",
+ "us": true
+}

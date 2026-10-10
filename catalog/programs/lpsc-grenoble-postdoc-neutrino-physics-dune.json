@@ -1,0 +1,30 @@
+{
+ "a": "From EUR 3,041.58 gross/month; 24-month CNRS fixed-term contract",
+ "added": "2026-10-10",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-10",
+ "d": "2026-10-30",
+ "dt": "Deadline Oct 30, 2026, 23:59 Paris time; start Dec 1, 2026",
+ "e": "Two-year postdoc analysing ProtoDUNE-VD data, building reconstruction tools and doing DUNE long-baseline sensitivity studies with the LPSC DUNE team. A PhD in particle physics or a related field is required; no citizenship restriction stated.",
+ "f": "LPSC Grenoble (CNRS-IN2P3 / Université Grenoble Alpes)",
+ "fields": [
+  "ppx"
+ ],
+ "id": "lpsc-grenoble-postdoc-neutrino-physics-dune",
+ "n": "LPSC Grenoble: Postdoctoral Researcher in Neutrino Physics (DUNE)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3213107",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://emploi.cnrs.fr/Offres/CDD/UMR5821-CHRVEL-223/Default.aspx",
+ "us": false
+}
