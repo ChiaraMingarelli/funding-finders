@@ -6,8 +6,8 @@
  ],
  "c": "Foundation",
  "checked": "2026-10-07",
- "d": "2026-10-09",
- "dt": "Fall 2026 deadline",
+ "d": null,
+ "dt": "Last deadline Oct 9, 2026; the next cycle is not posted yet",
  "e": "Starter grants for faculty in the first three years of their first academic appointment at PhD-granting departments, for fundamental research related to the petroleum field. The work must differ from the applicant's own graduate and postdoctoral research.",
  "f": "American Chemical Society Petroleum Research Fund",
  "fields": [
@@ -17,7 +17,7 @@
  "id": "acs-prf-dni",
  "n": "ACS Petroleum Research Fund: Doctoral New Investigator (DNI) Grants",
  "nom": false,
- "s": "open",
+ "s": "watch",
  "src": "other:acs-prf",
  "stages": [
   "tt"
