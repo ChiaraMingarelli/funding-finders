@@ -1155,6 +1155,29 @@
   "d": null
  },
  {
+  "id": "case-western-michelson-prize-lectureship-2027",
+  "n": "Case Western Reserve University: Michelson Postdoctoral Prize Lectureship (2027)",
+  "f": "Case Western Reserve University, Department of Physics",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2027-01-01",
+  "dt": "All materials, including 3 letters of support, due Jan 1, 2027",
+  "a": "$3,000 award plus travel expenses",
+  "e": "Annual prize lectureship for a junior scholar in any field of physics: one week in residence at Case Western in spring 2027, giving two technical lectures and a colloquium. Nominees need a PhD awarded between Aug 31, 2018 and Aug 31, 2026 and may not hold a tenured or tenure-track position as of Jan 1, 2027; no citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33023",
+  "unv": "A one-week residency award, not a postdoc appointment.",
+  "us": false,
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-10",
+  "added": "2026-10-10",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "ccast-ihep-postdoctoral-fellow-positions",
   "n": "CCAST/IHEP: Postdoctoral Fellow Positions",
   "f": "China Center of Advanced Science and Technology (with IHEP, Chinese Academy of Sciences), Beijing",
@@ -2907,6 +2930,28 @@
   ]
  },
  {
+  "id": "fj-iop-bhubaneswar-assistant-professor-hep",
+  "n": "Institute of Physics Bhubaneswar: Assistant Professor (E) / Reader (F) in High Energy Physics",
+  "f": "Institute of Physics, Bhubaneswar (DAE, Govt. of India)",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-11-14",
+  "dt": "Applications must arrive by Nov 14, 2026 (Advt. IOP/Recruit/08/2026)",
+  "a": "Assistant Professor (E) / Reader (F); Pay Level 12/13 (7th CPC)",
+  "e": "Faculty posts in formal theory, astroparticle physics and cosmology, or experimental high-energy and heavy-ion physics. Open to Indian nationals only, with a PhD and at least 2 years (Assistant Professor) or 5 years (Reader) of postdoc or teaching experience.",
+  "u": "https://www.iopb.res.in/job_opening/hep-faculty-advertisement/",
+  "unv": "Details taken from the INSPIRE description; the host's application form was not read",
+  "us": false,
+  "nom": false,
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-10",
+  "added": "2026-10-10",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
   "id": "fj-james-madison-university-assistant-professor-of-physi",
   "n": "James Madison University: Assistant Professor of Physics and Astronomy (Tenure-Track)",
   "f": "James Madison University, Department of Physics and Astronomy",
@@ -3182,6 +3227,27 @@
   ]
  },
  {
+  "id": "fj-mit-assistant-professor-theoretical-physics-ctp",
+  "n": "MIT Physics: Assistant Professor, Theoretical Physics (CTP)",
+  "f": "Massachusetts Institute of Technology, Department of Physics (Center for Theoretical Physics)",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-12-01",
+  "dt": "Apply by Dec 1, 2026 (11:59 pm); 3 letters due by the deadline",
+  "a": "Assistant Professor (tenure-track); 9-month salary $143,000–$154,000",
+  "e": "Tenure-track faculty position in theoretical high-energy, nuclear, gravitational and/or quantum physics (including cosmology, astroparticle physics, classical and quantum gravity, holography and quantum information), starting Jul 1, 2027, preferably at Assistant Professor level. A PhD in physics or a related field is required by the start date; no citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33025",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-10-10",
+  "added": "2026-10-10",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
   "id": "fj-mit-eaps-planetary-science",
   "n": "MIT EAPS: Tenure-Track Faculty in Planetary Science",
   "f": "Massachusetts Institute of Technology",
@@ -3198,6 +3264,28 @@
   "nfit": "Low",
   "checked": "2026-10-08",
   "added": "2026-10-02",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
+  "id": "fj-montclair-state-assistant-professor-engineering",
+  "n": "Montclair State University: Assistant Professor, Engineering (Physics & Astronomy)",
+  "f": "Montclair State University, Department of Physics and Astronomy",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-12-01",
+  "dt": "Full consideration by Dec 1, 2026; open until filled",
+  "a": "Assistant Professor (tenure-track); $100,398.29–$116,469.62 a year",
+  "e": "Tenure-track Assistant Professor in the Department of Physics and Astronomy to start a new engineering concentration, from Aug 27, 2027; research should connect to an engineering discipline or applied physics. A PhD in engineering, physics, applied physics or a related field is required.",
+  "u": "https://academicjobsonline.org/ajo/jobs/32952",
+  "unv": "Applications go through Montclair's Workday site; citizenship terms not confirmed.",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-10",
+  "added": "2026-10-10",
   "stages": [
    "fj"
   ]
@@ -3713,6 +3801,28 @@
    "fj"
   ],
   "d": null
+ },
+ {
+  "id": "fj-srm-university-ap-assistant-professor-hep",
+  "n": "SRM University-AP: Assistant Professor in High Energy Physics",
+  "f": "SRM University-AP, Amaravati, Department of Physics",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-10-25",
+  "dt": "Deadline Oct 25, 2026 (per INSPIRE); apply by email to hod.phy@srmap.edu.in",
+  "a": "Assistant Professor",
+  "e": "Faculty post in the high-energy physics group, with preference for quantum aspects of gravity and cosmology, string theory and AdS/CFT, or particle phenomenology. Apply by email with CV, teaching and research statements and three papers; no citizenship restriction stated.",
+  "u": "https://inspirehep.net/jobs/3212760",
+  "unv": "The host careers page gave no readable text; deadline, salary and eligibility not confirmed on the host site; tenure-track status not stated",
+  "us": false,
+  "nom": false,
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-10",
+  "added": "2026-10-10",
+  "stages": [
+   "fj"
+  ]
  },
  {
   "id": "fj-swinburne-senior-lecturer-physics-astronomy-women-onl",
@@ -5245,6 +5355,29 @@
   ]
  },
  {
+  "id": "harvard-postdoc-quantum-many-body-physics-yao-group",
+  "n": "Harvard University: Postdoctoral Fellow in Quantum Many-Body Physics (Yao Group)",
+  "f": "Harvard University, Department of Physics (Norman Yao group)",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Open until filled; start fall 2027",
+  "a": "$67,600–$80,000",
+  "e": "One or more postdoctoral fellows in quantum many-body physics starting fall 2027; a PhD is required by the start date. Apply with a CV and research statement; 3 to 5 references are required.",
+  "u": "https://academicpositions.harvard.edu/postings/16653",
+  "unv": "Posting date and citizenship terms not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-10",
+  "added": "2026-10-10",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
   "id": "harvard-society-of-fellows-junior-fellows",
   "n": "Harvard Society of Fellows (Junior Fellows)",
   "f": "Harvard University",
@@ -5487,6 +5620,50 @@
   "nfit": "Medium",
   "checked": "2026-10-07",
   "added": "2026-10-02",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "igfae-gw-juan-de-la-cierva-2026-eoi",
+  "n": "IGFAE (Santiago de Compostela) gravitational-wave group: Juan de la Cierva 2026 postdoctoral fellowship (expressions of interest)",
+  "f": "Instituto Galego de Física de Altas Enerxías (IGFAE), Universidade de Santiago de Compostela",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2026-11-26",
+  "dt": "Contact the group as soon as possible; AEI candidate form open Nov 12 to Nov 26, 2026, 14:00 Spanish time; institutions submit by Dec 3, 2026",
+  "a": "3 years; AEI grant of €35,700 a year toward salary, plus €15,000 for research costs",
+  "e": "Spanish national 3-year postdoctoral fellowship, hosted by the IGFAE gravitational-wave group (T. Dent, J. Calderón Bustillo), for people whose PhD was awarded or is expected in 2024 to 2026. Interested applicants should first contact the group.",
+  "u": "https://wiki.ligo.org/LAAC/JobPostings#Postdoctoral_and_Tenure_45track_fellowships_at_IGFAE_GW_group",
+  "us": false,
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "nfit": "High",
+  "checked": "2026-10-10",
+  "added": "2026-10-10",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "igfae-gw-ramon-y-cajal-2026-eoi",
+  "n": "IGFAE (Santiago de Compostela) gravitational-wave group: Ramón y Cajal 2026 tenure-track fellowship (expressions of interest)",
+  "f": "Instituto Galego de Física de Altas Enerxías (IGFAE), Universidade de Santiago de Compostela",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2026-12-10",
+  "dt": "Contact the group as soon as possible; AEI call open Nov 10 to Dec 10, 2026, 14:00 Spanish time",
+  "a": "5-year contract, at least €40,000 gross a year; project budget of at least €200,000; €50,000 incentive for a permanent post",
+  "e": "Spain's main tenure-track fellowship, hosted by the IGFAE gravitational-wave group (T. Dent, J. Calderón Bustillo); the group says awardees can also apply for extra regional funding. Interested applicants should first contact the group.",
+  "u": "https://wiki.ligo.org/LAAC/JobPostings#Postdoctoral_and_Tenure_45track_fellowships_at_IGFAE_GW_group",
+  "us": false,
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "nfit": "High",
+  "checked": "2026-10-10",
+  "added": "2026-10-10",
   "stages": [
    "pd"
   ]
@@ -5938,7 +6115,6 @@
   "f": "Kangwon National University, Department of Physics",
   "c": "Group postdoc",
   "s": "rolling",
-  "d": "2026-10-09",
   "dt": "INSPIRE deadline Oct 9, 2026; review on receipt until filled",
   "a": "Up to 50,000,000 KRW/year gross; 1 year, renewable annually",
   "e": "Postdoc or research professor on storage-ring beam dynamics for short-pulse generation via laser-seeded FEL schemes. PhD within the last 2 years for the postdoc track; no citizenship limit stated.",
@@ -5952,7 +6128,8 @@
   "added": "2026-10-02",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "kavli-ipmu-postdoc",
@@ -6195,6 +6372,29 @@
   "stages": [
    "pd"
   ]
+ },
+ {
+  "id": "lbnl-quantum-algorithms-postdoctoral-fellow-qc3",
+  "n": "Lawrence Berkeley National Laboratory: Quantum Algorithms Postdoctoral Fellow (QC3 program)",
+  "f": "Lawrence Berkeley National Laboratory, Applied Mathematics and Computational Research Division (Scalable Solvers Group)",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Priority consideration was given to applications by Sep 1, 2026; the host ad accepts applications until the posting is removed",
+  "a": "$8,570–$9,935 a month; 2-year appointment, renewable",
+  "e": "Postdoc developing Krylov-type quantum subspace algorithms for superconducting-materials discovery, with tests on neutral-atom quantum processors. Applicants must have less than 3 years of paid postdoc experience and be authorized to work in the US at hire; no visa sponsorship.",
+  "u": "https://jobs.lbl.gov/jobs/quantum-algorithms-postdoctoral-fellow-7584",
+  "unv": "Quantiki lists Oct 23, 2026 as a deadline; the host ad does not state one.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-10",
+  "added": "2026-10-10",
+  "stages": [
+   "pd"
+  ],
+  "d": null
  },
  {
   "id": "lbnl-quist-quantum-engineering-postdoc",
@@ -6444,6 +6644,28 @@
   ]
  },
  {
+  "id": "lpsc-grenoble-postdoc-neutrino-physics-dune",
+  "n": "LPSC Grenoble: Postdoctoral Researcher in Neutrino Physics (DUNE)",
+  "f": "LPSC Grenoble (CNRS-IN2P3 / Université Grenoble Alpes)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-10-30",
+  "dt": "Deadline Oct 30, 2026, 23:59 Paris time; start Dec 1, 2026",
+  "a": "From EUR 3,041.58 gross/month; 24-month CNRS fixed-term contract",
+  "e": "Two-year postdoc analysing ProtoDUNE-VD data, building reconstruction tools and doing DUNE long-baseline sensitivity studies with the LPSC DUNE team. A PhD in particle physics or a related field is required; no citizenship restriction stated.",
+  "u": "https://emploi.cnrs.fr/Offres/CDD/UMR5821-CHRVEL-223/Default.aspx",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-10",
+  "added": "2026-10-10",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "lsst-da-data-science-fellowship-program",
   "n": "LSST-DA Data Science Fellowship Program",
   "f": "LSST Discovery Alliance",
@@ -6603,28 +6825,6 @@
   "d": null
  },
  {
-  "id": "miller-research-fellowship-2027-2030",
-  "n": "Miller Research Fellowship (2027-2030)",
-  "f": "Miller Institute, UC Berkeley",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-10-09",
-  "dt": "Nominations closed Sep 10, 2026; nominee application due Oct 9, 2026, 11:59 pm PT",
-  "a": "$95,000 stipend rising 3%/yr + $10k/yr research fund; 3 yrs",
-  "e": "PhD between Jan 1, 2025 and Aug 31, 2027; at most 2 yrs of prior postdoc; must be nominated and have a Berkeley host.",
-  "u": "https://miller.berkeley.edu/nominate-apply/miller-research-fellowship",
-  "us": false,
-  "nom": true,
-  "pt": "prize",
-  "region": "US",
-  "nfit": "Low",
-  "checked": "2026-10-07",
-  "added": "2026-09-29",
-  "stages": [
-   "pd"
-  ]
- },
- {
   "id": "mit-ctp-leinweber-postdoctoral-fellowships-in-theoretica",
   "n": "MIT CTP: Leinweber Postdoctoral Fellowships in Theoretical Physics",
   "f": "MIT Center for Theoretical Physics - a Leinweber Institute",
@@ -6730,28 +6930,6 @@
   "nfit": "Medium",
   "checked": "2026-10-07",
   "added": "2026-09-30",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "mit-pappalardo-fellowships-in-physics-2027-2030",
-  "n": "MIT Pappalardo Fellowships in Physics (2027-2030)",
-  "f": "MIT Physics",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-10-09",
-  "dt": "Nominations closed Sep 11, 2026; nominee materials due Oct 9, 2026 (midnight EST)",
-  "a": "3-yr stipend + $15k/yr discretionary research funds",
-  "e": "PhD in physics/astronomy/related by Sep 1, 2027; nominated by advisor; current MIT students/postdocs generally ineligible.",
-  "u": "https://physics.mit.edu/research/pappalardo-fellowships-in-physics/competition/",
-  "us": false,
-  "nom": true,
-  "pt": "prize",
-  "region": "US",
-  "nfit": "Low",
-  "checked": "2026-10-07",
-  "added": "2026-09-29",
   "stages": [
    "pd"
   ]
@@ -7446,6 +7624,28 @@
   "nfit": "Low",
   "checked": "2026-10-07",
   "added": "2026-10-02",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "nikhef-postdoc-qcd-proton-structure-lhc-neutrinos",
+  "n": "Nikhef: Postdoc on QCD and proton structure with LHC neutrinos",
+  "f": "Nikhef / VU Amsterdam (Theory group, Juan Rojo)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-31",
+  "dt": "Deadline Jan 31, 2027; open until filled; start Sep 1, 2027",
+  "a": "UNL scale 10, EUR 3,706–5,760 gross/month; 2 years plus a possible third",
+  "e": "Postdoc in the Nikhef Theory group (ERC Advanced Grant UNICORN) on LHC forward neutrino fluxes, neutrino DIS structure functions and NNPDF, working with the FASER collaboration. PhD holders in particle physics may apply; no citizenship restriction stated.",
+  "u": "https://jobs.nikhef.nl/jobs/postdoc-position-on-qcd-and-proton-structure-with-lhc-neutrinos-1344494/",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-10",
+  "added": "2026-10-10",
   "stages": [
    "pd"
   ]
@@ -8149,6 +8349,29 @@
   "d": null
  },
  {
+  "id": "ornl-postdoc-integrated-photonics-quantum-sensing",
+  "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Integrated Photonics (Quantum Sensing and Computing Group)",
+  "f": "Oak Ridge National Laboratory, Computational Sciences and Engineering Division",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Open until filled (requisition 16703, posted Sep 19, 2026)",
+  "a": "Appointment up to 24 months",
+  "e": "Postdoc on quantum integrated photonics and quantum sensing, with priority for experience designing, fabricating and testing integrated photonic devices; PhD in physics or a related field within the last 5 years. The work is export-controlled, so candidates must qualify for access without an export license and pass a federal background check.",
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Integrated-Photonics-TN-37830/1403080700/",
+  "unv": "Salary not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-10",
+  "added": "2026-10-10",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
   "id": "ospool-open-science-pool",
   "n": "OSPool (Open Science Pool) high-throughput computing",
   "f": "OSG Consortium / PATh (NSF)",
@@ -8547,6 +8770,29 @@
    "pd"
   ],
   "d": null
+ },
+ {
+  "id": "sandia-james-clerk-maxwell-fellowship-2027",
+  "n": "Sandia National Laboratories: James Clerk Maxwell Fellowship (2027)",
+  "f": "Sandia National Laboratories",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2026-12-02",
+  "dt": "Apply by Dec 2, 2026 for full consideration (Job ID 699003)",
+  "a": "Two-year fellowship; salary not stated",
+  "e": "Two-year independent postdoctoral fellowship in radiation effects, electrical and electromagnetic sciences, high energy density science and pulsed power; PhD within the past three years or expected by the start date, with a 5-page research proposal. The fellow must be able to obtain a DOE Q clearance, which requires US citizenship, and must work onsite.",
+  "u": "https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/fellowships/maxwell-fellowship/",
+  "unv": "Salary not stated.",
+  "us": true,
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-10",
+  "added": "2026-10-10",
+  "stages": [
+   "pd"
+  ]
  },
  {
   "id": "schmidt-science-fellows",
@@ -9112,7 +9358,6 @@
   "f": "Université de Montréal; PI Alan Robinson",
   "c": "Group postdoc",
   "s": "rolling",
-  "d": "2026-10-09",
   "dt": "Review of applications starts Oct 9, 2026; positions open until filled",
   "a": "not listed; multiple positions",
   "e": "Direct dark matter detection with SENSEI, PICO and SuperCDMS. Requires a PhD in particle physics and instrumentation expertise.",
@@ -9126,7 +9371,8 @@
   "added": "2026-09-30",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "u-of-t-astronomy-surp-dunlap-daa",
@@ -9613,6 +9859,28 @@
    "pd"
   ],
   "d": null
+ },
+ {
+  "id": "uiuc-postdoc-integrated-quantum-photonics-fang-group",
+  "n": "University of Illinois Urbana-Champaign: Postdoctoral Research Associate in Integrated Quantum Photonics (Fang group)",
+  "f": "University of Illinois Urbana-Champaign, Holonyak Micro and Nanotechnology Laboratory (Kejie Fang)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-26",
+  "dt": "Listed until Nov 26, 2026",
+  "a": "$55,000–$65,000",
+  "e": "Experimental work on photonic devices for classical and quantum information processing, sensing and networking; PhD in electrical engineering, physics, applied physics or a related field within 10 years of the start date. Work-authorization sponsorship is available, except a new H-1B petition carrying the $100,000 fee.",
+  "u": "https://academicjobsonline.org/ajo/jobs/32103",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-10",
+  "added": "2026-10-10",
+  "stages": [
+   "pd"
+  ]
  },
  {
   "id": "uiuc-simons-bhsg-postdoc-fellowship",

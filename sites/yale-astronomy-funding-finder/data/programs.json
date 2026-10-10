@@ -230,8 +230,8 @@
   "added": "2026-09-28",
   "c": "Federal grant",
   "checked": "2026-10-07",
-  "d": "2026-10-09",
-  "dt": "Required white paper (≤5 pp) due Oct 9, 2026, 11:59 PM ET. Feedback by Nov 6, 2026. Full proposal due Dec 4, 2026 (FA9550-26-S-0003).",
+  "d": "2026-12-04",
+  "dt": "Required white paper was due Oct 9, 2026 (closed). Feedback by Nov 6, 2026. Full proposal due Dec 4, 2026 for those who submitted a white paper (FA9550-26-S-0003).",
   "e": "PhD on or after Apr 1, 2019, and a full-time permanent position at a US institution. Must be a US citizen, national or permanent resident at proposal submission; H-1B holders are ineligible.",
   "f": "Air Force Office of Scientific Research",
   "fields": [
@@ -1713,6 +1713,33 @@
   ],
   "u": "https://www.casca.ca/awards",
   "unv": "Eligibility, nomination deadline and prize not retrievable from CASCA site; Canadian-university requirement assumed, not verified",
+  "us": false
+ },
+ {
+  "a": "$3,000 award plus travel expenses",
+  "added": "2026-10-10",
+  "c": "Fellowship",
+  "checked": "2026-10-10",
+  "d": "2027-01-01",
+  "dt": "All materials, including 3 letters of support, due Jan 1, 2027",
+  "e": "Annual prize lectureship for a junior scholar in any field of physics: one week in residence at Case Western in spring 2027, giving two technical lectures and a colloquium. Nominees need a PhD awarded between Aug 31, 2018 and Aug 31, 2026 and may not hold a tenured or tenure-track position as of Jan 1, 2027; no citizenship restriction stated.",
+  "f": "Case Western Reserve University, Department of Physics",
+  "fields": [
+   "all"
+  ],
+  "id": "case-western-michelson-prize-lectureship-2027",
+  "n": "Case Western Reserve University: Michelson Postdoctoral Prize Lectureship (2027)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33023",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33023",
+  "unv": "A one-week residency award, not a postdoc appointment.",
   "us": false
  },
  {
@@ -4656,6 +4683,66 @@
   "us": false
  },
  {
+  "a": "3 years; AEI grant of €35,700 a year toward salary, plus €15,000 for research costs",
+  "added": "2026-10-10",
+  "asub": [
+   "he"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-10",
+  "d": "2026-11-26",
+  "dt": "Contact the group as soon as possible; AEI candidate form open Nov 12 to Nov 26, 2026, 14:00 Spanish time; institutions submit by Dec 3, 2026",
+  "e": "Spanish national 3-year postdoctoral fellowship, hosted by the IGFAE gravitational-wave group (T. Dent, J. Calderón Bustillo), for people whose PhD was awarded or is expected in 2024 to 2026. Interested applicants should first contact the group.",
+  "f": "Instituto Galego de Física de Altas Enerxías (IGFAE), Universidade de Santiago de Compostela",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "igfae-gw-juan-de-la-cierva-2026-eoi",
+  "n": "IGFAE (Santiago de Compostela) gravitational-wave group: Juan de la Cierva 2026 postdoctoral fellowship (expressions of interest)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "other:igfae-gw-jdlc-2026",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://wiki.ligo.org/LAAC/JobPostings#Postdoctoral_and_Tenure_45track_fellowships_at_IGFAE_GW_group",
+  "us": false
+ },
+ {
+  "a": "5-year contract, at least €40,000 gross a year; project budget of at least €200,000; €50,000 incentive for a permanent post",
+  "added": "2026-10-10",
+  "asub": [
+   "he"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-10",
+  "d": "2026-12-10",
+  "dt": "Contact the group as soon as possible; AEI call open Nov 10 to Dec 10, 2026, 14:00 Spanish time",
+  "e": "Spain's main tenure-track fellowship, hosted by the IGFAE gravitational-wave group (T. Dent, J. Calderón Bustillo); the group says awardees can also apply for extra regional funding. Interested applicants should first contact the group.",
+  "f": "Instituto Galego de Física de Altas Enerxías (IGFAE), Universidade de Santiago de Compostela",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "igfae-gw-ramon-y-cajal-2026-eoi",
+  "n": "IGFAE (Santiago de Compostela) gravitational-wave group: Ramón y Cajal 2026 tenure-track fellowship (expressions of interest)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "other:igfae-gw-ryc-2026",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://wiki.ligo.org/LAAC/JobPostings#Postdoctoral_and_Tenure_45track_fellowships_at_IGFAE_GW_group",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-09-30",
   "asub": [
@@ -6056,35 +6143,6 @@
   "us": false
  },
  {
-  "a": "$95,000 stipend rising 3%/yr + $10k/yr research fund; 3 yrs",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-10-07",
-  "d": "2026-10-09",
-  "dt": "Nominations closed Sep 10, 2026; nominee application due Oct 9, 2026, 11:59 pm PT",
-  "e": "PhD between Jan 1, 2025 and Aug 31, 2027; at most 2 yrs of prior postdoc; must be nominated and have a Berkeley host.",
-  "f": "Miller Institute, UC Berkeley",
-  "fields": [
-   "all",
-   "amo",
-   "cmx",
-   "cmt",
-   "qp"
-  ],
-  "id": "miller-research-fellowship-2027-2030",
-  "n": "Miller Research Fellowship (2027-2030)",
-  "nfit": "Low",
-  "nom": true,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://miller.berkeley.edu/nominate-apply/miller-research-fellowship",
-  "us": false
- },
- {
   "a": "not listed",
   "added": "2026-09-30",
   "asub": [
@@ -6238,35 +6296,6 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32370",
-  "us": false
- },
- {
-  "a": "3-yr stipend + $15k/yr discretionary research funds",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-10-07",
-  "d": "2026-10-09",
-  "dt": "Nominations closed Sep 11, 2026; nominee materials due Oct 9, 2026 (midnight EST)",
-  "e": "PhD in physics/astronomy/related by Sep 1, 2027; nominated by advisor; current MIT students/postdocs generally ineligible.",
-  "f": "MIT Physics",
-  "fields": [
-   "all",
-   "amo",
-   "cmx",
-   "cmt",
-   "qp"
-  ],
-  "id": "mit-pappalardo-fellowships-in-physics-2027-2030",
-  "n": "MIT Pappalardo Fellowships in Physics (2027-2030)",
-  "nfit": "Low",
-  "nom": true,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://physics.mit.edu/research/pappalardo-fellowships-in-physics/competition/",
   "us": false
  },
  {
@@ -10664,7 +10693,7 @@
   ],
   "c": "Group postdoc",
   "checked": "2026-10-08",
-  "d": "2026-10-09",
+  "d": null,
   "dt": "Review of applications starts Oct 9, 2026; positions open until filled",
   "e": "Direct dark matter detection with SENSEI, PICO and SuperCDMS. Requires a PhD in particle physics and instrumentation expertise.",
   "f": "Université de Montréal; PI Alan Robinson",
@@ -11997,35 +12026,6 @@
   "u": "https://gwac.wvu.edu/reu",
   "unv": "2027 deadline and NSF funding for 2027 not posted; page now describes the Astrophysics & Plasma Physics REU",
   "us": true
- },
- {
-  "a": "XMM-Newton observing time for May 2027 to Apr 2028 (revs 5017-5200); joint time with NuSTAR and others available",
-  "added": "2026-10-03",
-  "asub": [],
-  "c": "Observing time",
-  "checked": "2026-10-07",
-  "d": "2026-10-09",
-  "dt": "9 Oct 2026, 12:00 UT",
-  "e": "ESA's annual call for XMM-Newton X-ray observations. Open to scientists worldwide with no nationality limit.",
-  "f": "ESA XMM-Newton",
-  "fields": [
-   "astro"
-  ],
-  "id": "xmm-newton-ao26",
-  "n": "XMM-Newton AO-26 Guest Observer",
-  "nom": false,
-  "pt": "other",
-  "region": "International",
-  "s": "open",
-  "src": "other:xmm-cfp",
-  "stages": [
-   "tt",
-   "ten",
-   "pd"
-  ],
-  "u": "https://www.cosmos.esa.int/web/xmm-newton/ao26",
-  "unv": "Whether students can be PI not checked; NASA funding route for US PIs not checked",
-  "us": false
  },
  {
   "a": "XRISM Resolve/Xtend time; NASA funding for US investigators",

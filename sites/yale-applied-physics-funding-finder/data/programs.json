@@ -107,8 +107,8 @@
   "added": "2026-10-03",
   "c": "Foundation",
   "checked": "2026-10-07",
-  "d": "2026-10-09",
-  "dt": "Fall 2026 deadline",
+  "d": null,
+  "dt": "Last deadline Oct 9, 2026; the next cycle is not posted yet",
   "e": "Starter grants for faculty in the first three years of their first academic appointment at PhD-granting departments, for fundamental research related to the petroleum field. The work must differ from the applicant's own graduate and postdoctoral research.",
   "f": "American Chemical Society Petroleum Research Fund",
   "fields": [
@@ -118,7 +118,7 @@
   "id": "acs-prf-dni",
   "n": "ACS Petroleum Research Fund: Doctoral New Investigator (DNI) Grants",
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "src": "other:acs-prf",
   "stages": [
    "tt"
@@ -132,8 +132,8 @@
   "added": "2026-10-03",
   "c": "Foundation",
   "checked": "2026-10-08",
-  "d": "2026-10-09",
-  "dt": "Fall 2026 deadline",
+  "d": null,
+  "dt": "Last deadline Oct 9, 2026; the next cycle is not posted yet",
   "e": "Seed grants for faculty at PhD-granting nonprofit institutions to start research in an area new to the PI and related to the petroleum field, with little or no preliminary data. At least 60% of the budget must support students.",
   "f": "American Chemical Society Petroleum Research Fund",
   "fields": [
@@ -143,7 +143,7 @@
   "id": "acs-prf-nd",
   "n": "ACS Petroleum Research Fund: New Directions (ND) Grants",
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "src": "other:acs-prf",
   "stages": [
    "tt",
@@ -222,8 +222,8 @@
   "added": "2026-09-28",
   "c": "Federal grant",
   "checked": "2026-10-07",
-  "d": "2026-10-09",
-  "dt": "Required white paper (≤5 pp) due Oct 9, 2026, 11:59 PM ET. Feedback by Nov 6, 2026. Full proposal due Dec 4, 2026 (FA9550-26-S-0003).",
+  "d": "2026-12-04",
+  "dt": "Required white paper was due Oct 9, 2026 (closed). Feedback by Nov 6, 2026. Full proposal due Dec 4, 2026 for those who submitted a white paper (FA9550-26-S-0003).",
   "e": "PhD on or after Apr 1, 2019, and a full-time permanent position at a US institution. Must be a US citizen, national or permanent resident at proposal submission; H-1B holders are ineligible.",
   "f": "Air Force Office of Scientific Research",
   "fields": [
@@ -1976,6 +1976,33 @@
   "us": false
  },
  {
+  "a": "$3,000 award plus travel expenses",
+  "added": "2026-10-10",
+  "c": "Fellowship",
+  "checked": "2026-10-10",
+  "d": "2027-01-01",
+  "dt": "All materials, including 3 letters of support, due Jan 1, 2027",
+  "e": "Annual prize lectureship for a junior scholar in any field of physics: one week in residence at Case Western in spring 2027, giving two technical lectures and a colloquium. Nominees need a PhD awarded between Aug 31, 2018 and Aug 31, 2026 and may not hold a tenured or tenure-track position as of Jan 1, 2027; no citizenship restriction stated.",
+  "f": "Case Western Reserve University, Department of Physics",
+  "fields": [
+   "all"
+  ],
+  "id": "case-western-michelson-prize-lectureship-2027",
+  "n": "Case Western Reserve University: Michelson Postdoctoral Prize Lectureship (2027)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33023",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33023",
+  "unv": "A one-week residency award, not a postdoc appointment.",
+  "us": false
+ },
+ {
   "a": "CNY 250,000 + X (negotiable) before tax; 1+1 years",
   "added": "2026-09-30",
   "asub": [
@@ -3585,7 +3612,7 @@
   "added": "2026-10-07",
   "c": "Fellowship",
   "checked": "2026-10-08",
-  "d": "2026-10-09",
+  "d": null,
   "dt": "Apply by Oct 9, 2026 for full consideration; rolling until filled",
   "e": "Postdoctoral-level fellowship (2 years, renewable for a third) in computational quantum many-body physics, quantum materials and related methods, starting Aug-Nov 2027 in New York. No citizenship restriction stated.",
   "f": "Simons Foundation Flatiron Institute, CCQ",
@@ -4152,6 +4179,35 @@
   "u": "https://www.mrsec.harvard.edu/education/reu.php",
   "unv": "2027 dates, stipend and deadline not posted",
   "us": true
+ },
+ {
+  "a": "$67,600–$80,000",
+  "added": "2026-10-10",
+  "c": "Group postdoc",
+  "checked": "2026-10-10",
+  "d": null,
+  "dt": "Open until filled; start fall 2027",
+  "e": "One or more postdoctoral fellows in quantum many-body physics starting fall 2027; a PhD is required by the start date. Apply with a CV and research statement; 3 to 5 references are required.",
+  "f": "Harvard University, Department of Physics (Norman Yao group)",
+  "fields": [
+   "cmt",
+   "qp",
+   "amo"
+  ],
+  "id": "harvard-postdoc-quantum-many-body-physics-yao-group",
+  "n": "Harvard University: Postdoctoral Fellow in Quantum Many-Body Physics (Yao Group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:harvard-ap-16653-yao",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicpositions.harvard.edu/postings/16653",
+  "unv": "Posting date and citizenship terms not stated.",
+  "us": false
  },
  {
   "a": "$67,600-$80,000",
@@ -5238,7 +5294,7 @@
   "added": "2026-10-02",
   "c": "Group postdoc",
   "checked": "2026-10-08",
-  "d": "2026-10-09",
+  "d": null,
   "dt": "INSPIRE deadline Oct 9, 2026; review on receipt until filled",
   "e": "Postdoc or research professor on storage-ring beam dynamics for short-pulse generation via laser-seeded FEL schemes. PhD within the last 2 years for the postdoc track; no citizenship limit stated.",
   "f": "Kangwon National University, Department of Physics",
@@ -5632,6 +5688,34 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32681",
+  "us": false
+ },
+ {
+  "a": "$8,570–$9,935 a month; 2-year appointment, renewable",
+  "added": "2026-10-10",
+  "c": "Group postdoc",
+  "checked": "2026-10-10",
+  "d": null,
+  "dt": "Priority consideration was given to applications by Sep 1, 2026; the host ad accepts applications until the posting is removed",
+  "e": "Postdoc developing Krylov-type quantum subspace algorithms for superconducting-materials discovery, with tests on neutral-atom quantum processors. Applicants must have less than 3 years of paid postdoc experience and be authorized to work in the US at hire; no visa sponsorship.",
+  "f": "Lawrence Berkeley National Laboratory, Applied Mathematics and Computational Research Division (Scalable Solvers Group)",
+  "fields": [
+   "qp",
+   "ds"
+  ],
+  "id": "lbnl-quantum-algorithms-postdoctoral-fellow-qc3",
+  "n": "Lawrence Berkeley National Laboratory: Quantum Algorithms Postdoctoral Fellow (QC3 program)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:lbnl-7584-quantum-algorithms",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.lbl.gov/jobs/quantum-algorithms-postdoctoral-fellow-7584",
+  "unv": "Quantiki lists Oct 23, 2026 as a deadline; the host ad does not state one.",
   "us": false
  },
  {
@@ -6256,35 +6340,6 @@
   "us": false
  },
  {
-  "a": "$95,000 stipend rising 3%/yr + $10k/yr research fund; 3 yrs",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-10-07",
-  "d": "2026-10-09",
-  "dt": "Nominations closed Sep 10, 2026; nominee application due Oct 9, 2026, 11:59 pm PT",
-  "e": "PhD between Jan 1, 2025 and Aug 31, 2027; at most 2 yrs of prior postdoc; must be nominated and have a Berkeley host.",
-  "f": "Miller Institute, UC Berkeley",
-  "fields": [
-   "all",
-   "amo",
-   "cmx",
-   "cmt",
-   "qp"
-  ],
-  "id": "miller-research-fellowship-2027-2030",
-  "n": "Miller Research Fellowship (2027-2030)",
-  "nfit": "Low",
-  "nom": true,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://miller.berkeley.edu/nominate-apply/miller-research-fellowship",
-  "us": false
- },
- {
   "a": "$73,308–$90,000/yr; up to 3 years",
   "added": "2026-10-03",
   "c": "Group postdoc",
@@ -6397,35 +6452,6 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32745",
-  "us": false
- },
- {
-  "a": "3-yr stipend + $15k/yr discretionary research funds",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-10-07",
-  "d": "2026-10-09",
-  "dt": "Nominations closed Sep 11, 2026; nominee materials due Oct 9, 2026 (midnight EST)",
-  "e": "PhD in physics/astronomy/related by Sep 1, 2027; nominated by advisor; current MIT students/postdocs generally ineligible.",
-  "f": "MIT Physics",
-  "fields": [
-   "all",
-   "amo",
-   "cmx",
-   "cmt",
-   "qp"
-  ],
-  "id": "mit-pappalardo-fellowships-in-physics-2027-2030",
-  "n": "MIT Pappalardo Fellowships in Physics (2027-2030)",
-  "nfit": "Low",
-  "nom": true,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://physics.mit.edu/research/pappalardo-fellowships-in-physics/competition/",
   "us": false
  },
  {
@@ -9655,6 +9681,35 @@
   "us": false
  },
  {
+  "a": "Appointment up to 24 months",
+  "added": "2026-10-10",
+  "c": "Group postdoc",
+  "checked": "2026-10-10",
+  "d": null,
+  "dt": "Open until filled (requisition 16703, posted Sep 19, 2026)",
+  "e": "Postdoc on quantum integrated photonics and quantum sensing, with priority for experience designing, fabricating and testing integrated photonic devices; PhD in physics or a related field within the last 5 years. The work is export-controlled, so candidates must qualify for access without an export license and pass a federal background check.",
+  "f": "Oak Ridge National Laboratory, Computational Sciences and Engineering Division",
+  "fields": [
+   "phot",
+   "qp",
+   "dev"
+  ],
+  "id": "ornl-postdoc-integrated-photonics-quantum-sensing",
+  "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Integrated Photonics (Quantum Sensing and Computing Group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-16703-integrated-photonics",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Integrated-Photonics-TN-37830/1403080700/",
+  "unv": "Salary not stated.",
+  "us": false
+ },
+ {
   "a": "$750-$950/week by academic level plus $250/week housing allowance",
   "added": "2026-10-03",
   "c": "Training",
@@ -9991,8 +10046,8 @@
   "added": "2026-09-30",
   "c": "Group postdoc",
   "checked": "2026-10-08",
-  "d": "2026-10-09",
-  "dt": "Full consideration by Oct 9, 2026, 11:59 PM; posting closes Oct 16, 2026, 11:59 PM ET",
+  "d": "2026-10-16",
+  "dt": "Full consideration date Oct 9, 2026 has passed; Interfolio posting closes Oct 16, 2026, 11:59 PM ET",
   "e": "Quantum science: materials, devices and computing. Requires a PhD (or near completion) in physics, EE, chemistry or CS.",
   "f": "Princeton University; contact Alison Cummins",
   "fields": [
@@ -10202,8 +10257,8 @@
   "added": "2026-09-30",
   "c": "Fellowship",
   "checked": "2026-10-08",
-  "d": "2026-10-09",
-  "dt": "Full consideration by Oct 9, 2026, 11:59 PM; Interfolio posting closes Oct 16, 2026, 11:59 PM ET; apply via Interfolio",
+  "d": "2026-10-16",
+  "dt": "Full consideration date Oct 9, 2026 has passed; Interfolio posting closes Oct 16, 2026, 11:59 PM ET; apply via Interfolio",
   "e": "Foundational quantum science, quantum materials, quantum devices and quantum computer science. PhD (or near) in physics, EE, chemistry or CS.",
   "f": "Princeton University, Princeton Quantum Initiative",
   "fields": [
@@ -10628,6 +10683,35 @@
    "pd"
   ],
   "u": "https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/fellowships/gil-herrera-fellowship-in-quantum-information-science/",
+  "us": true
+ },
+ {
+  "a": "Two-year fellowship; salary not stated",
+  "added": "2026-10-10",
+  "c": "Fellowship",
+  "checked": "2026-10-10",
+  "d": "2026-12-02",
+  "dt": "Apply by Dec 2, 2026 for full consideration (Job ID 699003)",
+  "e": "Two-year independent postdoctoral fellowship in radiation effects, electrical and electromagnetic sciences, high energy density science and pulsed power; PhD within the past three years or expected by the start date, with a 5-page research proposal. The fellow must be able to obtain a DOE Q clearance, which requires US citizenship, and must work onsite.",
+  "f": "Sandia National Laboratories",
+  "fields": [
+   "dev",
+   "energy",
+   "inst"
+  ],
+  "id": "sandia-james-clerk-maxwell-fellowship-2027",
+  "n": "Sandia National Laboratories: James Clerk Maxwell Fellowship (2027)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "other:sandia-maxwell-2027",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/fellowships/maxwell-fellowship/",
+  "unv": "Salary not stated.",
   "us": true
  },
  {
@@ -12244,6 +12328,34 @@
    "pd"
   ],
   "u": "https://mrl.illinois.edu/research/opportunities",
+  "us": false
+ },
+ {
+  "a": "$55,000–$65,000",
+  "added": "2026-10-10",
+  "c": "Group postdoc",
+  "checked": "2026-10-10",
+  "d": "2026-11-26",
+  "dt": "Listed until Nov 26, 2026",
+  "e": "Experimental work on photonic devices for classical and quantum information processing, sensing and networking; PhD in electrical engineering, physics, applied physics or a related field within 10 years of the start date. Work-authorization sponsorship is available, except a new H-1B petition carrying the $100,000 fee.",
+  "f": "University of Illinois Urbana-Champaign, Holonyak Micro and Nanotechnology Laboratory (Kejie Fang)",
+  "fields": [
+   "phot",
+   "qp",
+   "dev"
+  ],
+  "id": "uiuc-postdoc-integrated-quantum-photonics-fang-group",
+  "n": "University of Illinois Urbana-Champaign: Postdoctoral Research Associate in Integrated Quantum Photonics (Fang group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:32103",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32103",
   "us": false
  },
  {
