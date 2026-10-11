@@ -624,6 +624,29 @@
   "d": null
  },
  {
+  "id": "ben-gurion-palti-string-theory-postdoc",
+  "n": "Ben-Gurion University of the Negev: Postdoc in theoretical high-energy physics (Palti group)",
+  "f": "Ben-Gurion University of the Negev",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-15",
+  "dt": "Apply by Jan 15, 2027",
+  "a": "Initial 2-year appointment; salary not stated as a figure, travel support included",
+  "e": "Postdoc in Eran Palti's string theory group in Beer-Sheva, Israel, working on string theory, quantum gravity, the swampland, QFT, cosmology and particle physics. No citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33027",
+  "unv": "Start date not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-11",
+  "added": "2026-10-11",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "berkeley-litp-lbnl-theory-postdoc-2027",
   "n": "UC Berkeley LITP / Berkeley Lab: Postdoctoral Fellows in Theoretical Particle Physics",
   "f": "University of California, Berkeley / Lawrence Berkeley National Laboratory",
@@ -2558,6 +2581,27 @@
   "nfit": "Low",
   "checked": "2026-10-07",
   "added": "2026-10-02",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
+  "id": "fj-csu-fullerton-asst-prof-experimental-physics-optics",
+  "n": "California State University, Fullerton: Assistant Professor of Experimental Physics (optics/quantum optics)",
+  "f": "Dept. of Physics, California State University, Fullerton",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-11-01",
+  "dt": "Full consideration for materials received by Nov 1, 2026; start August 2027",
+  "a": "Tenure-track Assistant Professor; anticipated $7,277–$7,423 per month",
+  "e": "Tenure-track experimental physics position in optics or quantum optics, with teaching and an undergraduate and master's research program. CSUF states it will not sponsor H-1B applicants subject to the $100,000 fee; no other citizenship limit stated.",
+  "u": "https://careers.pageuppeople.com/873/cw/en-us/job/562328/assistant-professor-of-experimental-physics-with-research-expertise-in-opticsquantum-optics",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-11",
+  "added": "2026-10-11",
   "stages": [
    "fj"
   ]

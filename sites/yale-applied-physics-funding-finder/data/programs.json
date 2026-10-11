@@ -5747,6 +5747,33 @@
   "us": false
  },
  {
+  "a": "$7,029–$8,152 per month; 2-year appointment",
+  "added": "2026-10-11",
+  "c": "Group postdoc",
+  "checked": "2026-10-11",
+  "d": "2026-11-06",
+  "dt": "Priority consideration for applications by Nov 6, 2026; open until the posting is removed",
+  "e": "Postdoc on polymer binders, conductive coatings and inorganic cathode materials for recyclable sodium-ion battery electrodes. Requires a recent PhD and under 3 years of paid postdoc experience; no citizenship limit stated.",
+  "f": "Lawrence Berkeley National Laboratory, Energy Technologies Area",
+  "fields": [
+   "energy",
+   "mat"
+  ],
+  "id": "lbnl-sodium-ion-electrode-materials-postdoc",
+  "n": "Berkeley Lab: Chemist Postdoctoral Scholar (sodium-ion battery electrode materials)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:lbnl-7637",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.lbl.gov/jobs/chemist-postdoctoral-scholar-7637",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-10-03",
   "c": "Summer program",
@@ -9681,6 +9708,33 @@
   "us": false
  },
  {
+  "a": "Up to 24 months",
+  "added": "2026-10-11",
+  "c": "Group postdoc",
+  "checked": "2026-10-11",
+  "d": null,
+  "dt": "Posted Oct 5, 2026; open until filled",
+  "e": "Postdoc on alloy design, processing and microstructure (SEM/EBSD) of refractory and high-temperature alloys for nuclear and space uses. PhD within the last 5 years; no visa sponsorship, and candidates must be eligible for export-controlled access without a license.",
+  "f": "Oak Ridge National Laboratory, Materials Science and Technology Division",
+  "fields": [
+   "mat"
+  ],
+  "id": "ornl-materials-processing-refractory-alloys-postdoc",
+  "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Materials Processing Group",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-1436655700",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Materials-Processing-Group-TN-37830/1436655700/",
+  "unv": "Salary not stated; export-control eligibility may in practice limit some foreign nationals.",
+  "us": false
+ },
+ {
   "a": "Appointment up to 24 months",
   "added": "2026-10-10",
   "c": "Group postdoc",
@@ -10494,6 +10548,36 @@
    "d": null,
    "t": "Yale applicants should contact Yale Corporate and Foundation Relations before applying (Yale funding newsletter, Oct 7, 2026)."
   }
+ },
+ {
+  "a": "$75,000 per year for two years",
+  "added": "2026-10-11",
+  "c": "Fellowship",
+  "checked": "2026-10-11",
+  "d": "2026-12-11",
+  "dt": "Faculty nominations due Dec 11, 2026, 5 pm CST; awards around end of January 2027 for a July 1, 2027 start",
+  "e": "Two-year fellowship in electronic and photonic materials, energy materials, environmental materials or automated materials discovery. Candidates are nominated by a tenure-track Rice faculty member in RAMI and need a PhD from July 2025 or later with at most two years of prior postdoc; non-US citizens must be eligible for J-1 status.",
+  "f": "Rice Advanced Materials Institute (RAMI), Rice University",
+  "fields": [
+   "mat",
+   "phot",
+   "dev",
+   "energy"
+  ],
+  "id": "rice-rami-postdoctoral-fellowship-2027",
+  "n": "Rice University: RAMI Postdoctoral Fellowship Program (2027)",
+  "nfit": "Low",
+  "nom": true,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "other:rice-rami-2027",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://rami.rice.edu/rami-postdoctoral-fellowship-program",
+  "unv": "Opening date not shown; nomination only, no direct applications.",
+  "us": false
  },
  {
   "a": "Monthly salary plus discretionary work allowance of 480,000 JPY or more; one-year contract renewable up to March 31, 2030",

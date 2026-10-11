@@ -987,6 +987,37 @@
   "us": false
  },
  {
+  "a": "Initial 2-year appointment; salary not stated as a figure, travel support included",
+  "added": "2026-10-11",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-11",
+  "d": "2027-01-15",
+  "dt": "Apply by Jan 15, 2027",
+  "e": "Postdoc in Eran Palti's string theory group in Beer-Sheva, Israel, working on string theory, quantum gravity, the swampland, QFT, cosmology and particle physics. No citizenship limits stated.",
+  "f": "Ben-Gurion University of the Negev",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "ben-gurion-palti-string-theory-postdoc",
+  "n": "Ben-Gurion University of the Negev: Postdoc in theoretical high-energy physics (Palti group)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33027",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33027",
+  "unv": "Start date not stated.",
+  "us": false
+ },
+ {
   "a": "",
   "added": "2026-10-09",
   "asub": [
