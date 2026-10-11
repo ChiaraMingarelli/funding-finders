@@ -1,0 +1,30 @@
+{
+ "a": "Up to 24 months",
+ "added": "2026-10-11",
+ "aud": [
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-11",
+ "d": null,
+ "dt": "Posted Oct 5, 2026; open until filled",
+ "e": "Postdoc on alloy design, processing and microstructure (SEM/EBSD) of refractory and high-temperature alloys for nuclear and space uses. PhD within the last 5 years; no visa sponsorship, and candidates must be eligible for export-controlled access without a license.",
+ "f": "Oak Ridge National Laboratory, Materials Science and Technology Division",
+ "fields": [
+  "mat"
+ ],
+ "id": "ornl-materials-processing-refractory-alloys-postdoc",
+ "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Materials Processing Group",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:ornl-1436655700",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Materials-Processing-Group-TN-37830/1436655700/",
+ "unv": "Salary not stated; export-control eligibility may in practice limit some foreign nationals.",
+ "us": false
+}

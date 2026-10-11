@@ -1,0 +1,33 @@
+{
+ "a": "$75,000 per year for two years",
+ "added": "2026-10-11",
+ "aud": [
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-11",
+ "d": "2026-12-11",
+ "dt": "Faculty nominations due Dec 11, 2026, 5 pm CST; awards around end of January 2027 for a July 1, 2027 start",
+ "e": "Two-year fellowship in electronic and photonic materials, energy materials, environmental materials or automated materials discovery. Candidates are nominated by a tenure-track Rice faculty member in RAMI and need a PhD from July 2025 or later with at most two years of prior postdoc; non-US citizens must be eligible for J-1 status.",
+ "f": "Rice Advanced Materials Institute (RAMI), Rice University",
+ "fields": [
+  "mat",
+  "phot",
+  "dev",
+  "energy"
+ ],
+ "id": "rice-rami-postdoctoral-fellowship-2027",
+ "n": "Rice University: RAMI Postdoctoral Fellowship Program (2027)",
+ "nfit": "Low",
+ "nom": true,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "other:rice-rami-2027",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://rami.rice.edu/rami-postdoctoral-fellowship-program",
+ "unv": "Opening date not shown; nomination only, no direct applications.",
+ "us": false
+}
