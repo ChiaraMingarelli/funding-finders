@@ -1,15 +1,15 @@
 {
- "a": "",
+ "a": "INR 80,000/month plus HRA and a research grant of INR 2 lakh/yr; 1 year, a second year considered after evaluation",
  "added": "2026-10-09",
  "aud": [
   "yale",
   "ng"
  ],
  "c": "Fellowship",
- "checked": "2026-10-09",
+ "checked": "2026-10-12",
  "d": "2026-12-01",
  "dt": "Preferred deadline Dec 1, 2026",
- "e": "IISc Post-Doctoral Fellowships at CHEP in theoretical high energy physics, phenomenology, astroparticle physics, field theory, lattice gauge theory, quantum gravity and string theory, and HEP hardware development. Applicants must first get a consent letter from a CHEP faculty member and arrange three recommendation letters.",
+ "e": "IISc Post-Doctoral Fellowships at CHEP in theoretical high energy physics, phenomenology, astroparticle physics, field theory, lattice gauge theory, quantum gravity and string theory, and HEP hardware development. Applicants must first get a consent letter from a CHEP faculty member and arrange three recommendation letters. Foreign nationals and Overseas Citizens of India may apply; candidates should preferably be under 32.",
  "f": "Indian Institute of Science, Centre for High Energy Physics",
  "fields": [
   "ppt",
@@ -27,6 +27,6 @@
   "pd"
  ],
  "u": "https://www.iisc.ac.in/careers/post-doctoral-fellowship/",
- "unv": "Stipend and nationality eligibility not checked on the IISc fellowship page.",
+ "unv": "The Dec 1, 2026 preferred deadline is from the INSPIRE listing; the IISc fellowship page gives no deadline.",
  "us": false
 }

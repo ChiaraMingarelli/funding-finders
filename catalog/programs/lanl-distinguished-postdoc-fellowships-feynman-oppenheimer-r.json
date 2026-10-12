@@ -1,12 +1,12 @@
 {
- "a": "Distinguished postdoc appointment; salary not listed.",
+ "a": "Distinguished postdoc appointment; LANL postdoc salaries start at $97,000.",
  "added": "2026-09-28",
  "aud": [
   "yale",
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-07",
+ "checked": "2026-10-12",
  "d": null,
  "dt": "Candidates must be nominated and sponsored by LANL technical staff. Packages are reviewed at the Fall Quarterly Review.",
  "e": "Application within 5 years of PhD. Feynman is for theory and computing; Reines is for experimental science.",
@@ -26,7 +26,7 @@
  "stages": [
   "pd"
  ],
- "u": "https://lanl.gov/engage/collaboration/postdoctoral-research/becoming-a-postdoc/eligibility-and-appointments",
- "unv": "Sponsor deadline for the fall 2026 review not posted",
+ "u": "https://www.lanl.gov/engage/collaboration/postdoctoral-research/becoming-a-postdoc",
+ "unv": "Sponsor deadline for the fall 2026 review not posted (the page says fall packages are submitted in October); distinguished-fellow salary not listed",
  "us": false
 }

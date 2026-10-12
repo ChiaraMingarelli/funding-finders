@@ -31,7 +31,7 @@
   "ug"
  ],
  "u": "https://goldwaterscholarship.gov/",
- "unv": "The Yale campus date is from the Yale Student Grants Database; funding.yale.edu still shows an old date.",
+ "unv": "goldwaterscholarship.gov blocked automated access (Cloudflare 403) on Oct 12, 2026, so the dates were not rechecked. The Yale campus date is from the Yale Student Grants Database; funding.yale.edu still shows an old date.",
  "us": true,
  "yale": {
   "d": "2026-11-10",

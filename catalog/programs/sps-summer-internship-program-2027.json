@@ -9,7 +9,7 @@
   "ast"
  ],
  "c": "Summer program",
- "checked": "2026-10-07",
+ "checked": "2026-10-12",
  "d": "2027-01-15",
  "dt": "Applications open Nov 2, 2026; full application due Jan 15, 2027, 11:59 pm EST (per program-details page)",
  "e": "SPS member undergrads.",
@@ -27,6 +27,6 @@
   "ug"
  ],
  "u": "https://students.aip.org/internships/program-details",
- "unv": "The internships overview page says applications are open Nov 2, 2026 - Jan 5, 2027, which conflicts with the Jan 15, 2027 due date on the program-details page",
+ "unv": "The program-details page also says applications are open Nov 2, 2026 - Jan 5, 2026 (apparently a typo), while giving the Jan 15, 2027 due date for the full application",
  "us": false
 }

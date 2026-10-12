@@ -1,5 +1,5 @@
 {
- "a": null,
+ "a": "Gold medal",
  "added": "2026-10-01",
  "asub": [
   "he"
@@ -9,10 +9,10 @@
   "ast"
  ],
  "c": "Prize",
- "checked": "2026-10-07",
+ "checked": "2026-10-12",
  "d": null,
- "dt": "Annual award for the most outstanding doctoral thesis in astronomy/astrophysics; nomination deadline not shown",
- "e": "Award for a recent PhD, presumably from a Canadian university. Suits a strong pulsar-timing/GW thesis. CASCA also gives Best Student Talk/Poster awards at its annual meeting.",
+ "dt": "Annual award; the CASCA page still describes the 2025 nomination procedure and shows no date for the next round (2026 medal already awarded)",
+ "e": "Awarded each year by CASCA and the Royal Astronomical Society of Canada for the most outstanding doctoral thesis in astronomy or astrophysics by a PhD graduate of a Canadian university within the last two calendar years. The department head nominates at most one candidate, who must be (or have been for two years during the PhD) a CASCA member in good standing.",
  "f": "Canadian Astronomical Society (CASCA)",
  "fields": [
   "astro",
@@ -30,6 +30,6 @@
   "pd"
  ],
  "u": "https://www.casca.ca/awards",
- "unv": "Eligibility, nomination deadline and prize not retrievable from CASCA site; Canadian-university requirement assumed, not verified",
+ "unv": "Next nomination deadline not shown on the CASCA page; no cash prize stated.",
  "us": false
 }

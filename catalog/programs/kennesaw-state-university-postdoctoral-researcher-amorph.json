@@ -1,5 +1,5 @@
 {
- "a": "",
+ "a": "Salary not listed; funding is secured through Dec 31, 2027 and continues only if further funding is available",
  "added": "2026-10-07",
  "asub": [
   "he",
@@ -12,10 +12,10 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-07",
+ "checked": "2026-10-12",
  "d": null,
  "dt": "The ad lists no closing date (posted on LAAC Oct 2, 2026)",
- "e": "An experimental postdoc on the structure, optical and mechanical properties of amorphous coatings for current and future GW detectors, including Cosmic Explorer, part of the Center for Coatings Research. Applicants must be eligible to work in the US at the start of the appointment.",
+ "e": "A postdoc on low-thermal-noise, low-absorption amorphous thin-film coatings for Cosmic Explorer and other GW detectors, combining atomistic simulations (DFT, molecular dynamics) with analysis of X-ray scattering and pair-distribution-function data, within the LIGO Scientific Collaboration Center for Coatings Research. Applicants must be eligible to work in the US at the start of the appointment.",
  "f": "Kennesaw State University, gravitational-wave group / Center for Coatings Research",
  "fields": [
   "grav",

@@ -31,6 +31,6 @@
   "pd"
  ],
  "u": "https://gravity.princeton.edu/job-opportunities",
- "unv": "2026 call not found; the program page and Princeton/AAS job pages returned HTTP 403 on Oct 7, 2026",
+ "unv": "2026 call not found; the program page returned HTTP 403 (automated-access check) on Oct 12, 2026, and INSPIRE shows no 2026 Princeton gravity posting",
  "us": false
 }
