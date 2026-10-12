@@ -2809,6 +2809,37 @@
   "us": true
  },
  {
+  "a": "$12M to $25M per award over 5 years; about 5 awards ($100M total)",
+  "added": "2026-10-12",
+  "c": "Training",
+  "checked": "2026-10-12",
+  "d": "2027-01-12",
+  "dt": "Required letter of intent by 5 PM ET Nov 9, 2026 (LOI responses by Nov 23); applications by 11:59 PM ET Jan 12, 2027; webinar Nov 4, 2026",
+  "e": "Institutional grants for four-year PhD training pilots that pair AI (\"super intelligence\") with another science discipline, with research stints at a DOE national laboratory or SC user facility and in industry, tied to the Genesis Mission science challenges. Lead must be a US doctoral-granting institution, one LOI or application per lead institution; Fellows must be US citizens or permanent residents, with no such limit on PIs or mentors.",
+  "f": "DOE Office of Science",
+  "fields": [
+   "all",
+   "ds"
+  ],
+  "id": "doe-genesis-graduate-fellowship-pilot",
+  "n": "DOE Genesis Mission Graduate Fellowship Pilot (DE-FOA-0003673)",
+  "nofo": [
+   {
+    "opp": "DE-FOA-0003673",
+    "u": "https://simpler.grants.gov/opportunity/06db55bd-0a2a-4057-bfcd-eb2ebb4a13ab"
+   }
+  ],
+  "nom": true,
+  "s": "open",
+  "src": "grants:DE-FOA-0003673",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://science.osti.gov/grants/FOAs/Open",
+  "us": false
+ },
+ {
   "a": "Phase I $500k to $750k (9 mo); Phase II 3 to 5x Phase I over 3 yrs",
   "added": "2026-09-28",
   "c": "Federal grant",
@@ -3886,6 +3917,32 @@
   "u": "https://www.gemfellowship.org/gem-fellowship-program/",
   "unv": "Yale's current GEM membership not confirmed on GEM site (member list is login-only). On Oct 12, 2026 the GEM site said only that the application is open and did not show the Nov 13 date; Princeton's fellowship office lists Nov 13, 2026.",
   "us": true
+ },
+ {
+  "a": "Two years, extension possible; SNSF-funded; start Fall 2027 (negotiable); salary not listed",
+  "added": "2026-10-12",
+  "c": "Group postdoc",
+  "checked": "2026-10-12",
+  "d": "2026-12-04",
+  "dt": "Dec 4, 2026",
+  "e": "Theory postdoc in nonequilibrium quantum many-body dynamics: measurement-induced phenomena, open systems, quantum information and complexity, tensor networks, decoding, entanglement dynamics, quantum chaos, hydrodynamics. No citizenship limit stated.",
+  "f": "University of Geneva, Department of Theoretical Physics (Romain Vasseur)",
+  "fields": [
+   "cmt",
+   "qp"
+  ],
+  "id": "geneva-quantum-dynamics-postdoc-vasseur",
+  "n": "University of Geneva: Postdoc in Quantum Dynamics (Vasseur group)",
+  "nom": false,
+  "pt": "group",
+  "s": "open",
+  "src": "ajo:33029",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33029",
+  "unv": "Salary not stated in the posting",
+  "us": false
  },
  {
   "a": "",
@@ -7151,6 +7208,35 @@
   "unv": "Whether a PI without DOE funding can get a Mission Science award, and who may serve as PI, not checked; late-request success depends on remaining hours"
  },
  {
+  "a": "Magnet time free of charge",
+  "added": "2026-10-12",
+  "c": "Instrumentation",
+  "checked": "2026-10-12",
+  "d": "2026-11-13",
+  "dt": "Spring 2027 magnet time (Jan 18 to May 16, 2027) requests due Fri Nov 13, 2026; Summer 2027 due Mar 12, 2027; Fall 2027 due Jul 16, 2027",
+  "e": "Peer-reviewed user time in high-field DC (resistive, hybrid, superconducting) and pulsed magnets, for example for transport, optical and thermodynamic measurements on quantum materials. A proposal is needed for every facility and stays valid for three years; DC Field and Pulsed Field also require a prior-results report.",
+  "f": "National High Magnetic Field Laboratory (NSF / State of Florida)",
+  "fields": [
+   "cmx",
+   "mat",
+   "inst"
+  ],
+  "id": "nhmfl-dc-pulsed-field-magnet-time-spring-2027",
+  "n": "National MagLab DC Field / Pulsed Field magnet time (Spring 2027)",
+  "nom": false,
+  "pt": "other",
+  "s": "open",
+  "src": "other:nhmfl-dc-pff-2027",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://nationalmaglab.org/user-facilities/dc-field/",
+  "unv": "A search summary reported that the water-cooled resistive and hybrid DC magnets are shut down from mid-November 2026 through April 2027 for maintenance; not confirmed on the deadline page. Eligibility of non-US users not checked"
+ },
+ {
   "a": "1-year appointment, renewable up to 2 more years",
   "added": "2026-10-08",
   "c": "Group postdoc",
@@ -7298,6 +7384,39 @@
   ],
   "u": "https://simpler.grants.gov/opportunity/9f06c317-b398-4482-89b1-57bcf35363f3",
   "unv": "No posted Trailblazer NOFO found on Grants.gov as of 2026-10-12; only the notice of intent FOR-EB-26-001.",
+  "us": false
+ },
+ {
+  "a": "Up to $850K direct costs per year (plus well-justified specialized equipment), up to 5 years",
+  "added": "2026-10-12",
+  "c": "Center/large grant",
+  "checked": "2026-10-12",
+  "d": "2027-01-28",
+  "dt": "Due dates Jan 28 and May 28 each year (next Jan 28, 2027; then May 28, 2027) until the NOFO expires Jan 30, 2029",
+  "e": "Centers for late-stage optimization and dissemination of biomedical research technologies (tools, devices, software) within the NIGMS mission, with driving biomedical projects and community engagement. US institutions only (no foreign applicants); no citizenship restriction on PIs.",
+  "f": "NIH NIGMS",
+  "fields": [
+   "bio",
+   "inst",
+   "phot"
+  ],
+  "id": "nigms-btod-centers-rm1",
+  "n": "NIGMS Biomedical Technology Optimization and Dissemination (BTOD) Centers (RM1, PAR-27-024)",
+  "nofo": [
+   {
+    "opp": "PAR-27-024",
+    "u": "https://simpler.grants.gov/opportunity/4159deee-28f7-45de-9145-45912620d425"
+   }
+  ],
+  "nom": false,
+  "s": "open",
+  "src": "grants:PAR-27-024",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://simpler.grants.gov/opportunity/4159deee-28f7-45de-9145-45912620d425",
+  "unv": "NIH Guide page for PAR-27-024 returned 404 to automated access; dates and budget taken from the full announcement attached on grants.gov.",
   "us": false
  },
  {
@@ -9495,6 +9614,33 @@
   "us": false
  },
  {
+  "a": "Small allocations on OLCF leadership systems for up to 12 months",
+  "added": "2026-10-12",
+  "c": "Compute",
+  "checked": "2026-10-12",
+  "d": null,
+  "dt": "Applications accepted year-round",
+  "e": "Year-round requests for time on Oak Ridge leadership-class supercomputers, aimed at preparing and scaling codes for INCITE or ALCC proposals and at application performance work. Requests are reviewed by the OLCF Resource Utilization Council and independent referees.",
+  "f": "DOE Office of Science / Oak Ridge Leadership Computing Facility",
+  "fields": [
+   "ds",
+   "all"
+  ],
+  "id": "olcf-directors-discretionary-allocations",
+  "n": "OLCF Director's Discretionary (DD) allocations",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "rolling",
+  "src": "other:olcf-dd",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://www.olcf.ornl.gov/for-users/getting-started/",
+  "unv": "The OLCF page still quotes typical award sizes (15,000-20,000 node hours) for the retired Summit system, so the current award size is not confirmed; PI eligibility rules not stated on the page"
+ },
+ {
   "a": "Varies",
   "added": "2026-09-28",
   "c": "Federal grant",
@@ -9743,6 +9889,35 @@
   "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Materials-Processing-Group-TN-37830/1436655700/",
   "unv": "Salary not stated; export-control eligibility may in practice limit some foreign nationals.",
   "us": false
+ },
+ {
+  "a": "Neutron beamtime at the Spallation Neutron Source and High Flux Isotope Reactor",
+  "added": "2026-10-12",
+  "c": "Instrumentation",
+  "checked": "2026-10-12",
+  "d": "2027-03-10",
+  "dt": "2027-B call open now; submissions due March 10, 2027, for experiments July to December 2027",
+  "e": "Peer-reviewed beamtime for neutron scattering and imaging, for example magnetic structure, spin dynamics and phonons in quantum materials. General user proposals are submitted through the ORNL proposal system (IPTS).",
+  "f": "Oak Ridge National Laboratory / DOE BES",
+  "fields": [
+   "cmx",
+   "mat",
+   "inst"
+  ],
+  "id": "ornl-neutrons-general-user-2027b",
+  "n": "ORNL SNS/HFIR neutron General User Proposals – cycle 2027-B",
+  "nom": false,
+  "pt": "other",
+  "s": "open",
+  "src": "other:ornl-neutrons-gup-2027b",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://neutrons-user-facilities.ornl.gov/proposal-calls/",
+  "unv": "Which SNS and HFIR instruments are offered in 2027-B, the cost policy and eligibility of non-US users not confirmed (the site blocks automated access to some pages)"
  },
  {
   "a": "Appointment up to 24 months",
@@ -11333,6 +11508,30 @@
   ],
   "u": "https://spie.org/membership/student-hub/scholarships/optics-and-photonics-education-scholarships",
   "unv": "The date the application portal opens is not stated. spie.org blocked automated access (Incapsula) on Oct 12, 2026; deadline not re-verified.",
+  "us": false
+ },
+ {
+  "a": "Up to $700 (domestic) or $1,000 (international) for airfare and lodging, and/or a registration fee waiver",
+  "added": "2026-10-12",
+  "c": "Travel",
+  "checked": "2026-10-12",
+  "d": "2026-11-11",
+  "dt": "Photonics West 2027: apply Oct 12 to Nov 11, 2026; Medical Imaging 2027: Oct 26 to Nov 25, 2026; Smart Structures + NDE 2027: Dec 7, 2026 to Jan 6, 2027; Defense + Security 2027: Jan 5 to Feb 4, 2027",
+  "e": "Travel grants and registration waivers for SPIE Student Members who are presenting authors of an accepted paper at an SPIE conference and present in person. Students who have completed a PhD are not eligible; one award every two years.",
+  "f": "SPIE",
+  "fields": [
+   "phot"
+  ],
+  "id": "spie-student-conference-support-2027",
+  "n": "SPIE Student Conference Support (Photonics West 2027 and other SPIE meetings)",
+  "nom": false,
+  "s": "open",
+  "src": "other:spie-student-conference-support",
+  "stages": [
+   "gr",
+   "ug"
+  ],
+  "u": "https://spie.org/membership/student-hub/student-conference-support",
   "us": false
  },
  {
@@ -13346,7 +13545,7 @@
   "c": "Yale internal",
   "checked": "2026-10-12",
   "d": null,
-  "dt": "2026–27 cycle closed; info sessions for that cycle ran Dec–Jan",
+  "dt": "Next round posted on the Yale Ventures Impact Accelerator page: applications open Nov 30, 2026 and proposals are due Jan 29, 2027, 11:59 pm (through the YPS Grant Program on InfoReady, Commercialization Pathway + PSIA option)",
   "e": "Internal grants for climate and environmental research and implementation at Yale. Constellation awardees working toward commercialization can join the Impact Accelerator.",
   "f": "Yale Planetary Solutions",
   "fields": [
@@ -13363,7 +13562,7 @@
    "ten"
   ],
   "u": "https://planetarysolutions.yale.edu/programs/yps-grant-program",
-  "unv": "The timing of the next RFP and who may serve as PI are not stated.",
+  "unv": "The YPS grant program page still says the 2026-27 cycle is closed and does not yet show the Nov 30, 2026 opening; whether the Initiation and Exploration tracks reopen with it is not stated.",
   "us": false
  },
  {

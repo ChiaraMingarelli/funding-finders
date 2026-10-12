@@ -691,6 +691,34 @@
   "us": false
  },
  {
+  "a": "Two years, renewable for two more; Distinguished Postdoctoral Fellows get at least US$8,000/yr research budget; salary not listed",
+  "added": "2026-10-12",
+  "c": "Fellowship",
+  "checked": "2026-10-12",
+  "d": "2026-11-15",
+  "dt": "Nov 15, 2026 (application and three letters)",
+  "e": "Three tracks: independent Distinguished Postdoctoral Fellowship (PhD in or after 2023), Postdoctoral Associates on institute projects with up to 50% own research, and joint associates based at National Taiwan University or National Taiwan Normal University. Science spans solar system to cosmology and high-energy astrophysics (incl. EHT/Greenland Telescope VLBI and the BURSTT fast-radio-burst array) plus optical/IR/radio instrumentation; no citizenship limit stated.",
+  "f": "Academia Sinica Institute of Astronomy and Astrophysics (ASIAA)",
+  "fields": [
+   "astro",
+   "inst"
+  ],
+  "id": "asiaa-postdoctoral-positions-2027",
+  "n": "ASIAA (Taipei): Postdoctoral Positions in Observation, Theory, or Instrumentation",
+  "nfit": "High",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:32997",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32997",
+  "unv": "Salary not stated in the posting",
+  "us": false
+ },
+ {
   "a": "Residency; limited financial support",
   "added": "2026-09-29",
   "c": "Visiting program",
@@ -2042,6 +2070,37 @@
   "us": false
  },
  {
+  "a": "CHEOPS exoplanet photometry time: regular programmes up to 120 orbits, large programmes 121-500 orbits, and up to 25 orbits for fast-track HST/JWST-coordinated programmes; observations 1 Oct 2026 to 31 Dec 2029. No funding stated.",
+  "added": "2026-10-12",
+  "asub": [
+   "exo"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-12",
+  "d": "2026-10-31",
+  "dt": "Monthly Phase-1 deadlines at 23:59 CET/CEST on the last day of each month; next 31 Oct 2026. Large programmes only in the April and October cycles.",
+  "e": "ESA's rolling call for CHEOPS observing time during the second extended mission; the Guest Observers Programme gives the worldwide scientific community access to CHEOPS time.",
+  "f": "ESA / CHEOPS Science Operations Centre",
+  "fields": [
+   "astro"
+  ],
+  "id": "cheops-running-call",
+  "n": "CHEOPS Guest Observers Running Call",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:cheops-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.cosmos.esa.int/web/cheops-guest-observers-programme/cheops-running-call",
+  "unv": "PI eligibility details are in the Policies and Procedures document, which was not checked; no funding information on the call page.",
+  "us": false
+ },
+ {
   "a": "1 yr of study/research at Cambridge (fees + stipend)",
   "added": "2026-09-29",
   "c": "Fellowship",
@@ -2619,6 +2678,37 @@
   "us": true
  },
  {
+  "a": "$12M to $25M per award over 5 years; about 5 awards ($100M total)",
+  "added": "2026-10-12",
+  "c": "Training",
+  "checked": "2026-10-12",
+  "d": "2027-01-12",
+  "dt": "Required letter of intent by 5 PM ET Nov 9, 2026 (LOI responses by Nov 23); applications by 11:59 PM ET Jan 12, 2027; webinar Nov 4, 2026",
+  "e": "Institutional grants for four-year PhD training pilots that pair AI (\"super intelligence\") with another science discipline, with research stints at a DOE national laboratory or SC user facility and in industry, tied to the Genesis Mission science challenges. Lead must be a US doctoral-granting institution, one LOI or application per lead institution; Fellows must be US citizens or permanent residents, with no such limit on PIs or mentors.",
+  "f": "DOE Office of Science",
+  "fields": [
+   "all",
+   "ds"
+  ],
+  "id": "doe-genesis-graduate-fellowship-pilot",
+  "n": "DOE Genesis Mission Graduate Fellowship Pilot (DE-FOA-0003673)",
+  "nofo": [
+   {
+    "opp": "DE-FOA-0003673",
+    "u": "https://simpler.grants.gov/opportunity/06db55bd-0a2a-4057-bfcd-eb2ebb4a13ab"
+   }
+  ],
+  "nom": true,
+  "s": "open",
+  "src": "grants:DE-FOA-0003673",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://science.osti.gov/grants/FOAs/Open",
+  "us": false
+ },
+ {
   "a": "Phase I $500k to $750k (9 mo); Phase II 3 to 5x Phase I over 3 yrs",
   "added": "2026-09-28",
   "c": "Federal grant",
@@ -2915,6 +3005,34 @@
    "pd"
   ],
   "u": "https://www.eacoa.net/job/",
+  "us": false
+ },
+ {
+  "a": "VLBI time at 6.7, 22 and 43 GHz on up to 13 telescopes (KaVA, Nobeyama 45 m, Takahagi, Hitachi, Yamaguchi, Sejong); up to 500 hours in total for 2027A. Chinese telescopes do not take part in 2027A. No funding.",
+  "added": "2026-10-12",
+  "c": "Observing time",
+  "checked": "2026-10-12",
+  "d": "2026-11-02",
+  "dt": "Deadline Mon 2 Nov 2026, 08:00 UT; submission via the EAVN website opened 1 Oct 2026. Observations 16 Jan to 15 Jun 2027.",
+  "e": "Open-use call for VLBI observations with the East Asian VLBI Network. The EAVN status report says the open-use call is for astronomers in the world; proposers new to EAVN are advised to include an EAVN collaborator.",
+  "f": "KASI / NAOJ (East Asian VLBI Network)",
+  "fields": [
+   "astro"
+  ],
+  "id": "eavn-2027a",
+  "n": "East Asian VLBI Network (EAVN) Semester 2027A Call for Proposals",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "open",
+  "src": "other:eavn-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://radio.kasi.re.kr/cfp_view.php?id=54",
+  "unv": "Graduate-student PI eligibility is not stated.",
   "us": false
  },
  {
@@ -3943,6 +4061,41 @@
   "us": false
  },
  {
+  "a": "First prize $4,000; second $700, third $600, fourth $500, fifth $400",
+  "added": "2026-10-12",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Prize",
+  "checked": "2026-10-12",
+  "d": "2027-03-31",
+  "dt": "Essays due by midnight, March 31, 2027 (one PDF by email); awards announced May 15, 2027",
+  "e": "Annual essay competition on gravitation: essays of up to 10 pages, one per author, written in English and not AI-generated. The five winning essays are published in a special issue of the International Journal of Modern Physics D; the rules state no eligibility limits.",
+  "f": "Gravity Research Foundation",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "gravity-research-foundation-essays-2027",
+  "n": "Gravity Research Foundation Awards for Essays on Gravitation (2027)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "open",
+  "src": "other:grf-essays-2027",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://www.gravityresearchfoundation.org/competition",
+  "unv": "The rules page lists no restrictions on who may enter; whether co-authored essays count against each author's one-essay limit not checked",
+  "us": false
+ },
+ {
   "a": "$116,238–$169,942 a year; full time, City of Los Angeles civil service",
   "added": "2026-10-09",
   "c": "Staff position",
@@ -4587,6 +4740,33 @@
   ],
   "u": "https://www.iau.org/IAU/News/Ann2026/GA2027-registration-open.aspx",
   "unv": "Grant size and whether US/Canadian applicants are funded in practice not stated"
+ },
+ {
+  "a": "US$75,000 per year in total, usually three grants of US$25,000",
+  "added": "2026-10-12",
+  "c": "Fellowship",
+  "checked": "2026-10-12",
+  "d": "2027-03-22",
+  "dt": "22 Mar 2027, 11:59 pm Paris time (UTC+1); reference letters must also arrive by then",
+  "e": "Grant toward a postdoctoral appointment for early-career astronomers in any area of astrophysics, within three years of the PhD defence (final-year PhD students with a confirmed postdoc contract may apply). The host institution must be in a different country from the PhD institution (or from the previous postdoc institution); no nationality limits.",
+  "f": "International Astronomical Union / Gruber Foundation",
+  "fields": [
+   "astro"
+  ],
+  "id": "iau-gruber-fellowship-2027",
+  "n": "IAU Gruber Fellowship 2027",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "other:iau-gruber-fellowship-2027",
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "u": "https://iau.org/IAU/News/Ann2026/GruberFellowship2027.aspx",
+  "us": false
  },
  {
   "a": "Prize per IAU Division; winners are invited to present at the 2027 General Assembly with registration covered",
@@ -5337,6 +5517,34 @@
   "us": false
  },
  {
+  "a": "JWST time for scientifically urgent programs (up to 10% of JWST time is reserved for DD); funding depends on the current cycle budget",
+  "added": "2026-10-12",
+  "c": "Observing time",
+  "checked": "2026-10-12",
+  "d": null,
+  "dt": "Proposals may be submitted at any time through APT",
+  "e": "JWST's always-open channel for scientifically urgent observations, such as timely follow-up of new discoveries, that cannot wait for the annual cycle. Proposals follow the rules of the current JWST Call for Proposals and receive an internal urgency review.",
+  "f": "STScI / NASA",
+  "fields": [
+   "astro"
+  ],
+  "id": "jwst-director-discretionary",
+  "n": "JWST Director's Discretionary Time",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:jwst-dd-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-cycle-5-director-s-discretionary-dd-time-proposals",
+  "unv": "Student PI eligibility and funding level for DD programs are not stated on the DD page.",
+  "us": false
+ },
+ {
   "a": "3 yr + startup and travel funds",
   "added": "2026-09-29",
   "c": "Fellowship",
@@ -5548,6 +5756,34 @@
   ],
   "u": "https://www.kitp.ucsb.edu/scientific-activities/lead/submit-a-program-proposal",
   "unv": "Page gives \"October 16\" without a year; the year follows from the 2028-29 cycle it names. The pre-proposal, guidelines and visit pages (checked Oct 8, 2026) do not say what KITP pays for, so the award note is not confirmed there.",
+  "us": false
+ },
+ {
+  "a": "About 200 hours of mm-VLBI time on the four 21 m KVN telescopes, with simultaneous 22/43/86/129 GHz observing. No funding.",
+  "added": "2026-10-12",
+  "c": "Observing time",
+  "checked": "2026-10-12",
+  "d": "2026-11-02",
+  "dt": "Deadline 2 Nov 2026, 09:00 UT (18:00 KST); submission via the KVN website opened 1 Oct 2026. Observations 16 Jan to 15 Jun 2027 (can be spread to 15 Jan 2028 if requested).",
+  "e": "KASI invites VLBI proposals for the Korean VLBI Network from astronomers around the world. (The separate KVN single-dish call is for the Korean community only.)",
+  "f": "Korea Astronomy and Space Science Institute (KASI)",
+  "fields": [
+   "astro"
+  ],
+  "id": "kvn-vlbi-2027a",
+  "n": "Korean VLBI Network (KVN) VLBI Semester 2027A Call for Proposals",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "open",
+  "src": "other:kvn-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://radio.kasi.re.kr/cfp_view.php?id=56",
+  "unv": "Graduate-student PI eligibility is not stated.",
   "us": false
  },
  {
@@ -8981,6 +9217,33 @@
   "us": false
  },
  {
+  "a": "Small allocations on OLCF leadership systems for up to 12 months",
+  "added": "2026-10-12",
+  "c": "Compute",
+  "checked": "2026-10-12",
+  "d": null,
+  "dt": "Applications accepted year-round",
+  "e": "Year-round requests for time on Oak Ridge leadership-class supercomputers, aimed at preparing and scaling codes for INCITE or ALCC proposals and at application performance work. Requests are reviewed by the OLCF Resource Utilization Council and independent referees.",
+  "f": "DOE Office of Science / Oak Ridge Leadership Computing Facility",
+  "fields": [
+   "ds",
+   "all"
+  ],
+  "id": "olcf-directors-discretionary-allocations",
+  "n": "OLCF Director's Discretionary (DD) allocations",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "rolling",
+  "src": "other:olcf-dd",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://www.olcf.ornl.gov/for-users/getting-started/",
+  "unv": "The OLCF page still quotes typical award sizes (15,000-20,000 node hours) for the retired Summit system, so the current award size is not confirmed; PI eligibility rules not stated on the page"
+ },
+ {
   "a": "Typically $750K over 36 months (≤$250K/yr); up to 25 awards",
   "added": "2026-09-28",
   "c": "Federal grant",
@@ -9302,6 +9565,37 @@
   ],
   "u": "https://gsas.yale.edu/resources/yale-data-science-fellows-program",
   "unv": "The exact 2027 dates are not posted.",
+  "us": false
+ },
+ {
+  "a": "Two years, renewable for up to two more; start flexible in 2027; salary not listed",
+  "added": "2026-10-12",
+  "asub": [
+   "exo",
+   "ism"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-12",
+  "d": "2026-11-16",
+  "dt": "Nov 16, 2026 (application and letters)",
+  "e": "Independent postdoctoral fellowship in protoplanetary disks and planet formation (theory, simulation, machine learning or observation), collaborating with KIAA faculty (Dong, Herczeg, Long, Wang). Preference for applicants within three years of the PhD; any nationality; applicants are also considered for KIAA Fellowships.",
+  "f": "Kavli Institute for Astronomy and Astrophysics, Peking University",
+  "fields": [
+   "astro"
+  ],
+  "id": "pku-kiaa-planet-formation-fellowship-2027",
+  "n": "Peking University KIAA: Planet Formation Fellowship",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33028",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33028",
+  "unv": "Salary not stated in the posting",
   "us": false
  },
  {
@@ -12238,7 +12532,7 @@
   "c": "Yale internal",
   "checked": "2026-10-12",
   "d": null,
-  "dt": "2026–27 cycle closed; info sessions for that cycle ran Dec–Jan",
+  "dt": "Next round posted on the Yale Ventures Impact Accelerator page: applications open Nov 30, 2026 and proposals are due Jan 29, 2027, 11:59 pm (through the YPS Grant Program on InfoReady, Commercialization Pathway + PSIA option)",
   "e": "Internal grants for climate and environmental research and implementation at Yale. Constellation awardees working toward commercialization can join the Impact Accelerator.",
   "f": "Yale Planetary Solutions",
   "fields": [
@@ -12255,7 +12549,7 @@
    "ten"
   ],
   "u": "https://planetarysolutions.yale.edu/programs/yps-grant-program",
-  "unv": "The timing of the next RFP and who may serve as PI are not stated.",
+  "unv": "The YPS grant program page still says the 2026-27 cycle is closed and does not yet show the Nov 30, 2026 opening; whether the Initiation and Exploration tracks reopen with it is not stated.",
   "us": false
  },
  {
