@@ -1,0 +1,36 @@
+{
+ "a": "Up to $850K direct costs per year (plus well-justified specialized equipment), up to 5 years",
+ "added": "2026-10-12",
+ "aud": [
+  "ap"
+ ],
+ "c": "Center/large grant",
+ "checked": "2026-10-12",
+ "d": "2027-01-28",
+ "dt": "Due dates Jan 28 and May 28 each year (next Jan 28, 2027; then May 28, 2027) until the NOFO expires Jan 30, 2029",
+ "e": "Centers for late-stage optimization and dissemination of biomedical research technologies (tools, devices, software) within the NIGMS mission, with driving biomedical projects and community engagement. US institutions only (no foreign applicants); no citizenship restriction on PIs.",
+ "f": "NIH NIGMS",
+ "fields": [
+  "bio",
+  "inst",
+  "phot"
+ ],
+ "id": "nigms-btod-centers-rm1",
+ "n": "NIGMS Biomedical Technology Optimization and Dissemination (BTOD) Centers (RM1, PAR-27-024)",
+ "nofo": [
+  {
+   "opp": "PAR-27-024",
+   "u": "https://simpler.grants.gov/opportunity/4159deee-28f7-45de-9145-45912620d425"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:PAR-27-024",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/4159deee-28f7-45de-9145-45912620d425",
+ "unv": "NIH Guide page for PAR-27-024 returned 404 to automated access; dates and budget taken from the full announcement attached on grants.gov.",
+ "us": false
+}

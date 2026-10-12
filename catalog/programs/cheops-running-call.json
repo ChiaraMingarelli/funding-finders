@@ -1,0 +1,34 @@
+{
+ "a": "CHEOPS exoplanet photometry time: regular programmes up to 120 orbits, large programmes 121-500 orbits, and up to 25 orbits for fast-track HST/JWST-coordinated programmes; observations 1 Oct 2026 to 31 Dec 2029. No funding stated.",
+ "added": "2026-10-12",
+ "asub": [
+  "exo"
+ ],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-12",
+ "d": "2026-10-31",
+ "dt": "Monthly Phase-1 deadlines at 23:59 CET/CEST on the last day of each month; next 31 Oct 2026. Large programmes only in the April and October cycles.",
+ "e": "ESA's rolling call for CHEOPS observing time during the second extended mission; the Guest Observers Programme gives the worldwide scientific community access to CHEOPS time.",
+ "f": "ESA / CHEOPS Science Operations Centre",
+ "fields": [
+  "astro"
+ ],
+ "id": "cheops-running-call",
+ "n": "CHEOPS Guest Observers Running Call",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "rolling",
+ "src": "other:cheops-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://www.cosmos.esa.int/web/cheops-guest-observers-programme/cheops-running-call",
+ "unv": "PI eligibility details are in the Policies and Procedures document, which was not checked; no funding information on the call page.",
+ "us": false
+}

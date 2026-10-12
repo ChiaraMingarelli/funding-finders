@@ -1,0 +1,32 @@
+{
+ "a": "US$75,000 per year in total, usually three grants of US$25,000",
+ "added": "2026-10-12",
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-12",
+ "d": "2027-03-22",
+ "dt": "22 Mar 2027, 11:59 pm Paris time (UTC+1); reference letters must also arrive by then",
+ "e": "Grant toward a postdoctoral appointment for early-career astronomers in any area of astrophysics, within three years of the PhD defence (final-year PhD students with a confirmed postdoc contract may apply). The host institution must be in a different country from the PhD institution (or from the previous postdoc institution); no nationality limits.",
+ "f": "International Astronomical Union / Gruber Foundation",
+ "fields": [
+  "astro"
+ ],
+ "id": "iau-gruber-fellowship-2027",
+ "n": "IAU Gruber Fellowship 2027",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "other:iau-gruber-fellowship-2027",
+ "stages": [
+  "gr",
+  "pd"
+ ],
+ "u": "https://iau.org/IAU/News/Ann2026/GruberFellowship2027.aspx",
+ "us": false
+}

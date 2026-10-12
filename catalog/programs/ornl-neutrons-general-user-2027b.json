@@ -1,0 +1,33 @@
+{
+ "a": "Neutron beamtime at the Spallation Neutron Source and High Flux Isotope Reactor",
+ "added": "2026-10-12",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Instrumentation",
+ "checked": "2026-10-12",
+ "d": "2027-03-10",
+ "dt": "2027-B call open now; submissions due March 10, 2027, for experiments July to December 2027",
+ "e": "Peer-reviewed beamtime for neutron scattering and imaging, for example magnetic structure, spin dynamics and phonons in quantum materials. General user proposals are submitted through the ORNL proposal system (IPTS).",
+ "f": "Oak Ridge National Laboratory / DOE BES",
+ "fields": [
+  "cmx",
+  "mat",
+  "inst"
+ ],
+ "id": "ornl-neutrons-general-user-2027b",
+ "n": "ORNL SNS/HFIR neutron General User Proposals – cycle 2027-B",
+ "nom": false,
+ "pt": "other",
+ "s": "open",
+ "src": "other:ornl-neutrons-gup-2027b",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://neutrons-user-facilities.ornl.gov/proposal-calls/",
+ "unv": "Which SNS and HFIR instruments are offered in 2027-B, the cost policy and eligibility of non-US users not confirmed (the site blocks automated access to some pages)"
+}

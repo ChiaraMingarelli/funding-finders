@@ -1,0 +1,33 @@
+{
+ "a": "Small allocations on OLCF leadership systems for up to 12 months",
+ "added": "2026-10-12",
+ "aud": [
+  "yale",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Compute",
+ "checked": "2026-10-12",
+ "d": null,
+ "dt": "Applications accepted year-round",
+ "e": "Year-round requests for time on Oak Ridge leadership-class supercomputers, aimed at preparing and scaling codes for INCITE or ALCC proposals and at application performance work. Requests are reviewed by the OLCF Resource Utilization Council and independent referees.",
+ "f": "DOE Office of Science / Oak Ridge Leadership Computing Facility",
+ "fields": [
+  "ds",
+  "all"
+ ],
+ "id": "olcf-directors-discretionary-allocations",
+ "n": "OLCF Director's Discretionary (DD) allocations",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "other:olcf-dd",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.olcf.ornl.gov/for-users/getting-started/",
+ "unv": "The OLCF page still quotes typical award sizes (15,000-20,000 node hours) for the retired Summit system, so the current award size is not confirmed; PI eligibility rules not stated on the page"
+}

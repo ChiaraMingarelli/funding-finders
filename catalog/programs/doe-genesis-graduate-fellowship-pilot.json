@@ -1,0 +1,36 @@
+{
+ "a": "$12M to $25M per award over 5 years; about 5 awards ($100M total)",
+ "added": "2026-10-12",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Training",
+ "checked": "2026-10-12",
+ "d": "2027-01-12",
+ "dt": "Required letter of intent by 5 PM ET Nov 9, 2026 (LOI responses by Nov 23); applications by 11:59 PM ET Jan 12, 2027; webinar Nov 4, 2026",
+ "e": "Institutional grants for four-year PhD training pilots that pair AI (\"super intelligence\") with another science discipline, with research stints at a DOE national laboratory or SC user facility and in industry, tied to the Genesis Mission science challenges. Lead must be a US doctoral-granting institution, one LOI or application per lead institution; Fellows must be US citizens or permanent residents, with no such limit on PIs or mentors.",
+ "f": "DOE Office of Science",
+ "fields": [
+  "all",
+  "ds"
+ ],
+ "id": "doe-genesis-graduate-fellowship-pilot",
+ "n": "DOE Genesis Mission Graduate Fellowship Pilot (DE-FOA-0003673)",
+ "nofo": [
+  {
+   "opp": "DE-FOA-0003673",
+   "u": "https://simpler.grants.gov/opportunity/06db55bd-0a2a-4057-bfcd-eb2ebb4a13ab"
+  }
+ ],
+ "nom": true,
+ "s": "open",
+ "src": "grants:DE-FOA-0003673",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://science.osti.gov/grants/FOAs/Open",
+ "us": false
+}

@@ -1,0 +1,31 @@
+{
+ "a": "About 200 hours of mm-VLBI time on the four 21 m KVN telescopes, with simultaneous 22/43/86/129 GHz observing. No funding.",
+ "added": "2026-10-12",
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-12",
+ "d": "2026-11-02",
+ "dt": "Deadline 2 Nov 2026, 09:00 UT (18:00 KST); submission via the KVN website opened 1 Oct 2026. Observations 16 Jan to 15 Jun 2027 (can be spread to 15 Jan 2028 if requested).",
+ "e": "KASI invites VLBI proposals for the Korean VLBI Network from astronomers around the world. (The separate KVN single-dish call is for the Korean community only.)",
+ "f": "Korea Astronomy and Space Science Institute (KASI)",
+ "fields": [
+  "astro"
+ ],
+ "id": "kvn-vlbi-2027a",
+ "n": "Korean VLBI Network (KVN) VLBI Semester 2027A Call for Proposals",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "open",
+ "src": "other:kvn-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://radio.kasi.re.kr/cfp_view.php?id=56",
+ "unv": "Graduate-student PI eligibility is not stated.",
+ "us": false
+}

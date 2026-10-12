@@ -1,0 +1,31 @@
+{
+ "a": "VLBI time at 6.7, 22 and 43 GHz on up to 13 telescopes (KaVA, Nobeyama 45 m, Takahagi, Hitachi, Yamaguchi, Sejong); up to 500 hours in total for 2027A. Chinese telescopes do not take part in 2027A. No funding.",
+ "added": "2026-10-12",
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-12",
+ "d": "2026-11-02",
+ "dt": "Deadline Mon 2 Nov 2026, 08:00 UT; submission via the EAVN website opened 1 Oct 2026. Observations 16 Jan to 15 Jun 2027.",
+ "e": "Open-use call for VLBI observations with the East Asian VLBI Network. The EAVN status report says the open-use call is for astronomers in the world; proposers new to EAVN are advised to include an EAVN collaborator.",
+ "f": "KASI / NAOJ (East Asian VLBI Network)",
+ "fields": [
+  "astro"
+ ],
+ "id": "eavn-2027a",
+ "n": "East Asian VLBI Network (EAVN) Semester 2027A Call for Proposals",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "open",
+ "src": "other:eavn-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://radio.kasi.re.kr/cfp_view.php?id=54",
+ "unv": "Graduate-student PI eligibility is not stated.",
+ "us": false
+}

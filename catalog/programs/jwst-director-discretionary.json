@@ -1,0 +1,31 @@
+{
+ "a": "JWST time for scientifically urgent programs (up to 10% of JWST time is reserved for DD); funding depends on the current cycle budget",
+ "added": "2026-10-12",
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-12",
+ "d": null,
+ "dt": "Proposals may be submitted at any time through APT",
+ "e": "JWST's always-open channel for scientifically urgent observations, such as timely follow-up of new discoveries, that cannot wait for the annual cycle. Proposals follow the rules of the current JWST Call for Proposals and receive an internal urgency review.",
+ "f": "STScI / NASA",
+ "fields": [
+  "astro"
+ ],
+ "id": "jwst-director-discretionary",
+ "n": "JWST Director's Discretionary Time",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "rolling",
+ "src": "other:jwst-dd-cfp",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-cycle-5-director-s-discretionary-dd-time-proposals",
+ "unv": "Student PI eligibility and funding level for DD programs are not stated on the DD page.",
+ "us": false
+}

@@ -1,0 +1,33 @@
+{
+ "a": "Magnet time free of charge",
+ "added": "2026-10-12",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Instrumentation",
+ "checked": "2026-10-12",
+ "d": "2026-11-13",
+ "dt": "Spring 2027 magnet time (Jan 18 to May 16, 2027) requests due Fri Nov 13, 2026; Summer 2027 due Mar 12, 2027; Fall 2027 due Jul 16, 2027",
+ "e": "Peer-reviewed user time in high-field DC (resistive, hybrid, superconducting) and pulsed magnets, for example for transport, optical and thermodynamic measurements on quantum materials. A proposal is needed for every facility and stays valid for three years; DC Field and Pulsed Field also require a prior-results report.",
+ "f": "National High Magnetic Field Laboratory (NSF / State of Florida)",
+ "fields": [
+  "cmx",
+  "mat",
+  "inst"
+ ],
+ "id": "nhmfl-dc-pulsed-field-magnet-time-spring-2027",
+ "n": "National MagLab DC Field / Pulsed Field magnet time (Spring 2027)",
+ "nom": false,
+ "pt": "other",
+ "s": "open",
+ "src": "other:nhmfl-dc-pff-2027",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://nationalmaglab.org/user-facilities/dc-field/",
+ "unv": "A search summary reported that the water-cooled resistive and hybrid DC magnets are shut down from mid-November 2026 through April 2027 for maintenance; not confirmed on the deadline page. Eligibility of non-US users not checked"
+}
