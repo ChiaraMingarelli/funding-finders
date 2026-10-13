@@ -4922,6 +4922,39 @@
  },
  {
   "a": "not listed",
+  "added": "2026-10-13",
+  "asub": [
+   "he",
+   "inst"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-13",
+  "d": "2027-08-31",
+  "dt": "INSPIRE lists deadline Aug 31, 2027",
+  "e": "Postdocs in the IHEP AMS-02 group on the L0 silicon tracker upgrade, calibration/software and cosmic-ray physics analysis. Requires a PhD in physics or related field; no citizenship limit stated.",
+  "f": "Institute of High Energy Physics, Chinese Academy of Sciences",
+  "fields": [
+   "astro",
+   "ppx",
+   "inst"
+  ],
+  "id": "ihep-beijing-ams-cosmic-ray-postdocs",
+  "n": "IHEP Beijing: Postdoctoral Positions with the AMS Group",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3210876",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3210876",
+  "unv": "No host ad URL; deadline only from INSPIRE",
+  "us": false
+ },
+ {
+  "a": "not listed",
   "added": "2026-09-30",
   "asub": [
    "inst"
@@ -7600,6 +7633,37 @@
   "us": true
  },
  {
+  "a": "not listed (competitive salary with pension)",
+  "added": "2026-10-13",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-13",
+  "d": "2026-12-01",
+  "dt": "Apply via AJO by Dec 1, 2026; later expressions of interest may be considered",
+  "e": "Two-year postdoc (possible third year) from fall 2027 in Andrew Chael's group on black hole accretion, jets and GRMHD simulations tied to Event Horizon Telescope and Black Hole Explorer data. No citizenship restriction stated.",
+  "f": "Niels Bohr International Academy, Niels Bohr Institute, University of Copenhagen (Andrew Chael group)",
+  "fields": [
+   "astro",
+   "grav"
+  ],
+  "id": "nbi-copenhagen-near-horizon-bh-postdoc-2027",
+  "n": "Niels Bohr Institute (NBIA), University of Copenhagen: Postdoctoral Fellowship in Near-Horizon Black Hole Science",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:32991",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32991",
+  "unv": "AJO shows posted 2026/10/07 (flagged new on listing).",
+  "us": false
+ },
+ {
   "a": "Funded PhD fellowship (ERC Synergy Grant GWSky)",
   "added": "2026-10-07",
   "asub": [
@@ -9565,6 +9629,38 @@
   ],
   "u": "https://gsas.yale.edu/resources/yale-data-science-fellows-program",
   "unv": "The exact 2027 dates are not posted.",
+  "us": false
+ },
+ {
+  "a": "not listed (salary and research funds provided)",
+  "added": "2026-10-13",
+  "asub": [
+   "star",
+   "galac",
+   "xgal"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-13",
+  "d": "2027-01-12",
+  "dt": "Review begins Jan 12, 2027; later applications may be considered",
+  "e": "Postdoctoral fellowship from fall 2027 (two years, expected third) in stellar astrophysics or galaxy evolution, with emphasis on stellar evolution, populations, supernovae and remnants. No citizenship restriction stated.",
+  "f": "University of Pittsburgh, PITT PACC, Department of Physics and Astronomy",
+  "fields": [
+   "astro"
+  ],
+  "id": "pitt-langley-postdoc-fellow-2027",
+  "n": "University of Pittsburgh (PITT PACC): Samuel P. Langley Postdoctoral Fellow",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33039",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33039",
+  "unv": "Separate from the Langley Senior Postdoctoral Fellow posting (ajo:32976).",
   "us": false
  },
  {
@@ -11558,6 +11654,37 @@
   ],
   "u": "https://www.astro.ufl.edu/reu",
   "unv": "The page does not state citizenship limits (NSF REU sites normally require US citizenship or permanent residence). Program dates are tentative."
+ },
+ {
+  "a": "$60,000 per year plus travel funding and benefits",
+  "added": "2026-10-13",
+  "asub": [
+   "he",
+   "xgal"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-13",
+  "d": "2026-12-04",
+  "dt": "Full consideration by Dec 4, 2026; posting closes Feb 28, 2027",
+  "e": "Postdoc on supermassive black hole astrophysics with Prof. Laura Blecha, with preference for modeling GW or multi-messenger source populations and black hole-galaxy coevolution; start Aug 16, 2027, renewable for two years and possibly a third. Requires a PhD in astronomy, physics, or a related field by appointment; no citizenship restriction stated.",
+  "f": "University of Florida, Department of Physics (Laura Blecha)",
+  "fields": [
+   "astro",
+   "grav"
+  ],
+  "id": "uf-blecha-smbh-postdoc-2027",
+  "n": "University of Florida: Postdoctoral Associate in Astrophysics (supermassive black holes, Blecha group)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:ufl-541476",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://explore.jobs.ufl.edu/en-us/job/541476/postdoctoral-associate-astrophysics",
+  "us": false
  },
  {
   "a": "Stipend at a GW group abroad",

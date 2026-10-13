@@ -2226,6 +2226,28 @@
   ]
  },
  {
+  "id": "fermilab-wilson-fellowship-2027",
+  "n": "Fermilab: 2027 Wilson Fellowship (Associate Scientist)",
+  "f": "Fermilab",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2026-12-04",
+  "dt": "Applications and letters complete by 11:59 PM ET, Dec 4, 2026",
+  "a": "Associate Scientist; salary not listed",
+  "e": "Competitive fellowship for assistant-professor-level experimental physicists with 2+ years past PhD to do self-directed research on a Fermilab experiment; 3-year term, renewable 2 years, with possible later appointment without term limit. This year emphasizes neutrino, muon and collider physics; no citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33040",
+  "us": false,
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "finca-turku-postdoctoral-researcher-positions",
   "n": "FINCA (Finnish Centre for Astronomy with ESO): Postdoctoral Researcher Positions",
   "f": "Finnish Centre for Astronomy with ESO (FINCA), University of Turku",
@@ -3532,6 +3554,27 @@
   ]
  },
  {
+  "id": "fj-nsysu-physics-tenure-track-open-rank-2027",
+  "n": "National Sun Yat-sen University: Tenure-Track Faculty Positions in Physics (open rank)",
+  "f": "National Sun Yat-sen University, Department of Physics (Kaohsiung, Taiwan)",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-11-30",
+  "dt": "Review begins Nov 30, 2026, until filled; apply by email to physaa@mail.nsysu.edu.tw",
+  "a": "Assistant, associate or full professor; salary not listed",
+  "e": "Several tenure-track positions at all ranks starting Aug 1, 2027; experimental condensed matter is highest priority, with QIS, quantum optics and other areas including astrophysics also considered. No citizenship restriction stated; English-language teaching expected.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33052",
+  "us": false,
+  "nom": false,
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
   "id": "fj-ntu-ccms-tt-research-fellow",
   "n": "National Taiwan University CCMS: Tenure-Track Research Fellow",
   "f": "National Taiwan University, Center for Condensed Matter Sciences",
@@ -3572,6 +3615,27 @@
    "fj"
   ],
   "d": null
+ },
+ {
+  "id": "fj-ohio-state-experimental-photonics-open-rank",
+  "n": "Ohio State University: Open-Rank Tenure-Track Faculty, Experimental Photonics Physics",
+  "f": "Ohio State University, Department of Physics",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-11-01",
+  "dt": "Review began Oct 15, 2026; final deadline Nov 1, 2026 (apply via Workday)",
+  "a": "Open rank (assistant/associate/full); salary not listed",
+  "e": "Tenure-track experimental physics hire on photonic phenomena, materials and devices, starting autumn 2027. No citizenship restriction stated.",
+  "u": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Open-Rank-Tenure-Track-Faculty-Position-in-Experimental-Photonics-Physics_R159856",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
+  "stages": [
+   "fj"
+  ]
  },
  {
   "id": "fj-ohio-state-open-rank-theoretical-hep-astrophysics",
@@ -4295,6 +4359,28 @@
   ]
  },
  {
+  "id": "fj-uiuc-exp-condensed-matter-qis-open-rank-2027",
+  "n": "University of Illinois Urbana-Champaign: Open-Rank Faculty, Experimental Condensed Matter and Quantum Information Science",
+  "f": "University of Illinois Urbana-Champaign, Department of Physics",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-11-02",
+  "dt": "Full consideration by Nov 2, 2026; accepted until filled; apply at go.physics.illinois.edu/ECMQIS26",
+  "a": "Open rank (assistant/associate/full); salary in full announcement",
+  "e": "One open-rank tenure-track position in experimental quantum physics broadly defined (QIS, condensed matter, AMO). No citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33045",
+  "unv": "Salary details are on the linked university announcement, not checked.",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
   "id": "fj-uiuc-open-rank-qis-theory",
   "n": "University of Illinois Urbana-Champaign: Open-Rank Professor, Theoretical Quantum Information Science",
   "f": "University of Illinois Urbana-Champaign, Department of Physics",
@@ -4720,6 +4806,28 @@
   ]
  },
  {
+  "id": "fj-utah-state-math-foundations-qis",
+  "n": "Utah State University: Assistant Professor in the Mathematical Foundations of Quantum Information Science",
+  "f": "Utah State University, Department of Mathematics and Statistics",
+  "c": "Faculty job",
+  "s": "rolling",
+  "dt": "Review begins Nov 23, 2026; open until filled (apply on USU jobs site and MathJobs #29077)",
+  "a": "Tenure-track assistant professor; minimum $90,000",
+  "e": "Tenure-track position in a mathematics department for research bridging mathematics and quantum information science, starting Aug 1, 2027; PhD in math, physics, CS, engineering or related field. No citizenship restriction stated.",
+  "u": "https://careers-usu.icims.com/jobs/10792/assistant-professor-in-the-mathematical-foundations-of-quantum-information-science/job",
+  "unv": "AJO shows posted 2026/10/08; housed in mathematics, not physics.",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
+  "stages": [
+   "fj"
+  ],
+  "d": null
+ },
+ {
   "id": "fj-utep-asst-prof-observational-astronomy",
   "n": "UTEP: Asst Prof, Observational Astronomy",
   "f": "Dept. of Physics, University of Texas at El Paso",
@@ -4821,6 +4929,27 @@
   "nfit": "Low",
   "checked": "2026-10-12",
   "added": "2026-10-01",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
+  "id": "fj-virginia-tech-theoretical-neutrino-physics",
+  "n": "Virginia Tech: Tenure-Track Assistant Professor in Theoretical Neutrino Physics",
+  "f": "Virginia Tech",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-11-09",
+  "dt": "Full consideration by Nov 9, 2026 (review begins then, continues until filled)",
+  "a": "Assistant Professor, tenure-track; salary not listed",
+  "e": "Tenure-track assistant professor in theoretical neutrino physics (phenomenology/model building, neutrino astrophysics and cosmology, theory-data interfaces) in the Center for Neutrino Physics. Requires a PhD and postdoctoral experience by the August 10, 2027 start; no citizenship limit stated.",
+  "u": "https://jobs.apply.vt.edu/jobs/tenure-track-faculty-position-in-theoretical-neutrino-physics-blacksburg-virginia-united-states",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
   "stages": [
    "fj"
   ]
@@ -5764,6 +5893,29 @@
   ]
  },
  {
+  "id": "ihep-beijing-ams-cosmic-ray-postdocs",
+  "n": "IHEP Beijing: Postdoctoral Positions with the AMS Group",
+  "f": "Institute of High Energy Physics, Chinese Academy of Sciences",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-08-31",
+  "dt": "INSPIRE lists deadline Aug 31, 2027",
+  "a": "not listed",
+  "e": "Postdocs in the IHEP AMS-02 group on the L0 silicon tracker upgrade, calibration/software and cosmic-ray physics analysis. Requires a PhD in physics or related field; no citizenship limit stated.",
+  "u": "https://inspirehep.net/jobs/3210876",
+  "unv": "No host ad URL; deadline only from INSPIRE",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "ihep-beijing-ams-postdoc",
   "n": "IHEP Beijing: AMS postdoc",
   "f": "Institute of High Energy Physics, Beijing; contact Qi Yan",
@@ -6047,6 +6199,28 @@
    "pd"
   ],
   "d": null
+ },
+ {
+  "id": "iphc-strasbourg-fcc-ee-vertex-detector-postdoc",
+  "n": "IPHC Strasbourg (CNRS): Postdoc on FCC-ee Vertex Detector Development",
+  "f": "IPHC Strasbourg (CNRS)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-02",
+  "dt": "CNRS application deadline Nov 2, 2026 (INSPIRE lists Dec 1)",
+  "a": "EUR 3,072-4,258.87 gross monthly by experience; 36 months",
+  "e": "Three-year ANR-funded postdoc on the FCC-SEED curved-MAPS vertex detector for FCC-ee: sensor tests, test beams, Key4hep simulation and physics performance studies. Requires a PhD in particle physics; no citizenship limit stated.",
+  "u": "https://emploi.cnrs.fr/Offres/CDD/UMR7178-REGSOM-267/Default.aspx?lang=EN",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
+  "stages": [
+   "pd"
+  ]
  },
  {
   "id": "ipta-student-week",
@@ -6355,6 +6529,28 @@
   "nfit": "Medium",
   "checked": "2026-10-12",
   "added": "2026-09-29",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "kit-ttp-postdocs-theoretical-particle-physics",
+  "n": "KIT TTP: Postdoctoral Positions in Theoretical Particle Physics",
+  "f": "Karlsruhe Institute of Technology, Institute for Theoretical Particle Physics",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-06",
+  "dt": "Deadline Dec 6, 2026; later applications considered while openings exist",
+  "a": "not listed",
+  "e": "Several postdoctoral positions in theoretical particle physics (collider, Higgs, QCD, flavor, dark matter, ML methods) starting fall 2027. Requires a PhD in theoretical particle physics; apply by email; no citizenship limit stated.",
+  "u": "https://www.ttp.kit.edu",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
   "stages": [
    "pd"
   ]
@@ -7639,6 +7835,29 @@
   ]
  },
  {
+  "id": "nbi-copenhagen-near-horizon-bh-postdoc-2027",
+  "n": "Niels Bohr Institute (NBIA), University of Copenhagen: Postdoctoral Fellowship in Near-Horizon Black Hole Science",
+  "f": "Niels Bohr International Academy, Niels Bohr Institute, University of Copenhagen (Andrew Chael group)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-01",
+  "dt": "Apply via AJO by Dec 1, 2026; later expressions of interest may be considered",
+  "a": "not listed (competitive salary with pension)",
+  "e": "Two-year postdoc (possible third year) from fall 2027 in Andrew Chael's group on black hole accretion, jets and GRMHD simulations tied to Event Horizon Telescope and Black Hole Explorer data. No citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/32991",
+  "unv": "AJO shows posted 2026/10/07 (flagged new on listing).",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "High",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "nbi-gwsky-phd-gw-theory-self-force",
   "n": "Niels Bohr Institute (Center of Gravity): ERC-funded PhD in gravitational-wave theory (GWSky, self-force)",
   "f": "Niels Bohr Institute, University of Copenhagen, Center of Gravity (Maarten van de Meent)",
@@ -8691,6 +8910,29 @@
   ]
  },
  {
+  "id": "pitt-langley-postdoc-fellow-2027",
+  "n": "University of Pittsburgh (PITT PACC): Samuel P. Langley Postdoctoral Fellow",
+  "f": "University of Pittsburgh, PITT PACC, Department of Physics and Astronomy",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2027-01-12",
+  "dt": "Review begins Jan 12, 2027; later applications may be considered",
+  "a": "not listed (salary and research funds provided)",
+  "e": "Postdoctoral fellowship from fall 2027 (two years, expected third) in stellar astrophysics or galaxy evolution, with emphasis on stellar evolution, populations, supernovae and remnants. No citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33039",
+  "unv": "Separate from the Langley Senior Postdoctoral Fellow posting (ajo:32976).",
+  "us": false,
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "pku-kiaa-planet-formation-fellowship-2027",
   "n": "Peking University KIAA: Planet Formation Fellowship",
   "f": "Kavli Institute for Astronomy and Astrophysics, Peking University",
@@ -8912,6 +9154,98 @@
   "added": "2026-09-29",
   "stages": [
    "gr",
+   "pd"
+  ],
+  "d": null
+ },
+ {
+  "id": "sandia-697934-quantum-photonics-pd",
+  "n": "Sandia National Laboratories: Postdoctoral Appointee, Quantum Photonics, Onsite",
+  "f": "Sandia National Laboratories, Photonic Microsystems Technologies Department",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Posted 2026-10-01 (req 697934); open a minimum of 3 days, no closing date stated",
+  "a": "not listed",
+  "e": "Experimental postdoc designing and testing photonic devices and integrated circuits for trapped-ion quantum computing, Albuquerque, onsite. PhD in physics, EE, applied physics or related field within 5 years; requires a DOE Q clearance, so U.S. citizenship is required.",
+  "u": "https://sandia.jobs/albuquerque-nm/postdoctoral-appointee-quantum-photonics-onsite/02B28E08B13849EABF1334F3E3B7ACCC/job/",
+  "unv": "Posted 2026-10-01, a week before the requested window. Salary not stated.",
+  "us": true,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
+  "id": "sandia-699126-quantum-computer-science-pd",
+  "n": "Sandia National Laboratories: Postdoctoral Appointee, Quantum Computer Science",
+  "f": "Sandia National Laboratories (Quantum Performance Laboratory, QuAAC and Q-ARCH groups)",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Posted 2026-10-06 (req 699126); open a minimum of 3 days, no closing date stated",
+  "a": "not listed",
+  "e": "Theory postdoc in Sandia's quantum computing theory groups: benchmarking and modeling of quantum hardware, quantum algorithms, fault-tolerant architectures and error correction. PhD within 5 years of employment; the posting says no DOE clearance is currently required, with onsite (Albuquerque or Livermore) and/or remote options.",
+  "u": "https://sandia.jobs/albuquerque-nm/postdoctoral-appointee-quantum-computer-science/B844DF48925A4AE19F7BF32842E494C7/job/",
+  "unv": "Sandia job pages are rendered by JavaScript; text verified via the sandia.jobs search API and QED-C job board. Salary not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
+  "id": "sandia-699304-trapped-ion-quantum-computing-pd",
+  "n": "Sandia National Laboratories: Postdoctoral Appointee, Quantum Computing (trapped ions), Onsite",
+  "f": "Sandia National Laboratories, Photonic Microsystems Technologies Department",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Posted 2026-10-08 (req 699304); open a minimum of 3 days, no closing date stated",
+  "a": "not listed",
+  "e": "Experimental postdoc on quantum information and sensing with trapped ions in surface-electrode trap chips made in Sandia's MESA facility, Albuquerque, onsite. PhD in physics, engineering or related field within 5 years of start; requires a DOE Q clearance, so U.S. citizenship is required.",
+  "u": "https://sandia.jobs/albuquerque-nm/postdoctoral-appointee-quantum-computing-onsite/170BC27F4CE94F47AB59EC238CE9AF9F/job/",
+  "unv": "Sandia job pages are rendered by JavaScript; text verified via the sandia.jobs search API. Salary not stated.",
+  "us": true,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
+  "id": "sandia-699334-integrated-photonics-pd",
+  "n": "Sandia National Laboratories: Postdoctoral Appointee, Integrated Photonics, Onsite",
+  "f": "Sandia National Laboratories, Photonic and Phononic Microsystems Department (National Security Photonics Center)",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Posted 2026-10-08 (req 699334); open a minimum of 3 days, no closing date stated",
+  "a": "not listed",
+  "e": "Postdoc on silicon and heterogeneous integrated photonic devices for quantum (networks, clocks, inertial sensors), RF, data-communication and harsh-environment uses, with fabrication at MESA, Albuquerque, onsite. PhD in physics, EE, optics or related field within 5 years; requires a DOE Q clearance, so U.S. citizenship is required.",
+  "u": "https://sandia.jobs/albuquerque-nm/postdoctoral-appointee-integrated-photonics-onsite/3A82C9A87EE345C090A11C6D3FFE39BB/job/",
+  "unv": "A separate Sandia integrated-photonics postdoc (req 699236, posted 2026-09-30) also exists; this row is the 2026-10-08 req 699334. Salary not stated.",
+  "us": true,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
+  "stages": [
    "pd"
   ],
   "d": null
@@ -9897,6 +10231,28 @@
   ]
  },
  {
+  "id": "ucsd-hep-theory-postdoc-2027",
+  "n": "UC San Diego: Postdoctoral Researcher in High Energy Theory",
+  "f": "University of California, San Diego, High Energy Theory group",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-01",
+  "dt": "Full consideration by Dec 1, 2026 (AJO)",
+  "a": "not listed",
+  "e": "Postdoc in hep-th starting fall 2027, funded as a postdoctoral member of the Simons Collaboration on Global Categorical Symmetries. No citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33050",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "uf-astronomy-reu-2027",
   "n": "UF Astronomy REU (Summer 2027)",
   "f": "University of Florida, Department of Astronomy",
@@ -9915,6 +10271,28 @@
   "added": "2026-10-07",
   "stages": [
    "ug"
+  ]
+ },
+ {
+  "id": "uf-blecha-smbh-postdoc-2027",
+  "n": "University of Florida: Postdoctoral Associate in Astrophysics (supermassive black holes, Blecha group)",
+  "f": "University of Florida, Department of Physics (Laura Blecha)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-04",
+  "dt": "Full consideration by Dec 4, 2026; posting closes Feb 28, 2027",
+  "a": "$60,000 per year plus travel funding and benefits",
+  "e": "Postdoc on supermassive black hole astrophysics with Prof. Laura Blecha, with preference for modeling GW or multi-messenger source populations and black hole-galaxy coevolution; start Aug 16, 2027, renewable for two years and possibly a third. Requires a PhD in astronomy, physics, or a related field by appointment; no citizenship restriction stated.",
+  "u": "https://explore.jobs.ufl.edu/en-us/job/541476/postdoctoral-associate-astrophysics",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "High",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
+  "stages": [
+   "pd"
   ]
  },
  {
@@ -9958,6 +10336,51 @@
   "nfit": "High",
   "checked": "2026-10-12",
   "added": "2026-10-07",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "uiuc-hep-theory-postdoc-2027",
+  "n": "University of Illinois Urbana-Champaign: Postdoctoral Research Associate in High Energy Theory (some joint with Fermilab)",
+  "f": "University of Illinois Urbana-Champaign, High Energy Theory group",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-11",
+  "dt": "Apply via AJO by Dec 11, 2026 for full consideration",
+  "a": "not listed",
+  "e": "One or more two-year postdocs (possible third year) from fall 2027 in dark matter phenomenology, lattice QCD, particle cosmology, QFT, quantum gravity/strings or QIS; some positions joint with Fermilab. PhD within 10 years of start date; no citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33043",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "uiuc-iquist-postdoctoral-scholars",
+  "n": "UIUC IQUIST: Postdoctoral Scholars Program",
+  "f": "University of Illinois Urbana-Champaign, Illinois Quantum Information Science and Technology Center (IQUIST)",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2026-11-20",
+  "dt": "Review begins Oct 15 (submission encouraged by then); applications accepted through Nov 20, 2026",
+  "a": "Supplemental financial award (amount not listed); up to two years",
+  "e": "Supplemental fellowship award for quantum-science postdocs who hold, or will start within a year, a postdoc appointment with a UIUC faculty member; requires a nomination letter from the sponsoring IQUIST PI and PhD within the last 5 years. Citizenship limits not stated.",
+  "u": "https://iquist.illinois.edu/about/employment/postdoctoral-scholars",
+  "unv": "Posting date and award amount not stated on the page.",
+  "us": false,
+  "nom": true,
+  "pt": "prize",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
   "stages": [
    "pd"
   ]
@@ -10407,6 +10830,28 @@
    "ug"
   ],
   "d": null
+ },
+ {
+  "id": "uw-madison-het-postdoc-2027",
+  "n": "University of Wisconsin-Madison: High Energy/Nuclear Theory Postdoctoral Researcher",
+  "f": "University of Wisconsin-Madison, High Energy/Nuclear Theory Group",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-01",
+  "dt": "AJO deadline Dec 1, 2026",
+  "a": "not listed",
+  "e": "Postdoc starting fall 2027 in the theory group covering cosmology, nuclear theory, particle theory/phenomenology and string theory. No citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33041",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-13",
+  "added": "2026-10-13",
+  "stages": [
+   "pd"
+  ]
  },
  {
   "id": "vanderbilt-postdoc-on-black-holes-in-dwarf-galaxies",
