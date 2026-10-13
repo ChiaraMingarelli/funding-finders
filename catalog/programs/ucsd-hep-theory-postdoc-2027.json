@@ -1,0 +1,30 @@
+{
+ "a": "not listed",
+ "added": "2026-10-13",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-13",
+ "d": "2026-12-01",
+ "dt": "Full consideration by Dec 1, 2026 (AJO)",
+ "e": "Postdoc in hep-th starting fall 2027, funded as a postdoctoral member of the Simons Collaboration on Global Categorical Symmetries. No citizenship restriction stated.",
+ "f": "University of California, San Diego, High Energy Theory group",
+ "fields": [
+  "ppt"
+ ],
+ "id": "ucsd-hep-theory-postdoc-2027",
+ "n": "UC San Diego: Postdoctoral Researcher in High Energy Theory",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33050",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33050",
+ "us": false
+}

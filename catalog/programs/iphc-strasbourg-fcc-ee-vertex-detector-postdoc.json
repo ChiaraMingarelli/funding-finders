@@ -1,0 +1,31 @@
+{
+ "a": "EUR 3,072-4,258.87 gross monthly by experience; 36 months",
+ "added": "2026-10-13",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-13",
+ "d": "2026-11-02",
+ "dt": "CNRS application deadline Nov 2, 2026 (INSPIRE lists Dec 1)",
+ "e": "Three-year ANR-funded postdoc on the FCC-SEED curved-MAPS vertex detector for FCC-ee: sensor tests, test beams, Key4hep simulation and physics performance studies. Requires a PhD in particle physics; no citizenship limit stated.",
+ "f": "IPHC Strasbourg (CNRS)",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "iphc-strasbourg-fcc-ee-vertex-detector-postdoc",
+ "n": "IPHC Strasbourg (CNRS): Postdoc on FCC-ee Vertex Detector Development",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3213857",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://emploi.cnrs.fr/Offres/CDD/UMR7178-REGSOM-267/Default.aspx?lang=EN",
+ "us": false
+}

@@ -1,0 +1,33 @@
+{
+ "a": "not listed",
+ "added": "2026-10-13",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-13",
+ "d": null,
+ "dt": "Posted 2026-10-08 (req 699334); open a minimum of 3 days, no closing date stated",
+ "e": "Postdoc on silicon and heterogeneous integrated photonic devices for quantum (networks, clocks, inertial sensors), RF, data-communication and harsh-environment uses, with fabrication at MESA, Albuquerque, onsite. PhD in physics, EE, optics or related field within 5 years; requires a DOE Q clearance, so U.S. citizenship is required.",
+ "f": "Sandia National Laboratories, Photonic and Phononic Microsystems Department (National Security Photonics Center)",
+ "fields": [
+  "phot",
+  "dev"
+ ],
+ "id": "sandia-699334-integrated-photonics-pd",
+ "n": "Sandia National Laboratories: Postdoctoral Appointee, Integrated Photonics, Onsite",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:sandia-699334",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://sandia.jobs/albuquerque-nm/postdoctoral-appointee-integrated-photonics-onsite/3A82C9A87EE345C090A11C6D3FFE39BB/job/",
+ "unv": "A separate Sandia integrated-photonics postdoc (req 699236, posted 2026-09-30) also exists; this row is the 2026-10-08 req 699334. Salary not stated.",
+ "us": true
+}

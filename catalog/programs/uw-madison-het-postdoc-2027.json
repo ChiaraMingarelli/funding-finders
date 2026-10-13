@@ -1,0 +1,31 @@
+{
+ "a": "not listed",
+ "added": "2026-10-13",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-13",
+ "d": "2026-12-01",
+ "dt": "AJO deadline Dec 1, 2026",
+ "e": "Postdoc starting fall 2027 in the theory group covering cosmology, nuclear theory, particle theory/phenomenology and string theory. No citizenship restriction stated.",
+ "f": "University of Wisconsin-Madison, High Energy/Nuclear Theory Group",
+ "fields": [
+  "ppt",
+  "nut"
+ ],
+ "id": "uw-madison-het-postdoc-2027",
+ "n": "University of Wisconsin-Madison: High Energy/Nuclear Theory Postdoctoral Researcher",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33041",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33041",
+ "us": false
+}

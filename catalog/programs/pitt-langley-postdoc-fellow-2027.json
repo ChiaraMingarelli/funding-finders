@@ -1,0 +1,37 @@
+{
+ "a": "not listed (salary and research funds provided)",
+ "added": "2026-10-13",
+ "asub": [
+  "star",
+  "galac",
+  "xgal"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-13",
+ "d": "2027-01-12",
+ "dt": "Review begins Jan 12, 2027; later applications may be considered",
+ "e": "Postdoctoral fellowship from fall 2027 (two years, expected third) in stellar astrophysics or galaxy evolution, with emphasis on stellar evolution, populations, supernovae and remnants. No citizenship restriction stated.",
+ "f": "University of Pittsburgh, PITT PACC, Department of Physics and Astronomy",
+ "fields": [
+  "astro"
+ ],
+ "id": "pitt-langley-postdoc-fellow-2027",
+ "n": "University of Pittsburgh (PITT PACC): Samuel P. Langley Postdoctoral Fellow",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33039",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33039",
+ "unv": "Separate from the Langley Senior Postdoctoral Fellow posting (ajo:32976).",
+ "us": false
+}

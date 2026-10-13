@@ -1,0 +1,35 @@
+{
+ "a": "Supplemental financial award (amount not listed); up to two years",
+ "added": "2026-10-13",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-13",
+ "d": "2026-11-20",
+ "dt": "Review begins Oct 15 (submission encouraged by then); applications accepted through Nov 20, 2026",
+ "e": "Supplemental fellowship award for quantum-science postdocs who hold, or will start within a year, a postdoc appointment with a UIUC faculty member; requires a nomination letter from the sponsoring IQUIST PI and PhD within the last 5 years. Citizenship limits not stated.",
+ "f": "University of Illinois Urbana-Champaign, Illinois Quantum Information Science and Technology Center (IQUIST)",
+ "fields": [
+  "qp",
+  "amo",
+  "cmx",
+  "dev"
+ ],
+ "id": "uiuc-iquist-postdoctoral-scholars",
+ "n": "UIUC IQUIST: Postdoctoral Scholars Program",
+ "nfit": "Low",
+ "nom": true,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "other:uiuc-iquist-postdoc-scholars",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://iquist.illinois.edu/about/employment/postdoctoral-scholars",
+ "unv": "Posting date and award amount not stated on the page.",
+ "us": false
+}

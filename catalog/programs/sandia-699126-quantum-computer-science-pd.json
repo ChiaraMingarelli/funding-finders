@@ -1,0 +1,32 @@
+{
+ "a": "not listed",
+ "added": "2026-10-13",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-13",
+ "d": null,
+ "dt": "Posted 2026-10-06 (req 699126); open a minimum of 3 days, no closing date stated",
+ "e": "Theory postdoc in Sandia's quantum computing theory groups: benchmarking and modeling of quantum hardware, quantum algorithms, fault-tolerant architectures and error correction. PhD within 5 years of employment; the posting says no DOE clearance is currently required, with onsite (Albuquerque or Livermore) and/or remote options.",
+ "f": "Sandia National Laboratories (Quantum Performance Laboratory, QuAAC and Q-ARCH groups)",
+ "fields": [
+  "qp"
+ ],
+ "id": "sandia-699126-quantum-computer-science-pd",
+ "n": "Sandia National Laboratories: Postdoctoral Appointee, Quantum Computer Science",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:sandia-699126",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://sandia.jobs/albuquerque-nm/postdoctoral-appointee-quantum-computer-science/B844DF48925A4AE19F7BF32842E494C7/job/",
+ "unv": "Sandia job pages are rendered by JavaScript; text verified via the sandia.jobs search API and QED-C job board. Salary not stated.",
+ "us": false
+}

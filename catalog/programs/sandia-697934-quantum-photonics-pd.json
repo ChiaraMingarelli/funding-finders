@@ -1,0 +1,34 @@
+{
+ "a": "not listed",
+ "added": "2026-10-13",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-13",
+ "d": null,
+ "dt": "Posted 2026-10-01 (req 697934); open a minimum of 3 days, no closing date stated",
+ "e": "Experimental postdoc designing and testing photonic devices and integrated circuits for trapped-ion quantum computing, Albuquerque, onsite. PhD in physics, EE, applied physics or related field within 5 years; requires a DOE Q clearance, so U.S. citizenship is required.",
+ "f": "Sandia National Laboratories, Photonic Microsystems Technologies Department",
+ "fields": [
+  "phot",
+  "qp",
+  "amo"
+ ],
+ "id": "sandia-697934-quantum-photonics-pd",
+ "n": "Sandia National Laboratories: Postdoctoral Appointee, Quantum Photonics, Onsite",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:sandia-697934",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://sandia.jobs/albuquerque-nm/postdoctoral-appointee-quantum-photonics-onsite/02B28E08B13849EABF1334F3E3B7ACCC/job/",
+ "unv": "Posted 2026-10-01, a week before the requested window. Salary not stated.",
+ "us": true
+}
