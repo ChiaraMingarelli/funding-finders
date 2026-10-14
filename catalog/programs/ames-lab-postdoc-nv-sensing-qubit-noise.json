@@ -1,0 +1,35 @@
+{
+ "a": "",
+ "added": "2026-10-14",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-14",
+ "d": "2026-11-30",
+ "dt": "Posting closes Nov 30, 2026 (req. R20023)",
+ "e": "Experimental postdoc using NV-center quantum sensing in diamond, together with transmon noise spectroscopy, to find the microscopic origins of 1/f flux and charge noise in superconducting qubits. Includes commissioning a dilution refrigerator with optical access. The posting says the hire must obtain and maintain government access authorization and must disclose foreign-government-sponsored activities under DOE O 486.1A; it gives no explicit citizenship requirement.",
+ "f": "Ames National Laboratory (Iowa State University), Division of Materials Science and Engineering",
+ "fields": [
+  "dev",
+  "cmx",
+  "qp",
+  "mat"
+ ],
+ "id": "ames-lab-postdoc-nv-sensing-qubit-noise",
+ "n": "Ames National Laboratory: Postdoctoral Research Associate, NV-Center Sensing of 1/f Noise in Superconducting Qubits",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "other:ames-isu-R20023",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Postdoctoral-Research-Associate---Ames-National-Laboratory_R20023",
+ "unv": "Salary is not stated on the official posting.",
+ "us": false
+}

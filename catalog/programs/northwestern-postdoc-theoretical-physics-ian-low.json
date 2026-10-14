@@ -1,0 +1,34 @@
+{
+ "a": "Nominal 3-year term, starting Fall 2027",
+ "added": "2026-10-14",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-14",
+ "d": "2027-01-08",
+ "dt": "All materials by 2027-01-08 for full consideration; later applications may be reviewed",
+ "e": "One or more postdocs in Ian Low's group on QFT, particle and nuclear physics, quantum many-body physics, AI/ML and quantum information/simulation; applicants are also considered for joint positions with nearby national labs. No citizenship limits stated.",
+ "f": "Northwestern University, Department of Physics and Astronomy, Prof. Ian Low group",
+ "fields": [
+  "ppt",
+  "nut",
+  "qp",
+  "cmt"
+ ],
+ "id": "northwestern-postdoc-theoretical-physics-ian-low",
+ "n": "Northwestern University: Postdoctoral Scholar in Theoretical Physics (Ian Low group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3213935",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33058",
+ "unv": "Salary not stated; citizenship rules not stated. This is a different group from the existing row inspire:3205351 (Figueroa-Feliciano).",
+ "us": false
+}

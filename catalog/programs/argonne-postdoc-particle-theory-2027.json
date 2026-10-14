@@ -1,0 +1,31 @@
+{
+ "a": "Start Fall 2027 (Spring 2027 possible)",
+ "added": "2026-10-14",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-14",
+ "d": "2027-01-08",
+ "dt": "Full consideration for complete applications by 2027-01-08; late applications reviewed if open",
+ "e": "One or more postdocs in theoretical particle physics with an emphasis on phenomenology (collider physics, QCD, EFT, AI/ML, quantum simulation). Applies via AJO job 33073; no citizenship limits stated.",
+ "f": "Argonne National Laboratory, HEP Division, Particle Theory Group (contact Ian Low)",
+ "fields": [
+  "ppt"
+ ],
+ "id": "argonne-postdoc-particle-theory-2027",
+ "n": "Argonne National Laboratory: Postdoc in Particle Theory",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3213974",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33073",
+ "unv": "Salary and appointment length not stated; citizenship rules not stated; host AJO ad not opened.",
+ "us": false
+}

@@ -1,0 +1,31 @@
+{
+ "a": "2 years",
+ "added": "2026-10-14",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-14",
+ "d": "2026-10-27",
+ "dt": "Apply ideally by Oct 27, 2026; open until filled",
+ "e": "One 2-year postdoc with the IFAE ATLAS group on Run 2/3 analysis and HL-LHC upgrade work. Applicants need a PhD in experimental particle physics obtained within the last three years; no citizenship limits stated.",
+ "f": "Institut de Física d'Altes Energies (IFAE), ATLAS group (Imma Riu, Tamara Vázquez Schröder)",
+ "fields": [
+  "ppx"
+ ],
+ "id": "ifae-barcelona-atlas-postdoc-2026",
+ "n": "IFAE Barcelona: Postdoctoral Position in Hadron Collider Physics with ATLAS",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3213930",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3213930",
+ "unv": "Salary not stated; no host web ad (apply by email with ref. IFAE2026/26_ATLAS_2 Postdocs); start 'no later than Fall 2026' as stated.",
+ "us": false
+}
