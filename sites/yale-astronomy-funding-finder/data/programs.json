@@ -4616,6 +4616,37 @@
   "us": false
  },
  {
+  "a": "Rs. 58,000/month + HRA; 2 years",
+  "added": "2026-10-14",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-14",
+  "d": "2026-10-29",
+  "dt": "21 days from the 2026-10-08 advertisement (INSPIRE: 2026-10-29)",
+  "e": "One Research Associate-I post in particle phenomenology and astroparticle physics; requires a PhD (or thesis submitted within three months) and relevant publications. The INSPIRE listing says applications are invited from Indian nationals only.",
+  "f": "Indian Association for the Cultivation of Science, School of Physical Sciences (Dilip Kumar Ghosh)",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "iacs-kolkata-research-associate-particle-astroparticle",
+  "n": "IACS Kolkata: Research Associate-I (Postdoc) in Particle Phenomenology and Astroparticle Physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3213917",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.iacs.res.in/modules/careersrscientist/images/Rac_08-10-269402.pdf",
+  "unv": "The Indian-nationals restriction appears in the INSPIRE text but not in the host PDF.",
+  "us": false
+ },
+ {
   "a": "R$12,570/month; 1 year, renewable",
   "added": "2026-09-30",
   "asub": [
@@ -5487,6 +5518,32 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32911",
+  "us": false
+ },
+ {
+  "a": "$63,480–$75,000 salary; 1-year appointment renewable up to 3 years",
+  "added": "2026-10-14",
+  "c": "Fellowship",
+  "checked": "2026-10-14",
+  "d": null,
+  "dt": "Rolling; no deadline stated",
+  "e": "Department-wide postdoctoral positions for independent research under faculty mentorship in any of the department's areas, including condensed matter, AMO, biological physics and astrophysics. Applicants submit a 2-page research proposal and name up to two faculty members. No citizenship restriction is stated.",
+  "f": "Johns Hopkins University, William H. Miller III Department of Physics and Astronomy",
+  "fields": [
+   "all"
+  ],
+  "id": "jhu-postdoctoral-fellowship-physics-astronomy-2027",
+  "n": "Johns Hopkins: Postdoctoral Fellowship in Physics and Astronomy (department-wide, incl. condensed matter & AMO)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "rolling",
+  "src": "ajo:33060",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33060",
   "us": false
  },
  {
@@ -6703,38 +6760,6 @@
   "us": false
  },
  {
-  "a": "3 years (2027-2030); competitive salary plus EUR 10,000/yr research funds",
-  "added": "2026-10-01",
-  "asub": [
-   "cos"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-10-13",
-  "dt": "Nominations due Tue Oct 13, 2026 (nomination by a faculty member or senior researcher)",
-  "e": "Fully independent 3-year fellowships for experienced postdocs in particle and astroparticle physics, nuclear and hadron physics, cosmology and mathematical physics. Candidates must be nominated by a faculty member or senior researcher; no reference letter needed at nomination.",
-  "f": "Mainz Institute for Theoretical Physics (MITP), Johannes Gutenberg University Mainz",
-  "fields": [
-   "ppt",
-   "nut",
-   "astro"
-  ],
-  "id": "mitp-mainz-senior-postdoctoral-fellowships-2027-2030",
-  "n": "MITP Mainz: Senior Postdoctoral Fellowships in Theoretical Physics",
-  "nfit": "Medium",
-  "nom": true,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3209381",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.mitp.uni-mainz.de/mitp-senior-postdoctoral-fellowships-in-theoretical-physics/",
-  "unv": "The Oct 13, 2026 nomination date comes from the INSPIRE listing; the MITP page itself does not state it (it says nominees submit materials and letters by the end of October).",
-  "us": false
- },
- {
   "a": "Up to $10k serverless GPU credits",
   "added": "2026-09-28",
   "c": "Compute",
@@ -6921,35 +6946,6 @@
   "asub": [
    "exo"
   ],
-  "c": "Group postdoc",
-  "checked": "2026-10-12",
-  "d": "2026-10-13",
-  "dt": "Oct 13, 2026, 12 pm CEST",
-  "e": "GCMs with chemistry and hazes, sub-Neptune photochemistry and retrieval parameterizations. Requires a PhD in astronomy or related.",
-  "f": "Max Planck Institute for Astronomy, APEx; supervisor Elspeth Lee",
-  "fields": [
-   "astro"
-  ],
-  "id": "mpia-heidelberg-exoplanet-atmosphere-modelling-postdoc-r",
-  "n": "MPIA Heidelberg: Exoplanet atmosphere modelling postdoc (Ref. 426)",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "aas:a977fd1b",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://postdocprogram.mpg.de/node/58457",
-  "us": false
- },
- {
-  "a": "TVöD E14; 3 years",
-  "added": "2026-09-30",
-  "asub": [
-   "exo"
-  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -6972,67 +6968,6 @@
   ],
   "u": "https://aas.org/jobregister/ad/87a62a5a",
   "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
-  "us": false
- },
- {
-  "a": "TVöD E14; 3 years",
-  "added": "2026-09-30",
-  "asub": [
-   "exo"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-12",
-  "d": "2026-10-13",
-  "dt": "Oct 13, 2026, 12 pm CEST",
-  "e": "Direct imaging and spectroscopy of exoplanets with GRAVITY+, Roman CGI and ELT/METIS. Requires a PhD in astronomy or related.",
-  "f": "Max Planck Institute for Astronomy, APEx; group of Wolfgang Brandner",
-  "fields": [
-   "astro",
-   "inst"
-  ],
-  "id": "mpia-heidelberg-exoplanet-direct-imaging-postdoc-ref-427",
-  "n": "MPIA Heidelberg: Exoplanet direct imaging postdoc (Ref. 427)",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "aas:886eed2d",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://postdocprogram.mpg.de/node/58458",
-  "us": false
- },
- {
-  "a": "TVöD E14; 3 years",
-  "added": "2026-09-30",
-  "asub": [
-   "inst"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-10-07",
-  "d": "2026-10-13",
-  "dt": "Oct 13, 2026, 12 pm CEST",
-  "e": "Extreme AO for ELT/PCS: wavefront sensing, control algorithms and DM characterization. Optics/instrumentation experience needed.",
-  "f": "Max Planck Institute for Astronomy, PFE; contact Markus Feldt",
-  "fields": [
-   "astro",
-   "inst"
-  ],
-  "id": "mpia-heidelberg-extreme-adaptive-optics-fellowship-ref-4",
-  "n": "MPIA Heidelberg: Extreme adaptive optics fellowship (Ref. 429)",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "aas:652ee3d5",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://postdocprogram.mpg.de/node/58468",
-  "unv": "The Max Planck postdoc program page (September 2026 round) does not state the deadline, and the AAS ad returned 403 on Oct 12, 2026; the Oct 13 date is from the earlier check.",
   "us": false
  },
  {
@@ -12185,6 +12120,38 @@
   "u": "https://www.utrgv.edu/stssi/education/reu/index.htm",
   "unv": "2027 program depends on NSF funding; no dates",
   "us": true
+ },
+ {
+  "a": "",
+  "added": "2026-10-14",
+  "asub": [
+   "cos"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-14",
+  "d": "2026-12-01",
+  "dt": "AJO deadline 2026-12-01; review begins 2026-12-01; first-round offers in January; start September 2027",
+  "e": "Postdoctoral McDonald Institute Theory Fellowships and McDonald Institute-CITA Theory Fellowships at UVic in theoretical astroparticle physics and cosmology, including astrophysical probes of dark matter and neutrino phenomenology, with freedom for independent research. Open to recent PhDs; no citizenship restriction stated.",
+  "f": "University of Victoria, Dept. of Physics & Astronomy, Theoretical Physics Group (with UVic Particle Theory Group and Astronomy Research Centre); fellowships allocated by the McDonald Institute",
+  "fields": [
+   "astro",
+   "ppt",
+   "nut"
+  ],
+  "id": "uvic-mcdonald-institute-theory-fellows-2027",
+  "n": "University of Victoria: McDonald Institute (MI) and MI-CITA Theory Fellows",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "Canada",
+  "s": "open",
+  "src": "ajo:33026",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33026",
+  "unv": "Salary and appointment length not stated.",
+  "us": false
  },
  {
   "a": "not listed; 1 year, renewable up to 2 more",

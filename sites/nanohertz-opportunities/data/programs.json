@@ -156,6 +156,50 @@
   "d": null
  },
  {
+  "id": "ames-lab-postdoc-nv-sensing-qubit-noise",
+  "n": "Ames National Laboratory: Postdoctoral Research Associate, NV-Center Sensing of 1/f Noise in Superconducting Qubits",
+  "f": "Ames National Laboratory (Iowa State University), Division of Materials Science and Engineering",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-30",
+  "dt": "Posting closes Nov 30, 2026 (req. R20023)",
+  "e": "Experimental postdoc using NV-center quantum sensing in diamond, together with transmon noise spectroscopy, to find the microscopic origins of 1/f flux and charge noise in superconducting qubits. Includes commissioning a dilution refrigerator with optical access. The posting says the hire must obtain and maintain government access authorization and must disclose foreign-government-sponsored activities under DOE O 486.1A; it gives no explicit citizenship requirement.",
+  "u": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Postdoctoral-Research-Associate---Ames-National-Laboratory_R20023",
+  "unv": "Salary is not stated on the official posting.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-14",
+  "added": "2026-10-14",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "ames-lab-postdoc-quantum-material-films-decoherence",
+  "n": "Ames National Laboratory: Postdoctoral Research Associate, Superconducting & Magnetic Quantum Materials (decoherence in transmon qubits)",
+  "f": "Ames National Laboratory (Iowa State University), Division of Materials Science and Engineering",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-01",
+  "dt": "Posting closes Nov 1, 2026 (req. R19826)",
+  "e": "Experimental postdoc on superconducting and magnetic quantum-material thin films and interfaces, using tunnel-diode resonators, magneto-optical imaging and NV magnetometry to find what causes dissipation and decoherence in transmon qubits. The posting says the hire must obtain and maintain government access authorization and must disclose foreign-government-sponsored activities under DOE O 486.1A; it gives no explicit citizenship requirement.",
+  "u": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Postdoctoral-Research-Associate---Ames-National-Laboratory_R19826",
+  "unv": "Salary is not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-14",
+  "added": "2026-10-14",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "amnh-postdoctoral-fellowship-competition-in-astrophysics",
   "n": "AMNH: Postdoctoral Fellowship competition in astrophysics",
   "f": "American Museum of Natural History, Department of Astrophysics; contact Cheryl Mayefsky",
@@ -288,6 +332,52 @@
   "added": "2026-10-07",
   "stages": [
    "gr"
+  ]
+ },
+ {
+  "id": "argonne-postdoc-nonperturbative-qft-quantum-simulation",
+  "n": "Argonne National Laboratory: Postdoctoral Position in Particle Theory, Nonperturbative Physics and Quantum Simulation",
+  "f": "Argonne National Laboratory, HEP Division, Particle Theory Group (contact Ian Low)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-08",
+  "dt": "Full consideration for complete applications by 2027-01-08; late applications reviewed if open",
+  "a": "Start Fall 2027 (Spring 2027 possible)",
+  "e": "Postdoc in the Argonne Particle Theory Group on nonperturbative QFT, real-time dynamics and quantum simulation. Open to applicants with a PhD in physics or a related field by the start date; no citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33074",
+  "unv": "Salary and appointment length not stated; citizenship rules not stated; host AJO ad not opened.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-14",
+  "added": "2026-10-14",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "argonne-postdoc-particle-theory-2027",
+  "n": "Argonne National Laboratory: Postdoc in Particle Theory",
+  "f": "Argonne National Laboratory, HEP Division, Particle Theory Group (contact Ian Low)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-08",
+  "dt": "Full consideration for complete applications by 2027-01-08; late applications reviewed if open",
+  "a": "Start Fall 2027 (Spring 2027 possible)",
+  "e": "One or more postdocs in theoretical particle physics with an emphasis on phenomenology (collider physics, QCD, EFT, AI/ML, quantum simulation). Applies via AJO job 33073; no citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33073",
+  "unv": "Salary and appointment length not stated; citizenship rules not stated; host AJO ad not opened.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-14",
+  "added": "2026-10-14",
+  "stages": [
+   "pd"
   ]
  },
  {
@@ -2000,6 +2090,29 @@
   ]
  },
  {
+  "id": "edinburgh-higgs-centre-lhc-physics-postdoc",
+  "n": "University of Edinburgh: Postdoctoral Research Associate in LHC Physics, Higgs Centre for Theoretical Physics",
+  "f": "University of Edinburgh, Higgs Centre for Theoretical Physics (Richard Ball; NNPDF)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-27",
+  "dt": "Closes 2026-11-27 (INSPIRE deadline)",
+  "a": "2 years, possibly extended to 3 depending on funding",
+  "e": "Postdoc funded by the STFC Consolidated Grant on LHC phenomenology: Standard Model parameter extraction, ML tools and approximate N3LO corrections, with the option to work with NNPDF. No citizenship limits stated.",
+  "u": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/preview/15039/?mode=location",
+  "unv": "Salary and deadline not confirmed on the host (Oracle) page, which was not opened; the deadline comes from INSPIRE metadata only.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-14",
+  "added": "2026-10-14",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "effelsberg-100m-march-2027",
   "n": "Effelsberg 100-m Radio Telescope Call for Proposals (1 March 2027 deadline)",
   "f": "Max Planck Institute for Radio Astronomy (MPIfR)",
@@ -3402,27 +3515,6 @@
   ]
  },
  {
-  "id": "fj-national-taiwan-univ-faculty-in-physics-applied-physi",
-  "n": "National Taiwan Univ.: Faculty in Physics, Applied Physics & Astrophysics",
-  "f": "Dept. of Physics / Graduate Institute of Astrophysics, National Taiwan University",
-  "c": "Faculty job",
-  "s": "open",
-  "d": "2026-10-13",
-  "dt": "Deadline Oct 13, 2026 (AJO)",
-  "a": "Assistant/Associate/Full Professor",
-  "e": "Several positions across physics and astrophysics. Start Aug 2027.",
-  "u": "https://academicjobsonline.org/ajo/jobs/32269",
-  "us": false,
-  "nom": false,
-  "region": "International",
-  "nfit": "Medium",
-  "checked": "2026-10-12",
-  "added": "2026-10-01",
-  "stages": [
-   "fj"
-  ]
- },
- {
   "id": "fj-national-tsing-hua-univ-faculty-positions-in-physics-",
   "n": "National Tsing Hua Univ.: Faculty Positions in Physics & Astronomy",
   "f": "Dept. of Physics & Institute of Astronomy, National Tsing Hua University",
@@ -4167,6 +4259,28 @@
   "stages": [
    "fj"
   ]
+ },
+ {
+  "id": "fj-uc-blue-ash-assistant-professor-physics",
+  "n": "University of Cincinnati Blue Ash College: Assistant Professor, Physics, Tenure-Track",
+  "f": "University of Cincinnati Blue Ash College, Department of Mathematics, Physics and Computer Science",
+  "c": "Faculty job",
+  "s": "rolling",
+  "dt": "Review begins Jan 10, 2027; open until filled",
+  "a": "Tenure-track Assistant Professor; $64,000-$72,000; start 2027-08-15",
+  "e": "Teaching-focused tenure-track physics faculty post at a regional college (12 credit hours per semester; intro physics and astronomy). Requires a master's degree in physics, physics education or a related field and one academic year of college-level physics teaching; no citizenship limits stated.",
+  "u": "https://inspirehep.net/jobs/3213959",
+  "unv": "INSPIRE lists a deadline of Nov 12, 2026, but the ad text says review begins Jan 10, 2027 and the post is open until filled. The host page (a short link) was not opened.",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-14",
+  "added": "2026-10-14",
+  "stages": [
+   "fj"
+  ],
+  "d": null
  },
  {
   "id": "fj-ucb-astronomy-asst-prof",
@@ -5668,6 +5782,29 @@
   "d": null
  },
  {
+  "id": "iacs-kolkata-research-associate-particle-astroparticle",
+  "n": "IACS Kolkata: Research Associate-I (Postdoc) in Particle Phenomenology and Astroparticle Physics",
+  "f": "Indian Association for the Cultivation of Science, School of Physical Sciences (Dilip Kumar Ghosh)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-10-29",
+  "dt": "21 days from the 2026-10-08 advertisement (INSPIRE: 2026-10-29)",
+  "a": "Rs. 58,000/month + HRA; 2 years",
+  "e": "One Research Associate-I post in particle phenomenology and astroparticle physics; requires a PhD (or thesis submitted within three months) and relevant publications. The INSPIRE listing says applications are invited from Indian nationals only.",
+  "u": "https://www.iacs.res.in/modules/careersrscientist/images/Rac_08-10-269402.pdf",
+  "unv": "The Indian-nationals restriction appears in the INSPIRE text but not in the host PDF.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-14",
+  "added": "2026-10-14",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "iag-usp-s-o-paulo-high-energy-astrophysics-postdoc-swgo",
   "n": "IAG-USP São Paulo: High-energy astrophysics postdoc (SWGO)",
   "f": "Universidade de São Paulo, IAG; PI Elisabete de Gouveia Dal Pino",
@@ -5822,6 +5959,29 @@
   "nfit": "High",
   "checked": "2026-10-12",
   "added": "2026-09-30",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "ifae-barcelona-atlas-postdoc-2026",
+  "n": "IFAE Barcelona: Postdoctoral Position in Hadron Collider Physics with ATLAS",
+  "f": "Institut de Física d'Altes Energies (IFAE), ATLAS group (Imma Riu, Tamara Vázquez Schröder)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-10-27",
+  "dt": "Apply ideally by Oct 27, 2026; open until filled",
+  "a": "2 years",
+  "e": "One 2-year postdoc with the IFAE ATLAS group on Run 2/3 analysis and HL-LHC upgrade work. Applicants need a PhD in experimental particle physics obtained within the last three years; no citizenship limits stated.",
+  "u": "https://inspirehep.net/jobs/3213930",
+  "unv": "Salary not stated; no host web ad (apply by email with ref. IFAE2026/26_ATLAS_2 Postdocs); start 'no later than Fall 2026' as stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-14",
+  "added": "2026-10-14",
   "stages": [
    "pd"
   ]
@@ -6380,6 +6540,28 @@
   ]
  },
  {
+  "id": "jhu-postdoctoral-fellowship-physics-astronomy-2027",
+  "n": "Johns Hopkins: Postdoctoral Fellowship in Physics and Astronomy (department-wide, incl. condensed matter & AMO)",
+  "f": "Johns Hopkins University, William H. Miller III Department of Physics and Astronomy",
+  "c": "Fellowship",
+  "s": "rolling",
+  "dt": "Rolling; no deadline stated",
+  "a": "$63,480–$75,000 salary; 1-year appointment renewable up to 3 years",
+  "e": "Department-wide postdoctoral positions for independent research under faculty mentorship in any of the department's areas, including condensed matter, AMO, biological physics and astrophysics. Applicants submit a 2-page research proposal and name up to two faculty members. No citizenship restriction is stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33060",
+  "us": false,
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-14",
+  "added": "2026-10-14",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
   "id": "johns-hopkins-postdocs-in-gravitational-physics-and-gw-a",
   "n": "Johns Hopkins: Postdocs in gravitational physics and GW astronomy",
   "f": "Johns Hopkins University, Dept. of Physics & Astronomy (Emanuele Berti group)",
@@ -6844,6 +7026,28 @@
    "pd"
   ],
   "d": null
+ },
+ {
+  "id": "lkb-paris-postdoc-theory-hybrid-quantum-systems",
+  "n": "Laboratoire Kastler Brossel: Postdoc in Theory of Hybrid Quantum Systems (Multimode Quantum Optics group)",
+  "f": "Laboratoire Kastler Brossel (Sorbonne Université), Multimode Quantum Optics group (Mattia Walschaers); with LIP6 and ENS QAT",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-15",
+  "dt": "Nov 15, 2026; apply by email",
+  "e": "Theory postdoc in Paris developing phase-space descriptions of hybrid discrete/continuous-variable quantum systems, within the PEPR OQULUS and NISQ2LSQ projects. Apply by email with CV and two referees; no citizenship restriction is stated.",
+  "u": "https://quantiki.org/position/theory-hybrid-quantum-systems-1",
+  "unv": "Salary and term are not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-14",
+  "added": "2026-10-14",
+  "stages": [
+   "pd"
+  ]
  },
  {
   "id": "lmu-munich-fraunhofer-schwarzschild-postdoctoral-fellows",
@@ -7342,29 +7546,6 @@
   "d": null
  },
  {
-  "id": "mitp-mainz-senior-postdoctoral-fellowships-2027-2030",
-  "n": "MITP Mainz: Senior Postdoctoral Fellowships in Theoretical Physics",
-  "f": "Mainz Institute for Theoretical Physics (MITP), Johannes Gutenberg University Mainz",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-10-13",
-  "dt": "Nominations due Tue Oct 13, 2026 (nomination by a faculty member or senior researcher)",
-  "a": "3 years (2027-2030); competitive salary plus EUR 10,000/yr research funds",
-  "e": "Fully independent 3-year fellowships for experienced postdocs in particle and astroparticle physics, nuclear and hadron physics, cosmology and mathematical physics. Candidates must be nominated by a faculty member or senior researcher; no reference letter needed at nomination.",
-  "u": "https://www.mitp.uni-mainz.de/mitp-senior-postdoctoral-fellowships-in-theoretical-physics/",
-  "unv": "The Oct 13, 2026 nomination date comes from the INSPIRE listing; the MITP page itself does not state it (it says nominees submit materials and letters by the end of October).",
-  "us": false,
-  "nom": true,
-  "pt": "prize",
-  "region": "International",
-  "nfit": "Medium",
-  "checked": "2026-10-12",
-  "added": "2026-10-01",
-  "stages": [
-   "pd"
-  ]
- },
- {
   "id": "monash-transient-multimessenger-rf",
   "n": "Monash University: Research Fellow in Transient and Multimessenger Astronomy",
   "f": "Monash University",
@@ -7475,28 +7656,6 @@
   ]
  },
  {
-  "id": "mpia-heidelberg-exoplanet-atmosphere-modelling-postdoc-r",
-  "n": "MPIA Heidelberg: Exoplanet atmosphere modelling postdoc (Ref. 426)",
-  "f": "Max Planck Institute for Astronomy, APEx; supervisor Elspeth Lee",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-10-13",
-  "dt": "Oct 13, 2026, 12 pm CEST",
-  "a": "TVöD E14; 3 years",
-  "e": "GCMs with chemistry and hazes, sub-Neptune photochemistry and retrieval parameterizations. Requires a PhD in astronomy or related.",
-  "u": "https://postdocprogram.mpg.de/node/58457",
-  "us": false,
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "nfit": "Medium",
-  "checked": "2026-10-12",
-  "added": "2026-09-30",
-  "stages": [
-   "pd"
-  ]
- },
- {
   "id": "mpia-heidelberg-exoplanet-direct-imaging-fellowship-pfe-",
   "n": "MPIA Heidelberg: Exoplanet direct imaging fellowship (PFE, Ref. 431)",
   "f": "Max Planck Institute for Astronomy, Planet Formation & Exoplanets; contact Myriam Benisty",
@@ -7514,51 +7673,6 @@
   "region": "International",
   "nfit": "Medium",
   "checked": "2026-09-30",
-  "added": "2026-09-30",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "mpia-heidelberg-exoplanet-direct-imaging-postdoc-ref-427",
-  "n": "MPIA Heidelberg: Exoplanet direct imaging postdoc (Ref. 427)",
-  "f": "Max Planck Institute for Astronomy, APEx; group of Wolfgang Brandner",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-10-13",
-  "dt": "Oct 13, 2026, 12 pm CEST",
-  "a": "TVöD E14; 3 years",
-  "e": "Direct imaging and spectroscopy of exoplanets with GRAVITY+, Roman CGI and ELT/METIS. Requires a PhD in astronomy or related.",
-  "u": "https://postdocprogram.mpg.de/node/58458",
-  "us": false,
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "nfit": "Medium",
-  "checked": "2026-10-12",
-  "added": "2026-09-30",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "mpia-heidelberg-extreme-adaptive-optics-fellowship-ref-4",
-  "n": "MPIA Heidelberg: Extreme adaptive optics fellowship (Ref. 429)",
-  "f": "Max Planck Institute for Astronomy, PFE; contact Markus Feldt",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-10-13",
-  "dt": "Oct 13, 2026, 12 pm CEST",
-  "a": "TVöD E14; 3 years",
-  "e": "Extreme AO for ELT/PCS: wavefront sensing, control algorithms and DM characterization. Optics/instrumentation experience needed.",
-  "u": "https://postdocprogram.mpg.de/node/58468",
-  "unv": "The Max Planck postdoc program page (September 2026 round) does not state the deadline, and the AAS ad returned 403 on Oct 12, 2026; the Oct 13 date is from the earlier check.",
-  "us": false,
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "nfit": "Medium",
-  "checked": "2026-10-07",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -8030,6 +8144,29 @@
   "nfit": "High",
   "checked": "2026-10-12",
   "added": "2026-09-30",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "northwestern-postdoc-theoretical-physics-ian-low",
+  "n": "Northwestern University: Postdoctoral Scholar in Theoretical Physics (Ian Low group)",
+  "f": "Northwestern University, Department of Physics and Astronomy, Prof. Ian Low group",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-08",
+  "dt": "All materials by 2027-01-08 for full consideration; later applications may be reviewed",
+  "a": "Nominal 3-year term, starting Fall 2027",
+  "e": "One or more postdocs in Ian Low's group on QFT, particle and nuclear physics, quantum many-body physics, AI/ML and quantum information/simulation; applicants are also considered for joint positions with nearby national labs. No citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33058",
+  "unv": "Salary not stated; citizenship rules not stated. This is a different group from the existing row inspire:3205351 (Figueroa-Feliciano).",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-14",
+  "added": "2026-10-14",
   "stages": [
    "pd"
   ]
@@ -8600,6 +8737,28 @@
   ]
  },
  {
+  "id": "oist-experimental-researcher-diamond-quantum-science",
+  "n": "OIST: Experimental Researcher in Diamond Quantum Science (Quantum Machines Unit)",
+  "f": "Okinawa Institute of Science and Technology, Quantum Machines Unit (Jason Twamley)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-30",
+  "dt": "Nov 30, 2026",
+  "e": "Postdoc-level experimental post on NV-center diamond and magnetically levitated hybrid spin-mechanical systems, aimed at macroscopic non-classical motional states and gravity/inertial sensing. No citizenship restriction is stated in the Quantiki post.",
+  "u": "https://www.oist.jp/careers/experimental-researcher-diamond-quantum-science",
+  "unv": "Details come from the Quantiki listing; the OIST page could not be read by automated access. Salary is not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-14",
+  "added": "2026-10-14",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "oist-postdocs-quantum-gravity-unit",
   "n": "OIST: Postdocs, Quantum Gravity Unit",
   "f": "Okinawa Institute of Science and Technology, Quantum Gravity Unit (Yasha Neiman)",
@@ -8617,6 +8776,28 @@
   "nfit": "High",
   "checked": "2026-10-12",
   "added": "2026-09-30",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "oklahoma-rydberg-tweezer-arrays-postdoc-biedermann",
+  "n": "University of Oklahoma: Postdoctoral Fellowship in Rydberg Optical Tweezer Arrays (Biedermann group)",
+  "f": "University of Oklahoma, Biedermann Experimental Atomic Physics Group (Grant Biedermann)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-15",
+  "dt": "Dec 15, 2026; apply via Interfolio",
+  "e": "Departmental postdoctoral fellowship in experimental quantum information science using Sr and Cs neutral-atom optical tweezer arrays with Rydberg interactions, including entangled matter-wave interferometry and quantum-gravity interface tests. Apply via Interfolio; no citizenship restriction is stated in the Quantiki post.",
+  "u": "https://apply.interfolio.com/184320",
+  "unv": "Details come from the Quantiki listing; the Interfolio page needs JavaScript and could not be read. Salary and term are not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-14",
+  "added": "2026-10-14",
   "stages": [
    "pd"
   ]
@@ -10830,6 +11011,28 @@
    "ug"
   ],
   "d": null
+ },
+ {
+  "id": "uvic-mcdonald-institute-theory-fellows-2027",
+  "n": "University of Victoria: McDonald Institute (MI) and MI-CITA Theory Fellows",
+  "f": "University of Victoria, Dept. of Physics & Astronomy, Theoretical Physics Group (with UVic Particle Theory Group and Astronomy Research Centre); fellowships allocated by the McDonald Institute",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2026-12-01",
+  "dt": "AJO deadline 2026-12-01; review begins 2026-12-01; first-round offers in January; start September 2027",
+  "e": "Postdoctoral McDonald Institute Theory Fellowships and McDonald Institute-CITA Theory Fellowships at UVic in theoretical astroparticle physics and cosmology, including astrophysical probes of dark matter and neutrino phenomenology, with freedom for independent research. Open to recent PhDs; no citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33026",
+  "unv": "Salary and appointment length not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "prize",
+  "region": "Canada",
+  "nfit": "Medium",
+  "checked": "2026-10-14",
+  "added": "2026-10-14",
+  "stages": [
+   "pd"
+  ]
  },
  {
   "id": "uw-madison-het-postdoc-2027",
