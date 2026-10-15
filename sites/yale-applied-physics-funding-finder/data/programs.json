@@ -3506,6 +3506,34 @@
   "us": false
  },
  {
+  "a": "24-month fixed term; salary not stated",
+  "added": "2026-10-15",
+  "c": "Group postdoc",
+  "checked": "2026-10-15",
+  "d": "2026-11-11",
+  "dt": "Nov 11, 2026, 11:59pm UK time",
+  "e": "Up to three 24-month fellows developing quantum-computing applications in health, materials, finance, energy, AI and cybersecurity with the Quantum Software Lab, NQCC and partners under the UK QATCH programme.",
+  "f": "School of Informatics, University of Edinburgh",
+  "fields": [
+   "qp",
+   "ds"
+  ],
+  "id": "edinburgh-qsl-quantum-innovation-fellows",
+  "n": "University of Edinburgh Quantum Software Lab: Quantum Innovation Fellows (QATCH)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-edinburgh-qsl-innovation-fellow",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15038",
+  "unv": "Grade and salary not confirmed on the host ad; details are from the Quantiki listing.",
+  "us": false
+ },
+ {
   "a": "competitive salary; 2 years, usually extended to 3",
   "added": "2026-09-30",
   "asub": [
@@ -3876,9 +3904,9 @@
   "a": "Full cost of Cambridge postgraduate study",
   "added": "2026-09-29",
   "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-10-14",
-  "dt": "Oct 14, 2026, 11:59pm UK time (full application incl. references)",
+  "checked": "2026-10-15",
+  "d": null,
+  "dt": "Last US-round deadline Oct 14, 2026; the next cycle is not posted yet",
   "e": "For US citizens living in the US who apply to a full-time Cambridge postgraduate degree; this is an earlier round, separate from the main round. US citizens studying or working abroad apply in the main round instead.",
   "f": "Gates Cambridge Trust",
   "fields": [
@@ -3889,7 +3917,7 @@
   "nfit": "Low",
   "nom": false,
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "ug",
    "gr"
@@ -7991,6 +8019,34 @@
   "us": false
  },
  {
+  "a": "$80,000 to $85,000",
+  "added": "2026-10-15",
+  "c": "Group postdoc",
+  "checked": "2026-10-15",
+  "d": null,
+  "dt": "No deadline stated",
+  "e": "On-site postdoc in Boulder, CO, working on waveguide-integrated superconducting nanowire single-photon detectors or free-space optical hardware for neural-network operations, for applicants with a PhD from the last 5 years. US citizenship is preferred but not required.",
+  "f": "NIST Physical Measurement Laboratory, Applied Physics Division, via SURA (PREP)",
+  "fields": [
+   "phot",
+   "qp",
+   "dev"
+  ],
+  "id": "nist-boulder-prep-photonic-hardware-snspd-ai-postdoc",
+  "n": "NIST Boulder (SURA PREP): Postdoc, Photonic Hardware for Quantum Measurement and AI",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:sura-nist-prep-snspd-photonic-ai",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://sura.org/careers/nist-prep-postdoc-associate-in-developing-novel-photonic-hardware-for-quantum-measurement-and-artificial-intelligence/",
+  "us": false
+ },
+ {
   "a": "Grants.gov lists an award minimum of $10,000,000",
   "added": "2026-10-03",
   "c": "Center/large grant",
@@ -9705,6 +9761,36 @@
   "us": false
  },
  {
+  "a": "Not stated",
+  "added": "2026-10-15",
+  "c": "Group postdoc",
+  "checked": "2026-10-15",
+  "d": "2026-11-30",
+  "dt": "Nov 30, 2026",
+  "e": "Two postdoc openings working on 2D quantum materials, van der Waals devices, terahertz and ultrafast microscopy, and qubit platforms. No citizenship limits stated.",
+  "f": "Okinawa Institute of Science and Technology (OIST)",
+  "fields": [
+   "cmx",
+   "qp",
+   "phot",
+   "mat"
+  ],
+  "id": "oist-quantum-ultrafast-optoelectronics-postdocs",
+  "n": "OIST: Postdoctoral Scholars, Quantum and Ultrafast Optoelectronics Unit",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-oist-quo-postdoc",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.oist.jp/careers/postdoctoral-scholars-quantum-and-ultrafast-optoelectronics-unit",
+  "unv": "The OIST page could not be read automatically; deadline and details are from the Quantiki listing.",
+  "us": false
+ },
+ {
   "a": "",
   "added": "2026-10-14",
   "c": "Group postdoc",
@@ -10039,6 +10125,85 @@
   "unv": "Which SNS and HFIR instruments are offered in 2027-B, the cost policy and eligibility of non-US users not confirmed (the site blocks automated access to some pages)"
  },
  {
+  "a": "Not stated",
+  "added": "2026-10-15",
+  "c": "Group postdoc",
+  "checked": "2026-10-15",
+  "d": null,
+  "dt": "Open at least 5 days, then closes once filled",
+  "e": "Active-learning workflows and machine-learned interatomic potentials for materials and chemistry, run as large-scale molecular dynamics on OLCF supercomputers, for applicants with a PhD from the last 5 years. No citizenship requirement is stated.",
+  "f": "Oak Ridge National Laboratory, National Center for Computational Sciences",
+  "fields": [
+   "mat",
+   "cmt"
+  ],
+  "id": "ornl-postdoc-atomistic-machine-learning",
+  "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Atomistic Machine Learning",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-17231-atomistic-ml",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Atomistic-Machine-Learning-TN-37830/1439260100/",
+  "us": false
+ },
+ {
+  "a": "Not stated",
+  "added": "2026-10-15",
+  "c": "Group postdoc",
+  "checked": "2026-10-15",
+  "d": null,
+  "dt": "Open at least 5 days, then closes once filled",
+  "e": "Combines materials characterization (microscopy, XRD, EBSD, X-ray CT) with data science and machine learning to assess parts made by advanced manufacturing; requires a materials science PhD from the last 5 years. Visa sponsorship is not available.",
+  "f": "Oak Ridge National Laboratory, Manufacturing Science Division",
+  "fields": [
+   "mat",
+   "ds"
+  ],
+  "id": "ornl-postdoc-data-science-materials-characterization",
+  "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Data Science for Materials Characterization",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-16197-data-sci-materials-char",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Knoxville-Postdoctoral-Research-Associate-Data-Science-for-Materials-Characterization-TN-37932/1379759100/",
+  "us": false
+ },
+ {
+  "a": "Not stated",
+  "added": "2026-10-15",
+  "c": "Group postdoc",
+  "checked": "2026-10-15",
+  "d": null,
+  "dt": "Open at least 5 days, then closes once filled",
+  "e": "Hydrogen-isotope separation by mass spectrometry and MEMS/microfluidic methods, and the behavior of irradiated ceramics and alloys for tritium technology, for applicants with a PhD from the last 5 years. No citizenship requirement is stated.",
+  "f": "Oak Ridge National Laboratory, Advanced Nuclear Materials Group",
+  "fields": [
+   "mat",
+   "energy"
+  ],
+  "id": "ornl-postdoc-fusion-materials-technology",
+  "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Fusion Materials and Technology",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-17102-fusion-materials",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Fusion-Materials-&-Technology-TN-37830/1429061200/",
+  "us": false
+ },
+ {
   "a": "Appointment up to 24 months",
   "added": "2026-10-10",
   "c": "Group postdoc",
@@ -10065,6 +10230,34 @@
   ],
   "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Integrated-Photonics-TN-37830/1403080700/",
   "unv": "Salary not stated.",
+  "us": false
+ },
+ {
+  "a": "Not stated",
+  "added": "2026-10-15",
+  "c": "Group postdoc",
+  "checked": "2026-10-15",
+  "d": null,
+  "dt": "Open at least 5 days, then closes once a qualified candidate is identified",
+  "e": "Pulsed-laser-deposition growth of complex-oxide films and twisted free-standing oxide-membrane heterostructures and devices, for applicants with a PhD from the last 5 years. No citizenship requirement is stated; foreign nationals with under 3 years of US residence need a DOE risk determination.",
+  "f": "Oak Ridge National Laboratory, Materials Science and Technology Division",
+  "fields": [
+   "cmx",
+   "mat",
+   "dev"
+  ],
+  "id": "ornl-postdoc-pld-twisted-oxide-quantum-materials",
+  "n": "Oak Ridge National Laboratory: Postdoc, PLD Synthesis of Thin-Film Heterostructures and Twisted Oxide Quantum Materials",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-16261-twisted-oxide",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoc-PLD-synthesis-of-thin-film-heterostructures-and-twisted-oxide-quantum-materials-TN-37830/1383106700/",
   "us": false
  },
  {
@@ -10780,9 +10973,9 @@
    "he"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-12",
-  "d": "2026-10-14",
-  "dt": "Oct 14, 2026",
+  "checked": "2026-10-15",
+  "d": "2026-10-18",
+  "dt": "Oct 18, 2026 (first interviews Oct 27)",
   "e": "Mathematical and theoretical physics of irreversibility, entropy and chaos. Requires a PhD or equivalent.",
   "f": "Radboud University Nijmegen; Klaas Landsman, Manus Visser",
   "fields": [
@@ -10967,9 +11160,9 @@
   "a": "Up to $110,000/yr for 5 years (Award in Pain: $50K/yr for 3 years)",
   "added": "2026-09-28",
   "c": "Foundation",
-  "checked": "2026-10-12",
-  "d": "2026-10-14",
-  "dt": "Letter of inquiry closed Sept 3, 2026; the application is due Oct 14, 2026 for invited nominees",
+  "checked": "2026-10-15",
+  "d": null,
+  "dt": "Last application deadline Oct 14, 2026 (invited nominees); the next cycle is not posted yet",
   "e": "Early-career independent investigators, ideally in the first 3 years on the tenure track. Invited institutions nominate one candidate each. Fields are cancer, immunology, neuroscience and pain.",
   "f": "Rita Allen Foundation",
   "fields": [
@@ -10978,7 +11171,7 @@
   "id": "rita-allen-foundation-scholars",
   "n": "Rita Allen Foundation Scholars",
   "nom": true,
-  "s": "open",
+  "s": "watch",
   "stages": [
    "tt"
   ],
@@ -12297,6 +12490,34 @@
   ],
   "u": "https://science.yalecollege.yale.edu/yale-undergraduate-research/fellowship-grants/tetelman-fellowship-international-research-sciences",
   "unv": "The amount is not stated; the 2027 date is not posted.",
+  "us": false
+ },
+ {
+  "a": "Not stated",
+  "added": "2026-10-15",
+  "c": "Group postdoc",
+  "checked": "2026-10-15",
+  "d": "2026-11-03",
+  "dt": "Nov 3, 2026",
+  "e": "Research associate employed by NRC Canada at TRIUMF (Vancouver), developing quantum-assisted generative machine-learning models on quantum annealing hardware for particle-shower and calorimeter simulation and proton therapy, with D-Wave and Perimeter Institute.",
+  "f": "National Research Council Canada / TRIUMF",
+  "fields": [
+   "qp",
+   "ds"
+  ],
+  "id": "triumf-nrc-quantum-generative-ml-research-assoc",
+  "n": "NRC Canada at TRIUMF: Research Associate, Quantum-Assisted Generative Machine Learning",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "open",
+  "src": "inspire:3214896",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3214896",
+  "unv": "Salary and any citizenship preference not stated in the listing.",
   "us": false
  },
  {

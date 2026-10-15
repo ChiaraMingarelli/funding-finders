@@ -3770,9 +3770,9 @@
   "a": "Full cost of Cambridge postgraduate study",
   "added": "2026-09-29",
   "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-10-14",
-  "dt": "Oct 14, 2026, 11:59pm UK time (full application incl. references)",
+  "checked": "2026-10-15",
+  "d": null,
+  "dt": "Last US-round deadline Oct 14, 2026; the next cycle is not posted yet",
   "e": "For US citizens living in the US who apply to a full-time Cambridge postgraduate degree; this is an earlier round, separate from the main round. US citizens studying or working abroad apply in the main round instead.",
   "f": "Gates Cambridge Trust",
   "fields": [
@@ -3783,7 +3783,7 @@
   "nfit": "Low",
   "nom": false,
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "ug",
    "gr"
@@ -4828,6 +4828,35 @@
   "unv": "2026 opening announcement (Google Drive) not opened; dates from the IAU's standing rules"
  },
  {
+  "a": "3 years",
+  "added": "2026-10-15",
+  "c": "Fellowship",
+  "checked": "2026-10-15",
+  "d": "2026-11-26",
+  "dt": "Contact the host group by Nov 7, 2026; AEI candidate form open Nov 12 to Nov 26, 2026",
+  "e": "Spanish national 3-year postdoctoral fellowship hosted at ICCUB, for people whose PhD was awarded between Jan 1, 2024 and Dec 31, 2026. Candidates need a supporting ICCUB researcher and should contact the group first.",
+  "f": "Institute of Cosmos Sciences, University of Barcelona (ICCUB)",
+  "fields": [
+   "astro",
+   "ppt",
+   "grav",
+   "nut"
+  ],
+  "id": "iccub-juan-de-la-cierva-2026-eoi",
+  "n": "ICCUB (Barcelona): Juan de la Cierva 2026 postdoctoral fellowship (expressions of interest)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3214624",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://icc.ub.edu/node/1716565",
+  "us": false
+ },
+ {
   "a": "~320,000 CNY/yr; 2 years + possible 3rd",
   "added": "2026-09-30",
   "asub": [
@@ -5220,6 +5249,97 @@
   "us": false
  },
  {
+  "a": "2 years; €36,000/yr gross, plus travel to and from Bari",
+  "added": "2026-10-15",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-15",
+  "d": "2026-11-12",
+  "dt": "Nov 12, 2026, 17:59 (INFN call no. 29216)",
+  "e": "Two-year postdoc on astrophysical probes of weakly interacting slim particles (axions, dark photons, massive gravitons) in stars, supernovae and neutron stars, including multi-messenger signatures with gamma rays, neutrinos and gravitational waves. Open to non-Italian citizens with a PhD from a foreign institution, and to Italian citizens who have held a position abroad for at least three years.",
+  "f": "INFN, Sezione di Bari",
+  "fields": [
+   "astro",
+   "ppt",
+   "grav"
+  ],
+  "id": "infn-bari-astroparticle-wisp-postdoc",
+  "n": "INFN Bari: Postdoctoral Fellowship in Theoretical Astroparticle Physics (WISPs)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33082",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33082",
+  "us": false
+ },
+ {
+  "a": "2 years, from fall 2027",
+  "added": "2026-10-15",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-15",
+  "d": "2026-11-12",
+  "dt": "Nov 12, 2026, 11:59pm CET (INFN call no. 29216, position 2); letters by Nov 15",
+  "e": "Two-year postdoc on string theory in cosmology, gravitational waves and axions, within the INFN theory fellowship program. Open to non-Italian citizens with a foreign PhD and to Italian citizens abroad since Nov 12, 2023; PhD on or after Nov 12, 2018.",
+  "f": "INFN, Sezione di Bologna",
+  "fields": [
+   "ppt",
+   "astro",
+   "grav"
+  ],
+  "id": "infn-bologna-string-cosmology-postdoc",
+  "n": "INFN Bologna: Postdoc in String Cosmology and String Phenomenology",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3214821",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://reclutamento.dsi.infn.it/",
+  "us": false
+ },
+ {
+  "a": "2 years",
+  "added": "2026-10-15",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-15",
+  "d": "2026-11-12",
+  "dt": "Nov 12, 2026 (INFN international fellowship call)",
+  "e": "Two-year postdoc on dynamical dark energy, modified gravity and consistency tests with DES, DESI and Euclid data, using statistical and machine-learning methods. Open to non-Italian citizens with a foreign PhD and to Italian citizens abroad for at least three years.",
+  "f": "INFN, Sezione di Genova / University of Genoa",
+  "fields": [
+   "astro"
+  ],
+  "id": "infn-genova-dark-energy-lss-postdoc",
+  "n": "INFN Genova: Postdoc in Cosmology (dark energy with large-scale structure)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3214634",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3214634",
+  "us": false
+ },
+ {
   "a": "",
   "added": "2026-10-07",
   "asub": [
@@ -5280,6 +5400,37 @@
   "u": "https://www.zintellect.com/Opportunity/Details/ICPD-2026",
   "unv": "2027 cycle dates not posted",
   "us": true
+ },
+ {
+  "a": "Rs. 58,000 to 67,000/month plus Rs. 60,000/yr contingency; 1 year, extendable",
+  "added": "2026-10-15",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-15",
+  "d": "2026-10-31",
+  "dt": "Oct 31, 2026",
+  "e": "Several postdoc positions in the HEP theory and phenomenology group covering particle physics, astroparticle physics and cosmology, including dark matter, inflation and gravitational waves.",
+  "f": "Institute of Physics (IoP), Bhubaneswar",
+  "fields": [
+   "ppt",
+   "astro",
+   "grav"
+  ],
+  "id": "iop-bhubaneswar-hep-theory-postdocs",
+  "n": "Institute of Physics Bhubaneswar: Postdoctoral / Research Associate Positions in High Energy Physics Theory",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3214873",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.iopb.res.in/job_opening/advertisement-for-postdoctoral-research-associate-positions-in-high-energy-physics-theory-phenomenology-group/",
+  "us": false
  },
  {
   "a": "Free registration in 2026",
@@ -9064,6 +9215,37 @@
   "us": false
  },
  {
+  "a": "Salary not stated; travel support",
+  "added": "2026-10-15",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-15",
+  "d": "2026-12-15",
+  "dt": "Full consideration for materials received by Dec 15, 2026",
+  "e": "Postdoc with Alvin Chua on source modelling and data analysis of extreme- and intermediate-mass-ratio inspirals for LISA and other next-generation gravitational-wave detectors. Initial 1-year appointment, expected to renew to 2 to 3 years, starting as early as March 2027; the fellow joins the LISA Consortium.",
+  "f": "Department of Physics, National University of Singapore",
+  "fields": [
+   "astro",
+   "grav"
+  ],
+  "id": "nus-gw-asymmetric-mass-binaries-postdoc-chua",
+  "n": "National University of Singapore: Postdoc in gravitational-wave modelling and analysis of asymmetric-mass binaries (Chua group)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:hyperspace-nus-chua-gw",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://hyperspace.uni-frankfurt.de/2026/10/15/postdoctoral-fellowship-in-gravitational-wave-modelling-analysis/",
+  "unv": "No NUS-hosted ad found; details are from the Hyperspace@GU post. Salary not stated.",
+  "us": false
+ },
+ {
   "a": "About 6.5 Ms standard plus 2 Ms large-program time; joint XMM-Newton (1.5 Ms) and XRISM (0.5 Ms) time; NASA funding for US investigators in Phase 2",
   "added": "2026-10-03",
   "asub": [
@@ -9452,36 +9634,6 @@
   "us": false
  },
  {
-  "a": "Pre-tax salary of 200,000 RMB/yr for 24 months, plus social insurance and benefits; 60,000 RMB subsidy if no postdoc housing; the PKU supervisor may add 30,000, 60,000 or 90,000 RMB/yr",
-  "added": "2026-09-30",
-  "asub": [
-   "he"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-10-14",
-  "dt": "2026/10/14 23:59:59 (time zone not stated on page)",
-  "e": "Astrophysics and gravitational physics fellowship; requires support of a PKU faculty host and letters from PhD supervisor and prospective PKU supervisor. Start before July 2027.",
-  "f": "Peking University, Kavli Institute for Astronomy and Astrophysics (contact Gregory Herczeg)",
-  "fields": [
-   "astro",
-   "grav"
-  ],
-  "id": "peking-university-kiaa-boya-fellowship-in-astronomy",
-  "n": "Peking University KIAA: Boya Fellowship in Astronomy",
-  "nfit": "High",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "ajo:32553",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32553",
-  "us": false
- },
- {
   "a": "",
   "added": "2026-10-07",
   "c": "Fellowship",
@@ -9818,9 +9970,9 @@
    "he"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-12",
-  "d": "2026-10-14",
-  "dt": "Oct 14, 2026",
+  "checked": "2026-10-15",
+  "d": "2026-10-18",
+  "dt": "Oct 18, 2026 (first interviews Oct 27)",
   "e": "Mathematical and theoretical physics of irreversibility, entropy and chaos. Requires a PhD or equivalent.",
   "f": "Radboud University Nijmegen; Klaas Landsman, Manus Visser",
   "fields": [
