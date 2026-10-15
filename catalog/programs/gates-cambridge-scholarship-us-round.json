@@ -9,9 +9,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-12",
- "d": "2026-10-14",
- "dt": "Oct 14, 2026, 11:59pm UK time (full application incl. references)",
+ "checked": "2026-10-15",
+ "d": null,
+ "dt": "Last US-round deadline Oct 14, 2026; the next cycle is not posted yet",
  "e": "For US citizens living in the US who apply to a full-time Cambridge postgraduate degree; this is an earlier round, separate from the main round. US citizens studying or working abroad apply in the main round instead.",
  "f": "Gates Cambridge Trust",
  "fields": [
@@ -22,7 +22,7 @@
  "nfit": "Low",
  "nom": false,
  "region": "US",
- "s": "open",
+ "s": "watch",
  "stages": [
   "ug",
   "gr"

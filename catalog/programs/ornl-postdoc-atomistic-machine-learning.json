@@ -1,0 +1,32 @@
+{
+ "a": "Not stated",
+ "added": "2026-10-15",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-15",
+ "d": null,
+ "dt": "Open at least 5 days, then closes once filled",
+ "e": "Active-learning workflows and machine-learned interatomic potentials for materials and chemistry, run as large-scale molecular dynamics on OLCF supercomputers, for applicants with a PhD from the last 5 years. No citizenship requirement is stated.",
+ "f": "Oak Ridge National Laboratory, National Center for Computational Sciences",
+ "fields": [
+  "mat",
+  "cmt"
+ ],
+ "id": "ornl-postdoc-atomistic-machine-learning",
+ "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Atomistic Machine Learning",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:ornl-17231-atomistic-ml",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Atomistic-Machine-Learning-TN-37830/1439260100/",
+ "us": false
+}

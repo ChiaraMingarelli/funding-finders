@@ -1,0 +1,29 @@
+{
+ "a": "Tenure-track Assistant Professor; 9-month salary range $143,000 to $154,000",
+ "added": "2026-10-15",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-15",
+ "d": "2026-12-01",
+ "dt": "Dec 1, 2026; three letters by the deadline",
+ "e": "Tenure-track faculty position in experimental quantum science, including AMO and AMO-like systems, precision measurement and experimental quantum information science. A PhD in physics or a related field is required by the start date.",
+ "f": "Massachusetts Institute of Technology, Department of Physics",
+ "fields": [
+  "amo",
+  "qp"
+ ],
+ "id": "fj-mit-asst-prof-experimental-quantum-science",
+ "n": "MIT Physics: Assistant Professor, Experimental Quantum Science",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33086",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33086",
+ "us": false
+}

@@ -1,0 +1,29 @@
+{
+ "a": "Not stated",
+ "added": "2026-10-15",
+ "aud": [
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-15",
+ "d": null,
+ "dt": "Open at least 5 days, then closes once filled",
+ "e": "Combines materials characterization (microscopy, XRD, EBSD, X-ray CT) with data science and machine learning to assess parts made by advanced manufacturing; requires a materials science PhD from the last 5 years. Visa sponsorship is not available.",
+ "f": "Oak Ridge National Laboratory, Manufacturing Science Division",
+ "fields": [
+  "mat",
+  "ds"
+ ],
+ "id": "ornl-postdoc-data-science-materials-characterization",
+ "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Data Science for Materials Characterization",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:ornl-16197-data-sci-materials-char",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.ornl.gov/job/Knoxville-Postdoctoral-Research-Associate-Data-Science-for-Materials-Characterization-TN-37932/1379759100/",
+ "us": false
+}

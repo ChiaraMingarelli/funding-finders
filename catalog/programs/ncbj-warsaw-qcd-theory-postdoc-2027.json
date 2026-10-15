@@ -1,0 +1,31 @@
+{
+ "a": "2 years from Sep/Oct 2027; travel budget",
+ "added": "2026-10-15",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-15",
+ "d": "2026-12-22",
+ "dt": "Full consideration by Dec 22, 2026; later applications considered until filled",
+ "e": "Two-year postdoc in high-energy QCD with Tolga Altinoluk and Guillaume Beuf. Requires a PhD in theoretical high-energy or nuclear physics with QCD research experience.",
+ "f": "National Centre for Nuclear Research (NCBJ), Theoretical Physics Division",
+ "fields": [
+  "nut",
+  "ppt"
+ ],
+ "id": "ncbj-warsaw-qcd-theory-postdoc-2027",
+ "n": "NCBJ Warsaw: Postdoc in QCD Theory",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3214626",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3214626",
+ "us": false
+}

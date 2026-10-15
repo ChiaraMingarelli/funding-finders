@@ -1,0 +1,34 @@
+{
+ "a": "3 years",
+ "added": "2026-10-15",
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-15",
+ "d": "2026-11-26",
+ "dt": "Contact the host group by Nov 7, 2026; AEI candidate form open Nov 12 to Nov 26, 2026",
+ "e": "Spanish national 3-year postdoctoral fellowship hosted at ICCUB, for people whose PhD was awarded between Jan 1, 2024 and Dec 31, 2026. Candidates need a supporting ICCUB researcher and should contact the group first.",
+ "f": "Institute of Cosmos Sciences, University of Barcelona (ICCUB)",
+ "fields": [
+  "astro",
+  "ppt",
+  "grav",
+  "nut"
+ ],
+ "id": "iccub-juan-de-la-cierva-2026-eoi",
+ "n": "ICCUB (Barcelona): Juan de la Cierva 2026 postdoctoral fellowship (expressions of interest)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3214624",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://icc.ub.edu/node/1716565",
+ "us": false
+}

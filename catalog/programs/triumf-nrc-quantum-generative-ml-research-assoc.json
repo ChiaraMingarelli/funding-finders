@@ -1,0 +1,33 @@
+{
+ "a": "Not stated",
+ "added": "2026-10-15",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-15",
+ "d": "2026-11-03",
+ "dt": "Nov 3, 2026",
+ "e": "Research associate employed by NRC Canada at TRIUMF (Vancouver), developing quantum-assisted generative machine-learning models on quantum annealing hardware for particle-shower and calorimeter simulation and proton therapy, with D-Wave and Perimeter Institute.",
+ "f": "National Research Council Canada / TRIUMF",
+ "fields": [
+  "qp",
+  "ds"
+ ],
+ "id": "triumf-nrc-quantum-generative-ml-research-assoc",
+ "n": "NRC Canada at TRIUMF: Research Associate, Quantum-Assisted Generative Machine Learning",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "Canada",
+ "s": "open",
+ "src": "inspire:3214896",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3214896",
+ "unv": "Salary and any citizenship preference not stated in the listing.",
+ "us": false
+}

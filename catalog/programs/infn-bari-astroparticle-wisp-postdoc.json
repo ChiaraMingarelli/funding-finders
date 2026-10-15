@@ -1,0 +1,37 @@
+{
+ "a": "2 years; €36,000/yr gross, plus travel to and from Bari",
+ "added": "2026-10-15",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast",
+  "radar"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-15",
+ "d": "2026-11-12",
+ "dt": "Nov 12, 2026, 17:59 (INFN call no. 29216)",
+ "e": "Two-year postdoc on astrophysical probes of weakly interacting slim particles (axions, dark photons, massive gravitons) in stars, supernovae and neutron stars, including multi-messenger signatures with gamma rays, neutrinos and gravitational waves. Open to non-Italian citizens with a PhD from a foreign institution, and to Italian citizens who have held a position abroad for at least three years.",
+ "f": "INFN, Sezione di Bari",
+ "fields": [
+  "astro",
+  "ppt",
+  "grav"
+ ],
+ "id": "infn-bari-astroparticle-wisp-postdoc",
+ "n": "INFN Bari: Postdoctoral Fellowship in Theoretical Astroparticle Physics (WISPs)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33082",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33082",
+ "us": false
+}

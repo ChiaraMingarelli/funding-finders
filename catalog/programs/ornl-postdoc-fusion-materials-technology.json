@@ -1,0 +1,29 @@
+{
+ "a": "Not stated",
+ "added": "2026-10-15",
+ "aud": [
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-15",
+ "d": null,
+ "dt": "Open at least 5 days, then closes once filled",
+ "e": "Hydrogen-isotope separation by mass spectrometry and MEMS/microfluidic methods, and the behavior of irradiated ceramics and alloys for tritium technology, for applicants with a PhD from the last 5 years. No citizenship requirement is stated.",
+ "f": "Oak Ridge National Laboratory, Advanced Nuclear Materials Group",
+ "fields": [
+  "mat",
+  "energy"
+ ],
+ "id": "ornl-postdoc-fusion-materials-technology",
+ "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Fusion Materials and Technology",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:ornl-17102-fusion-materials",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Fusion-Materials-&-Technology-TN-37830/1429061200/",
+ "us": false
+}

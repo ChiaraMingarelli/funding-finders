@@ -1,0 +1,31 @@
+{
+ "a": "Not stated",
+ "added": "2026-10-15",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-15",
+ "d": "2026-11-13",
+ "dt": "Nov 13, 2026",
+ "e": "Postdoc in the ALPHA collaboration searching for dark-matter axions with wire-array metamaterial resonators: designing and testing microwave cavities in a dilution refrigerator and building the analysis framework.",
+ "f": "Department of Physics, Stockholm University",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "stockholm-u-axion-experiment-postdoc-alpha",
+ "n": "Stockholm University: Postdoctoral Fellow in Axion Search Experiment (ALPHA)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3214619",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.su.se/english/divisions/department-of-physics/about-the-department/work-with-us/postdoctoral-fellow-in-axion-search-experiment",
+ "us": false
+}

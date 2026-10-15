@@ -1,0 +1,29 @@
+{
+ "a": "Tenure-track Assistant Professor",
+ "added": "2026-10-15",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-15",
+ "d": "2026-12-02",
+ "dt": "Full consideration by Dec 2, 2026",
+ "e": "Tenure-track position for experimentalists in non-collider searches and rare phenomena, including neutrino oscillations, neutrinoless double beta decay and direct dark matter detection. Apply through Interfolio.",
+ "f": "University of Texas at Austin, Department of Physics",
+ "fields": [
+  "ppx",
+  "nux"
+ ],
+ "id": "fj-ut-austin-asst-prof-exp-particle-physics",
+ "n": "UT Austin Physics: Assistant Professor, Experimental Particle Physics (non-collider)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33062",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://apply.interfolio.com/194655",
+ "us": false
+}

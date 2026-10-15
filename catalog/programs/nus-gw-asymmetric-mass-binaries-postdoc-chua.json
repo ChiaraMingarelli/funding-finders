@@ -1,0 +1,37 @@
+{
+ "a": "Salary not stated; travel support",
+ "added": "2026-10-15",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast",
+  "radar"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-15",
+ "d": "2026-12-15",
+ "dt": "Full consideration for materials received by Dec 15, 2026",
+ "e": "Postdoc with Alvin Chua on source modelling and data analysis of extreme- and intermediate-mass-ratio inspirals for LISA and other next-generation gravitational-wave detectors. Initial 1-year appointment, expected to renew to 2 to 3 years, starting as early as March 2027; the fellow joins the LISA Consortium.",
+ "f": "Department of Physics, National University of Singapore",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "nus-gw-asymmetric-mass-binaries-postdoc-chua",
+ "n": "National University of Singapore: Postdoc in gravitational-wave modelling and analysis of asymmetric-mass binaries (Chua group)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:hyperspace-nus-chua-gw",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://hyperspace.uni-frankfurt.de/2026/10/15/postdoctoral-fellowship-in-gravitational-wave-modelling-analysis/",
+ "unv": "No NUS-hosted ad found; details are from the Hyperspace@GU post. Salary not stated.",
+ "us": false
+}

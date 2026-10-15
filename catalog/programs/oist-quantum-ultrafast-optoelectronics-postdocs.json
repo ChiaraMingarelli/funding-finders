@@ -1,0 +1,35 @@
+{
+ "a": "Not stated",
+ "added": "2026-10-15",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-15",
+ "d": "2026-11-30",
+ "dt": "Nov 30, 2026",
+ "e": "Two postdoc openings working on 2D quantum materials, van der Waals devices, terahertz and ultrafast microscopy, and qubit platforms. No citizenship limits stated.",
+ "f": "Okinawa Institute of Science and Technology (OIST)",
+ "fields": [
+  "cmx",
+  "qp",
+  "phot",
+  "mat"
+ ],
+ "id": "oist-quantum-ultrafast-optoelectronics-postdocs",
+ "n": "OIST: Postdoctoral Scholars, Quantum and Ultrafast Optoelectronics Unit",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:quantiki-oist-quo-postdoc",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.oist.jp/careers/postdoctoral-scholars-quantum-and-ultrafast-optoelectronics-unit",
+ "unv": "The OIST page could not be read automatically; deadline and details are from the Quantiki listing.",
+ "us": false
+}

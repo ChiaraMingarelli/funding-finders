@@ -1,0 +1,33 @@
+{
+ "a": "Not stated",
+ "added": "2026-10-15",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-15",
+ "d": null,
+ "dt": "Open at least 5 days, then closes once a qualified candidate is identified",
+ "e": "Pulsed-laser-deposition growth of complex-oxide films and twisted free-standing oxide-membrane heterostructures and devices, for applicants with a PhD from the last 5 years. No citizenship requirement is stated; foreign nationals with under 3 years of US residence need a DOE risk determination.",
+ "f": "Oak Ridge National Laboratory, Materials Science and Technology Division",
+ "fields": [
+  "cmx",
+  "mat",
+  "dev"
+ ],
+ "id": "ornl-postdoc-pld-twisted-oxide-quantum-materials",
+ "n": "Oak Ridge National Laboratory: Postdoc, PLD Synthesis of Thin-Film Heterostructures and Twisted Oxide Quantum Materials",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:ornl-16261-twisted-oxide",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoc-PLD-synthesis-of-thin-film-heterostructures-and-twisted-oxide-quantum-materials-TN-37830/1383106700/",
+ "us": false
+}

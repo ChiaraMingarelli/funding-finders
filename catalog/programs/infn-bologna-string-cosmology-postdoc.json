@@ -1,0 +1,36 @@
+{
+ "a": "2 years, from fall 2027",
+ "added": "2026-10-15",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-15",
+ "d": "2026-11-12",
+ "dt": "Nov 12, 2026, 11:59pm CET (INFN call no. 29216, position 2); letters by Nov 15",
+ "e": "Two-year postdoc on string theory in cosmology, gravitational waves and axions, within the INFN theory fellowship program. Open to non-Italian citizens with a foreign PhD and to Italian citizens abroad since Nov 12, 2023; PhD on or after Nov 12, 2018.",
+ "f": "INFN, Sezione di Bologna",
+ "fields": [
+  "ppt",
+  "astro",
+  "grav"
+ ],
+ "id": "infn-bologna-string-cosmology-postdoc",
+ "n": "INFN Bologna: Postdoc in String Cosmology and String Phenomenology",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3214821",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://reclutamento.dsi.infn.it/",
+ "us": false
+}
