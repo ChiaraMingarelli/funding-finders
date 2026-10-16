@@ -1,0 +1,34 @@
+{
+ "a": "$99,192-$110,808 (union step scale)",
+ "added": "2026-10-16",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-16",
+ "d": "2026-10-26",
+ "dt": "Priority consideration by Oct 26, 2026; accepted until posting removed",
+ "e": "Two-year theory and computation postdoc at the Molecular Foundry modeling X-ray interactions with quantum and nanostructured materials (electronic structure, magnetism, light-matter interactions, structured/topological fields). Requires a PhD in physics, applied math or related field and fewer than 3 years of paid postdoc experience.",
+ "f": "Lawrence Berkeley National Laboratory",
+ "fields": [
+  "cmt",
+  "mat",
+  "phot"
+ ],
+ "id": "lbnl-foundry-xray-quantum-materials-theory-postdoc",
+ "n": "Berkeley Lab Molecular Foundry: Postdoctoral Researcher, Applied Mathematics and Computational Physics (X-ray interactions with quantum materials)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "other:lbnl-7631",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.lbl.gov/jobs/postdoctoral-researcher-applied-mathematics-and-computational-physics-7631",
+ "unv": "Exact posting date not shown (req ID sits between recent known LBNL postings); no citizenship limit stated.",
+ "us": false
+}

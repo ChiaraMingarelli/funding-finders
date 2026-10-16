@@ -1,0 +1,31 @@
+{
+ "a": "EUR 36,000/yr gross, 2 years",
+ "added": "2026-10-16",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-16",
+ "d": "2026-11-12",
+ "dt": "12 Nov 2026, 23:59 CET (INFN call 29216)",
+ "e": "Two-year INFN fellowship at Pavia on precision phenomenology (hadronic corrections to muon g-2, luminosity at future lepton colliders, Drell-Yan/W mass) and Monte Carlo generators. Open to non-Italian citizens with a PhD from a foreign institution, or Italian citizens who have held a position abroad for at least three years; PhD on or after 12 Nov 2018 (PhD needed by 1 Nov 2027).",
+ "f": "INFN Pavia",
+ "fields": [
+  "ppt"
+ ],
+ "id": "infn-pavia-high-energy-phenomenology-postdoc",
+ "n": "INFN Pavia: Postdoc in high-energy phenomenology (precision calculations)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3214976",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3214976",
+ "unv": "Host ad link not confirmed; deadline from INFN call 29216.",
+ "us": false
+}

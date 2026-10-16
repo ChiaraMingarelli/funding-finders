@@ -1,0 +1,33 @@
+{
+ "a": "$70,000 per year plus benefits",
+ "added": "2026-10-16",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-16",
+ "d": "2026-11-30",
+ "dt": "Deadline Nov 30, 2026",
+ "e": "Three-year postdoc starting Fall 2027 at the interface of condensed matter theory and quantum information (topological phases, error correction, quantum simulation, many-body dynamics), co-supervised by Max McGinley and Carolyn Zhang. Applicants should hold or be close to completing a PhD in physics or a related field.",
+ "f": "University of British Columbia, Department of Physics and Astronomy",
+ "fields": [
+  "cmt",
+  "qp"
+ ],
+ "id": "ubc-qmi-postdoc-cmt-quantum-information-mcginley-zhang",
+ "n": "UBC Quantum Matter Institute: Postdoctoral Research Fellow, condensed matter theory and quantum information (McGinley/Zhang)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "Canada",
+ "s": "open",
+ "src": "ajo:33092",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33092",
+ "unv": "Citizenship rules not stated.",
+ "us": false
+}

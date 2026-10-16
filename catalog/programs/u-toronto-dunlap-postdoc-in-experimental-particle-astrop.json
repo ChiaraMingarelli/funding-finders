@@ -12,8 +12,8 @@
  ],
  "c": "Group postdoc",
  "checked": "2026-10-12",
- "d": "2026-10-15",
- "dt": "2026/10/15 23:59:59 (time zone not stated on page); review begins Oct 16",
+ "d": null,
+ "dt": "Review begins Oct 19, 2026 and continues until a suitable candidate is found",
  "e": "GAPS Antarctic balloon cosmic-ray antinuclei search for dark matter; radiation-sensor instrumentation. PhD on/after Jan 1, 2022; start Jan 2027.",
  "f": "University of Toronto, Dunlap Institute (Field Rogers)",
  "fields": [
@@ -27,7 +27,7 @@
  "nom": false,
  "pt": "group",
  "region": "Canada",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:32620",
  "stages": [
   "pd"

@@ -1,0 +1,32 @@
+{
+ "a": "Not stated",
+ "added": "2026-10-16",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-16",
+ "d": "2027-01-07",
+ "dt": "Review begins 7 Jan 2027; later applications may be considered until filled",
+ "e": "Two-year postdocs in the QCD theory group (small-x, parton distributions, event generators, hydrodynamics of heavy-ion collisions), linked to the Centre of Excellence in Quark Matter, starting Sep/Oct 2027. PhD in theoretical high-energy or nuclear physics required by start; apply by email to Heikki Mäntysaari.",
+ "f": "University of Jyväskylä",
+ "fields": [
+  "ppt",
+  "nut"
+ ],
+ "id": "jyvaskyla-qcd-heavy-ion-theory-postdocs",
+ "n": "University of Jyväskylä: Postdocs in QCD and heavy-ion theory",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3214936",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3214936",
+ "unv": "No host ad linked; details from INSPIRE posting only. Salary not stated.",
+ "us": false
+}

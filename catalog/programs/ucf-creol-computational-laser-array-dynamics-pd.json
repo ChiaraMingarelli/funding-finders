@@ -1,0 +1,33 @@
+{
+ "a": "Negotiable",
+ "added": "2026-10-16",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-16",
+ "d": null,
+ "dt": "No deadline stated; posted 2026-10-06",
+ "e": "Computational postdoc developing fast numerical methods (delay-differential equations, HPC/GPU) to model collective dynamics in large coupled semiconductor laser arrays, linked to experiments. Applicants must be authorized to work for any US employer; no H-1B sponsorship.",
+ "f": "University of Central Florida, CREOL",
+ "fields": [
+  "phot",
+  "ds"
+ ],
+ "id": "ucf-creol-computational-laser-array-dynamics-pd",
+ "n": "UCF CREOL: Postdoctoral Research Associate in Large Nonlinear Computational Dynamical Systems (laser arrays)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:ucf-R114370",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://ucf.wd1.myworkdayjobs.com/careers/job/Orlando-FL-Main-Campus/Postdoctoral-Research-Associate-in-Large-Nonlinear-Computational-Dynamical-Systems_R114370",
+ "unv": "Salary and deadline not stated.",
+ "us": false
+}

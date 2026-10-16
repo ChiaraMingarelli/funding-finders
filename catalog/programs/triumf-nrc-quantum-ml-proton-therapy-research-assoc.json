@@ -1,0 +1,34 @@
+{
+ "a": "From CAD 83,985 (RO/RCO-2)",
+ "added": "2026-10-16",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-16",
+ "d": "2026-11-03",
+ "dt": "Review starts immediately; applications before 3 Nov 2026 get full consideration",
+ "e": "NRC-employed research associate based at TRIUMF (Vancouver) using quantum-assisted generative ML in place of Monte Carlo for proton-therapy dose simulations, with D-Wave and Perimeter. PhD in a quantitative field; preference to Canadian citizens and permanent residents.",
+ "f": "National Research Council Canada / TRIUMF",
+ "fields": [
+  "qp",
+  "ds",
+  "ppx"
+ ],
+ "id": "triumf-nrc-quantum-ml-proton-therapy-research-assoc",
+ "n": "NRC Canada at TRIUMF: Research Associate, Quantum Machine Learning for Proton Therapy",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "Canada",
+ "s": "open",
+ "src": "inspire:3214918",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3214918",
+ "unv": "No public host ad (application via SharePoint upload); deadline wording truncated in posting after 'November 3'.",
+ "us": false
+}

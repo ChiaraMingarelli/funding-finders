@@ -1,0 +1,33 @@
+{
+ "a": "Not stated",
+ "added": "2026-10-16",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-16",
+ "d": "2026-12-01",
+ "dt": "Dec 1, 2026 for full consideration; review continues until filled",
+ "e": "Two-year (renewable to three) fellowship combining AI/ML with chemistry, physics, biology or materials science for climate-related problems, starting spring/summer 2027. Open to PhDs awarded between January 2025 and August 2027 in AI/ML/data science or a physical/biological science.",
+ "f": "UC Berkeley, Bakar Institute of Digital Materials for the Planet",
+ "fields": [
+  "mat",
+  "ds"
+ ],
+ "id": "uc-berkeley-bidmap-postdoctoral-fellowship-2027",
+ "n": "UC Berkeley BIDMaP: Postdoctoral Fellowship in AI, Advanced Materials, and Planetary Health",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33100",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://bidmap.berkeley.edu/fellowship-opportunities/postdoctoral-fellowships",
+ "unv": "Salary and citizenship rules not stated on AJO; official page not opened.",
+ "us": false
+}

@@ -1,0 +1,33 @@
+{
+ "a": "Not stated",
+ "added": "2026-10-16",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-16",
+ "d": null,
+ "dt": "No deadline stated; posted 2026-10-07",
+ "e": "Several postdoc positions on MOCVD growth, doping and in situ characterization of 2D transition metal dichalcogenides, with AI-assisted thin-film workflows, using the 2DCC facility. PhD in MSE, EE, ChemE, chemistry, physics or related field.",
+ "f": "Penn State University, Department of Materials Science and Engineering",
+ "fields": [
+  "mat",
+  "dev"
+ ],
+ "id": "psu-redwing-mocvd-2d-tmd-postdocs",
+ "n": "Penn State MSE (Redwing group, 2D Crystal Consortium): Postdoctoral Scholars, MOCVD of 2D TMDs",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:psu-83293",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Hire---Redwing-Group---Department-of-Materials-Science-and-Engineering_REQ_0000083293-1",
+ "unv": "Salary, deadline and citizenship terms not stated.",
+ "us": false
+}

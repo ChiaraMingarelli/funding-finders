@@ -1,0 +1,39 @@
+{
+ "a": "Up to TVöD Bund E13; fixed-term until 30 June 2029",
+ "added": "2026-10-16",
+ "asub": [
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-16",
+ "d": "2026-11-13",
+ "dt": "Apply via online portal by Nov 13, 2026, quoting T02D-26-01",
+ "e": "Experimental postdoc on optical and thermo-mechanical characterization of large silicon mirror substrates for the Einstein Telescope low-frequency interferometer, within the German ET Joint Project D. Requires a PhD in physics, materials/surface science, engineering or a related experimental field; no citizenship limits stated.",
+ "f": "Deutsches Zentrum für Astrophysik (DZA)",
+ "fields": [
+  "grav",
+  "inst",
+  "phot",
+  "mat"
+ ],
+ "id": "dza-postdoc-optical-metrology-einstein-telescope",
+ "n": "German Center for Astrophysics (DZA): Postdoctoral Researcher in Optical Metrology for Einstein Telescope silicon mirrors (T02D-26-01)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:lisa-dza-t02d-26-01",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.deutscheszentrumastrophysik.de/en-GB/jobs/8547185-t02d-26-01-postdoctoral-researcher-f-m-d-optical-metrology",
+ "unv": "Location in Lusatia (exact site) and start date beyond 'earliest possible' not stated.",
+ "us": false
+}
