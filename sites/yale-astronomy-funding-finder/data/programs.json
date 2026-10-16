@@ -746,34 +746,6 @@
   "us": false
  },
  {
-  "a": "One-week conferences (~80 people)",
-  "added": "2026-09-29",
-  "c": "Visiting program",
-  "checked": "2026-10-12",
-  "d": "2026-10-15",
-  "dt": "Most 2027 deadlines have passed; Multimessenger Probes of New Scales in Physics (Jan 10-15) and World Models (Feb 28-Mar 5) take applications until Oct 15, 2026",
-  "e": "Open application through the ACP portal.",
-  "f": "Aspen Center for Physics",
-  "fields": [
-   "all"
-  ],
-  "id": "aspen-center-for-physics-winter-conferences-2027",
-  "n": "Aspen Center for Physics Winter Conferences 2027",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "other",
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "pd",
-   "tt",
-   "ten",
-   "gr"
-  ],
-  "u": "https://aspenphys.org/winter-conferences/",
-  "us": false
- },
- {
   "a": "€4,552–5,758 gross/month; 3 years (2+1)",
   "added": "2026-09-30",
   "asub": [
@@ -1513,33 +1485,6 @@
   "us": false
  },
  {
-  "a": "£37,694–46,049 (RA) or £47,389–59,966 (Senior) + £10k/yr; 3 years",
-  "added": "2026-09-30",
-  "asub": [],
-  "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-10-15",
-  "dt": "Oct 15, 2026; references needed by Oct 20, 2026",
-  "e": "Cosmology and astrophysics, including CMB, galaxies, dark matter, GWs and instrumentation. PhD or thesis submitted by the start.",
-  "f": "Kavli Institute for Cosmology, Cambridge (IoA, Cavendish, DAMTP)",
-  "fields": [
-   "astro"
-  ],
-  "id": "cambridge-kavli-institute-fellowship-in-cosmology-astrop",
-  "n": "Cambridge: Kavli Institute Fellowship in Cosmology & Astrophysics",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "aas:8c7f51df",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.cam.ac.uk/jobs/kavli-institute-fellowship-in-cosmology-and-astrophysics-fixed-term-ka50918",
-  "us": false
- },
- {
   "a": "About 13,000 PLN gross/month; up to 30 months",
   "added": "2026-10-02",
   "asub": [
@@ -1926,60 +1871,6 @@
   ],
   "u": "https://th-dep.web.cern.ch/jobs",
   "unv": "Stipend figure is from the general Research Fellowship page",
-  "us": false
- },
- {
-  "a": "$84,600/yr + COLA + $18,000/yr research budget; 3 years",
-  "added": "2026-09-30",
-  "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-10-15",
-  "dt": "Oct 15, 2026, 5:00 pm EDT",
-  "e": "Theory, observation, instrumentation, engineering or lab astrophysics; at most 24 months of post-PhD research at start (Sep 1, 2027). Open to any nationality.",
-  "f": "Center for Astrophysics | Harvard & Smithsonian (Smithsonian Astrophysical Observatory)",
-  "fields": [
-   "astro",
-   "inst"
-  ],
-  "id": "cfa-cfa-prize-postdoctoral-fellowship",
-  "n": "CfA: CfA Prize Postdoctoral Fellowship",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "ajo:32461",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32461",
-  "us": false
- },
- {
-  "a": "$87,500/yr + COLA + $18,000/yr research budget; 4 years",
-  "added": "2026-09-30",
-  "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-10-15",
-  "dt": "Oct 15, 2026, 5:00 pm Boston time",
-  "e": "Astronomy, astrophysics and earth/planetary/space sciences (theory, observation, instrumentation, lab). At most 42 months post-PhD research at start (Sep 1, 2027).",
-  "f": "Center for Astrophysics | Harvard & Smithsonian (Smithsonian Astrophysical Observatory)",
-  "fields": [
-   "astro",
-   "inst"
-  ],
-  "id": "cfa-clay-postdoctoral-fellowship",
-  "n": "CfA: Clay Postdoctoral Fellowship",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "ajo:32462",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32462",
   "us": false
  },
  {
@@ -2952,6 +2843,39 @@
   "us": false
  },
  {
+  "a": "Up to TVöD Bund E13; fixed-term until 30 June 2029",
+  "added": "2026-10-16",
+  "asub": [
+   "inst"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-16",
+  "d": "2026-11-13",
+  "dt": "Apply via online portal by Nov 13, 2026, quoting T02D-26-01",
+  "e": "Experimental postdoc on optical and thermo-mechanical characterization of large silicon mirror substrates for the Einstein Telescope low-frequency interferometer, within the German ET Joint Project D. Requires a PhD in physics, materials/surface science, engineering or a related experimental field; no citizenship limits stated.",
+  "f": "Deutsches Zentrum für Astrophysik (DZA)",
+  "fields": [
+   "grav",
+   "inst",
+   "phot",
+   "mat"
+  ],
+  "id": "dza-postdoc-optical-metrology-einstein-telescope",
+  "n": "German Center for Astrophysics (DZA): Postdoctoral Researcher in Optical Metrology for Einstein Telescope silicon mirrors (T02D-26-01)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:lisa-dza-t02d-26-01",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.deutscheszentrumastrophysik.de/en-GB/jobs/8547185-t02d-26-01-postdoctoral-researcher-f-m-d-optical-metrology",
+  "unv": "Location in Lusatia (exact site) and start date beyond 'earliest possible' not stated.",
+  "us": false
+ },
+ {
   "a": "Observing time on the e-MERLIN radio interferometer (L, C and K bands; 12-150 mas resolution) for Cycle 23, submitted through the Polaris proposal tool from 1 Oct 2026. Lovell telescope availability is limited this cycle. Joint EVN+e-MERLIN observations go through the EVN call. No funding.",
   "added": "2026-10-03",
   "asub": [],
@@ -3151,32 +3075,6 @@
   ],
   "u": "https://www.eso.org/sci/observing/phase1/fast-track-channel.html",
   "unv": "FTC 117B release date and deadline",
-  "us": false
- },
- {
-  "a": "competitive; 3 years (Garching) / 4 years (Chile)",
-  "added": "2026-09-30",
-  "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-10-15",
-  "dt": "Oct 15, 2026",
-  "e": "Fellowships in all astrophysical fields using ESO facilities. PhD before Nov 1, 2027.",
-  "f": "European Southern Observatory (Garching or Chile)",
-  "fields": [
-   "astro"
-  ],
-  "id": "eso-fellowship-programme-2026-2027",
-  "n": "ESO: Fellowship Programme 2026/2027",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "aas:794d54ad",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://recruitment.eso.org/",
   "us": false
  },
  {
@@ -5372,6 +5270,34 @@
   "us": false
  },
  {
+  "a": "Not stated in posting (other ads under INFN call 29216 give EUR 36,000/yr gross)",
+  "added": "2026-10-16",
+  "c": "Group postdoc",
+  "checked": "2026-10-16",
+  "d": "2026-11-12",
+  "dt": "12 Nov 2026, 23:59 CET (INFN call 29216)",
+  "e": "Two-year INFN postdoctoral fellowship in the Milano-Bicocca string theory group (INFN network GSS), starting fall 2027; apply via the INFN portal under call 29216. Open to non-Italian citizens with a PhD from a foreign institution, or Italian citizens who have held a position abroad for at least three years; PhD on or after 12 Nov 2018 (PhD needed by 1 Nov 2027).",
+  "f": "INFN / University of Milano-Bicocca",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "infn-milano-bicocca-string-theory-postdoc",
+  "n": "INFN Milano-Bicocca: Postdoc in the String Theory group (gravitational path integrals, quantum gravity, holography)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3215250",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://reclutamento.dsi.infn.it",
+  "unv": "Salary not stated in this posting; call deadline confirmed on INFN call page (29216).",
+  "us": false
+ },
+ {
   "a": "$87,000 to $91,000/yr (incl. health insurance)",
   "added": "2026-09-29",
   "c": "Fellowship",
@@ -5575,35 +5501,6 @@
   ],
   "u": "https://hyperspace.uni-frankfurt.de/2026/10/08/research-fellowships-in-gravitational-physics-lisbon-portugal-2/",
   "unv": "The board lists a deadline of 2027-01-12, which conflicts with the text (send materials before December 2026, when the FCT call opens); exact EOI date and FCT eligibility rules not confirmed.",
-  "us": false
- },
- {
-  "a": "min €76,986 gross/yr + €25,000/yr research budget; 2-year contract, expected to be renewed for a third year after review",
-  "added": "2026-09-30",
-  "asub": [
-   "cos"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-10-15",
-  "dt": "Oct 15, 2026, 14:00 CEST; at least 2 of 3 reference letters must arrive by then",
-  "e": "Independent programs in astronomy, astrophysics and cosmology. PhD no more than 6 years before the start.",
-  "f": "Institute of Science and Technology Austria, Klosterneuburg",
-  "fields": [
-   "astro"
-  ],
-  "id": "ista-sirius-fellowship-in-astrophysics",
-  "n": "ISTA: Sirius Fellowship in Astrophysics",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "aas:3349ec10",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://ista.ac.at/en/education/postdocs/sirius-fellowship",
   "us": false
  },
  {
@@ -6544,7 +6441,7 @@
   ],
   "c": "Group postdoc",
   "checked": "2026-10-12",
-  "d": "2026-10-15",
+  "d": null,
   "dt": "Oct 15, 2026 (INSPIRE listing); applications reviewed on a rolling basis until filled",
   "e": "AI/ML applications for rare-event searches with cryogenic detectors. Requires a PhD in particle or astroparticle physics with an AI/ML background.",
   "f": "Marietta Blau Institute (ÖAW), Vienna; Jochen Schieck, Florian Reindl",
@@ -7058,37 +6955,6 @@
    "pd"
   ],
   "u": "https://www.mpa-garching.mpg.de/postdoc2026",
-  "us": false
- },
- {
-  "a": "TVöD Bund E14; 3 years, extendable to 5",
-  "added": "2026-09-30",
-  "asub": [
-   "ism"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-12",
-  "d": "2026-10-15",
-  "dt": "Full consideration Sep 15, 2026; later applications considered until Oct 15, 2026 if unfilled",
-  "e": "Nanoparticle mass spectrometry in the SRET ion trap for ISM chemistry. Hands-on UHV, laser and RF-ion-trap experience needed.",
-  "f": "Max Planck Institute for Extraterrestrial Physics, Center for Astrochemical Studies; PI Paola Caselli",
-  "fields": [
-   "astro",
-   "amo",
-   "inst"
-  ],
-  "id": "mpe-garching-astrochemistry-nanoparticle-experiment-post",
-  "n": "MPE Garching: Astrochemistry nanoparticle experiment postdoc",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "aas:5fe8c95e",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.mpe.mpg.de/8221585/job_full_offer_26916354?c=247046",
   "us": false
  },
  {
@@ -7629,8 +7495,8 @@
   ],
   "c": "Federal grant",
   "checked": "2026-10-12",
-  "d": "2026-10-15",
-  "dt": "Mandatory NOI Oct 15; proposal Dec 3, 2026",
+  "d": "2026-12-03",
+  "dt": "Proposals due Dec 3, 2026 (the mandatory notice of intent was due Oct 15)",
   "e": "This round focuses on time-domain multi-messenger astrophysics. It must be a multi-institution network with one PI per proposal, and review is dual-anonymous.",
   "f": "NASA SMD Astrophysics",
   "fields": [
@@ -8607,8 +8473,8 @@
   ],
   "c": "Fellowship",
   "checked": "2026-10-12",
-  "d": "2026-10-15",
-  "dt": "5 pm submitter's local time (window opened Aug 15)",
+  "d": null,
+  "dt": "Last deadline Oct 15, 2026; the next cycle is not posted yet",
   "e": "US citizens, nationals and permanent residents only. PhD within 5 years or by Oct 1, 2027. At most 2 attempts.",
   "f": "NSF AST · NSF 22-621",
   "fields": [
@@ -8627,7 +8493,7 @@
   "nom": false,
   "pt": "prize",
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
@@ -9546,6 +9412,66 @@
   "u": "https://osg-htc.org/services/ospool/"
  },
  {
+  "a": "$65,000-$70,000; up to 3 years",
+  "added": "2026-10-16",
+  "asub": [
+   "exo"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-16",
+  "d": "2026-10-31",
+  "dt": "Posting end date Oct 31, 2026 (from job-board record)",
+  "e": "Postdoc supporting the HWO Community Science and Instrument Team and Technology Maturation Project Office on Living Worlds science goals (reflected-light spectroscopy, retrievals, biosignatures, astrometry). PhD in astronomy, astrophysics or related field by appointment.",
+  "f": "The Ohio State University, Department of Astronomy",
+  "fields": [
+   "astro"
+  ],
+  "id": "osu-astronomy-hwo-living-worlds-postdoc",
+  "n": "Ohio State Astronomy (Gaudi group): Postdoctoral Scholar, Habitable Worlds Observatory Living Worlds",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:osu-R155245",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Postdoctoral-Scholar_R155245",
+  "unv": "Close date from Workday metadata; may also appear on the AAS Job Register (outside this agent's scope).",
+  "us": false
+ },
+ {
+  "a": "$65,000-$70,000; up to 3 years",
+  "added": "2026-10-16",
+  "asub": [
+   "exo"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-16",
+  "d": "2026-10-31",
+  "dt": "Posting end date Oct 31, 2026 (from job-board record)",
+  "e": "Postdoc on Roman Galactic Exoplanet Survey science: microlensing theory, commissioning and early GBTDS data analysis, and event-analysis and occurrence-rate pipelines. PhD in astronomy, astrophysics or related field by time of hire.",
+  "f": "The Ohio State University, Department of Astronomy",
+  "fields": [
+   "astro"
+  ],
+  "id": "osu-astronomy-roman-gbtds-microlensing-postdoc",
+  "n": "Ohio State Astronomy (Gaudi group): Postdoctoral Scholar, Roman Galactic Bulge Time Domain Survey",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:osu-R155249",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Postdoctoral-Scholar_R155249-1",
+  "unv": "Close date from Workday metadata; may also appear on the AAS Job Register (outside this agent's scope).",
+  "us": false
+ },
+ {
   "a": "36 months",
   "added": "2026-09-30",
   "asub": [
@@ -9961,6 +9887,38 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3171411",
+  "us": false
+ },
+ {
+  "a": "Competitive with North American postdoc salaries (amount not stated)",
+  "added": "2026-10-16",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-16",
+  "d": "2026-12-01",
+  "dt": "Deadline Dec 1, 2026",
+  "e": "Three-year independent theory fellowships in astroparticle theory, particle phenomenology, cosmology, dark-matter astrophysics and high-energy theory, starting 2027-28, in the Bramante/Vincent group. PhD in physics or astronomy required by start; all may apply, with priority to Canadians and permanent residents.",
+  "f": "Queen's University, Arthur B. McDonald Canadian Astroparticle Physics Research Institute",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "queens-mcdonald-institute-theory-fellowship-2027",
+  "n": "Queen's University / McDonald Institute: McDonald Institute and MI-CITA Theory Fellowships (astroparticle theory)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "Canada",
+  "s": "open",
+  "src": "ajo:33096",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33096",
+  "unv": "Exact salary not stated.",
   "us": false
  },
  {
@@ -11151,39 +11109,6 @@
   "us": false
  },
  {
-  "a": "not listed; 3 years (start Jan or Feb 2027)",
-  "added": "2026-09-30",
-  "asub": [
-   "he",
-   "inst"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-12",
-  "d": "2026-10-15",
-  "dt": "Oct 15, 2026 for full consideration",
-  "e": "IceCube neutrino observatory calibration. Requires a PhD in experimental or astroparticle physics.",
-  "f": "TU Munich, Cosmic Particles; Elisa Resconi, Philipp Eller",
-  "fields": [
-   "astro",
-   "ppx",
-   "inst"
-  ],
-  "id": "tu-munich-icecube-astroparticle-postdoc",
-  "n": "TU Munich: IceCube astroparticle postdoc",
-  "nfit": "High",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3184963",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.ph.nat.tum.de/cosmic-particles",
-  "unv": "The ad is on INSPIRE only; the TUM group page lists no openings.",
-  "us": false
- },
- {
   "a": "not listed; multiple positions",
   "added": "2026-09-30",
   "asub": [
@@ -11224,8 +11149,8 @@
   ],
   "c": "Group postdoc",
   "checked": "2026-10-12",
-  "d": "2026-10-15",
-  "dt": "2026/10/15 23:59:59 (time zone not stated on page); review begins Oct 16",
+  "d": null,
+  "dt": "Review begins Oct 19, 2026 and continues until a suitable candidate is found",
   "e": "GAPS Antarctic balloon cosmic-ray antinuclei search for dark matter; radiation-sensor instrumentation. PhD on/after Jan 1, 2022; start Jan 2027.",
   "f": "University of Toronto, Dunlap Institute (Field Rogers)",
   "fields": [
@@ -11239,7 +11164,7 @@
   "nom": false,
   "pt": "group",
   "region": "Canada",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:32620",
   "stages": [
    "pd"
@@ -11465,8 +11390,8 @@
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
-  "d": "2026-10-15",
-  "dt": "Oct 15, 2026",
+  "d": null,
+  "dt": "Last deadline Oct 15, 2026",
   "e": "High-contrast AO and coronagraph performance, Roman CGI data and GPI upgrade commissioning. Optics/AO expertise needed.",
   "f": "UC Observatories, Santa Cruz; contact Graseilah Coolidge",
   "fields": [
@@ -11479,13 +11404,13 @@
   "nom": false,
   "pt": "group",
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "src": "aas:95c9bf97",
   "stages": [
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/95c9bf97",
-  "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 2026, so the deadline and details were not reconfirmed.",
+  "unv": "On Oct 16, 2026 the AAS Job Register blocked automated access, so it is not known whether the post is still open.",
   "us": false
  },
  {
@@ -12337,6 +12262,37 @@
   "us": false
  },
  {
+  "a": "Not stated (described as commensurate with prestigious prize fellowships, plus research and travel budget)",
+  "added": "2026-10-16",
+  "asub": [
+   "he"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-16",
+  "d": "2026-12-15",
+  "dt": "Materials and three letters by 11:59 pm US Central, Dec 15, 2026 (email to viper.vanderbilt@gmail.com)",
+  "e": "Postdoctoral fellowship in the Vanderbilt Initiative in Probes of Extreme Relativity (VIPER), with candidates working on PTAs, LISA, LVK or related sources such as binary supermassive black holes encouraged; renewable one-year terms up to three years. PhD in physics, astronomy or equivalent required by the start date; Vanderbilt states it must follow current federal visa requirements.",
+  "f": "Vanderbilt University",
+  "fields": [
+   "astro",
+   "grav"
+  ],
+  "id": "vanderbilt-viper-postdoc-fellow-gw-mma",
+  "n": "Vanderbilt University: VIPER Postdoctoral Fellow in Gravitational-Wave Astronomy and Multi-Messenger Astrophysics",
+  "nfit": "High",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "aas:118861d9",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://aas.org/jobregister/ad/118861d9",
+  "unv": "AAS Job Register ad blocked (Cloudflare); details taken from the LISA Consortium repost of Oct 16, 2026. Start date and salary figure not stated.",
+  "us": false
+ },
+ {
   "a": "up to 4 years, split between two Via partner institutions",
   "added": "2026-09-30",
   "asub": [
@@ -12366,36 +12322,6 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32740",
-  "us": false
- },
- {
-  "a": "EUR 5,079.50/month (EUR 71,113/yr); 48-month fixed term",
-  "added": "2026-10-02",
-  "asub": [
-   "exo"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-12",
-  "d": "2026-10-15",
-  "dt": "Deadline 15 Oct 2026; preferred start 1 Jan 2027",
-  "e": "Postdoc at the Leopold Figl Observatory setting up an observing program for follow-up of transiting exoplanets, commissioning instruments and building pipelines. Needs a PhD in astronomy, optical photometry experience and Python; no citizenship limits stated.",
-  "f": "University of Vienna, Department of Astrophysics",
-  "fields": [
-   "astro",
-   "inst"
-  ],
-  "id": "vienna-observing-programs-postdoc",
-  "n": "University of Vienna: Postdoc for Astronomical Observing Programs",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "aas:9a3bec5e",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://jobs.univie.ac.at/job-invite/6123/",
   "us": false
  },
  {
