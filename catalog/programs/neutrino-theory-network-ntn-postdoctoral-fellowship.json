@@ -3,8 +3,8 @@
  "added": "2026-09-28",
  "c": "Fellowship",
  "checked": "2026-10-12",
- "d": "2026-10-16",
- "dt": "Due 2026-10-16 23:59 (AJO #32593). Start fall 2027.",
+ "d": null,
+ "dt": "Last deadline Oct 16, 2026 (AJO #32593); the next cycle is not posted yet",
  "e": "Theory PhD with neutrino expertise. The fellow chooses host US university or lab(s) and can split time between two.",
  "f": "Fermilab / Neutrino Theory Network",
  "fields": [
@@ -15,7 +15,7 @@
  "n": "Neutrino Theory Network (NTN) Postdoctoral Fellowship",
  "nom": false,
  "pt": "prize",
- "s": "open",
+ "s": "watch",
  "stages": [
   "pd"
  ],

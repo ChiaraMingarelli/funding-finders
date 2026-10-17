@@ -1,0 +1,36 @@
+{
+ "a": "USD 75K-150K for 12 months (paid in local currency), plus compute and API credits",
+ "added": "2026-10-17",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-17",
+ "d": "2026-10-31",
+ "dt": "Foundation text says apply by Oct 31, 2026 (AJO lists Nov 7); first cohort starts Jan 2027, three cohorts a year",
+ "e": "Twelve-month, remote, full-time fellowship that funds physicists to do their own research project using AI and to document their AI workflow openly. Open to senior postdocs, research scientists, junior faculty, independent researchers and strong late-stage PhD students; no citizenship limits stated.",
+ "f": "FirstPrinciples Foundation",
+ "fields": [
+  "ds",
+  "ppt",
+  "cmt",
+  "astro"
+ ],
+ "id": "firstprinciples-ai-native-physicist-fellowship",
+ "n": "FirstPrinciples Foundation: AI-Native Physicist Fellowship",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "Canada",
+ "s": "open",
+ "src": "ajo:33114",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.firstprinciplesfoundation.org/programs",
+ "unv": "Deadline conflict: Oct 31 in the ad text vs Nov 7 on the AJO form. Foundation site not opened.",
+ "us": false
+}

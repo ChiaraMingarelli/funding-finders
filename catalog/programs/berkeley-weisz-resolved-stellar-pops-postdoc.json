@@ -1,0 +1,35 @@
+{
+ "a": "$71,491-$85,736 minimum",
+ "added": "2026-10-17",
+ "asub": [
+  "xgal",
+  "star"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-17",
+ "d": "2026-10-26",
+ "dt": "Review Oct 26, 2026; final date Dec 15, 2026 (JPF05593)",
+ "e": "Up to two two-year postdocs with Daniel Weisz on HST/JWST/Euclid/DESI/Keck studies of resolved stellar populations in Local Group and nearby galaxies, with some independent research time; start Fall 2027.",
+ "f": "UC Berkeley",
+ "fields": [
+  "astro"
+ ],
+ "id": "berkeley-weisz-resolved-stellar-pops-postdoc",
+ "n": "UC Berkeley Astronomy: Postdoctoral Scholar, Resolved Stellar Populations in Nearby Galaxies (Weisz group)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "other:berkeley-jpf05593",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aprecruit.berkeley.edu/JPF05593",
+ "us": false
+}

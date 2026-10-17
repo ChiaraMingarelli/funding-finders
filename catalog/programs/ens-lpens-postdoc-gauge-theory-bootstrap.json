@@ -1,0 +1,30 @@
+{
+ "a": "3 years from Sep 2027; salary described as internationally competitive, plus travel funds",
+ "added": "2026-10-17",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-17",
+ "d": "2026-12-20",
+ "dt": "Dec 20, 2026; interviews mid-Jan 2027",
+ "e": "Three-year postdoc on the ANR project on the gauge theory bootstrap at LPENS. Needs a strong QFT background and a PhD in theoretical physics by the start date; no citizenship limits stated.",
+ "f": "Ecole Normale Superieure, Department of Physics (LPENS)",
+ "fields": [
+  "ppt"
+ ],
+ "id": "ens-lpens-postdoc-gauge-theory-bootstrap",
+ "n": "ENS Paris (LPENS): Postdoc in Theoretical Physics, Gauge Theory Bootstrap (ANR GTB)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33109",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33109",
+ "us": false
+}

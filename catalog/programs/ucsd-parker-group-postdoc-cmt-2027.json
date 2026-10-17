@@ -1,0 +1,32 @@
+{
+ "a": "2 years, renewable for a third",
+ "added": "2026-10-17",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-17",
+ "d": "2026-12-15",
+ "dt": "Review begins Dec 1, 2026; AJO deadline Dec 15, 2026; open until filled",
+ "e": "Postdoc in Daniel Parker's group on strongly correlated 2D systems (moire materials, FQH, electron crystals), topological phases and many-body numerics, starting Fall 2027 or earlier. No citizenship limits stated.",
+ "f": "University of California, San Diego, Department of Physics",
+ "fields": [
+  "cmt"
+ ],
+ "id": "ucsd-parker-group-postdoc-cmt-2027",
+ "n": "UC San Diego: Postdoctoral Scholar in Theoretical Condensed Matter Physics (Parker group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33118",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33118",
+ "unv": "Separate from the catalogued UCSD HEP-theory postdoc ajo:33050.",
+ "us": false
+}

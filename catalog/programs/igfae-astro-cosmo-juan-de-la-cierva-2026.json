@@ -1,0 +1,38 @@
+{
+ "a": "EUR 31,200/yr gross, 3 years, plus EUR 15,000 for research costs",
+ "added": "2026-10-17",
+ "asub": [
+  "cos",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-17",
+ "d": "2026-11-01",
+ "dt": "Expressions of interest due Nov 1, 2026 via AJO; official JdC call closes Nov 26, 2026 2pm CET",
+ "e": "The IGFAE theoretical astrophysics and cosmology group (galaxy formation, gravitational waves, CMB/LSS, particle cosmology) seeks candidates it will endorse for Spain's Juan de la Cierva 2026 fellowship. Applicants need a PhD awarded between Jan 1, 2024 and Dec 31, 2026; no nationality limit stated.",
+ "f": "IGFAE, Universidade de Santiago de Compostela",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "igfae-astro-cosmo-juan-de-la-cierva-2026",
+ "n": "IGFAE (Santiago de Compostela): Juan de la Cierva 2026 Postdoctoral Fellowship, Theoretical Astrophysics and Cosmology group",
+ "nfit": "High",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33108",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33108",
+ "unv": "Separate from the already-catalogued IGFAE GW-group JdC call (other:igfae-gw-jdlc-2026), but the two may overlap.",
+ "us": false
+}

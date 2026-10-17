@@ -1,0 +1,33 @@
+{
+ "a": "$65,000",
+ "added": "2026-10-17",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-17",
+ "d": "2026-12-06",
+ "dt": "AJO deadline Dec 6, 2026; rolling review",
+ "e": "Postdoc with Junyeong Ahn on light-matter coupling in correlated electron systems, quantum materials and quantum optics; one-year initial appointment, extendable two years, flexible 2027 start. No citizenship limits stated.",
+ "f": "University of Texas at Austin",
+ "fields": [
+  "cmt",
+  "amo",
+  "qp"
+ ],
+ "id": "ut-austin-ahn-cmt-light-matter-postdoc",
+ "n": "UT Austin: Postdoctoral Fellow in Condensed Matter Theory, light-matter coupling (Ahn group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:32651",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32651",
+ "us": false
+}

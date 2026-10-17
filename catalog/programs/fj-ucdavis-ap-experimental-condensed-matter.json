@@ -1,0 +1,29 @@
+{
+ "a": "Assistant Professor; $124,300-$148,900",
+ "added": "2026-10-17",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-17",
+ "d": "2026-11-16",
+ "dt": "Review Nov 16, 2026; final date Nov 29, 2026 (JPF07916)",
+ "e": "Tenure-track assistant professor in experimental hard condensed matter physics in the Department of Physics and Astronomy.",
+ "f": "UC Davis",
+ "fields": [
+  "cmx",
+  "mat"
+ ],
+ "id": "fj-ucdavis-ap-experimental-condensed-matter",
+ "n": "UC Davis: Assistant Professor, Experimental Hard Condensed Matter Physics",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:ucdavis-jpf07916",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://recruit.ucdavis.edu/JPF07916",
+ "us": false
+}

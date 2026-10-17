@@ -1,0 +1,39 @@
+{
+ "a": "$71,491-$74,140",
+ "added": "2026-10-17",
+ "asub": [
+  "he",
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-17",
+ "d": "2026-12-04",
+ "dt": "Review Dec 4, 2026; final date Dec 31, 2026 (JPF07948)",
+ "e": "DOE-funded two-year postdoc building a levitated-microdisk Fabry-Perot Michelson interferometer to search for high-frequency GWs from axion clouds around black holes, with Geraci group (Northwestern) and LIGO training. No citizenship limits stated.",
+ "f": "UC Davis",
+ "fields": [
+  "grav",
+  "inst",
+  "amo",
+  "qp"
+ ],
+ "id": "ucdavis-aggarwal-rf-gw-axion-postdoc",
+ "n": "UC Davis: Postdoctoral Scholar, Tabletop RF Gravitational-Wave Detector and Quantum Precision Measurement (Aggarwal group)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "other:ucdavis-jpf07948",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://recruit.ucdavis.edu/JPF07948",
+ "us": false
+}

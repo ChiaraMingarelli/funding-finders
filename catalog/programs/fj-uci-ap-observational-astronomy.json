@@ -1,0 +1,29 @@
+{
+ "a": "Assistant Professor; $84,100-$108,900",
+ "added": "2026-10-17",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-17",
+ "d": "2026-12-01",
+ "dt": "Review Dec 1, 2026; final date Apr 27, 2027 (JPF10460, opened Oct 12)",
+ "e": "Tenure-track assistant professor in any area of observational or experimental astronomy and astrophysics, any wavelength or messenger, in the Department of Physics and Astronomy.",
+ "f": "UC Irvine",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "fj-uci-ap-observational-astronomy",
+ "n": "UC Irvine: Assistant Professor, Observational/Experimental Astronomy and Astrophysics",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:uci-jpf10460",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://recruit.ap.uci.edu/JPF10460",
+ "us": false
+}

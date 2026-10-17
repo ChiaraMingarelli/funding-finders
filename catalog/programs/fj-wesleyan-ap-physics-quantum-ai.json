@@ -1,0 +1,36 @@
+{
+ "a": "Assistant Professor (tenure-track)",
+ "added": "2026-10-17",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-17",
+ "d": null,
+ "dt": "Start July 1, 2027; deadline not verified",
+ "e": "Tenure-track assistant professor in quantum physics (photonics, quantum information, sensing, optics, quantum materials) or AI methods in physics, at a liberal-arts research university in Middletown, CT.",
+ "f": "Wesleyan University",
+ "fields": [
+  "qp",
+  "phot",
+  "amo",
+  "mat",
+  "ds"
+ ],
+ "id": "fj-wesleyan-ap-physics-quantum-ai",
+ "n": "Wesleyan University: Assistant Professor of Physics (quantum science or AI for physics)",
+ "nfit": "Low",
+ "ng": {
+  "unv": "Workday page blocked to scripts (403); details from a university job board and search snippets; review date not seen"
+ },
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:wesleyan-R101237",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://wesleyan.wd5.myworkdayjobs.com/careers/job/Middletown-CT-Main-Campus/Assistant-Professor-of-Physics_R101237",
+ "unv": "Workday page blocked to scripts (403); details from Yale Quantum Institute job board and search snippets; review date not seen",
+ "us": false
+}

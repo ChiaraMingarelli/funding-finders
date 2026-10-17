@@ -1,0 +1,33 @@
+{
+ "added": "2026-10-17",
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-17",
+ "d": "2026-12-05",
+ "dt": "Applications and letters due Dec 5, 2026 via Interfolio",
+ "e": "Independent postdoctoral fellowship of the McDonnell Center for the Space Sciences, covering astrophysics, cosmochemistry, planetary science, particle/nuclear physics, cosmology and gravitation; starts July 2027 for one year, renewable for a second. Open to PhDs or May 2027 degree candidates; no citizenship restriction stated.",
+ "f": "Washington University in St. Louis",
+ "fields": [
+  "astro",
+  "grav",
+  "nux"
+ ],
+ "id": "washu-mcdonnell-space-sciences-postdoc-2027",
+ "n": "Washington University in St. Louis: McDonnell Center for the Space Sciences Postdoctoral Fellowship",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3215694",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://apply.interfolio.com/195539",
+ "unv": "Interfolio page is script-rendered; salary not stated.",
+ "us": false
+}

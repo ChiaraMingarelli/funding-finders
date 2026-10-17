@@ -13,8 +13,8 @@
  ],
  "c": "Fellowship",
  "checked": "2026-09-30",
- "d": "2026-10-16",
- "dt": "Oct 16, 2026 (department stage; museum-wide competition Nov 15)",
+ "d": null,
+ "dt": "Last deadline Oct 16, 2026 (department stage; museum-wide competition Nov 15); not reconfirmed",
  "e": "Exoplanets, brown dwarfs, star formation, cluster dynamics and more. Contact a curator first.",
  "f": "American Museum of Natural History, Department of Astrophysics; contact Cheryl Mayefsky",
  "fields": [
@@ -26,12 +26,12 @@
  "nom": false,
  "pt": "prize",
  "region": "US",
- "s": "open",
+ "s": "watch",
  "src": "aas:e7317b1f",
  "stages": [
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/e7317b1f",
- "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
+ "unv": "AAS job-register page and amnh.org blocked automated access (HTTP 403) on 2026-10-17; whether applications are still accepted could not be confirmed",
  "us": false
 }
