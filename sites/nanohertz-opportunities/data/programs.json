@@ -204,13 +204,12 @@
   "n": "AMNH: Postdoctoral Fellowship competition in astrophysics",
   "f": "American Museum of Natural History, Department of Astrophysics; contact Cheryl Mayefsky",
   "c": "Fellowship",
-  "s": "open",
-  "d": "2026-10-16",
-  "dt": "Oct 16, 2026 (department stage; museum-wide competition Nov 15)",
+  "s": "watch",
+  "dt": "Last deadline Oct 16, 2026 (department stage; museum-wide competition Nov 15); not reconfirmed",
   "a": "not listed; 2 years",
   "e": "Exoplanets, brown dwarfs, star formation, cluster dynamics and more. Contact a curator first.",
   "u": "https://aas.org/jobregister/ad/e7317b1f",
-  "unv": "AAS job-register page blocked by Cloudflare (HTTP 403) on 2026-10-07; deadline and terms not reconfirmed",
+  "unv": "AAS job-register page and amnh.org blocked automated access (HTTP 403) on 2026-10-17; whether applications are still accepted could not be confirmed",
   "us": false,
   "nom": false,
   "pt": "prize",
@@ -220,7 +219,8 @@
   "added": "2026-09-30",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "anthropic-ai-for-science-program",
@@ -799,6 +799,28 @@
   "nfit": "Medium",
   "checked": "2026-10-12",
   "added": "2026-10-09",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "berkeley-weisz-resolved-stellar-pops-postdoc",
+  "n": "UC Berkeley Astronomy: Postdoctoral Scholar, Resolved Stellar Populations in Nearby Galaxies (Weisz group)",
+  "f": "UC Berkeley",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-10-26",
+  "dt": "Review Oct 26, 2026; final date Dec 15, 2026 (JPF05593)",
+  "a": "$71,491-$85,736 minimum",
+  "e": "Up to two two-year postdocs with Daniel Weisz on HST/JWST/Euclid/DESI/Keck studies of resolved stellar populations in Local Group and nearby galaxies, with some independent research time; start Fall 2027.",
+  "u": "https://aprecruit.berkeley.edu/JPF05593",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
   "stages": [
    "pd"
   ]
@@ -2162,6 +2184,50 @@
   ]
  },
  {
+  "id": "ens-lpens-postdoc-gauge-theory-bootstrap",
+  "n": "ENS Paris (LPENS): Postdoc in Theoretical Physics, Gauge Theory Bootstrap (ANR GTB)",
+  "f": "Ecole Normale Superieure, Department of Physics (LPENS)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-20",
+  "dt": "Dec 20, 2026; interviews mid-Jan 2027",
+  "a": "3 years from Sep 2027; salary described as internationally competitive, plus travel funds",
+  "e": "Three-year postdoc on the ANR project on the gauge theory bootstrap at LPENS. Needs a strong QFT background and a PhD in theoretical physics by the start date; no citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33109",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "ens-lpens-postdoc-theoretical-cosmology-tarti",
+  "n": "ENS Paris (LPENS): Postdoc in Theoretical Cosmology, loop corrections to inflationary correlators (ANR TARTI)",
+  "f": "Ecole Normale Superieure, Department of Physics (LPENS)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-20",
+  "dt": "Dec 20, 2026; interviews mid-Jan 2027",
+  "a": "3 years, start by Sep 2027; salary described as internationally competitive, plus travel funds",
+  "e": "Three-year postdoc in the GRACES Gravitation and Cosmology group on the ANR TARTI project (led by Lucas Pinol), working on loop corrections to inflationary correlators. Needs a PhD in theoretical physics by the start date; no citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33123",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "ens-paris-philippe-meyer-junior-research-chairs",
   "n": "ENS Paris: Philippe Meyer Junior Research Chairs",
   "f": "Ecole Normale Superieure (ENS-PSL), Department of Physics / LPENS, Philippe Meyer Institute",
@@ -2382,6 +2448,29 @@
   "nfit": "High",
   "checked": "2026-10-12",
   "added": "2026-10-01",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "firstprinciples-ai-native-physicist-fellowship",
+  "n": "FirstPrinciples Foundation: AI-Native Physicist Fellowship",
+  "f": "FirstPrinciples Foundation",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2026-10-31",
+  "dt": "Foundation text says apply by Oct 31, 2026 (AJO lists Nov 7); first cohort starts Jan 2027, three cohorts a year",
+  "a": "USD 75K-150K for 12 months (paid in local currency), plus compute and API credits",
+  "e": "Twelve-month, remote, full-time fellowship that funds physicists to do their own research project using AI and to document their AI workflow openly. Open to senior postdocs, research scientists, junior faculty, independent researchers and strong late-stage PhD students; no citizenship limits stated.",
+  "u": "https://www.firstprinciplesfoundation.org/programs",
+  "unv": "Deadline conflict: Oct 31 in the ad text vs Nov 7 on the AJO form. Foundation site not opened.",
+  "us": false,
+  "nom": false,
+  "pt": "prize",
+  "region": "Canada",
+  "nfit": "Low",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
   "stages": [
    "pd"
   ]
@@ -4373,6 +4462,27 @@
   ]
  },
  {
+  "id": "fj-ucdavis-ap-experimental-condensed-matter",
+  "n": "UC Davis: Assistant Professor, Experimental Hard Condensed Matter Physics",
+  "f": "UC Davis",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-11-16",
+  "dt": "Review Nov 16, 2026; final date Nov 29, 2026 (JPF07916)",
+  "a": "Assistant Professor; $124,300-$148,900",
+  "e": "Tenure-track assistant professor in experimental hard condensed matter physics in the Department of Physics and Astronomy.",
+  "u": "https://recruit.ucdavis.edu/JPF07916",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
   "id": "fj-uchicago-assistant-professor-theoretical-physics",
   "n": "UChicago: Assistant Professor, Theoretical Physics",
   "f": "Dept. of Physics, University of Chicago",
@@ -4436,6 +4546,27 @@
   ]
  },
  {
+  "id": "fj-uci-ap-observational-astronomy",
+  "n": "UC Irvine: Assistant Professor, Observational/Experimental Astronomy and Astrophysics",
+  "f": "UC Irvine",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-12-01",
+  "dt": "Review Dec 1, 2026; final date Apr 27, 2027 (JPF10460, opened Oct 12)",
+  "a": "Assistant Professor; $84,100-$108,900",
+  "e": "Tenure-track assistant professor in any area of observational or experimental astronomy and astrophysics, any wavelength or messenger, in the Department of Physics and Astronomy.",
+  "u": "https://recruit.ap.uci.edu/JPF10460",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
   "id": "fj-ucsb-physics-quantum-amo",
   "n": "UC Santa Barbara: Assistant Professor, Quantum Science / AMO Physics (Quantum Hiring Initiative)",
   "f": "University of California, Santa Barbara",
@@ -4453,6 +4584,27 @@
   "nfit": "Low",
   "checked": "2026-10-12",
   "added": "2026-10-09",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
+  "id": "fj-ucsd-ap-experimental-condensed-matter",
+  "n": "UC San Diego: Assistant Professor, Experimental Condensed Matter Physics",
+  "f": "UC San Diego",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-12-31",
+  "dt": "Review Dec 31, 2026; final date Jun 30, 2027 (JPF04680, opened Oct 15)",
+  "a": "Assistant Professor; $88,300-$135,000 (scale estimate)",
+  "e": "Tenure-track assistant professor in experimental condensed matter physics in the UCSD Department of Physics; PhD required at time of application, postdoc experience recommended.",
+  "u": "https://apol-recruit.ucsd.edu/JPF04680",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
   "stages": [
    "fj"
   ]
@@ -4516,27 +4668,6 @@
   "nom": false,
   "region": "US",
   "nfit": "High",
-  "checked": "2026-10-12",
-  "added": "2026-10-01",
-  "stages": [
-   "fj"
-  ]
- },
- {
-  "id": "fj-univ-of-amsterdam-api-tt-faculty-observational-exopla",
-  "n": "Univ. of Amsterdam (API): TT Faculty, Observational Exoplanet Science",
-  "f": "Anton Pannekoek Institute for Astronomy, University of Amsterdam",
-  "c": "Faculty job",
-  "s": "open",
-  "d": "2026-10-16",
-  "dt": "Closes Oct 16, 2026",
-  "a": "Assistant Professor (UD2), 5-year tenure track; EUR 4,925-6,682 gross/month plus 8% holiday and 8.3% year-end allowances",
-  "e": "Observational exoplanet science.",
-  "u": "https://werkenbij.uva.nl/en/vacancies/tenure-track-faculty-position-in-observational-exoplanet-science-netherlands-15405",
-  "us": false,
-  "nom": false,
-  "region": "International",
-  "nfit": "Medium",
   "checked": "2026-10-12",
   "added": "2026-10-01",
   "stages": [
@@ -4633,11 +4764,11 @@
   "f": "Dept. of Physics, University of Puget Sound",
   "c": "Faculty job",
   "s": "rolling",
-  "d": "2026-10-16",
-  "dt": "Review begins Oct 16, 2026",
+  "dt": "Review began Oct 16, 2026; open until filled",
   "a": "Assistant Professor, tenure-line",
   "e": "Any field whose methods include computational physics or analysis of large datasets; PhD in physics or astronomy. Start Fall 2027.",
   "u": "https://jobs.physicstoday.org/job/42001172/",
+  "unv": "Physics Today job page blocked automated access (HTTP 403) on 2026-10-17; not reconfirmed that the post is still open",
   "us": false,
   "nom": false,
   "region": "US",
@@ -4646,7 +4777,8 @@
   "added": "2026-10-01",
   "stages": [
    "fj"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "fj-univ-of-richmond-assistant-professor-of-physics",
@@ -5160,6 +5292,28 @@
   "d": null
  },
  {
+  "id": "fj-wesleyan-ap-physics-quantum-ai",
+  "n": "Wesleyan University: Assistant Professor of Physics (quantum science or AI for physics)",
+  "f": "Wesleyan University",
+  "c": "Faculty job",
+  "s": "open",
+  "dt": "Start July 1, 2027; deadline not verified",
+  "a": "Assistant Professor (tenure-track)",
+  "e": "Tenure-track assistant professor in quantum physics (photonics, quantum information, sensing, optics, quantum materials) or AI methods in physics, at a liberal-arts research university in Middletown, CT.",
+  "u": "https://wesleyan.wd5.myworkdayjobs.com/careers/job/Middletown-CT-Main-Campus/Assistant-Professor-of-Physics_R101237",
+  "unv": "Workday page blocked to scripts (403); details from a university job board and search snippets; review date not seen",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
+  "stages": [
+   "fj"
+  ],
+  "d": null
+ },
+ {
   "id": "fj-westlake-astronomy-faculty",
   "n": "Westlake University: Faculty Positions in Astronomy and Astrophysics",
   "f": "Westlake University",
@@ -5176,6 +5330,28 @@
   "nfit": "Medium",
   "checked": "2026-10-12",
   "added": "2026-10-02",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
+  "id": "fj-william-mary-astroparticle-cosmology-theory-asst-prof",
+  "n": "William & Mary: Assistant Professor of Physics, Theoretical Astroparticle Physics and Cosmology",
+  "f": "William & Mary",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-12-02",
+  "dt": "Initial review date; later applications considered if needed",
+  "a": "Tenure-track Assistant Professor",
+  "e": "Tenure-track assistant professor in theoretical or computational astroparticle physics and cosmology, starting August 10, 2027. PhD required by start; no citizenship restriction stated.",
+  "u": "https://williammary.wd12.myworkdayjobs.com/en-US/WM/details/Assistant-Professor-of-Physics_JR102162-1",
+  "unv": "Workday page is script-rendered; details taken from the INSPIRE posting.",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
   "stages": [
    "fj"
   ]
@@ -6037,23 +6213,24 @@
   ]
  },
  {
-  "id": "ifae-ramon-y-cajal-2026-eoi",
-  "n": "IFAE Barcelona: Ramón y Cajal Fellowship 2026 (call for expressions of interest)",
-  "f": "Institut de Física d'Altes Energies (IFAE) / Spanish State Research Agency",
+  "id": "igfae-astro-cosmo-juan-de-la-cierva-2026",
+  "n": "IGFAE (Santiago de Compostela): Juan de la Cierva 2026 Postdoctoral Fellowship, Theoretical Astrophysics and Cosmology group",
+  "f": "IGFAE, Universidade de Santiago de Compostela",
   "c": "Fellowship",
   "s": "open",
-  "d": "2026-10-16",
-  "dt": "IFAE EoI by Oct 16, 2026; RyC national application window Nov 10 - Dec 10, 2026",
-  "a": "Five-year Ramón y Cajal fellowship on tenure-track trajectory toward permanent faculty; salary not listed",
-  "e": "IFAE seeks candidates to endorse for the national Ramón y Cajal call, in theory, collider/neutrino experiment, ground-based GW interferometry, gamma-ray astroparticle physics or quantum computing technologies. Open to outstanding postdocs; no citizenship limit stated.",
-  "u": "https://inspirehep.net/jobs/3207363",
+  "d": "2026-11-01",
+  "dt": "Expressions of interest due Nov 1, 2026 via AJO; official JdC call closes Nov 26, 2026 2pm CET",
+  "a": "EUR 31,200/yr gross, 3 years, plus EUR 15,000 for research costs",
+  "e": "The IGFAE theoretical astrophysics and cosmology group (galaxy formation, gravitational waves, CMB/LSS, particle cosmology) seeks candidates it will endorse for Spain's Juan de la Cierva 2026 fellowship. Applicants need a PhD awarded between Jan 1, 2024 and Dec 31, 2026; no nationality limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33108",
+  "unv": "Separate from the already-catalogued IGFAE GW-group JdC call (other:igfae-gw-jdlc-2026), but the two may overlap.",
   "us": false,
   "nom": false,
   "pt": "prize",
   "region": "International",
-  "nfit": "Medium",
-  "checked": "2026-10-12",
-  "added": "2026-10-02",
+  "nfit": "High",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
   "stages": [
    "pd"
   ]
@@ -6428,6 +6605,29 @@
   "nfit": "Medium",
   "checked": "2026-10-15",
   "added": "2026-10-15",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "infn-genova-exotic-hadrons-theory-postdoc",
+  "n": "INFN Genova: Postdoctoral Fellowship in Theoretical Physics (exotic hadrons)",
+  "f": "INFN Genova",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-12",
+  "dt": "INFN Fellowship Programme call 29216, apply via INFN portal",
+  "a": "EUR 36,000/yr gross, 2 years",
+  "e": "Two-year postdoc within the INFN 2027/28 fellowship programme on the theory of tetraquarks and other exotic hadrons (Maiani, Pilloni, Polosa, Santopinto). Non-Italians need a PhD from a non-Italian institution, awarded on or after Nov 12, 2018.",
+  "u": "https://reclutamento.dsi.infn.it",
+  "unv": "The INFN portal is generic; the deadline comes from INSPIRE.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
   "stages": [
    "pd"
   ]
@@ -9012,6 +9212,50 @@
   ]
  },
  {
+  "id": "ohio-state-presidents-postdoctoral-scholars-2027",
+  "n": "Ohio State: President's Postdoctoral Scholars Program (2027-2029)",
+  "f": "Ohio State University",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2026-11-30",
+  "dt": "Faculty Form of Intent Nov 30, 2026; full nomination Dec 16, 2026",
+  "a": "Minimum $62,232 plus $5,000/yr research funds",
+  "e": "University-wide two-year postdoctoral fellowship in any field; candidates are nominated by an Ohio State tenure-track faculty sponsor (one nominee per sponsor) and must have a PhD earned after Dec 1, 2024. No citizenship limit stated.",
+  "u": "https://gradsch.osu.edu/postdocs/postdoctoral-affairs-awards-and-recognitions/presidents-postdoctoral-scholars-program",
+  "us": false,
+  "nom": true,
+  "pt": "prize",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "oist-cdqt-postdoc-cmt-2027",
+  "n": "OIST: Postdoctoral Scholar in Theoretical Condensed Matter Physics (Collective Dynamics and Quantum Transport Unit)",
+  "f": "Okinawa Institute of Science and Technology (OIST)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-31",
+  "dt": "AJO deadline Dec 31, 2026; start Fall 2027",
+  "a": "JPY 4.5M-5.9M/yr plus relocation and housing allowances; 2-year fixed term, renewable",
+  "e": "Two-year postdoc in a theory group working on dynamics and transport in magnetic and spin systems, including light-matter interactions, open quantum systems and quantum sensing. Open to PhDs in theoretical condensed matter or related fields; no citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33032",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "oist-experimental-researcher-diamond-quantum-science",
   "n": "OIST: Experimental Researcher in Diamond Quantum Science (Quantum Machines Unit)",
   "f": "Okinawa Institute of Science and Technology, Quantum Machines Unit (Jason Twamley)",
@@ -9144,6 +9388,27 @@
   "stages": [
    "pd"
   ]
+ },
+ {
+  "id": "ornl-17145-photonic-quantum-sensing-computing",
+  "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Photonic Quantum Sensing and Computing",
+  "f": "Oak Ridge National Laboratory",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Open until filled (posted Sep 29, 2026; req 17145)",
+  "e": "Experimental postdoc in ORNL's Quantum Sensing and Computing Group on optomechanical sensors/transducers and photonic quantum states for sensing and computing; PhD within last 5 years, up to 24 months. Foreign nationals eligible subject to DOE access checks.",
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Photonic-Quantum-Sensing-and-Computing-TN-37830/1434743800/",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
+  "stages": [
+   "pd"
+  ],
+  "d": null
  },
  {
   "id": "ornl-lattice-qcd-software-postdoc",
@@ -10180,6 +10445,28 @@
   ]
  },
  {
+  "id": "stavanger-coreqcd-extreme-conditions-postdoc",
+  "n": "University of Stavanger: Postdoctoral Fellow in Physics (QCD under extreme conditions, CoreQCD)",
+  "f": "University of Stavanger",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-08",
+  "dt": "Apply via Jobbnorge by Nov 8, 2026",
+  "e": "Three-year postdoc on the Research Council of Norway CoreQCD project: hot and dense QCD, equation of state, perturbative QCD, with applications to heavy-ion collisions and neutron stars. PhD required by appointment; no citizenship restriction stated.",
+  "u": "https://www.jobbnorge.no/en/available-jobs/job/309148/postdoctoral-fellow-in-physics",
+  "unv": "Salary not checked (Jobbnorge page body is script-rendered).",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "stockholm-u-axion-experiment-postdoc-alpha",
   "n": "Stockholm University: Postdoctoral Fellow in Axion Search Experiment (ALPHA)",
   "f": "Department of Physics, Stockholm University",
@@ -10692,6 +10979,28 @@
   ]
  },
  {
+  "id": "u-toronto-hep-pheno-postdoc-2027",
+  "n": "University of Toronto: Postdoctoral Research Associate in Particle Phenomenology, Cosmology and Astroparticle Physics",
+  "f": "University of Toronto, Department of Physics (theoretical high energy physics group)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-06",
+  "dt": "Dec 6, 2026 (AJO); first-round offers in January",
+  "a": "3 years from Fall 2027",
+  "e": "One or more three-year postdocs with Curtin, Kahn and Luke in particle phenomenology, cosmology and astroparticle physics. Astroparticle applicants may also be considered for a McDonald Institute Theory Fellowship. No citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33117",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "nfit": "Medium",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "u-toronto-segal-postdoc-quantum-algorithms-open-systems",
   "n": "U. Toronto: Postdoc in quantum algorithms and simulations (Segal group)",
   "f": "University of Toronto, Department of Chemistry or Department of Physics; PI Dvira Segal",
@@ -10911,6 +11220,28 @@
   "nfit": "High",
   "checked": "2026-10-12",
   "added": "2026-09-30",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "ucdavis-aggarwal-rf-gw-axion-postdoc",
+  "n": "UC Davis: Postdoctoral Scholar, Tabletop RF Gravitational-Wave Detector and Quantum Precision Measurement (Aggarwal group)",
+  "f": "UC Davis",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-04",
+  "dt": "Review Dec 4, 2026; final date Dec 31, 2026 (JPF07948)",
+  "a": "$71,491-$74,140",
+  "e": "DOE-funded two-year postdoc building a levitated-microdisk Fabry-Perot Michelson interferometer to search for high-frequency GWs from axion clouds around black holes, with Geraci group (Northwestern) and LIGO training. No citizenship limits stated.",
+  "u": "https://recruit.ucdavis.edu/JPF07948",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "High",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
   "stages": [
    "pd"
   ]
@@ -11142,6 +11473,29 @@
   ]
  },
  {
+  "id": "ucsd-parker-group-postdoc-cmt-2027",
+  "n": "UC San Diego: Postdoctoral Scholar in Theoretical Condensed Matter Physics (Parker group)",
+  "f": "University of California, San Diego, Department of Physics",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-15",
+  "dt": "Review begins Dec 1, 2026; AJO deadline Dec 15, 2026; open until filled",
+  "a": "2 years, renewable for a third",
+  "e": "Postdoc in Daniel Parker's group on strongly correlated 2D systems (moire materials, FQH, electron crystals), topological phases and many-body numerics, starting Fall 2027 or earlier. No citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33118",
+  "unv": "Separate from the catalogued UCSD HEP-theory postdoc ajo:33050.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "uf-astronomy-reu-2027",
   "n": "UF Astronomy REU (Summer 2027)",
   "f": "University of Florida, Department of Astronomy",
@@ -11270,28 +11624,6 @@
   "nfit": "Low",
   "checked": "2026-10-13",
   "added": "2026-10-13",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "uiuc-mrl-greene-postdoc-fellowship-2027",
-  "n": "UIUC Materials Research Laboratory: Professor Joe Greene Postdoctoral Fellowship (2027)",
-  "f": "University of Illinois Urbana-Champaign, Materials Research Laboratory",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-10-16",
-  "dt": "Applications due 5:00 pm CST Oct 16, 2026 via the online form; awards expected late Nov 2026; start between Feb and Dec 2027",
-  "a": "$67,000/year salary plus $5,000 research budget; up to 2 years, renewed annually",
-  "e": "Independent fellowship for researchers whose interests match MRL faculty research areas; PhD or equivalent earned within the last 10 years, with three reference letters. External and international applicants are encouraged; no citizenship limit stated.",
-  "u": "https://mrl.illinois.edu/research/opportunities",
-  "us": false,
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "nfit": "Low",
-  "checked": "2026-10-12",
-  "added": "2026-10-08",
   "stages": [
    "pd"
   ]
@@ -11631,6 +11963,28 @@
   ]
  },
  {
+  "id": "ut-austin-ahn-cmt-light-matter-postdoc",
+  "n": "UT Austin: Postdoctoral Fellow in Condensed Matter Theory, light-matter coupling (Ahn group)",
+  "f": "University of Texas at Austin",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-06",
+  "dt": "AJO deadline Dec 6, 2026; rolling review",
+  "a": "$65,000",
+  "e": "Postdoc with Junyeong Ahn on light-matter coupling in correlated electron systems, quantum materials and quantum optics; one-year initial appointment, extendable two years, flexible 2027 start. No citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/32651",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "ut-austin-cosmicai-accelerated-universe-postdoctoral-fel",
   "n": "UT Austin: CosmicAI Accelerated Universe Postdoctoral Fellow",
   "f": "University of Texas at Austin, Astronomy / Oden Institute; contact Stella Offner",
@@ -11850,6 +12204,28 @@
   "nfit": "Medium",
   "checked": "2026-10-12",
   "added": "2026-09-30",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "washu-mcdonnell-space-sciences-postdoc-2027",
+  "n": "Washington University in St. Louis: McDonnell Center for the Space Sciences Postdoctoral Fellowship",
+  "f": "Washington University in St. Louis",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2026-12-05",
+  "dt": "Applications and letters due Dec 5, 2026 via Interfolio",
+  "e": "Independent postdoctoral fellowship of the McDonnell Center for the Space Sciences, covering astrophysics, cosmochemistry, planetary science, particle/nuclear physics, cosmology and gravitation; starts July 2027 for one year, renewable for a second. Open to PhDs or May 2027 degree candidates; no citizenship restriction stated.",
+  "u": "https://apply.interfolio.com/195539",
+  "unv": "Interfolio page is script-rendered; salary not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-10-17",
+  "added": "2026-10-17",
   "stages": [
    "pd"
   ]
