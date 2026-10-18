@@ -22152,6 +22152,38 @@
   "us": false
  },
  {
+  "a": "Salary not listed (described as competitive; travel support available)",
+  "added": "2026-10-18",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-18",
+  "d": "2027-01-31",
+  "dt": "Jan 31, 2027 on AJO; review begins immediately and continues until filled",
+  "e": "Postdoc in Prof. Yizhi You's group on theory at the interface of quantum information and quantum many-body physics (open/dissipative systems, nonequilibrium dynamics, tensor networks, neural quantum states); one-year initial appointment, renewable, start Summer 2027. Requires a PhD in physics or related field by start; no citizenship limit stated.",
+  "f": "Northeastern University, Department of Physics",
+  "fields": [
+   "cmt",
+   "qp"
+  ],
+  "id": "northeastern-postdoc-cmt-qis-yizhi-you",
+  "n": "Northeastern University: Postdoctoral Researcher in Condensed Matter Theory and Quantum Information (Yizhi You group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33127",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33127",
+  "us": false
+ },
+ {
   "a": "",
   "added": "2026-10-07",
   "aud": [
@@ -25311,6 +25343,37 @@
   ],
   "u": "https://www.oist.jp/careers/experimental-researcher-diamond-quantum-science",
   "unv": "Details come from the Quantiki listing; the OIST page could not be read by automated access. Salary is not stated.",
+  "us": false
+ },
+ {
+  "a": "Postdoctoral Scholar ¥4.6–5.9 million/yr (Staff Scientist ¥5.0–7.5 million/yr)",
+  "added": "2026-10-18",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-18",
+  "d": null,
+  "dt": "Open until filled; first review mid-November 2026",
+  "e": "Two-year postdoc (or staff scientist) position in Matteo Parisi's unit working on combinatorial and geometric structures in quantum field theory (amplituhedra, positive geometry, scattering amplitudes, Feynman integrals); start April–October 2027. Requires a PhD in mathematics, physics or a related field by start; no citizenship limit stated.",
+  "f": "Okinawa Institute of Science and Technology Graduate University (OIST), Algebraic Combinatorics and Fundamental Physics Unit (Matteo Parisi)",
+  "fields": [
+   "ppt"
+  ],
+  "id": "oist-postdoc-algebraic-combinatorics-fundamental-physics",
+  "n": "OIST: Postdoctoral Scholar or Staff Scientist, Algebraic Combinatorics and Fundamental Physics Unit",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "ajo:33128",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33128",
+  "unv": "Single posting covers both postdoc and staff-scientist levels; listed here as postdoc.",
   "us": false
  },
  {
@@ -28894,42 +28957,6 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33080",
-  "us": false
- },
- {
-  "a": "13,263 PLN/month; up to 48 months",
-  "added": "2026-09-30",
-  "asub": [
-   "star",
-   "ism"
-  ],
-  "aud": [
-   "yale",
-   "ng",
-   "ast"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-08",
-  "d": "2026-10-17",
-  "dt": "Oct 17, 2026",
-  "e": "Model local interstellar medium interactions seen in IBEX/IMAP neutral atoms. Requires a PhD and Python/C/C++ or Mathematica.",
-  "f": "Space Research Centre, Polish Academy of Sciences, Warsaw; PI Paweł Swaczyna",
-  "fields": [
-   "astro"
-  ],
-  "id": "space-research-centre-pas-postdoc-in-heliospheric-inters",
-  "n": "Space Research Centre PAS: Postdoc in heliospheric/interstellar physics",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "aas:48ea5448",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://aas.org/jobregister/ad/48ea5448",
-  "unv": "Deadline and pay confirmed on Oct 8, 2026 on the CBK PAN announcement (ref. DK.110.K.5.2026.WR) linked from the PI's website; the AAS Job Register blocks automated access.",
   "us": false
  },
  {
