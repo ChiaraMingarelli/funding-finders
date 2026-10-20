@@ -1,0 +1,31 @@
+{
+ "a": "$123,048 per year",
+ "added": "2026-10-20",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-20",
+ "dt": "Posted Oct 13, 2026 (REF8303Z); no closing date stated",
+ "e": "Several openings in research on solid-state, ultrafast, high-peak-power and high-average-power lasers (petawatt systems, diode-pumped lasers for EUV and fusion energy). Requires a DOE Q clearance, which requires US citizenship.",
+ "f": "Lawrence Livermore National Laboratory, HED and Photon Science, Advanced Photon Technologies group",
+ "fields": [
+  "phot",
+  "inst"
+ ],
+ "id": "llnl-laser-postdoc-advanced-photon-technologies",
+ "n": "Lawrence Livermore National Laboratory: Laser Postdoctoral Researcher, Advanced Photon Technologies",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:llnl-ref8303z-laser-apt",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016087746",
+ "unv": "Closing date not stated.",
+ "us": true
+}

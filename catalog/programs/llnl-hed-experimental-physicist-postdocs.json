@@ -1,0 +1,31 @@
+{
+ "a": "$118,594-$131,174 per year",
+ "added": "2026-10-20",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-20",
+ "dt": "Posted Oct 13, 2026 (REF8817G); no closing date stated",
+ "e": "Design and run laser- and X-ray-driven experiments at LLNL's laser facility, OMEGA and the Jupiter Laser Facility, and field optical, X-ray and nuclear diagnostics. The posting states that US citizenship is not required.",
+ "f": "Lawrence Livermore National Laboratory, HED Science and Technology Program",
+ "fields": [
+  "inst",
+  "phot"
+ ],
+ "id": "llnl-hed-experimental-physicist-postdocs",
+ "n": "Lawrence Livermore National Laboratory: Postdoctoral Experimental Physicists (high-energy-density laser-matter)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:llnl-ref8817g-exp-physicists",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016087676",
+ "unv": "Closing date not stated.",
+ "us": false
+}

@@ -1,0 +1,30 @@
+{
+ "a": "2 years, one-time renewal for 2 more",
+ "added": "2026-10-20",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-20",
+ "d": "2027-01-29",
+ "dt": "Jan 29, 2027, 09:59 KST (AJO #33150)",
+ "e": "Postdoctoral research fellow positions in particle physics at KIAS in Seoul. No citizenship restriction stated.",
+ "f": "Korea Institute for Advanced Study, School of Physics",
+ "fields": [
+  "ppt"
+ ],
+ "id": "kias-particle-physics-research-fellows-2027",
+ "n": "KIAS: Research Fellow positions in Particle Physics",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33150",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33150",
+ "us": false
+}

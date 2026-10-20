@@ -1,0 +1,32 @@
+{
+ "a": "Expected hiring range $72,879-$121,465",
+ "added": "2026-10-20",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-20",
+ "dt": "Posted Oct 19, 2026; no closing date stated",
+ "e": "Postdoc building a laser-excitation scheme for droplet-delivered solution samples and doing time-resolved optical and X-ray spectroscopy at APS Sector 25. Requires a PhD within the last 5 years and Class 4 laser experience; no citizenship requirement stated, but the job needs DOE access authorization.",
+ "f": "Argonne National Laboratory, Chemical Sciences and Engineering Division (AMO Physics Group) with the APS Time-Resolved Research Group",
+ "fields": [
+  "amo",
+  "phot",
+  "inst"
+ ],
+ "id": "argonne-time-resolved-spectroscopy-instrumentation-pd",
+ "n": "Argonne National Laboratory: Postdoctoral Appointee, Time-Resolved Spectroscopy Instrumentation",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:anl-423564-time-resolved-spectroscopy",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Time-Resolved-Spectroscopy-Instrumentation_423564",
+ "unv": "Closing date and start date not stated.",
+ "us": false
+}

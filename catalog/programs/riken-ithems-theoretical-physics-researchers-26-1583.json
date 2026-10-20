@@ -1,0 +1,31 @@
+{
+ "added": "2026-10-20",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-20",
+ "d": "2027-03-29",
+ "dt": "AJO deadline Mar 29, 2027 (AJO #32999)",
+ "e": "Several research positions, from postdoctoral researcher to senior research scientist, in theoretical physics in an interdisciplinary mathematical sciences division. No citizenship restriction stated.",
+ "f": "RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences (iTHEMS), Division of Fundamental Mathematical Science",
+ "fields": [
+  "ppt",
+  "cmt"
+ ],
+ "id": "riken-ithems-theoretical-physics-researchers-26-1583",
+ "n": "RIKEN iTHEMS: Senior Research Scientists, Research Scientists and Postdoctoral Researchers in theoretical physics (26-1583)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:32999",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32999",
+ "unv": "Specific research areas and salary not confirmed from the posting summary.",
+ "us": false
+}
