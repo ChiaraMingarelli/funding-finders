@@ -1,0 +1,37 @@
+{
+ "a": "3 years; salary with pension and travel funds",
+ "added": "2026-10-20",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-20",
+ "d": "2026-12-10",
+ "dt": "Dec 10, 2026 for full consideration (AJO #33130); start fall 2027, negotiable",
+ "e": "Three-year postdocs in the Particle Astrophysics group on particle, nuclear, transient and multi-messenger astrophysics (neutrino transport, particle acceleration, MHD, nucleosynthesis, HPC). No citizenship restriction stated.",
+ "f": "Niels Bohr International Academy, Niels Bohr Institute, University of Copenhagen (Irene Tamborra)",
+ "fields": [
+  "astro",
+  "ppt",
+  "nut"
+ ],
+ "id": "nbia-copenhagen-particle-multimessenger-astro-postdoc",
+ "n": "Niels Bohr International Academy: Postdoctoral Fellowships in Particle and Multi-messenger Astrophysics (Tamborra group)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33130",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/fellowship/33130",
+ "us": false
+}

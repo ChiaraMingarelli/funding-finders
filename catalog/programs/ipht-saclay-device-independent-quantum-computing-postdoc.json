@@ -1,0 +1,31 @@
+{
+ "a": "2 years; travel funding; salary not stated",
+ "added": "2026-10-20",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-20",
+ "d": "2026-10-31",
+ "dt": "Oct 31, 2026; start early 2027",
+ "e": "Two-year postdoc on device-independent approaches to quantum computing primitives (QuantERA project ToDiQT), for PhDs in physics, mathematics or computer science with a quantum information theory background. No citizenship restriction stated.",
+ "f": "Institut de Physique Théorique (IPhT), CEA Saclay, Quantum Information Theory group (Jean-Daniel Bancal)",
+ "fields": [
+  "qp"
+ ],
+ "id": "ipht-saclay-device-independent-quantum-computing-postdoc",
+ "n": "IPhT CEA Saclay: Postdoc in device-independent quantum computing",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:quantiki-ipht-bancal-diqc",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://quantiki.org/position/postdoc-position-device-independent-quantum-computing",
+ "unv": "No separate host-site ad found; the Quantiki post is by the PI.",
+ "us": false
+}

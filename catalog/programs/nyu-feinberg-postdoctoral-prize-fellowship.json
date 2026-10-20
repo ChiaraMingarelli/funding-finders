@@ -1,0 +1,33 @@
+{
+ "a": "3 years; base salary $62,500-$90,000 plus annual research and travel allowance",
+ "added": "2026-10-20",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-20",
+ "d": "2026-12-01",
+ "dt": "Dec 1, 2026 (Interfolio); start Sep 1, 2027",
+ "e": "Independent three-year fellowship in particle theory, condensed matter theory, quantum information or quantum gravity, including computational and machine-learning methods. PhD no more than five years before Sep 1, 2027; no citizenship restriction stated.",
+ "f": "New York University, Carl Feinberg Institute for Theoretical Physics",
+ "fields": [
+  "ppt",
+  "cmt",
+  "qp"
+ ],
+ "id": "nyu-feinberg-postdoctoral-prize-fellowship",
+ "n": "NYU Carl Feinberg Institute: Feinberg Postdoctoral Prize Fellowship",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3215723",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://apply.interfolio.com/195116",
+ "us": false
+}

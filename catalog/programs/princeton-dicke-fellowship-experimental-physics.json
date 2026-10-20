@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
- "d": "2026-10-19",
- "dt": "Applications due Oct 19, 2026 (Interfolio).",
+ "checked": "2026-10-20",
+ "d": null,
+ "dt": "Last deadline Oct 19, 2026; the next cycle is not posted yet.",
  "e": "Exceptional recent PhDs in experimental physics (AMO, condensed matter and others). No citizenship restriction stated.",
  "f": "Princeton University Department of Physics",
  "fields": [
@@ -21,11 +21,11 @@
  "n": "Princeton Dicke Fellowship (experimental physics)",
  "nom": false,
  "pt": "prize",
- "s": "open",
+ "s": "watch",
  "stages": [
   "pd"
  ],
  "u": "https://phy.princeton.edu/dicke-fellows",
- "unv": "The official page returned 403 on Oct 7, 2026; the Oct 19, 2026 date could not be reconfirmed.",
+ "unv": "The official page returned 403 (bot check) on Oct 7 and Oct 20, 2026; the next cycle could not be checked.",
  "us": false
 }

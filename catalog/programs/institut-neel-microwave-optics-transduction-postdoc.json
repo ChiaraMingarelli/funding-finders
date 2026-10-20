@@ -1,0 +1,33 @@
+{
+ "a": "2 years; gross salary from EUR 3,040/month depending on experience",
+ "added": "2026-10-20",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-20",
+ "d": "2026-11-20",
+ "dt": "Nov 20, 2026; flexible start",
+ "e": "Experimental postdoc developing the optomechanical part of a microwave-to-optical quantum transducer, with MPQ and CEA-Leti under the French Quantum Plan. Experience with optical measurements (nanophotonics or optomechanics) required; no citizenship restriction stated.",
+ "f": "Institut Néel, CNRS Grenoble, Superconducting Quantum Circuits group (Julien Renard, Jérémie Viennot)",
+ "fields": [
+  "qp",
+  "cmx",
+  "phot"
+ ],
+ "id": "institut-neel-microwave-optics-transduction-postdoc",
+ "n": "Institut Néel (CNRS Grenoble): Postdoc in quantum microwave-to-optics conversion",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:quantiki-neel-viennot-m2o",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://quantiki.org/position/postdoc-quantum-microwave-optics-conversion",
+ "unv": "No official CNRS job-portal ad found; contact is by email to the PIs.",
+ "us": false
+}

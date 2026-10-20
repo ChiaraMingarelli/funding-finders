@@ -1,0 +1,30 @@
+{
+ "a": "2 years, likely extension to a 3rd",
+ "added": "2026-10-20",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-20",
+ "d": "2026-12-31",
+ "dt": "AJO deadline Dec 31, 2026; review begins as early as Jan 1, 2027 and continues until filled",
+ "e": "One or more theory postdocs in the new physics and effective field theory group (amplitudes, EFT, precision calculations, Higgs, neutrino and dark matter physics), starting spring or fall 2027. PhD required by the start date; no citizenship restriction stated.",
+ "f": "Institute of Theoretical Physics, Chinese Academy of Sciences (Jiang-Hao Yu group)",
+ "fields": [
+  "ppt"
+ ],
+ "id": "itp-cas-beijing-eft-amplitudes-collider-postdoc",
+ "n": "ITP-CAS Beijing: Postdoc in effective field theory, scattering amplitudes and collider physics",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33135",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33135",
+ "us": false
+}

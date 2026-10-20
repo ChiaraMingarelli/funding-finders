@@ -9,9 +9,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-12",
- "d": "2026-10-19",
- "dt": "NSERC deadline Oct 17, 8 pm ET; Oct 17, 2026 is a Saturday, so NSERC accepts applications until 8 pm ET on Mon Oct 19, 2026. Institutional deadlines are earlier.",
+ "checked": "2026-10-20",
+ "d": null,
+ "dt": "Last NSERC deadline Oct 19, 2026 (8 pm ET); the next cycle is not posted yet.",
  "e": "Mainly Canadian citizens/PR; some awards tenable abroad.",
  "f": "Tri-agency (Canada)",
  "fields": [
@@ -23,7 +23,7 @@
  "nom": false,
  "pt": "prize",
  "region": "Canada",
- "s": "open",
+ "s": "watch",
  "stages": [
   "pd"
  ],

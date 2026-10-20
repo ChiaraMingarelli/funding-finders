@@ -1,0 +1,35 @@
+{
+ "a": "2+1 years",
+ "added": "2026-10-20",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-20",
+ "d": "2026-11-22",
+ "dt": "Nov 22, 2026 for full consideration; start October 2027",
+ "e": "Several postdocs in string theory, particle phenomenology, cosmology and astroparticle physics; some funded by the ERC Advanced Grant BestLobe (P. Creminelli). No citizenship restriction stated.",
+ "f": "Abdus Salam International Centre for Theoretical Physics (ICTP), HECAP section",
+ "fields": [
+  "ppt",
+  "astro"
+ ],
+ "id": "ictp-trieste-hecap-postdocs-2027",
+ "n": "ICTP Trieste: Postdoctoral positions in High Energy, Cosmology and Astroparticle Physics",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33129",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33129",
+ "us": false
+}

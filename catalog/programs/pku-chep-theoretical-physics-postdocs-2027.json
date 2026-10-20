@@ -1,0 +1,29 @@
+{
+ "added": "2026-10-20",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-20",
+ "d": "2026-12-31",
+ "dt": "AJO deadline Dec 31, 2026 (AJO #33134)",
+ "e": "Theory postdocs across particle theory, string theory, cosmology, gravity, nuclear and lattice theory, quantum information and related areas. No citizenship restriction stated.",
+ "f": "Center for High Energy Physics and Institute of Theoretical Physics, Peking University",
+ "fields": [
+  "ppt"
+ ],
+ "id": "pku-chep-theoretical-physics-postdocs-2027",
+ "n": "Peking University CHEP/ITP: Postdoctoral positions in theoretical physics",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33134",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33134",
+ "us": false
+}
