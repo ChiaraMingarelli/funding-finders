@@ -7190,6 +7190,28 @@
   "d": null
  },
  {
+  "id": "kias-particle-physics-research-fellows-2027",
+  "n": "KIAS: Research Fellow positions in Particle Physics",
+  "f": "Korea Institute for Advanced Study, School of Physics",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-29",
+  "dt": "Jan 29, 2027, 09:59 KST (AJO #33150)",
+  "a": "2 years, one-time renewal for 2 more",
+  "e": "Postdoctoral research fellow positions in particle physics at KIAS in Seoul. No citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33150",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-20",
+  "added": "2026-10-20",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "kicp-fellowship",
   "n": "KICP Fellowship",
   "f": "U Chicago",
@@ -7321,6 +7343,27 @@
    "ug"
   ],
   "d": null
+ },
+ {
+  "id": "lapth-annecy-quantum-gravity-cosmology-ai-postdoc",
+  "n": "LAPTh Annecy: Postdoc in quantum gravity, cosmology and AI for science",
+  "f": "Laboratoire d'Annecy de Physique Théorique (LAPTh), CNRS / Université Savoie Mont Blanc",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-18",
+  "dt": "Dec 18, 2026 (AJO #33159)",
+  "e": "Theory postdoc on dark energy and accelerated expansion in string and M-theory compactifications, using machine-learning methods, with work on the physics of learning. No citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33159",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-20",
+  "added": "2026-10-20",
+  "stages": [
+   "pd"
+  ]
  },
  {
   "id": "lapth-simons-axion-astroparticle-postdoc",
@@ -10210,6 +10253,28 @@
   "nfit": "Low",
   "checked": "2026-10-12",
   "added": "2026-10-08",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "riken-ithems-theoretical-physics-researchers-26-1583",
+  "n": "RIKEN iTHEMS: Senior Research Scientists, Research Scientists and Postdoctoral Researchers in theoretical physics (26-1583)",
+  "f": "RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences (iTHEMS), Division of Fundamental Mathematical Science",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-03-29",
+  "dt": "AJO deadline Mar 29, 2027 (AJO #32999)",
+  "e": "Several research positions, from postdoctoral researcher to senior research scientist, in theoretical physics in an interdisciplinary mathematical sciences division. No citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/32999",
+  "unv": "Specific research areas and salary not confirmed from the posting summary.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-20",
+  "added": "2026-10-20",
   "stages": [
    "pd"
   ]

@@ -973,6 +973,33 @@
   "us": false
  },
  {
+  "a": "Expected hiring range $72,879-$121,465",
+  "added": "2026-10-20",
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "dt": "Posted Oct 14, 2026; no closing date stated",
+  "e": "Nonequilibrium molecular dynamics with machine-learning interatomic potentials and free-energy methods to study how soft materials react and degrade under operating conditions. Requires a PhD within the last 5 years and on-site work; no citizenship requirement stated.",
+  "f": "Argonne National Laboratory, Materials Science Division",
+  "fields": [
+   "mat",
+   "ds"
+  ],
+  "id": "argonne-msd-computational-soft-materials-ml-postdoc",
+  "n": "Argonne National Laboratory: Postdoctoral Appointee, Computational Chemistry (soft materials, ML potentials)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:anl-423531-computational-chemistry",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Computational-Chemistry_423531",
+  "unv": "Closing date not stated.",
+  "us": false
+ },
+ {
   "a": "$72,879-$121,465",
   "added": "2026-10-08",
   "c": "Group postdoc",
@@ -1107,6 +1134,34 @@
    "pd"
   ],
   "u": "https://argonne.wd1.myworkdayjobs.com/en-US/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee-Terahertz-Cavity-Antiferromagnonics_423459",
+  "us": false
+ },
+ {
+  "a": "Expected hiring range $72,879-$121,465",
+  "added": "2026-10-20",
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "dt": "Posted Oct 19, 2026; no closing date stated",
+  "e": "Postdoc building a laser-excitation scheme for droplet-delivered solution samples and doing time-resolved optical and X-ray spectroscopy at APS Sector 25. Requires a PhD within the last 5 years and Class 4 laser experience; no citizenship requirement stated, but the job needs DOE access authorization.",
+  "f": "Argonne National Laboratory, Chemical Sciences and Engineering Division (AMO Physics Group) with the APS Time-Resolved Research Group",
+  "fields": [
+   "amo",
+   "phot",
+   "inst"
+  ],
+  "id": "argonne-time-resolved-spectroscopy-instrumentation-pd",
+  "n": "Argonne National Laboratory: Postdoctoral Appointee, Time-Resolved Spectroscopy Instrumentation",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:anl-423564-time-resolved-spectroscopy",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Time-Resolved-Spectroscopy-Instrumentation_423564",
+  "unv": "Closing date and start date not stated.",
   "us": false
  },
  {
@@ -6316,6 +6371,60 @@
   "u": "https://lgsp.llnl.gov/",
   "unv": "Citizenship requirements not verified; lgsp.llnl.gov did not resolve on Oct 7 or Oct 12, 2026 (DNS failure / proxy 502)",
   "us": false
+ },
+ {
+  "a": "$118,594-$131,174 per year",
+  "added": "2026-10-20",
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "dt": "Posted Oct 13, 2026 (REF8817G); no closing date stated",
+  "e": "Design and run laser- and X-ray-driven experiments at LLNL's laser facility, OMEGA and the Jupiter Laser Facility, and field optical, X-ray and nuclear diagnostics. The posting states that US citizenship is not required.",
+  "f": "Lawrence Livermore National Laboratory, HED Science and Technology Program",
+  "fields": [
+   "inst",
+   "phot"
+  ],
+  "id": "llnl-hed-experimental-physicist-postdocs",
+  "n": "Lawrence Livermore National Laboratory: Postdoctoral Experimental Physicists (high-energy-density laser-matter)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:llnl-ref8817g-exp-physicists",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016087676",
+  "unv": "Closing date not stated.",
+  "us": false
+ },
+ {
+  "a": "$123,048 per year",
+  "added": "2026-10-20",
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "dt": "Posted Oct 13, 2026 (REF8303Z); no closing date stated",
+  "e": "Several openings in research on solid-state, ultrafast, high-peak-power and high-average-power lasers (petawatt systems, diode-pumped lasers for EUV and fusion energy). Requires a DOE Q clearance, which requires US citizenship.",
+  "f": "Lawrence Livermore National Laboratory, HED and Photon Science, Advanced Photon Technologies group",
+  "fields": [
+   "phot",
+   "inst"
+  ],
+  "id": "llnl-laser-postdoc-advanced-photon-technologies",
+  "n": "Lawrence Livermore National Laboratory: Laser Postdoctoral Researcher, Advanced Photon Technologies",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:llnl-ref8303z-laser-apt",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016087746",
+  "unv": "Closing date not stated.",
+  "us": true
  },
  {
   "a": "Starting salary $12,663 per month.",
@@ -11550,6 +11659,32 @@
   ],
   "u": "https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/fellowships/maxwell-fellowship/",
   "unv": "Salary not stated.",
+  "us": true
+ },
+ {
+  "added": "2026-10-20",
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "dt": "Posted Oct 15, 2026; open at least 3 days and may be extended",
+  "e": "Experiments and simulations on radiation effects in electronic devices using advanced laser systems. Requires a PhD in optical science, electrical engineering (lasers) or a related field within 5 years, and a DOE Q clearance, which requires US citizenship.",
+  "f": "Sandia National Laboratories, Electrical Performance Research",
+  "fields": [
+   "dev",
+   "phot"
+  ],
+  "id": "sandia-laser-radiation-effects-microelectronics-pd",
+  "n": "Sandia National Laboratories: Postdoctoral Appointee, Laser and Radiation Effects on Microelectronics",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:sandia-laser-radiation-microelectronics",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://sandia.jobs/71E293A057D34A3C805EF3322ECED8EF25",
+  "unv": "Salary and closing date not stated; the URL is a sandia.jobs redirect link.",
   "us": true
  },
  {
