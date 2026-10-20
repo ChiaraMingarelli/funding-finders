@@ -1537,6 +1537,37 @@
   "us": false
  },
  {
+  "a": "2 years, possible 3rd",
+  "added": "2026-10-20",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "d": "2026-11-20",
+  "dt": "Applications received by Nov 20, 2026 get fullest consideration (requisition #423584)",
+  "e": "Postdocs in QCD/hadron physics and nuclear structure and reactions, with emphasis on AI and quantum information science. PhD in theoretical physics required by the start, with no more than 5 years of postdoctoral experience.",
+  "f": "Argonne National Laboratory, Physics Division Theory Group (Ian Cloët)",
+  "fields": [
+   "nut"
+  ],
+  "id": "argonne-nuclear-theory-postdoc-2026",
+  "n": "Argonne National Laboratory: Postdoctoral Fellow in Nuclear Theory",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3216123",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3216123",
+  "unv": "The application link is a tiny.cc short link to Argonne's careers site; citizenship requirements not stated.",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-09-30",
   "aud": [
@@ -3695,41 +3726,6 @@
   "us": false
  },
  {
-  "a": "not listed; up to 36 months",
-  "added": "2026-09-30",
-  "asub": [
-   "he"
-  ],
-  "aud": [
-   "yale",
-   "ng",
-   "radar",
-   "ast"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-12",
-  "d": "2026-10-18",
-  "dt": "Oct 18, 2026",
-  "e": "Numerical simulations of accretion onto spinning black holes. Requires a PhD in astrophysics, astronomy or physics.",
-  "f": "Nicolaus Copernicus Astronomical Center PAS; PI Andrzej Zdziarski; contact Krzysztof Nalewajko",
-  "fields": [
-   "astro"
-  ],
-  "id": "camk-warsaw-postdoc-in-numerical-astrophysics-black-hole",
-  "n": "CAMK Warsaw: Postdoc in numerical astrophysics (black hole accretion)",
-  "nfit": "High",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "aas:25009d1a",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://camk.edu.pl/en/archiwum/2026/09/04/competition-for-postdoctoral-position-in-numerical-astrophysics/",
-  "us": false
- },
- {
   "a": "$70,000/yr for 24 months",
   "added": "2026-09-29",
   "aud": [
@@ -3740,9 +3736,9 @@
    "ast"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-10-19",
-  "dt": "NSERC deadline Oct 17, 8 pm ET; Oct 17, 2026 is a Saturday, so NSERC accepts applications until 8 pm ET on Mon Oct 19, 2026. Institutional deadlines are earlier.",
+  "checked": "2026-10-20",
+  "d": null,
+  "dt": "Last NSERC deadline Oct 19, 2026 (8 pm ET); the next cycle is not posted yet.",
   "e": "Mainly Canadian citizens/PR; some awards tenable abroad.",
   "f": "Tri-agency (Canada)",
   "fields": [
@@ -3754,7 +3750,7 @@
   "nom": false,
   "pt": "prize",
   "region": "Canada",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
@@ -8638,6 +8634,35 @@
   "us": false
  },
  {
+  "a": "Research professor; salary includes Simons Foundation and FAPESP fellowships",
+  "added": "2026-10-20",
+  "aud": [
+   "ng"
+  ],
+  "c": "Faculty job",
+  "checked": "2026-10-20",
+  "d": "2027-01-22",
+  "dt": "Accepted until filled; apply before Jan 22, 2027 for full consideration (AJO #33141)",
+  "e": "Research professor position in cosmology/gravitational waves (outstanding candidates in other areas may also apply) at ICTP-SAIFR/IFT-UNESP, with teaching and supervision of graduate students. Successful candidates will be considered for a tenured cosmology/GW position planned for 2027.",
+  "f": "ICTP South American Institute for Fundamental Research (ICTP-SAIFR), São Paulo",
+  "fields": [
+   "astro",
+   "grav"
+  ],
+  "id": "fj-ictp-saifr-simons-fapesp-research-professor-cosmo-gw",
+  "n": "ICTP-SAIFR: Simons-FAPESP Research Professor (cosmology/gravitational waves)",
+  "nfit": "High",
+  "nom": false,
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3216122",
+  "stages": [
+   "fj"
+  ],
+  "u": "https://www.ictp-saifr.org/simonsfapesp2026/",
+  "us": false
+ },
+ {
   "a": "Tenure-track research associate professor; one or two positions, start 2027; salary not listed",
   "added": "2026-10-02",
   "aud": [
@@ -8697,34 +8722,6 @@
   ],
   "u": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29599&jobTitle=Assistant+%2F+Associate+Professor+in+Particle+Physics",
   "unv": "Imperial job page did not render the ad text (JS); deadline and salary not confirmed on host site.",
-  "us": false
- },
- {
-  "a": "Assistant Professor (GBP 73,194-82,954/yr) or Associate Professor (from GBP 85,873/yr); open-ended, full-time",
-  "added": "2026-10-01",
-  "aud": [
-   "ng"
-  ],
-  "c": "Faculty job",
-  "checked": "2026-10-12",
-  "d": "2026-10-19",
-  "dt": "Closes Oct 19, 2026, 23:59 BST",
-  "e": "Data-intensive physics with ML/AI, statistics or scientific computing, in any subfield (astro included). Note: Imperial's separate GW Physics post closed Sep 30.",
-  "f": "Dept. of Physics, Imperial College London",
-  "fields": [
-   "astro"
-  ],
-  "id": "fj-imperial-college-london-asst-assoc-prof-data-intensiv",
-  "n": "Imperial College London: Asst/Assoc Prof, Data-Intensive Physics & AI",
-  "nfit": "Medium",
-  "nom": false,
-  "region": "International",
-  "s": "open",
-  "src": "aas:9fbf3505",
-  "stages": [
-   "fj"
-  ],
-  "u": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29040",
   "us": false
  },
  {
@@ -13653,6 +13650,36 @@
   "us": false
  },
  {
+  "a": "2 years",
+  "added": "2026-10-20",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "d": "2027-01-31",
+  "dt": "Jan 31, 2027 (applications by email)",
+  "e": "Two postdocs in quantum field theory, string theory, holography, quantum chaos and entanglement. PhD in physics or a related field required by the start; no citizenship restriction stated.",
+  "f": "Hetao Institute of Mathematics and Interdisciplinary Sciences (HIMIS), Shenzhen (Peng-Xiang Hao, Chen-Te Ma)",
+  "fields": [
+   "ppt"
+  ],
+  "id": "himis-shenzhen-hep-theory-quantum-info-postdocs",
+  "n": "HIMIS Shenzhen: Postdocs in theoretical high-energy physics and quantum information",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3215724",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://sites.google.com/view/himistp/homepage",
+  "us": false
+ },
+ {
   "a": "Approx. JPY 6 million/yr; 1-year term, renewable to at most 3 years in total",
   "added": "2026-10-07",
   "aud": [
@@ -14360,6 +14387,41 @@
   "us": false
  },
  {
+  "a": "2+1 years",
+  "added": "2026-10-20",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "d": "2026-11-22",
+  "dt": "Nov 22, 2026 for full consideration; start October 2027",
+  "e": "Several postdocs in string theory, particle phenomenology, cosmology and astroparticle physics; some funded by the ERC Advanced Grant BestLobe (P. Creminelli). No citizenship restriction stated.",
+  "f": "Abdus Salam International Centre for Theoretical Physics (ICTP), HECAP section",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "ictp-trieste-hecap-postdocs-2027",
+  "n": "ICTP Trieste: Postdoctoral positions in High Energy, Cosmology and Astroparticle Physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33129",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33129",
+  "us": false
+ },
+ {
   "a": "$5,000 + travel support",
   "added": "2026-10-03",
   "aud": [
@@ -14576,6 +14638,39 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3206285",
+  "us": false
+ },
+ {
+  "added": "2026-10-20",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "d": "2026-12-15",
+  "dt": "Dec 15, 2026 (AJO #33138)",
+  "e": "Several postdocs developing theory and data-analysis tools for CMB lensing and galaxy surveys to test inflation and the dark sector, with optional membership in Simons Observatory and/or DESI. No citizenship restriction stated.",
+  "f": "IGFAE, Universidade de Santiago de Compostela (Antón Baleato Lizancos)",
+  "fields": [
+   "astro"
+  ],
+  "id": "igfae-accellens-cosmology-postdocs",
+  "n": "IGFAE (Santiago de Compostela): Postdocs in Cosmology (ERC ACCELLENS)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33138",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33138",
   "us": false
  },
  {
@@ -15038,37 +15133,6 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3194728",
-  "us": false
- },
- {
-  "a": "£50,733–£59,484 per year; 36 months",
-  "added": "2026-10-07",
-  "aud": [
-   "yale",
-   "ap"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-12",
-  "d": "2026-10-18",
-  "dt": "Closes Oct 18, 2026; Imperial may close early if many applications arrive",
-  "e": "Theory postdoc leading projects on full-stack error suppression in quantum hardware, from noise suppression and error mitigation to fault-tolerant computation, funded by an EPSRC Quantum Technologies Fellowship. No citizenship limits stated.",
-  "f": "Imperial College London, Department of Computing (Zhenyu Cai)",
-  "fields": [
-   "qp"
-  ],
-  "id": "imperial-computing-ra-quantum-computation-cai",
-  "n": "Imperial College London (Computing): Research Associate in Quantum Computation (Cai group)",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "other:quantiki-imperial-cai-qec",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?nPostingId=18063&nPostingTargetId=28890&id=PMMFK026203F3VBQB8NLOV4CQ&LG=UK&languageSelect=UK&mask=ext",
-  "unv": "Closing date and salary confirmed from Imperial's listing as indexed (job ref ENG04009) and jobs.ac.uk; the Imperial page did not render its text to a script.",
   "us": false
  },
  {
@@ -15621,6 +15685,39 @@
   "us": false
  },
  {
+  "a": "2 years from fall 2027",
+  "added": "2026-10-20",
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "d": "2026-11-12",
+  "dt": "Nov 12, 2026, 23:59 CET (INFN call 29216; select \"Parma_Exact holography and complexity in Quantum Gravity\")",
+  "e": "Two-year postdoc in the INFN GAST network on nonperturbative gauge and string theory. Open to non-Italian citizens with a PhD from a foreign institution, and to Italian citizens who hold a position abroad and have been abroad for at least three years.",
+  "f": "INFN / University of Parma, QFT, Lattice and String Theory group (Luca Griguolo)",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "infn-parma-holography-quantum-gravity-postdoc",
+  "n": "INFN Parma: Postdoctoral Fellowship in exact holography and quantum gravity",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3215757",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://reclutamento.dsi.infn.it",
+  "unv": "Salary not stated in the posting.",
+  "us": false
+ },
+ {
   "a": "EUR 36,000/yr gross, 2 years",
   "added": "2026-10-16",
   "aud": [
@@ -15734,6 +15831,39 @@
    "pd"
   ],
   "u": "https://jobs.inria.fr/public/classic/en/offres/2026-10243",
+  "us": false
+ },
+ {
+  "a": "2 years; gross salary from EUR 3,040/month depending on experience",
+  "added": "2026-10-20",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "d": "2026-11-20",
+  "dt": "Nov 20, 2026; flexible start",
+  "e": "Experimental postdoc developing the optomechanical part of a microwave-to-optical quantum transducer, with MPQ and CEA-Leti under the French Quantum Plan. Experience with optical measurements (nanophotonics or optomechanics) required; no citizenship restriction stated.",
+  "f": "Institut Néel, CNRS Grenoble, Superconducting Quantum Circuits group (Julien Renard, Jérémie Viennot)",
+  "fields": [
+   "qp",
+   "cmx",
+   "phot"
+  ],
+  "id": "institut-neel-microwave-optics-transduction-postdoc",
+  "n": "Institut Néel (CNRS Grenoble): Postdoc in quantum microwave-to-optics conversion",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-neel-viennot-m2o",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://quantiki.org/position/postdoc-quantum-microwave-optics-conversion",
+  "unv": "No official CNRS job-portal ad found; contact is by email to the PIs.",
   "us": false
  },
  {
@@ -15890,6 +16020,37 @@
    "pd"
   ],
   "u": "https://emploi.cnrs.fr/Offres/CDD/UMR7178-REGSOM-267/Default.aspx?lang=EN",
+  "us": false
+ },
+ {
+  "a": "2 years; travel funding; salary not stated",
+  "added": "2026-10-20",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "d": "2026-10-31",
+  "dt": "Oct 31, 2026; start early 2027",
+  "e": "Two-year postdoc on device-independent approaches to quantum computing primitives (QuantERA project ToDiQT), for PhDs in physics, mathematics or computer science with a quantum information theory background. No citizenship restriction stated.",
+  "f": "Institut de Physique Théorique (IPhT), CEA Saclay, Quantum Information Theory group (Jean-Daniel Bancal)",
+  "fields": [
+   "qp"
+  ],
+  "id": "ipht-saclay-device-independent-quantum-computing-postdoc",
+  "n": "IPhT CEA Saclay: Postdoc in device-independent quantum computing",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-ipht-bancal-diqc",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://quantiki.org/position/postdoc-position-device-independent-quantum-computing",
+  "unv": "No separate host-site ad found; the Quantiki post is by the PI.",
   "us": false
  },
  {
@@ -16088,6 +16249,36 @@
   ],
   "u": "https://hyperspace.uni-frankfurt.de/2026/10/08/research-fellowships-in-gravitational-physics-lisbon-portugal-2/",
   "unv": "The board lists a deadline of 2027-01-12, which conflicts with the text (send materials before December 2026, when the FCT call opens); exact EOI date and FCT eligibility rules not confirmed.",
+  "us": false
+ },
+ {
+  "a": "2 years, likely extension to a 3rd",
+  "added": "2026-10-20",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "d": "2026-12-31",
+  "dt": "AJO deadline Dec 31, 2026; review begins as early as Jan 1, 2027 and continues until filled",
+  "e": "One or more theory postdocs in the new physics and effective field theory group (amplitudes, EFT, precision calculations, Higgs, neutrino and dark matter physics), starting spring or fall 2027. PhD required by the start date; no citizenship restriction stated.",
+  "f": "Institute of Theoretical Physics, Chinese Academy of Sciences (Jiang-Hao Yu group)",
+  "fields": [
+   "ppt"
+  ],
+  "id": "itp-cas-beijing-eft-amplitudes-collider-postdoc",
+  "n": "ITP-CAS Beijing: Postdoc in effective field theory, scattering amplitudes and collider physics",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33135",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33135",
   "us": false
  },
  {
@@ -17360,9 +17551,9 @@
    "ast"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-10-18",
-  "dt": "Complete application and all reference letters due 2026-10-18 (AJO #32681). Start typically September 2027.",
+  "checked": "2026-10-20",
+  "d": "2026-12-18",
+  "dt": "For full consideration, complete application and all reference letters by Dec 18, 2026 (AJO #32681). Start typically September 2027.",
   "e": "PhD by start and no more than 24 months of prior postdoc. 2027 priorities: cosmology, direct dark matter searches, rare-event searches with quantum sensors, and quantum simulation.",
   "f": "Lawrence Berkeley National Laboratory - Physics Division",
   "fields": [
@@ -20519,6 +20710,43 @@
   "us": false
  },
  {
+  "a": "3 years; salary with pension and travel funds",
+  "added": "2026-10-20",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "d": "2026-12-10",
+  "dt": "Dec 10, 2026 for full consideration (AJO #33130); start fall 2027, negotiable",
+  "e": "Three-year postdocs in the Particle Astrophysics group on particle, nuclear, transient and multi-messenger astrophysics (neutrino transport, particle acceleration, MHD, nucleosynthesis, HPC). No citizenship restriction stated.",
+  "f": "Niels Bohr International Academy, Niels Bohr Institute, University of Copenhagen (Irene Tamborra)",
+  "fields": [
+   "astro",
+   "ppt",
+   "nut"
+  ],
+  "id": "nbia-copenhagen-particle-multimessenger-astro-postdoc",
+  "n": "Niels Bohr International Academy: Postdoctoral Fellowships in Particle and Multi-messenger Astrophysics (Tamborra group)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33130",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/fellowship/33130",
+  "us": false
+ },
+ {
   "a": "2 years from Sep/Oct 2027; travel budget",
   "added": "2026-10-15",
   "aud": [
@@ -22986,9 +23214,9 @@
    "ap"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-10-19",
-  "dt": "Direct applications to NSERC due Oct 17, 8 pm ET; Oct 17, 2026 is a Saturday, so the deadline moves to 8 pm ET on Mon Oct 19, 2026. Applicants applying through a Canadian institution face an earlier institutional deadline.",
+  "checked": "2026-10-20",
+  "d": null,
+  "dt": "Last direct-application deadline Oct 19, 2026 (8 pm ET); the next cycle is not posted yet.",
   "e": "Canadian citizens/PR; tenable abroad under certain conditions.",
   "f": "NSERC (Canada)",
   "fields": [
@@ -22999,7 +23227,7 @@
   "nfit": "Low",
   "nom": false,
   "region": "Canada",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "gr"
   ],
@@ -25111,6 +25339,39 @@
   "us": false
  },
  {
+  "a": "3 years; base salary $62,500-$90,000 plus annual research and travel allowance",
+  "added": "2026-10-20",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-20",
+  "d": "2026-12-01",
+  "dt": "Dec 1, 2026 (Interfolio); start Sep 1, 2027",
+  "e": "Independent three-year fellowship in particle theory, condensed matter theory, quantum information or quantum gravity, including computational and machine-learning methods. PhD no more than five years before Sep 1, 2027; no citizenship restriction stated.",
+  "f": "New York University, Carl Feinberg Institute for Theoretical Physics",
+  "fields": [
+   "ppt",
+   "cmt",
+   "qp"
+  ],
+  "id": "nyu-feinberg-postdoctoral-prize-fellowship",
+  "n": "NYU Carl Feinberg Institute: Feinberg Postdoctoral Prize Fellowship",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3215723",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://apply.interfolio.com/195116",
+  "us": false
+ },
+ {
   "a": "",
   "added": "2026-10-07",
   "aud": [
@@ -26774,6 +27035,35 @@
   "us": false
  },
  {
+  "added": "2026-10-20",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "d": "2026-12-31",
+  "dt": "AJO deadline Dec 31, 2026 (AJO #33134)",
+  "e": "Theory postdocs across particle theory, string theory, cosmology, gravity, nuclear and lattice theory, quantum information and related areas. No citizenship restriction stated.",
+  "f": "Center for High Energy Physics and Institute of Theoretical Physics, Peking University",
+  "fields": [
+   "ppt"
+  ],
+  "id": "pku-chep-theoretical-physics-postdocs-2027",
+  "n": "Peking University CHEP/ITP: Postdoctoral positions in theoretical physics",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33134",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33134",
+  "us": false
+ },
+ {
   "a": "Two years, renewable for up to two more; start flexible in 2027; salary not listed",
   "added": "2026-10-12",
   "asub": [
@@ -26876,9 +27166,9 @@
    "ap"
   ],
   "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": "2026-10-19",
-  "dt": "Applications due Oct 19, 2026 (Interfolio).",
+  "checked": "2026-10-20",
+  "d": null,
+  "dt": "Last deadline Oct 19, 2026; the next cycle is not posted yet.",
   "e": "Exceptional recent PhDs in experimental physics (AMO, condensed matter and others). No citizenship restriction stated.",
   "f": "Princeton University Department of Physics",
   "fields": [
@@ -26891,12 +27181,12 @@
   "n": "Princeton Dicke Fellowship (experimental physics)",
   "nom": false,
   "pt": "prize",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
   "u": "https://phy.princeton.edu/dicke-fellows",
-  "unv": "The official page returned 403 on Oct 7, 2026; the Oct 19, 2026 date could not be reconfirmed.",
+  "unv": "The official page returned 403 (bot check) on Oct 7 and Oct 20, 2026; the next cycle could not be checked.",
   "us": false
  },
  {
@@ -27486,43 +27776,6 @@
   "us": false
  },
  {
-  "a": "€3,706–5,760 gross/month (scale 10); 2 years",
-  "added": "2026-09-30",
-  "asub": [
-   "he"
-  ],
-  "aud": [
-   "yale",
-   "ng",
-   "radar",
-   "ap",
-   "ast"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-15",
-  "d": "2026-10-18",
-  "dt": "Oct 18, 2026 (first interviews Oct 27)",
-  "e": "Mathematical and theoretical physics of irreversibility, entropy and chaos. Requires a PhD or equivalent.",
-  "f": "Radboud University Nijmegen; Klaas Landsman, Manus Visser",
-  "fields": [
-   "grav",
-   "qp"
-  ],
-  "id": "radboud-u-3-postdocs-on-origins-of-irreversibility",
-  "n": "Radboud U.: 3 postdocs on Origins of Irreversibility",
-  "nfit": "High",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3205307",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.ru.nl/en/working-at/job-opportunities/postdoc-positions-origins-of-irreversibility",
-  "us": false
- },
- {
   "a": "$78,000 stipend + $5,000 project expenses; 1 yr in residence",
   "added": "2026-09-28",
   "aud": [
@@ -27804,37 +28057,6 @@
   ],
   "u": "https://www.saao.ac.za/astronomers/observing-overview/",
   "unv": "The page gives recurring day-month deadlines without a year, so 2027-01-15 is the next occurrence of the stated 15 January deadline. The time zone, the size of the international share, and which telescopes are offered each term (listed on the Rota page) were not checked.",
-  "us": false
- },
- {
-  "a": "TV-L up to E14; 3 years",
-  "added": "2026-10-07",
-  "aud": [
-   "yale",
-   "ap"
-  ],
-  "c": "Junior group leader",
-  "checked": "2026-10-12",
-  "d": "2026-10-18",
-  "dt": "Oct 18, 2026 (e-mail application to qute@uni-saarland.de; refs W2911–W2914)",
-  "e": "Four 3-year positions to build and lead an independent research group at QuTe (collaborations with Forschungszentrum Jülich): applied quantum sciences, quantum informatics, quantum mathematics, and numerics for quantum and AI. PhD in physics, mathematics, computer science or a related field required; English C1; no citizenship limits stated.",
-  "f": "Center for Quantum Technologies (QuTe), Saarland University",
-  "fields": [
-   "qp",
-   "ds"
-  ],
-  "id": "saarland-qute-research-group-leaders",
-  "n": "Saarland University QuTe: Research Group Leaders (Applied Quantum Sciences, Quantum Informatics, Quantum Mathematics, Numerics for Quantum and AI)",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "other:quantiki-saarland-qute-rgl",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.uni-saarland.de/fileadmin/upload/verwaltung/stellen/Wissenschaftler/W2912_Quantum_Informatics.pdf",
   "us": false
  },
  {
@@ -28130,35 +28352,6 @@
   "u": "https://www.sandia.gov/careers/careers/students-and-postdocs/fellowships/truman-fellowship/",
   "unv": "Clearance requirement effectively implies US citizenship; page does not state it explicitly.",
   "us": true
- },
- {
-  "a": "Scholarship up to 8,000 NIS (about $2,700) per month",
-  "added": "2026-09-30",
-  "aud": [
-   "yale",
-   "ap"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-12",
-  "d": "2026-10-18",
-  "dt": "Oct 18, 2026 (extended on INSPIRE)",
-  "e": "Theory of quantum mechanics and QCD. Requires a PhD; apply by email.",
-  "f": "Sami Shamoon College of Engineering (SCE), Israel; contact Yair",
-  "fields": [
-   "qp",
-   "ppt"
-  ],
-  "id": "sce-israel-theoretical-physics-postdoc",
-  "n": "SCE Israel: Theoretical physics postdoc",
-  "nom": false,
-  "pt": "group",
-  "s": "open",
-  "src": "inspire:3183102",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://inspirehep.net/jobs/3183102",
-  "us": false
  },
  {
   "a": "Stipend for 1 to 2 yrs of interdisciplinary postdoc",
@@ -29905,6 +30098,37 @@
   "us": false
  },
  {
+  "a": "Normally 2 years",
+  "added": "2026-10-20",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "d": "2026-11-01",
+  "dt": "Nov 1, 2026 (AJO #33056)",
+  "e": "Theory postdoc on holography, quantum gravity and black holes, quantum information and strongly coupled quantum dynamics, quantum chaos and open quantum systems. PhD in theoretical physics required by the start; no citizenship restriction stated.",
+  "f": "Sun Yat-sen University, School of Physics and Astronomy (Zhuo-Yu Xian)",
+  "fields": [
+   "ppt",
+   "qp"
+  ],
+  "id": "sysu-zhuhai-holography-quantum-dynamics-postdoc",
+  "n": "Sun Yat-sen University (Zhuhai): Postdoc in holography and quantum dynamics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33056",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33056",
+  "us": false
+ },
+ {
   "a": "competitive (comparable to US); flexible terms",
   "added": "2026-09-30",
   "asub": [
@@ -30664,6 +30888,39 @@
   "us": false
  },
  {
+  "a": "3 years; EUR 70,200 gross per year, travel funds",
+  "added": "2026-10-20",
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "d": "2026-11-13",
+  "dt": "Nov 13, 2026; start from Feb 1, 2027",
+  "e": "FWF-funded postdoc on matter-gravity interactions in causal dynamical triangulations using numerical simulations. No citizenship restriction stated.",
+  "f": "University of Graz, Theoretical Particle Physics (Axel Maas)",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "u-graz-cdt-quantum-gravity-postdoc",
+  "n": "University of Graz: Postdoc in quantum gravity (CDT simulations)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3215787",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3215787",
+  "unv": "No host-site ad link given on INSPIRE; application route not confirmed on the university site.",
+  "us": false
+ },
+ {
   "a": "1+1 years; University of Haifa postdoc scale",
   "added": "2026-10-01",
   "aud": [
@@ -30771,6 +31028,66 @@
   ],
   "u": "https://midas.infoready4.com/",
   "unv": "On Oct 12, 2026 the MIDAS site returned 403, the InfoReady portal needs JavaScript and the AAS ad returned a 'Just a moment' check; third-party listings give Nov 23, 2026 for the 2027 cycle but it was not confirmed on an official page.",
+  "us": false
+ },
+ {
+  "a": "3+2 years from fall 2027",
+  "added": "2026-10-20",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "d": "2026-11-24",
+  "dt": "Nov 24, 2026 (applications by email to qft.applications@mi.infn.it)",
+  "e": "Senior postdoc coordinating work on second-order electroweak corrections in the Standard Model for the HL-LHC and FCC-ee, funded by an ERC Advanced Grant. No citizenship restriction stated.",
+  "f": "University of Milan, High-Energy Theoretical Physics Group (Alessandro Vicini)",
+  "fields": [
+   "ppt"
+  ],
+  "id": "u-milan-quantum-frontiers-senior-postdoc",
+  "n": "University of Milan: Senior postdoc in theoretical physics (ERC Quantum FronTiers)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3215732",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://qft.mi.infn.it/",
+  "us": false
+ },
+ {
+  "a": "3 years from October 2027",
+  "added": "2026-10-20",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-20",
+  "d": "2026-11-24",
+  "dt": "Nov 24, 2026 (applications by email to qft.applications@mi.infn.it)",
+  "e": "Two postdocs on electroweak quantum corrections: one on computational QFT methods and hardware acceleration, one on electroweak renormalisation and QED radiation. No citizenship restriction stated.",
+  "f": "University of Milan, High-Energy Theoretical Physics Group (Alessandro Vicini)",
+  "fields": [
+   "ppt"
+  ],
+  "id": "u-milan-quantum-frontiers-two-postdocs",
+  "n": "University of Milan: Two postdocs in theoretical physics (ERC Quantum FronTiers)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3215731",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://qft.mi.infn.it/",
   "us": false
  },
  {
@@ -32903,48 +33220,6 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/28229",
-  "us": false
- },
- {
-  "a": "EUR 3,706-5,760/month + 8% holiday + 8.3% year-end; 36 months",
-  "added": "2026-09-30",
-  "asub": [
-   "he"
-  ],
-  "aud": [
-   "yale",
-   "ng",
-   "radar",
-   "ap",
-   "ast"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-10-18",
-  "dt": "Oct 18, 2026, 23:59 CEST",
-  "e": "Any field of experimental or theoretical physics; for candidates underrepresented at faculty level. Diversity statement and 3 references required.",
-  "f": "University of Amsterdam, Institute of Physics (contacts Arghavan Safavi-Naini, Joost van Mameren)",
-  "fields": [
-   "astro",
-   "ppx",
-   "ppt",
-   "cmx",
-   "cmt",
-   "qp",
-   "grav"
-  ],
-  "id": "university-of-amsterdam-els-koffeman-postdoctoral-fellow",
-  "n": "University of Amsterdam: Els Koffeman Postdoctoral Fellowship",
-  "nfit": "High",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "ajo:32465",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32465",
   "us": false
  },
  {
