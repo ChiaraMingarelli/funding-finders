@@ -1027,6 +1027,35 @@
   "us": false
  },
  {
+  "a": "$72,879-$121,465 (expected hiring range)",
+  "added": "2026-10-21",
+  "c": "Group postdoc",
+  "checked": "2026-10-21",
+  "d": null,
+  "dt": "Posted 2026-10-20; no closing date stated",
+  "e": "Postdoc in the Argonne MSD QIS group and Q-NEXT to design, fabricate and measure trilayer superconducting qubits, adding atomic layer etching/deposition to the process flow and helping commission a new dilution refrigerator. Requires a PhD in physics, materials science or a related field within the last 0-5 years, with nanofabrication experience; onsite in Lemont, IL at least 3 days per week.",
+  "f": "Argonne National Laboratory, Materials Science Division QIS Group / Q-NEXT",
+  "fields": [
+   "qp",
+   "dev",
+   "mat"
+  ],
+  "id": "argonne-msd-trilayer-superconducting-qubits-postdoc",
+  "n": "Argonne National Laboratory: Postdoctoral Appointee, Superconducting Qubits (trilayer junction nanofabrication, Q-NEXT)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:anl-423568-sc-qubits",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Superconducting-Qubits_423568",
+  "unv": "No closing date or citizenship statement in the posting.",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-09-30",
   "c": "Group postdoc",
@@ -6455,6 +6484,33 @@
   "us": false
  },
  {
+  "a": "$122,028-$143,328/yr",
+  "added": "2026-10-21",
+  "c": "Group postdoc",
+  "checked": "2026-10-21",
+  "d": null,
+  "dt": "Posted 2026-10-20; no closing date stated",
+  "e": "Postdoc using ultrasonics, acoustics, laser ultrasonics and wave-propagation modeling to characterize heterogeneous materials and inspect parts. Requires a PhD in physics, mechanical or materials engineering or a related field received within 5 years. The job requires a DOE Q clearance, so applicants must be US citizens; onsite.",
+  "f": "Lawrence Livermore National Laboratory, Materials Engineering Division, NDE Group",
+  "fields": [
+   "inst",
+   "mat"
+  ],
+  "id": "llnl-nde-ultrasonics-postdoc",
+  "n": "Lawrence Livermore National Laboratory: Postdoctoral Researcher, Nondestructive Evaluation Ultrasound",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:llnl-ref8999n-nde-ultrasound",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016270781",
+  "us": true
+ },
+ {
   "a": "$97,000 starting salary for a new PhD",
   "added": "2026-10-07",
   "c": "Group postdoc",
@@ -8212,6 +8268,35 @@
   "us": false
  },
  {
+  "a": "$85K-$91K",
+  "added": "2026-10-21",
+  "c": "Group postdoc",
+  "checked": "2026-10-21",
+  "d": null,
+  "dt": "No deadline stated",
+  "e": "PREP postdoc at NIST Boulder using STEM, EDS/EELS and FIB lamella preparation (possibly also XRD, scanning probe and atom probe tomography) to characterize quantum-dot and transmon qubit devices and reduce decoherence. Requires a PhD in materials science and engineering or a related field; no citizenship requirement is stated, and the application form lists visa options (J1, OPT, TN).",
+  "f": "SURA / NIST Professional Research Experience Program (Boulder, CO)",
+  "fields": [
+   "qp",
+   "mat",
+   "dev"
+  ],
+  "id": "nist-boulder-prep-microscopy-quantum-devices-postdoc",
+  "n": "NIST Boulder (SURA PREP): Postdoc Associate, Microscopy and Microanalysis of Quantum Information Devices",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:sura-nist-prep-microscopy-qi-devices",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://sura.org/careers/nist-prep-postdoc-associate-in-microscopy-and-microanalysis-of-qunatum-information-devices/",
+  "unv": "The page shows no posting date, so it may predate the sweep window; it is not in the catalog. The '3+ years advanced STEM experience' requirement is ambiguous.",
+  "us": false
+ },
+ {
   "a": "$80,000 to $85,000",
   "added": "2026-10-15",
   "c": "Group postdoc",
@@ -8521,6 +8606,36 @@
    "pd"
   ],
   "u": "https://figueroa.physics.northwestern.edu/jobs/index.html",
+  "us": false
+ },
+ {
+  "a": null,
+  "added": "2026-10-21",
+  "c": "Group postdoc",
+  "checked": "2026-10-21",
+  "d": null,
+  "dt": "No deadline stated; listed until 2027-04-20; apply by email to louis.gaudreau@nrc.ca",
+  "e": "Experimental postdoc to lead an analog quantum simulator project based on 2D-material heterostructures (exfoliation, nanofabrication, millikelvin transport and photoluminescence). Apply with cover letter, CV and two references by email, not through AJO.",
+  "f": "National Research Council Canada / University of Ottawa (Hawrylak group)",
+  "fields": [
+   "cmx",
+   "mat",
+   "qp",
+   "dev"
+  ],
+  "id": "nrc-uottawa-analog-quantum-simulators-2d-postdoc",
+  "n": "NRC Canada / University of Ottawa: Postdoctoral Researcher, Analog Quantum Simulators with 2D Materials",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "rolling",
+  "src": "ajo:33171",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33171",
+  "unv": "Salary, start date and term not stated",
   "us": false
  },
  {
@@ -11605,6 +11720,34 @@
   "us": true
  },
  {
+  "a": null,
+  "added": "2026-10-21",
+  "c": "Group postdoc",
+  "checked": "2026-10-21",
+  "d": null,
+  "dt": "Posted 2026-10-19; open at least 3 days, may be extended",
+  "e": "Postdoc to plan lab and field measurements of spectral, radiometric and temporal signatures, model visible/infrared sources, and build visible/IR remote sensing systems and detection algorithms. Requires a PhD in optical engineering, remote sensing, physics or a related field conferred within 5 years. The job requires a DOE Q clearance, so applicants must be US citizens.",
+  "f": "Sandia National Laboratories, Weaponization and Signature R&D Department (Albuquerque)",
+  "fields": [
+   "phot",
+   "inst"
+  ],
+  "id": "sandia-699426-remote-sensing-innovation-pd",
+  "n": "Sandia National Laboratories: Postdoctoral Appointee, Remote Sensing Innovation (visible/IR radiometry and spectral sensing)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:sandia-699426",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://sandia.jobs/albuquerque-nm/postdoctoral-appointee-remote-sensing-innovation-onsite/86A1DECBD6A74A2A93336F2163DE2D40/job/",
+  "unv": "Salary not stated.",
+  "us": true
+ },
+ {
   "a": "Competitive salary, moving expenses and travel allowance; 2 years, possible 3rd",
   "added": "2026-10-07",
   "c": "Fellowship",
@@ -13880,8 +14023,8 @@
   "a": "$80,958/yr + benefits + travel; 2 years (+1)",
   "added": "2026-09-30",
   "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-10-20",
+  "checked": "2026-10-21",
+  "d": null,
   "dt": "Review begins mid-October 2026; applications considered until the positions are filled. Apply via UNMJobs req 38011 (AJO lists 2026/10/20).",
   "e": "Quantum computation, control, measurement, communication and simulation. PhD in a QIS-related discipline.",
   "f": "University of New Mexico, Quantum New Mexico Institute (OVPR)",

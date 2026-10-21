@@ -2048,6 +2048,28 @@
   ]
  },
  {
+  "id": "durham-icc-hefner-fellowship-unbounded-cosmology",
+  "n": "Durham University ICC: Robert and MeiLi Hefner Foundation Fellowship in Unbounded Cosmology",
+  "f": "Durham University (Institute for Computational Cosmology)",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2026-11-27",
+  "dt": "Apply by 27 Nov 2026 via AJO; online interviews late Jan 2027",
+  "a": "Grade 7 (from £39,560) or Grade 8 (from £48,337) plus research allowance",
+  "e": "Five-year senior research fellowship in computational cosmology, broadly interpreted, starting around September 2027, for candidates with an independent five-year research vision. Requires a 3-4 page research proposal, CV, mentoring/inclusivity statement and three referees.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33173",
+  "us": false,
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-21",
+  "added": "2026-10-21",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "dza-postdoc-optical-metrology-einstein-telescope",
   "n": "German Center for Astrophysics (DZA): Postdoctoral Researcher in Optical Metrology for Einstein Telescope silicon mirrors (T02D-26-01)",
   "f": "Deutsches Zentrum für Astrophysik (DZA)",
@@ -2302,8 +2324,8 @@
   "f": "European Southern Observatory",
   "c": "Fellowship",
   "s": "open",
-  "d": "2026-10-20",
-  "dt": "Deadlines Apr 20 and Oct 20 each year; current call (Garching and Santiago) closes Oct 20, 2026",
+  "d": "2027-04-20",
+  "dt": "Deadlines Apr 20 and Oct 20 each year; the Oct 20, 2026 round has closed, next deadline Apr 20, 2027",
   "e": "For PhD students at any university (Garching prefers ESO member states; Chile gives recruitment preference to member-state nationals). 6 months–2 years at ESO, mostly optical/IR/ALMA, so a weak fit for pulsar timing.",
   "u": "https://www.eso.org/sci/activities/fellowships-and-studentships/FeSt-overview/ESOstudentship.html",
   "unv": "Stipend amount not stated",
@@ -2311,7 +2333,7 @@
   "nom": false,
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-12",
+  "checked": "2026-10-21",
   "added": "2026-10-01",
   "stages": [
    "gr"
@@ -4037,6 +4059,27 @@
   ]
  },
  {
+  "id": "fj-rice-tt-ai-astronomy-astroparticle-cosmology",
+  "n": "Rice University: Tenure-Track Faculty in Astronomy, Astro-Particle Physics and Cosmology (AI Initiative)",
+  "f": "Rice University, Department of Physics and Astronomy",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-12-10",
+  "dt": "Review begins 1 Dec 2026; materials and letters due 10 Dec 2026 via Interfolio",
+  "a": "Assistant Professor (anticipated)",
+  "e": "Tenure-track AI-initiative hire whose research applies advanced AI (generative, agentic, physical AI) to star-planet interactions, exoplanets, astro-particle physics or cosmology; start July 1, 2027. PhD in physics, astronomy or related field required by appointment.",
+  "u": "https://apply.interfolio.com/195430",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-10-21",
+  "added": "2026-10-21",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
   "id": "fj-rice-tt-experimental-amo",
   "n": "Rice University: Tenure-Track Faculty in Experimental AMO Physics",
   "f": "Rice University",
@@ -4994,6 +5037,27 @@
    "fj"
   ],
   "d": null
+ },
+ {
+  "id": "fj-ut-austin-ap-cosmology-tccap",
+  "n": "UT Austin: Assistant Professor in Cosmology",
+  "f": "University of Texas at Austin, Department of Physics",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-12-02",
+  "dt": "Apply by 2 Dec 2026 via Interfolio",
+  "a": "Assistant Professor (tenure-track)",
+  "e": "Tenure-track assistant professor in cosmology and related areas, joining the Texas Center for Cosmology & Astroparticle Physics in the Weinberg Institute, starting Fall 2027. PhD in physics or closely related field required by start.",
+  "u": "https://faculty.utexas.edu/career/193143",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-10-21",
+  "added": "2026-10-21",
+  "stages": [
+   "fj"
+  ]
  },
  {
   "id": "fj-ut-austin-asst-prof-exp-particle-physics",
@@ -6191,6 +6255,29 @@
   ]
  },
  {
+  "id": "ice-csic-barcelona-sbi-cosmology-postdocs",
+  "n": "ICE-CSIC Barcelona: Two Postdocs in Simulation-Based Inference for Cosmology",
+  "f": "Institute of Space Sciences (ICE-CSIC), Barcelona (Marco Gatti, Alex Alarcon)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-01",
+  "dt": "Apply by email by 1 Dec 2026, 23:59 CET (subject COSMOPD2026 + surname); 3 letters to both addresses by same date",
+  "a": "Approx. EUR 43,000-55,000 gross/yr; 3 years",
+  "e": "Two 3-year postdocs funded by an ERC StG and a Spanish national project, on simulation-based inference for weak lensing/CMB (Euclid, LSST, CMB) and differentiable galaxy-halo models; start early autumn 2027 (flexible). Open to PhD holders in cosmology, astrophysics or physics; no nationality limits stated.",
+  "u": "https://inspirehep.net/jobs/3216432",
+  "unv": "No separate host ad found; application is by email to mgatti@ice.csic.es and alarcon@ice.csic.es",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-21",
+  "added": "2026-10-21",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "ictp-ap-beijing-gravitational-wave-physics-postdoc",
   "n": "ICTP-AP Beijing: Gravitational-wave physics postdoc",
   "f": "ICTP-AP (UCAS), Beijing; PI Jun Zhang",
@@ -6230,6 +6317,28 @@
   "nfit": "Medium",
   "checked": "2026-10-20",
   "added": "2026-10-20",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "icts-tifr-postdoctoral-program-2027-fall",
+  "n": "ICTS-TIFR: Postdoctoral Program 2027 (Fall Cycle)",
+  "f": "International Centre for Theoretical Sciences (ICTS-TIFR), Bengaluru",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-30",
+  "dt": "Apply by 30 Nov 2026 (06:30); letters by 15 Dec 2026",
+  "e": "Theoretical postdoc positions across ICTS areas including astrophysical relativity (LIGO collaboration), string theory, condensed matter and biological physics; includes one Simons cosmic-magnetism postdoc and consideration for the Vaish prize fellowship. Two-year appointments starting around 1 Sep 2027; funding-dependent.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33081",
+  "unv": "Stipend not stated for regular positions",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-21",
+  "added": "2026-10-21",
   "stages": [
    "pd"
   ]
@@ -7634,6 +7743,29 @@
   ]
  },
  {
+  "id": "llnl-roman-astrometry-stellar-remnants-postdoc",
+  "n": "Lawrence Livermore National Laboratory: Astronomy & Astrophysics Postdoctoral Researcher (Roman astrometry of stellar remnants)",
+  "f": "Lawrence Livermore National Laboratory, Physics Division, Astronomy Astrophysics & Analytics Group",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Posted 2026-10-15; no closing date stated",
+  "a": "$123,048/yr",
+  "e": "Postdoc to build an astrometric pipeline that finds accelerating stars in Nancy Grace Roman Space Telescope survey data, and to fit population models of the Galaxy's stellar remnants (mass, velocity and spatial distributions). Requires a PhD in physics or astronomy with a focus on astrometry, microlensing or a related area, received within 5 years. No clearance is needed, but NDAA Section 3112 restrictions apply (citizens of China, Russia, Iran and North Korea are barred unless they are also US citizens or permanent residents); onsite.",
+  "u": "https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016166956",
+  "unv": "Posted 2026-10-15, slightly before the sweep window, but not in the catalog.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "High",
+  "checked": "2026-10-21",
+  "added": "2026-10-21",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
   "id": "lmu-munich-fraunhofer-schwarzschild-postdoctoral-fellows",
   "n": "LMU Munich: Fraunhofer-Schwarzschild Postdoctoral Fellowships",
   "f": "LMU Munich, University Observatory; contact Daniel Grün",
@@ -8750,6 +8882,27 @@
   "nfit": "Low",
   "checked": "2026-10-18",
   "added": "2026-10-18",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "northeastern-postdoc-cosmology-blazek",
+  "n": "Northeastern University: Postdoctoral Researcher in Cosmology",
+  "f": "Northeastern University, Department of Physics",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-04",
+  "dt": "Full consideration for applications received by 4 Dec 2026",
+  "e": "Three-year postdoc with Jonathan Blazek on weak lensing, galaxy clustering and combined-probe analyses (Rubin DESC, Roman, OpenUniverse), start Summer/Fall 2027. PhD in physics, astronomy or related field required by start.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33170",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-10-21",
+  "added": "2026-10-21",
   "stages": [
    "pd"
   ]
