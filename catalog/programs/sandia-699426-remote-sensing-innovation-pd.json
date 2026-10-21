@@ -1,0 +1,31 @@
+{
+ "a": null,
+ "added": "2026-10-21",
+ "aud": [
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-21",
+ "d": null,
+ "dt": "Posted 2026-10-19; open at least 3 days, may be extended",
+ "e": "Postdoc to plan lab and field measurements of spectral, radiometric and temporal signatures, model visible/infrared sources, and build visible/IR remote sensing systems and detection algorithms. Requires a PhD in optical engineering, remote sensing, physics or a related field conferred within 5 years. The job requires a DOE Q clearance, so applicants must be US citizens.",
+ "f": "Sandia National Laboratories, Weaponization and Signature R&D Department (Albuquerque)",
+ "fields": [
+  "phot",
+  "inst"
+ ],
+ "id": "sandia-699426-remote-sensing-innovation-pd",
+ "n": "Sandia National Laboratories: Postdoctoral Appointee, Remote Sensing Innovation (visible/IR radiometry and spectral sensing)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:sandia-699426",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://sandia.jobs/albuquerque-nm/postdoctoral-appointee-remote-sensing-innovation-onsite/86A1DECBD6A74A2A93336F2163DE2D40/job/",
+ "unv": "Salary not stated.",
+ "us": true
+}

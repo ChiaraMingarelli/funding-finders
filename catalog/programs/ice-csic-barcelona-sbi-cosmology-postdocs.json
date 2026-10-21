@@ -1,0 +1,36 @@
+{
+ "a": "Approx. EUR 43,000-55,000 gross/yr; 3 years",
+ "added": "2026-10-21",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-21",
+ "d": "2026-12-01",
+ "dt": "Apply by email by 1 Dec 2026, 23:59 CET (subject COSMOPD2026 + surname); 3 letters to both addresses by same date",
+ "e": "Two 3-year postdocs funded by an ERC StG and a Spanish national project, on simulation-based inference for weak lensing/CMB (Euclid, LSST, CMB) and differentiable galaxy-halo models; start early autumn 2027 (flexible). Open to PhD holders in cosmology, astrophysics or physics; no nationality limits stated.",
+ "f": "Institute of Space Sciences (ICE-CSIC), Barcelona (Marco Gatti, Alex Alarcon)",
+ "fields": [
+  "astro",
+  "ds"
+ ],
+ "id": "ice-csic-barcelona-sbi-cosmology-postdocs",
+ "n": "ICE-CSIC Barcelona: Two Postdocs in Simulation-Based Inference for Cosmology",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3216432",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3216432",
+ "unv": "No separate host ad found; application is by email to mgatti@ice.csic.es and alarcon@ice.csic.es",
+ "us": false
+}

@@ -1,0 +1,30 @@
+{
+ "a": "$80,000+ depending on qualifications",
+ "added": "2026-10-21",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-21",
+ "d": null,
+ "dt": "No deadline stated; listed until 2027-02-07",
+ "e": "Postdoc running PIC, radiation-hydrodynamics and Monte Carlo transport simulations (with ML methods) for laser-ion acceleration, ICF, Z-pinch/MagLIF and nuclear physics in laser-driven plasmas, with Texas Petawatt and other facilities. PhD within the last 5 years and large-scale PIC code experience required; security-sensitive background check.",
+ "f": "University of Texas at Austin, Center for High Energy Density Science",
+ "fields": [
+  "nux",
+  "ds"
+ ],
+ "id": "ut-austin-cheds-postdoc-computational-plasma-physics",
+ "n": "UT Austin CHEDS: Postdoctoral Fellow, Computational Plasma Physics and Simulation",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "ajo:33168",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33168",
+ "us": false
+}

@@ -1,0 +1,30 @@
+{
+ "a": "Assistant Professor (anticipated)",
+ "added": "2026-10-21",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-21",
+ "d": "2026-12-10",
+ "dt": "Review begins 1 Dec 2026; materials and letters due 10 Dec 2026 via Interfolio",
+ "e": "Tenure-track AI-initiative hire whose research applies advanced AI (generative, agentic, physical AI) to star-planet interactions, exoplanets, astro-particle physics or cosmology; start July 1, 2027. PhD in physics, astronomy or related field required by appointment.",
+ "f": "Rice University, Department of Physics and Astronomy",
+ "fields": [
+  "astro",
+  "ppx",
+  "ds"
+ ],
+ "id": "fj-rice-tt-ai-astronomy-astroparticle-cosmology",
+ "n": "Rice University: Tenure-Track Faculty in Astronomy, Astro-Particle Physics and Cosmology (AI Initiative)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33162",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://apply.interfolio.com/195430",
+ "us": false
+}

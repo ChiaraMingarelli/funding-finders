@@ -1,0 +1,34 @@
+{
+ "a": null,
+ "added": "2026-10-21",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-21",
+ "d": "2026-12-04",
+ "dt": "Full consideration for applications received by 4 Dec 2026",
+ "e": "Three-year postdoc with Jonathan Blazek on weak lensing, galaxy clustering and combined-probe analyses (Rubin DESC, Roman, OpenUniverse), start Summer/Fall 2027. PhD in physics, astronomy or related field required by start.",
+ "f": "Northeastern University, Department of Physics",
+ "fields": [
+  "astro"
+ ],
+ "id": "northeastern-postdoc-cosmology-blazek",
+ "n": "Northeastern University: Postdoctoral Researcher in Cosmology",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33170",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33170",
+ "us": false
+}

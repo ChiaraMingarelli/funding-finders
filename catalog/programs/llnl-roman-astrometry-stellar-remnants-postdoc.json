@@ -1,0 +1,37 @@
+{
+ "a": "$123,048/yr",
+ "added": "2026-10-21",
+ "asub": [
+  "galac",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-21",
+ "d": null,
+ "dt": "Posted 2026-10-15; no closing date stated",
+ "e": "Postdoc to build an astrometric pipeline that finds accelerating stars in Nancy Grace Roman Space Telescope survey data, and to fit population models of the Galaxy's stellar remnants (mass, velocity and spatial distributions). Requires a PhD in physics or astronomy with a focus on astrometry, microlensing or a related area, received within 5 years. No clearance is needed, but NDAA Section 3112 restrictions apply (citizens of China, Russia, Iran and North Korea are barred unless they are also US citizens or permanent residents); onsite.",
+ "f": "Lawrence Livermore National Laboratory, Physics Division, Astronomy Astrophysics & Analytics Group",
+ "fields": [
+  "astro"
+ ],
+ "id": "llnl-roman-astrometry-stellar-remnants-postdoc",
+ "n": "Lawrence Livermore National Laboratory: Astronomy & Astrophysics Postdoctoral Researcher (Roman astrometry of stellar remnants)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:llnl-ref8996a-astro-astrometry",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016166956",
+ "unv": "Posted 2026-10-15, slightly before the sweep window, but not in the catalog.",
+ "us": false
+}

@@ -1,0 +1,36 @@
+{
+ "a": null,
+ "added": "2026-10-21",
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-21",
+ "d": "2026-11-30",
+ "dt": "Apply by 30 Nov 2026 (06:30); letters by 15 Dec 2026",
+ "e": "Theoretical postdoc positions across ICTS areas including astrophysical relativity (LIGO collaboration), string theory, condensed matter and biological physics; includes one Simons cosmic-magnetism postdoc and consideration for the Vaish prize fellowship. Two-year appointments starting around 1 Sep 2027; funding-dependent.",
+ "f": "International Centre for Theoretical Sciences (ICTS-TIFR), Bengaluru",
+ "fields": [
+  "astro",
+  "grav",
+  "cmt",
+  "ppt",
+  "bio"
+ ],
+ "id": "icts-tifr-postdoctoral-program-2027-fall",
+ "n": "ICTS-TIFR: Postdoctoral Program 2027 (Fall Cycle)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33081",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33081",
+ "unv": "Stipend not stated for regular positions",
+ "us": false
+}

@@ -1,0 +1,30 @@
+{
+ "a": null,
+ "added": "2026-10-21",
+ "aud": [
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-21",
+ "d": "2027-01-31",
+ "dt": "INSPIRE deadline 31 Jan 2027",
+ "e": "Postdoc implementing complex scaling in an ab initio nuclear many-body code with eigenvector continuation, applied to near-threshold resonances in light nuclei such as the Hoyle state in carbon-12. Eligibility and application details are not given in the listing.",
+ "f": "CEA DAM (contact Louis Heitz)",
+ "fields": [
+  "nut"
+ ],
+ "id": "cea-dam-nuclear-resonances-postdoc",
+ "n": "CEA DAM: Postdoc, Microscopic Description of Nuclear Resonances",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3216411",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3216411",
+ "unv": "No host ad link, salary, duration, or application instructions; CEA DAM is a defense-agency lab and may have nationality/security-clearance requirements",
+ "us": false
+}

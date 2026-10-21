@@ -1,0 +1,29 @@
+{
+ "a": "Assistant Professor (tenure-track)",
+ "added": "2026-10-21",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-21",
+ "d": "2026-12-02",
+ "dt": "Apply by 2 Dec 2026 via Interfolio",
+ "e": "Tenure-track assistant professor in cosmology and related areas, joining the Texas Center for Cosmology & Astroparticle Physics in the Weinberg Institute, starting Fall 2027. PhD in physics or closely related field required by start.",
+ "f": "University of Texas at Austin, Department of Physics",
+ "fields": [
+  "astro",
+  "ppt"
+ ],
+ "id": "fj-ut-austin-ap-cosmology-tccap",
+ "n": "UT Austin: Assistant Professor in Cosmology",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33167",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://faculty.utexas.edu/career/193143",
+ "us": false
+}

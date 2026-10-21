@@ -1,0 +1,34 @@
+{
+ "a": null,
+ "added": "2026-10-21",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-21",
+ "d": null,
+ "dt": "No deadline stated; listed until 2027-04-20; apply by email to louis.gaudreau@nrc.ca",
+ "e": "Experimental postdoc to lead an analog quantum simulator project based on 2D-material heterostructures (exfoliation, nanofabrication, millikelvin transport and photoluminescence). Apply with cover letter, CV and two references by email, not through AJO.",
+ "f": "National Research Council Canada / University of Ottawa (Hawrylak group)",
+ "fields": [
+  "cmx",
+  "mat",
+  "qp",
+  "dev"
+ ],
+ "id": "nrc-uottawa-analog-quantum-simulators-2d-postdoc",
+ "n": "NRC Canada / University of Ottawa: Postdoctoral Researcher, Analog Quantum Simulators with 2D Materials",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "Canada",
+ "s": "rolling",
+ "src": "ajo:33171",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33171",
+ "unv": "Salary, start date and term not stated",
+ "us": false
+}

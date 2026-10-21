@@ -1,0 +1,30 @@
+{
+ "a": "$122,028-$143,328/yr",
+ "added": "2026-10-21",
+ "aud": [
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-21",
+ "d": null,
+ "dt": "Posted 2026-10-20; no closing date stated",
+ "e": "Postdoc using ultrasonics, acoustics, laser ultrasonics and wave-propagation modeling to characterize heterogeneous materials and inspect parts. Requires a PhD in physics, mechanical or materials engineering or a related field received within 5 years. The job requires a DOE Q clearance, so applicants must be US citizens; onsite.",
+ "f": "Lawrence Livermore National Laboratory, Materials Engineering Division, NDE Group",
+ "fields": [
+  "inst",
+  "mat"
+ ],
+ "id": "llnl-nde-ultrasonics-postdoc",
+ "n": "Lawrence Livermore National Laboratory: Postdoctoral Researcher, Nondestructive Evaluation Ultrasound",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:llnl-ref8999n-nde-ultrasound",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016270781",
+ "us": true
+}
