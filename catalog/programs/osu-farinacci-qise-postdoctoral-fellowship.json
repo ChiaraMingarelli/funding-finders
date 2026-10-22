@@ -1,0 +1,31 @@
+{
+ "added": "2026-10-22",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-22",
+ "d": null,
+ "dt": "No deadline stated on the posting",
+ "e": "A named postdoctoral fellowship hosted by OSU's CQISE, mentored by CQISE-affiliated faculty, in quantum computing, algorithms, simulation, networks or sensing (theory or experiment). Requires a PhD in physics, EE, CS, chemistry or a related field and QIS research experience.",
+ "f": "The Ohio State University, Department of Physics / Center for Quantum Information Science and Engineering (CQISE)",
+ "fields": [
+  "qp"
+ ],
+ "id": "osu-farinacci-qise-postdoctoral-fellowship",
+ "n": "Ohio State: Farinacci Family Postdoctoral Fellowship in Quantum Information Science and Engineering",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:osu-R151630",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar_R151630-2",
+ "unv": "Deadline, salary, term and start date not stated; Workday shows the posting started Sep 11, 2026",
+ "us": false
+}

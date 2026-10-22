@@ -1,0 +1,32 @@
+{
+ "added": "2026-10-22",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-22",
+ "d": null,
+ "dt": "Open at least 5 days; closes once a candidate is identified",
+ "e": "A postdoc developing quantum algorithms to simulate condensed-matter systems on quantum computers, such as partially fault-tolerant methods, topological materials and thermodynamic properties. Requires a PhD in physics, chemistry, CS or a related field earned within 5 years. Appointment up to 24 months. Foreign nationals need a PIV or LSSO access determination; no citizenship requirement is stated.",
+ "f": "Oak Ridge National Laboratory (Quantum Computational Science Group)",
+ "fields": [
+  "qp",
+  "cmt"
+ ],
+ "id": "ornl-quantum-algorithms-condensed-matter-postdoc-17309",
+ "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Quantum Algorithms (condensed matter simulation)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:ornl-17309",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Quantum-Algorithms-TN-37830/1441978400/",
+ "unv": "Salary not stated; posting date given as Oct 20–21, 2026 via the CQE job board",
+ "us": false
+}

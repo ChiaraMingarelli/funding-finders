@@ -1,0 +1,33 @@
+{
+ "a": "$8,321–$10,418/month (union step scale)",
+ "added": "2026-10-22",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-22",
+ "d": null,
+ "dt": "No deadline listed",
+ "e": "A 2-year, DOE-funded theory postdoc on optical interconnects for distributed neutral-atom quantum computing: Rydberg interactions, atomic-ensemble qubits as quantum memories and photon sources, and fault-tolerant multi-zone architectures. Requires a PhD in quantum optics, quantum networking or quantum computing and fewer than 3 years of paid postdoc experience. Work must be done in the US.",
+ "f": "Lawrence Berkeley National Laboratory (ESnet) with QuEra Computing",
+ "fields": [
+  "qp",
+  "amo"
+ ],
+ "id": "lbnl-distributed-qc-neutral-atom-theory-postdoc-7190",
+ "n": "Berkeley Lab: Theoretical Physicist Postdoc for Distributed Quantum Computing (neutral atoms, ESnet/QuEra)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:lbnl-7190",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.lbl.gov/jobs/theoretical-physicist-postdoc-for-distributed-quantum-computing-7190",
+ "unv": "Original posting date not shown (job board re-listed it Oct 21, 2026)",
+ "us": false
+}

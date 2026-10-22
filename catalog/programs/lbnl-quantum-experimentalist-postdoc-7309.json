@@ -1,0 +1,33 @@
+{
+ "a": "$6,924–$8,026/month (union step scale)",
+ "added": "2026-10-22",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-22",
+ "d": null,
+ "dt": "Applications accepted until the posting is removed",
+ "e": "A 3-year postdoc in the Quantum Information Science & Technology Group, supporting the Advanced Quantum Testbed and Quantum Systems Accelerator. The fellow will design, calibrate and operate mid-scale superconducting quantum processors. Requires a PhD in physics, applied physics, EE or a related field and fewer than 2 years of paid postdoc experience.",
+ "f": "Lawrence Berkeley National Laboratory (AMCR Division, QIST Group)",
+ "fields": [
+  "qp",
+  "dev"
+ ],
+ "id": "lbnl-quantum-experimentalist-postdoc-7309",
+ "n": "Berkeley Lab: Quantum Experimentalist Postdoctoral Fellow (superconducting processors, AQT/QSA)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:lbnl-7309",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.lbl.gov/jobs/quantum-experimentalist-postdoctoral-fellow-7309",
+ "unv": "Original posting date not shown (job board re-listed it Oct 21, 2026); citizenship rules not stated",
+ "us": false
+}

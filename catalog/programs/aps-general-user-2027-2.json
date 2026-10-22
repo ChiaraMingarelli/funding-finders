@@ -1,14 +1,14 @@
 {
  "a": "Beamtime at no cost for non-proprietary research",
- "added": "2026-10-03",
+ "added": "2026-10-22",
  "aud": [
   "yale",
   "ap"
  ],
  "c": "Instrumentation",
- "checked": "2026-10-12",
- "d": "2026-10-21",
- "dt": "2027-1 call due Oct 21, 2026 (call opened Sept 14, 2026)",
+ "checked": "2026-10-22",
+ "d": "2027-03-03",
+ "dt": "2027-2 call opens about Feb 1, 2027; due Mar 3, 2027",
  "e": "Peer-reviewed synchrotron beamtime for x-ray scattering, spectroscopy and imaging, for example resonant scattering and diffraction on oxide films and quantum materials. Open to researchers from any institution.",
  "f": "Argonne National Laboratory / DOE BES",
  "fields": [
@@ -16,8 +16,8 @@
   "mat",
   "inst"
  ],
- "id": "aps-general-user-2027-1",
- "n": "Advanced Photon Source (APS) General User Proposals – run 2027-1",
+ "id": "aps-general-user-2027-2",
+ "n": "Advanced Photon Source (APS) General User Proposals – run 2027-2",
  "nom": false,
  "pt": "other",
  "s": "open",
@@ -29,6 +29,6 @@
   "gr"
  ],
  "u": "https://www.aps.anl.gov/Users-Information/About-Proposals/Proposal-Deadlines-and-Meetings",
- "unv": "aps.anl.gov blocked automated access (HTTP 403) on Oct 21, 2026, so the Oct 21 deadline was not reconfirmed; it is from the Oct 12 check.",
+ "unv": "The schedule marks the call opening date as approximate (~Feb 1, 2027).",
  "us": false
 }
