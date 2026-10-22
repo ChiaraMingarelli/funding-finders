@@ -1,15 +1,15 @@
 {
- "a": "Not confirmed",
+ "a": "$67,600–$80,000; one-year appointments renewable for a second and third year",
  "added": "2026-09-28",
  "aud": [
   "yale",
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
- "d": null,
- "dt": "Annual fall application; see the HQI application page.",
- "e": "Recent PhDs in quantum science and engineering (experiment or theory).",
+ "checked": "2026-10-21",
+ "d": "2026-11-01",
+ "dt": "Submit all materials, including letters, by Nov 1, 2026 for full consideration; review begins Nov 2, interviews the week of Dec 7; the posting stays live until the positions are filled",
+ "e": "Prize postdoctoral fellowships at the Harvard Quantum Initiative for the 2027–28 academic year, for recent PhDs in quantum science and engineering (experiment or theory).",
  "f": "Harvard Quantum Initiative",
  "fields": [
   "qp",
@@ -21,11 +21,11 @@
  "n": "Harvard Quantum Initiative (HQI) Prize Postdoctoral Fellowship",
  "nom": false,
  "pt": "prize",
- "s": "watch",
+ "s": "open",
  "stages": [
   "pd"
  ],
- "u": "https://quantum.harvard.edu/hqi-prize-postdoctoral-fellowships",
- "unv": "HQI and Harvard FAS pages block automated access (HTTP 403) on Oct 7, 2026; past cycles had November deadlines, but no 2027-28 call or date was confirmed.",
+ "u": "https://academicpositions.harvard.edu/postings/16844",
+ "unv": "The HQI site (quantum.harvard.edu) blocks automated access (HTTP 403); details are from the Harvard academic positions posting 16844. Citizenship terms not stated.",
  "us": false
 }

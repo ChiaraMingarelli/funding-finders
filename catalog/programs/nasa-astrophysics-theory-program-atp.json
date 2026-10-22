@@ -10,10 +10,10 @@
   "ast"
  ],
  "c": "Federal grant",
- "checked": "2026-10-12",
+ "checked": "2026-10-21",
  "d": null,
- "dt": "Awaiting ROSES-26 (biennial; last deadline Jul 2025)",
- "e": "ROSES-26 was promised for July 2026 but hasn't been released. The FY27 request cuts Astrophysics R&A sharply.",
+ "dt": "Last deadline Jul 2025; NASA plans to release ROSES-27 no later than January 2027",
+ "e": "NASA had said ROSES-26 would come out in July 2026; on Oct 20, 2026 it announced that ROSES-27 will be released no later than January 2027. The FY27 request cuts Astrophysics R&A sharply.",
  "f": "NASA SMD",
  "fields": [
   "astro",
@@ -29,6 +29,6 @@
   "ten"
  ],
  "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/",
- "unv": "ROSES-26 not released",
+ "unv": "NASA has not said whether ROSES-27 will include ATP or when it will be due.",
  "us": false
 }

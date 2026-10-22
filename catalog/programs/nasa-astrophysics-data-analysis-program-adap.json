@@ -7,9 +7,9 @@
   "ast"
  ],
  "c": "Federal grant",
- "checked": "2026-10-12",
+ "checked": "2026-10-21",
  "d": null,
- "dt": "Awaiting ROSES-26 (last proposal deadline Jan 30, 2026)",
+ "dt": "Last proposal deadline Jan 30, 2026; NASA plans to release ROSES-27 no later than January 2027",
  "e": "Must use NASA archival data.",
  "f": "NASA SMD",
  "fields": [
@@ -26,6 +26,6 @@
   "ten"
  ],
  "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/",
- "unv": "ROSES-26 not released",
+ "unv": "NASA has not said whether ROSES-27 will include ADAP or when it will be due.",
  "us": false
 }

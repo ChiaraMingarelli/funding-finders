@@ -2,7 +2,7 @@
  "a": "3 years; salary and benefits plus $10K per year for research and travel (subject to funds). Up to 2 fellows a year.",
  "added": "2026-09-28",
  "c": "Fellowship",
- "checked": "2026-10-12",
+ "checked": "2026-10-21",
  "d": null,
  "dt": "Last deadline Oct 16, 2026 (AJO #32593); the next cycle is not posted yet",
  "e": "Theory PhD with neutrino expertise. The fellow chooses host US university or lab(s) and can split time between two.",
@@ -20,5 +20,6 @@
   "pd"
  ],
  "u": "https://ntn.fnal.gov/applications/",
+ "unv": "ntn.fnal.gov/applications now requires a Fermilab login (Oct 21, 2026); last deadline confirmed on AJO #32593.",
  "us": false
 }

@@ -10,9 +10,9 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-16",
+ "checked": "2026-10-21",
  "d": "2026-10-31",
- "dt": "Posting end date Oct 31, 2026 (from job-board record)",
+ "dt": "Applications reviewed until the position is filled (applying before Sep 1, 2026 was recommended); the Workday posting end date is Oct 31, 2026",
  "e": "Postdoc on Roman Galactic Exoplanet Survey science: microlensing theory, commissioning and early GBTDS data analysis, and event-analysis and occurrence-rate pipelines. PhD in astronomy, astrophysics or related field by time of hire.",
  "f": "The Ohio State University, Department of Astronomy",
  "fields": [
@@ -30,6 +30,6 @@
   "pd"
  ],
  "u": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Postdoctoral-Scholar_R155249-1",
- "unv": "Close date from Workday metadata; may also appear on the AAS Job Register (outside this agent's scope).",
+ "unv": "The Oct 31, 2026 close date comes from Workday posting metadata, not the ad text.",
  "us": false
 }

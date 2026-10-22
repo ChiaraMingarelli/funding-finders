@@ -29,6 +29,6 @@
   "ug"
  ],
  "u": "https://www.aps.org/",
- "unv": "Other unit dates not checked; aas.org blocked automated access (HTTP 403) on Oct 7, 2026, so the AAS grants were not rechecked.",
+ "unv": "Other unit dates not checked; aas.org blocked automated access (HTTP 403) on Oct 7, 2026, so the AAS grants were not rechecked. aps.org returned HTTP 403 to automated access on Oct 21, 2026; not rechecked.",
  "us": false
 }

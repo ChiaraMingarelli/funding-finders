@@ -11,9 +11,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-12",
- "d": null,
- "dt": "Last deadline Oct 15, 2026; the next cycle is not posted yet",
+ "checked": "2026-10-21",
+ "d": "2027-10-15",
+ "dt": "Next window Aug 15 to Oct 15, 2027, 5 pm submitter local time (window repeats annually); grants.gov lists NSF 22-621 closing Oct 15, 2027",
  "e": "US citizens, nationals and permanent residents only. PhD within 5 years or by Oct 1, 2027. At most 2 attempts.",
  "f": "NSF AST · NSF 22-621",
  "fields": [
@@ -32,7 +32,7 @@
  "nom": false,
  "pt": "prize",
  "region": "US",
- "s": "watch",
+ "s": "open",
  "stages": [
   "pd"
  ],

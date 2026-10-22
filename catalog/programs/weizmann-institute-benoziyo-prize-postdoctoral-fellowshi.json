@@ -12,7 +12,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-07",
+ "checked": "2026-10-21",
  "d": "2026-12-15",
  "dt": "Dec 15, 2026",
  "e": "Independent theoretical or observational astrophysics research (transients, GWs, cosmology, lensing).",
@@ -33,6 +33,6 @@
   "pd"
  ],
  "u": "https://centers.weizmann.ac.il/AstroCenter/benoziyo-fellowship",
- "unv": "AAS ad blocked (HTTP 403) on Oct 7 and Oct 12, 2026; the Weizmann Benoziyo Fellowship page still shows the 2025-26 cycle (closed, deadline Jan 15, 2026) on Oct 12, 2026, so the Dec 15, 2026 deadline is from the AAS listing only and was not reconfirmed.",
+ "unv": "The AAS ad blocked automated access (HTTP 403) on Oct 7, Oct 12 and Oct 21, 2026. The Weizmann Benoziyo Fellowship page still showed the 2025-26 cycle (closed, deadline Jan 15, 2026) on Oct 21, 2026, so the Dec 15, 2026 deadline comes from the AAS listing only and was not reconfirmed.",
  "us": false
 }

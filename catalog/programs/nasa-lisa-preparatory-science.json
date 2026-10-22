@@ -10,9 +10,9 @@
   "ast"
  ],
  "c": "Federal grant",
- "checked": "2026-10-12",
+ "checked": "2026-10-21",
  "d": null,
- "dt": "Last solicited in ROSES-2024 (element D.15; proposals were due Mar 20, 2025); not in ROSES-2025.",
+ "dt": "Last solicited in ROSES-2024 (element D.15; proposals were due Mar 20, 2025); not in ROSES-2025. NASA plans to release ROSES-27 no later than January 2027.",
  "e": "Supports US investigators doing research that prepares for LISA science. The FY2027 budget request would cut Physics of the Cosmos to $3.8M.",
  "f": "NASA SMD",
  "fields": [
@@ -29,6 +29,6 @@
   "ten"
  ],
  "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/",
- "unv": "ROSES-26 not released",
+ "unv": "NASA has not said whether ROSES-27 will include LISA Preparatory Science.",
  "us": false
 }

@@ -6,7 +6,7 @@
   "ng"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-12",
+ "checked": "2026-10-21",
  "d": "2026-12-20",
  "dt": "Apply by Dec 20, 2026 (ID APPO002/2026)",
  "e": "Research in lattice gauge theory with the Zeuthen theory group, starting fall 2027. PhD in theoretical particle physics with lattice QFT experience required; no citizenship restriction stated.",
@@ -26,5 +26,6 @@
   "pd"
  ],
  "u": "https://v22.desy.de/e67416/records325948/index_eng.html",
+ "unv": "The DESY posting gives the deadline as 20.12.2026 in its header and 21.12.2026 at the end; the earlier date is kept.",
  "us": false
 }

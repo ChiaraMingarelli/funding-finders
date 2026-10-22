@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Graduate program",
- "checked": "2026-10-07",
+ "checked": "2026-10-21",
  "d": "2027-01-24",
- "dt": "Jan 24, 2027, 11:59 pm ET; no application fee",
+ "dt": "Jan 24, 2027, 11:59 pm ET for first consideration; late applications may be considered until all places are filled; no application fee",
  "e": "Intensive one-year theoretical-physics master's at Perimeter Institute with the University of Waterloo, open to students from any country with an undergraduate degree in physics and/or math. Mainly relevant to students heading toward GW, cosmology or gravity theory.",
  "f": "Perimeter Institute / University of Waterloo",
  "fields": [
@@ -25,6 +25,6 @@
   "gr"
  ],
  "u": "https://perimeterinstitute.ca/training/masters-program/psi-how-apply",
- "unv": "The official page blocked automated access (HTTP 403) on Oct 12, 2026; the Jan 24, 2027 date could not be reconfirmed.",
+ "unv": "perimeterinstitute.ca blocked automated access (403) on Oct 21, 2026; the Jan 24, 2027 date was confirmed on AJO #32449.",
  "us": false
 }

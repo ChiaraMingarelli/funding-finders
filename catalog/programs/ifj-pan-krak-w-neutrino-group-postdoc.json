@@ -1,10 +1,10 @@
 {
- "a": "not listed; start Jan 2027",
+ "a": "PLN 7,250 gross/month base salary with a PhD; up to 33 months; start first half of 2027",
  "added": "2026-09-30",
  "c": "Group postdoc",
- "checked": "2026-10-12",
- "d": "2026-11-06",
- "dt": "Nov 6, 2026",
+ "checked": "2026-10-21",
+ "d": "2026-11-09",
+ "dt": "Contact the NZ15 department head (Prof. Dariusz Góra) by Nov 9, 2026 (required); applications to jobs@ifj.edu.pl by Nov 16, 2026",
  "e": "T2K and Hyper-Kamiokande neutrino experiments. Requires a PhD in physics with data analysis and programming skills.",
  "f": "Institute of Nuclear Physics PAN, Kraków; contact Tomasz Wachala",
  "fields": [
@@ -20,5 +20,6 @@
   "pd"
  ],
  "u": "https://inspirehep.net/jobs/3206285",
+ "unv": "Dates and salary from the IFJ PAN recruitment notice AP-II-NZ15-1/26 (Oct 2, 2026); the INSPIRE deadline field shows Nov 9, 2026.",
  "us": false
 }

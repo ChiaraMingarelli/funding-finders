@@ -1,14 +1,14 @@
 {
- "a": "2 years, possibly extended to 3 depending on funding",
+ "a": "Grade UE07, £41,064–£48,822 per year; 2 years (Oct 1, 2027 – Sep 30, 2029), possibly extended to 3 depending on funding",
  "added": "2026-10-14",
  "aud": [
   "yale",
   "ng"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-14",
+ "checked": "2026-10-21",
  "d": "2026-11-27",
- "dt": "Closes 2026-11-27 (INSPIRE deadline)",
+ "dt": "Closes Nov 27, 2026, 11:59 pm UK time",
  "e": "Postdoc funded by the STFC Consolidated Grant on LHC phenomenology: Standard Model parameter extraction, ML tools and approximate N3LO corrections, with the option to work with NNPDF. No citizenship limits stated.",
  "f": "University of Edinburgh, Higgs Centre for Theoretical Physics (Richard Ball; NNPDF)",
  "fields": [
@@ -26,6 +26,5 @@
   "pd"
  ],
  "u": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/preview/15039/?mode=location",
- "unv": "Salary and deadline not confirmed on the host (Oracle) page, which was not opened; the deadline comes from INSPIRE metadata only.",
  "us": false
 }

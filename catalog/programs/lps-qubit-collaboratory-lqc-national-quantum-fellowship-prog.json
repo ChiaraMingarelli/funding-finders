@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-12",
+ "checked": "2026-10-21",
  "d": null,
  "dt": "Last deadline Jun 30, 2026 (NSA-LPS-LQC-2026-0003); the next cycle is not posted yet",
  "e": "US citizens only. Doctoral students (GPA ≥3.5) in physics, engineering or materials doing qubit-related (superconducting or semiconducting preferred) research. Must present at the LQC review.",
@@ -23,6 +23,6 @@
   "gr"
  ],
  "u": "https://www.qubitcollaboratory.org/nqfp/",
- "unv": "Next cycle not confirmed.",
+ "unv": "Next cycle not confirmed. On Oct 21, 2026 the LQC NQFP page still showed the old Mar 31, 2025 deadline, and no newer Zintellect listing was found.",
  "us": true
 }

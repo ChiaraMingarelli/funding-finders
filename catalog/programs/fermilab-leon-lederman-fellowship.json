@@ -1,7 +1,6 @@
 {
  "a": "3-year appointment, extendable up to 2 more years.",
  "added": "2026-09-29",
- "asub": [],
  "aud": [
   "yale",
   "ng",
@@ -9,7 +8,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-12",
+ "checked": "2026-10-21",
  "d": "2026-11-04",
  "dt": "Nov 4, 2026, 23:59 (AJO #32904, posted Oct 1, 2026)",
  "e": "For candidates with a PhD in experimental particle physics, astrophysics or a related field earned after Sep 1, 2025, or expected by Sep 1, 2027. Includes an outreach commitment.",
@@ -27,6 +26,7 @@
  "pt": "prize",
  "region": "US",
  "s": "open",
+ "src": "ajo:32904",
  "stages": [
   "pd"
  ],

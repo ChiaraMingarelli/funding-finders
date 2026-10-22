@@ -8,9 +8,9 @@
   "ast"
  ],
  "c": "Observing time",
- "checked": "2026-10-12",
- "d": null,
- "dt": "Cycle 20 not posted; Cycle 19 Phase-1 closed 29 Jan 2026",
+ "checked": "2026-10-21",
+ "d": "2027-01-28",
+ "dt": "Cycle 20 Phase-1 proposals due Jan 28, 2027 (ROSES D.3, via ARK/RPS); peer review Apr/May 2027; Phase-2 budgets only from selected proposers",
  "e": "NASA's yearly Fermi program, mostly for analysis of gamma-ray data. Open to all; NASA funding goes only to US investigators.",
  "f": "NASA Fermi",
  "fields": [
@@ -21,7 +21,7 @@
  "nom": false,
  "pt": "other",
  "region": "US",
- "s": "watch",
+ "s": "open",
  "src": "other:fermi-cfp",
  "stages": [
   "tt",
@@ -29,6 +29,6 @@
   "pd"
  ],
  "u": "https://fermi.gsfc.nasa.gov/ssc/proposals/",
- "unv": "Cycle 20 dates",
+ "unv": "The FSSC page also still carries older text saying Cycle-20 Phase I is complete; the Jan 28, 2027 date is from its Cycle 20 schedule table and was not checked on NSPIRES.",
  "us": false
 }

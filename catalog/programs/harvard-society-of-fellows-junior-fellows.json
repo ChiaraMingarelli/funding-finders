@@ -9,6 +9,7 @@
  ],
  "c": "Fellowship",
  "checked": "2026-10-07",
+ "d": null,
  "dt": "Last nomination deadline Aug 4, 2026 (for fellowships starting Jul 1, 2027); the next cycle is not posted yet",
  "e": "Recent PhDs or PhD candidates, nominated by an academic mentor; no self-nomination.",
  "f": "Harvard University",
@@ -26,6 +27,6 @@
   "pd"
  ],
  "u": "https://socfell.fas.harvard.edu/nomination-procedure",
- "unv": "Official page blocks automated access (HTTP 403); dates from a search summary of the official nomination page",
+ "unv": "Official page blocks automated access (HTTP 403); dates from a search summary of the official nomination page; still blocked (HTTP 403) on Oct 21, 2026",
  "us": false
 }

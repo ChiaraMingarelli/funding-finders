@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-20",
+ "checked": "2026-10-21",
  "d": "2026-10-31",
  "dt": "Oct 31, 2026; start early 2027",
  "e": "Two-year postdoc on device-independent approaches to quantum computing primitives (QuantERA project ToDiQT), for PhDs in physics, mathematics or computer science with a quantum information theory background. No citizenship restriction stated.",
@@ -25,7 +25,7 @@
  "stages": [
   "pd"
  ],
- "u": "https://quantiki.org/position/postdoc-position-device-independent-quantum-computing",
+ "u": "https://quantiki.org/position/postdoc-position-device-independent-quantum-computing-cea-saclay-paris-france",
  "unv": "No separate host-site ad found; the Quantiki post is by the PI.",
  "us": false
 }

@@ -24,6 +24,6 @@
   "fj"
  ],
  "u": "https://jobs.richmond.edu",
- "unv": "jobs.richmond.edu could not be reached on Oct 12, 2026 (TLS certificate error, then HTTP 503); the ad text (review from Oct 1, open until filled) was confirmed on Inside Higher Ed Careers, whose listing is now marked expired. The Physics Today listing has expired.",
+ "unv": "jobs.richmond.edu could not be reached on Oct 12 or Oct 21, 2026 (TLS certificate error / HTTP 503); the ad text (review from Oct 1, open until filled) was confirmed on Inside Higher Ed Careers, whose listing is marked expired, and the AAS copy returned a bot check (403). Not reconfirmed that the post is still open.",
  "us": false
 }

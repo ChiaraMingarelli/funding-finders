@@ -34,5 +34,5 @@
   "ug"
  ],
  "u": "https://www.astro.ufl.edu/reu",
- "unv": "The page does not state citizenship limits (NSF REU sites normally require US citizenship or permanent residence). Program dates are tentative."
+ "unv": "The UF page could not be read on Oct 21, 2026 (TLS certificate error with curl, HTTP 503 with a second fetcher), so the Feb 1, 2027 deadline was not reconfirmed. The page does not state citizenship limits (NSF REU sites normally require US citizenship or permanent residence). Program dates are tentative."
 }

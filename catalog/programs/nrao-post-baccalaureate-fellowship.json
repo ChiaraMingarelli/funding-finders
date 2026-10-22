@@ -10,8 +10,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-12",
- "dt": "Applications received by May 4, 2026 got full consideration; the page says applications are still accepted until the position is filled",
+ "checked": "2026-10-21",
+ "d": null,
+ "dt": "Last deadline May 4, 2026 (full consideration); the page now says the deadline has passed, and the next cycle is not posted yet",
  "e": "US citizens or permanent residents only, who have recently finished a bachelor's and plan a PhD in astronomy or a related field. 9–12 months at Socorro, Charlottesville or Green Bank, a bridge into radio/pulsar PhD work.",
  "f": "NSF NRAO",
  "fields": [
@@ -23,12 +24,12 @@
  "nfit": "High",
  "nom": false,
  "region": "US",
- "s": "rolling",
+ "s": "watch",
  "src": "other:nrao",
  "stages": [
   "ug"
  ],
  "u": "https://science.nrao.edu/opportunities/student-programs/nrao-post-baccalaureate-fellowship",
- "unv": "The page has not been updated since spring 2026, so the position may already be filled; no 2027 cycle is announced",
+ "unv": "No 2027 cycle is announced.",
  "us": true
 }

@@ -28,6 +28,6 @@
   "pd"
  ],
  "u": "https://stsci.slideroom.com/#/permalink/program/91301/56TDfZ4aqB",
- "unv": "STScI Lasker page (Oct 12, 2026) confirms the Oct 29, 2026 deadline and the data-science focus but lists only a \"competitive salary\"; the $84,875/yr figure is from the AAS ad and was not re-confirmed",
+ "unv": "STScI Lasker page (Oct 12, 2026) confirms the Oct 29, 2026 deadline and the data-science focus but lists only a \"competitive salary\"; the $84,875/yr figure is from the AAS ad and was not re-confirmed. On Oct 21, 2026 the STScI page returned HTTP 503 and the AAS ad HTTP 403, so the deadline was not re-verified",
  "us": true
 }

@@ -11,9 +11,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-12",
+ "checked": "2026-10-21",
  "d": null,
- "dt": "Awaiting ROSES-26 (last deadline Jul 14, 2026)",
+ "dt": "Last deadline Jul 14, 2026 (ROSES-25); NASA plans to release ROSES-27 no later than January 2027",
  "e": "The student writes the proposal and the advisor acts as mentor.",
  "f": "NASA SMD",
  "fields": [
@@ -30,6 +30,6 @@
   "gr"
  ],
  "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/",
- "unv": "ROSES-2026 not released as of Oct 7, 2026; FINESST last appeared in ROSES-2025 (due Jul 14, 2026)",
+ "unv": "NASA has not said whether ROSES-27 will include FINESST or when it will be due.",
  "us": false
 }

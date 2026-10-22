@@ -17,7 +17,7 @@
  ],
  "id": "fast-open-time-2027",
  "n": "FAST Science Observing Proposals Call (next yearly call)",
- "nfit": "Medium",
+ "nfit": "High",
  "nom": false,
  "pt": "other",
  "region": "International",
@@ -29,6 +29,6 @@
   "pd"
  ],
  "u": "https://fast.bao.ac.cn/cms/article/2006192136192610305/",
- "unv": "Timing of the next call is not posted (the page renders with JavaScript and was read in a browser). Grad-student PI status was not checked. US federal funding rules on work with Chinese institutions were not checked.",
+ "unv": "fast.bao.ac.cn could not be reached on Oct 21, 2026 (connection reset), so the page was not rechecked. Timing of the next call is not posted (the page renders with JavaScript and was read in a browser). Grad-student PI status was not checked. US federal funding rules on work with Chinese institutions were not checked.",
  "us": false
 }

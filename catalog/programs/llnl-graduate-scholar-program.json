@@ -26,6 +26,6 @@
   "gr"
  ],
  "u": "https://lgsp.llnl.gov/",
- "unv": "Citizenship requirements not verified; lgsp.llnl.gov did not resolve on Oct 7 or Oct 12, 2026 (DNS failure / proxy 502)",
+ "unv": "Citizenship requirements not verified; lgsp.llnl.gov could not be reached on Oct 7, Oct 12 or Oct 21, 2026 (DNS failure / proxy 502)",
  "us": false
 }

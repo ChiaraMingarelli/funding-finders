@@ -24,6 +24,6 @@
   "fj"
  ],
  "u": "https://aas.org/jobregister/ad/3d08f53b",
- "unv": "The AAS Job Register page returned HTTP 403 on 2026-10-07, so the posting was not rechecked.",
+ "unv": "The AAS Job Register blocked automated access (HTTP 403) again on Oct 21, 2026, so the deadline and details were not reconfirmed.",
  "us": false
 }

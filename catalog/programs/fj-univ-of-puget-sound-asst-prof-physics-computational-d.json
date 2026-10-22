@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-10-12",
+ "checked": "2026-10-21",
  "d": null,
- "dt": "Review began Oct 16, 2026; open until filled",
+ "dt": "Review began Oct 16, 2026; the ad gives no closing date",
  "e": "Any field whose methods include computational physics or analysis of large datasets; PhD in physics or astronomy. Start Fall 2027.",
  "f": "Dept. of Physics, University of Puget Sound",
  "fields": [
@@ -24,6 +24,6 @@
   "fj"
  ],
  "u": "https://jobs.physicstoday.org/job/42001172/",
- "unv": "Physics Today job page blocked automated access (HTTP 403) on 2026-10-17; not reconfirmed that the post is still open",
+ "unv": "The ad gives no closing date or open-until-filled wording; the Physics Today listing shows an automatic close date of Oct 26, 2026.",
  "us": false
 }

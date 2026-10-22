@@ -5,7 +5,7 @@
   "ap"
  ],
  "c": "Center/large grant",
- "checked": "2026-10-12",
+ "checked": "2026-10-21",
  "d": null,
  "dt": "White-paper intake paused Sept 15, 2026 for system upgrades; reopening expected November 2026 (BAA open to Sept 30, 2029)",
  "e": "Funds research, prototyping and commercial projects in U.S. microelectronics, including work linked to AI, quantum technology, biotechnology and standards. A white paper comes first. Domestic universities, nonprofits and companies may apply.",
@@ -32,6 +32,6 @@
   "ten"
  ],
  "u": "https://www.nist.gov/chips/chips-rd-funding-opportunities/crdo-broad-agency-announcement-baa",
- "unv": "Grants.gov lists the notice as closed Sept 15, 2026 (archive date Oct 15, 2026), while NIST says intake reopens in November 2026; the exact reopening date is not posted. The award-size field on grants.gov is ambiguous.",
+ "unv": "The grants.gov notice is now archived (archive date Oct 15, 2026), while NIST says the application portal reopens in November 2026 with updated instructions; the exact reopening date is not posted. The award-size field on grants.gov is ambiguous.",
  "us": false
 }

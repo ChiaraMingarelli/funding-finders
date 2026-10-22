@@ -28,6 +28,6 @@
   "pd"
  ],
  "u": "https://chandlab.eng.buffalo.edu/",
- "unv": "The lab's Join Us page (updated Oct 11, 2026) still invites postdoc inquiries but gives no date; the Dec 31, 2026 date is from the Quantiki listing and was not reconfirmed.",
+ "unv": "The lab page could not be opened on 2026-10-21 (TLS certificate error; HTTP 503 via WebFetch). The Dec 31, 2026 date is from the Quantiki listing and was not reconfirmed on a host page.",
  "us": true
 }

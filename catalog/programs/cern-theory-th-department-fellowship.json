@@ -7,7 +7,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-12",
+ "checked": "2026-10-21",
  "d": "2026-11-02",
  "dt": "For fellowships starting in 2027: deadline 2026-11-02 23:59 CET. Contracts start in autumn.",
  "e": "The TH page explicitly invites non-member-state nationals, including US citizens. Physics fellows must be at most 6 years past PhD.",
@@ -28,6 +28,6 @@
   "pd"
  ],
  "u": "https://th-dep.web.cern.ch/jobs",
- "unv": "Stipend figure is from the general Research Fellowship page",
+ "unv": "Stipend figure is from the general Research Fellowship page. The TH jobs page now requires a CERN login; the Nov 2, 2026 deadline was confirmed on the CERN careers posting (TH-2026-1/Cat1, ideal start Oct 1, 2027).",
  "us": false
 }

@@ -1,5 +1,5 @@
 {
- "a": "3-yr fellowship (stipend + tuition)",
+ "a": "3-year fellowship: $3,600 monthly stipend ($43,200 a year) plus tuition, and up to $5,000 travel over the tenure",
  "added": "2026-09-29",
  "aud": [
   "yale",
@@ -9,7 +9,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-12",
+ "checked": "2026-10-21",
  "d": "2026-10-30",
  "dt": "Aug 3 to Oct 30, 2026, 5 pm ET",
  "e": "US citizens early in their PhD (or seniors) in DoD-relevant S&E, including physics.",
@@ -33,6 +33,5 @@
   "ug"
  ],
  "u": "https://ndseg.sysplus.com/",
- "unv": "Stipend amount not shown on homepage",
  "us": true
 }

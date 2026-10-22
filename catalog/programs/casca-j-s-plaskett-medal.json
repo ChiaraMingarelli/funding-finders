@@ -30,6 +30,6 @@
   "pd"
  ],
  "u": "https://www.casca.ca/awards",
- "unv": "Next nomination deadline not shown on the CASCA page; no cash prize stated.",
+ "unv": "Next nomination deadline not shown on the CASCA page; no cash prize stated. casca.ca showed a bot check (HTTP 429) on Oct 21, 2026, so it was not rechecked.",
  "us": false
 }

@@ -5,7 +5,7 @@
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-12",
+ "checked": "2026-10-21",
  "d": "2026-10-26",
  "dt": "Oct 26, 2026",
  "e": "ATLAS HH→4b analysis, b-tagging and ML. Requires a PhD in experimental particle physics.",
@@ -24,6 +24,6 @@
   "pd"
  ],
  "u": "https://inspirehep.net/jobs/3202922",
- "unv": "The HU Berlin job page blocks automated access (bot check); details confirmed on the INSPIRE listing.",
+ "unv": "The HU Berlin job page shows a bot check (Anubis) to automated access; details confirmed on the INSPIRE listing.",
  "us": false
 }
