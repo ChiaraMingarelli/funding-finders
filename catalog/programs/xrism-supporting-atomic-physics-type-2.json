@@ -1,0 +1,35 @@
+{
+ "a": "Cycle 3 expected 1 to 3 Type-2 awards of up to 3 years; amounts not stated",
+ "added": "2026-10-22",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-22",
+ "d": null,
+ "dt": "Cycle 4 not posted yet; Cycle 3 Type-2 proposals were due Feb 27, 2026 via NSPIRES",
+ "e": "NASA funding for atomic-physics theory or laboratory work (for example cross sections or EBIT measurements) needed to interpret XRISM Resolve spectra, with no observing time involved. Only PIs at US institutions may propose.",
+ "f": "NASA (ROSES, XRISM General Observer program)",
+ "fields": [
+  "astro",
+  "amo"
+ ],
+ "id": "xrism-supporting-atomic-physics-type-2",
+ "n": "XRISM Supporting Atomic Physics (Type-2) investigations, Cycle 4",
+ "nom": false,
+ "pt": "other",
+ "s": "watch",
+ "src": "other:xrism-sap-type2",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://heasarc.gsfc.nasa.gov/docs/xrism/proposals/",
+ "unv": "Not posted: whether Cycle 4 offers Type-2 again, its dates and amounts. The call does not say whether postdocs or students may be PI.",
+ "us": false
+}

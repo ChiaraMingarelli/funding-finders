@@ -1,17 +1,18 @@
 {
- "a": "Mostly funding for Fermi data analysis; some pointed and joint observations",
+ "a": "About 35 one-year Regular awards averaging $75K; 1-2 Large awards of up to 3 years averaging $125K a year",
  "added": "2026-10-03",
  "asub": [
   "he"
  ],
  "aud": [
+  "yale",
   "ast"
  ],
- "c": "Observing time",
- "checked": "2026-10-21",
+ "c": "Federal grant",
+ "checked": "2026-10-22",
  "d": "2027-01-28",
- "dt": "Cycle 20 Phase-1 proposals due Jan 28, 2027 (ROSES D.3, via ARK/RPS); peer review Apr/May 2027; Phase-2 budgets only from selected proposers",
- "e": "NASA's yearly Fermi program, mostly for analysis of gamma-ray data. Open to all; NASA funding goes only to US investigators.",
+ "dt": "Phase-1 proposals due Jan 28, 2027, 4:30 pm ET via ARK/RPS (ROSES-25 Amendment 80); only selected proposers submit Phase-2 budgets",
+ "e": "NASA's yearly Fermi guest investigator program, mostly funding for analysis of Fermi LAT and GBM data, correlative multiwavelength analysis and theory that advances Fermi science; a small part covers LAT pointed observations. Only PIs at US institutions can be funded.",
  "f": "NASA Fermi",
  "fields": [
   "astro"
@@ -28,7 +29,7 @@
   "ten",
   "pd"
  ],
- "u": "https://fermi.gsfc.nasa.gov/ssc/proposals/",
- "unv": "The FSSC page also still carries older text saying Cycle-20 Phase I is complete; the Jan 28, 2027 date is from its Cycle 20 schedule table and was not checked on NSPIRES.",
+ "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-80-d-3-agigo-swift-fermi-and-tess-observatories-second-opportunities-in-roses-25/",
+ "unv": "The Fermi Science Support Center site could not be reached; the date is confirmed on the NASA ROSES pages. The call does not say whether students or postdocs may be PI.",
  "us": false
 }

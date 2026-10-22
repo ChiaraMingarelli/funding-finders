@@ -1,0 +1,32 @@
+{
+ "a": "NASA funding through STScI, no new observing time; no cap on Regular AR or Theory requests (Cycle 34 terms)",
+ "added": "2026-10-22",
+ "aud": [
+  "yale",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-22",
+ "d": null,
+ "dt": "Cycle 35 call not posted yet; STScI expects to release it Dec 16, 2026, with proposals due Apr 1, 2027 (the same deadline as observing proposals)",
+ "e": "Funding for Hubble archival research and for theory directly relevant to Hubble observing programs, without new observing time, through Hubble's annual call. Anyone may propose, including students and postdocs; only US investigators (US citizens, permanent residents or visa holders employed by a US institution) can be funded.",
+ "f": "Space Telescope Science Institute (NASA)",
+ "fields": [
+  "astro"
+ ],
+ "id": "hst-cycle-35-archival-research-and-theory",
+ "n": "HST Cycle 35 Archival Research and Theory proposals",
+ "nom": false,
+ "pt": "other",
+ "s": "watch",
+ "src": "other:hst-cycle35-ar-theory",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://hst-docs.stsci.edu/hsp",
+ "unv": "The Cycle 35 dates come from an STScI newsletter (Sep 21, 2026), not a posted call; the categories and funding rules follow Cycle 34 and could change.",
+ "us": false
+}

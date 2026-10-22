@@ -1,0 +1,32 @@
+{
+ "a": "NASA funding through STScI, no new observing time; amounts set by formula, grants generally 3 years (Cycle 6 terms)",
+ "added": "2026-10-22",
+ "aud": [
+  "yale",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-22",
+ "d": null,
+ "dt": "Cycle 7 call not posted yet; Cycle 6 (including Archival Research and Theory) closed Oct 1, 2026",
+ "e": "Funding for JWST archival research, including theory proposals, without new observing time, through Webb's annual call. Anyone may propose, including students and postdocs (US students and postdocs may need an administrative PI); only US investigators (US citizens, permanent residents or visa holders employed by a US institution) can be funded.",
+ "f": "Space Telescope Science Institute (NASA)",
+ "fields": [
+  "astro"
+ ],
+ "id": "jwst-cycle-7-archival-research-and-theory",
+ "n": "JWST Cycle 7 Archival Research and Theory proposals",
+ "nom": false,
+ "pt": "other",
+ "s": "watch",
+ "src": "other:jwst-cycle7-ar-theory",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-call-for-proposals-for-cycle-6/jwst-proposal-types-and-categories/jwst-archival-research-ar-proposals",
+ "unv": "No Cycle 7 dates are posted; the categories and funding rules follow Cycle 6 and could change.",
+ "us": false
+}
