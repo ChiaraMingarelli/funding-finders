@@ -1,0 +1,38 @@
+{
+ "a": "About 10 ATI awards expected; $100M total across the three NSF 26-522 programs; no budget cap stated",
+ "added": "2026-10-21",
+ "asub": [
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ast"
+ ],
+ "c": "Instrumentation",
+ "checked": "2026-10-21",
+ "d": null,
+ "dt": "Proposals accepted anytime under NSF 26-522 (no target date in the solicitation or on the program page)",
+ "e": "Grants to develop new technologies and instruments for ground-based astronomy from optical to radio wavelengths, including concept feasibility studies and higher-risk projects. Investigators at US universities and other organizations eligible under NSF rules may apply (unaffiliated individuals cannot), and for FY2027 NSF strongly discourages multiple submissions by the same lead PI.",
+ "f": "NSF MPS/AST · NSF 26-522",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "nsf-astro-technology-instrumentation-ati",
+ "n": "NSF Astronomical Sciences Technology & Instrumentation (ATI)",
+ "nofo": [
+  {
+   "opp": "26-522",
+   "u": "https://simpler.grants.gov/opportunity/1257538b-2930-4d7a-a9f8-c7b0e349eda1"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "src": "other:nsf-ati",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/ati-astronomical-sciences-technology-instrumentation",
+ "us": false
+}

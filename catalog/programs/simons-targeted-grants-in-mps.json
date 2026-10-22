@@ -1,5 +1,5 @@
 {
- "a": "Varies by proposal",
+ "a": "No set amount; funding level and length are flexible, up to 5 years",
  "added": "2026-09-28",
  "aud": [
   "yale",
@@ -8,10 +8,10 @@
   "ast"
  ],
  "c": "Foundation",
- "checked": "2026-10-12",
+ "checked": "2026-10-21",
  "d": null,
- "dt": "Rolling LOI",
- "e": "Tenure-track or tenured faculty; start with an LOI.",
+ "dt": "Rolling: LOI any time through Simons Award Manager; decision within 4 months, then a full proposal by invitation",
+ "e": "High-risk theoretical mathematics, physics and computer science projects, funded case by case. PIs and co-investigators must hold tenured or tenure-track (or equivalent) faculty posts at US or non-US educational institutions or research centers; there is no citizenship requirement.",
  "f": "Simons Foundation",
  "fields": [
   "all"
@@ -25,6 +25,6 @@
   "tt",
   "ten"
  ],
- "u": "https://www.simonsfoundation.org/mathematics-physical-sciences/funding/request-for-applications/",
+ "u": "https://www.simonsfoundation.org/funding/targeted-grants-in-mps/",
  "us": false
 }

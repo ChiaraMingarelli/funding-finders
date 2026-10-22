@@ -1,0 +1,35 @@
+{
+ "a": "Up to $300,000 in total, including 15% overhead, for 2 to 4 years, shared by the US and Israeli partners",
+ "added": "2026-10-21",
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Foundation",
+ "checked": "2026-10-21",
+ "d": "2026-12-02",
+ "dt": "Applications due Dec 2, 2026, 5 pm Israel time (10 am ET), submitted through the institution; the exact and physical sciences are open only in even years",
+ "e": "Joint grants for a US and an Israeli scientist who collaborate on basic research; the 2026 competition covers the exact and physical sciences, including physics (astronomy, astrophysics and cosmology among its areas). Both PIs must hold a PhD or equivalent and a faculty or equivalent post at a non-profit institution; graduate students and postdocs cannot apply.",
+ "f": "United States-Israel Binational Science Foundation (BSF)",
+ "fields": [
+  "all"
+ ],
+ "id": "bsf-research-grants-physical-sciences-2026",
+ "n": "US-Israel BSF Research Grants: Exact and Physical Sciences (2026 competition)",
+ "nom": false,
+ "s": "open",
+ "src": "other:bsf-research-grants-2026",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.bsf.org.il/funding-opportunities/bsf-research-grants/area-of-research/",
+ "unv": "bsf.org.il blocked automated access (HTTP 403) on Oct 21, 2026. The Dec 2, 2026 deadline, the $300,000 cap and the even-year rule come from search results of BSF's 2026 submission regulations, homepage and area-of-research page, and match Yale's InfoReady listing; BSF's calendar and area-of-research page were also indexed with Nov 18, 2026, so confirm the date with BSF.",
+ "us": false,
+ "yale": {
+  "d": null,
+  "t": "Not a limited submission. Yale applicants should contact Zandra Ruiz (zandra.ruiz@yale.edu), Corporate and Foundation Relations, before applying.",
+  "u": "https://yale.infoready4.com/#competitionDetail/2039561"
+ }
+}

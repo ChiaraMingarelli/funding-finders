@@ -1,0 +1,39 @@
+{
+ "a": "Up to $500,000/yr for up to 5 years",
+ "added": "2026-10-21",
+ "asub": [
+  "exo"
+ ],
+ "aud": [
+  "yale",
+  "ap",
+  "ast"
+ ],
+ "c": "Foundation",
+ "checked": "2026-10-21",
+ "d": null,
+ "dt": "No deadline: letters of inquiry (up to 2 pages, with the lead PI's CV) are accepted on a rolling basis; full proposals are by invitation",
+ "e": "Sloan's Matter-to-Life program funds research on the physical principles that distinguish living systems from non-living matter (building life, principles of life, signs of life such as atmospheric signatures); biomedical and disease-related research is not supported. This award supports a collaboration of two or more PIs, for experiment, theory or both.",
+ "f": "Alfred P. Sloan Foundation",
+ "fields": [
+  "bio",
+  "astro"
+ ],
+ "id": "sloan-matter-to-life-research-collaboration-award",
+ "n": "Sloan Matter-to-Life Research Collaboration Award",
+ "nom": false,
+ "s": "rolling",
+ "src": "other:sloan-m2l-collab",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://sloan.org/programs/research/matter-to-life",
+ "unv": "sloan.org blocked automated access (HTTP 403) on Oct 21, 2026. The award sizes and LOI format come from search results of Sloan's Matter-to-Life page and its LOI guidelines (last updated Mar 18, 2022), which give no LOI deadline; the rolling LOI status comes from Yale's InfoReady listing, not from Sloan's own page.",
+ "us": false,
+ "yale": {
+  "d": null,
+  "t": "Not a limited submission. Yale applicants should contact Zandra Ruiz (zandra.ruiz@yale.edu), Corporate and Foundation Relations, before applying.",
+  "u": "https://yale.infoready4.com/#competitionDetail/2006533"
+ }
+}

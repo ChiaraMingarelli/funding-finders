@@ -5,7 +5,7 @@
   "ap"
  ],
  "c": "Federal grant",
- "checked": "2026-10-12",
+ "checked": "2026-10-21",
  "d": null,
  "dt": "Proposals accepted anytime",
  "e": "Consolidated CBET solicitation; EBBS funds engineering of platforms, devices and processes that probe or control biological function (the former biophotonics and biosensing areas fall here), and TP/CPS/EWRE cover transport, process and energy engineering. No limits on proposals per PI; no citizenship restriction.",
@@ -22,6 +22,10 @@
   {
    "opp": "26-518",
    "u": "https://simpler.grants.gov/opportunity/1d3a1aca-46bb-4228-b6c8-a1cb58c5a746"
+  },
+  {
+   "opp": "PD-26-369Y",
+   "u": "https://simpler.grants.gov/opportunity/b14f024d-b4ee-4c78-b599-18a3c69c0e00"
   }
  ],
  "nom": false,
@@ -32,6 +36,5 @@
   "ten"
  ],
  "u": "https://www.nsf.gov/funding/opportunities/engineering-eng-chemical-bioengineering-energy-transport/nsf26-518/solicitation",
- "unv": "Whether biophotonics is named explicitly in EBBS scope was not checked.",
  "us": false
 }
