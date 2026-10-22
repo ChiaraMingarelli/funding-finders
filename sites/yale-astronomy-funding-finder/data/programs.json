@@ -286,6 +286,34 @@
   "us": false
  },
  {
+  "a": "Short (typically 3-6 month) allocations on Aurora, Polaris and other ALCF systems; size depends on readiness to scale",
+  "added": "2026-10-21",
+  "c": "Compute",
+  "checked": "2026-10-21",
+  "d": null,
+  "dt": "Applications accepted year-round",
+  "e": "Year-round requests for time on Argonne's leadership systems, for example to prepare and scale codes ahead of INCITE or ALCC proposals. Open to researchers at universities, industry and government; DOE sponsorship is not required.",
+  "f": "DOE Office of Science / Argonne Leadership Computing Facility",
+  "fields": [
+   "ds",
+   "all"
+  ],
+  "id": "alcf-directors-discretionary-allocations",
+  "n": "ALCF Director's Discretionary (DD) allocations",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "rolling",
+  "src": "other:alcf-dd",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://www.alcf.anl.gov/dd-program",
+  "unv": "The ALCF site returned HTTP 403 (bot check) to automated requests; details taken from the official DD page as shown in search results",
+  "us": false
+ },
+ {
   "a": "ALMA 12-m, 7-m and Total Power time; NRAO Student Observing Support for US students",
   "added": "2026-10-03",
   "asub": [],
@@ -313,6 +341,35 @@
   ],
   "u": "https://almascience.nrao.edu/proposing/call-for-proposals",
   "unv": "Cycle 14 release and deadline; student PI eligibility not re-checked",
+  "us": false
+ },
+ {
+  "a": "Up to 5% of ALMA observing time per cycle",
+  "added": "2026-10-21",
+  "c": "Observing time",
+  "checked": "2026-10-21",
+  "d": null,
+  "dt": "DDT proposals accepted outside the main call; decisions normally within two weeks",
+  "e": "ALMA DDT for targets of opportunity and urgent high-impact science that could not have been proposed in the main Call for Proposals. Open to all scientists worldwide; joint proposals and Large Programs are not eligible.",
+  "f": "ALMA (NRAO for North America)",
+  "fields": [
+   "astro"
+  ],
+  "id": "alma-director-discretionary",
+  "n": "ALMA Director's Discretionary Time (DDT)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:alma-ddt",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://almascience.nrao.edu/proposing/ddt-proposals",
+  "unv": "Student PI eligibility follows the main-call rules, which were not re-checked.",
   "us": false
  },
  {
@@ -485,6 +542,33 @@
    "ug"
   ],
   "u": "https://engage.aps.org/dgrav/honors/prizes-awards/travel-grants",
+  "us": false
+ },
+ {
+  "a": "Equal to the early-bird registration cost for in-person attendance",
+  "added": "2026-10-21",
+  "c": "Travel",
+  "checked": "2026-10-21",
+  "d": "2026-10-25",
+  "dt": "Apply by Oct 25, 2026, 11:59 pm ET",
+  "e": "Grants for early-career scientists within 10 years of their terminal degree (e.g. PhD) who are FECS members (free for APS members) and are presenting a talk or poster at the 2027 APS Global Physics Summit (Atlanta, April 11-16, 2027). Applicants send a short statement of need and a two-page resume; need-based requests get priority.",
+  "f": "APS Forum on Early Career Scientists",
+  "fields": [
+   "all"
+  ],
+  "id": "aps-fecs-registration-grant-gps2027",
+  "n": "APS FECS Global Physics Summit Registration Grant (2027)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "open",
+  "src": "other:aps-fecs-gps-grant",
+  "stages": [
+   "pd",
+   "tt"
+  ],
+  "u": "https://engage.aps.org/fecs/honors/prizes-awards/mm-travel-grant",
   "us": false
  },
  {
@@ -1976,6 +2060,37 @@
   "us": false
  },
  {
+  "a": "Chandra X-ray time from a reserve of up to 1 Ms per cycle; DDT observations are not eligible for funding",
+  "added": "2026-10-21",
+  "asub": [
+   "he"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-21",
+  "d": null,
+  "dt": "Requests accepted at any time through the DDT proposal system",
+  "e": "Chandra's channel for unique, time-critical X-ray opportunities (including unanticipated targets of opportunity) that cannot wait for the next annual cycle. Requests need a 1-3 page science justification and are judged by the CXC Director with the NASA Project Scientist.",
+  "f": "NASA / Chandra X-ray Center",
+  "fields": [
+   "astro"
+  ],
+  "id": "chandra-director-discretionary",
+  "n": "Chandra Director's Discretionary Time (DDT)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:chandra-ddt",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://cxc.harvard.edu/proposer/Chandra_RfO.html",
+  "unv": "The page does not state who may be PI (no nationality limit is mentioned) or whether students may be PI.",
+  "us": false
+ },
+ {
   "a": "Up to €1,850/mo + airfare, 4+ mo in France",
   "added": "2026-09-28",
   "c": "Fellowship",
@@ -2146,6 +2261,36 @@
    "pd"
   ],
   "u": "https://www.cita.utoronto.ca/postdoctoral-fellowship-opportunity/",
+  "us": false
+ },
+ {
+  "a": "24 months from Jan 1, 2027; from €3,132.83 gross per month depending on experience",
+  "added": "2026-10-21",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-21",
+  "d": "2026-11-21",
+  "dt": "Nov 21, 2026 (CNRS portal lists Nov 21, 2026 00:00, so apply by Nov 20)",
+  "e": "Two-year postdoc searching for very-high-energy gamma-ray emission from pulsars and millisecond pulsars, including the Galactic Center bulge population, with stereoscopic data from the CTAO Large-Sized Telescopes and the GammaLearn deep-learning reconstruction. Apply through the CNRS jobs portal; no citizenship limit is stated.",
+  "f": "CNRS, Laboratoire d'Annecy de Physique des Particules (LAPP), CTAO group",
+  "fields": [
+   "astro",
+   "ppx"
+  ],
+  "id": "cnrs-lapp-ctao-lst-pulsar-msp-gamma-ray-postdoc",
+  "n": "CNRS LAPP Annecy: Postdoc in gamma-ray astronomy (pulsars and millisecond pulsars with CTAO LSTs)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3216455",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://emploi.cnrs.fr/Offres/CDD/UMR5814-LOUDAI-061/Default.aspx?lang=EN",
   "us": false
  },
  {
@@ -2445,6 +2590,34 @@
   "us": false
  },
  {
+  "a": "Unscheduled nights on Cerro Tololo telescopes, with the instrument already installed; no financial support",
+  "added": "2026-10-21",
+  "c": "Observing time",
+  "checked": "2026-10-21",
+  "d": null,
+  "dt": "Request by email to the CTIO Director at any time",
+  "e": "Unscheduled nights on CTIO telescopes (more often the smaller ones) can be requested by email to the CTIO Director with a short scientific justification; time goes to the best science and is lower priority than regularly scheduled time.",
+  "f": "NSF NOIRLab / Cerro Tololo Inter-American Observatory",
+  "fields": [
+   "astro"
+  ],
+  "id": "ctio-director-discretionary",
+  "n": "CTIO Director's Discretionary (DD) Time",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ctio-dd",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://noirlab.edu/science/index.php/observing-noirlab/observing-ctio/cerro-tololo/directors-discretionary-time",
+  "unv": "The page does not state PI eligibility (affiliation or career stage); it was updated Sep 15, 2026.",
+  "us": false
+ },
+ {
   "a": "US students: €992/month; Canadian students: CAD $7,000 (via Mitacs); ~3 months",
   "added": "2026-10-01",
   "asub": [
@@ -2537,6 +2710,39 @@
   ],
   "u": "https://www.darpa.mil/work-with-us/communities/academia/young-faculty-award",
   "unv": "The full YFA 2027 announcement (an attachment on SAM.gov) was not read, so the award amounts and eligibility in this row are still from YFA 2026. Times for the Nov 5 executive summary deadline not confirmed.",
+  "us": false
+ },
+ {
+  "a": "2 years; pay per TV-AVH (amount not stated)",
+  "added": "2026-10-21",
+  "asub": [
+   "inst",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-21",
+  "d": null,
+  "dt": "DESY lists the deadline as open (ID FHPO012/2026); INSPIRE shows Oct 20, 2027.",
+  "e": "Two-year postdoc in Hamburg developing the low-level RF control system and carrier-suppression interferometry for superconducting RF cavities that search for kHz-MHz gravitational waves and dark-matter axions. Requires a PhD in electrical engineering or equivalent experience in low-noise RF electronics; no citizenship limit is stated.",
+  "f": "DESY Hamburg, Cluster of Excellence Quantum Universe (MAGO/SHOGWAVE/SONAR projects)",
+  "fields": [
+   "grav",
+   "inst",
+   "ppx"
+  ],
+  "id": "desy-srf-cavity-llrf-postdoc-hf-gw-axions",
+  "n": "DESY: Postdoctoral Researcher, SRF cavity control (LLRF) for axion and high-frequency gravitational-wave searches",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "inspire:3216590",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://v22.desy.de/e67416/records327161/index_eng.html",
+  "unv": "Salary amount not stated (TV-AVH scale). No closing date on the DESY ad; the INSPIRE deadline field (Oct 20, 2027) looks like a placeholder.",
   "us": false
  },
  {
@@ -4185,6 +4391,36 @@
    "ten"
   ],
   "u": "https://www.governmentjobs.com/careers/lacity/jobs/5481469/curator-of-griffith-observatory-6230",
+  "us": false
+ },
+ {
+  "a": "Gold medal and unrestricted $500,000 cash prize",
+  "added": "2026-10-21",
+  "asub": [
+   "cos"
+  ],
+  "c": "Prize",
+  "checked": "2026-10-21",
+  "d": "2026-12-15",
+  "dt": "Nominations for the 2027 prize close December 15, 2026",
+  "e": "Annual prize for fundamental advances in understanding the structure and evolution of the universe. Anyone active in or familiar with cosmological research may nominate; self-nominations are not accepted; a nomination needs the form, a CV and a support letter from outside the nominee's institution.",
+  "f": "Gruber Foundation",
+  "fields": [
+   "astro"
+  ],
+  "id": "gruber-cosmology-prize-2027",
+  "n": "Gruber Cosmology Prize (2027 nominations)",
+  "nfit": "Medium",
+  "nom": true,
+  "region": "International",
+  "s": "open",
+  "src": "other:gruber-cosmology-2027",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://gruber.yale.edu/cosmology-prize-nomination-criteria",
+  "unv": "Nomination deadline time of day not stated on the foundation page",
   "us": false
  },
  {
@@ -6796,6 +7032,36 @@
   "us": false
  },
  {
+  "a": "No fee; coffee breaks and lunches provided; travel, dinners and accommodation not covered (some free student rooms offered)",
+  "added": "2026-10-21",
+  "asub": [
+   "he"
+  ],
+  "c": "Summer program",
+  "checked": "2026-10-21",
+  "d": "2027-04-10",
+  "dt": "Pre-registration open February 20 to April 10; selection results in the first week of May",
+  "e": "Four-week in-person school (July 4-30, 2027) on gravitational-wave detection and science, limited to about 70 participants. Master's and PhD students have priority; some exposure to general relativity is recommended; selection applies if oversubscribed.",
+  "f": "MaNiTou organizers (Marseille, Nice, Toulouse GW groups) at the Ecole de Physique des Houches",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "manitou-gw-summer-school-les-houches-2027",
+  "n": "MaNiTou Summer School on Gravitational Waves at Les Houches (July 2027)",
+  "nfit": "High",
+  "nom": false,
+  "region": "International",
+  "s": "open",
+  "src": "other:manitou-2027",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://indico.in2p3.fr/event/39154/",
+  "unv": "The page gives pre-registration dates without a year (taken as 2027 for a July 2027 school); its accommodation text names the Valrose campus in Nice, possibly carried over from 2026; the Les Houches school site did not respond",
+  "us": false
+ },
+ {
   "a": "Salary + mobility/research allowances (1 to 2 yrs European; Global up to 3 yrs)",
   "added": "2026-09-29",
   "c": "Fellowship",
@@ -7976,6 +8242,37 @@
   "us": true
  },
  {
+  "a": "Three-year PhD fellowship (salary not stated)",
+  "added": "2026-10-21",
+  "asub": [
+   "he"
+  ],
+  "c": "Training",
+  "checked": "2026-10-21",
+  "d": "2026-12-01",
+  "dt": "Upload materials and two reference letters by Dec 1, 2026; search stays open until completed; preferred start April–September 2027",
+  "e": "Three-year PhD fellowships at the Center of Gravity for research on quantum aspects of black holes and spacetime via string theory and holography, within a center that also works on gravitational waves and the two-body problem. Applicants send a CV, BSc and MSc transcripts, a motivation letter and two reference letters via AcademicJobsOnline; no citizenship limits stated.",
+  "f": "Niels Bohr Institute, University of Copenhagen, Center of Gravity",
+  "fields": [
+   "grav",
+   "ppt"
+  ],
+  "id": "nbi-cog-phd-fellowship-gravitational-physics-2027",
+  "n": "Niels Bohr Institute (Center of Gravity): PhD Fellowships in Gravitational Physics (quantum black holes, string theory and holography)",
+  "nfit": "High",
+  "nom": false,
+  "region": "International",
+  "s": "open",
+  "src": "ajo:32719",
+  "stages": [
+   "ug",
+   "gr"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32719",
+  "unv": "Salary and exact degree requirements (a master's degree is implied by the MSc transcript request) are not stated in the ad.",
+  "us": false
+ },
+ {
   "a": "not listed (competitive salary with pension)",
   "added": "2026-10-13",
   "asub": [
@@ -8248,6 +8545,38 @@
   "us": false
  },
  {
+  "a": "At least 2 years, extendable on performance; salary not stated",
+  "added": "2026-10-21",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-21",
+  "d": "2027-01-15",
+  "dt": "Jan 15, 2027; applications reviewed once complete, early application encouraged",
+  "e": "Postdoc based in Ningbo working with Shi Pi on primordial black holes, gravitational-wave astronomy, cosmological gravitational-wave backgrounds and related theoretical cosmology, with funded research visits to ITP-CAS in Beijing. Apply by email (CV, research statement, publication list and two letters); no citizenship limit is stated.",
+  "f": "Institute of Fundamental Physics and Quantum Technology, Ningbo University, with the Institute of Theoretical Physics, Chinese Academy of Sciences",
+  "fields": [
+   "astro",
+   "grav"
+  ],
+  "id": "ningbo-itp-cas-joint-postdoc-gw-cosmology",
+  "n": "Ningbo U. / ITP-CAS: Joint postdoc in theoretical cosmology and gravitational-wave cosmology",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3217080",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3217080",
+  "unv": "No host web ad is linked; details are from the INSPIRE listing (applications by email to fuyue@itp.ac.cn with subject prefix [NB-PD2026]). Salary not stated.",
+  "us": false
+ },
+ {
   "a": "US time on Gemini N/S, Blanco, SOAR, WIYN (NN-EXPLORE) and Subaru exchange; 2027A community access also included Magellan, CHARA, Milankovic, SALT, KMTNet, VST, LBT and Rubin in-kind telescopes",
   "added": "2026-10-03",
   "asub": [],
@@ -8457,6 +8786,36 @@
    "gr"
   ],
   "u": "https://science.nrao.edu/opportunities/student-programs/the-nrao-doctoral-dissertation-award",
+  "us": false
+ },
+ {
+  "a": "Radio telescope time for targets of opportunity, exploratory or other urgent science",
+  "added": "2026-10-21",
+  "c": "Observing time",
+  "checked": "2026-10-21",
+  "d": null,
+  "dt": "DDT proposals may be submitted at any time through the PST",
+  "e": "DDT proposals for targets of opportunity, high-risk/high-return exploratory time or other urgent science, submitted outside the 1 Feb and 1 Aug deadlines and reviewed by observatory staff on scientific merit and technical feasibility. The science justification is limited to two pages.",
+  "f": "NSF NRAO / GBO",
+  "fields": [
+   "astro"
+  ],
+  "id": "nrao-director-discretionary",
+  "n": "NRAO/GBO Director's Discretionary Time (VLA, VLBA, GBT)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:nrao-ddt",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://science.nrao.edu/observing/proposal-types/directorsdiscretionarytime",
+  "unv": "Whether the new limits on time for PIs at non-US institutions also apply to DDT, and student PI rules, were not checked.",
   "us": false
  },
  {
@@ -10463,6 +10822,30 @@
   "us": false
  },
  {
+  "a": "$5,000 cash prize plus membership in the Cottrell Scholar community (eligible for Cottrell STAR, IMPACT and SEED awards)",
+  "added": "2026-10-21",
+  "c": "Prize",
+  "checked": "2026-10-21",
+  "d": "2026-11-04",
+  "dt": "Nomination package due Nov 4, 2026 (submitted by the nominating Cottrell Scholar or Holland awardee via the RCSA PRISM portal)",
+  "e": "Recognizes tenured faculty in chemistry, physics or astronomy (or closely related physical sciences) at a US or Canadian research university or primarily undergraduate institution with strong records in research, teaching, mentoring and leadership. Nomination by a Cottrell Scholar or Holland awardee only (no self-nominations); past Cottrell Scholars are not eligible.",
+  "f": "Research Corporation for Science Advancement (RCSA)",
+  "fields": [
+   "all"
+  ],
+  "id": "rcsa-robert-holland-jr-award-2027",
+  "n": "RCSA Robert Holland Jr. Award for Research and Leadership Excellence",
+  "nom": true,
+  "s": "open",
+  "src": "other:rcsa-holland-award",
+  "stages": [
+   "ten"
+  ],
+  "u": "https://rescorp.org/cottrell-scholars/robert-holland-jr-award/",
+  "unv": "The Nov 4, 2026 date comes from the Awards Calendar on the RCSA Cottrell Scholars page; the award page itself does not restate the deadline or a time of day.",
+  "us": false
+ },
+ {
   "a": "Up to $1M total over 2 years per team; 3–4 teams in the pilot year",
   "added": "2026-09-30",
   "c": "Foundation",
@@ -10710,6 +11093,35 @@
    "ten"
   ],
   "u": "https://www.simonsfoundation.org/grant/simons-fellows-in-mathematics/",
+  "us": false
+ },
+ {
+  "a": "5 years of academic-year salary and fringe (100% for years 1-2, 50% for years 3-5) plus $50,000/yr research allowance; up to 6 awards",
+  "added": "2026-10-21",
+  "c": "Foundation",
+  "checked": "2026-10-21",
+  "d": "2027-01-21",
+  "dt": "Letter of intent due Jan 21, 2027, 12 pm ET (no institutional sign-off needed); LOI decisions by May 31, 2027; non-competitive full proposal once hired, no later than Jun 1, 2028",
+  "e": "For scientific-software researchers with a PhD in mathematics, astronomy or theoretical physics (or a related field at comparable mathematical level) who have led development of research software. Selected awardees must be hired into a new, non-term-limited research or teaching-track faculty position (e.g. research professor, professor of practice) in a math, astronomy or physics department at a US PhD-granting institution, starting by Sep 1, 2028. No citizenship requirement.",
+  "f": "Simons Foundation (Mathematics & Physical Sciences)",
+  "fields": [
+   "astro",
+   "ppt",
+   "cmt",
+   "ds"
+  ],
+  "id": "simons-scientific-software-research-faculty-2027",
+  "n": "Simons Foundation: Scientific Software Research Faculty (SSRF) Award (2027–2028)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "open",
+  "src": "other:simons-ssrf-2027",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.simonsfoundation.org/funding/scientific-software-research-faculty-award-2027-2028/",
   "us": false
  },
  {
@@ -11374,11 +11786,11 @@
   "asub": [
    "he"
   ],
-  "c": "Observing time",
+  "c": "Federal grant",
   "checked": "2026-10-21",
-  "d": null,
-  "dt": "No Cycle 23 call posted; Cycle 22 closed 11 Sep 2025",
-  "e": "NASA's call for Swift observations and related studies. Open to all; NASA funding goes only to US investigators.",
+  "d": "2027-01-28",
+  "dt": "Phase-1 proposals due Jan 28, 2027 via ARK/RPS (ROSES-25 Amendment 80, posted Oct 20, 2026); Cycle 23 starts about Jul 1, 2027",
+  "e": "NASA's Swift Guest Investigator Cycle 23 call for archival data analysis, theory, correlative investigations and new GRB projects. Open to all; NASA funding goes only to US investigators.",
   "f": "NASA Neil Gehrels Swift Observatory",
   "fields": [
    "astro"
@@ -11388,7 +11800,7 @@
   "nom": false,
   "pt": "other",
   "region": "US",
-  "s": "watch",
+  "s": "open",
   "src": "other:swift-cfp",
   "stages": [
    "tt",
@@ -11396,7 +11808,7 @@
    "pd"
   ],
   "u": "https://swift.gsfc.nasa.gov/proposals/",
-  "unv": "Whether Cycle 23 will be solicited: NASA called off the planned commercial reboost on Aug 19, 2026, and Swift resumed operating two of its three instruments on Aug 28",
+  "unv": "Amendment 80 solicits archival, theoretical and correlative proposals and new GRB projects; it does not mention new Swift observing time, so the row is listed as a research grant rather than observing time. Time of day not checked on NSPIRES.",
   "us": false
  },
  {
@@ -11531,8 +11943,8 @@
   ],
   "c": "Observing time",
   "checked": "2026-10-21",
-  "d": null,
-  "dt": "Cycle 10 not posted; Cycle 9 closed 10 Mar 2026; calls usually come in spring",
+  "d": "2027-01-28",
+  "dt": "Phase-1 proposals due Jan 28, 2027 via ARK/RPS (ROSES-25 Amendment 80, posted Oct 20, 2026); Cycle 10 starts with Sector 122",
   "e": "NASA's call to put targets on TESS and fund related science. Open to all; NASA funding goes only to US investigators.",
   "f": "NASA TESS",
   "fields": [
@@ -11543,7 +11955,7 @@
   "nom": false,
   "pt": "other",
   "region": "US",
-  "s": "watch",
+  "s": "open",
   "src": "other:tess-cfp",
   "stages": [
    "tt",
@@ -11551,7 +11963,7 @@
    "pd"
   ],
   "u": "https://heasarc.gsfc.nasa.gov/docs/tess/proposing.html",
-  "unv": "Cycle 10 dates; ROSES-2026 not yet released",
+  "unv": "Time of day for the deadline not checked on NSPIRES; official TESS proposing page not rechecked after the amendment",
   "us": false
  },
  {
