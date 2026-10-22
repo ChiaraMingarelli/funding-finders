@@ -1,0 +1,34 @@
+{
+ "a": "$600,000 over 3 years ($200,000 a year; no indirect costs); one grantee is later chosen for an additional $1.5 million award",
+ "added": "2026-10-21",
+ "aud": [
+  "ap"
+ ],
+ "c": "Foundation",
+ "checked": "2026-10-21",
+ "d": "2027-04-27",
+ "dt": "Proposals due Apr 27, 2027, sent by the institution as one PDF by email. The proposal cover sheet generator opens in November 2026.",
+ "e": "A new program (announced Oct 15, 2026) for faculty in the chemical sciences (e.g. chemistry, chemical engineering, biochemistry, materials chemistry) who are within 15 years of promotion to tenure at a US institution (or one in a US territory) that grants a bachelor's or higher degree in the chemical sciences, to start a high-risk research direction that is a significant departure from their current or previous work and currently has no significant funding. The Foundation accepts one proposal per institution per cycle and aims to make eight grants; no citizenship requirement is stated.",
+ "f": "Camille and Henry Dreyfus Foundation",
+ "fields": [
+  "mat",
+  "bio"
+ ],
+ "id": "dreyfus-program-for-transformative-research-2027",
+ "n": "Dreyfus Foundation Program for Transformative Research (2027)",
+ "nom": true,
+ "s": "open",
+ "src": "other:dreyfus-ptr-2027",
+ "stages": [
+  "ten"
+ ],
+ "u": "https://www.dreyfus.org/program-for-transformative-research/",
+ "unv": "The program page gives no deadline; Apr 27, 2027 is from the Foundation's Oct 15, 2026 announcement on dreyfus.org and matches the Yale newsletter. No time of day is stated.",
+ "us": false,
+ "yale": {
+  "d": "2026-11-16",
+  "t": "Yale limited submission: internal application due Nov 16, 2026 on InfoReady (Organizer filter: Limited Submissions).",
+  "u": "https://yale.infoready4.com/",
+  "unv": "Source is the Yale research office newsletter of Oct 21, 2026. The InfoReady site builds its listings with JavaScript, so the competition could not be checked there with an automated fetch."
+ }
+}
