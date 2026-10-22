@@ -1,0 +1,28 @@
+{
+ "a": "$2,500 stipend and certificate; finalists get up to $1,500 travel to present at the DQI Annual Meeting",
+ "added": "2026-10-21",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Prize",
+ "checked": "2026-10-21",
+ "d": "2027-08-01",
+ "dt": "2027 cycle opens Jun 28, 2027 and closes Aug 1, 2027, 11:59 pm ET",
+ "e": "Award for an outstanding doctoral thesis in quantum information science and technology, for people who defended their PhD in the two calendar years before the cycle opens (the 2027 cycle reaches back to September 2024). The advisor nominates; nominator and nominee must both be APS and DQI members.",
+ "f": "APS Division of Quantum Information (co-sponsored by PRX Quantum)",
+ "fields": [
+  "qp"
+ ],
+ "id": "aps-dqi-best-thesis-award-2027",
+ "n": "APS DQI Best Thesis Award (2027 cycle)",
+ "nom": true,
+ "pt": "other",
+ "s": "open",
+ "src": "other:aps-dqi-thesis",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://engage.aps.org/dqi/honors/prizes-awards",
+ "us": false
+}

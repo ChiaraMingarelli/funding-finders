@@ -1,0 +1,36 @@
+{
+ "a": "No fee; coffee breaks and lunches provided; travel, dinners and accommodation not covered (some free student rooms offered)",
+ "added": "2026-10-21",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-21",
+ "d": "2027-04-10",
+ "dt": "Pre-registration open February 20 to April 10; selection results in the first week of May",
+ "e": "Four-week in-person school (July 4-30, 2027) on gravitational-wave detection and science, limited to about 70 participants. Master's and PhD students have priority; some exposure to general relativity is recommended; selection applies if oversubscribed.",
+ "f": "MaNiTou organizers (Marseille, Nice, Toulouse GW groups) at the Ecole de Physique des Houches",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "manitou-gw-summer-school-les-houches-2027",
+ "n": "MaNiTou Summer School on Gravitational Waves at Les Houches (July 2027)",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "other:manitou-2027",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://indico.in2p3.fr/event/39154/",
+ "unv": "The page gives pre-registration dates without a year (taken as 2027 for a July 2027 school); its accommodation text names the Valrose campus in Nice, possibly carried over from 2026; the Les Houches school site did not respond",
+ "us": false
+}

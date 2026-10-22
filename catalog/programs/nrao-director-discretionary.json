@@ -1,0 +1,35 @@
+{
+ "a": "Radio telescope time for targets of opportunity, exploratory or other urgent science",
+ "added": "2026-10-21",
+ "aud": [
+  "ast",
+  "ng",
+  "radar"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-21",
+ "d": null,
+ "dt": "DDT proposals may be submitted at any time through the PST",
+ "e": "DDT proposals for targets of opportunity, high-risk/high-return exploratory time or other urgent science, submitted outside the 1 Feb and 1 Aug deadlines and reviewed by observatory staff on scientific merit and technical feasibility. The science justification is limited to two pages.",
+ "f": "NSF NRAO / GBO",
+ "fields": [
+  "astro"
+ ],
+ "id": "nrao-director-discretionary",
+ "n": "NRAO/GBO Director's Discretionary Time (VLA, VLBA, GBT)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:nrao-ddt",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://science.nrao.edu/observing/proposal-types/directorsdiscretionarytime",
+ "unv": "Whether the new limits on time for PIs at non-US institutions also apply to DDT, and student PI rules, were not checked.",
+ "us": false
+}

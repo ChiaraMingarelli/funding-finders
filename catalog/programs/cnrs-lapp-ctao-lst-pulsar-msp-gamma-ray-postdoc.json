@@ -1,0 +1,36 @@
+{
+ "a": "24 months from Jan 1, 2027; from €3,132.83 gross per month depending on experience",
+ "added": "2026-10-21",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-21",
+ "d": "2026-11-21",
+ "dt": "Nov 21, 2026 (CNRS portal lists Nov 21, 2026 00:00, so apply by Nov 20)",
+ "e": "Two-year postdoc searching for very-high-energy gamma-ray emission from pulsars and millisecond pulsars, including the Galactic Center bulge population, with stereoscopic data from the CTAO Large-Sized Telescopes and the GammaLearn deep-learning reconstruction. Apply through the CNRS jobs portal; no citizenship limit is stated.",
+ "f": "CNRS, Laboratoire d'Annecy de Physique des Particules (LAPP), CTAO group",
+ "fields": [
+  "astro",
+  "ppx"
+ ],
+ "id": "cnrs-lapp-ctao-lst-pulsar-msp-gamma-ray-postdoc",
+ "n": "CNRS LAPP Annecy: Postdoc in gamma-ray astronomy (pulsars and millisecond pulsars with CTAO LSTs)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3216455",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://emploi.cnrs.fr/Offres/CDD/UMR5814-LOUDAI-061/Default.aspx?lang=EN",
+ "us": false
+}

@@ -1,0 +1,32 @@
+{
+ "a": "Postdoctoral position; salary not stated",
+ "added": "2026-10-21",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-21",
+ "d": null,
+ "dt": "Listed deadline Jun 30, 2026, but the ad says the search continues until the position is filled; apply by email",
+ "e": "Experimental postdoc in ultrafast and quantum-enhanced near-field nano-spectroscopy and imaging of 2D quantum, hybrid and molecular materials. Open to domestic and international applicants; PhD required by the start date.",
+ "f": "University of Colorado Boulder, Department of Physics, Center for Ultrafast Nano-Optics (Markus Raschke)",
+ "fields": [
+  "phot",
+  "cmx",
+  "mat"
+ ],
+ "id": "cu-boulder-raschke-quantum-nano-imaging-postdoc",
+ "n": "CU Boulder: Postdoc in Ultrafast and Quantum Nano-Imaging (Raschke group)",
+ "nfit": "Low",
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "ajo:32093",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32093",
+ "unv": "Salary not stated. Ad posted May 2026; the AJO listing still shows it as open until filled, but whether it has been filled could not be confirmed. Applications go by email to Prof. Raschke."
+}

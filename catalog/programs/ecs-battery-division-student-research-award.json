@@ -1,0 +1,29 @@
+{
+ "a": "$1,000, free ECS meeting student registration and up to $1,000 meeting travel; up to two awards a year",
+ "added": "2026-10-21",
+ "aud": [
+  "ap"
+ ],
+ "c": "Prize",
+ "checked": "2026-10-21",
+ "d": "2027-01-15",
+ "dt": "Nomination period Oct 15 - Jan 15, annually; this cycle closes Jan 15, 2027",
+ "e": "Recognizes students doing research on electrochemical power sources (batteries and fuel cells). Nominees must be ECS and Battery Division members and enrolled at a college or university at the deadline; the package includes transcripts, achievements, a two-page research statement and a supervisor letter.",
+ "f": "The Electrochemical Society, Battery Division",
+ "fields": [
+  "energy",
+  "mat"
+ ],
+ "id": "ecs-battery-division-student-research-award",
+ "n": "ECS Battery Division Student Research Award",
+ "nom": false,
+ "s": "open",
+ "src": "other:ecs-battery-student-award",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://www.electrochem.org/battery-student-research-award",
+ "unv": "The page gives the annual Oct 15 - Jan 15 window; the 2027 closing date is taken from that annual window.",
+ "us": false
+}

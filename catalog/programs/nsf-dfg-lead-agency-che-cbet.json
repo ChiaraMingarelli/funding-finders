@@ -1,0 +1,34 @@
+{
+ "a": "Award floor $200,000, ceiling $700,000; about 10 awards, $5,000,000 total (grants.gov listing). Budgets follow the usual CHE or CBET program norms.",
+ "added": "2026-10-21",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-21",
+ "d": null,
+ "dt": "Proposals accepted anytime, but the solicitation notes that submission timing varies by participating CHE/CBET program and must meet that program's requirements.",
+ "e": "Joint US-German research proposals in chemistry or chemical, transport and process systems, reviewed once by either NSF or DFG as the lead agency. US researchers apply to NSF CHE or CBET and German partners to DFG; the proposal must explain why the collaboration is needed.",
+ "f": "NSF MPS/CHE and ENG/CBET with DFG",
+ "fields": [
+  "mat",
+  "energy"
+ ],
+ "id": "nsf-dfg-lead-agency-che-cbet",
+ "n": "NSF-DFG Lead Agency Opportunity in Chemistry and Chemical Process and Transport Systems (NSF 25-537)",
+ "nofo": [
+  {
+   "opp": "25-537",
+   "u": "https://simpler.grants.gov/opportunity/0f128306-4232-4789-813d-aff7ca15dd42"
+  }
+ ],
+ "nom": false,
+ "s": "rolling",
+ "src": "grants:25-537",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/nsf-dfg-lead-agency-opportunity-chemistry-chemical-process",
+ "us": false
+}

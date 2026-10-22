@@ -1,0 +1,34 @@
+{
+ "a": "Chandra X-ray time from a reserve of up to 1 Ms per cycle; DDT observations are not eligible for funding",
+ "added": "2026-10-21",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-21",
+ "d": null,
+ "dt": "Requests accepted at any time through the DDT proposal system",
+ "e": "Chandra's channel for unique, time-critical X-ray opportunities (including unanticipated targets of opportunity) that cannot wait for the next annual cycle. Requests need a 1-3 page science justification and are judged by the CXC Director with the NASA Project Scientist.",
+ "f": "NASA / Chandra X-ray Center",
+ "fields": [
+  "astro"
+ ],
+ "id": "chandra-director-discretionary",
+ "n": "Chandra Director's Discretionary Time (DDT)",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "rolling",
+ "src": "other:chandra-ddt",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://cxc.harvard.edu/proposer/Chandra_RfO.html",
+ "unv": "The page does not state who may be PI (no nationality limit is mentioned) or whether students may be PI.",
+ "us": false
+}

@@ -7,11 +7,11 @@
  "aud": [
   "ast"
  ],
- "c": "Observing time",
+ "c": "Federal grant",
  "checked": "2026-10-21",
- "d": null,
- "dt": "No Cycle 23 call posted; Cycle 22 closed 11 Sep 2025",
- "e": "NASA's call for Swift observations and related studies. Open to all; NASA funding goes only to US investigators.",
+ "d": "2027-01-28",
+ "dt": "Phase-1 proposals due Jan 28, 2027 via ARK/RPS (ROSES-25 Amendment 80, posted Oct 20, 2026); Cycle 23 starts about Jul 1, 2027",
+ "e": "NASA's Swift Guest Investigator Cycle 23 call for archival data analysis, theory, correlative investigations and new GRB projects. Open to all; NASA funding goes only to US investigators.",
  "f": "NASA Neil Gehrels Swift Observatory",
  "fields": [
   "astro"
@@ -21,7 +21,7 @@
  "nom": false,
  "pt": "other",
  "region": "US",
- "s": "watch",
+ "s": "open",
  "src": "other:swift-cfp",
  "stages": [
   "tt",
@@ -29,6 +29,6 @@
   "pd"
  ],
  "u": "https://swift.gsfc.nasa.gov/proposals/",
- "unv": "Whether Cycle 23 will be solicited: NASA called off the planned commercial reboost on Aug 19, 2026, and Swift resumed operating two of its three instruments on Aug 28",
+ "unv": "Amendment 80 solicits archival, theoretical and correlative proposals and new GRB projects; it does not mention new Swift observing time, so the row is listed as a research grant rather than observing time. Time of day not checked on NSPIRES.",
  "us": false
 }

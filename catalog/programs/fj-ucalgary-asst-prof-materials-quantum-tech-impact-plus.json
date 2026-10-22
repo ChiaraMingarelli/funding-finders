@@ -1,0 +1,30 @@
+{
+ "a": "Assistant Professor (tenure-track); salary per the faculty collective agreement (not stated)",
+ "added": "2026-10-21",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-21",
+ "d": "2026-11-13",
+ "dt": "Application deadline Nov 13, 2026; start on or before July 1, 2027",
+ "e": "Tenure-track Assistant Professor in materials science, materials engineering or computational materials research for quantum technologies (e.g. diamond and other quantum-material growth), linked to the Canada Impact+ Research Chair in Scalable Quantum Network Infrastructure. Under the Canada Impact+ Emerging Leaders rules, candidates must be working and living outside Canada when recruited (expatriate Canadians welcome) and be within five years of their first independent research appointment.",
+ "f": "University of Calgary, Faculty of Science or Schulich School of Engineering (Chemistry, Computer Science, or Electrical and Software Engineering)",
+ "fields": [
+  "mat",
+  "qp"
+ ],
+ "id": "fj-ucalgary-asst-prof-materials-quantum-tech-impact-plus",
+ "n": "University of Calgary: Assistant Professor, Materials, Interfaces and Fabrication for Quantum Technologies (Canada Impact+ Emerging Leader)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "Canada",
+ "s": "open",
+ "src": "other:ucalgary-18239560",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://careers.ucalgary.ca/jobs/18239560-assistant-professor-materials-interfaces-and-fabrication-for-quantum-technologies-canada-impact-plus-emerging-leader",
+ "unv": "Details taken from the Quantiki copy of the ad; the University of Calgary careers site blocked automated access (HTTP 403) on Oct 21, 2026.",
+ "us": false
+}

@@ -1,0 +1,35 @@
+{
+ "a": "Budgets not limited but expected to be $150,000-$350,000 direct costs per year; 3-year awards.",
+ "added": "2026-10-21",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-21",
+ "d": "2027-10-06",
+ "dt": "Renewal/resubmission/revision due Nov 6, 2026; next new-application due date Oct 6, 2027 (resubmissions Nov 8, 2027); 5 pm local time. The Oct 6, 2026 new-application date has passed.",
+ "e": "Development and sharing of theories, computational models and analysis methods for brain circuits, from neurons to behavior. Open to higher-education and other organizations, including foreign organizations.",
+ "f": "NIH BRAIN Initiative (NIDA lead; NIBIB and other institutes)",
+ "fields": [
+  "bio",
+  "ds"
+ ],
+ "id": "nih-brain-tmm-theories-models-methods-r01",
+ "n": "NIH BRAIN Initiative: Theories, Models and Methods for Analysis of Complex Data from the Brain (R01, RFA-DA-27-004)",
+ "nofo": [
+  {
+   "opp": "RFA-DA-27-004",
+   "u": "https://simpler.grants.gov/opportunity/9aea1523-3187-471c-859e-cacb890941c7"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:RFA-DA-27-004",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-27-004.html",
+ "us": false
+}

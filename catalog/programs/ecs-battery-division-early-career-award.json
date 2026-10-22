@@ -1,0 +1,30 @@
+{
+ "a": "$2,000, free registration and up to $2,000 travel to the ECS meeting where it is presented",
+ "added": "2026-10-21",
+ "aud": [
+  "ap"
+ ],
+ "c": "Prize",
+ "checked": "2026-10-21",
+ "d": "2027-01-15",
+ "dt": "Nomination period Oct 15 - Jan 15, annually; this cycle closes Jan 15, 2027",
+ "e": "Recognizes early-career researchers in battery and fuel-cell science and technology who received their final degree or started work in the field no more than 10 years before the nomination deadline. The recipient writes a featured review article in the Journal of The Electrochemical Society.",
+ "f": "The Electrochemical Society, Battery Division",
+ "fields": [
+  "energy",
+  "mat"
+ ],
+ "id": "ecs-battery-division-early-career-award",
+ "n": "ECS Battery Division Early Career Award",
+ "nom": false,
+ "pt": "other",
+ "s": "open",
+ "src": "other:ecs-battery-early-career-award",
+ "stages": [
+  "tt",
+  "pd"
+ ],
+ "u": "https://www.electrochem.org/battery-division-early-career-award",
+ "unv": "The page gives the annual Oct 15 - Jan 15 window; the 2027 closing date is taken from that annual window. Membership requirements were not confirmed.",
+ "us": false
+}

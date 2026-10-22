@@ -1,0 +1,34 @@
+{
+ "a": "Varies by participating program; 35-45 awards expected (NSF page); about $18,000,000 total (grants.gov listing).",
+ "added": "2026-10-21",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-21",
+ "d": "2027-03-01",
+ "dt": "Submission window Feb 1 - Mar 1, 2027, 5 pm submitter's local time; same window annually.",
+ "e": "Protected time and support for mid-career researchers to build new skills through a partnership, usually at another institution. The PI must be an associate professor (or equivalent) for at least 3 years, with research in a participating program; for physical scientists this means the BIO programs, such as MCB Molecular Biophysics (MPS and ENG are not listed as participants).",
+ "f": "NSF (BIO, GEO, SBE, EDU, OIA)",
+ "fields": [
+  "bio"
+ ],
+ "id": "nsf-mca-mid-career-advancement",
+ "n": "NSF Mid-Career Advancement (MCA, NSF 22-603)",
+ "nofo": [
+  {
+   "opp": "22-603",
+   "u": "https://simpler.grants.gov/opportunity/400b428e-a4b2-46bc-82a2-dc9bdfc8fe82"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:22-603",
+ "stages": [
+  "ten"
+ ],
+ "u": "https://www.nsf.gov/funding/opportunities/mca-mid-career-advancement",
+ "unv": "Participating programs taken from NSF's list updated Jan 10, 2025; confirm with an MCA program officer that a physics-based biology project fits.",
+ "us": false
+}

@@ -1,0 +1,32 @@
+{
+ "a": "1 year initially, extendable by up to 2 more years; salary not stated",
+ "added": "2026-10-21",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-21",
+ "d": "2026-11-23",
+ "dt": "Review begins Nov 23, 2026 (best-consideration date) and continues until the position is filled.",
+ "e": "Postdoc based in Bloomington with a leading role in NOvA data analysis and in DUNE analysis or hardware development; start as early as Jan 1, 2027. Requires a PhD in physics; no citizenship limit is stated.",
+ "f": "Indiana University Bloomington, High Energy Neutrino and Particle Astrophysics group",
+ "fields": [
+  "ppx",
+  "nux"
+ ],
+ "id": "indiana-u-nova-dune-neutrino-postdoc",
+ "n": "Indiana U.: Postdoc in experimental long-baseline neutrino oscillation physics (NOvA/DUNE)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "inspire:3217154",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://indiana.peopleadmin.com/postings/34763",
+ "unv": "Salary not stated in the ad.",
+ "us": false
+}

@@ -1,0 +1,32 @@
+{
+ "a": "Not stated",
+ "added": "2026-10-21",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-21",
+ "d": "2026-11-19",
+ "dt": "Nov 19, 2026 (INFN call no. 29234, per INSPIRE)",
+ "e": "Postdoc developing, building and testing a demonstrator 4D tracker based on resistive LGAD silicon sensors and their readout electronics, including lab tests, test beams and performance analysis. Apply through the INFN recruitment portal; eligibility terms are set in the INFN call.",
+ "f": "INFN (Istituto Nazionale di Fisica Nucleare)",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "infn-4d-tracking-resistive-silicon-postdoc",
+ "n": "INFN: Postdoc on a 4D tracking system with resistive silicon detectors (RSD) and readout electronics",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3216517",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://reclutamento.dsi.infn.it/#!bandi/POSTDOC",
+ "unv": "The INFN recruitment portal could not be reached (connection failed), so the call text, host section, salary, duration and eligibility were not verified; details are from the INSPIRE listing (contact Roberta Arcidiacono).",
+ "us": false
+}

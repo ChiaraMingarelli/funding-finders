@@ -1,0 +1,29 @@
+{
+ "a": "$2,000 plus up to $1,000 meeting travel reimbursement",
+ "added": "2026-10-21",
+ "aud": [
+  "ap"
+ ],
+ "c": "Prize",
+ "checked": "2026-10-21",
+ "d": "2027-01-15",
+ "dt": "Nomination period Oct 15 - Jan 15, annually; this cycle closes Jan 15, 2027",
+ "e": "Recognizes a postdoc within five years of the PhD for battery or fuel-cell research, shown in publications including at least one in an ECS journal. Nominees must be ECS and Battery Division members; the packet includes a cover letter and a postdoctoral advisor support letter.",
+ "f": "The Electrochemical Society, Battery Division (sponsored by MTI Corporation and the Jiang Family Foundation)",
+ "fields": [
+  "energy",
+  "mat"
+ ],
+ "id": "ecs-battery-division-postdoc-research-award",
+ "n": "ECS Battery Division Postdoctoral Associate Research Award",
+ "nom": false,
+ "pt": "other",
+ "s": "open",
+ "src": "other:ecs-battery-postdoc-award",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.electrochem.org/battery-division-postdoctoral-associate-research-award",
+ "unv": "The page gives the annual Oct 15 - Jan 15 window; the 2027 closing date is taken from that annual window.",
+ "us": false
+}

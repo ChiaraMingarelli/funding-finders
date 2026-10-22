@@ -1,0 +1,31 @@
+{
+ "a": "Unscheduled nights on Cerro Tololo telescopes, with the instrument already installed; no financial support",
+ "added": "2026-10-21",
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-21",
+ "d": null,
+ "dt": "Request by email to the CTIO Director at any time",
+ "e": "Unscheduled nights on CTIO telescopes (more often the smaller ones) can be requested by email to the CTIO Director with a short scientific justification; time goes to the best science and is lower priority than regularly scheduled time.",
+ "f": "NSF NOIRLab / Cerro Tololo Inter-American Observatory",
+ "fields": [
+  "astro"
+ ],
+ "id": "ctio-director-discretionary",
+ "n": "CTIO Director's Discretionary (DD) Time",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:ctio-dd",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://noirlab.edu/science/index.php/observing-noirlab/observing-ctio/cerro-tololo/directors-discretionary-time",
+ "unv": "The page does not state PI eligibility (affiliation or career stage); it was updated Sep 15, 2026.",
+ "us": false
+}

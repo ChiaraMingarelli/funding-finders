@@ -10,8 +10,8 @@
  ],
  "c": "Observing time",
  "checked": "2026-10-21",
- "d": null,
- "dt": "Cycle 10 not posted; Cycle 9 closed 10 Mar 2026; calls usually come in spring",
+ "d": "2027-01-28",
+ "dt": "Phase-1 proposals due Jan 28, 2027 via ARK/RPS (ROSES-25 Amendment 80, posted Oct 20, 2026); Cycle 10 starts with Sector 122",
  "e": "NASA's call to put targets on TESS and fund related science. Open to all; NASA funding goes only to US investigators.",
  "f": "NASA TESS",
  "fields": [
@@ -22,7 +22,7 @@
  "nom": false,
  "pt": "other",
  "region": "US",
- "s": "watch",
+ "s": "open",
  "src": "other:tess-cfp",
  "stages": [
   "tt",
@@ -30,6 +30,6 @@
   "pd"
  ],
  "u": "https://heasarc.gsfc.nasa.gov/docs/tess/proposing.html",
- "unv": "Cycle 10 dates; ROSES-2026 not yet released",
+ "unv": "Time of day for the deadline not checked on NSPIRES; official TESS proposing page not rechecked after the amendment",
  "us": false
 }

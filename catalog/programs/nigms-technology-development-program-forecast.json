@@ -1,0 +1,36 @@
+{
+ "a": "Not stated in the forecast.",
+ "added": "2026-10-21",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-21",
+ "d": null,
+ "dt": "Forecast only: grants.gov estimates the notice will be posted about Dec 5, 2027, with applications due about Feb 5, 2028.",
+ "e": "Planned NIGMS opportunity for biomedical technology research from proof of concept through prototype, prioritizing innovation over feasibility; projects must focus on the technology, not on testing biological hypotheses.",
+ "f": "NIH NIGMS",
+ "fields": [
+  "bio",
+  "inst"
+ ],
+ "id": "nigms-technology-development-program-forecast",
+ "n": "NIGMS Technology Development Program (PAR-29-005) - forecast",
+ "nofo": [
+  {
+   "opp": "PAR-29-005",
+   "u": "https://simpler.grants.gov/opportunity/58d23222-5ec2-483a-8034-f97661b2a7c3"
+  }
+ ],
+ "nom": false,
+ "s": "watch",
+ "src": "grants:PAR-29-005",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/58d23222-5ec2-483a-8034-f97661b2a7c3",
+ "unv": "Forecast: dates are estimates, and award size and eligibility details are not posted yet.",
+ "us": false
+}

@@ -1,0 +1,34 @@
+{
+ "a": "Short (typically 3-6 month) allocations on Aurora, Polaris and other ALCF systems; size depends on readiness to scale",
+ "added": "2026-10-21",
+ "aud": [
+  "yale",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Compute",
+ "checked": "2026-10-21",
+ "d": null,
+ "dt": "Applications accepted year-round",
+ "e": "Year-round requests for time on Argonne's leadership systems, for example to prepare and scale codes ahead of INCITE or ALCC proposals. Open to researchers at universities, industry and government; DOE sponsorship is not required.",
+ "f": "DOE Office of Science / Argonne Leadership Computing Facility",
+ "fields": [
+  "ds",
+  "all"
+ ],
+ "id": "alcf-directors-discretionary-allocations",
+ "n": "ALCF Director's Discretionary (DD) allocations",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "other:alcf-dd",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.alcf.anl.gov/dd-program",
+ "unv": "The ALCF site returned HTTP 403 (bot check) to automated requests; details taken from the official DD page as shown in search results",
+ "us": false
+}

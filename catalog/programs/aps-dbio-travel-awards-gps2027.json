@@ -1,0 +1,31 @@
+{
+ "a": "Up to $400 per awardee",
+ "added": "2026-10-21",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Travel",
+ "checked": "2026-10-21",
+ "d": "2026-11-16",
+ "dt": "Apply by Nov 16, 2026; advisor letter required for students and postdocs; recipients announced by the third week of January 2027",
+ "e": "Travel support to the 2027 APS Global Physics Summit for DBIO members (undergraduates, graduate students, postdocs and faculty) who are first or corresponding author or presenter of a talk or poster in DBIO-sponsored sessions. Past recipients are not eligible.",
+ "f": "APS Division of Biological Physics",
+ "fields": [
+  "bio"
+ ],
+ "id": "aps-dbio-travel-awards-gps2027",
+ "n": "APS DBIO Travel Awards (2027 Global Physics Summit)",
+ "nom": false,
+ "pt": "other",
+ "s": "open",
+ "src": "other:aps-dbio-travel",
+ "stages": [
+  "ug",
+  "gr",
+  "pd",
+  "tt"
+ ],
+ "u": "https://engage.aps.org/dbio/honors/travel-grants",
+ "us": false
+}

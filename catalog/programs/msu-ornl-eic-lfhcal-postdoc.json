@@ -1,0 +1,32 @@
+{
+ "a": "2 years, subject to performance and funding; salary set by the department (not stated)",
+ "added": "2026-10-21",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-21",
+ "d": null,
+ "dt": "Screening began immediately and continues until the position is filled. The host ad says applications received by Oct 20, 2026 get full consideration; INSPIRE lists Nov 10, 2026.",
+ "e": "Postdoc stationed at Oak Ridge National Laboratory working on detector development, simulation and beam-test analysis for the ePIC forward hadronic calorimeter (LFHCal) and its beam insert at the Electron-Ion Collider. Requires a PhD in experimental nuclear or particle physics or a closely related field; no citizenship limit is stated.",
+ "f": "Mississippi State University, Medium Energy Physics group (stationed at Oak Ridge National Laboratory)",
+ "fields": [
+  "nux",
+  "inst"
+ ],
+ "id": "msu-ornl-eic-lfhcal-postdoc",
+ "n": "Mississippi State U.: Postdoctoral Research Associate in experimental nuclear physics (EIC/ePIC LFHCal, at ORNL)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "inspire:3217156",
+ "stages": [
+  "pd"
+ ],
+ "u": "http://explore.msujobs.msstate.edu/cw/en-us/job/511359",
+ "unv": "Salary not stated. The host ad (job 511359) gives Oct 20, 2026 for full consideration while INSPIRE lists Nov 10, 2026; both say review continues until filled. The position is funded by a DOE EPSCoR project, but the ad sets no residency limit on applicants.",
+ "us": false
+}

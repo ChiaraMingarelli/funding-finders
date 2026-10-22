@@ -1,0 +1,35 @@
+{
+ "a": "5 years of academic-year salary and fringe (100% for years 1-2, 50% for years 3-5) plus $50,000/yr research allowance; up to 6 awards",
+ "added": "2026-10-21",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Foundation",
+ "checked": "2026-10-21",
+ "d": "2027-01-21",
+ "dt": "Letter of intent due Jan 21, 2027, 12 pm ET (no institutional sign-off needed); LOI decisions by May 31, 2027; non-competitive full proposal once hired, no later than Jun 1, 2028",
+ "e": "For scientific-software researchers with a PhD in mathematics, astronomy or theoretical physics (or a related field at comparable mathematical level) who have led development of research software. Selected awardees must be hired into a new, non-term-limited research or teaching-track faculty position (e.g. research professor, professor of practice) in a math, astronomy or physics department at a US PhD-granting institution, starting by Sep 1, 2028. No citizenship requirement.",
+ "f": "Simons Foundation (Mathematics & Physical Sciences)",
+ "fields": [
+  "astro",
+  "ppt",
+  "cmt",
+  "ds"
+ ],
+ "id": "simons-scientific-software-research-faculty-2027",
+ "n": "Simons Foundation: Scientific Software Research Faculty (SSRF) Award (2027–2028)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "open",
+ "src": "other:simons-ssrf-2027",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.simonsfoundation.org/funding/scientific-software-research-faculty-award-2027-2028/",
+ "us": false
+}

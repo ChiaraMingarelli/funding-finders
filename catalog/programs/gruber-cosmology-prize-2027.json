@@ -1,0 +1,35 @@
+{
+ "a": "Gold medal and unrestricted $500,000 cash prize",
+ "added": "2026-10-21",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "radar",
+  "ast"
+ ],
+ "c": "Prize",
+ "checked": "2026-10-21",
+ "d": "2026-12-15",
+ "dt": "Nominations for the 2027 prize close December 15, 2026",
+ "e": "Annual prize for fundamental advances in understanding the structure and evolution of the universe. Anyone active in or familiar with cosmological research may nominate; self-nominations are not accepted; a nomination needs the form, a CV and a support letter from outside the nominee's institution.",
+ "f": "Gruber Foundation",
+ "fields": [
+  "astro"
+ ],
+ "id": "gruber-cosmology-prize-2027",
+ "n": "Gruber Cosmology Prize (2027 nominations)",
+ "nfit": "Medium",
+ "nom": true,
+ "region": "International",
+ "s": "open",
+ "src": "other:gruber-cosmology-2027",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://gruber.yale.edu/cosmology-prize-nomination-criteria",
+ "unv": "Nomination deadline time of day not stated on the foundation page",
+ "us": false
+}
