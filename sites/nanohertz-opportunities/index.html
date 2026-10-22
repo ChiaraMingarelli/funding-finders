@@ -349,7 +349,7 @@ function render(){
   $("stages").innerHTML=STAGES.map(s=>`<button role="tab" data-k="${s.k}" aria-selected="${s.k===stage}">${s.n}<span class="n">${base(s.k).length}</span></button>`).join("");
   $("stages").querySelectorAll("button").forEach(b=>b.onclick=()=>{stage=b.dataset.k;pt="all";save();render();});
   toggle("fRegion",[["0","US & Canada"],["1","+ International"]],intl?"1":"0",k=>{intl=k==="1";save();});
-  toggle("fDue",[["42","Next 6 weeks"],["all","All dates"],["new","New this week"]],due,k=>due=k);
+  toggle("fDue",[["new","New this week"],["42","Due in the next 6 weeks"],["all","All"]],due,k=>due=k);
   toggle("fFit",[["all","Any fit"],["high","High fit"]],fit,k=>fit=k);
   toggle("fType",stage==="pd"?[["all","All types"],["prize","Prize"],["group","Group"],["other","Other"]]:null,pt,k=>pt=k);
   $("tips").innerHTML=TIPS[stage].map(([b,t])=>`<div class="tip"><b>${b}</b>${t}</div>`).join("");
