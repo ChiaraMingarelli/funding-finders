@@ -510,18 +510,16 @@ function changes(){
   $("changes").innerHTML=arr(NOTES.changes).map(c=>`<li><b>${esc(c.b)}</b>${esc(c.t)}</li>`).join("");
 }
 function chips(){
-  const dc=$("dueChips");
-  const dues=[["42","Next 6 weeks"],["all","View all"]];
-  dc.innerHTML=`<span class="lbl">Due</span>`+dues.map(([k,l])=>`<button class="chip" data-k="${k}" aria-pressed="${k===fDue}">${l}</button>`).join("");
-  dc.querySelectorAll(".chip").forEach(b=>b.onclick=()=>{fDue=b.dataset.k;render();});
+  const dc=$("dueChips"), isN=fStatus==="new";
+  const dues=[["new","New this week"],["42","Due in the next 6 weeks"],["all","All"]];
+  dc.innerHTML=`<span class="lbl">Show</span>`+dues.map(([k,l])=>`<button class="chip" data-k="${k}" aria-pressed="${k==="new"?isN:!isN&&k===fDue}">${l}</button>`).join("");
+  dc.querySelectorAll(".chip").forEach(b=>b.onclick=()=>{const k=b.dataset.k; if(k==="new") fStatus=isN?"active":"new"; else {fDue=k; if(isN) fStatus="active";} render();});
   const sc=$("statusChips");
   const opts=[["active","Active (open, rolling, watch)"],["open","Open"],["rolling","Rolling"],["watch","Watch"]];
   if(uid) opts.push(["mine","My list"]);
   const stVal=fStatus==="new"?"active":fStatus;
-  sc.innerHTML=`<label class="lbl" for="statusSel">Status</label><select class="sel" id="statusSel">${opts.map(([k,l])=>`<option value="${k}"${k===stVal?" selected":""}>${l}</option>`).join("")}</select>`
-    +`<button class="chip" id="newChip" aria-pressed="${fStatus==="new"}">New this week</button>`;
+  sc.innerHTML=`<label class="lbl" for="statusSel">Status</label><select class="sel" id="statusSel">${opts.map(([k,l])=>`<option value="${k}"${k===stVal?" selected":""}>${l}</option>`).join("")}</select>`;
   $("statusSel").onchange=e=>{fStatus=e.target.value;render();};
-  $("newChip").onclick=()=>{fStatus=fStatus==="new"?"active":"new";render();};
   const cats=["All",...[...new Set(scope().map(x=>x.c))].filter(Boolean).sort()];
   if(!cats.includes(fCat)) fCat="All";
   const cc=$("catChips");
