@@ -3301,6 +3301,41 @@
   "us": false
  },
  {
+  "a": "Up to $300,000 in total, including 15% overhead, for 2 to 4 years, shared by the US and Israeli partners",
+  "added": "2026-10-21",
+  "aud": [
+   "yale",
+   "ap",
+   "ast"
+  ],
+  "c": "Foundation",
+  "checked": "2026-10-21",
+  "d": "2026-12-02",
+  "dt": "Applications due Dec 2, 2026, 5 pm Israel time (10 am ET), submitted through the institution; the exact and physical sciences are open only in even years",
+  "e": "Joint grants for a US and an Israeli scientist who collaborate on basic research; the 2026 competition covers the exact and physical sciences, including physics (astronomy, astrophysics and cosmology among its areas). Both PIs must hold a PhD or equivalent and a faculty or equivalent post at a non-profit institution; graduate students and postdocs cannot apply.",
+  "f": "United States-Israel Binational Science Foundation (BSF)",
+  "fields": [
+   "all"
+  ],
+  "id": "bsf-research-grants-physical-sciences-2026",
+  "n": "US-Israel BSF Research Grants: Exact and Physical Sciences (2026 competition)",
+  "nom": false,
+  "s": "open",
+  "src": "other:bsf-research-grants-2026",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://www.bsf.org.il/funding-opportunities/bsf-research-grants/area-of-research/",
+  "unv": "bsf.org.il blocked automated access (HTTP 403) on Oct 21, 2026. The Dec 2, 2026 deadline, the $300,000 cap and the even-year rule come from search results of BSF's 2026 submission regulations, homepage and area-of-research page, and match Yale's InfoReady listing; BSF's calendar and area-of-research page were also indexed with Nov 18, 2026, so confirm the date with BSF.",
+  "us": false,
+  "yale": {
+   "d": null,
+   "t": "Not a limited submission. Yale applicants should contact Zandra Ruiz (zandra.ruiz@yale.edu), Corporate and Foundation Relations, before applying.",
+   "u": "https://yale.infoready4.com/#competitionDetail/2039561"
+  }
+ },
+ {
   "a": "1-year renewable; salary not listed",
   "added": "2026-10-03",
   "aud": [
@@ -13803,10 +13838,10 @@
    "ap"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-12",
+  "checked": "2026-10-21",
   "d": "2026-12-15",
   "dt": "Opens Nov 3, 2026; closes Dec 15, 2026",
-  "e": "Tenure-track faculty with no more than 7 years as an independent lab head at an HHMI-eligible institution, working in basic biological/biomedical science. Must be authorized to work in the US.",
+  "e": "Tenured or tenure-track faculty (or those starting such a post by May 1, 2028) at an HHMI-eligible institution with no more than 7 years as an independent lab head as of Dec 15, 2026, doing basic biological or biomedical research. Applicants must be authorized to work in the US or eligible to obtain work authorization.",
   "f": "Howard Hughes Medical Institute",
   "fields": [
    "bio"
@@ -23958,6 +23993,44 @@
   "us": false
  },
  {
+  "a": "About 10 ATI awards expected; $100M total across the three NSF 26-522 programs; no budget cap stated",
+  "added": "2026-10-21",
+  "asub": [
+   "inst"
+  ],
+  "aud": [
+   "yale",
+   "ast"
+  ],
+  "c": "Instrumentation",
+  "checked": "2026-10-21",
+  "d": null,
+  "dt": "Proposals accepted anytime under NSF 26-522 (no target date in the solicitation or on the program page)",
+  "e": "Grants to develop new technologies and instruments for ground-based astronomy from optical to radio wavelengths, including concept feasibility studies and higher-risk projects. Investigators at US universities and other organizations eligible under NSF rules may apply (unaffiliated individuals cannot), and for FY2027 NSF strongly discourages multiple submissions by the same lead PI.",
+  "f": "NSF MPS/AST · NSF 26-522",
+  "fields": [
+   "astro",
+   "inst"
+  ],
+  "id": "nsf-astro-technology-instrumentation-ati",
+  "n": "NSF Astronomical Sciences Technology & Instrumentation (ATI)",
+  "nofo": [
+   {
+    "opp": "26-522",
+    "u": "https://simpler.grants.gov/opportunity/1257538b-2930-4d7a-a9f8-c7b0e349eda1"
+   }
+  ],
+  "nom": false,
+  "s": "rolling",
+  "src": "other:nsf-ati",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://www.nsf.gov/funding/opportunities/ati-astronomical-sciences-technology-instrumentation",
+  "us": false
+ },
+ {
   "a": "1–3 awards; science projects, mid-scale-level facilities, open-access capabilities",
   "added": "2026-09-28",
   "asub": [
@@ -24339,22 +24412,23 @@
   "us": false
  },
  {
-  "a": "Total $30,000,000; ~30 awards; EAGER track plus 4-yr grants up to $2M",
+  "a": "Track 1 (EAGER): $100,000-$400,000 for up to 2 years; Track 2: up to $2,000,000 over 4 years; $15M per fiscal year, up to 15 awards per year",
   "added": "2026-09-28",
   "aud": [
    "yale",
    "ap"
   ],
   "c": "Federal grant",
-  "checked": "2026-10-12",
-  "d": "2027-02-11",
-  "dt": "Posted 2026-08-17",
-  "e": "IHEs and non-profit research orgs. Computing approaches that harness wave dynamics (photonic, acoustic, etc.).",
+  "checked": "2026-10-21",
+  "d": "2026-11-19",
+  "dt": "Required two-page concept outline by email to EFRI2027-2028@nsf.gov by Nov 19, 2026, 5 pm local time; full proposals, by program officer invitation only, due Feb 11, 2027, 5 pm local time. FY 2028 cycle: outline by Nov 16, 2027, full proposal by Feb 10, 2028.",
+  "e": "Funds research on computing with waves (photonic, acoustic and other platforms, including nonlinear and quantum approaches; spin-wave computing is out of scope) through 2-year exploratory EAGER grants and 4-year grants to teams of three or more investigators. US universities and non-profits may apply; at a university the lead PI must be full-time tenured or tenure-track faculty, the PI or a co-PI must hold a tenured or tenure-track post in an engineering college or department, each person may be on only one proposal per fiscal year, and there is no citizenship restriction.",
   "f": "NSF",
   "fields": [
    "amo",
    "qp",
-   "cmx"
+   "cmx",
+   "phot"
   ],
   "id": "nsf-efri-2026-27-wave-based-computing",
   "n": "NSF EFRI-2026/27: Wave-Based Computing",
@@ -24366,11 +24440,12 @@
   ],
   "nom": false,
   "s": "open",
+  "src": "grants:26-524",
   "stages": [
    "tt",
    "ten"
   ],
-  "u": "https://simpler.grants.gov/opportunity/2428d7a5-a82f-456f-88ed-9eb6a3fd91e0",
+  "u": "https://www.nsf.gov/funding/opportunities/efri-wbc-emerging-frontiers-research-innovation-efri-wave-based",
   "us": false
  },
  {
@@ -24380,7 +24455,7 @@
    "ap"
   ],
   "c": "Federal grant",
-  "checked": "2026-10-12",
+  "checked": "2026-10-21",
   "d": null,
   "dt": "Proposals accepted anytime",
   "e": "Consolidated CBET solicitation; EBBS funds engineering of platforms, devices and processes that probe or control biological function (the former biophotonics and biosensing areas fall here), and TP/CPS/EWRE cover transport, process and energy engineering. No limits on proposals per PI; no citizenship restriction.",
@@ -24397,6 +24472,10 @@
    {
     "opp": "26-518",
     "u": "https://simpler.grants.gov/opportunity/1d3a1aca-46bb-4228-b6c8-a1cb58c5a746"
+   },
+   {
+    "opp": "PD-26-369Y",
+    "u": "https://simpler.grants.gov/opportunity/b14f024d-b4ee-4c78-b599-18a3c69c0e00"
    }
   ],
   "nom": false,
@@ -24407,7 +24486,6 @@
    "ten"
   ],
   "u": "https://www.nsf.gov/funding/opportunities/engineering-eng-chemical-bioengineering-energy-transport/nsf26-518/solicitation",
-  "unv": "Whether biophotonics is named explicitly in EBBS scope was not checked.",
   "us": false
  },
  {
@@ -25505,13 +25583,13 @@
   "us": true
  },
  {
-  "a": "$50,000 typical; $12M program",
+  "a": "Up to $50,000 for 12 months; an estimated 240 awards and about $12M in total",
   "added": "2026-10-03",
   "aud": [
    "ap"
   ],
   "c": "Federal grant",
-  "checked": "2026-10-12",
+  "checked": "2026-10-21",
   "d": null,
   "dt": "Proposals accepted anytime",
   "e": "Funds a team (PI, entrepreneurial lead such as a student or postdoc, and mentor) to do customer discovery on a technology from NSF-funded research. Requires a current or recent (within 5 years) NSF award in a relevant field, or completion of Regional I-Corps training with a recommendation; no citizenship restriction.",
@@ -29587,7 +29665,7 @@
   "us": false
  },
  {
-  "a": "Varies by proposal",
+  "a": "No set amount; funding level and length are flexible, up to 5 years",
   "added": "2026-09-28",
   "aud": [
    "yale",
@@ -29596,10 +29674,10 @@
    "ast"
   ],
   "c": "Foundation",
-  "checked": "2026-10-12",
+  "checked": "2026-10-21",
   "d": null,
-  "dt": "Rolling LOI",
-  "e": "Tenure-track or tenured faculty; start with an LOI.",
+  "dt": "Rolling: LOI any time through Simons Award Manager; decision within 4 months, then a full proposal by invitation",
+  "e": "High-risk theoretical mathematics, physics and computer science projects, funded case by case. PIs and co-investigators must hold tenured or tenure-track (or equivalent) faculty posts at US or non-US educational institutions or research centers; there is no citizenship requirement.",
   "f": "Simons Foundation",
   "fields": [
    "all"
@@ -29613,7 +29691,7 @@
    "tt",
    "ten"
   ],
-  "u": "https://www.simonsfoundation.org/mathematics-physical-sciences/funding/request-for-applications/",
+  "u": "https://www.simonsfoundation.org/funding/targeted-grants-in-mps/",
   "us": false
  },
  {
@@ -29743,6 +29821,123 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/31664",
   "us": false
+ },
+ {
+  "a": "Up to $300,000/yr for up to 5 years",
+  "added": "2026-10-21",
+  "asub": [
+   "exo"
+  ],
+  "aud": [
+   "yale",
+   "ap",
+   "ast"
+  ],
+  "c": "Foundation",
+  "checked": "2026-10-21",
+  "d": null,
+  "dt": "No deadline: letters of inquiry (up to 2 pages, with the lead PI's CV) are accepted on a rolling basis; full proposals are by invitation",
+  "e": "Sloan's Matter-to-Life program funds research on the physical principles that distinguish living systems from non-living matter (building life, principles of life, signs of life such as atmospheric signatures); biomedical and disease-related research is not supported. This award supports a single investigator or a collaboration, for experiment, theory or both.",
+  "f": "Alfred P. Sloan Foundation",
+  "fields": [
+   "bio",
+   "astro"
+  ],
+  "id": "sloan-matter-to-life-research-award",
+  "n": "Sloan Matter-to-Life Research Award",
+  "nom": false,
+  "s": "rolling",
+  "src": "other:sloan-m2l-research",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://sloan.org/programs/research/matter-to-life",
+  "unv": "sloan.org blocked automated access (HTTP 403) on Oct 21, 2026. The award sizes and LOI format come from search results of Sloan's Matter-to-Life page and its LOI guidelines (last updated Mar 18, 2022), which give no LOI deadline; the rolling LOI status comes from Yale's InfoReady listing, not from Sloan's own page.",
+  "us": false,
+  "yale": {
+   "d": null,
+   "t": "Not a limited submission. Yale applicants should contact Zandra Ruiz (zandra.ruiz@yale.edu), Corporate and Foundation Relations, before applying.",
+   "u": "https://yale.infoready4.com/#competitionDetail/2006530"
+  }
+ },
+ {
+  "a": "Up to $500,000/yr for up to 5 years",
+  "added": "2026-10-21",
+  "asub": [
+   "exo"
+  ],
+  "aud": [
+   "yale",
+   "ap",
+   "ast"
+  ],
+  "c": "Foundation",
+  "checked": "2026-10-21",
+  "d": null,
+  "dt": "No deadline: letters of inquiry (up to 2 pages, with the lead PI's CV) are accepted on a rolling basis; full proposals are by invitation",
+  "e": "Sloan's Matter-to-Life program funds research on the physical principles that distinguish living systems from non-living matter (building life, principles of life, signs of life such as atmospheric signatures); biomedical and disease-related research is not supported. This award supports a collaboration of two or more PIs, for experiment, theory or both.",
+  "f": "Alfred P. Sloan Foundation",
+  "fields": [
+   "bio",
+   "astro"
+  ],
+  "id": "sloan-matter-to-life-research-collaboration-award",
+  "n": "Sloan Matter-to-Life Research Collaboration Award",
+  "nom": false,
+  "s": "rolling",
+  "src": "other:sloan-m2l-collab",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://sloan.org/programs/research/matter-to-life",
+  "unv": "sloan.org blocked automated access (HTTP 403) on Oct 21, 2026. The award sizes and LOI format come from search results of Sloan's Matter-to-Life page and its LOI guidelines (last updated Mar 18, 2022), which give no LOI deadline; the rolling LOI status comes from Yale's InfoReady listing, not from Sloan's own page.",
+  "us": false,
+  "yale": {
+   "d": null,
+   "t": "Not a limited submission. Yale applicants should contact Zandra Ruiz (zandra.ruiz@yale.edu), Corporate and Foundation Relations, before applying.",
+   "u": "https://yale.infoready4.com/#competitionDetail/2006533"
+  }
+ },
+ {
+  "a": "Up to $120,000/yr for a fixed 5-year term",
+  "added": "2026-10-21",
+  "asub": [
+   "exo"
+  ],
+  "aud": [
+   "yale",
+   "ap",
+   "ast"
+  ],
+  "c": "Foundation",
+  "checked": "2026-10-21",
+  "d": null,
+  "dt": "No deadline: letters of inquiry (up to 2 pages, with the lead PI's CV) are accepted on a rolling basis; full proposals are by invitation",
+  "e": "Sloan's Matter-to-Life program funds research on the physical principles that distinguish living systems from non-living matter (building life, principles of life, signs of life such as atmospheric signatures); biomedical and disease-related research is not supported. This award goes to a single theorist or a group of theorists, for promising but less established ideas.",
+  "f": "Alfred P. Sloan Foundation",
+  "fields": [
+   "bio",
+   "astro"
+  ],
+  "id": "sloan-matter-to-life-theory-investigator-award",
+  "n": "Sloan Matter-to-Life Theory Investigator Award",
+  "nom": false,
+  "s": "rolling",
+  "src": "other:sloan-m2l-theory",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://sloan.org/programs/research/matter-to-life",
+  "unv": "sloan.org blocked automated access (HTTP 403) on Oct 21, 2026. The award sizes and LOI format come from search results of Sloan's Matter-to-Life page and its LOI guidelines (last updated Mar 18, 2022), which give no LOI deadline; the rolling LOI status comes from Yale's InfoReady listing, not from Sloan's own page.",
+  "us": false,
+  "yale": {
+   "d": null,
+   "t": "Not a limited submission. Yale applicants should contact Zandra Ruiz (zandra.ruiz@yale.edu), Corporate and Foundation Relations, before applying.",
+   "u": "https://yale.infoready4.com/#competitionDetail/2006527"
+  }
  },
  {
   "a": "$75,000 over 2 yrs (no indirects)",
