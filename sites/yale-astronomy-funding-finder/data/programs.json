@@ -5288,6 +5288,36 @@
   "us": false
  },
  {
+  "added": "2026-10-22",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-22",
+  "d": "2026-12-31",
+  "dt": "Deadline 2026-12-31",
+  "e": "One or two 2-3-year postdocs in the IFAE theory group (Diego Blas) modelling detector response and network strategies for high-frequency gravitational-wave searches with EM cavities and quantum sensing, starting fall 2027. Requires PhD in physics or related field by contract start.",
+  "f": "IFAE (ERC Synergy Grant GravNet)",
+  "fields": [
+   "grav",
+   "ppt"
+  ],
+  "id": "ifae-gravnet-hfgw-theory-postdoc",
+  "n": "IFAE Barcelona: ERC GravNet Postdoc in High-Frequency Gravitational-Wave Theory",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33197",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33197",
+  "unv": "Salary not stated.",
+  "us": false
+ },
+ {
   "added": "2026-10-20",
   "asub": [
    "cos"
@@ -5527,6 +5557,35 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/29978",
+  "us": false
+ },
+ {
+  "a": "Two (2+1)-year positions; salary, health coverage, subsidized housing for first two years, travel funds",
+  "added": "2026-10-22",
+  "c": "Group postdoc",
+  "checked": "2026-10-22",
+  "d": "2026-11-29",
+  "dt": "Deadline 2026-11-29 23:59 (AJO)",
+  "e": "Two postdocs at IHES (Bures-sur-Yvette, France) starting fall 2027 in QFT/CFT, EFT, gravitation, condensed matter and topological field theory, bootstrap, amplitudes and gravitational-wave physics, interacting with Delcamp, Parra-Martinez and Rychkov. Open to PhD holders; no citizenship limits stated.",
+  "f": "Institut des Hautes Études Scientifiques (IHES)",
+  "fields": [
+   "ppt",
+   "cmt",
+   "grav"
+  ],
+  "id": "ihes-postdoc-theoretical-physics-2027",
+  "n": "IHES: Postdoctoral positions in Theoretical Physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33174",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33174",
+  "unv": "Salary amount not stated.",
   "us": false
  },
  {
@@ -6093,6 +6152,36 @@
   ],
   "u": "https://heasarc.gsfc.nasa.gov/docs/ixpe/proposals/",
   "unv": "Cycle 5 timing",
+  "us": false
+ },
+ {
+  "a": "$74,000-$82,000",
+  "added": "2026-10-22",
+  "asub": [
+   "xgal",
+   "ism"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-22",
+  "d": "2026-11-18",
+  "dt": "Deadline 2026-11-18 (AJO)",
+  "e": "Two-year postdoc using the ALMA KILOGAS survey plus MaNGA/SAMI IFS data to study star-formation histories and gas in nearby galaxies, with Rowlands (STScI) and French (UIUC); start June-October 2027. Requires PhD in astronomy/physics and IFS analysis experience.",
+  "f": "Johns Hopkins University, Physics and Astronomy (with STScI and UIUC)",
+  "fields": [
+   "astro"
+  ],
+  "id": "jhu-kilogas-star-formation-postdoc",
+  "n": "Johns Hopkins: Postdoc in star formation and gas evolution in nearby galaxies (KILOGAS)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33184",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33184",
   "us": false
  },
  {
@@ -7296,6 +7385,36 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32990",
+  "us": false
+ },
+ {
+  "added": "2026-10-22",
+  "asub": [
+   "he",
+   "xgal"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-22",
+  "d": "2026-12-23",
+  "dt": "Full consideration for applications by 2026-12-23",
+  "e": "Postdoc with Erin Kara on AGN variability and SMBH transients (TDEs, QPEs, changing-look AGN) using Rubin/LSST, ULTRASAT and X-ray follow-up; 2 years plus a third contingent on performance, start summer-fall 2027. Requires PhD and high-energy astrophysics background.",
+  "f": "MIT Kavli Institute for Astrophysics and Space Research",
+  "fields": [
+   "astro"
+  ],
+  "id": "mit-kavli-kara-time-domain-smbh-postdoc",
+  "n": "MIT Kavli Institute: Postdoc in time-domain supermassive black holes (Kara group)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33185",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33185",
+  "unv": "Salary not stated.",
   "us": false
  },
  {
@@ -10705,6 +10824,37 @@
   "us": false
  },
  {
+  "added": "2026-10-22",
+  "asub": [
+   "cos",
+   "galac"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-22",
+  "d": null,
+  "dt": "No review date stated; AJO listing runs to 2027-04-21",
+  "e": "Postdoctoral research associate (or more senior rank) in the Simons Dark Matter Dynamics group, working with Lisanti, Brooks (Rutgers) and Essig (Stony Brook) on simulations linking dark-matter particle models to galactic observables; start summer/fall 2027. Requires PhD in physics/astronomy; not eligible for H-1B sponsorship requiring consular processing.",
+  "f": "Princeton University, Department of Physics (Simons Foundation)",
+  "fields": [
+   "astro",
+   "ppt"
+  ],
+  "id": "princeton-simons-dark-matter-dynamics-postdoc",
+  "n": "Princeton: Postdoc, Targeted Simons Research Group on Dark Matter Dynamics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "ajo:33179",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33179",
+  "unv": "Application portal link and salary range not shown on AJO page; actual deadline not stated.",
+  "us": false
+ },
+ {
   "a": "$400 fee covers room and board; need-based scholarships; travel mostly not covered",
   "added": "2026-10-01",
   "asub": [
@@ -11906,6 +12056,36 @@
   "us": false
  },
  {
+  "added": "2026-10-22",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-22",
+  "d": "2026-12-10",
+  "dt": "Deadline 2026-12-10",
+  "e": "Joint 2+1-year postdoc split between the Tel Aviv and Delaware theory groups (BSM, dark matter, collider phenomenology, QCD, astroparticle, cosmology), starting 2027-10-01. Open to PhD holders; no citizenship limits stated.",
+  "f": "Tel Aviv University and University of Delaware",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "tel-aviv-delaware-joint-particle-astro-postdoc",
+  "n": "Tel Aviv U. & U. Delaware: Joint Postdoc in Particle Theory and Astro/Cosmo-Particle Physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33183",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33183",
+  "unv": "Salary not stated.",
+  "us": false
+ },
+ {
   "a": "Up to $2.5M per project in Mathematical & Physical Sciences",
   "added": "2026-09-28",
   "c": "Foundation",
@@ -12666,6 +12846,37 @@
   ],
   "u": "https://aas.org/jobregister/ad/1ce29275",
   "unv": "The AAS Job Register blocked automated access (HTTP 403) again on Oct 21, 2026, so the deadline and details were not reconfirmed.",
+  "us": false
+ },
+ {
+  "added": "2026-10-22",
+  "asub": [
+   "cos",
+   "galac"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-22",
+  "d": "2026-12-01",
+  "dt": "Full consideration by 2026-12-01 11:59 pm ET",
+  "e": "Two-year (renewable one year) postdoc in the Simons Dark Matter Dynamics group at UCR, with Yu, Sales and Kaplinghat (UCI), on simulations connecting self-interacting/new-force dark matter to galaxies and small-scale structure; start summer/fall 2027. Requires PhD in physics/astronomy and simulation experience.",
+  "f": "UC Riverside, Department of Physics and Astronomy (Simons Foundation)",
+  "fields": [
+   "astro",
+   "ppt"
+  ],
+  "id": "ucr-simons-dark-matter-dynamics-postdoc",
+  "n": "UC Riverside: Simons Targeted Working Group Postdoctoral Fellowship (Dark Matter Dynamics)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33190",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33190",
+  "unv": "Salary not stated.",
   "us": false
  },
  {
@@ -13599,31 +13810,6 @@
   ],
   "u": "https://xrism.isas.jaxa.jp/research/proposer/key_program/index.html",
   "unv": "On Oct 21, 2026 the JAXA page rejected automated access; the Dec 3, 2026 deadline (23:59 UT) and ARK/RPS submission were confirmed on NASA's science.nasa.gov XRISM Key Program call page. NASA funding amounts are not yet announced. The call does not state career-stage limits for PIs.",
-  "us": false
- },
- {
-  "a": "$20,000",
-  "added": "2026-09-30",
-  "c": "Yale internal",
-  "checked": "2026-10-21",
-  "d": "2026-10-21",
-  "dt": "Internal deadline Oct 21, 2026.",
-  "e": "Yale faculty and staff eligible to serve as PIs, for international collaborations on issues of global significance (e.g. workshops or partner visits with institutions abroad). Contact: nathan.camp@yale.edu.",
-  "f": "Yale Office of the Vice President for Global Strategy",
-  "fields": [
-   "all"
-  ],
-  "id": "yale-and-the-world-partnership-fund-fall-2026",
-  "n": "Yale and the World Partnership Fund (fall 2026 call)",
-  "nom": false,
-  "s": "open",
-  "src": "other:yale-world-fall-2026",
-  "stages": [
-   "tt",
-   "ten"
-  ],
-  "u": "https://world.yale.edu/academics-research/major-partnerships",
-  "unv": "The Partnership Fund page does not state the amount; $20,000 is from the Yale research office's funding newsletter of Oct 7, 2026.",
   "us": false
  },
  {

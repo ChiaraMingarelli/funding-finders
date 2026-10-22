@@ -5163,6 +5163,28 @@
   ]
  },
  {
+  "id": "fj-ut-austin-ap-experimental-particle-physics",
+  "n": "UT Austin: Assistant Professor in Experimental Particle Physics (non-collider / rare phenomena)",
+  "f": "University of Texas at Austin, Department of Physics",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-12-02",
+  "dt": "Full consideration: materials by 11:59 pm CST Dec 2, 2026 (via Interfolio 194655)",
+  "a": "Tenure-track Assistant Professor",
+  "e": "Tenure-track assistant professor position for experimentalists working on non-collider searches and rare phenomena, including neutrino oscillations, neutrinoless double beta decay and direct dark matter detection. Applicants need a PhD in physics or equivalent; no citizenship restriction stated.",
+  "u": "https://faculty.utexas.edu/career/193145",
+  "unv": "Host page (faculty.utexas.edu) is JavaScript-rendered and Interfolio page did not render; deadline and details taken from INSPIRE metadata/description.",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-22",
+  "added": "2026-10-22",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
   "id": "fj-ut-austin-asst-prof-exp-particle-physics",
   "n": "UT Austin Physics: Assistant Professor, Experimental Particle Physics (non-collider)",
   "f": "University of Texas at Austin, Department of Physics",
@@ -5425,8 +5447,7 @@
   "f": "Dept. of Physics & Engineering, Washington and Lee University",
   "c": "Faculty job",
   "s": "rolling",
-  "d": "2026-10-21",
-  "dt": "Review begins Oct 21, 2026",
+  "dt": "Review began Oct 21, 2026; open until filled",
   "a": "Assistant Professor, tenure-track; expected salary $94,000-$105,000/yr",
   "e": "Research area open. Start July 2027.",
   "u": "https://apply.interfolio.com/192170",
@@ -5438,7 +5459,8 @@
   "added": "2026-10-01",
   "stages": [
    "fj"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "fj-washu-ai-cluster-hire-physics-among-depts",
@@ -5592,6 +5614,50 @@
   "stages": [
    "pd"
   ]
+ },
+ {
+  "id": "freiburg-postdoc-particle-theory-2027",
+  "n": "University of Freiburg: Postdoc in Theoretical Particle Physics",
+  "f": "University of Freiburg, Institute of Physics",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Apply preferably by 2026-12-10; later applications considered until filled",
+  "e": "Two-year (possible third) postdoc in the Dittmaier particle theory group (electroweak/Higgs physics, radiative corrections, BSM), start October 2027 or earlier. Requires PhD in theoretical particle physics by appointment.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33196",
+  "unv": "Salary not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-22",
+  "added": "2026-10-22",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
+  "id": "freiburg-scientific-assistant-particle-theory",
+  "n": "University of Freiburg: Scientific Assistant (Akademische/r Rat/Rätin auf Zeit) in Particle Theory",
+  "f": "University of Freiburg, Institute of Physics",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Apply preferably by 2026-12-10; later applications considered until filled",
+  "a": "German civil-service grade A13Z, 3+3 years",
+  "e": "Research position in the Dittmaier particle theory group (electroweak/Higgs physics, radiative corrections, BSM), with possibility of habilitation; start October 2027 or earlier. Requires PhD and prior postdoc experience.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33195",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-22",
+  "added": "2026-10-22",
+  "stages": [
+   "pd"
+  ],
+  "d": null
  },
  {
   "id": "frq-doctoral-research-scholarship-b2",
@@ -6473,6 +6539,28 @@
   ]
  },
  {
+  "id": "ifae-gravnet-hfgw-theory-postdoc",
+  "n": "IFAE Barcelona: ERC GravNet Postdoc in High-Frequency Gravitational-Wave Theory",
+  "f": "IFAE (ERC Synergy Grant GravNet)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-31",
+  "dt": "Deadline 2026-12-31",
+  "e": "One or two 2-3-year postdocs in the IFAE theory group (Diego Blas) modelling detector response and network strategies for high-frequency gravitational-wave searches with EM cavities and quantum sensing, starting fall 2027. Requires PhD in physics or related field by contract start.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33197",
+  "unv": "Salary not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "High",
+  "checked": "2026-10-22",
+  "added": "2026-10-22",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "igfae-accellens-cosmology-postdocs",
   "n": "IGFAE (Santiago de Compostela): Postdocs in Cosmology (ERC ACCELLENS)",
   "f": "IGFAE, Universidade de Santiago de Compostela (Antón Baleato Lizancos)",
@@ -6648,6 +6736,29 @@
    "pd"
   ],
   "d": null
+ },
+ {
+  "id": "ihes-postdoc-theoretical-physics-2027",
+  "n": "IHES: Postdoctoral positions in Theoretical Physics",
+  "f": "Institut des Hautes Études Scientifiques (IHES)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-29",
+  "dt": "Deadline 2026-11-29 23:59 (AJO)",
+  "a": "Two (2+1)-year positions; salary, health coverage, subsidized housing for first two years, travel funds",
+  "e": "Two postdocs at IHES (Bures-sur-Yvette, France) starting fall 2027 in QFT/CFT, EFT, gravitation, condensed matter and topological field theory, bootstrap, amplitudes and gravitational-wave physics, interacting with Delcamp, Parra-Martinez and Rychkov. Open to PhD holders; no citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33174",
+  "unv": "Salary amount not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-22",
+  "added": "2026-10-22",
+  "stages": [
+   "pd"
+  ]
  },
  {
   "id": "iisc-chep-postdoctoral-fellowship",
@@ -7301,6 +7412,28 @@
   "d": null
  },
  {
+  "id": "jhu-kilogas-star-formation-postdoc",
+  "n": "Johns Hopkins: Postdoc in star formation and gas evolution in nearby galaxies (KILOGAS)",
+  "f": "Johns Hopkins University, Physics and Astronomy (with STScI and UIUC)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-18",
+  "dt": "Deadline 2026-11-18 (AJO)",
+  "a": "$74,000-$82,000",
+  "e": "Two-year postdoc using the ALMA KILOGAS survey plus MaNGA/SAMI IFS data to study star-formation histories and gas in nearby galaxies, with Rowlands (STScI) and French (UIUC); start June-October 2027. Requires PhD in astronomy/physics and IFS analysis experience.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33184",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-10-22",
+  "added": "2026-10-22",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "jhu-miller-postdoc-prize-2027",
   "n": "Johns Hopkins: Miller (Endowed) Postdoctoral Prize Fellowships in Physics & Astronomy",
   "f": "Johns Hopkins University, William H. Miller III Department of Physics and Astronomy",
@@ -7678,6 +7811,52 @@
   ]
  },
  {
+  "id": "lbnl-als-soft-xray-reflectometry-postdoc-7581",
+  "n": "Berkeley Lab ALS: Spatially Resolved Soft X-ray Reflectometry Postdoctoral Fellow",
+  "f": "Lawrence Berkeley National Laboratory (Advanced Light Source)",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Priority consideration was Sep 11, 2026; applications accepted until the posting is removed",
+  "a": "$99,192–$110,808/year",
+  "e": "A 2-year postdoc developing spatially resolved resonant soft x-ray and magnetic reflectometry at ALS beamlines 4.0.2 and 7.0.1.1, including focusing optics and ML-assisted analysis of thin-film magnetic and ferroelectric materials. Requires a PhD in physics, chemistry, materials science or similar and fewer than 3 years of paid postdoc experience. Applicants must be eligible to work in the US at hire; no visa sponsorship.",
+  "u": "https://jobs.lbl.gov/jobs/spatially-resolved-soft-x-ray-reflectometry-postdoctoral-fellow-7581",
+  "unv": "Original posting date not shown",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-22",
+  "added": "2026-10-22",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
+  "id": "lbnl-distributed-qc-neutral-atom-theory-postdoc-7190",
+  "n": "Berkeley Lab: Theoretical Physicist Postdoc for Distributed Quantum Computing (neutral atoms, ESnet/QuEra)",
+  "f": "Lawrence Berkeley National Laboratory (ESnet) with QuEra Computing",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "No deadline listed",
+  "a": "$8,321–$10,418/month (union step scale)",
+  "e": "A 2-year, DOE-funded theory postdoc on optical interconnects for distributed neutral-atom quantum computing: Rydberg interactions, atomic-ensemble qubits as quantum memories and photon sources, and fault-tolerant multi-zone architectures. Requires a PhD in quantum optics, quantum networking or quantum computing and fewer than 3 years of paid postdoc experience. Work must be done in the US.",
+  "u": "https://jobs.lbl.gov/jobs/theoretical-physicist-postdoc-for-distributed-quantum-computing-7190",
+  "unv": "Original posting date not shown (job board re-listed it Oct 21, 2026)",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-22",
+  "added": "2026-10-22",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
   "id": "lbnl-foundry-xray-quantum-materials-theory-postdoc",
   "n": "Berkeley Lab Molecular Foundry: Postdoctoral Researcher, Applied Mathematics and Computational Physics (X-ray interactions with quantum materials)",
   "f": "Lawrence Berkeley National Laboratory",
@@ -7763,6 +7942,29 @@
   "nfit": "Low",
   "checked": "2026-10-21",
   "added": "2026-10-10",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
+  "id": "lbnl-quantum-experimentalist-postdoc-7309",
+  "n": "Berkeley Lab: Quantum Experimentalist Postdoctoral Fellow (superconducting processors, AQT/QSA)",
+  "f": "Lawrence Berkeley National Laboratory (AMCR Division, QIST Group)",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Applications accepted until the posting is removed",
+  "a": "$6,924–$8,026/month (union step scale)",
+  "e": "A 3-year postdoc in the Quantum Information Science & Technology Group, supporting the Advanced Quantum Testbed and Quantum Systems Accelerator. The fellow will design, calibrate and operate mid-scale superconducting quantum processors. Requires a PhD in physics, applied physics, EE or a related field and fewer than 2 years of paid postdoc experience.",
+  "u": "https://jobs.lbl.gov/jobs/quantum-experimentalist-postdoctoral-fellow-7309",
+  "unv": "Original posting date not shown (job board re-listed it Oct 21, 2026); citizenship rules not stated",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-22",
+  "added": "2026-10-22",
   "stages": [
    "pd"
   ],
@@ -8325,6 +8527,28 @@
   "nfit": "High",
   "checked": "2026-10-21",
   "added": "2026-10-07",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "mit-kavli-kara-time-domain-smbh-postdoc",
+  "n": "MIT Kavli Institute: Postdoc in time-domain supermassive black holes (Kara group)",
+  "f": "MIT Kavli Institute for Astrophysics and Space Research",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-23",
+  "dt": "Full consideration for applications by 2026-12-23",
+  "e": "Postdoc with Erin Kara on AGN variability and SMBH transients (TDEs, QPEs, changing-look AGN) using Rubin/LSST, ULTRASAT and X-ray follow-up; 2 years plus a third contingent on performance, start summer-fall 2027. Requires PhD and high-energy astrophysics background.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33185",
+  "unv": "Salary not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "High",
+  "checked": "2026-10-22",
+  "added": "2026-10-22",
   "stages": [
    "pd"
   ]
@@ -10199,6 +10423,28 @@
   "d": null
  },
  {
+  "id": "ornl-quantum-algorithms-condensed-matter-postdoc-17309",
+  "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Quantum Algorithms (condensed matter simulation)",
+  "f": "Oak Ridge National Laboratory (Quantum Computational Science Group)",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Open at least 5 days; closes once a candidate is identified",
+  "e": "A postdoc developing quantum algorithms to simulate condensed-matter systems on quantum computers, such as partially fault-tolerant methods, topological materials and thermodynamic properties. Requires a PhD in physics, chemistry, CS or a related field earned within 5 years. Appointment up to 24 months. Foreign nationals need a PIV or LSSO access determination; no citizenship requirement is stated.",
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Quantum-Algorithms-TN-37830/1441978400/",
+  "unv": "Salary not stated; posting date given as Oct 20–21, 2026 via the CQE job board",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-22",
+  "added": "2026-10-22",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
   "id": "ospool-open-science-pool",
   "n": "OSPool (Open Science Pool) high-throughput computing",
   "f": "OSG Consortium / PATh (NSF)",
@@ -10288,6 +10534,28 @@
   "stages": [
    "pd"
   ]
+ },
+ {
+  "id": "osu-farinacci-qise-postdoctoral-fellowship",
+  "n": "Ohio State: Farinacci Family Postdoctoral Fellowship in Quantum Information Science and Engineering",
+  "f": "The Ohio State University, Department of Physics / Center for Quantum Information Science and Engineering (CQISE)",
+  "c": "Fellowship",
+  "s": "rolling",
+  "dt": "No deadline stated on the posting",
+  "e": "A named postdoctoral fellowship hosted by OSU's CQISE, mentored by CQISE-affiliated faculty, in quantum computing, algorithms, simulation, networks or sensing (theory or experiment). Requires a PhD in physics, EE, CS, chemistry or a related field and QIS research experience.",
+  "u": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar_R151630-2",
+  "unv": "Deadline, salary, term and start date not stated; Workday shows the posting started Sep 11, 2026",
+  "us": false,
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-22",
+  "added": "2026-10-22",
+  "stages": [
+   "pd"
+  ],
+  "d": null
  },
  {
   "id": "oxford-beecroft-fellow-in-cosmology",
@@ -10604,6 +10872,28 @@
   ]
  },
  {
+  "id": "princeton-simons-dark-matter-dynamics-postdoc",
+  "n": "Princeton: Postdoc, Targeted Simons Research Group on Dark Matter Dynamics",
+  "f": "Princeton University, Department of Physics (Simons Foundation)",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "No review date stated; AJO listing runs to 2027-04-21",
+  "e": "Postdoctoral research associate (or more senior rank) in the Simons Dark Matter Dynamics group, working with Lisanti, Brooks (Rutgers) and Essig (Stony Brook) on simulations linking dark-matter particle models to galactic observables; start summer/fall 2027. Requires PhD in physics/astronomy; not eligible for H-1B sponsorship requiring consular processing.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33179",
+  "unv": "Application portal link and salary range not shown on AJO page; actual deadline not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-10-22",
+  "added": "2026-10-22",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
   "id": "psu-redwing-mocvd-2d-tmd-postdocs",
   "n": "Penn State MSE (Redwing group, 2D Crystal Consortium): Postdoctoral Scholars, MOCVD of 2D TMDs",
   "f": "Penn State University, Department of Materials Science and Engineering",
@@ -10689,6 +10979,29 @@
   "nfit": "Medium",
   "checked": "2026-10-21",
   "added": "2026-10-16",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "riken-fqsp-distinguished-fellowships-2027",
+  "n": "RIKEN Fundamental Quantum Science Program: FQSP Distinguished Fellowships (Research Scientist)",
+  "f": "RIKEN (TRIP Headquarters, Fundamental Quantum Science Program)",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2026-12-14",
+  "dt": "A reference must pre-register the candidate by Nov 13, 2026; applications are due Dec 14, 2026 (10:00 JST)",
+  "a": "Monthly salary plus discretionary work allowance of at least JPY 1,000,000 at hire; contract runs to the end of the 3rd fiscal year, renewable up to 4 years in total",
+  "e": "Independent theory research fellowships at RIKEN Wako in fundamental physics and chemistry, mathematics, quantum information and non-equilibrium science. Open to candidates no more than 4 years past the PhD as of Nov 13, 2026. A supervisor or other reference has to register the candidate first (one candidate per reference). No citizenship limit is stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33172",
+  "unv": "Exact start date not checked; the ad's contract example uses a May 1, 2027 hire",
+  "us": false,
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-22",
+  "added": "2026-10-22",
   "stages": [
    "pd"
   ]
@@ -11450,6 +11763,28 @@
   "nfit": "High",
   "checked": "2026-10-21",
   "added": "2026-09-30",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "tel-aviv-delaware-joint-particle-astro-postdoc",
+  "n": "Tel Aviv U. & U. Delaware: Joint Postdoc in Particle Theory and Astro/Cosmo-Particle Physics",
+  "f": "Tel Aviv University and University of Delaware",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-10",
+  "dt": "Deadline 2026-12-10",
+  "e": "Joint 2+1-year postdoc split between the Tel Aviv and Delaware theory groups (BSM, dark matter, collider phenomenology, QCD, astroparticle, cosmology), starting 2027-10-01. Open to PhD holders; no citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33183",
+  "unv": "Salary not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-22",
+  "added": "2026-10-22",
   "stages": [
    "pd"
   ]
@@ -12258,6 +12593,28 @@
   "nfit": "High",
   "checked": "2026-10-01",
   "added": "2026-10-01",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "ucr-simons-dark-matter-dynamics-postdoc",
+  "n": "UC Riverside: Simons Targeted Working Group Postdoctoral Fellowship (Dark Matter Dynamics)",
+  "f": "UC Riverside, Department of Physics and Astronomy (Simons Foundation)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-01",
+  "dt": "Full consideration by 2026-12-01 11:59 pm ET",
+  "e": "Two-year (renewable one year) postdoc in the Simons Dark Matter Dynamics group at UCR, with Yu, Sales and Kaplinghat (UCI), on simulations connecting self-interacting/new-force dark matter to galaxies and small-scale structure; start summer/fall 2027. Requires PhD in physics/astronomy and simulation experience.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33190",
+  "unv": "Salary not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-10-22",
+  "added": "2026-10-22",
   "stages": [
    "pd"
   ]

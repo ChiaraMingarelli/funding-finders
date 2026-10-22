@@ -802,11 +802,11 @@
  },
  {
   "a": "Beamtime at no cost for non-proprietary research",
-  "added": "2026-10-03",
+  "added": "2026-10-22",
   "c": "Instrumentation",
-  "checked": "2026-10-12",
-  "d": "2026-10-21",
-  "dt": "2027-1 call due Oct 21, 2026 (call opened Sept 14, 2026)",
+  "checked": "2026-10-22",
+  "d": "2027-03-03",
+  "dt": "2027-2 call opens about Feb 1, 2027; due Mar 3, 2027",
   "e": "Peer-reviewed synchrotron beamtime for x-ray scattering, spectroscopy and imaging, for example resonant scattering and diffraction on oxide films and quantum materials. Open to researchers from any institution.",
   "f": "Argonne National Laboratory / DOE BES",
   "fields": [
@@ -814,8 +814,8 @@
    "mat",
    "inst"
   ],
-  "id": "aps-general-user-2027-1",
-  "n": "Advanced Photon Source (APS) General User Proposals – run 2027-1",
+  "id": "aps-general-user-2027-2",
+  "n": "Advanced Photon Source (APS) General User Proposals – run 2027-2",
   "nom": false,
   "pt": "other",
   "s": "open",
@@ -827,7 +827,7 @@
    "gr"
   ],
   "u": "https://www.aps.anl.gov/Users-Information/About-Proposals/Proposal-Deadlines-and-Meetings",
-  "unv": "aps.anl.gov blocked automated access (HTTP 403) on Oct 21, 2026, so the Oct 21 deadline was not reconfirmed; it is from the Oct 12 check.",
+  "unv": "The schedule marks the call opening date as approximate (~Feb 1, 2027).",
   "us": false
  },
  {
@@ -6256,6 +6256,35 @@
   "us": false
  },
  {
+  "a": "$99,192–$110,808/year",
+  "added": "2026-10-22",
+  "c": "Group postdoc",
+  "checked": "2026-10-22",
+  "d": null,
+  "dt": "Priority consideration was Sep 11, 2026; applications accepted until the posting is removed",
+  "e": "A 2-year postdoc developing spatially resolved resonant soft x-ray and magnetic reflectometry at ALS beamlines 4.0.2 and 7.0.1.1, including focusing optics and ML-assisted analysis of thin-film magnetic and ferroelectric materials. Requires a PhD in physics, chemistry, materials science or similar and fewer than 3 years of paid postdoc experience. Applicants must be eligible to work in the US at hire; no visa sponsorship.",
+  "f": "Lawrence Berkeley National Laboratory (Advanced Light Source)",
+  "fields": [
+   "mat",
+   "cmx",
+   "inst"
+  ],
+  "id": "lbnl-als-soft-xray-reflectometry-postdoc-7581",
+  "n": "Berkeley Lab ALS: Spatially Resolved Soft X-ray Reflectometry Postdoctoral Fellow",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:lbnl-7581",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.lbl.gov/jobs/spatially-resolved-soft-x-ray-reflectometry-postdoctoral-fellow-7581",
+  "unv": "Original posting date not shown",
+  "us": false
+ },
+ {
   "a": "$146,318–$150,718/yr; target start Oct 1, 2027",
   "added": "2026-10-03",
   "c": "Fellowship",
@@ -6279,6 +6308,34 @@
    "pd"
   ],
   "u": "https://jobs.lbl.gov/jobs/2027-luis-w-alvarez-and-grace-m-hopper-postdoctoral-fellowships-7596",
+  "us": false
+ },
+ {
+  "a": "$8,321–$10,418/month (union step scale)",
+  "added": "2026-10-22",
+  "c": "Group postdoc",
+  "checked": "2026-10-22",
+  "d": null,
+  "dt": "No deadline listed",
+  "e": "A 2-year, DOE-funded theory postdoc on optical interconnects for distributed neutral-atom quantum computing: Rydberg interactions, atomic-ensemble qubits as quantum memories and photon sources, and fault-tolerant multi-zone architectures. Requires a PhD in quantum optics, quantum networking or quantum computing and fewer than 3 years of paid postdoc experience. Work must be done in the US.",
+  "f": "Lawrence Berkeley National Laboratory (ESnet) with QuEra Computing",
+  "fields": [
+   "qp",
+   "amo"
+  ],
+  "id": "lbnl-distributed-qc-neutral-atom-theory-postdoc-7190",
+  "n": "Berkeley Lab: Theoretical Physicist Postdoc for Distributed Quantum Computing (neutral atoms, ESnet/QuEra)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:lbnl-7190",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.lbl.gov/jobs/theoretical-physicist-postdoc-for-distributed-quantum-computing-7190",
+  "unv": "Original posting date not shown (job board re-listed it Oct 21, 2026)",
   "us": false
  },
  {
@@ -6398,6 +6455,34 @@
   ],
   "u": "https://jobs.lbl.gov/jobs/quantum-algorithms-postdoctoral-fellow-7584",
   "unv": "Quantiki lists Oct 23, 2026 as a deadline; the host ad does not state one.",
+  "us": false
+ },
+ {
+  "a": "$6,924–$8,026/month (union step scale)",
+  "added": "2026-10-22",
+  "c": "Group postdoc",
+  "checked": "2026-10-22",
+  "d": null,
+  "dt": "Applications accepted until the posting is removed",
+  "e": "A 3-year postdoc in the Quantum Information Science & Technology Group, supporting the Advanced Quantum Testbed and Quantum Systems Accelerator. The fellow will design, calibrate and operate mid-scale superconducting quantum processors. Requires a PhD in physics, applied physics, EE or a related field and fewer than 2 years of paid postdoc experience.",
+  "f": "Lawrence Berkeley National Laboratory (AMCR Division, QIST Group)",
+  "fields": [
+   "qp",
+   "dev"
+  ],
+  "id": "lbnl-quantum-experimentalist-postdoc-7309",
+  "n": "Berkeley Lab: Quantum Experimentalist Postdoctoral Fellow (superconducting processors, AQT/QSA)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:lbnl-7309",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.lbl.gov/jobs/quantum-experimentalist-postdoctoral-fellow-7309",
+  "unv": "Original posting date not shown (job board re-listed it Oct 21, 2026); citizenship rules not stated",
   "us": false
  },
  {
@@ -11286,6 +11371,33 @@
   "us": false
  },
  {
+  "added": "2026-10-22",
+  "c": "Group postdoc",
+  "checked": "2026-10-22",
+  "d": null,
+  "dt": "Open at least 5 days; closes once a candidate is identified",
+  "e": "A postdoc developing quantum algorithms to simulate condensed-matter systems on quantum computers, such as partially fault-tolerant methods, topological materials and thermodynamic properties. Requires a PhD in physics, chemistry, CS or a related field earned within 5 years. Appointment up to 24 months. Foreign nationals need a PIV or LSSO access determination; no citizenship requirement is stated.",
+  "f": "Oak Ridge National Laboratory (Quantum Computational Science Group)",
+  "fields": [
+   "qp",
+   "cmt"
+  ],
+  "id": "ornl-quantum-algorithms-condensed-matter-postdoc-17309",
+  "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Quantum Algorithms (condensed matter simulation)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-17309",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Quantum-Algorithms-TN-37830/1441978400/",
+  "unv": "Salary not stated; posting date given as Oct 20–21, 2026 via the CQE job board",
+  "us": false
+ },
+ {
   "a": "$750-$950/week by academic level plus $250/week housing allowance",
   "added": "2026-10-03",
   "c": "Training",
@@ -11368,6 +11480,32 @@
   ],
   "u": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar---Quantum-Networking_R160444-1",
   "unv": "Close date taken from Workday posting metadata, not from the ad text; no citizenship statement seen.",
+  "us": false
+ },
+ {
+  "added": "2026-10-22",
+  "c": "Fellowship",
+  "checked": "2026-10-22",
+  "d": null,
+  "dt": "No deadline stated on the posting",
+  "e": "A named postdoctoral fellowship hosted by OSU's CQISE, mentored by CQISE-affiliated faculty, in quantum computing, algorithms, simulation, networks or sensing (theory or experiment). Requires a PhD in physics, EE, CS, chemistry or a related field and QIS research experience.",
+  "f": "The Ohio State University, Department of Physics / Center for Quantum Information Science and Engineering (CQISE)",
+  "fields": [
+   "qp"
+  ],
+  "id": "osu-farinacci-qise-postdoctoral-fellowship",
+  "n": "Ohio State: Farinacci Family Postdoctoral Fellowship in Quantum Information Science and Engineering",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:osu-R151630",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar_R151630-2",
+  "unv": "Deadline, salary, term and start date not stated; Workday shows the posting started Sep 11, 2026",
   "us": false
  },
  {
@@ -12070,6 +12208,34 @@
   ],
   "u": "https://rami.rice.edu/rami-postdoctoral-fellowship-program",
   "unv": "Opening date not shown; nomination only, no direct applications.",
+  "us": false
+ },
+ {
+  "a": "Monthly salary plus discretionary work allowance of at least JPY 1,000,000 at hire; contract runs to the end of the 3rd fiscal year, renewable up to 4 years in total",
+  "added": "2026-10-22",
+  "c": "Fellowship",
+  "checked": "2026-10-22",
+  "d": "2026-12-14",
+  "dt": "A reference must pre-register the candidate by Nov 13, 2026; applications are due Dec 14, 2026 (10:00 JST)",
+  "e": "Independent theory research fellowships at RIKEN Wako in fundamental physics and chemistry, mathematics, quantum information and non-equilibrium science. Open to candidates no more than 4 years past the PhD as of Nov 13, 2026. A supervisor or other reference has to register the candidate first (one candidate per reference). No citizenship limit is stated.",
+  "f": "RIKEN (TRIP Headquarters, Fundamental Quantum Science Program)",
+  "fields": [
+   "qp",
+   "cmt"
+  ],
+  "id": "riken-fqsp-distinguished-fellowships-2027",
+  "n": "RIKEN Fundamental Quantum Science Program: FQSP Distinguished Fellowships (Research Scientist)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33172",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33172",
+  "unv": "Exact start date not checked; the ad's contract example uses a May 1, 2027 hire",
   "us": false
  },
  {
@@ -15057,31 +15223,6 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32521",
-  "us": false
- },
- {
-  "a": "$20,000",
-  "added": "2026-09-30",
-  "c": "Yale internal",
-  "checked": "2026-10-21",
-  "d": "2026-10-21",
-  "dt": "Internal deadline Oct 21, 2026.",
-  "e": "Yale faculty and staff eligible to serve as PIs, for international collaborations on issues of global significance (e.g. workshops or partner visits with institutions abroad). Contact: nathan.camp@yale.edu.",
-  "f": "Yale Office of the Vice President for Global Strategy",
-  "fields": [
-   "all"
-  ],
-  "id": "yale-and-the-world-partnership-fund-fall-2026",
-  "n": "Yale and the World Partnership Fund (fall 2026 call)",
-  "nom": false,
-  "s": "open",
-  "src": "other:yale-world-fall-2026",
-  "stages": [
-   "tt",
-   "ten"
-  ],
-  "u": "https://world.yale.edu/academics-research/major-partnerships",
-  "unv": "The Partnership Fund page does not state the amount; $20,000 is from the Yale research office's funding newsletter of Oct 7, 2026.",
   "us": false
  },
  {
