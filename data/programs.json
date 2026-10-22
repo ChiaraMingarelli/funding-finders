@@ -8155,19 +8155,20 @@
   "us": false
  },
  {
-  "a": "Mostly funding for Fermi data analysis; some pointed and joint observations",
+  "a": "About 35 one-year Regular awards averaging $75K; 1-2 Large awards of up to 3 years averaging $125K a year",
   "added": "2026-10-03",
   "asub": [
    "he"
   ],
   "aud": [
+   "yale",
    "ast"
   ],
-  "c": "Observing time",
-  "checked": "2026-10-21",
+  "c": "Federal grant",
+  "checked": "2026-10-22",
   "d": "2027-01-28",
-  "dt": "Cycle 20 Phase-1 proposals due Jan 28, 2027 (ROSES D.3, via ARK/RPS); peer review Apr/May 2027; Phase-2 budgets only from selected proposers",
-  "e": "NASA's yearly Fermi program, mostly for analysis of gamma-ray data. Open to all; NASA funding goes only to US investigators.",
+  "dt": "Phase-1 proposals due Jan 28, 2027, 4:30 pm ET via ARK/RPS (ROSES-25 Amendment 80); only selected proposers submit Phase-2 budgets",
+  "e": "NASA's yearly Fermi guest investigator program, mostly funding for analysis of Fermi LAT and GBM data, correlative multiwavelength analysis and theory that advances Fermi science; a small part covers LAT pointed observations. Only PIs at US institutions can be funded.",
   "f": "NASA Fermi",
   "fields": [
    "astro"
@@ -8184,8 +8185,8 @@
    "ten",
    "pd"
   ],
-  "u": "https://fermi.gsfc.nasa.gov/ssc/proposals/",
-  "unv": "The FSSC page also still carries older text saying Cycle-20 Phase I is complete; the Jan 28, 2027 date is from its Cycle 20 schedule table and was not checked on NSPIRES.",
+  "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-80-d-3-agigo-swift-fermi-and-tess-observatories-second-opportunities-in-roses-25/",
+  "unv": "The Fermi Science Support Center site could not be reached; the date is confirmed on the NASA ROSES pages. The call does not say whether students or postdocs may be PI.",
   "us": false
  },
  {
@@ -14656,6 +14657,38 @@
   "us": false
  },
  {
+  "a": "NASA funding through STScI, no new observing time; no cap on Regular AR or Theory requests (Cycle 34 terms)",
+  "added": "2026-10-22",
+  "aud": [
+   "yale",
+   "ast"
+  ],
+  "c": "Federal grant",
+  "checked": "2026-10-22",
+  "d": null,
+  "dt": "Cycle 35 call not posted yet; STScI expects to release it Dec 16, 2026, with proposals due Apr 1, 2027 (the same deadline as observing proposals)",
+  "e": "Funding for Hubble archival research and for theory directly relevant to Hubble observing programs, without new observing time, through Hubble's annual call. Anyone may propose, including students and postdocs; only US investigators (US citizens, permanent residents or visa holders employed by a US institution) can be funded.",
+  "f": "Space Telescope Science Institute (NASA)",
+  "fields": [
+   "astro"
+  ],
+  "id": "hst-cycle-35-archival-research-and-theory",
+  "n": "HST Cycle 35 Archival Research and Theory proposals",
+  "nom": false,
+  "pt": "other",
+  "s": "watch",
+  "src": "other:hst-cycle35-ar-theory",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://hst-docs.stsci.edu/hsp",
+  "unv": "The Cycle 35 dates come from an STScI newsletter (Sep 21, 2026), not a posted call; the categories and funding rules follow Cycle 34 and could change.",
+  "us": false
+ },
+ {
   "a": "Hubble orbits; NASA grant funding for US-based investigators",
   "added": "2026-10-03",
   "asub": [],
@@ -17758,6 +17791,38 @@
   ],
   "u": "https://sura.org/awards/sabbatical-support-program/",
   "unv": "Deadline and current cycle not confirmed; the SURA page returned 404 on Oct 7, Oct 12 and Oct 21, 2026, as did SURA's JSA support page on Oct 21.",
+  "us": false
+ },
+ {
+  "a": "NASA funding through STScI, no new observing time; amounts set by formula, grants generally 3 years (Cycle 6 terms)",
+  "added": "2026-10-22",
+  "aud": [
+   "yale",
+   "ast"
+  ],
+  "c": "Federal grant",
+  "checked": "2026-10-22",
+  "d": null,
+  "dt": "Cycle 7 call not posted yet; Cycle 6 (including Archival Research and Theory) closed Oct 1, 2026",
+  "e": "Funding for JWST archival research, including theory proposals, without new observing time, through Webb's annual call. Anyone may propose, including students and postdocs (US students and postdocs may need an administrative PI); only US investigators (US citizens, permanent residents or visa holders employed by a US institution) can be funded.",
+  "f": "Space Telescope Science Institute (NASA)",
+  "fields": [
+   "astro"
+  ],
+  "id": "jwst-cycle-7-archival-research-and-theory",
+  "n": "JWST Cycle 7 Archival Research and Theory proposals",
+  "nom": false,
+  "pt": "other",
+  "s": "watch",
+  "src": "other:jwst-cycle7-ar-theory",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-call-for-proposals-for-cycle-6/jwst-proposal-types-and-categories/jwst-archival-research-ar-proposals",
+  "unv": "No Cycle 7 dates are posted; the categories and funding rules follow Cycle 6 and could change.",
   "us": false
  },
  {
@@ -32420,19 +32485,20 @@
   "us": false
  },
  {
-  "a": "Swift time plus NASA funding for US investigators",
+  "a": "NASA funding only, no new Swift observing time: up to $1.0M in total for about 20 one-year awards",
   "added": "2026-10-03",
   "asub": [
    "he"
   ],
   "aud": [
+   "yale",
    "ast"
   ],
   "c": "Federal grant",
-  "checked": "2026-10-21",
+  "checked": "2026-10-22",
   "d": "2027-01-28",
   "dt": "Phase-1 proposals due Jan 28, 2027 via ARK/RPS (ROSES-25 Amendment 80, posted Oct 20, 2026); Cycle 23 starts about Jul 1, 2027",
-  "e": "NASA's Swift Guest Investigator Cycle 23 call for archival data analysis, theory, correlative investigations and new GRB projects. Open to all; NASA funding goes only to US investigators.",
+  "e": "Funding for Swift archival data analysis in any area of astrophysics, theory, correlative investigations and new GRB projects. No new Swift observing time is offered, because Swift science operations are expected to end in late 2026. Only PIs at US institutions can be funded.",
   "f": "NASA Neil Gehrels Swift Observatory",
   "fields": [
    "astro"
@@ -32449,8 +32515,8 @@
    "ten",
    "pd"
   ],
-  "u": "https://swift.gsfc.nasa.gov/proposals/",
-  "unv": "Amendment 80 solicits archival, theoretical and correlative proposals and new GRB projects; it does not mention new Swift observing time, so the row is listed as a research grant rather than observing time. Time of day not checked on NSPIRES.",
+  "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-80-d-3-agigo-swift-fermi-and-tess-observatories-second-opportunities-in-roses-25/",
+  "unv": "No Phase-2 budget date is posted (only invited proposers submit one). The call does not say whether students or postdocs may be PI, so institutional rules apply.",
   "us": false
  },
  {
@@ -37403,6 +37469,41 @@
   ],
   "u": "https://xrism.isas.jaxa.jp/research/proposer/key_program/index.html",
   "unv": "On Oct 21, 2026 the JAXA page rejected automated access; the Dec 3, 2026 deadline (23:59 UT) and ARK/RPS submission were confirmed on NASA's science.nasa.gov XRISM Key Program call page. NASA funding amounts are not yet announced. The call does not state career-stage limits for PIs.",
+  "us": false
+ },
+ {
+  "a": "Cycle 3 expected 1 to 3 Type-2 awards of up to 3 years; amounts not stated",
+  "added": "2026-10-22",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ast"
+  ],
+  "c": "Federal grant",
+  "checked": "2026-10-22",
+  "d": null,
+  "dt": "Cycle 4 not posted yet; Cycle 3 Type-2 proposals were due Feb 27, 2026 via NSPIRES",
+  "e": "NASA funding for atomic-physics theory or laboratory work (for example cross sections or EBIT measurements) needed to interpret XRISM Resolve spectra, with no observing time involved. Only PIs at US institutions may propose.",
+  "f": "NASA (ROSES, XRISM General Observer program)",
+  "fields": [
+   "astro",
+   "amo"
+  ],
+  "id": "xrism-supporting-atomic-physics-type-2",
+  "n": "XRISM Supporting Atomic Physics (Type-2) investigations, Cycle 4",
+  "nom": false,
+  "pt": "other",
+  "s": "watch",
+  "src": "other:xrism-sap-type2",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://heasarc.gsfc.nasa.gov/docs/xrism/proposals/",
+  "unv": "Not posted: whether Cycle 4 offers Type-2 again, its dates and amounts. The call does not say whether postdocs or students may be PI.",
   "us": false
  },
  {
