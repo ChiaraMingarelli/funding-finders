@@ -25873,6 +25873,37 @@
   "us": false
  },
  {
+  "a": "Award amounts vary; the public page gives no figure or project length",
+  "added": "2026-10-21",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Yale internal",
+  "checked": "2026-10-21",
+  "d": "2026-11-16",
+  "dt": "Internal deadline Nov 16, 2026. Calls run each fall and spring; the funding page says the details and timing of each call are on the YBII intranet (Yale login needed).",
+  "e": "Yale internal funding for exploratory imaging studies or secondary analyses of image data that start collaborations across departments and could have a large health impact; projects should take up new topics or produce preliminary data for grant applications. Open to YBII members, who include faculty from the School of Medicine, the School of Engineering and Applied Science and the Graduate School of Arts and Sciences (non-members can apply to join through a form on the funding page); each project needs a co-PI from a different department, and cross-department and cross-modality studies get priority.",
+  "f": "Yale Biomedical Imaging Institute (YBII), Yale School of Medicine",
+  "fields": [
+   "bio",
+   "inst",
+   "ds"
+  ],
+  "id": "yale-biomedical-imaging-institute-exploratory-studies",
+  "n": "Yale Biomedical Imaging Institute Exploratory Studies (YBII-ES)",
+  "nom": false,
+  "s": "open",
+  "src": "other:ybii-es",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://medicine.yale.edu/biomedical-imaging-institute/funding/",
+  "unv": "The YBII funding page gives no deadline, award amount or project length; it says details and timing are on the YBII intranet, which needs a Yale login and was not opened. The Nov 16, 2026 deadline is from the Yale research office's funding newsletter of Oct 21, 2026. YBII's spring 2026 pilot grant announcement (Jun 24, 2026; YBII's April 2026 newsletter calls the same pilot grants exploratory funds) says awards went to proposals from two PIs in different departments with at least one junior faculty member; whether this call keeps that rule, whether research scientists may be PIs, and any citizenship limits are not stated publicly.",
+  "us": false
+ },
+ {
   "a": "not listed per award ($3.4M across 23 awards in 2025)",
   "added": "2026-10-03",
   "aud": [

@@ -6563,6 +6563,40 @@
   "us": true
  },
  {
+  "a": "$600,000 over 3 years ($200,000 a year; no indirect costs); one grantee is later chosen for an additional $1.5 million award",
+  "added": "2026-10-21",
+  "aud": [
+   "ap"
+  ],
+  "c": "Foundation",
+  "checked": "2026-10-21",
+  "d": "2027-04-27",
+  "dt": "Proposals due Apr 27, 2027, sent by the institution as one PDF by email. The proposal cover sheet generator opens in November 2026.",
+  "e": "A new program (announced Oct 15, 2026) for faculty in the chemical sciences (e.g. chemistry, chemical engineering, biochemistry, materials chemistry) who are within 15 years of promotion to tenure at a US institution (or one in a US territory) that grants a bachelor's or higher degree in the chemical sciences, to start a high-risk research direction that is a significant departure from their current or previous work and currently has no significant funding. The Foundation accepts one proposal per institution per cycle and aims to make eight grants; no citizenship requirement is stated.",
+  "f": "Camille and Henry Dreyfus Foundation",
+  "fields": [
+   "mat",
+   "bio"
+  ],
+  "id": "dreyfus-program-for-transformative-research-2027",
+  "n": "Dreyfus Foundation Program for Transformative Research (2027)",
+  "nom": true,
+  "s": "open",
+  "src": "other:dreyfus-ptr-2027",
+  "stages": [
+   "ten"
+  ],
+  "u": "https://www.dreyfus.org/program-for-transformative-research/",
+  "unv": "The program page gives no deadline; Apr 27, 2027 is from the Foundation's Oct 15, 2026 announcement on dreyfus.org and matches the Yale newsletter. No time of day is stated.",
+  "us": false,
+  "yale": {
+   "d": "2026-11-16",
+   "t": "Yale limited submission: internal application due Nov 16, 2026 on InfoReady (Organizer filter: Limited Submissions).",
+   "u": "https://yale.infoready4.com/",
+   "unv": "Source is the Yale research office newsletter of Oct 21, 2026. The InfoReady site builds its listings with JavaScript, so the competition could not be checked there with an automated fetch."
+  }
+ },
+ {
   "a": "Total $500,000,000 over BAA life; ~10 awards",
   "added": "2026-09-28",
   "aud": [
@@ -35689,6 +35723,37 @@
   ],
   "u": "https://world.yale.edu/academics-research/major-partnerships",
   "unv": "The Partnership Fund page does not state the amount; $20,000 is from the Yale research office's funding newsletter of Oct 7, 2026.",
+  "us": false
+ },
+ {
+  "a": "Award amounts vary; the public page gives no figure or project length",
+  "added": "2026-10-21",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Yale internal",
+  "checked": "2026-10-21",
+  "d": "2026-11-16",
+  "dt": "Internal deadline Nov 16, 2026. Calls run each fall and spring; the funding page says the details and timing of each call are on the YBII intranet (Yale login needed).",
+  "e": "Yale internal funding for exploratory imaging studies or secondary analyses of image data that start collaborations across departments and could have a large health impact; projects should take up new topics or produce preliminary data for grant applications. Open to YBII members, who include faculty from the School of Medicine, the School of Engineering and Applied Science and the Graduate School of Arts and Sciences (non-members can apply to join through a form on the funding page); each project needs a co-PI from a different department, and cross-department and cross-modality studies get priority.",
+  "f": "Yale Biomedical Imaging Institute (YBII), Yale School of Medicine",
+  "fields": [
+   "bio",
+   "inst",
+   "ds"
+  ],
+  "id": "yale-biomedical-imaging-institute-exploratory-studies",
+  "n": "Yale Biomedical Imaging Institute Exploratory Studies (YBII-ES)",
+  "nom": false,
+  "s": "open",
+  "src": "other:ybii-es",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://medicine.yale.edu/biomedical-imaging-institute/funding/",
+  "unv": "The YBII funding page gives no deadline, award amount or project length; it says details and timing are on the YBII intranet, which needs a Yale login and was not opened. The Nov 16, 2026 deadline is from the Yale research office's funding newsletter of Oct 21, 2026. YBII's spring 2026 pilot grant announcement (Jun 24, 2026; YBII's April 2026 newsletter calls the same pilot grants exploratory funds) says awards went to proposals from two PIs in different departments with at least one junior faculty member; whether this call keeps that rule, whether research scientists may be PIs, and any citizenship limits are not stated publicly.",
   "us": false
  },
  {
