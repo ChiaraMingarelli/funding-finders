@@ -989,6 +989,38 @@
   "us": false
  },
  {
+  "a": "$68,000-$72,000; 12-month fixed term, renewable annually up to three years",
+  "added": "2026-10-23",
+  "asub": [
+   "cos",
+   "xgal"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-23",
+  "d": "2026-12-01",
+  "dt": "Deadline Dec 1, 2026; later applications kept in a reserve pool until filled",
+  "e": "Theory postdoc on generation, evolution and observation of primordial/cosmic magnetic fields within a multi-institution Targeted Simons Research Group, based in Tempe. Candidates must be within five years of PhD.",
+  "f": "Arizona State University, Department of Physics (Vachaspati group; Simons Foundation)",
+  "fields": [
+   "astro",
+   "ppt"
+  ],
+  "id": "asu-simons-cosmic-magnetism-postdoc",
+  "n": "Arizona State University: Postdoctoral Research Scholar, Targeted Simons Research Group on Cosmic Magnetism",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3217207",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://apply.interfolio.com/195621",
+  "unv": "Interfolio page requires JavaScript; details from INSPIRE copy of the ASU ad.",
+  "us": false
+ },
+ {
   "a": "Time on ASKAP, ATCA, Murriyang (Parkes), Tidbinbilla 70-m/34-m and the Long Baseline Array (as offered for 2026OCT), through OPAL with dual-anonymous review.",
   "added": "2026-10-03",
   "asub": [],
@@ -3189,36 +3221,6 @@
   "us": false
  },
  {
-  "a": "Observing time on the e-MERLIN radio interferometer (L, C and K bands; 12-150 mas resolution) for Cycle 23, submitted through the Polaris proposal tool from 1 Oct 2026. Lovell telescope availability is limited this cycle. Joint EVN+e-MERLIN observations go through the EVN call. No funding.",
-  "added": "2026-10-03",
-  "asub": [],
-  "c": "Observing time",
-  "checked": "2026-10-21",
-  "d": "2026-10-22",
-  "dt": "Deadline 13:59:59 UT on 22 Oct 2026. Observations 1 Feb to 31 Jul 2027.",
-  "e": "The UK's national radio interferometer facility. It requests proposals from the international astronomical community; the e-MERLIN TAC reviews them under STFC rules, on scientific merit and technical feasibility alone. Proposals must follow dual-anonymous guidelines, and projects that include researchers affiliated with Russian institutes are not accepted.",
-  "f": "e-MERLIN / Jodrell Bank Observatory (University of Manchester; STFC)",
-  "fields": [
-   "astro"
-  ],
-  "id": "e-merlin-cycle-23",
-  "n": "e-MERLIN Cycle 23 Call for Proposals",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "other",
-  "region": "International",
-  "s": "open",
-  "src": "other:emerlin-cfp",
-  "stages": [
-   "tt",
-   "ten",
-   "pd"
-  ],
-  "u": "https://www.e-merlin.ac.uk/tools/e-MERLIN_Cycle_23_CfP.pdf",
-  "unv": "Grad-student PI status is not stated in the call.",
-  "us": false
- },
- {
   "a": "US$5,000/month + ~US$20,000/yr research; 3 years + 2",
   "added": "2026-09-30",
   "c": "Fellowship",
@@ -3270,6 +3272,37 @@
   ],
   "u": "https://radio.kasi.re.kr/cfp_view.php?id=54",
   "unv": "Graduate-student PI eligibility is not stated.",
+  "us": false
+ },
+ {
+  "a": "Three-year fixed-term postdoctoral positions starting Sept 2027; salary not stated",
+  "added": "2026-10-23",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-23",
+  "d": "2026-11-27",
+  "dt": "Deadline Nov 27, 2026",
+  "e": "Three positions in scattering amplitudes and gravity (ERC grant of Donal O'Connell and STFC) and one in amplitudes for gauge theory/phenomenology (STFC); applicants apply via separate University of Edinburgh links. Open to PhD theorists; no citizenship restriction stated.",
+  "f": "University of Edinburgh, Higgs Centre for Theoretical Physics (ERC AdG and STFC funded)",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "edinburgh-higgs-centre-amplitudes-postdocs-2027",
+  "n": "University of Edinburgh Higgs Centre: Four Postdoctoral Positions in Scattering Amplitudes (gravity and gauge theory)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3217553",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15047",
+  "unv": "Host (Oracle) ads not readable without JavaScript; deadline and details taken from INSPIRE posting; salary not stated.",
   "us": false
  },
  {
@@ -4159,6 +4192,38 @@
   ],
   "u": "https://www.gemini.edu/observing/phase-i/llp",
   "unv": "The 2027 LLP call has not been issued, so the 2027 dates are unconfirmed. The page does not say whether postdocs or graduate students may be PI. The row lists tt, ten and pd because the only PI rule given is about the institution.",
+  "us": false
+ },
+ {
+  "a": "Three years (2 + 1 contingent), start Fall 2027, with discretionary research fund; salary not stated",
+  "added": "2026-10-23",
+  "c": "Fellowship",
+  "checked": "2026-10-23",
+  "d": "2026-12-01",
+  "dt": "Full consideration by Dec 1, 2026",
+  "e": "Inaugural independent fellowship in any School of Physics research area (theory, experiment, observation, instrumentation); applicants propose their own program and name a faculty host. Requires a PhD by the start date; no citizenship restriction stated.",
+  "f": "Georgia Institute of Technology, School of Physics",
+  "fields": [
+   "astro",
+   "cmx",
+   "cmt",
+   "amo",
+   "bio",
+   "ppt"
+  ],
+  "id": "georgia-tech-physics-prize-postdoc-2027",
+  "n": "Georgia Tech School of Physics: Prize Postdoctoral Fellowship (inaugural)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3217202",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3217202",
+  "unv": "Host ad on Georgia Tech careers portal not located; details from INSPIRE posting.",
   "us": false
  },
  {
@@ -5346,6 +5411,39 @@
   "us": false
  },
  {
+  "a": "Postdoctoral Researcher (R2), 2 years, full-time, start Fall 2027; salary proportional to experience within category range (amount not stated)",
+  "added": "2026-10-23",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-23",
+  "d": "2026-12-31",
+  "dt": "Deadline Dec 31, 2026",
+  "e": "Two two-year postdoctoral positions in the IFAE theory group (BSM, formal QFT, gravitation, cosmology, astroparticle physics). PhD in physics required by start; no citizenship restriction stated.",
+  "f": "Institut de Fisica d'Altes Energies (IFAE), Theory Division",
+  "fields": [
+   "ppt",
+   "grav",
+   "astro"
+  ],
+  "id": "ifae-theory-postdocs-2027",
+  "n": "IFAE Barcelona: Postdoctoral Positions in Theoretical Particle Physics, Theoretical Cosmology/Gravitation",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33198",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33198",
+  "unv": "Salary amount not stated",
+  "us": false
+ },
+ {
   "added": "2026-10-20",
   "asub": [
    "cos"
@@ -5824,6 +5922,39 @@
   ],
   "u": "https://reclutamento.dsi.infn.it/",
   "unv": "The INFN recruitment portal could not be reached on Oct 21, 2026 (connection reset, HTTP 503); the INSPIRE listing was still open with the Nov 12 deadline.",
+  "us": false
+ },
+ {
+  "a": "EUR 36,000 gross per year; two years",
+  "added": "2026-10-23",
+  "asub": [
+   "he"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-23",
+  "d": "2026-11-12",
+  "dt": "Apply by Nov 12, 2026 (23:59 CET); reference letters by Nov 15",
+  "e": "INFN's annual national call for 20 two-year experimental physics fellowships at INFN sites; the INSPIRE posting is from the Frascati COLD lab (ultralight dark matter, high-frequency gravitational waves, superconducting-qubit sensing). Eligible: non-Italian citizens with a PhD from a foreign institution obtained on or after Nov 12, 2018.",
+  "f": "INFN (Istituto Nazionale di Fisica Nucleare)",
+  "fields": [
+   "ppx",
+   "nux",
+   "grav",
+   "inst"
+  ],
+  "id": "infn-experimental-physics-fellowships-2027",
+  "n": "INFN: 20 Postdoctoral Fellowships in Experimental Physics (bando 29217; e.g. LNF COLD lab, axion and high-frequency GW searches)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3217063",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.dsi.infn.it/dettagli_job.php?id=4702",
+  "unv": "pt set to prize because applicants choose topic/site from the call annex; whether the program is independent research or project-assigned not confirmed.",
   "us": false
  },
  {
@@ -9325,36 +9456,6 @@
   "us": false
  },
  {
-  "a": "CAD 83,985-116,641/yr; 2-year Research Associate term",
-  "added": "2026-10-02",
-  "asub": [
-   "inst"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-21",
-  "d": "2026-10-22",
-  "dt": "Closes 22 Oct 2026, 23:59 ET",
-  "e": "Early-career Research Associate in Ottawa leading the photonic integrated circuit subsystem of the TESERACT astrophotonic CubeSat. PhD within the last 5 years (or within 6 months); preference goes to Canadian citizens and permanent residents, and Reliability Status clearance is required.",
-  "f": "National Research Council Canada (Herzberg / Quantum and Nanotechnologies)",
-  "fields": [
-   "inst",
-   "astro"
-  ],
-  "id": "nrc-ra-integrated-photonics-space-astronomy",
-  "n": "NRC Canada: Research Associate, Integrated Photonics for Space Astronomy (TESERACT)",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "Canada",
-  "s": "open",
-  "src": "other:casca-nrc-teseract",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://recruitment-recrutement.nrc-cnrc.gc.ca/job/Ottawa-Research-Associate-Integrated-Photonics-for-Space-Astronomy-ON/606001017/",
-  "us": false
- },
- {
   "a": "not listed",
   "added": "2026-09-28",
   "asub": [],
@@ -10160,6 +10261,38 @@
   ],
   "u": "https://science.nasa.gov/amendment-76-d-3-agigo-nustargeneral-observer-second-opportunity-in-roses-25/",
   "unv": "Exact submission time of day; student PI eligibility",
+  "us": false
+ },
+ {
+  "a": "R480,000 per year (tax free); three years, extendable up to five",
+  "added": "2026-10-23",
+  "asub": [
+   "he",
+   "xgal",
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-23",
+  "d": "2026-11-06",
+  "dt": "Applications and three letters due Nov 6, 2026",
+  "e": "Senior postdoc in any of the Centre's areas (gamma-ray/multi-messenger astrophysics, galaxy evolution, cosmology, heliospheric/space physics) with 25% support role for the IDIA/ilifu computing cluster. Requires a PhD in astronomy/astrophysics/space physics within 5 years of start and age under 45.",
+  "f": "North-West University, Centre for Space Research",
+  "fields": [
+   "astro"
+  ],
+  "id": "nwu-south-africa-csr-senior-postdoc-2027",
+  "n": "North-West University (South Africa) Centre for Space Research: Senior Postdoctoral Fellowship",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3217502",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3217502",
+  "unv": "No host web ad found; details from INSPIRE posting (applications by email to Joseph.Magwanya@nwu.ac.za).",
   "us": false
  },
  {
@@ -11223,6 +11356,37 @@
   ],
   "u": "https://rescorp.org/scialog/terrestrial-and-extraterrestrial-atmospheres/",
   "unv": "Co-sponsors, seed award amounts and any country limit are not stated on the initiative page (RCSA generally funds US and Canadian institutions).",
+  "us": false
+ },
+ {
+  "a": "Two years + 1 depending on funding/performance; start Sept 2027; salary not stated",
+  "added": "2026-10-23",
+  "asub": [
+   "cos"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-23",
+  "d": "2026-11-15",
+  "dt": "Apply by email by Nov 15, 2026",
+  "e": "Theory fellowship at SFU with Mohlabeng and Pogosian in theoretical cosmology and astroparticle physics; top SFU applicants are forwarded to the McDonald Institute Theory committee for allocation. Applications to cosmo-search@sfu.ca.",
+  "f": "Simon Fraser University, Department of Physics (McDonald Institute / CITA)",
+  "fields": [
+   "astro",
+   "ppt"
+  ],
+  "id": "sfu-mcdonald-cita-theory-fellowship-2027",
+  "n": "Simon Fraser University: McDonald Institute - CITA Theory Fellowship (cosmology and astroparticle theory)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "Canada",
+  "s": "open",
+  "src": "inspire:3217201",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3217201",
+  "unv": "No SFU web ad found; related Queen's McDonald/MI-CITA fellowship (ajo:33096) already known but this is the separate SFU-hosted call.",
   "us": false
  },
  {

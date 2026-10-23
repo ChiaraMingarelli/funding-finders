@@ -1021,6 +1021,34 @@
   "us": false
  },
  {
+  "a": "Not stated",
+  "added": "2026-10-23",
+  "c": "Group postdoc",
+  "checked": "2026-10-23",
+  "d": null,
+  "dt": "Posted Oct 21, 2026; no deadline stated",
+  "e": "Multi-year postdoc on beam-dynamics and FEL modeling for the conceptual design of a compact wakefield-driven X-ray free-electron laser for attosecond science. Requires a PhD in accelerator physics or a related field completed within the last 5 years (or expected soon).",
+  "f": "Argonne National Laboratory, Argonne Accelerator Institute",
+  "fields": [
+   "phot",
+   "inst"
+  ],
+  "id": "argonne-compact-xfel-accelerator-fel-postdoc-423573",
+  "n": "Argonne National Laboratory: Postdoctoral Appointee, Accelerator Physics and Free-Electron Laser Science (compact XFEL)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:argonne-423573",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Accelerator-Physics-and-Free-Electron-Laser-Science_423573",
+  "unv": "Salary and application deadline not stated in posting.",
+  "us": false
+ },
+ {
   "a": "Up to 3 years, renewed annually, with competitive salary and a research-support stipend. Years 1-2 fully LDRD-funded.",
   "added": "2026-09-28",
   "c": "Fellowship",
@@ -1269,6 +1297,35 @@
   ],
   "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Time-Resolved-Spectroscopy-Instrumentation_423564",
   "unv": "Closing date and start date not stated.",
+  "us": false
+ },
+ {
+  "a": "Not stated",
+  "added": "2026-10-23",
+  "c": "Group postdoc",
+  "checked": "2026-10-23",
+  "d": null,
+  "dt": "Posted Oct 21, 2026; no deadline stated",
+  "e": "Postdoc developing ALD processes for thick multilayer diffractive X-ray optics, with characterization and testing at the APS 1-BM beamline. Requires a PhD in chemistry, materials science, chemical engineering, physics or related field within the last 0-5 years and hands-on ALD experience.",
+  "f": "Argonne National Laboratory, X-ray Science Division (Optics Group)",
+  "fields": [
+   "phot",
+   "mat",
+   "inst"
+  ],
+  "id": "argonne-xsd-ald-xray-optics-postdoc-423556",
+  "n": "Argonne National Laboratory: Postdoctoral Appointee, Atomic Layer Deposition for X-ray Optics Fabrication",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:argonne-423556",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Atomic-Layer-Deposition-for-X-ray-Optics-Fabrication_423556",
+  "unv": "Salary and application deadline not stated in posting.",
   "us": false
  },
  {
@@ -4118,6 +4175,34 @@
   "us": false
  },
  {
+  "a": "$69,800-$92,600 expected hiring range; 3-year fixed term",
+  "added": "2026-10-23",
+  "c": "Group postdoc",
+  "checked": "2026-10-23",
+  "d": null,
+  "dt": "Open until filled; posted Jun 24, 2026 and still listed Oct 23, 2026",
+  "e": "Postdoc developing 3D superconducting-cavity quantum processors, bosonic modes/qudits and circuit QED systems (design, fabrication, measurement, control). Requires passing a federal background check; no citizenship restriction stated.",
+  "f": "Fermi National Accelerator Laboratory, Superconducting Quantum Materials and Systems Center (SQMS)",
+  "fields": [
+   "qp",
+   "dev"
+  ],
+  "id": "fermilab-sqms-3d-cavity-quantum-hardware-postdoc",
+  "n": "Fermilab SQMS: Quantum Postdoctoral Researcher, 3D Cavity Quantum Hardware",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:fermilab-R_009642",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Quantum-Postdoctoral-Researcher-for-3D-Cavity-Quantum-Hardware_R_009642",
+  "unv": "Not newly posted (Jun 2026) but absent from known list; no deadline given.",
+  "us": false
+ },
+ {
   "a": "3-year postdoctoral appointment",
   "added": "2026-09-29",
   "asub": [
@@ -4508,6 +4593,38 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33029",
   "unv": "Salary not stated in the posting",
+  "us": false
+ },
+ {
+  "a": "Three years (2 + 1 contingent), start Fall 2027, with discretionary research fund; salary not stated",
+  "added": "2026-10-23",
+  "c": "Fellowship",
+  "checked": "2026-10-23",
+  "d": "2026-12-01",
+  "dt": "Full consideration by Dec 1, 2026",
+  "e": "Inaugural independent fellowship in any School of Physics research area (theory, experiment, observation, instrumentation); applicants propose their own program and name a faculty host. Requires a PhD by the start date; no citizenship restriction stated.",
+  "f": "Georgia Institute of Technology, School of Physics",
+  "fields": [
+   "astro",
+   "cmx",
+   "cmt",
+   "amo",
+   "bio",
+   "ppt"
+  ],
+  "id": "georgia-tech-physics-prize-postdoc-2027",
+  "n": "Georgia Tech School of Physics: Prize Postdoctoral Fellowship (inaugural)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3217202",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3217202",
+  "unv": "Host ad on Georgia Tech careers portal not located; details from INSPIRE posting.",
   "us": false
  },
  {
@@ -4937,6 +5054,35 @@
    "pd"
   ],
   "u": "https://academicpositions.harvard.edu/postings/16891",
+  "us": false
+ },
+ {
+  "a": "$67,600-$91,826",
+  "added": "2026-10-23",
+  "c": "Group postdoc",
+  "checked": "2026-10-23",
+  "d": null,
+  "dt": "No deadline stated",
+  "e": "Postdoc in the Y-Lab on optical-to-optical quantum frequency transduction, UV-visible integrated photonics, and heterogeneous integration of silicon photonics with gain/electro-optic/piezoelectric materials. Requires a PhD in EE, applied physics, physics, materials science or related field.",
+  "f": "Harvard John A. Paulson School of Engineering and Applied Sciences, Electrical Engineering (Y-Lab)",
+  "fields": [
+   "phot",
+   "qp",
+   "dev"
+  ],
+  "id": "harvard-seas-ee-quantum-transduction-photonics-postdoc",
+  "n": "Harvard SEAS: Postdoctoral Fellow in Electrical Engineering (quantum frequency transduction, UV-visible integrated photonics)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:harvard-aries-16240",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicpositions.harvard.edu/postings/16240",
+  "unv": "Posting date not shown; likely posted mid-2026 (ID older than Sept postings) but still listed as open. PI name not given in ad.",
   "us": false
  },
  {
@@ -13655,6 +13801,33 @@
   "us": false
  },
  {
+  "a": "Up to 3 years, start Fall 2027; salary not stated",
+  "added": "2026-10-23",
+  "c": "Group postdoc",
+  "checked": "2026-10-23",
+  "d": "2026-12-31",
+  "dt": "Deadline Dec 31, 2026; Zoom interviews Jan 2027",
+  "e": "Postdoc in Jason Pollack's group on theoretical quantum information (error correction, unitary synthesis, magic/entropy, thermalization in quantum computation). PhD in CS, physics, math, EE or related; no citizenship restriction stated.",
+  "f": "Syracuse University, Institute for Quantum and Information Sciences",
+  "fields": [
+   "qp"
+  ],
+  "id": "syracuse-postdoc-theoretical-quantum-information",
+  "n": "Syracuse University: Postdoctoral Researcher, Theoretical Quantum Information and its Applications (Pollack group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33207",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33207",
+  "unv": "Salary not stated",
+  "us": false
+ },
+ {
   "a": "RMB 312,000/yr + RMB 50,000/yr research grant (or CNY 450,000 as Siyuan fellow); 3 years",
   "added": "2026-09-30",
   "c": "Fellowship",
@@ -14965,6 +15138,35 @@
    "pd"
   ],
   "u": "https://apply.interfolio.com/194644",
+  "us": false
+ },
+ {
+  "a": "2 years, possible renewal for a third; start August 2027; salary not stated",
+  "added": "2026-10-23",
+  "c": "Group postdoc",
+  "checked": "2026-10-23",
+  "d": "2026-12-01",
+  "dt": "Review begins after Dec 1, 2026; until filled",
+  "e": "Postdoc in the USC theoretical physics group in high energy theory or condensed matter/quantum information theory (QFT, CFT, quantum matter, quantum information, string theory, quantum gravity). PhD required; no citizenship restriction stated.",
+  "f": "University of Southern California, Department of Physics and Astronomy",
+  "fields": [
+   "ppt",
+   "cmt",
+   "qp"
+  ],
+  "id": "usc-theoretical-physics-postdoc-2027",
+  "n": "USC: Postdoctoral Position in Theoretical Physics (HET or CM/QI theory)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33209",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33209",
+  "unv": "Salary not stated",
   "us": false
  },
  {
