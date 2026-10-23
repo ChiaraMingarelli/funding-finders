@@ -1,0 +1,34 @@
+{
+ "a": "2 years, possible renewal for a third; start August 2027; salary not stated",
+ "added": "2026-10-23",
+ "aud": [
+  "ap",
+  "ng",
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-23",
+ "d": "2026-12-01",
+ "dt": "Review begins after Dec 1, 2026; until filled",
+ "e": "Postdoc in the USC theoretical physics group in high energy theory or condensed matter/quantum information theory (QFT, CFT, quantum matter, quantum information, string theory, quantum gravity). PhD required; no citizenship restriction stated.",
+ "f": "University of Southern California, Department of Physics and Astronomy",
+ "fields": [
+  "ppt",
+  "cmt",
+  "qp"
+ ],
+ "id": "usc-theoretical-physics-postdoc-2027",
+ "n": "USC: Postdoctoral Position in Theoretical Physics (HET or CM/QI theory)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33209",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33209",
+ "unv": "Salary not stated",
+ "us": false
+}

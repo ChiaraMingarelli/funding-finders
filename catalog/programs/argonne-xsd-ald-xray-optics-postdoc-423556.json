@@ -1,0 +1,33 @@
+{
+ "a": "Not stated",
+ "added": "2026-10-23",
+ "aud": [
+  "ap",
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-23",
+ "d": null,
+ "dt": "Posted Oct 21, 2026; no deadline stated",
+ "e": "Postdoc developing ALD processes for thick multilayer diffractive X-ray optics, with characterization and testing at the APS 1-BM beamline. Requires a PhD in chemistry, materials science, chemical engineering, physics or related field within the last 0-5 years and hands-on ALD experience.",
+ "f": "Argonne National Laboratory, X-ray Science Division (Optics Group)",
+ "fields": [
+  "phot",
+  "mat",
+  "inst"
+ ],
+ "id": "argonne-xsd-ald-xray-optics-postdoc-423556",
+ "n": "Argonne National Laboratory: Postdoctoral Appointee, Atomic Layer Deposition for X-ray Optics Fabrication",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:argonne-423556",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Atomic-Layer-Deposition-for-X-ray-Optics-Fabrication_423556",
+ "unv": "Salary and application deadline not stated in posting.",
+ "us": false
+}

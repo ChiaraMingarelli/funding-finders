@@ -1,0 +1,37 @@
+{
+ "a": "$68,000-$72,000; 12-month fixed term, renewable annually up to three years",
+ "added": "2026-10-23",
+ "asub": [
+  "cos",
+  "xgal"
+ ],
+ "aud": [
+  "ast",
+  "ng",
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-23",
+ "d": "2026-12-01",
+ "dt": "Deadline Dec 1, 2026; later applications kept in a reserve pool until filled",
+ "e": "Theory postdoc on generation, evolution and observation of primordial/cosmic magnetic fields within a multi-institution Targeted Simons Research Group, based in Tempe. Candidates must be within five years of PhD.",
+ "f": "Arizona State University, Department of Physics (Vachaspati group; Simons Foundation)",
+ "fields": [
+  "astro",
+  "ppt"
+ ],
+ "id": "asu-simons-cosmic-magnetism-postdoc",
+ "n": "Arizona State University: Postdoctoral Research Scholar, Targeted Simons Research Group on Cosmic Magnetism",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3217207",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://apply.interfolio.com/195621",
+ "unv": "Interfolio page requires JavaScript; details from INSPIRE copy of the ASU ad.",
+ "us": false
+}

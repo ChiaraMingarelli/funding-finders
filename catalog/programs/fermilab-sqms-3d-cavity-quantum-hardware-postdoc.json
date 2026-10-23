@@ -1,0 +1,33 @@
+{
+ "a": "$69,800-$92,600 expected hiring range; 3-year fixed term",
+ "added": "2026-10-23",
+ "aud": [
+  "ap",
+  "ng",
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-23",
+ "d": null,
+ "dt": "Open until filled; posted Jun 24, 2026 and still listed Oct 23, 2026",
+ "e": "Postdoc developing 3D superconducting-cavity quantum processors, bosonic modes/qudits and circuit QED systems (design, fabrication, measurement, control). Requires passing a federal background check; no citizenship restriction stated.",
+ "f": "Fermi National Accelerator Laboratory, Superconducting Quantum Materials and Systems Center (SQMS)",
+ "fields": [
+  "qp",
+  "dev"
+ ],
+ "id": "fermilab-sqms-3d-cavity-quantum-hardware-postdoc",
+ "n": "Fermilab SQMS: Quantum Postdoctoral Researcher, 3D Cavity Quantum Hardware",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:fermilab-R_009642",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Quantum-Postdoctoral-Researcher-for-3D-Cavity-Quantum-Hardware_R_009642",
+ "unv": "Not newly posted (Jun 2026) but absent from known list; no deadline given.",
+ "us": false
+}

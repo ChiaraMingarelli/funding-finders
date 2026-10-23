@@ -1,0 +1,33 @@
+{
+ "a": "$67,600-$91,826",
+ "added": "2026-10-23",
+ "aud": [
+  "ap",
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-23",
+ "d": null,
+ "dt": "No deadline stated",
+ "e": "Postdoc in the Y-Lab on optical-to-optical quantum frequency transduction, UV-visible integrated photonics, and heterogeneous integration of silicon photonics with gain/electro-optic/piezoelectric materials. Requires a PhD in EE, applied physics, physics, materials science or related field.",
+ "f": "Harvard John A. Paulson School of Engineering and Applied Sciences, Electrical Engineering (Y-Lab)",
+ "fields": [
+  "phot",
+  "qp",
+  "dev"
+ ],
+ "id": "harvard-seas-ee-quantum-transduction-photonics-postdoc",
+ "n": "Harvard SEAS: Postdoctoral Fellow in Electrical Engineering (quantum frequency transduction, UV-visible integrated photonics)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:harvard-aries-16240",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicpositions.harvard.edu/postings/16240",
+ "unv": "Posting date not shown; likely posted mid-2026 (ID older than Sept postings) but still listed as open. PI name not given in ad.",
+ "us": false
+}

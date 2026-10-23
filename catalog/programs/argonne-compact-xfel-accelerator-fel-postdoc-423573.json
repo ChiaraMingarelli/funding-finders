@@ -1,0 +1,32 @@
+{
+ "a": "Not stated",
+ "added": "2026-10-23",
+ "aud": [
+  "ap",
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-23",
+ "d": null,
+ "dt": "Posted Oct 21, 2026; no deadline stated",
+ "e": "Multi-year postdoc on beam-dynamics and FEL modeling for the conceptual design of a compact wakefield-driven X-ray free-electron laser for attosecond science. Requires a PhD in accelerator physics or a related field completed within the last 5 years (or expected soon).",
+ "f": "Argonne National Laboratory, Argonne Accelerator Institute",
+ "fields": [
+  "phot",
+  "inst"
+ ],
+ "id": "argonne-compact-xfel-accelerator-fel-postdoc-423573",
+ "n": "Argonne National Laboratory: Postdoctoral Appointee, Accelerator Physics and Free-Electron Laser Science (compact XFEL)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:argonne-423573",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Accelerator-Physics-and-Free-Electron-Laser-Science_423573",
+ "unv": "Salary and application deadline not stated in posting.",
+ "us": false
+}

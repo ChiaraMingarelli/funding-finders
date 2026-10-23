@@ -1,0 +1,30 @@
+{
+ "a": "Tenure-track Assistant Professor; salary commensurate with experience",
+ "added": "2026-10-23",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-23",
+ "d": "2026-12-01",
+ "dt": "Review begins immediately and continues through Dec 1, 2026 or until filled",
+ "e": "Tenure-track assistant professorship for a theoretical nuclear physicist working on neutrino-nucleus interactions, bridging theory and experiment (DUNE, T2K, NOvA, SBN). Requires a PhD in physics or a related field; postdoctoral experience preferred.",
+ "f": "University of Houston, Department of Physics",
+ "fields": [
+  "nut",
+  "ppt"
+ ],
+ "id": "fj-houston-asst-prof-nuclear-theory-neutrino",
+ "n": "University of Houston: Assistant Professor, Nuclear Theorist (neutrino-nucleus interactions)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3217900",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://careers.uh.edu/jobs/assistant-professor-nuclear-theorist-houston-texas-united-states",
+ "unv": "",
+ "us": false
+}

@@ -1,0 +1,32 @@
+{
+ "a": "Up to 3 years, start Fall 2027; salary not stated",
+ "added": "2026-10-23",
+ "aud": [
+  "ap",
+  "ng",
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-23",
+ "d": "2026-12-31",
+ "dt": "Deadline Dec 31, 2026; Zoom interviews Jan 2027",
+ "e": "Postdoc in Jason Pollack's group on theoretical quantum information (error correction, unitary synthesis, magic/entropy, thermalization in quantum computation). PhD in CS, physics, math, EE or related; no citizenship restriction stated.",
+ "f": "Syracuse University, Institute for Quantum and Information Sciences",
+ "fields": [
+  "qp"
+ ],
+ "id": "syracuse-postdoc-theoretical-quantum-information",
+ "n": "Syracuse University: Postdoctoral Researcher, Theoretical Quantum Information and its Applications (Pollack group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33207",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33207",
+ "unv": "Salary not stated",
+ "us": false
+}

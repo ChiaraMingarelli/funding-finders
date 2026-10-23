@@ -1,0 +1,32 @@
+{
+ "a": "Tenure-track assistant professor; salary range $110,000-$165,000; start July 1, 2027",
+ "added": "2026-10-23",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-23",
+ "d": "2026-11-27",
+ "dt": "Apply by Nov 27, 2026 (encouraged); reviewed until filled",
+ "e": "Tenure-track assistant professorship in quantum science and engineering broadly (incl. quantum systems and devices and AI), with appointment in Physics or Chemistry and Chemical Biology. Doctorate in chemistry, physics, materials science, EE, CS or related field required by start.",
+ "f": "Harvard University, Faculty of Arts and Sciences (Harvard Quantum Initiative; Depts. of Physics and Chemistry & Chemical Biology)",
+ "fields": [
+  "qp",
+  "amo",
+  "dev",
+  "mat"
+ ],
+ "id": "fj-harvard-hqi-tt-quantum-science-engineering",
+ "n": "Harvard University: Tenure-Track Professor in Quantum Science and Engineering (HQI, Physics or Chemistry)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:harvard-aries-16953",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicpositions.harvard.edu/postings/16953",
+ "unv": "Posting date not shown on page.",
+ "us": false
+}

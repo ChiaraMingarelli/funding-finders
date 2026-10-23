@@ -1,0 +1,36 @@
+{
+ "a": "Two years + 1 depending on funding/performance; start Sept 2027; salary not stated",
+ "added": "2026-10-23",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "ast",
+  "ng",
+  "yale"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-23",
+ "d": "2026-11-15",
+ "dt": "Apply by email by Nov 15, 2026",
+ "e": "Theory fellowship at SFU with Mohlabeng and Pogosian in theoretical cosmology and astroparticle physics; top SFU applicants are forwarded to the McDonald Institute Theory committee for allocation. Applications to cosmo-search@sfu.ca.",
+ "f": "Simon Fraser University, Department of Physics (McDonald Institute / CITA)",
+ "fields": [
+  "astro",
+  "ppt"
+ ],
+ "id": "sfu-mcdonald-cita-theory-fellowship-2027",
+ "n": "Simon Fraser University: McDonald Institute - CITA Theory Fellowship (cosmology and astroparticle theory)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "prize",
+ "region": "Canada",
+ "s": "open",
+ "src": "inspire:3217201",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3217201",
+ "unv": "No SFU web ad found; related Queen's McDonald/MI-CITA fellowship (ajo:33096) already known but this is the separate SFU-hosted call.",
+ "us": false
+}

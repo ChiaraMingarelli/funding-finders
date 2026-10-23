@@ -1,0 +1,31 @@
+{
+ "a": "TV-L 13; 36 months from Jan 2027, extension possible",
+ "added": "2026-10-23",
+ "aud": [
+  "ng",
+  "yale"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-23",
+ "d": "2026-12-01",
+ "dt": "Apply by Dec 1, 2026 for full consideration; open until filled",
+ "e": "Postdoc on LHCb data analysis, focusing on oxygen collision runs for cosmic-ray air-shower modelling within CRC 1491, working with Dortmund astroparticle groups. Requires a PhD in particle physics by start; no citizenship restriction stated.",
+ "f": "TU Dortmund University (CRC 1491)",
+ "fields": [
+  "ppx"
+ ],
+ "id": "tu-dortmund-lhcb-oxygen-postdoc-albrecht",
+ "n": "TU Dortmund: Research Associate in Experimental Particle Physics (LHCb, Albrecht group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3217476",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://e5.physik.tu-dortmund.de/",
+ "unv": "No host job ad page found; details from INSPIRE posting (apply by email to johannes.albrecht@tu-dortmund.de).",
+ "us": false
+}

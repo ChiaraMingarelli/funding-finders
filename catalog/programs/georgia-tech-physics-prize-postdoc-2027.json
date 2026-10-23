@@ -1,0 +1,38 @@
+{
+ "a": "Three years (2 + 1 contingent), start Fall 2027, with discretionary research fund; salary not stated",
+ "added": "2026-10-23",
+ "aud": [
+  "ap",
+  "ast",
+  "ng",
+  "yale"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-23",
+ "d": "2026-12-01",
+ "dt": "Full consideration by Dec 1, 2026",
+ "e": "Inaugural independent fellowship in any School of Physics research area (theory, experiment, observation, instrumentation); applicants propose their own program and name a faculty host. Requires a PhD by the start date; no citizenship restriction stated.",
+ "f": "Georgia Institute of Technology, School of Physics",
+ "fields": [
+  "astro",
+  "cmx",
+  "cmt",
+  "amo",
+  "bio",
+  "ppt"
+ ],
+ "id": "georgia-tech-physics-prize-postdoc-2027",
+ "n": "Georgia Tech School of Physics: Prize Postdoctoral Fellowship (inaugural)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3217202",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3217202",
+ "unv": "Host ad on Georgia Tech careers portal not located; details from INSPIRE posting.",
+ "us": false
+}

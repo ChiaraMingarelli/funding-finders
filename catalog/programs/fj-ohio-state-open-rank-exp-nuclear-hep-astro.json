@@ -1,0 +1,31 @@
+{
+ "a": "Open rank (Assistant/Associate/Full Professor), tenure-track, start Autumn 2027; salary not stated",
+ "added": "2026-10-23",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-23",
+ "d": "2026-11-15",
+ "dt": "Review begins Nov 1, 2026; final deadline Nov 15, 2026",
+ "e": "Tenure-track faculty search for an experimental particle or nuclear physicist working at the intersection with astrophysics (e.g. dark matter, neutrinos, cosmic rays, multi-messenger, gravitational waves), expected to join CCAPP. PhD in physics or related field required; apply via OSU Workday.",
+ "f": "Ohio State University, Department of Physics",
+ "fields": [
+  "ppx",
+  "nux",
+  "astro"
+ ],
+ "id": "fj-ohio-state-open-rank-exp-nuclear-hep-astro",
+ "n": "Ohio State University: Open-Rank Tenure-Track Faculty, Experimental Nuclear or High Energy Physics with connection to Astrophysics",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33202",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Open-Rank-Tenure-Track-Faculty-Position-in-Experimental-Nuclear-or-High-Energy-Physics_R161214-1",
+ "unv": "Salary not stated",
+ "us": false
+}
