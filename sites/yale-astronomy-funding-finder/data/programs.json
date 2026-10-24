@@ -932,9 +932,9 @@
    "star"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-10-23",
-  "dt": "Oct 23, 2026, 12:00 noon CEST, by email with subject POSTDOC 2027; contact a supervisor at the institute before Oct 9, 2026",
+  "checked": "2026-10-24",
+  "d": null,
+  "dt": "Last deadline Oct 23, 2026, 12:00 noon CEST; whether the call is still open could not be checked",
   "e": "Galaxies, stars, compact objects, solar physics, GWs and interplanetary matter. Applicants must contact a staff sponsor before Oct 9.",
   "f": "Astronomical Institute of the Czech Academy of Sciences, Ondřejov/Prague; contact Lenka Čiháková",
   "fields": [
@@ -947,13 +947,13 @@
   "nom": false,
   "pt": "prize",
   "region": "International",
-  "s": "open",
+  "s": "watch",
   "src": "aas:8b7ef074",
   "stages": [
    "pd"
   ],
   "u": "https://www.asu.cas.cz/en/about/open-positions",
-  "unv": "asu.cas.cz could not be reached on Oct 21, 2026 (connection reset) and the AAS ad blocks automated access (HTTP 403); search results of the AAS ad match the Oct 23, 2026 deadline.",
+  "unv": "asu.cas.cz could not be reached on Oct 21 or Oct 24, 2026 (connection reset, HTTP 503) and the AAS ad blocks automated access (HTTP 403), so it is not known whether the call closed on Oct 23, 2026.",
   "us": false
  },
  {
@@ -6076,6 +6076,36 @@
   "us": false
  },
  {
+  "a": "2+1 years; start Fall 2027-Spring 2028; salary not listed",
+  "added": "2026-10-24",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-24",
+  "d": "2026-11-13",
+  "dt": "Expressions of interest and reference letters due 13 Nov 2026",
+  "e": "Expression of interest for a postdoc in Elisa Maggio's group testing general relativity with multiband gravitational-wave observations (data analysis, waveform modelling, horizonless compact objects, modified gravity). Requires a PhD (or near completion) in physics, astronomy or astrophysics.",
+  "f": "INFN Roma (Italian Fund for Science FIS Starting Grant Eyes-on-GR)",
+  "fields": [
+   "grav"
+  ],
+  "id": "infn-rome-maggio-gw-tests-gr-postdoc-eoi",
+  "n": "INFN Rome: Postdoc in GW tests of general relativity (Eyes-on-GR, Maggio group) - expression of interest",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:hyperspace-infn-rome-eyes-on-gr",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://hyperspace.uni-frankfurt.de/2026/10/23/expression-of-interest-for-postdoctoral-position-in-gw-tests-of-general-relativity-rome-italy/",
+  "unv": "This is an expression-of-interest call, not a formal INFN competition; no host-site ad found (submissions via Google Form). Salary and eligibility limits not stated.",
+  "us": false
+ },
+ {
   "a": "$87,000 to $91,000/yr (incl. health insurance)",
   "added": "2026-09-29",
   "c": "Fellowship",
@@ -7795,6 +7825,37 @@
   ],
   "u": "https://modal.com/academics",
   "unv": "The page now shows a sign-up form ('Sign up to hear about our grant programs'); cadence and eligibility not stated",
+  "us": false
+ },
+ {
+  "a": "AUD $86,195-$116,981 pa, Level A, plus 17% superannuation; 3-year fixed term; 2 positions",
+  "added": "2026-10-24",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-24",
+  "d": "2026-11-22",
+  "dt": "Applications close Sun 22 Nov 2026, 11:55pm AEDT; may close earlier once filled (interviews as strong applicants are identified)",
+  "e": "Two 3-year Research Fellow posts at the Monash node of OzGrav doing gravitational-wave astronomy, including LIGO and/or pulsar timing array data analysis, GW source astrophysics and tests of GR. Requires a PhD in astrophysics, physics, statistics or a related field; no citizenship restriction stated.",
+  "f": "Monash University / OzGrav ARC Centre of Excellence",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "monash-ozgrav-gw-discovery-research-fellows",
+  "n": "Monash University: Research Fellow, Gravitational Wave Discovery (OzGrav)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:monash-698908",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://careers.pageuppeople.com/513/cw/en/job/698908/research-fellow-gravitational-wave-discovery-ozgrav",
+  "unv": "Visa/work-rights requirements not stated in the ad.",
   "us": false
  },
  {
@@ -9742,9 +9803,9 @@
   "a": "3 yrs of support over 5: $37,000 stipend + $16,000 cost of education per year",
   "added": "2026-09-29",
   "c": "Fellowship",
-  "checked": "2026-10-21",
-  "d": "2026-10-23",
-  "dt": "Physics & Astronomy: Oct 23, 2026, 8 pm ET; reference letters by Oct 16, 2026",
+  "checked": "2026-10-24",
+  "d": null,
+  "dt": "Last deadline (Physics & Astronomy) Oct 23, 2026; the next cycle is not posted yet",
   "e": "College seniors, bachelor's degree holders not yet enrolled in a graduate program, and students in the first year of their first graduate program (graduate students can apply only once), for research-based degrees; US citizens, nationals or permanent residents.",
   "f": "NSF",
   "fields": [
@@ -9755,7 +9816,7 @@
   "nfit": "Low",
   "nom": false,
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "gr",
    "ug"
@@ -12182,6 +12243,37 @@
   "us": false
  },
  {
+  "a": "Salary commensurate; 2 years plus possible third; start Sep 1, 2027",
+  "added": "2026-10-24",
+  "asub": [
+   "he",
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-24",
+  "d": "2026-12-31",
+  "dt": "Posting closes Dec 31, 2026 (Workday)",
+  "e": "Postdoc in the phenomenology group (Dutta, Kelly, Strigari) on dark matter, neutrinos, gamma rays and new-physics searches with astroparticle and terrestrial data. Requires a PhD in physics.",
+  "f": "Texas A&M University",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "tamu-mitchell-pheno-postdoc-2027",
+  "n": "Texas A&M (Mitchell Institute): Postdoctoral Research Associate in Phenomenology",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3217911",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Postdoctoral-Research-Associate_R-098225-1",
+  "us": false
+ },
+ {
   "a": "competitive (comparable to US); flexible terms",
   "added": "2026-09-30",
   "asub": [
@@ -12843,6 +12935,36 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32144",
+  "us": false
+ },
+ {
+  "a": "2 years, possible extension; travel and computing funds included",
+  "added": "2026-10-24",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-24",
+  "d": "2026-11-27",
+  "dt": "Full consideration by Nov 27, 2026; search stays open until filled",
+  "e": "Multiple postdocs with Barry Wardell's Relativity group on small mass-ratio binaries and EMRI waveforms (self-force, BH perturbation theory, EMRI data analysis). Requires a PhD in theoretical physics or related field and prior GW source-modelling experience; start Jan-Sep 2027.",
+  "f": "University College Dublin (ERC Advanced Grant)",
+  "fields": [
+   "grav"
+  ],
+  "id": "ucd-emriwaveforms-erc-gw-postdocs",
+  "n": "University College Dublin: ERC-funded Postdocs in Gravitational-Wave Source Modelling (EMRIWaveforms)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3218289",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3218289",
+  "unv": "No UCD-hosted ad found; applications go through a Google form (https://forms.gle/VARZsnqbz4SeGM39A). Salary not listed.",
   "us": false
  },
  {

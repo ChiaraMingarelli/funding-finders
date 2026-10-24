@@ -2594,9 +2594,9 @@
    "ast"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-10-23",
-  "dt": "Oct 23, 2026, 12:00 noon CEST, by email with subject POSTDOC 2027; contact a supervisor at the institute before Oct 9, 2026",
+  "checked": "2026-10-24",
+  "d": null,
+  "dt": "Last deadline Oct 23, 2026, 12:00 noon CEST; whether the call is still open could not be checked",
   "e": "Galaxies, stars, compact objects, solar physics, GWs and interplanetary matter. Applicants must contact a staff sponsor before Oct 9.",
   "f": "Astronomical Institute of the Czech Academy of Sciences, Ondřejov/Prague; contact Lenka Čiháková",
   "fields": [
@@ -2609,13 +2609,13 @@
   "nom": false,
   "pt": "prize",
   "region": "International",
-  "s": "open",
+  "s": "watch",
   "src": "aas:8b7ef074",
   "stages": [
    "pd"
   ],
   "u": "https://www.asu.cas.cz/en/about/open-positions",
-  "unv": "asu.cas.cz could not be reached on Oct 21, 2026 (connection reset) and the AAS ad blocks automated access (HTTP 403); search results of the AAS ad match the Oct 23, 2026 deadline.",
+  "unv": "asu.cas.cz could not be reached on Oct 21 or Oct 24, 2026 (connection reset, HTTP 503) and the AAS ad blocks automated access (HTTP 403), so it is not known whether the call closed on Oct 23, 2026.",
   "us": false
  },
  {
@@ -5446,6 +5446,37 @@
    "tt"
   ],
   "u": "https://www.aei.mpg.de/1514289/the-center-of-gravity-exchange-of-researchers-working-on-gravitational-physics",
+  "us": false
+ },
+ {
+  "a": "not listed",
+  "added": "2026-10-24",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-24",
+  "d": null,
+  "dt": "Applications accepted until filled (INSPIRE lists Jan 7, 2027)",
+  "e": "Postdoc in the Nevis Labs ATLAS group on FEB2 LAr calorimeter readout boards for HL-LHC plus Run 3/Run 4 physics analysis (BSM searches, ML, entanglement), with time in New York and at CERN. Requires a PhD in experimental particle physics.",
+  "f": "Columbia University",
+  "fields": [
+   "ppx"
+  ],
+  "id": "columbia-nevis-atlas-postdoc",
+  "n": "Columbia University (Nevis Labs): ATLAS Postdoctoral Research Scientist",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "inspire:3217922",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3217922",
+  "unv": "No Columbia-hosted ad found; salary and term not listed.",
   "us": false
  },
  {
@@ -8878,6 +8909,35 @@
   ],
   "u": "https://euraxess.ec.europa.eu/jobs/470096",
   "unv": "EURAXESS blocked automated access (HTTP 403) on Oct 21, 2026; the Nov 15, 2026 deadline was confirmed on the CFT PAS jobs page (cft.edu.pl).",
+  "us": false
+ },
+ {
+  "a": "Tenure-track Assistant Professor; salary range $91,000-$95,000",
+  "added": "2026-10-24",
+  "aud": [
+   "ng"
+  ],
+  "c": "Faculty job",
+  "checked": "2026-10-24",
+  "d": "2026-12-03",
+  "dt": "Full consideration by Dec 3, 2026, 11:59 pm MST; open until filled",
+  "e": "CSU Physics (Fort Collins) is hiring a tenure-track assistant professor in theoretical and computational condensed matter physics. Requires a PhD in physics or a related field; visa sponsorship may be available for the selected finalist.",
+  "f": "Colorado State University, Department of Physics",
+  "fields": [
+   "cmt"
+  ],
+  "id": "fj-colorado-state-tt-asst-prof-theory-comp-cm-physics",
+  "n": "Colorado State University: Tenure-track Assistant Professor, Physics (theoretical/computational condensed matter)",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33224",
+  "stages": [
+   "fj"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33224",
+  "unv": "Host's own CSU careers URL for posting R2026108037 not confirmed; AJO link used. Start date not stated.",
   "us": false
  },
  {
@@ -13431,6 +13491,37 @@
   "us": false
  },
  {
+  "a": "2 years, possible third year; some teaching in the Section of Mathematics; start fall 2027",
+  "added": "2026-10-24",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-24",
+  "d": "2027-01-01",
+  "dt": "Preference to applications by Jan 1, 2027; later ones considered until filled",
+  "e": "Postdoc in Alba Grassi's group on the SNSF project 'Quantum Curves and Black Holes'. Applicants should have at most three years of postdoctoral experience at appointment.",
+  "f": "University of Geneva (SNSF Starting Grant)",
+  "fields": [
+   "ppt"
+  ],
+  "id": "geneva-grassi-quantum-curves-black-holes-postdoc",
+  "n": "University of Geneva: Postdoc in Mathematical Physics and Theoretical High-Energy Physics (Grassi group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3218307",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33221",
+  "unv": "Salary not listed. Same post is AJO #33221.",
+  "us": false
+ },
+ {
   "a": "Two years, extension possible; SNSF-funded; start Fall 2027 (negotiable); salary not listed",
   "added": "2026-10-12",
   "aud": [
@@ -17321,6 +17412,42 @@
   "us": false
  },
  {
+  "a": "2+1 years; start Fall 2027-Spring 2028; salary not listed",
+  "added": "2026-10-24",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-24",
+  "d": "2026-11-13",
+  "dt": "Expressions of interest and reference letters due 13 Nov 2026",
+  "e": "Expression of interest for a postdoc in Elisa Maggio's group testing general relativity with multiband gravitational-wave observations (data analysis, waveform modelling, horizonless compact objects, modified gravity). Requires a PhD (or near completion) in physics, astronomy or astrophysics.",
+  "f": "INFN Roma (Italian Fund for Science FIS Starting Grant Eyes-on-GR)",
+  "fields": [
+   "grav"
+  ],
+  "id": "infn-rome-maggio-gw-tests-gr-postdoc-eoi",
+  "n": "INFN Rome: Postdoc in GW tests of general relativity (Eyes-on-GR, Maggio group) - expression of interest",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:hyperspace-infn-rome-eyes-on-gr",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://hyperspace.uni-frankfurt.de/2026/10/23/expression-of-interest-for-postdoctoral-position-in-gw-tests-of-general-relativity-rome-italy/",
+  "unv": "This is an expression-of-interest call, not a formal INFN competition; no host-site ad found (submissions via Google Form). Salary and eligibility limits not stated.",
+  "us": false
+ },
+ {
   "a": "PLN 7,250 gross/month basic salary with a PhD (PLN 8,050 with habilitation)",
   "added": "2026-10-07",
   "aud": [
@@ -17924,6 +18051,37 @@
   "us": false
  },
  {
+  "a": "2 years, possible third year; start Fall 2027 or earlier",
+  "added": "2026-10-24",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-24",
+  "d": "2026-12-31",
+  "dt": "Priority to applications before Dec 31, 2026; INSPIRE lists Mar 31, 2027 as final deadline",
+  "e": "Postdoc with Atakan Hilmi Firat on the TUBITAK grant 'Canonical formalism for string field theory'. Position is subject to prior approval by TUBITAK and IZTECH; apply by email.",
+  "f": "Izmir Institute of Technology (TUBITAK 2232-B)",
+  "fields": [
+   "ppt"
+  ],
+  "id": "iztech-string-field-theory-postdoc",
+  "n": "Izmir Institute of Technology: Postdoc in String Field Theory",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3218240",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3218240",
+  "unv": "No host-hosted ad; salary not listed; funding approval pending.",
+  "us": false
+ },
+ {
   "a": "",
   "added": "2026-10-07",
   "aud": [
@@ -18479,6 +18637,37 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32950",
+  "us": false
+ },
+ {
+  "a": "2 years, possible extension to 3 subject to funding",
+  "added": "2026-10-24",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-24",
+  "d": "2026-12-04",
+  "dt": "Deadline Dec 4, 2026 (per INSPIRE); apply via KCL portal, job ID 161485",
+  "e": "Two STFC-funded research associate posts in the theoretical physics group of the Department of Mathematics; research may overlap any permanent member's area, including quantum field theory and gravity.",
+  "f": "King's College London (STFC)",
+  "fields": [
+   "ppt"
+  ],
+  "id": "kcl-stfc-theoretical-physics-research-associates",
+  "n": "King's College London: STFC Research Associates in Theoretical Physics (two posts)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3218306",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3218306",
+  "unv": "KCL job 161485 not yet found on kcl.ac.uk/jobs, so deadline and salary are from INSPIRE only; salary not listed.",
   "us": false
  },
  {
@@ -20941,35 +21130,6 @@
   "us": false
  },
  {
-  "a": "$73,308–$90,000/yr; up to 3 years",
-  "added": "2026-10-03",
-  "aud": [
-   "yale",
-   "ap"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-21",
-  "d": "2026-10-23",
-  "dt": "Due Oct 23, 2026 (AJO)",
-  "e": "One or more postdocs in theory of quantum materials and quantum many-body systems in MIT's condensed matter theory group; Pappalardo nominees are considered automatically.",
-  "f": "Massachusetts Institute of Technology, Department of Physics",
-  "fields": [
-   "cmt",
-   "qp"
-  ],
-  "id": "mit-cmt-postdoc-2027",
-  "n": "MIT Physics: Postdoc in Theoretical Quantum Condensed Matter",
-  "nom": false,
-  "pt": "group",
-  "s": "open",
-  "src": "ajo:32938",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32938",
-  "us": false
- },
- {
   "a": "not listed",
   "added": "2026-09-30",
   "asub": [
@@ -21245,37 +21405,6 @@
   "us": false
  },
  {
-  "a": "minimum $73,308 (FY26); 1 year, reappointment possible",
-  "added": "2026-09-30",
-  "aud": [
-   "yale",
-   "ap"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-10-21",
-  "d": "2026-10-23",
-  "dt": "Oct 23, 2026, 11:59:59 pm (time zone not stated on the ad)",
-  "e": "Interdisciplinary quantum science fellowship. PhD on/after Jan 1, 2025; start Jan 1-Sep 1, 2027.",
-  "f": "MIT School of Science, Quantum MIT initiative",
-  "fields": [
-   "qp",
-   "amo",
-   "cmx",
-   "cmt"
-  ],
-  "id": "mit-quantum-mit-qmit-postdoc-fellowship",
-  "n": "MIT: Quantum MIT (QMIT) Postdoc Fellowship",
-  "nom": false,
-  "pt": "prize",
-  "s": "open",
-  "src": "ajo:32537",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32537",
-  "us": false
- },
- {
   "a": "$88,000 stipend + $15,000 research + $5,000 relocation; 3 years",
   "added": "2026-09-30",
   "asub": [
@@ -21483,6 +21612,43 @@
   ],
   "u": "https://modal.com/academics",
   "unv": "The page now shows a sign-up form ('Sign up to hear about our grant programs'); cadence and eligibility not stated",
+  "us": false
+ },
+ {
+  "a": "AUD $86,195-$116,981 pa, Level A, plus 17% superannuation; 3-year fixed term; 2 positions",
+  "added": "2026-10-24",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-24",
+  "d": "2026-11-22",
+  "dt": "Applications close Sun 22 Nov 2026, 11:55pm AEDT; may close earlier once filled (interviews as strong applicants are identified)",
+  "e": "Two 3-year Research Fellow posts at the Monash node of OzGrav doing gravitational-wave astronomy, including LIGO and/or pulsar timing array data analysis, GW source astrophysics and tests of GR. Requires a PhD in astrophysics, physics, statistics or a related field; no citizenship restriction stated.",
+  "f": "Monash University / OzGrav ARC Centre of Excellence",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "monash-ozgrav-gw-discovery-research-fellows",
+  "n": "Monash University: Research Fellow, Gravitational Wave Discovery (OzGrav)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:monash-698908",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://careers.pageuppeople.com/513/cw/en/job/698908/research-fellow-gravitational-wave-discovery-ozgrav",
+  "unv": "Visa/work-rights requirements not stated in the ad.",
   "us": false
  },
  {
@@ -26408,9 +26574,9 @@
    "ast"
   ],
   "c": "Fellowship",
-  "checked": "2026-10-21",
-  "d": "2026-10-23",
-  "dt": "Physics & Astronomy: Oct 23, 2026, 8 pm ET; reference letters by Oct 16, 2026",
+  "checked": "2026-10-24",
+  "d": null,
+  "dt": "Last deadline (Physics & Astronomy) Oct 23, 2026; the next cycle is not posted yet",
   "e": "College seniors, bachelor's degree holders not yet enrolled in a graduate program, and students in the first year of their first graduate program (graduate students can apply only once), for research-based degrees; US citizens, nationals or permanent residents.",
   "f": "NSF",
   "fields": [
@@ -26421,7 +26587,7 @@
   "nfit": "Low",
   "nom": false,
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "gr",
    "ug"
@@ -30735,6 +30901,38 @@
   "us": false
  },
  {
+  "a": "EUR 55,399 salary plus EUR 5,000/yr research expenses; 2 years; at least 6 fellowships",
+  "added": "2026-10-24",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-24",
+  "d": "2027-01-06",
+  "dt": "Deadline 6 Jan 2027, 17:00 GMT",
+  "e": "Two-year fellowships where applicants propose their own project in a Rinn Quantum theme (foundations, networks, control/energetics, computation/simulation, quantum-HPC, society), hosted at TCD, UCD, Galway, UCC, Maynooth, MTU or SETU. Open to any nationality; PhD by 6 Jan 2027 and awarded on or after 5 Jan 2019.",
+  "f": "Rinn Quantum, Research Ireland Centre for Quantum Information Science and Technology",
+  "fields": [
+   "qp"
+  ],
+  "id": "rinn-quantum-postdoctoral-fellowships-2027",
+  "n": "Rinn Quantum (Research Ireland): Postdoctoral Fellowships 2027",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-rinn-quantum-2027",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.dropbox.com/scl/fi/7wyb4l11hzwb6mgjijfoq/Rinn_Quantum_Fellowships_2027_Call_Document.pdf?rlkey=jph406wftfn1vjysmk8mc9zuc&dl=0",
+  "unv": "No Rinn Quantum or TCD web page for the call was found; the URL is the call PDF on Dropbox, linked from the Quantiki post (quantiki.org/position/rinn-quantum-postdoctoral-fellowships-2027-ireland). Online application system not confirmed.",
+  "us": false
+ },
+ {
   "a": "Up to $110,000/yr for 5 years (Award in Pain: $50K/yr for 3 years)",
   "added": "2026-09-28",
   "aud": [
@@ -33183,6 +33381,42 @@
   "us": false
  },
  {
+  "a": "Salary commensurate; 2 years plus possible third; start Sep 1, 2027",
+  "added": "2026-10-24",
+  "asub": [
+   "he",
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-24",
+  "d": "2026-12-31",
+  "dt": "Posting closes Dec 31, 2026 (Workday)",
+  "e": "Postdoc in the phenomenology group (Dutta, Kelly, Strigari) on dark matter, neutrinos, gamma rays and new-physics searches with astroparticle and terrestrial data. Requires a PhD in physics.",
+  "f": "Texas A&M University",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "tamu-mitchell-pheno-postdoc-2027",
+  "n": "Texas A&M (Mitchell Institute): Postdoctoral Research Associate in Phenomenology",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3217911",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Postdoctoral-Research-Associate_R-098225-1",
+  "us": false
+ },
+ {
   "a": "competitive (comparable to US); flexible terms",
   "added": "2026-09-30",
   "asub": [
@@ -35033,6 +35267,42 @@
   "us": false
  },
  {
+  "a": "2 years, possible extension; travel and computing funds included",
+  "added": "2026-10-24",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-24",
+  "d": "2026-11-27",
+  "dt": "Full consideration by Nov 27, 2026; search stays open until filled",
+  "e": "Multiple postdocs with Barry Wardell's Relativity group on small mass-ratio binaries and EMRI waveforms (self-force, BH perturbation theory, EMRI data analysis). Requires a PhD in theoretical physics or related field and prior GW source-modelling experience; start Jan-Sep 2027.",
+  "f": "University College Dublin (ERC Advanced Grant)",
+  "fields": [
+   "grav"
+  ],
+  "id": "ucd-emriwaveforms-erc-gw-postdocs",
+  "n": "University College Dublin: ERC-funded Postdocs in Gravitational-Wave Source Modelling (EMRIWaveforms)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3218289",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3218289",
+  "unv": "No UCD-hosted ad found; applications go through a Google form (https://forms.gle/VARZsnqbz4SeGM39A). Salary not listed.",
+  "us": false
+ },
+ {
   "a": "$71,491-$74,140",
   "added": "2026-10-17",
   "asub": [
@@ -35428,6 +35698,39 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32888",
+  "us": false
+ },
+ {
+  "a": "not listed; 1-year term, renewable up to 3 years",
+  "added": "2026-10-24",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-24",
+  "d": null,
+  "dt": "Review continues until positions are filled; AJO listing runs to 2027-02-06; start on or after 1 Jan 2027",
+  "e": "Postdoc that combines research in a PME faculty group with teaching or co-teaching two required PME courses in one of three areas: Quantum, Materials and Sustainability, or Immunoengineering. Open to candidates whose PhD in engineering, physical or biological sciences, CS, math or a related field falls within 5 years of the start date. Applications go through Interfolio (196192).",
+  "f": "University of Chicago, Pritzker School of Molecular Engineering",
+  "fields": [
+   "qp",
+   "mat",
+   "bio"
+  ],
+  "id": "uchicago-pme-postdoc-researcher-instructor-2027",
+  "n": "University of Chicago Pritzker School of Molecular Engineering: Postdoctoral Researchers/Instructors in Molecular Engineering",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "ajo:33201",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33201",
+  "unv": "Salary not stated. Interfolio page (https://apply.interfolio.com/196192) would not render, so its open and close dates were not checked.",
   "us": false
  },
  {
@@ -35842,6 +36145,38 @@
   ],
   "u": "https://inspirehep.net/jobs/3211690",
   "unv": "Eligibility and salary depend on each fellowship call; the regional Margalida Comas and Vicenç Mut calls had not opened yet.",
+  "us": false
+ },
+ {
+  "a": "$64,104; 1 year from Aug 2027, extendable to 2nd and 3rd year",
+  "added": "2026-10-24",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-24",
+  "d": "2026-12-01",
+  "dt": "Review begins Dec 1, 2026; continues until filled",
+  "e": "Postdoc with Yannick Meurice's group, funded through the HEP-QIS Quantum Outposts, on quantum computation/simulation of lattice gauge theories. Requires a PhD in theoretical/computational physics or related field by appointment.",
+  "f": "University of Iowa",
+  "fields": [
+   "ppt",
+   "qp"
+  ],
+  "id": "uiowa-hep-qis-lattice-quantum-sim-postdoc",
+  "n": "University of Iowa: Postdoc in Quantum Simulation of Lattice Gauge Theory (HEP-QIS)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3217910",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.uiowa.edu/postdoc/view/4699",
   "us": false
  },
  {
@@ -38183,9 +38518,9 @@
    "ap"
   ],
   "c": "Yale internal",
-  "checked": "2026-10-21",
-  "d": "2026-10-23",
-  "dt": "Fall Development Awards close Oct 23, 2026, 11:59 pm",
+  "checked": "2026-10-24",
+  "d": null,
+  "dt": "Last deadline (Fall Development Awards) Oct 23, 2026; the next call is not posted yet",
   "e": "Funding to turn early-stage Yale life-science research (therapeutics, diagnostics, devices) toward commercial use. Digital health projects go to HealthTech Works instead.",
   "f": "Yale Ventures",
   "fields": [
@@ -38194,7 +38529,7 @@
   "id": "yale-blavatnik-fund-innovation",
   "n": "Yale Ventures: Blavatnik Fund for Innovation at Yale (Fall Development Awards)",
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "src": "other:yale-ventures",
   "stages": [
    "tt",

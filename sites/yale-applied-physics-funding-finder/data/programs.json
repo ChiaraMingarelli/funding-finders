@@ -7392,31 +7392,6 @@
   "us": false
  },
  {
-  "a": "$73,308–$90,000/yr; up to 3 years",
-  "added": "2026-10-03",
-  "c": "Group postdoc",
-  "checked": "2026-10-21",
-  "d": "2026-10-23",
-  "dt": "Due Oct 23, 2026 (AJO)",
-  "e": "One or more postdocs in theory of quantum materials and quantum many-body systems in MIT's condensed matter theory group; Pappalardo nominees are considered automatically.",
-  "f": "Massachusetts Institute of Technology, Department of Physics",
-  "fields": [
-   "cmt",
-   "qp"
-  ],
-  "id": "mit-cmt-postdoc-2027",
-  "n": "MIT Physics: Postdoc in Theoretical Quantum Condensed Matter",
-  "nom": false,
-  "pt": "group",
-  "s": "open",
-  "src": "ajo:32938",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32938",
-  "us": false
- },
- {
   "a": "not listed",
   "added": "2026-09-30",
   "asub": [
@@ -7504,33 +7479,6 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32745",
-  "us": false
- },
- {
-  "a": "minimum $73,308 (FY26); 1 year, reappointment possible",
-  "added": "2026-09-30",
-  "c": "Fellowship",
-  "checked": "2026-10-21",
-  "d": "2026-10-23",
-  "dt": "Oct 23, 2026, 11:59:59 pm (time zone not stated on the ad)",
-  "e": "Interdisciplinary quantum science fellowship. PhD on/after Jan 1, 2025; start Jan 1-Sep 1, 2027.",
-  "f": "MIT School of Science, Quantum MIT initiative",
-  "fields": [
-   "qp",
-   "amo",
-   "cmx",
-   "cmt"
-  ],
-  "id": "mit-quantum-mit-qmit-postdoc-fellowship",
-  "n": "MIT: Quantum MIT (QMIT) Postdoc Fellowship",
-  "nom": false,
-  "pt": "prize",
-  "s": "open",
-  "src": "ajo:32537",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32537",
   "us": false
  },
  {
@@ -9897,9 +9845,9 @@
   "a": "3 yrs of support over 5: $37,000 stipend + $16,000 cost of education per year",
   "added": "2026-09-29",
   "c": "Fellowship",
-  "checked": "2026-10-21",
-  "d": "2026-10-23",
-  "dt": "Physics & Astronomy: Oct 23, 2026, 8 pm ET; reference letters by Oct 16, 2026",
+  "checked": "2026-10-24",
+  "d": null,
+  "dt": "Last deadline (Physics & Astronomy) Oct 23, 2026; the next cycle is not posted yet",
   "e": "College seniors, bachelor's degree holders not yet enrolled in a graduate program, and students in the first year of their first graduate program (graduate students can apply only once), for research-based degrees; US citizens, nationals or permanent residents.",
   "f": "NSF",
   "fields": [
@@ -9910,7 +9858,7 @@
   "nfit": "Low",
   "nom": false,
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "gr",
    "ug"
@@ -12438,6 +12386,33 @@
   "us": false
  },
  {
+  "a": "EUR 55,399 salary plus EUR 5,000/yr research expenses; 2 years; at least 6 fellowships",
+  "added": "2026-10-24",
+  "c": "Fellowship",
+  "checked": "2026-10-24",
+  "d": "2027-01-06",
+  "dt": "Deadline 6 Jan 2027, 17:00 GMT",
+  "e": "Two-year fellowships where applicants propose their own project in a Rinn Quantum theme (foundations, networks, control/energetics, computation/simulation, quantum-HPC, society), hosted at TCD, UCD, Galway, UCC, Maynooth, MTU or SETU. Open to any nationality; PhD by 6 Jan 2027 and awarded on or after 5 Jan 2019.",
+  "f": "Rinn Quantum, Research Ireland Centre for Quantum Information Science and Technology",
+  "fields": [
+   "qp"
+  ],
+  "id": "rinn-quantum-postdoctoral-fellowships-2027",
+  "n": "Rinn Quantum (Research Ireland): Postdoctoral Fellowships 2027",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-rinn-quantum-2027",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.dropbox.com/scl/fi/7wyb4l11hzwb6mgjijfoq/Rinn_Quantum_Fellowships_2027_Call_Document.pdf?rlkey=jph406wftfn1vjysmk8mc9zuc&dl=0",
+  "unv": "No Rinn Quantum or TCD web page for the call was found; the URL is the call PDF on Dropbox, linked from the Quantiki post (quantiki.org/position/rinn-quantum-postdoctoral-fellowships-2027-ireland). Online application system not confirmed.",
+  "us": false
+ },
+ {
   "a": "Up to $110,000/yr for 5 years (Award in Pain: $50K/yr for 3 years)",
   "added": "2026-09-28",
   "c": "Foundation",
@@ -14559,6 +14534,35 @@
   "us": false
  },
  {
+  "a": "not listed; 1-year term, renewable up to 3 years",
+  "added": "2026-10-24",
+  "c": "Group postdoc",
+  "checked": "2026-10-24",
+  "d": null,
+  "dt": "Review continues until positions are filled; AJO listing runs to 2027-02-06; start on or after 1 Jan 2027",
+  "e": "Postdoc that combines research in a PME faculty group with teaching or co-teaching two required PME courses in one of three areas: Quantum, Materials and Sustainability, or Immunoengineering. Open to candidates whose PhD in engineering, physical or biological sciences, CS, math or a related field falls within 5 years of the start date. Applications go through Interfolio (196192).",
+  "f": "University of Chicago, Pritzker School of Molecular Engineering",
+  "fields": [
+   "qp",
+   "mat",
+   "bio"
+  ],
+  "id": "uchicago-pme-postdoc-researcher-instructor-2027",
+  "n": "University of Chicago Pritzker School of Molecular Engineering: Postdoctoral Researchers/Instructors in Molecular Engineering",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "ajo:33201",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33201",
+  "unv": "Salary not stated. Interfolio page (https://apply.interfolio.com/196192) would not render, so its open and close dates were not checked.",
+  "us": false
+ },
+ {
   "a": "3 years; competitive salary plus dedicated research funds",
   "added": "2026-09-28",
   "c": "Fellowship",
@@ -14663,6 +14667,33 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33118",
   "unv": "Separate from the catalogued UCSD HEP-theory postdoc ajo:33050.",
+  "us": false
+ },
+ {
+  "a": "$64,104; 1 year from Aug 2027, extendable to 2nd and 3rd year",
+  "added": "2026-10-24",
+  "c": "Group postdoc",
+  "checked": "2026-10-24",
+  "d": "2026-12-01",
+  "dt": "Review begins Dec 1, 2026; continues until filled",
+  "e": "Postdoc with Yannick Meurice's group, funded through the HEP-QIS Quantum Outposts, on quantum computation/simulation of lattice gauge theories. Requires a PhD in theoretical/computational physics or related field by appointment.",
+  "f": "University of Iowa",
+  "fields": [
+   "ppt",
+   "qp"
+  ],
+  "id": "uiowa-hep-qis-lattice-quantum-sim-postdoc",
+  "n": "University of Iowa: Postdoc in Quantum Simulation of Lattice Gauge Theory (HEP-QIS)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3217910",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.uiowa.edu/postdoc/view/4699",
   "us": false
  },
  {
@@ -15431,9 +15462,9 @@
   "a": "not listed per award ($3.4M across 23 awards in 2025)",
   "added": "2026-10-03",
   "c": "Yale internal",
-  "checked": "2026-10-21",
-  "d": "2026-10-23",
-  "dt": "Fall Development Awards close Oct 23, 2026, 11:59 pm",
+  "checked": "2026-10-24",
+  "d": null,
+  "dt": "Last deadline (Fall Development Awards) Oct 23, 2026; the next call is not posted yet",
   "e": "Funding to turn early-stage Yale life-science research (therapeutics, diagnostics, devices) toward commercial use. Digital health projects go to HealthTech Works instead.",
   "f": "Yale Ventures",
   "fields": [
@@ -15442,7 +15473,7 @@
   "id": "yale-blavatnik-fund-innovation",
   "n": "Yale Ventures: Blavatnik Fund for Innovation at Yale (Fall Development Awards)",
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "src": "other:yale-ventures",
   "stages": [
    "tt",
