@@ -1,0 +1,31 @@
+{
+ "a": "2 years, possible extension to 3 subject to funding",
+ "added": "2026-10-24",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-24",
+ "d": "2026-12-04",
+ "dt": "Deadline Dec 4, 2026 (per INSPIRE); apply via KCL portal, job ID 161485",
+ "e": "Two STFC-funded research associate posts in the theoretical physics group of the Department of Mathematics; research may overlap any permanent member's area, including quantum field theory and gravity.",
+ "f": "King's College London (STFC)",
+ "fields": [
+  "ppt"
+ ],
+ "id": "kcl-stfc-theoretical-physics-research-associates",
+ "n": "King's College London: STFC Research Associates in Theoretical Physics (two posts)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3218306",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3218306",
+ "unv": "KCL job 161485 not yet found on kcl.ac.uk/jobs, so deadline and salary are from INSPIRE only; salary not listed.",
+ "us": false
+}

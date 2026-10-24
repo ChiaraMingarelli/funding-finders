@@ -14,9 +14,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-12",
- "d": "2026-10-23",
- "dt": "Oct 23, 2026, 12:00 noon CEST, by email with subject POSTDOC 2027; contact a supervisor at the institute before Oct 9, 2026",
+ "checked": "2026-10-24",
+ "d": null,
+ "dt": "Last deadline Oct 23, 2026, 12:00 noon CEST; whether the call is still open could not be checked",
  "e": "Galaxies, stars, compact objects, solar physics, GWs and interplanetary matter. Applicants must contact a staff sponsor before Oct 9.",
  "f": "Astronomical Institute of the Czech Academy of Sciences, Ondřejov/Prague; contact Lenka Čiháková",
  "fields": [
@@ -29,12 +29,12 @@
  "nom": false,
  "pt": "prize",
  "region": "International",
- "s": "open",
+ "s": "watch",
  "src": "aas:8b7ef074",
  "stages": [
   "pd"
  ],
  "u": "https://www.asu.cas.cz/en/about/open-positions",
- "unv": "asu.cas.cz could not be reached on Oct 21, 2026 (connection reset) and the AAS ad blocks automated access (HTTP 403); search results of the AAS ad match the Oct 23, 2026 deadline.",
+ "unv": "asu.cas.cz could not be reached on Oct 21 or Oct 24, 2026 (connection reset, HTTP 503) and the AAS ad blocks automated access (HTTP 403), so it is not known whether the call closed on Oct 23, 2026.",
  "us": false
 }

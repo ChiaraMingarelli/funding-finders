@@ -1,0 +1,31 @@
+{
+ "a": "not listed",
+ "added": "2026-10-24",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-24",
+ "d": null,
+ "dt": "Applications accepted until filled (INSPIRE lists Jan 7, 2027)",
+ "e": "Postdoc in the Nevis Labs ATLAS group on FEB2 LAr calorimeter readout boards for HL-LHC plus Run 3/Run 4 physics analysis (BSM searches, ML, entanglement), with time in New York and at CERN. Requires a PhD in experimental particle physics.",
+ "f": "Columbia University",
+ "fields": [
+  "ppx"
+ ],
+ "id": "columbia-nevis-atlas-postdoc",
+ "n": "Columbia University (Nevis Labs): ATLAS Postdoctoral Research Scientist",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "inspire:3217922",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3217922",
+ "unv": "No Columbia-hosted ad found; salary and term not listed.",
+ "us": false
+}

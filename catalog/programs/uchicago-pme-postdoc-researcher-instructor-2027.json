@@ -1,0 +1,33 @@
+{
+ "a": "not listed; 1-year term, renewable up to 3 years",
+ "added": "2026-10-24",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-24",
+ "d": null,
+ "dt": "Review continues until positions are filled; AJO listing runs to 2027-02-06; start on or after 1 Jan 2027",
+ "e": "Postdoc that combines research in a PME faculty group with teaching or co-teaching two required PME courses in one of three areas: Quantum, Materials and Sustainability, or Immunoengineering. Open to candidates whose PhD in engineering, physical or biological sciences, CS, math or a related field falls within 5 years of the start date. Applications go through Interfolio (196192).",
+ "f": "University of Chicago, Pritzker School of Molecular Engineering",
+ "fields": [
+  "qp",
+  "mat",
+  "bio"
+ ],
+ "id": "uchicago-pme-postdoc-researcher-instructor-2027",
+ "n": "University of Chicago Pritzker School of Molecular Engineering: Postdoctoral Researchers/Instructors in Molecular Engineering",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "ajo:33201",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33201",
+ "unv": "Salary not stated. Interfolio page (https://apply.interfolio.com/196192) would not render, so its open and close dates were not checked.",
+ "us": false
+}

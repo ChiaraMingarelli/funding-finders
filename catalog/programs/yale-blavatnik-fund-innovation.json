@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Yale internal",
- "checked": "2026-10-21",
- "d": "2026-10-23",
- "dt": "Fall Development Awards close Oct 23, 2026, 11:59 pm",
+ "checked": "2026-10-24",
+ "d": null,
+ "dt": "Last deadline (Fall Development Awards) Oct 23, 2026; the next call is not posted yet",
  "e": "Funding to turn early-stage Yale life-science research (therapeutics, diagnostics, devices) toward commercial use. Digital health projects go to HealthTech Works instead.",
  "f": "Yale Ventures",
  "fields": [
@@ -17,7 +17,7 @@
  "id": "yale-blavatnik-fund-innovation",
  "n": "Yale Ventures: Blavatnik Fund for Innovation at Yale (Fall Development Awards)",
  "nom": false,
- "s": "open",
+ "s": "watch",
  "src": "other:yale-ventures",
  "stages": [
   "tt",

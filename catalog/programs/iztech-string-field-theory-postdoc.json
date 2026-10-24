@@ -1,0 +1,31 @@
+{
+ "a": "2 years, possible third year; start Fall 2027 or earlier",
+ "added": "2026-10-24",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-24",
+ "d": "2026-12-31",
+ "dt": "Priority to applications before Dec 31, 2026; INSPIRE lists Mar 31, 2027 as final deadline",
+ "e": "Postdoc with Atakan Hilmi Firat on the TUBITAK grant 'Canonical formalism for string field theory'. Position is subject to prior approval by TUBITAK and IZTECH; apply by email.",
+ "f": "Izmir Institute of Technology (TUBITAK 2232-B)",
+ "fields": [
+  "ppt"
+ ],
+ "id": "iztech-string-field-theory-postdoc",
+ "n": "Izmir Institute of Technology: Postdoc in String Field Theory",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3218240",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3218240",
+ "unv": "No host-hosted ad; salary not listed; funding approval pending.",
+ "us": false
+}

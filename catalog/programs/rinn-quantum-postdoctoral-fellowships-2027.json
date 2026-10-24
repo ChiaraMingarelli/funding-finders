@@ -1,0 +1,32 @@
+{
+ "a": "EUR 55,399 salary plus EUR 5,000/yr research expenses; 2 years; at least 6 fellowships",
+ "added": "2026-10-24",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-24",
+ "d": "2027-01-06",
+ "dt": "Deadline 6 Jan 2027, 17:00 GMT",
+ "e": "Two-year fellowships where applicants propose their own project in a Rinn Quantum theme (foundations, networks, control/energetics, computation/simulation, quantum-HPC, society), hosted at TCD, UCD, Galway, UCC, Maynooth, MTU or SETU. Open to any nationality; PhD by 6 Jan 2027 and awarded on or after 5 Jan 2019.",
+ "f": "Rinn Quantum, Research Ireland Centre for Quantum Information Science and Technology",
+ "fields": [
+  "qp"
+ ],
+ "id": "rinn-quantum-postdoctoral-fellowships-2027",
+ "n": "Rinn Quantum (Research Ireland): Postdoctoral Fellowships 2027",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "other:quantiki-rinn-quantum-2027",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.dropbox.com/scl/fi/7wyb4l11hzwb6mgjijfoq/Rinn_Quantum_Fellowships_2027_Call_Document.pdf?rlkey=jph406wftfn1vjysmk8mc9zuc&dl=0",
+ "unv": "No Rinn Quantum or TCD web page for the call was found; the URL is the call PDF on Dropbox, linked from the Quantiki post (quantiki.org/position/rinn-quantum-postdoctoral-fellowships-2027-ireland). Online application system not confirmed.",
+ "us": false
+}
