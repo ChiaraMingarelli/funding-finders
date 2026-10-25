@@ -1,0 +1,33 @@
+{
+ "a": "Two-year initial appointment, renewed annually, possible third year; starts Fall 2027",
+ "added": "2026-10-25",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-25",
+ "d": "2026-12-15",
+ "dt": "AJO deadline Dec 15, 2026; review begins Dec 15, 2026, open until filled",
+ "e": "Postdoc in Prof. Haining Pan's group in UF Physics on numerical and theoretical quantum information and condensed matter (quantum computing, AI-accelerated quantum simulation, quantum machine learning, topological quantum materials). Requires a PhD in physics, computer science or a related area; no citizenship limits stated.",
+ "f": "University of Florida",
+ "fields": [
+  "qp",
+  "cmt"
+ ],
+ "id": "uf-pan-quantum-info-theory-postdoc-2027",
+ "n": "University of Florida: Postdoctoral Associate in Theoretical and Computational Quantum Information (Pan group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33229",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33229",
+ "unv": "Salary not stated.",
+ "us": false
+}
