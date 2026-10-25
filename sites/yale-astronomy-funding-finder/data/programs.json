@@ -13135,8 +13135,8 @@
   "added": "2026-09-30",
   "c": "Fellowship",
   "checked": "2026-10-12",
-  "d": "2026-10-24",
-  "dt": "Nominations due Oct 24, 2026 (self-nominations not allowed); invited full applications due Dec 15, 2026",
+  "d": "2026-10-31",
+  "dt": "Nominations due Oct 31, 2026 (extended from Oct 24; self-nominations not allowed); invited full applications due Dec 15, 2026",
   "e": "Nomination-based fellowship in physics, astronomy, chemistry and biochemistry, with research in a participating UCLA faculty member's lab. Candidates need a PhD conferred between Sept 2024 and Aug 2027 and must be a US citizen, permanent resident or J-1 visa eligible.",
   "f": "UCLA Division of Physical Sciences",
   "fields": [
@@ -13156,7 +13156,7 @@
    "pd"
   ],
   "u": "https://physicalsciences.ucla.edu/bhaumik-prize-postdoctoral-fellows-program/",
-  "unv": "The official page also gives Oct 31, 2026 in its nomination instructions; the overview and nomination form say Oct 24, 2026. The official page could not be reached on Oct 21, 2026 (connection reset, HTTP 503); INSPIRE 3204681 still lists Oct 24, 2026.",
+  "unv": "The page header says \"Deadline Extended to 10/31/26\" and the nomination instructions give Oct 31, 2026; the overview text still says Oct 24, 2026.",
   "us": false
  },
  {
