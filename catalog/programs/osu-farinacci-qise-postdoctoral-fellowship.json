@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-22",
- "d": null,
- "dt": "No deadline stated on the posting",
+ "checked": "2026-10-26",
+ "d": "2026-10-31",
+ "dt": "Workday posting end date Oct 31, 2026; the ad itself states no deadline",
  "e": "A named postdoctoral fellowship hosted by OSU's CQISE, mentored by CQISE-affiliated faculty, in quantum computing, algorithms, simulation, networks or sensing (theory or experiment). Requires a PhD in physics, EE, CS, chemistry or a related field and QIS research experience.",
  "f": "The Ohio State University, Department of Physics / Center for Quantum Information Science and Engineering (CQISE)",
  "fields": [
@@ -20,12 +20,12 @@
  "nom": false,
  "pt": "prize",
  "region": "US",
- "s": "rolling",
+ "s": "open",
  "src": "other:osu-R151630",
  "stages": [
   "pd"
  ],
  "u": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar_R151630-2",
- "unv": "Deadline, salary, term and start date not stated; Workday shows the posting started Sep 11, 2026",
+ "unv": "The Oct 31, 2026 close date comes from Workday posting metadata, not the ad text; salary, term and start date not stated.",
  "us": false
 }

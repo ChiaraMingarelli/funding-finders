@@ -29,6 +29,6 @@
   "gr"
  ],
  "u": "https://www.bnl.gov/nsls2/userguide/",
- "unv": "ALS takes no new general user proposals in 2027 ahead of its ALS-U dark period (from Oct 2027 at the earliest).",
+ "unv": "bnl.gov could not be read on Oct 26, 2026 (TLS certificate error, HTTP 503), so the 2027-2 date is kept from the Oct 21, 2026 check. ALS takes no new general user proposals in 2027 ahead of its ALS-U dark period (from Oct 2027 at the earliest).",
  "us": false
 }

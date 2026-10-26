@@ -1,5 +1,5 @@
 {
- "a": "Small exploratory allocations",
+ "a": "3-month allocations on one resource, e.g. up to 2,000 GPU-hours",
  "added": "2026-09-29",
  "aud": [
   "yale",
@@ -9,9 +9,9 @@
   "ast"
  ],
  "c": "Compute",
- "checked": "2026-10-21",
+ "checked": "2026-10-26",
  "d": null,
- "dt": "Rolling",
+ "dt": "Rolling; open for submission when resources have capacity",
  "e": "US-based researchers.",
  "f": "NSF-led NAIRR Pilot",
  "fields": [

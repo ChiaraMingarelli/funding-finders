@@ -30,6 +30,6 @@
   "pd"
  ],
  "u": "https://heasarc.gsfc.nasa.gov/docs/tess/proposing.html",
- "unv": "Time of day for the deadline not checked on NSPIRES; official TESS proposing page not rechecked after the amendment",
+ "unv": "Time of day for the deadline not checked on NSPIRES; NASA's ROSES-25 Amendment 80 notice confirms the Jan 28, 2027 Phase-1 due date. heasarc.gsfc.nasa.gov could not be reached on Oct 26, 2026 (TLS certificate error, then HTTP 503), so the page was not rechecked.",
  "us": false
 }

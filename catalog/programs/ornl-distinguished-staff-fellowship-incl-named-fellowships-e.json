@@ -27,6 +27,6 @@
   "pd"
  ],
  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Distinguished-Staff-Fellowship-Program-TN-37830/1424893900/",
- "unv": "Window and deadline confirmed on the ORNL job posting (requisition 17022) on Oct 8, 2026. The program page ornl.gov/careers/distinguished-fellowships blocked automated access, so the note about three cycles a year was not reconfirmed. ORNL jobs site unreachable on Oct 21, 2026 (TLS error / HTTP 503), so the posting was not rechecked.",
+ "unv": "Window and deadline confirmed on the ORNL job posting (requisition 17022) on Oct 8, 2026. The program page ornl.gov/careers/distinguished-fellowships blocked automated access (HTTP 403, also on Oct 26, 2026), so the note about three cycles a year was not reconfirmed. ORNL jobs site unreachable on Oct 21 and Oct 26, 2026 (TLS error / HTTP 503), so the posting was not rechecked.",
  "us": false
 }

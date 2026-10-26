@@ -1,14 +1,14 @@
 {
- "a": "Hub-scale awards; size not stated on the page.",
+ "a": "Five-year hub awards that pay postdoctoral researchers and hub activities (travel, meetings, workshops), not PI or student salaries; NSF expects one hub per topic. Dollar size not stated.",
  "added": "2026-09-28",
  "aud": [
   "yale",
   "ast"
  ],
  "c": "Federal grant",
- "checked": "2026-10-21",
+ "checked": "2026-10-26",
  "d": null,
- "dt": "Full proposal accepted anytime under NSF 26-523.",
+ "dt": "No topic is open: the program page (updated Aug 14, 2026) lists \"FRHTP topic and PHY program accepting proposals: None\". Proposals are accepted only in topics NSF posts there, under NSF 26-523.",
  "e": "Multi-investigator theory groups at US institutions.",
  "f": "NSF MPS/PHY (NSF 26-523)",
  "fields": [
@@ -25,12 +25,12 @@
   }
  ],
  "nom": false,
- "s": "rolling",
+ "s": "watch",
  "stages": [
   "tt",
   "ten"
  ],
  "u": "https://www.nsf.gov/funding/opportunities/frhtp-focused-research-hubs-theoretical-physics",
- "unv": "Award size and number not confirmed",
+ "unv": "Dollar size of awards not stated on the program page.",
  "us": false
 }

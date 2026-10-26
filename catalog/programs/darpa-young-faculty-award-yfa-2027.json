@@ -1,5 +1,5 @@
 {
- "a": "Up to $500K over 24-month base plus an optional 12-month $500K (Director's Fellowship)",
+ "a": "Up to $500K over a 24-month base period, plus an optional 12-month Director's Fellowship of up to $500K and an optional US-citizen graduate student add-on of up to $225K (at most $1.225M per award)",
  "added": "2026-09-28",
  "aud": [
   "yale",
@@ -7,10 +7,10 @@
   "ast"
  ],
  "c": "Federal grant",
- "checked": "2026-10-21",
+ "checked": "2026-10-26",
  "d": "2026-11-05",
- "dt": "YFA 2027 research announcement DARPARA2701 posted Oct 20, 2026: executive summaries due Nov 5, 2026; question submittal closes Jan 5, 2027; full proposals due Jan 13, 2027 (4:00 pm ET per SAM.gov)",
- "e": "Current tenure-track assistant or associate professors, or tenured faculty within 3 years of tenure date, at US institutions. OPEN to US citizens, permanent residents AND foreign nationals. Excluded if prior DARPA funding exceeds $500K (or all DoD funding exceeds $1.25M).",
+ "dt": "YFA 2027 research announcement DARPARA2701 posted Oct 20, 2026: executive summaries due Nov 5, 2026, 4:00 pm ET; questions close Jan 5, 2027; full proposals due Jan 13, 2027, 4:00 pm ET",
+ "e": "Current tenure-track faculty, tenured faculty within 3 years of their tenure date, or the equivalent at a non-profit research institution within 12 years of the doctorate; all personnel must be employed at a US institution. Foreign nationals may apply, but citizens of China, Cuba, Iran, North Korea, Russia and Venezuela cannot be key or senior personnel; PIs with more than $500K in prior DARPA funding (or $1.25M from all DoW sources) are excluded.",
  "f": "DARPA",
  "fields": [
   "all",
@@ -34,6 +34,5 @@
   "ten"
  ],
  "u": "https://www.darpa.mil/work-with-us/communities/academia/young-faculty-award",
- "unv": "The full YFA 2027 announcement (an attachment on SAM.gov) was not read, so the award amounts and eligibility in this row are still from YFA 2026. Times for the Nov 5 executive summary deadline not confirmed.",
  "us": false
 }

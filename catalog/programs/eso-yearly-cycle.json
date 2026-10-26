@@ -6,7 +6,7 @@
   "ast"
  ],
  "c": "Observing time",
- "checked": "2026-10-12",
+ "checked": "2026-10-26",
  "d": null,
  "dt": "P118 closed 22 Sep 2026, 12:00 CEST; ESO says the next call will be released in July 2027",
  "e": "ESO's once-a-year call. Open to scientists worldwide, but non-member-state PIs face extra scrutiny and limited time.",
@@ -28,6 +28,6 @@
   "gr"
  ],
  "u": "https://www.eso.org/sci/observing/phase1.html",
- "unv": "Next deadline; non-member PI rules and student PI not re-checked this cycle. ESO websites were down for a system upgrade (HTTP 503) on Oct 21, 2026; not rechecked.",
+ "unv": "Next deadline not posted. Non-member-state proposals are accepted and ranked on merit (P118 CfP sec. 5.3.2), with preference to member-state proposals rated equally; student PI rules not checked.",
  "us": false
 }

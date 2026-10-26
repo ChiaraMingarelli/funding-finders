@@ -7,9 +7,9 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-21",
+ "checked": "2026-10-26",
  "d": "2026-10-26",
- "dt": "Priority consideration by Oct 26, 2026; accepted until posting removed",
+ "dt": "Priority consideration by Oct 26, 2026; applications accepted until the posting is removed",
  "e": "Two-year theory and computation postdoc at the Molecular Foundry modeling X-ray interactions with quantum and nanostructured materials (electronic structure, magnetism, light-matter interactions, structured/topological fields). Requires a PhD in physics, applied math or related field and fewer than 3 years of paid postdoc experience.",
  "f": "Lawrence Berkeley National Laboratory",
  "fields": [
@@ -23,7 +23,7 @@
  "nom": false,
  "pt": "group",
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "other:lbnl-7631",
  "stages": [
   "pd"

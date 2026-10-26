@@ -14,8 +14,8 @@
  ],
  "c": "Fellowship",
  "checked": "2026-09-30",
- "d": "2026-10-25",
- "dt": "Oct 25, 2026",
+ "d": null,
+ "dt": "Last deadline Oct 25, 2026 (full consideration); the next yearly call is not posted yet",
  "e": "Cosmology, structure formation and extragalactic transients. Requires a PhD plus first postdoc experience or exceptional independence.",
  "f": "LMU Munich, University Observatory; contact Daniel Grün",
  "fields": [
@@ -27,12 +27,12 @@
  "nom": false,
  "pt": "prize",
  "region": "International",
- "s": "open",
+ "s": "watch",
  "src": "aas:06255dfe",
  "stages": [
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/06255dfe",
- "unv": "The AAS Job Register blocked automated access (HTTP 403) again on Oct 21, 2026, so the deadline and details were not reconfirmed. Search copies of the ad give Oct 25, 2026 for full consideration; the LMU Observatory page says the yearly call closes toward the end of October.",
+ "unv": "The AAS Job Register ad blocked automated access (HTTP 403) on Oct 21 and Oct 26, 2026, so it is not known whether late applications are still accepted. The LMU Observatory page says the call opens around September each year and closes toward the end of October.",
  "us": false
 }

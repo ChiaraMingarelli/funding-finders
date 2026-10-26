@@ -1,7 +1,10 @@
 {
  "a": "XRISM Resolve/Xtend time; NASA funding for US investigators",
  "added": "2026-10-03",
- "asub": [],
+ "asub": [
+  "he",
+  "xgal"
+ ],
  "aud": [
   "ast"
  ],
@@ -27,6 +30,6 @@
   "pd"
  ],
  "u": "https://heasarc.gsfc.nasa.gov/docs/xrism/proposals/",
- "unv": "Cycle 4 dates",
+ "unv": "Cycle 4 dates not posted (a web search on Oct 26, 2026 found no Cycle 4 call). heasarc.gsfc.nasa.gov could not be reached on Oct 26, 2026 (TLS certificate error, then HTTP 503).",
  "us": false
 }

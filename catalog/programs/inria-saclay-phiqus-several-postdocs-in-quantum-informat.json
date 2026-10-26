@@ -1,12 +1,12 @@
 {
- "a": "not listed (ERC StG QINF and QuantERA funding)",
+ "a": "Remuneration according to profile; 1-3 years (QuantERA COMPUTE and Quantum Network Algorithms grants)",
  "added": "2026-09-30",
  "aud": [
   "yale",
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-12",
+ "checked": "2026-10-26",
  "d": "2027-02-28",
  "dt": "Feb 28, 2027",
  "e": "Quantum distributed computing, nonlocality, fermionic QI, foundations and noncommutative optimization.",
@@ -24,6 +24,6 @@
   "pd"
  ],
  "u": "https://jobs.inria.fr/public/classic/en/offres/2026-10243",
- "unv": "Inria jobs site was down for maintenance on Oct 21, 2026, so the posting was not rechecked.",
+ "unv": "Salary not stated on the posting.",
  "us": false
 }

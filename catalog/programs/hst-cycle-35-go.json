@@ -1,14 +1,13 @@
 {
  "a": "Hubble orbits; NASA grant funding for US-based investigators",
  "added": "2026-10-03",
- "asub": [],
  "aud": [
   "ast"
  ],
  "c": "Observing time",
- "checked": "2026-10-21",
- "d": null,
- "dt": "Cycle 35 call not posted yet; STScI's July 2026 newsletter says it will be released Dec 16, 2026, with proposals due Apr 1, 2027. Cycle 34 closed 16 Apr 2026, 8 pm EDT",
+ "checked": "2026-10-26",
+ "d": "2027-04-01",
+ "dt": "Proposals due Apr 1, 2027, 8 pm ET; STScI's Cycle 35 timeline says the call will be released Dec 16, 2026. Cycle 34 closed 16 Apr 2026, 8 pm EDT",
  "e": "Hubble's annual call for observing and archival proposals. Open to scientists worldwide at any career stage, including students; funding goes only to US institutions.",
  "f": "STScI / NASA",
  "fields": [
@@ -19,7 +18,7 @@
  "nom": false,
  "pt": "other",
  "region": "International",
- "s": "watch",
+ "s": "open",
  "src": "other:hst-cfp",
  "stages": [
   "tt",
@@ -28,6 +27,6 @@
   "gr"
  ],
  "u": "https://hst-docs.stsci.edu/hsp",
- "unv": "Cycle 35 dates come from the STScI newsletter, not a posted call",
+ "unv": "The Cycle 35 call itself is not released yet; the dates come from STScI's posted Cycle 35 proposal timeline.",
  "us": false
 }

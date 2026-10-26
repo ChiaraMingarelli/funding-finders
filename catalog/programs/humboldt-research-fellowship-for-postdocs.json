@@ -9,7 +9,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-12",
+ "checked": "2026-10-26",
  "d": null,
  "dt": "Next call opens Nov 15, 2026 and closes once it has 800 applications",
  "e": "PhD within the last 4 yrs, with a German host; non-German researchers.",
@@ -28,6 +28,5 @@
   "pd"
  ],
  "u": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
- "unv": "humboldt-foundation.de returned HTTP 503 on Oct 21, 2026; not rechecked then.",
  "us": false
 }

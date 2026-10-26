@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Scholarship",
- "checked": "2026-10-21",
- "d": null,
- "dt": "2027–28 deadlines are set by each graduate unit (typically late fall–winter)",
+ "checked": "2026-10-26",
+ "d": "2027-03-31",
+ "dt": "2027–28 deadlines are set by each graduate unit. At U of T: Physics Mar 31, 2027 (international students) and May 1, 2027 (domestic); Astronomy & Astrophysics Apr 5, 2027 (international) and May 10, 2027 (domestic). Other Ontario universities set their own dates.",
  "e": "Canadian citizens, permanent residents and protected persons, plus a limited number of awards for international students on study permits. For master's/PhD students in Ontario (e.g. Toronto/CITA/Dunlap, Waterloo/Perimeter).",
  "f": "Province of Ontario / Ontario universities",
  "fields": [
@@ -19,12 +19,12 @@
  "nfit": "Medium",
  "nom": false,
  "region": "Canada",
- "s": "watch",
+ "s": "open",
  "src": "other:uoft-sgs",
  "stages": [
   "gr"
  ],
  "u": "https://www.sgs.utoronto.ca/awards/ontario-graduate-scholarship/",
- "unv": "Provincial program page not reachable (404); details from U of T SGS, which on Oct 21, 2026 still gives no 2027–28 student deadlines (set by each graduate unit)",
+ "unv": "Provincial program page not reachable (404); dates are from U of T SGS's 2027–28 unit deadline list (updated Oct 14, 2026); other Ontario universities' dates not checked",
  "us": false
 }

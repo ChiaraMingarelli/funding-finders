@@ -10,9 +10,9 @@
   "ast"
  ],
  "c": "Summer program",
- "checked": "2026-10-21",
+ "checked": "2026-10-26",
  "d": null,
- "dt": "Last GBO deadline Feb 1, 2026",
+ "dt": "Last GBO deadline Feb 1, 2026; the 2027 deadline is not posted yet",
  "e": "Radio astronomy and pulsars. The REU slots need US citizenship or permanent residency.",
  "f": "NRAO / Green Bank Observatory",
  "fields": [
@@ -31,6 +31,6 @@
   "gr"
  ],
  "u": "https://science.nrao.edu/opportunities/student-programs/summerstudents",
- "unv": "2027 date",
+ "unv": "2027 deadline not posted",
  "us": true
 }

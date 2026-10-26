@@ -6,9 +6,9 @@
   "ast"
  ],
  "c": "Observing time",
- "checked": "2026-10-21",
- "d": null,
- "dt": "AOT54 (2026B) deadline was Monday 25 May 2026, 12:00 UT, for observations 1 Oct 2026 to 31 Mar 2027. The next AOT call is not yet posted.",
+ "checked": "2026-10-26",
+ "d": "2026-11-23",
+ "dt": "AOT55 (2027A) deadline Monday Nov 23, 2026, 12:00 UT, for observations Apr 1 to Sep 30, 2027.",
  "e": "INAF's semester call covers both the TNG and REM telescopes. TNG time is limited to Italian-led proposals (or HARPS-N Collaboration members for exoplanet work), but the nationality restriction does not apply to REM proposals.",
  "f": "INAF / Fundación Galileo Galilei (TNG)",
  "fields": [
@@ -19,14 +19,13 @@
  "nom": false,
  "pt": "other",
  "region": "International",
- "s": "watch",
+ "s": "open",
  "src": "other:rem-cfp",
  "stages": [
   "tt",
   "ten",
   "pd"
  ],
- "u": "https://www.tng.iac.es/news/2026/04/23/aot54/",
- "unv": "Timing of the next call (AOT55) is not posted; the TNG news page listed no AOT55 call on Oct 21, 2026.",
+ "u": "https://www.tng.iac.es/news/2026/10/23/aot55/",
  "us": false
 }

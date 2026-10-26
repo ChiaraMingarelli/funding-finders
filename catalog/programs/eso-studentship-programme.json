@@ -1,15 +1,12 @@
 {
  "a": null,
  "added": "2026-10-01",
- "asub": [
-  "he"
- ],
  "aud": [
   "ng",
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-21",
+ "checked": "2026-10-26",
  "d": "2027-04-20",
  "dt": "Deadlines Apr 20 and Oct 20 each year; the Oct 20, 2026 round has closed, next deadline Apr 20, 2027",
  "e": "For PhD students at any university (Garching prefers ESO member states; Chile gives recruitment preference to member-state nationals). 6 months–2 years at ESO, mostly optical/IR/ALMA, so a weak fit for pulsar timing.",
@@ -29,6 +26,6 @@
   "gr"
  ],
  "u": "https://www.eso.org/sci/activities/fellowships-and-studentships/FeSt-overview/ESOstudentship.html",
- "unv": "Stipend amount not stated. ESO websites were down for a system upgrade (HTTP 503) on Oct 21, 2026; not rechecked.",
+ "unv": "Stipend amount not stated.",
  "us": false
 }

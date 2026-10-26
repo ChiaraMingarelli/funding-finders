@@ -23,5 +23,6 @@
   "gr"
  ],
  "u": "https://www.bnl.gov/eic-theory/",
+ "unv": "bnl.gov could not be read on Oct 26, 2026 (TLS certificate error with curl, HTTP 503 with a second fetcher); details are from the Oct 21, 2026 check.",
  "us": false
 }

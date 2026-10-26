@@ -1,5 +1,5 @@
 {
- "a": "Monthly stipend for 6 to 18 months in Germany (can be split)",
+ "a": "€3,600/month plus benefits, for 6 to 18 months in Germany (can be split into up to three stays within three years)",
  "added": "2026-09-28",
  "aud": [
   "yale",
@@ -7,10 +7,10 @@
   "ast"
  ],
  "c": "Sabbatical",
- "checked": "2026-10-12",
+ "checked": "2026-10-26",
  "d": null,
  "dt": "Next call opens Nov 15, 2026 and closes once it has 800 applications",
- "e": "PhD within the last 12 yrs, with a German host.",
+ "e": "PhD within the last 12 yrs, a leadership role at your career level (e.g. assistant professor or independent group leader) and a German host; non-German researchers.",
  "f": "Alexander von Humboldt Foundation",
  "fields": [
   "all"
@@ -24,6 +24,5 @@
   "ten"
  ],
  "u": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
- "unv": "humboldt-foundation.de returned HTTP 503 on Oct 21, 2026; not rechecked then.",
  "us": false
 }

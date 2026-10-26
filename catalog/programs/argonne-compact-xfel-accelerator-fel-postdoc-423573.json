@@ -1,12 +1,12 @@
 {
- "a": "Not stated",
+ "a": "$35.04-$58.40/hour (expected hiring range)",
  "added": "2026-10-23",
  "aud": [
   "ap",
   "yale"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-23",
+ "checked": "2026-10-26",
  "d": null,
  "dt": "Posted Oct 21, 2026; no deadline stated",
  "e": "Multi-year postdoc on beam-dynamics and FEL modeling for the conceptual design of a compact wakefield-driven X-ray free-electron laser for attosecond science. Requires a PhD in accelerator physics or a related field completed within the last 5 years (or expected soon).",
@@ -27,6 +27,6 @@
   "pd"
  ],
  "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Accelerator-Physics-and-Free-Electron-Laser-Science_423573",
- "unv": "Salary and application deadline not stated in posting.",
+ "unv": "Application deadline not stated in posting.",
  "us": false
 }

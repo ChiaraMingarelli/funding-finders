@@ -8,7 +8,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-21",
+ "checked": "2026-10-26",
  "d": "2026-10-28",
  "dt": "7 pm EDT; letters Nov 4",
  "e": "Any nationality. PhD on or after Jan 1, 2023 or by Sep 2027. About 24 awards, subject to NASA funding. At most 2 new fellows per host each year.",
@@ -28,6 +28,6 @@
   "pd"
  ],
  "u": "https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program",
- "unv": "On Oct 21, 2026 the STScI page could not be reached (TLS error and HTTP 503); the Oct 28, 2026 deadline was confirmed on NASA's science.nasa.gov announcement for the 2027 NHFP, while the 7 pm time and the Nov 4 letter date were not re-verified.",
+ "unv": "The STScI page could not be reached on Oct 21 or Oct 26, 2026 (TLS error and HTTP 503); the Oct 28, 2026, 7 pm EDT deadline and Nov 4 letter date were confirmed on NASA's science.nasa.gov announcement for the 2027 NHFP.",
  "us": false
 }

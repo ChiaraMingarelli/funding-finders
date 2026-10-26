@@ -30,6 +30,6 @@
   "gr"
  ],
  "u": "https://www-ssrl.slac.stanford.edu/ssrl/web/user-services/proposal-submission-procedures",
- "unv": "Next X-ray/VUV deadline (May 1, 2027) follows the fixed annual dates on the page; user fees not confirmed. The SSRL site could not be reached on Oct 21, 2026 (TLS error, then HTTP 503); dates last confirmed Oct 12, 2026.",
+ "unv": "Next X-ray/VUV deadline (May 1, 2027) follows the fixed annual dates on the page; user fees not confirmed. The SSRL site could not be reached on Oct 21 or Oct 26, 2026 (TLS error, then HTTP 503); dates last confirmed Oct 12, 2026.",
  "us": false
 }

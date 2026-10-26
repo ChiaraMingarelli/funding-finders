@@ -1,5 +1,5 @@
 {
- "a": "Gold medal",
+ "a": "Gold medal, a $750 honorarium and expenses to attend the awarding society's annual meeting",
  "added": "2026-10-01",
  "asub": [
   "he"
@@ -9,7 +9,7 @@
   "ast"
  ],
  "c": "Prize",
- "checked": "2026-10-12",
+ "checked": "2026-10-26",
  "d": null,
  "dt": "Annual award; the CASCA page still describes the 2025 nomination procedure and shows no date for the next round (2026 medal already awarded)",
  "e": "Awarded each year by CASCA and the Royal Astronomical Society of Canada for the most outstanding doctoral thesis in astronomy or astrophysics by a PhD graduate of a Canadian university within the last two calendar years. The department head nominates at most one candidate, who must be (or have been for two years during the PhD) a CASCA member in good standing.",
@@ -30,6 +30,6 @@
   "pd"
  ],
  "u": "https://www.casca.ca/awards",
- "unv": "Next nomination deadline not shown on the CASCA page; no cash prize stated. casca.ca showed a bot check (HTTP 429) on Oct 21, 2026, so it was not rechecked.",
+ "unv": "Next nomination deadline not shown on the CASCA page (it still gives the procedure for the 2025 award).",
  "us": false
 }

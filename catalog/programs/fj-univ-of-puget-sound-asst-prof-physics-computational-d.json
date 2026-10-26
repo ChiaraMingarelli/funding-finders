@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-10-21",
+ "checked": "2026-10-26",
  "d": null,
- "dt": "Review began Oct 16, 2026; the ad gives no closing date",
+ "dt": "Review began Oct 16, 2026; no closing date given, and the university's own job list still showed the post (Job ID 8954) on Oct 26, 2026",
  "e": "Any field whose methods include computational physics or analysis of large datasets; PhD in physics or astronomy. Start Fall 2027.",
  "f": "Dept. of Physics, University of Puget Sound",
  "fields": [
@@ -24,6 +24,6 @@
   "fj"
  ],
  "u": "https://jobs.physicstoday.org/job/42001172/",
- "unv": "The ad gives no closing date or open-until-filled wording; the Physics Today listing shows an automatic close date of Oct 26, 2026.",
+ "unv": "The ad gives no closing date or open-until-filled wording; the Physics Today listing closes automatically on Oct 26, 2026, but the post is still listed on the Puget Sound faculty job site.",
  "us": false
 }

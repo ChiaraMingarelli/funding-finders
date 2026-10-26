@@ -1,12 +1,11 @@
 {
  "a": "Hubble time for urgent or time-critical science",
  "added": "2026-10-03",
- "asub": [],
  "aud": [
   "ast"
  ],
  "c": "Observing time",
- "checked": "2026-10-21",
+ "checked": "2026-10-26",
  "d": null,
  "dt": "Always open, no fixed deadline",
  "e": "Hubble's always-open channel for urgent or unexpected science that can't wait for the annual cycle. Open to scientists worldwide.",

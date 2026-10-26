@@ -6,10 +6,11 @@
  ],
  "aud": [
   "ng",
-  "ast"
+  "ast",
+  "radar"
  ],
  "c": "Graduate program",
- "checked": "2026-10-21",
+ "checked": "2026-10-26",
  "d": null,
  "dt": "Potsdam usually recruits once a year in November (last deadline Dec 19, 2025); Hannover posts openings as they arise",
  "e": "Requires a master's by program start; international applicants welcome. GW astronomy and data analysis, numerical relativity and ML inference; formerly the IMPRS on Gravitational-Wave Astronomy.",
@@ -29,6 +30,6 @@
   "gr"
  ],
  "u": "https://imprs.aei.mpg.de/applications",
- "unv": "2026–27 Potsdam call not yet posted on AEI jobs page",
+ "unv": "2026–27 Potsdam PhD call not yet posted on the AEI jobs page (checked Oct 26, 2026)",
  "us": false
 }

@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-12",
+ "checked": "2026-10-26",
  "d": null,
  "dt": "Last deadline Oct 1, 2026; the next cycle is not posted yet. Registration usually opens in late July",
  "e": "Within 1 year of finishing the PhD, or already have it. US citizenship not required. Open to all technical disciplines.",
@@ -27,6 +27,6 @@
   "pd"
  ],
  "u": "https://st.llnl.gov/opportunities/postdocs/postdoc-program/lawrence-fellowship",
- "unv": "Page date references were ambiguous; Oct 1 read as 2026 for the 2027 cohort. Official page unreachable on Oct 21, 2026 (connection reset, then HTTP 503); a search showed no posted 2027 deadline",
+ "unv": "The page gives the Oct 1 deadline without a year; read as Oct 1, 2026 (2027 cohort). No date for the next cycle was posted as of Oct 26, 2026.",
  "us": false
 }

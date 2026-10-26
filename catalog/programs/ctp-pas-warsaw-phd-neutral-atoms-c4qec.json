@@ -1,12 +1,12 @@
 {
- "a": "Up to 2 positions; employment contract at about PLN 9,700 gross/month, funded to the end of 2029",
+ "a": "Up to 2 positions; employment contract at PLN 9,700 gross/month, funded to the end of 2029",
  "added": "2026-10-21",
  "aud": [
   "yale",
   "ap"
  ],
  "c": "Training",
- "checked": "2026-10-21",
+ "checked": "2026-10-26",
  "d": "2026-11-08",
  "dt": "Apply by Nov 8, 2026 (ref. MAB/28/2026); start as soon as possible",
  "e": "Paid PhD student – research assistant positions in theory and numerics for neutral atoms in optical tweezers and Rydberg arrays (quantum control, simulation, many-body dynamics, sensing). Requires a master's degree (or equivalent) in physics or mathematics before the contract is signed; no citizenship limits stated.",
@@ -24,6 +24,5 @@
   "gr"
  ],
  "u": "https://www.cft.edu.pl/en/praca/call-for-candidates-for-the-position-of-phd-student-research-assistant-f-m-x-at-the-center-for-quantum-enabled-computing-in-the-group-of-dr-piotr-grochowski-mab-28-2026/",
- "unv": "The CFT PAS ad gives the salary as PLN 9,700 in one place and PLN 9,600 in another; EURAXESS (jobs/471137) blocked automated access (HTTP 403).",
  "us": false
 }

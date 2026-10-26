@@ -5,7 +5,7 @@
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-10-21",
+ "checked": "2026-10-26",
  "d": null,
  "dt": "Review begins Jan 10, 2027; open until filled",
  "e": "Teaching-focused tenure-track physics faculty post at a regional college (12 credit hours per semester; intro physics and astronomy). Requires a master's degree in physics, physics education or a related field and one academic year of college-level physics teaching; no citizenship limits stated.",
@@ -24,6 +24,6 @@
   "fj"
  ],
  "u": "https://inspirehep.net/jobs/3213959",
- "unv": "INSPIRE lists a deadline of Nov 12, 2026, but the ad text says review begins Jan 10, 2027 and the post is open until filled. The host page on jobs.uc.edu did not respond (timeout) on Oct 21, 2026.",
+ "unv": "INSPIRE lists a deadline of Nov 12, 2026, but the ad text says review begins Jan 10, 2027 and the post is open until filled. The host page on jobs.uc.edu did not respond (timeout) on Oct 21, 2026 and failed a TLS certificate check on Oct 26, 2026.",
  "us": false
 }

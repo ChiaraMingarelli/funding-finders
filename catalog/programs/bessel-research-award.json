@@ -8,7 +8,7 @@
   "ast"
  ],
  "c": "Prize",
- "checked": "2026-10-12",
+ "checked": "2026-10-26",
  "d": null,
  "dt": "Rolling; nomination by a German host",
  "e": "Internationally recognized researchers within 18 yrs of PhD; nominated by a researcher in Germany.",
@@ -26,6 +26,5 @@
   "ten"
  ],
  "u": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/friedrich-wilhelm-bessel-research-award",
- "unv": "humboldt-foundation.de returned HTTP 503 on Oct 21, 2026; not rechecked then.",
  "us": false
 }

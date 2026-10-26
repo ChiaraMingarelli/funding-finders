@@ -4,10 +4,11 @@
  "asub": [],
  "aud": [
   "ast",
-  "ng"
+  "ng",
+  "radar"
  ],
  "c": "Observing time",
- "checked": "2026-10-21",
+ "checked": "2026-10-26",
  "d": "2027-03-01",
  "dt": "Next deadline 1 March 2027 (stated in the September 2026 Effelsberg Newsletter); last deadline was 1 Sep 2026, 15:00 UT. ToO/DDT requests are possible at any time.",
  "e": "MPIfR's regular call for the Effelsberg 100-m single dish. 'Access to the telescope is open to all qualified astronomers', and use by scientists from outside MPIfR is encouraged.",
@@ -17,7 +18,7 @@
  ],
  "id": "effelsberg-100m-march-2027",
  "n": "Effelsberg 100-m Radio Telescope Call for Proposals (1 March 2027 deadline)",
- "nfit": "Medium",
+ "nfit": "High",
  "nom": false,
  "pt": "other",
  "region": "International",

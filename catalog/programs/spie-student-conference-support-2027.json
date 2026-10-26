@@ -5,9 +5,9 @@
   "ap"
  ],
  "c": "Travel",
- "checked": "2026-10-12",
- "d": "2026-11-11",
- "dt": "Photonics West 2027: apply Oct 12 to Nov 11, 2026; Medical Imaging 2027: Oct 26 to Nov 25, 2026; Smart Structures + NDE 2027: Dec 7, 2026 to Jan 6, 2027; Defense + Security 2027: Jan 5 to Feb 4, 2027",
+ "checked": "2026-10-26",
+ "d": "2026-11-12",
+ "dt": "Photonics West 2027: closes Nov 12, 2026; Medical Imaging 2027: Oct 26 to Nov 25, 2026; Smart Structures + NDE 2027: Dec 7, 2026 to Jan 6, 2027; Defense + Security 2027: Jan 5 to Feb 4, 2027",
  "e": "Travel grants and registration waivers for SPIE Student Members who are presenting authors of an accepted paper at an SPIE conference and present in person. Students who have completed a PhD are not eligible; one award every two years.",
  "f": "SPIE",
  "fields": [
@@ -23,6 +23,5 @@
   "ug"
  ],
  "u": "https://spie.org/membership/student-hub/student-conference-support",
- "unv": "spie.org blocked automated access (Incapsula) on Oct 21, 2026; dates not re-verified.",
  "us": false
 }
