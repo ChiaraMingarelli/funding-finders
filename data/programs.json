@@ -3924,6 +3924,38 @@
   "us": false
  },
  {
+  "a": "$8,354 for 10 weeks plus a $2,000 travel/housing supplement",
+  "added": "2026-10-26",
+  "aud": [
+   "yale",
+   "ng",
+   "ap",
+   "ast"
+  ],
+  "c": "Summer program",
+  "checked": "2026-10-26",
+  "d": "2027-01-09",
+  "dt": "Application opens Nov 1, 2026; due Jan 9, 2027 (recommendation letters due Jan 8)",
+  "e": "A 10-week summer research program at Caltech (June 14 to August 20, 2027) for sophomores, juniors and non-graduating seniors in STEM who plan to pursue a PhD, with a Caltech faculty mentor. Applicants must be US citizens, permanent residents or DACA recipients, have a GPA of at least 3.4 and have prior research experience.",
+  "f": "Caltech Student-Faculty Programs",
+  "fields": [
+   "all"
+  ],
+  "id": "caltech-wave-fellows-2027",
+  "n": "Caltech WAVE Fellows (Summer 2027)",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:caltech-wave-fellows",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://sfp.caltech.edu/undergraduate-research/programs/wavefellows",
+  "unv": "The application page gives the deadline as January 9 without a year; it is the deadline for the 2027 application, which opens Nov 1, 2026.",
+  "us": true
+ },
+ {
   "a": "About 13,000 PLN gross/month; up to 30 months",
   "added": "2026-10-02",
   "asub": [
@@ -5254,6 +5286,38 @@
    "tt"
   ],
   "u": "https://www.aei.mpg.de/1514289/the-center-of-gravity-exchange-of-researchers-working-on-gravitational-physics",
+  "us": false
+ },
+ {
+  "a": "TV-L E14; initial 3-year appointment",
+  "added": "2026-10-26",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-26",
+  "d": "2026-11-30",
+  "dt": "Nov 30, 2026 (INSPIRE deadline); to be filled as soon as possible",
+  "e": "Research fellow who leads FPGA-based real-time processing and AI-on-FPGA platforms for detector readout and data acquisition in the cluster, including the new INSIGHT experiment at ELSA; hosted at one of the partner sites. Requires a Master's degree or equivalent in electrical engineering, physics, computer engineering or a related field plus several years of relevant R&D experience; no citizenship limit stated.",
+  "f": "Cluster of Excellence Color meets Flavor (University of Bonn, University of Siegen, TU Dortmund, Forschungszentrum Jülich), Intelligent Hardware Lab",
+  "fields": [
+   "ppx",
+   "inst"
+  ],
+  "id": "color-meets-flavor-ihl-fellow-fpga-realtime-ai",
+  "n": "Color meets Flavor (Bonn/Siegen/Dortmund/Jülich): IHL Fellow in FPGA Platforms and Real-Time AI Processing",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3216412",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3216412",
+  "unv": "The full ad is only on INSPIRE (the cluster's career page says positions are posted there); application is by email to Dr. Qader Dorosti (Siegen). Start date not stated beyond 'as soon as possible'.",
   "us": false
  },
  {
@@ -7454,6 +7518,123 @@
   "us": false
  },
  {
+  "a": "$1,000, scroll and complimentary meeting registration",
+  "added": "2026-10-26",
+  "aud": [
+   "ap"
+  ],
+  "c": "Prize",
+  "checked": "2026-10-26",
+  "d": "2027-01-15",
+  "dt": "Nomination period Oct 15 - Jan 15, annually; this cycle closes Jan 15, 2027",
+  "e": "Recognizes early-career researchers in electrochemical deposition science and technology who received their final degree or started work in the field no more than 10 years before the nomination deadline. Nominees must be current ECS members.",
+  "f": "The Electrochemical Society, Electrodeposition Division",
+  "fields": [
+   "mat",
+   "energy"
+  ],
+  "id": "ecs-electrodeposition-early-career-investigator-award",
+  "n": "ECS Electrodeposition Division Early Career Investigator Award",
+  "nom": false,
+  "pt": "other",
+  "s": "open",
+  "src": "other:ecs-electrodeposition-early-career-award",
+  "stages": [
+   "tt",
+   "pd"
+  ],
+  "u": "https://www.electrochem.org/early-career-investigator-award",
+  "unv": "The page gives the annual Oct 15 - Jan 15 window; the 2027 closing date is taken from that annual window.",
+  "us": false
+ },
+ {
+  "a": "$1,000, certificate, meeting registration and up to $1,000 travel",
+  "added": "2026-10-26",
+  "aud": [
+   "ap"
+  ],
+  "c": "Prize",
+  "checked": "2026-10-26",
+  "d": "2027-01-15",
+  "dt": "Nomination period Oct 15 (even years) - Jan 15 (odd years); this cycle closes Jan 15, 2027; presented at the fall 2027 ECS meeting",
+  "e": "Biennial award for early-career researchers in high-temperature energy, materials and processes who began their careers no more than 12 years before the nomination deadline and have been ECS members for at least two years. Self-nominations are not accepted.",
+  "f": "The Electrochemical Society, High-Temperature Energy, Materials & Processes Division",
+  "fields": [
+   "energy",
+   "mat"
+  ],
+  "id": "ecs-htm-wagner-early-career-award",
+  "n": "ECS High-Temperature Energy, Materials & Processes Division J. Bruce Wagner, Jr. Early-Career Award",
+  "nom": true,
+  "pt": "other",
+  "s": "open",
+  "src": "other:ecs-htm-wagner-award",
+  "stages": [
+   "tt",
+   "pd"
+  ],
+  "u": "https://www.electrochem.org/htm-wagner-award",
+  "us": false
+ },
+ {
+  "a": "$1,000, certificate and complimentary meeting registration",
+  "added": "2026-10-26",
+  "aud": [
+   "ap"
+  ],
+  "c": "Prize",
+  "checked": "2026-10-26",
+  "d": "2027-01-15",
+  "dt": "Nomination period Oct 15 - Jan 15, annually; this cycle closes Jan 15, 2027",
+  "e": "Recognizes early-career researchers in the sensor field who completed their PhD within 10 years of the nomination deadline and are lead or contact author on at least two papers in an ECS journal on Sensor Division topics. Nominees must be ECS members with the Sensor Division as their primary division.",
+  "f": "The Electrochemical Society, Sensor Division",
+  "fields": [
+   "dev",
+   "mat"
+  ],
+  "id": "ecs-sensor-division-early-career-award",
+  "n": "ECS Sensor Division Early Career Award",
+  "nom": false,
+  "pt": "other",
+  "s": "open",
+  "src": "other:ecs-sensor-early-career-award",
+  "stages": [
+   "tt",
+   "pd"
+  ],
+  "u": "https://www.electrochem.org/sensor-division-early-career-award",
+  "unv": "The page gives the annual Oct 15 - Jan 15 window; the 2027 closing date is taken from that annual window.",
+  "us": false
+ },
+ {
+  "a": "$500, certificate and complimentary meeting registration",
+  "added": "2026-10-26",
+  "aud": [
+   "ap"
+  ],
+  "c": "Prize",
+  "checked": "2026-10-26",
+  "d": "2027-01-15",
+  "dt": "Nomination period Oct 15 - Jan 15, annually; this cycle closes Jan 15, 2027",
+  "e": "Recognizes graduate students doing outstanding research on sensors; nominees must be enrolled at the nomination deadline, have at least one paper in an ECS journal on a Sensor Division topic, and be ECS members with the Sensor Division as their primary division. A supervisor's nomination letter is required.",
+  "f": "The Electrochemical Society, Sensor Division",
+  "fields": [
+   "dev",
+   "mat"
+  ],
+  "id": "ecs-sensor-division-student-research-award",
+  "n": "ECS Sensor Division Student Research Award",
+  "nom": false,
+  "s": "open",
+  "src": "other:ecs-sensor-student-award",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://www.electrochem.org/ecs-sensor-division-student-research-award",
+  "unv": "The page gives the annual Oct 15 - Jan 15 window; the 2027 closing date is taken from that annual window.",
+  "us": false
+ },
+ {
   "a": "Up to $5,000; up to 4 awards",
   "added": "2026-10-03",
   "aud": [
@@ -7868,6 +8049,68 @@
   ],
   "u": "https://www.schmidtsciences.org/ai-in-science/",
   "unv": "Partner universities are shown only as logos (links suggest Chicago, Cornell, Imperial, Michigan, NTU, NUS, Oxford, UC San Diego, Toronto); deadlines are set by each partner and not on page.",
+  "us": false
+ },
+ {
+  "a": "Travel to and from the home institution, lodging up to EUR 100/night and EUR 50/day for meals and incidentals",
+  "added": "2026-10-26",
+  "aud": [
+   "ng"
+  ],
+  "c": "Travel",
+  "checked": "2026-10-26",
+  "d": "2026-10-31",
+  "dt": "Oct 31, 2026, 23:59 UTC (for visits in spring and summer 2027); reviewed twice a year, usually Apr 30 and Oct 31",
+  "e": "Funds one-to-three-month research visits to ESAC or ESTEC to work on public data in the ESA space science archives (astronomy, planetary science, heliophysics), open to scientists at all career levels including PhD students. Applicants must be affiliated with an institute in an ESA Member State or Cooperating State (this includes Canada; US institutions are not eligible).",
+  "f": "European Space Agency (ESA), ESAC Science Data Centre",
+  "fields": [
+   "astro"
+  ],
+  "id": "esa-archival-research-visitor-programme",
+  "n": "ESA Archival Research Visitor Programme (ESAC Madrid / ESTEC Noordwijk)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "open",
+  "src": "other:esa-arvp",
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "u": "https://www.cosmos.esa.int/web/esdc/visitor-programme",
+  "us": false
+ },
+ {
+  "a": "VLT/VLTI and La Silla time from up to 5% of general observing time; programmes are generally under 5 hours",
+  "added": "2026-10-26",
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-26",
+  "d": null,
+  "dt": "Proposals may be submitted at any time through the p1 tool",
+  "e": "ESO's channel for urgent targets of opportunity, highly competitive topics, quick follow-up of recent results and small feasibility tests that cannot wait for the next regular or Fast Track Channel call. Reviewed by a DDT committee; all co-Is need an ESO User Portal account.",
+  "f": "European Southern Observatory",
+  "fields": [
+   "astro"
+  ],
+  "id": "eso-director-discretionary",
+  "n": "ESO Director's Discretionary Time (DDT)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:eso-ddt",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://www.eso.org/sci/observing/policies/ddt_policy.html",
+  "unv": "The DDT page does not state limits for PIs from non-member states; ESO's regular call accepts them and ranks them on merit, with preference to member-state proposals rated equally. Student PI rules not stated.",
   "us": false
  },
  {
@@ -12901,6 +13144,44 @@
   "us": true
  },
  {
+  "a": "Typically up to $1.5M a year for 5 years per award (topic limits apply, often no more than 6 funded faculty); about $170M in total for the FY27 MURI competition",
+  "added": "2026-10-26",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Federal grant",
+  "checked": "2026-10-26",
+  "d": "2027-04-09",
+  "dt": "Optional white paper due Nov 20, 2026, 5 pm ET; full proposal due Apr 9, 2027, 5 pm ET (per the NOFO).",
+  "e": "AFOSR's posting of the FY2027 Department of War MURI competition; its AFOSR topics are nonlinear EUV/X-ray mixing, tunable goniopolar semiconductors, AI for scientific discovery, TEM ptychography and optical cycling centers. Only US universities (and eligible UARCs) may apply; the NOFO sets no citizenship limit for PIs.",
+  "f": "DOD AFOSR",
+  "fields": [
+   "amo",
+   "phot",
+   "mat",
+   "dev",
+   "ds"
+  ],
+  "id": "fy2027-dow-muri-afosr-posting",
+  "n": "FY2027 DoW MURI (AFOSR posting)",
+  "nofo": [
+   {
+    "opp": "NOFOAFRLAFOSR20260002",
+    "u": "https://simpler.grants.gov/opportunity/a9243901-8569-47ad-a573-8e496d198a5b"
+   }
+  ],
+  "nom": false,
+  "s": "open",
+  "src": "grants:NOFOAFRLAFOSR20260002",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://simpler.grants.gov/opportunity/a9243901-8569-47ad-a573-8e496d198a5b",
+  "us": false
+ },
+ {
   "a": "Ceiling $7,500,000; total $170,000,000",
   "added": "2026-09-30",
   "aud": [
@@ -13174,6 +13455,38 @@
   "u": "https://www.gemfellowship.org/gem-fellowship-program/",
   "unv": "Yale's current GEM membership not confirmed on GEM site (member list is login-only). GEM's application page gives the deadline as the second Friday in November, which is Nov 13, 2026; no time of day is stated.",
   "us": true
+ },
+ {
+  "a": "Gemini North and South time from up to 5% of available observing time; requests are typically under 15 hours",
+  "added": "2026-10-26",
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-26",
+  "d": null,
+  "dt": "Requests accepted at any time of the year, through the Gemini Phase I Tool for the current semester",
+  "e": "Gemini's channel for scientifically urgent observations, prompted by developments since the last proposal cycle, that cannot be handled by Fast Turnaround. Open to astronomers worldwide; requests are judged by the Gemini Director Time Review Board.",
+  "f": "International Gemini Observatory (NSF NOIRLab)",
+  "fields": [
+   "astro"
+  ],
+  "id": "gemini-director-discretionary",
+  "n": "Gemini Director's Discretionary Time (DDT)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:gemini-ddt",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://www.gemini.edu/observing/phase-i/ddt",
+  "unv": "The page does not say whether students may be PI.",
+  "us": false
  },
  {
   "a": "Short queue programs on Gemini North and South, carried out 1 to 4 months after the deadline",
@@ -17563,6 +17876,38 @@
   "us": false
  },
  {
+  "a": "A small fraction of NOEMA and 30-meter observing time",
+  "added": "2026-10-26",
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-26",
+  "d": null,
+  "dt": "Proposals may be submitted at any time through the IRAM Proposal Management System; give at least two weeks' notice for non-ToO requests",
+  "e": "IRAM's channel for target-of-opportunity events, urgent or high-impact follow-up, and small tests of new ideas at millimetre wavelengths. Proposals must explain why they were not submitted at the regular deadline.",
+  "f": "IRAM (Institut de Radioastronomie Millimétrique)",
+  "fields": [
+   "astro"
+  ],
+  "id": "iram-director-discretionary",
+  "n": "IRAM Director's Discretionary Time (NOEMA and 30-meter)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:iram-ddt",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://iram-institute.org/science-portal/proposals/directors-discretionary-time/",
+  "unv": "The DDT page does not state PI eligibility; IRAM's regular calls reserve a share of time for PIs outside the partner countries.",
+  "us": false
+ },
+ {
   "a": "Observing time on the NOEMA interferometer and the IRAM 30-m telescope for the summer scheduling period (1 Jun - 30 Nov). PIs at institutes outside IRAM partner countries compete for a reserved share: 7.5% of NOEMA time and 15% of 30-m time.",
   "added": "2026-10-03",
   "aud": [
@@ -19442,6 +19787,36 @@
   "us": false
  },
  {
+  "a": "Four-year paid PhD positions (about EUR 43,000 gross in year 1 rising to about EUR 54,000 in year 4)",
+  "added": "2026-10-26",
+  "aud": [
+   "ng",
+   "ast"
+  ],
+  "c": "Graduate program",
+  "checked": "2026-10-26",
+  "d": "2026-11-15",
+  "dt": "Nov 15, 2026 for applications and all recommendation letters",
+  "e": "General call for several funded four-year PhD positions across the Observatory's research areas, including the joint Leiden de Sitter Fellowship in cosmology with the Lorentz Institute. Applicants need an MSc degree or equivalent by the start date; no citizenship limit stated.",
+  "f": "Leiden Observatory, Leiden University",
+  "fields": [
+   "astro"
+  ],
+  "id": "leiden-observatory-phd-positions-2027",
+  "n": "Leiden Observatory: PhD positions in astronomy and astrophysics (2027 start)",
+  "nfit": "Medium",
+  "nom": false,
+  "region": "International",
+  "s": "open",
+  "src": "other:leiden-strw-phd-2027",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://local.strw.leidenuniv.nl/jobs/phd/",
+  "unv": "The number of positions (9) and salary figures come from the Hyperspace@GU announcement; the Observatory page says 'several'.",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-10-03",
   "aud": [
@@ -19499,6 +19874,39 @@
    "pd"
   ],
   "u": "https://www.sfoptique.org/pages/sfo/ecoles-thematiques/2027-artificial-intelligence-photonics/photonics-ai.html",
+  "us": false
+ },
+ {
+  "a": "Funded MSc (teaching and research assistantships and scholarships)",
+  "added": "2026-10-26",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "ng",
+   "ast"
+  ],
+  "c": "Graduate program",
+  "checked": "2026-10-26",
+  "d": "2026-12-01",
+  "dt": "Full consideration Dec 1, 2026 for the Fall 2027 position; review may continue until filled",
+  "e": "Funded MSc position starting September 2027 in cosmology, quantum gravity, foundations of quantum mechanics or physics in curved spacetimes; selected candidates must also apply formally to the School of Graduate Studies. Requires a BSc in physics or a related field; the Fall 2027 position is open to domestic and international applicants.",
+  "f": "University of Lethbridge, Department of Physics and Astronomy (Heliudson Bernardo)",
+  "fields": [
+   "grav"
+  ],
+  "id": "lethbridge-msc-theoretical-physics-bernardo-2027",
+  "n": "University of Lethbridge: Funded MSc position in theoretical physics (Fall 2027, Bernardo group)",
+  "nfit": "Medium",
+  "nom": false,
+  "region": "Canada",
+  "s": "open",
+  "src": "inspire:3191140",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://inspirehep.net/jobs/3191140",
+  "unv": "A second (January 2027) position for Canadian domestic applicants had a Sep 15, 2026 deadline and is not included.",
   "us": false
  },
  {
@@ -20681,6 +21089,41 @@
    "ten"
   ],
   "u": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/max-planck-humboldt-research-award",
+  "us": false
+ },
+ {
+  "a": "Up to 5% of competed MeerKAT time, for small projects",
+  "added": "2026-10-26",
+  "aud": [
+   "ast",
+   "ng",
+   "radar"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-26",
+  "d": null,
+  "dt": "Proposals can be submitted at any time by email (one PDF, at most 3 pages)",
+  "e": "MeerKAT radio telescope time for small projects that cannot be proposed through the Open Time call, typically transients, or that are likely to lead to rapid high-impact papers. Proposals must justify why MeerKAT is the best instrument and include data-processing and publication plans.",
+  "f": "SARAO MeerKAT",
+  "fields": [
+   "astro"
+  ],
+  "id": "meerkat-director-discretionary",
+  "n": "MeerKAT Director's Discretionary Time (DDT)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:meerkat-ddt",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://skaafrica.atlassian.net/wiki/spaces/ESDKB/pages/1600913460/Director+s+Discretionary+Time+DDT",
+  "unv": "The DDT page does not state PI eligibility; the MeerKAT Open Time call is open to researchers at any institution, including postdocs and PhD students.",
   "us": false
  },
  {
@@ -22351,6 +22794,45 @@
   "us": false
  },
  {
+  "added": "2026-10-26",
+  "asub": [
+   "star",
+   "inst"
+  ],
+  "aud": [
+   "yale",
+   "ast"
+  ],
+  "c": "Federal grant",
+  "checked": "2026-10-26",
+  "d": "2026-11-20",
+  "dt": "Step-1 proposal due Nov 20, 2026 (required); Step-2 proposal due Mar 16, 2027 (ROSES-25 Amendment 78)",
+  "e": "Funds heliophysics investigations flown as research payloads on suborbital and airborne platforms, with a binding two-step submission and dual-anonymous review. NASA generally funds only US institutions; non-US groups may take part without exchange of funds.",
+  "f": "NASA Science Mission Directorate, Heliophysics Division",
+  "fields": [
+   "astro",
+   "inst"
+  ],
+  "id": "nasa-roses25-b7-heliophysics-lcas",
+  "n": "NASA ROSES-2025 B.7 Heliophysics Low-Cost Access to Space (H-LCAS)",
+  "nofo": [
+   {
+    "opp": "NNH25ZDA001N-LCAS",
+    "u": "https://simpler.grants.gov/opportunity/c2666594-e5e1-4359-9bfc-cbf5042a8e9b"
+   }
+  ],
+  "nom": false,
+  "s": "open",
+  "src": "grants:NNH25ZDA001N-LCAS",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-78-new-opportunity-b-7-heliophysics-low-cost-access-to-space/",
+  "unv": "The NSPIRES page with the full call text timed out, so award size and number of awards are not given.",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-09-28",
   "aud": [
@@ -22873,6 +23355,40 @@
   "us": false
  },
  {
+  "a": "Up to $475K direct costs a year; up to 4 years",
+  "added": "2026-10-26",
+  "aud": [
+   "ap"
+  ],
+  "c": "Federal grant",
+  "checked": "2026-10-26",
+  "d": "2026-11-16",
+  "dt": "Next due date Nov 16, 2026; later dates May 17, 2027 and Nov 15, 2027 (NOFO expires Nov 16, 2027)",
+  "e": "Funds advanced preclinical research to bring nanoparticle- and nanodevice-based cancer diagnostics and therapies closer to clinical development. Foreign organizations cannot apply; there is no citizenship limit for PIs.",
+  "f": "NIH NCI",
+  "fields": [
+   "bio",
+   "mat"
+  ],
+  "id": "nci-ttnci-nanotech-cancer-r01",
+  "n": "NIH NCI Toward Translation of Nanotechnology Cancer Interventions (TTNCI, R01)",
+  "nofo": [
+   {
+    "opp": "PAR-25-336",
+    "u": "https://simpler.grants.gov/opportunity/36b6fe58-bbed-461b-b995-c43ac2fbfa22"
+   }
+  ],
+  "nom": false,
+  "s": "open",
+  "src": "grants:PAR-25-336",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://simpler.grants.gov/opportunity/36b6fe58-bbed-461b-b995-c43ac2fbfa22",
+  "us": false
+ },
+ {
   "a": "3 years; Open Fellowships extendable to 5",
   "added": "2026-10-01",
   "asub": [
@@ -23363,6 +23879,42 @@
   "us": false
  },
  {
+  "a": "Fully funded PhD position with salary for four academic years",
+  "added": "2026-10-26",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "aud": [
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Graduate program",
+  "checked": "2026-10-26",
+  "d": "2026-11-30",
+  "dt": "Nov 30, 2026; applications reviewed on arrival, early start preferred",
+  "e": "Fully funded PhD in theoretical particle physics on BSM model building (flavour, neutrino masses, dark matter), linking collider signals to phase-transition gravitational-wave signals at LISA and the Einstein Telescope. Requires a Master's degree in physics and fluency in English; no citizenship limit stated.",
+  "f": "National Institute of Chemical Physics and Biophysics (NICPB), Laboratory of High Energy and Computational Physics; degree from Tallinn University of Technology (Carlo Marzo, Ville Vaskonen)",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "nicpb-tallinn-phd-bsm-colliders-gw",
+  "n": "NICPB Tallinn: PhD position in BSM particle physics at colliders and in gravitational-wave observations",
+  "nfit": "High",
+  "nom": false,
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3216413",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://inspirehep.net/jobs/3216413",
+  "unv": "The ad is posted on INSPIRE and the LISA Consortium positions page; no separate host page found.",
+  "us": false
+ },
+ {
   "a": "Up to $850K direct costs per year (plus well-justified specialized equipment), up to 5 years",
   "added": "2026-10-12",
   "aud": [
@@ -23501,6 +24053,41 @@
   ],
   "u": "https://simpler.grants.gov/opportunity/58d23222-5ec2-483a-8034-f97661b2a7c3",
   "unv": "Forecast: dates are estimates, and award size and eligibility details are not posted yet.",
+  "us": false
+ },
+ {
+  "a": "Budgets should rarely exceed $750K direct costs a year; up to 3 years",
+  "added": "2026-10-26",
+  "aud": [
+   "ap"
+  ],
+  "c": "Federal grant",
+  "checked": "2026-10-26",
+  "d": "2027-01-28",
+  "dt": "Last due date Jan 28, 2027; letter of intent 60 days before. The NOFO expires Jan 29, 2027.",
+  "e": "Funds team projects that take new technologies for recording or modulating activity in the human central nervous system (electrical, optical, magnetic, acoustic or combined) from proof of concept to readiness for first-in-human studies. Foreign organizations cannot apply; there is no citizenship limit for PIs.",
+  "f": "NIH BRAIN Initiative (NINDS)",
+  "fields": [
+   "bio",
+   "dev",
+   "inst"
+  ],
+  "id": "nih-brain-r18-recording-modulation-tech",
+  "n": "NIH BRAIN Initiative: Preclinical Proof of Concept for Novel Recording and Modulation Technologies in the Human CNS (R18)",
+  "nofo": [
+   {
+    "opp": "RFA-NS-24-031",
+    "u": "https://simpler.grants.gov/opportunity/8473fc98-91d3-488d-9aef-458a385cc22c"
+   }
+  ],
+  "nom": false,
+  "s": "open",
+  "src": "grants:RFA-NS-24-031",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://simpler.grants.gov/opportunity/8473fc98-91d3-488d-9aef-458a385cc22c",
   "us": false
  },
  {
@@ -23697,6 +24284,42 @@
   ],
   "u": "https://simpler.grants.gov/opportunity/bfff80db-fe94-4069-b095-ea79fe5fe2c8",
   "us": true
+ },
+ {
+  "a": "Budgets should rarely exceed $750K direct costs a year; up to 3 years; about 4 awards ($6M) planned",
+  "added": "2026-10-26",
+  "aud": [
+   "ap"
+  ],
+  "c": "Federal grant",
+  "checked": "2026-10-26",
+  "d": "2027-02-01",
+  "dt": "First due date Feb 1, 2027; later dates Sep 17, 2027, May 26, 2028, Feb 1, 2029, Sep 19, 2029 and Feb 1, 2030",
+  "e": "Funds development and optimization of new devices to prevent, monitor, diagnose or treat disorders within the BRAIN and HEAL Initiative missions, up to readiness for first-in-human trials. Universities, nonprofits, companies and foreign organizations may apply; no citizenship limit for PIs is stated.",
+  "f": "NIH NIBIB (BRAIN and HEAL Initiatives)",
+  "fields": [
+   "bio",
+   "dev",
+   "inst"
+  ],
+  "id": "nih-nextech-r18-devices",
+  "n": "NIH NextTech: Translational Development of Next-Generation Diagnostic and Therapeutic Devices (R18)",
+  "nofo": [
+   {
+    "opp": "RFA-EB-28-004",
+    "u": "https://simpler.grants.gov/opportunity/50e5b762-c9bc-49bb-817e-ece3e37c28e6"
+   }
+  ],
+  "nom": false,
+  "s": "open",
+  "src": "grants:RFA-EB-28-004",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://simpler.grants.gov/opportunity/50e5b762-c9bc-49bb-817e-ece3e37c28e6",
+  "unv": "Grants.gov lists a Dec 1, 2030 close date; the NOFO lists Feb 1, 2030 as the last due date and expires Feb 2, 2030. The NIH Guide page for this RFA was not found, so dates are from the NOFO attached on grants.gov.",
+  "us": false
  },
  {
   "a": "Direct costs up to $500,000 per year; up to 5 years; about 3 awards, $2,000,000 total.",
@@ -24702,6 +25325,36 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32643",
   "us": false
+ },
+ {
+  "a": "$6,000 stipend plus on-campus housing and a travel allowance",
+  "added": "2026-10-26",
+  "aud": [
+   "ap"
+  ],
+  "c": "Summer program",
+  "checked": "2026-10-26",
+  "d": "2027-02-12",
+  "dt": "Due Fri Feb 12, 2027; program June 14 - Aug 13, 2027; the page says the 2027 application will open soon",
+  "e": "Nine-week summer research program in nanoscale materials at Northwestern's MRSEC, with experimental and theoretical/simulation projects; mostly rising juniors and seniors in science or engineering who have not yet graduated. Open only to US citizens and permanent residents.",
+  "f": "Northwestern University Materials Research Science and Engineering Center (NSF NU-MRSEC)",
+  "fields": [
+   "mat",
+   "cmx",
+   "phot",
+   "energy"
+  ],
+  "id": "northwestern-mrsec-reu-2027",
+  "n": "Northwestern MRSEC REU Summer Research Program 2027",
+  "nom": false,
+  "s": "open",
+  "src": "other:nu-mrsec-reu",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://mrsec.northwestern.edu/education/undergraduate-opportunities.html",
+  "unv": "The application form was not yet open on Oct 26, 2026.",
+  "us": true
  },
  {
   "a": "not listed",
@@ -27574,6 +28227,40 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32512",
+  "us": false
+ },
+ {
+  "a": "NuSTAR hard X-ray time from PI discretionary time; most approved DDT exposures are 40 ks or less",
+  "added": "2026-10-26",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "ast"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-26",
+  "d": null,
+  "dt": "Requests accepted at any time through the NuSTAR ToO/DDT web form; response times under 48 hours are reserved for GO programs",
+  "e": "Web-form requests for NuSTAR observations of events that could not have been proposed in a General Observer cycle; approved by the NuSTAR PI or designee, and the data have no exclusive-use period. Requests involving PRC organizations or bilateral work with the PRC are not eligible.",
+  "f": "NASA / NuSTAR Science Operations Center (Caltech)",
+  "fields": [
+   "astro"
+  ],
+  "id": "nustar-director-discretionary",
+  "n": "NuSTAR Director's Discretionary Time (DDT) requests",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:nustar-ddt",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://nustarsoc.caltech.edu/NuSTAR_Public/GO/GOsubmit.php",
+  "unv": "The form does not say whether students may be the principal requester.",
   "us": false
  },
  {
@@ -34556,6 +35243,41 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3206287",
+  "us": false
+ },
+ {
+  "a": "Multiple fully funded PhD positions",
+  "added": "2026-10-26",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Graduate program",
+  "checked": "2026-10-26",
+  "d": "2027-02-01",
+  "dt": "Apply by Feb 1, 2027 for best chances of receiving funding",
+  "e": "Fully funded PhD positions in gravitational-wave data analysis and detector characterization, surrogate models, numerical relativity, black hole perturbation theory and quantum information/gravity, through the UMass Dartmouth Engineering and Applied Science PhD or the URI Physics PhD. No citizenship limit is stated.",
+  "f": "UMass-URI Gravity Research Consortium (UMass Dartmouth and University of Rhode Island)",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "u2grc-umassd-uri-funded-phd-gw-2027",
+  "n": "UMass Dartmouth / URI Gravity Research Consortium (U²GRC): funded PhD positions in gravitational-wave science",
+  "nfit": "High",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:u2grc-phd-2027",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://web.uri.edu/gravity/phd-openings/",
+  "unv": "Stipend amount not stated; Feb 1, 2027 is a priority date for funding, not a stated final deadline.",
   "us": false
  },
  {

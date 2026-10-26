@@ -3218,6 +3218,38 @@
   "us": false
  },
  {
+  "a": "$8,354 for 10 weeks plus a $2,000 travel/housing supplement",
+  "added": "2026-10-26",
+  "aud": [
+   "yale",
+   "ng",
+   "ap",
+   "ast"
+  ],
+  "c": "Summer program",
+  "checked": "2026-10-26",
+  "d": "2027-01-09",
+  "dt": "Application opens Nov 1, 2026; due Jan 9, 2027 (recommendation letters due Jan 8)",
+  "e": "A 10-week summer research program at Caltech (June 14 to August 20, 2027) for sophomores, juniors and non-graduating seniors in STEM who plan to pursue a PhD, with a Caltech faculty mentor. Applicants must be US citizens, permanent residents or DACA recipients, have a GPA of at least 3.4 and have prior research experience.",
+  "f": "Caltech Student-Faculty Programs",
+  "fields": [
+   "all"
+  ],
+  "id": "caltech-wave-fellows-2027",
+  "n": "Caltech WAVE Fellows (Summer 2027)",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:caltech-wave-fellows",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://sfp.caltech.edu/undergraduate-research/programs/wavefellows",
+  "unv": "The application page gives the deadline as January 9 without a year; it is the deadline for the 2027 application, which opens Nov 1, 2026.",
+  "us": true
+ },
+ {
   "a": "About 13,000 PLN gross/month; up to 30 months",
   "added": "2026-10-02",
   "asub": [
@@ -4258,6 +4290,38 @@
    "tt"
   ],
   "u": "https://www.aei.mpg.de/1514289/the-center-of-gravity-exchange-of-researchers-working-on-gravitational-physics",
+  "us": false
+ },
+ {
+  "a": "TV-L E14; initial 3-year appointment",
+  "added": "2026-10-26",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-26",
+  "d": "2026-11-30",
+  "dt": "Nov 30, 2026 (INSPIRE deadline); to be filled as soon as possible",
+  "e": "Research fellow who leads FPGA-based real-time processing and AI-on-FPGA platforms for detector readout and data acquisition in the cluster, including the new INSIGHT experiment at ELSA; hosted at one of the partner sites. Requires a Master's degree or equivalent in electrical engineering, physics, computer engineering or a related field plus several years of relevant R&D experience; no citizenship limit stated.",
+  "f": "Cluster of Excellence Color meets Flavor (University of Bonn, University of Siegen, TU Dortmund, Forschungszentrum Jülich), Intelligent Hardware Lab",
+  "fields": [
+   "ppx",
+   "inst"
+  ],
+  "id": "color-meets-flavor-ihl-fellow-fpga-realtime-ai",
+  "n": "Color meets Flavor (Bonn/Siegen/Dortmund/Jülich): IHL Fellow in FPGA Platforms and Real-Time AI Processing",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3216412",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3216412",
+  "unv": "The full ad is only on INSPIRE (the cluster's career page says positions are posted there); application is by email to Dr. Qader Dorosti (Siegen). Start date not stated beyond 'as soon as possible'.",
   "us": false
  },
  {
@@ -6795,6 +6859,44 @@
   "u": "https://fulbrightscholars.org/us-scholar-awards",
   "unv": "2028-29 dates not posted",
   "us": true
+ },
+ {
+  "a": "Typically up to $1.5M a year for 5 years per award (topic limits apply, often no more than 6 funded faculty); about $170M in total for the FY27 MURI competition",
+  "added": "2026-10-26",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Federal grant",
+  "checked": "2026-10-26",
+  "d": "2027-04-09",
+  "dt": "Optional white paper due Nov 20, 2026, 5 pm ET; full proposal due Apr 9, 2027, 5 pm ET (per the NOFO).",
+  "e": "AFOSR's posting of the FY2027 Department of War MURI competition; its AFOSR topics are nonlinear EUV/X-ray mixing, tunable goniopolar semiconductors, AI for scientific discovery, TEM ptychography and optical cycling centers. Only US universities (and eligible UARCs) may apply; the NOFO sets no citizenship limit for PIs.",
+  "f": "DOD AFOSR",
+  "fields": [
+   "amo",
+   "phot",
+   "mat",
+   "dev",
+   "ds"
+  ],
+  "id": "fy2027-dow-muri-afosr-posting",
+  "n": "FY2027 DoW MURI (AFOSR posting)",
+  "nofo": [
+   {
+    "opp": "NOFOAFRLAFOSR20260002",
+    "u": "https://simpler.grants.gov/opportunity/a9243901-8569-47ad-a573-8e496d198a5b"
+   }
+  ],
+  "nom": false,
+  "s": "open",
+  "src": "grants:NOFOAFRLAFOSR20260002",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://simpler.grants.gov/opportunity/a9243901-8569-47ad-a573-8e496d198a5b",
+  "us": false
  },
  {
   "a": "Ceiling $7,500,000; total $170,000,000",
@@ -14814,6 +14916,45 @@
    "ten"
   ],
   "u": "https://simpler.grants.gov/opportunity/86414383-5e44-4e7b-88a9-7068e1c5b219",
+  "us": false
+ },
+ {
+  "added": "2026-10-26",
+  "asub": [
+   "star",
+   "inst"
+  ],
+  "aud": [
+   "yale",
+   "ast"
+  ],
+  "c": "Federal grant",
+  "checked": "2026-10-26",
+  "d": "2026-11-20",
+  "dt": "Step-1 proposal due Nov 20, 2026 (required); Step-2 proposal due Mar 16, 2027 (ROSES-25 Amendment 78)",
+  "e": "Funds heliophysics investigations flown as research payloads on suborbital and airborne platforms, with a binding two-step submission and dual-anonymous review. NASA generally funds only US institutions; non-US groups may take part without exchange of funds.",
+  "f": "NASA Science Mission Directorate, Heliophysics Division",
+  "fields": [
+   "astro",
+   "inst"
+  ],
+  "id": "nasa-roses25-b7-heliophysics-lcas",
+  "n": "NASA ROSES-2025 B.7 Heliophysics Low-Cost Access to Space (H-LCAS)",
+  "nofo": [
+   {
+    "opp": "NNH25ZDA001N-LCAS",
+    "u": "https://simpler.grants.gov/opportunity/c2666594-e5e1-4359-9bfc-cbf5042a8e9b"
+   }
+  ],
+  "nom": false,
+  "s": "open",
+  "src": "grants:NNH25ZDA001N-LCAS",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-78-new-opportunity-b-7-heliophysics-low-cost-access-to-space/",
+  "unv": "The NSPIRES page with the full call text timed out, so award size and number of awards are not given.",
   "us": false
  },
  {

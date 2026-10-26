@@ -2190,6 +2190,32 @@
   "us": false
  },
  {
+  "a": "$8,354 for 10 weeks plus a $2,000 travel/housing supplement",
+  "added": "2026-10-26",
+  "c": "Summer program",
+  "checked": "2026-10-26",
+  "d": "2027-01-09",
+  "dt": "Application opens Nov 1, 2026; due Jan 9, 2027 (recommendation letters due Jan 8)",
+  "e": "A 10-week summer research program at Caltech (June 14 to August 20, 2027) for sophomores, juniors and non-graduating seniors in STEM who plan to pursue a PhD, with a Caltech faculty mentor. Applicants must be US citizens, permanent residents or DACA recipients, have a GPA of at least 3.4 and have prior research experience.",
+  "f": "Caltech Student-Faculty Programs",
+  "fields": [
+   "all"
+  ],
+  "id": "caltech-wave-fellows-2027",
+  "n": "Caltech WAVE Fellows (Summer 2027)",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:caltech-wave-fellows",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://sfp.caltech.edu/undergraduate-research/programs/wavefellows",
+  "unv": "The application page gives the deadline as January 9 without a year; it is the deadline for the 2027 application, which opens Nov 1, 2026.",
+  "us": true
+ },
+ {
   "a": "$70,000/yr for 24 months",
   "added": "2026-09-29",
   "c": "Fellowship",
@@ -3803,6 +3829,111 @@
   "us": false
  },
  {
+  "a": "$1,000, scroll and complimentary meeting registration",
+  "added": "2026-10-26",
+  "c": "Prize",
+  "checked": "2026-10-26",
+  "d": "2027-01-15",
+  "dt": "Nomination period Oct 15 - Jan 15, annually; this cycle closes Jan 15, 2027",
+  "e": "Recognizes early-career researchers in electrochemical deposition science and technology who received their final degree or started work in the field no more than 10 years before the nomination deadline. Nominees must be current ECS members.",
+  "f": "The Electrochemical Society, Electrodeposition Division",
+  "fields": [
+   "mat",
+   "energy"
+  ],
+  "id": "ecs-electrodeposition-early-career-investigator-award",
+  "n": "ECS Electrodeposition Division Early Career Investigator Award",
+  "nom": false,
+  "pt": "other",
+  "s": "open",
+  "src": "other:ecs-electrodeposition-early-career-award",
+  "stages": [
+   "tt",
+   "pd"
+  ],
+  "u": "https://www.electrochem.org/early-career-investigator-award",
+  "unv": "The page gives the annual Oct 15 - Jan 15 window; the 2027 closing date is taken from that annual window.",
+  "us": false
+ },
+ {
+  "a": "$1,000, certificate, meeting registration and up to $1,000 travel",
+  "added": "2026-10-26",
+  "c": "Prize",
+  "checked": "2026-10-26",
+  "d": "2027-01-15",
+  "dt": "Nomination period Oct 15 (even years) - Jan 15 (odd years); this cycle closes Jan 15, 2027; presented at the fall 2027 ECS meeting",
+  "e": "Biennial award for early-career researchers in high-temperature energy, materials and processes who began their careers no more than 12 years before the nomination deadline and have been ECS members for at least two years. Self-nominations are not accepted.",
+  "f": "The Electrochemical Society, High-Temperature Energy, Materials & Processes Division",
+  "fields": [
+   "energy",
+   "mat"
+  ],
+  "id": "ecs-htm-wagner-early-career-award",
+  "n": "ECS High-Temperature Energy, Materials & Processes Division J. Bruce Wagner, Jr. Early-Career Award",
+  "nom": true,
+  "pt": "other",
+  "s": "open",
+  "src": "other:ecs-htm-wagner-award",
+  "stages": [
+   "tt",
+   "pd"
+  ],
+  "u": "https://www.electrochem.org/htm-wagner-award",
+  "us": false
+ },
+ {
+  "a": "$1,000, certificate and complimentary meeting registration",
+  "added": "2026-10-26",
+  "c": "Prize",
+  "checked": "2026-10-26",
+  "d": "2027-01-15",
+  "dt": "Nomination period Oct 15 - Jan 15, annually; this cycle closes Jan 15, 2027",
+  "e": "Recognizes early-career researchers in the sensor field who completed their PhD within 10 years of the nomination deadline and are lead or contact author on at least two papers in an ECS journal on Sensor Division topics. Nominees must be ECS members with the Sensor Division as their primary division.",
+  "f": "The Electrochemical Society, Sensor Division",
+  "fields": [
+   "dev",
+   "mat"
+  ],
+  "id": "ecs-sensor-division-early-career-award",
+  "n": "ECS Sensor Division Early Career Award",
+  "nom": false,
+  "pt": "other",
+  "s": "open",
+  "src": "other:ecs-sensor-early-career-award",
+  "stages": [
+   "tt",
+   "pd"
+  ],
+  "u": "https://www.electrochem.org/sensor-division-early-career-award",
+  "unv": "The page gives the annual Oct 15 - Jan 15 window; the 2027 closing date is taken from that annual window.",
+  "us": false
+ },
+ {
+  "a": "$500, certificate and complimentary meeting registration",
+  "added": "2026-10-26",
+  "c": "Prize",
+  "checked": "2026-10-26",
+  "d": "2027-01-15",
+  "dt": "Nomination period Oct 15 - Jan 15, annually; this cycle closes Jan 15, 2027",
+  "e": "Recognizes graduate students doing outstanding research on sensors; nominees must be enrolled at the nomination deadline, have at least one paper in an ECS journal on a Sensor Division topic, and be ECS members with the Sensor Division as their primary division. A supervisor's nomination letter is required.",
+  "f": "The Electrochemical Society, Sensor Division",
+  "fields": [
+   "dev",
+   "mat"
+  ],
+  "id": "ecs-sensor-division-student-research-award",
+  "n": "ECS Sensor Division Student Research Award",
+  "nom": false,
+  "s": "open",
+  "src": "other:ecs-sensor-student-award",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://www.electrochem.org/ecs-sensor-division-student-research-award",
+  "unv": "The page gives the annual Oct 15 - Jan 15 window; the 2027 closing date is taken from that annual window.",
+  "us": false
+ },
+ {
   "a": "Up to $5,000; up to 4 awards",
   "added": "2026-10-03",
   "c": "Fellowship",
@@ -4211,6 +4342,40 @@
   "u": "https://fulbrightscholars.org/us-scholar-awards",
   "unv": "2028-29 dates not posted",
   "us": true
+ },
+ {
+  "a": "Typically up to $1.5M a year for 5 years per award (topic limits apply, often no more than 6 funded faculty); about $170M in total for the FY27 MURI competition",
+  "added": "2026-10-26",
+  "c": "Federal grant",
+  "checked": "2026-10-26",
+  "d": "2027-04-09",
+  "dt": "Optional white paper due Nov 20, 2026, 5 pm ET; full proposal due Apr 9, 2027, 5 pm ET (per the NOFO).",
+  "e": "AFOSR's posting of the FY2027 Department of War MURI competition; its AFOSR topics are nonlinear EUV/X-ray mixing, tunable goniopolar semiconductors, AI for scientific discovery, TEM ptychography and optical cycling centers. Only US universities (and eligible UARCs) may apply; the NOFO sets no citizenship limit for PIs.",
+  "f": "DOD AFOSR",
+  "fields": [
+   "amo",
+   "phot",
+   "mat",
+   "dev",
+   "ds"
+  ],
+  "id": "fy2027-dow-muri-afosr-posting",
+  "n": "FY2027 DoW MURI (AFOSR posting)",
+  "nofo": [
+   {
+    "opp": "NOFOAFRLAFOSR20260002",
+    "u": "https://simpler.grants.gov/opportunity/a9243901-8569-47ad-a573-8e496d198a5b"
+   }
+  ],
+  "nom": false,
+  "s": "open",
+  "src": "grants:NOFOAFRLAFOSR20260002",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://simpler.grants.gov/opportunity/a9243901-8569-47ad-a573-8e496d198a5b",
+  "us": false
  },
  {
   "a": "Ceiling $7,500,000; total $170,000,000",
@@ -7737,6 +7902,37 @@
   "us": false
  },
  {
+  "a": "Up to $475K direct costs a year; up to 4 years",
+  "added": "2026-10-26",
+  "c": "Federal grant",
+  "checked": "2026-10-26",
+  "d": "2026-11-16",
+  "dt": "Next due date Nov 16, 2026; later dates May 17, 2027 and Nov 15, 2027 (NOFO expires Nov 16, 2027)",
+  "e": "Funds advanced preclinical research to bring nanoparticle- and nanodevice-based cancer diagnostics and therapies closer to clinical development. Foreign organizations cannot apply; there is no citizenship limit for PIs.",
+  "f": "NIH NCI",
+  "fields": [
+   "bio",
+   "mat"
+  ],
+  "id": "nci-ttnci-nanotech-cancer-r01",
+  "n": "NIH NCI Toward Translation of Nanotechnology Cancer Interventions (TTNCI, R01)",
+  "nofo": [
+   {
+    "opp": "PAR-25-336",
+    "u": "https://simpler.grants.gov/opportunity/36b6fe58-bbed-461b-b995-c43ac2fbfa22"
+   }
+  ],
+  "nom": false,
+  "s": "open",
+  "src": "grants:PAR-25-336",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://simpler.grants.gov/opportunity/36b6fe58-bbed-461b-b995-c43ac2fbfa22",
+  "us": false
+ },
+ {
   "a": "commensurate with experience + health insurance + airfare; 1 year, renewable to 3",
   "added": "2026-09-30",
   "c": "Fellowship",
@@ -8174,6 +8370,38 @@
   "us": false
  },
  {
+  "a": "Budgets should rarely exceed $750K direct costs a year; up to 3 years",
+  "added": "2026-10-26",
+  "c": "Federal grant",
+  "checked": "2026-10-26",
+  "d": "2027-01-28",
+  "dt": "Last due date Jan 28, 2027; letter of intent 60 days before. The NOFO expires Jan 29, 2027.",
+  "e": "Funds team projects that take new technologies for recording or modulating activity in the human central nervous system (electrical, optical, magnetic, acoustic or combined) from proof of concept to readiness for first-in-human studies. Foreign organizations cannot apply; there is no citizenship limit for PIs.",
+  "f": "NIH BRAIN Initiative (NINDS)",
+  "fields": [
+   "bio",
+   "dev",
+   "inst"
+  ],
+  "id": "nih-brain-r18-recording-modulation-tech",
+  "n": "NIH BRAIN Initiative: Preclinical Proof of Concept for Novel Recording and Modulation Technologies in the Human CNS (R18)",
+  "nofo": [
+   {
+    "opp": "RFA-NS-24-031",
+    "u": "https://simpler.grants.gov/opportunity/8473fc98-91d3-488d-9aef-458a385cc22c"
+   }
+  ],
+  "nom": false,
+  "s": "open",
+  "src": "grants:RFA-NS-24-031",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://simpler.grants.gov/opportunity/8473fc98-91d3-488d-9aef-458a385cc22c",
+  "us": false
+ },
+ {
   "a": "Budgets not limited but expected to be $150,000-$350,000 direct costs per year; 3-year awards.",
   "added": "2026-10-21",
   "c": "Federal grant",
@@ -8343,6 +8571,39 @@
   ],
   "u": "https://simpler.grants.gov/opportunity/bfff80db-fe94-4069-b095-ea79fe5fe2c8",
   "us": true
+ },
+ {
+  "a": "Budgets should rarely exceed $750K direct costs a year; up to 3 years; about 4 awards ($6M) planned",
+  "added": "2026-10-26",
+  "c": "Federal grant",
+  "checked": "2026-10-26",
+  "d": "2027-02-01",
+  "dt": "First due date Feb 1, 2027; later dates Sep 17, 2027, May 26, 2028, Feb 1, 2029, Sep 19, 2029 and Feb 1, 2030",
+  "e": "Funds development and optimization of new devices to prevent, monitor, diagnose or treat disorders within the BRAIN and HEAL Initiative missions, up to readiness for first-in-human trials. Universities, nonprofits, companies and foreign organizations may apply; no citizenship limit for PIs is stated.",
+  "f": "NIH NIBIB (BRAIN and HEAL Initiatives)",
+  "fields": [
+   "bio",
+   "dev",
+   "inst"
+  ],
+  "id": "nih-nextech-r18-devices",
+  "n": "NIH NextTech: Translational Development of Next-Generation Diagnostic and Therapeutic Devices (R18)",
+  "nofo": [
+   {
+    "opp": "RFA-EB-28-004",
+    "u": "https://simpler.grants.gov/opportunity/50e5b762-c9bc-49bb-817e-ece3e37c28e6"
+   }
+  ],
+  "nom": false,
+  "s": "open",
+  "src": "grants:RFA-EB-28-004",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://simpler.grants.gov/opportunity/50e5b762-c9bc-49bb-817e-ece3e37c28e6",
+  "unv": "Grants.gov lists a Dec 1, 2030 close date; the NOFO lists Feb 1, 2030 as the last due date and expires Feb 2, 2030. The NIH Guide page for this RFA was not found, so dates are from the NOFO attached on grants.gov.",
+  "us": false
  },
  {
   "a": "Direct costs up to $500,000 per year; up to 5 years; about 3 awards, $2,000,000 total.",
@@ -8991,6 +9252,33 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33127",
   "us": false
+ },
+ {
+  "a": "$6,000 stipend plus on-campus housing and a travel allowance",
+  "added": "2026-10-26",
+  "c": "Summer program",
+  "checked": "2026-10-26",
+  "d": "2027-02-12",
+  "dt": "Due Fri Feb 12, 2027; program June 14 - Aug 13, 2027; the page says the 2027 application will open soon",
+  "e": "Nine-week summer research program in nanoscale materials at Northwestern's MRSEC, with experimental and theoretical/simulation projects; mostly rising juniors and seniors in science or engineering who have not yet graduated. Open only to US citizens and permanent residents.",
+  "f": "Northwestern University Materials Research Science and Engineering Center (NSF NU-MRSEC)",
+  "fields": [
+   "mat",
+   "cmx",
+   "phot",
+   "energy"
+  ],
+  "id": "northwestern-mrsec-reu-2027",
+  "n": "Northwestern MRSEC REU Summer Research Program 2027",
+  "nom": false,
+  "s": "open",
+  "src": "other:nu-mrsec-reu",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://mrsec.northwestern.edu/education/undergraduate-opportunities.html",
+  "unv": "The application form was not yet open on Oct 26, 2026.",
+  "us": true
  },
  {
   "a": "not listed",

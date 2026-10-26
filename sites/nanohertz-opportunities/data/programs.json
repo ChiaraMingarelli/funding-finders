@@ -1121,6 +1121,28 @@
   ]
  },
  {
+  "id": "caltech-wave-fellows-2027",
+  "n": "Caltech WAVE Fellows (Summer 2027)",
+  "f": "Caltech Student-Faculty Programs",
+  "c": "Summer program",
+  "s": "open",
+  "d": "2027-01-09",
+  "dt": "Application opens Nov 1, 2026; due Jan 9, 2027 (recommendation letters due Jan 8)",
+  "a": "$8,354 for 10 weeks plus a $2,000 travel/housing supplement",
+  "e": "A 10-week summer research program at Caltech (June 14 to August 20, 2027) for sophomores, juniors and non-graduating seniors in STEM who plan to pursue a PhD, with a Caltech faculty mentor. Applicants must be US citizens, permanent residents or DACA recipients, have a GPA of at least 3.4 and have prior research experience.",
+  "u": "https://sfp.caltech.edu/undergraduate-research/programs/wavefellows",
+  "unv": "The application page gives the deadline as January 9 without a year; it is the deadline for the 2027 application, which opens Nov 1, 2026.",
+  "us": true,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-26",
+  "added": "2026-10-26",
+  "stages": [
+   "ug"
+  ]
+ },
+ {
   "id": "camk-multimessenger-mbh-lisa-postdoc",
   "n": "CAMK PAN Warsaw: Postdoc in Multimessenger Astrophysics and Stellar Evolution Near Massive Black Holes",
   "f": "Nicolaus Copernicus Astronomical Center, Polish Academy of Sciences",
@@ -1699,6 +1721,29 @@
   "added": "2026-10-07",
   "stages": [
    "gr",
+   "pd"
+  ]
+ },
+ {
+  "id": "color-meets-flavor-ihl-fellow-fpga-realtime-ai",
+  "n": "Color meets Flavor (Bonn/Siegen/Dortmund/Jülich): IHL Fellow in FPGA Platforms and Real-Time AI Processing",
+  "f": "Cluster of Excellence Color meets Flavor (University of Bonn, University of Siegen, TU Dortmund, Forschungszentrum Jülich), Intelligent Hardware Lab",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-30",
+  "dt": "Nov 30, 2026 (INSPIRE deadline); to be filled as soon as possible",
+  "a": "TV-L E14; initial 3-year appointment",
+  "e": "Research fellow who leads FPGA-based real-time processing and AI-on-FPGA platforms for detector readout and data acquisition in the cluster, including the new INSIGHT experiment at ELSA; hosted at one of the partner sites. Requires a Master's degree or equivalent in electrical engineering, physics, computer engineering or a related field plus several years of relevant R&D experience; no citizenship limit stated.",
+  "u": "https://inspirehep.net/jobs/3216412",
+  "unv": "The full ad is only on INSPIRE (the cluster's career page says positions are posted there); application is by email to Dr. Qader Dorosti (Siegen). Start date not stated beyond 'as soon as possible'.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-26",
+  "added": "2026-10-26",
+  "stages": [
    "pd"
   ]
  },
@@ -2415,6 +2460,29 @@
    "pd"
   ],
   "d": null
+ },
+ {
+  "id": "esa-archival-research-visitor-programme",
+  "n": "ESA Archival Research Visitor Programme (ESAC Madrid / ESTEC Noordwijk)",
+  "f": "European Space Agency (ESA), ESAC Science Data Centre",
+  "c": "Travel",
+  "s": "open",
+  "d": "2026-10-31",
+  "dt": "Oct 31, 2026, 23:59 UTC (for visits in spring and summer 2027); reviewed twice a year, usually Apr 30 and Oct 31",
+  "a": "Travel to and from the home institution, lodging up to EUR 100/night and EUR 50/day for meals and incidentals",
+  "e": "Funds one-to-three-month research visits to ESAC or ESTEC to work on public data in the ESA space science archives (astronomy, planetary science, heliophysics), open to scientists at all career levels including PhD students. Applicants must be affiliated with an institute in an ESA Member State or Cooperating State (this includes Canada; US institutions are not eligible).",
+  "u": "https://www.cosmos.esa.int/web/esdc/visitor-programme",
+  "us": false,
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-26",
+  "added": "2026-10-26",
+  "stages": [
+   "gr",
+   "pd"
+  ]
  },
  {
   "id": "eso-studentship-programme",
@@ -8268,6 +8336,50 @@
   "d": null
  },
  {
+  "id": "leiden-observatory-phd-positions-2027",
+  "n": "Leiden Observatory: PhD positions in astronomy and astrophysics (2027 start)",
+  "f": "Leiden Observatory, Leiden University",
+  "c": "Graduate program",
+  "s": "open",
+  "d": "2026-11-15",
+  "dt": "Nov 15, 2026 for applications and all recommendation letters",
+  "a": "Four-year paid PhD positions (about EUR 43,000 gross in year 1 rising to about EUR 54,000 in year 4)",
+  "e": "General call for several funded four-year PhD positions across the Observatory's research areas, including the joint Leiden de Sitter Fellowship in cosmology with the Lorentz Institute. Applicants need an MSc degree or equivalent by the start date; no citizenship limit stated.",
+  "u": "https://local.strw.leidenuniv.nl/jobs/phd/",
+  "unv": "The number of positions (9) and salary figures come from the Hyperspace@GU announcement; the Observatory page says 'several'.",
+  "us": false,
+  "nom": false,
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-26",
+  "added": "2026-10-26",
+  "stages": [
+   "gr"
+  ]
+ },
+ {
+  "id": "lethbridge-msc-theoretical-physics-bernardo-2027",
+  "n": "University of Lethbridge: Funded MSc position in theoretical physics (Fall 2027, Bernardo group)",
+  "f": "University of Lethbridge, Department of Physics and Astronomy (Heliudson Bernardo)",
+  "c": "Graduate program",
+  "s": "open",
+  "d": "2026-12-01",
+  "dt": "Full consideration Dec 1, 2026 for the Fall 2027 position; review may continue until filled",
+  "a": "Funded MSc (teaching and research assistantships and scholarships)",
+  "e": "Funded MSc position starting September 2027 in cosmology, quantum gravity, foundations of quantum mechanics or physics in curved spacetimes; selected candidates must also apply formally to the School of Graduate Studies. Requires a BSc in physics or a related field; the Fall 2027 position is open to domestic and international applicants.",
+  "u": "https://inspirehep.net/jobs/3191140",
+  "unv": "A second (January 2027) position for Canadian domestic applicants had a Sep 15, 2026 deadline and is not included.",
+  "us": false,
+  "nom": false,
+  "region": "Canada",
+  "nfit": "Medium",
+  "checked": "2026-10-26",
+  "added": "2026-10-26",
+  "stages": [
+   "gr"
+  ]
+ },
+ {
   "id": "ligo-lab-data-analysis-postdoc-2026",
   "n": "LIGO Laboratory: Data Analysis Postdoc",
   "f": "LIGO Laboratory (Caltech / MIT)",
@@ -8737,6 +8849,30 @@
   "stages": [
    "pd"
   ]
+ },
+ {
+  "id": "meerkat-director-discretionary",
+  "n": "MeerKAT Director's Discretionary Time (DDT)",
+  "f": "SARAO MeerKAT",
+  "c": "Observing time",
+  "s": "rolling",
+  "dt": "Proposals can be submitted at any time by email (one PDF, at most 3 pages)",
+  "a": "Up to 5% of competed MeerKAT time, for small projects",
+  "e": "MeerKAT radio telescope time for small projects that cannot be proposed through the Open Time call, typically transients, or that are likely to lead to rapid high-impact papers. Proposals must justify why MeerKAT is the best instrument and include data-processing and publication plans.",
+  "u": "https://skaafrica.atlassian.net/wiki/spaces/ESDKB/pages/1600913460/Director+s+Discretionary+Time+DDT",
+  "unv": "The DDT page does not state PI eligibility; the MeerKAT Open Time call is open to researchers at any institution, including postdocs and PhD students.",
+  "us": false,
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "nfit": "High",
+  "checked": "2026-10-26",
+  "added": "2026-10-26",
+  "stages": [
+   "pd",
+   "gr"
+  ],
+  "d": null
  },
  {
   "id": "meerkat-open-time",
@@ -9590,6 +9726,28 @@
   "stages": [
    "gr",
    "ug"
+  ]
+ },
+ {
+  "id": "nicpb-tallinn-phd-bsm-colliders-gw",
+  "n": "NICPB Tallinn: PhD position in BSM particle physics at colliders and in gravitational-wave observations",
+  "f": "National Institute of Chemical Physics and Biophysics (NICPB), Laboratory of High Energy and Computational Physics; degree from Tallinn University of Technology (Carlo Marzo, Ville Vaskonen)",
+  "c": "Graduate program",
+  "s": "open",
+  "d": "2026-11-30",
+  "dt": "Nov 30, 2026; applications reviewed on arrival, early start preferred",
+  "a": "Fully funded PhD position with salary for four academic years",
+  "e": "Fully funded PhD in theoretical particle physics on BSM model building (flavour, neutrino masses, dark matter), linking collider signals to phase-transition gravitational-wave signals at LISA and the Einstein Telescope. Requires a Master's degree in physics and fluency in English; no citizenship limit stated.",
+  "u": "https://inspirehep.net/jobs/3216413",
+  "unv": "The ad is posted on INSPIRE and the LISA Consortium positions page; no separate host page found.",
+  "us": false,
+  "nom": false,
+  "region": "International",
+  "nfit": "High",
+  "checked": "2026-10-26",
+  "added": "2026-10-26",
+  "stages": [
+   "gr"
   ]
  },
  {
@@ -12669,6 +12827,28 @@
   "added": "2026-09-30",
   "stages": [
    "pd"
+  ]
+ },
+ {
+  "id": "u2grc-umassd-uri-funded-phd-gw-2027",
+  "n": "UMass Dartmouth / URI Gravity Research Consortium (U²GRC): funded PhD positions in gravitational-wave science",
+  "f": "UMass-URI Gravity Research Consortium (UMass Dartmouth and University of Rhode Island)",
+  "c": "Graduate program",
+  "s": "open",
+  "d": "2027-02-01",
+  "dt": "Apply by Feb 1, 2027 for best chances of receiving funding",
+  "a": "Multiple fully funded PhD positions",
+  "e": "Fully funded PhD positions in gravitational-wave data analysis and detector characterization, surrogate models, numerical relativity, black hole perturbation theory and quantum information/gravity, through the UMass Dartmouth Engineering and Applied Science PhD or the URI Physics PhD. No citizenship limit is stated.",
+  "u": "https://web.uri.edu/gravity/phd-openings/",
+  "unv": "Stipend amount not stated; Feb 1, 2027 is a priority date for funding, not a stated final deadline.",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "High",
+  "checked": "2026-10-26",
+  "added": "2026-10-26",
+  "stages": [
+   "gr"
   ]
  },
  {

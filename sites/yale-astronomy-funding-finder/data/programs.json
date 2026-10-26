@@ -1605,6 +1605,32 @@
   "us": false
  },
  {
+  "a": "$8,354 for 10 weeks plus a $2,000 travel/housing supplement",
+  "added": "2026-10-26",
+  "c": "Summer program",
+  "checked": "2026-10-26",
+  "d": "2027-01-09",
+  "dt": "Application opens Nov 1, 2026; due Jan 9, 2027 (recommendation letters due Jan 8)",
+  "e": "A 10-week summer research program at Caltech (June 14 to August 20, 2027) for sophomores, juniors and non-graduating seniors in STEM who plan to pursue a PhD, with a Caltech faculty mentor. Applicants must be US citizens, permanent residents or DACA recipients, have a GPA of at least 3.4 and have prior research experience.",
+  "f": "Caltech Student-Faculty Programs",
+  "fields": [
+   "all"
+  ],
+  "id": "caltech-wave-fellows-2027",
+  "n": "Caltech WAVE Fellows (Summer 2027)",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:caltech-wave-fellows",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://sfp.caltech.edu/undergraduate-research/programs/wavefellows",
+  "unv": "The application page gives the deadline as January 9 without a year; it is the deadline for the 2027 application, which opens Nov 1, 2026.",
+  "us": true
+ },
+ {
   "a": "About 13,000 PLN gross/month; up to 30 months",
   "added": "2026-10-02",
   "asub": [
@@ -3357,6 +3383,35 @@
   "us": false
  },
  {
+  "a": "VLT/VLTI and La Silla time from up to 5% of general observing time; programmes are generally under 5 hours",
+  "added": "2026-10-26",
+  "c": "Observing time",
+  "checked": "2026-10-26",
+  "d": null,
+  "dt": "Proposals may be submitted at any time through the p1 tool",
+  "e": "ESO's channel for urgent targets of opportunity, highly competitive topics, quick follow-up of recent results and small feasibility tests that cannot wait for the next regular or Fast Track Channel call. Reviewed by a DDT committee; all co-Is need an ESO User Portal account.",
+  "f": "European Southern Observatory",
+  "fields": [
+   "astro"
+  ],
+  "id": "eso-director-discretionary",
+  "n": "ESO Director's Discretionary Time (DDT)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:eso-ddt",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://www.eso.org/sci/observing/policies/ddt_policy.html",
+  "unv": "The DDT page does not state limits for PIs from non-member states; ESO's regular call accepts them and ranks them on merit, with preference to member-state proposals rated equally. Student PI rules not stated.",
+  "us": false
+ },
+ {
   "a": "Small, quick-turnaround programs on ESO telescopes",
   "added": "2026-10-03",
   "asub": [],
@@ -4061,6 +4116,35 @@
   ],
   "u": "https://greenbankobservatory.org/events/oct-2026-gbt-training-workshop/",
   "unv": "Student eligibility not explicitly stated",
+  "us": false
+ },
+ {
+  "a": "Gemini North and South time from up to 5% of available observing time; requests are typically under 15 hours",
+  "added": "2026-10-26",
+  "c": "Observing time",
+  "checked": "2026-10-26",
+  "d": null,
+  "dt": "Requests accepted at any time of the year, through the Gemini Phase I Tool for the current semester",
+  "e": "Gemini's channel for scientifically urgent observations, prompted by developments since the last proposal cycle, that cannot be handled by Fast Turnaround. Open to astronomers worldwide; requests are judged by the Gemini Director Time Review Board.",
+  "f": "International Gemini Observatory (NSF NOIRLab)",
+  "fields": [
+   "astro"
+  ],
+  "id": "gemini-director-discretionary",
+  "n": "Gemini Director's Discretionary Time (DDT)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:gemini-ddt",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://www.gemini.edu/observing/phase-i/ddt",
+  "unv": "The page does not say whether students may be PI.",
   "us": false
  },
  {
@@ -6114,6 +6198,35 @@
   "us": false
  },
  {
+  "a": "A small fraction of NOEMA and 30-meter observing time",
+  "added": "2026-10-26",
+  "c": "Observing time",
+  "checked": "2026-10-26",
+  "d": null,
+  "dt": "Proposals may be submitted at any time through the IRAM Proposal Management System; give at least two weeks' notice for non-ToO requests",
+  "e": "IRAM's channel for target-of-opportunity events, urgent or high-impact follow-up, and small tests of new ideas at millimetre wavelengths. Proposals must explain why they were not submitted at the regular deadline.",
+  "f": "IRAM (Institut de Radioastronomie Millimétrique)",
+  "fields": [
+   "astro"
+  ],
+  "id": "iram-director-discretionary",
+  "n": "IRAM Director's Discretionary Time (NOEMA and 30-meter)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:iram-ddt",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://iram-institute.org/science-portal/proposals/directors-discretionary-time/",
+  "unv": "The DDT page does not state PI eligibility; IRAM's regular calls reserve a share of time for PIs outside the partner countries.",
+  "us": false
+ },
+ {
   "a": "Observing time on the NOEMA interferometer and the IRAM 30-m telescope for the summer scheduling period (1 Jun - 30 Nov). PIs at institutes outside IRAM partner countries compete for a reserved share: 7.5% of NOEMA time and 15% of 30-m time.",
   "added": "2026-10-03",
   "c": "Observing time",
@@ -6865,6 +6978,61 @@
   "us": false
  },
  {
+  "a": "Four-year paid PhD positions (about EUR 43,000 gross in year 1 rising to about EUR 54,000 in year 4)",
+  "added": "2026-10-26",
+  "c": "Graduate program",
+  "checked": "2026-10-26",
+  "d": "2026-11-15",
+  "dt": "Nov 15, 2026 for applications and all recommendation letters",
+  "e": "General call for several funded four-year PhD positions across the Observatory's research areas, including the joint Leiden de Sitter Fellowship in cosmology with the Lorentz Institute. Applicants need an MSc degree or equivalent by the start date; no citizenship limit stated.",
+  "f": "Leiden Observatory, Leiden University",
+  "fields": [
+   "astro"
+  ],
+  "id": "leiden-observatory-phd-positions-2027",
+  "n": "Leiden Observatory: PhD positions in astronomy and astrophysics (2027 start)",
+  "nfit": "Medium",
+  "nom": false,
+  "region": "International",
+  "s": "open",
+  "src": "other:leiden-strw-phd-2027",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://local.strw.leidenuniv.nl/jobs/phd/",
+  "unv": "The number of positions (9) and salary figures come from the Hyperspace@GU announcement; the Observatory page says 'several'.",
+  "us": false
+ },
+ {
+  "a": "Funded MSc (teaching and research assistantships and scholarships)",
+  "added": "2026-10-26",
+  "asub": [
+   "cos"
+  ],
+  "c": "Graduate program",
+  "checked": "2026-10-26",
+  "d": "2026-12-01",
+  "dt": "Full consideration Dec 1, 2026 for the Fall 2027 position; review may continue until filled",
+  "e": "Funded MSc position starting September 2027 in cosmology, quantum gravity, foundations of quantum mechanics or physics in curved spacetimes; selected candidates must also apply formally to the School of Graduate Studies. Requires a BSc in physics or a related field; the Fall 2027 position is open to domestic and international applicants.",
+  "f": "University of Lethbridge, Department of Physics and Astronomy (Heliudson Bernardo)",
+  "fields": [
+   "grav"
+  ],
+  "id": "lethbridge-msc-theoretical-physics-bernardo-2027",
+  "n": "University of Lethbridge: Funded MSc position in theoretical physics (Fall 2027, Bernardo group)",
+  "nfit": "Medium",
+  "nom": false,
+  "region": "Canada",
+  "s": "open",
+  "src": "inspire:3191140",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://inspirehep.net/jobs/3191140",
+  "unv": "A second (January 2027) position for Canadian domestic applicants had a Sep 15, 2026 deadline and is not included.",
+  "us": false
+ },
+ {
   "a": "$70,000-$80,000 per year",
   "added": "2026-10-09",
   "asub": [
@@ -7391,6 +7559,36 @@
    "ten"
   ],
   "u": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/max-planck-humboldt-research-award",
+  "us": false
+ },
+ {
+  "a": "Up to 5% of competed MeerKAT time, for small projects",
+  "added": "2026-10-26",
+  "c": "Observing time",
+  "checked": "2026-10-26",
+  "d": null,
+  "dt": "Proposals can be submitted at any time by email (one PDF, at most 3 pages)",
+  "e": "MeerKAT radio telescope time for small projects that cannot be proposed through the Open Time call, typically transients, or that are likely to lead to rapid high-impact papers. Proposals must justify why MeerKAT is the best instrument and include data-processing and publication plans.",
+  "f": "SARAO MeerKAT",
+  "fields": [
+   "astro"
+  ],
+  "id": "meerkat-director-discretionary",
+  "n": "MeerKAT Director's Discretionary Time (DDT)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:meerkat-ddt",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://skaafrica.atlassian.net/wiki/spaces/ESDKB/pages/1600913460/Director+s+Discretionary+Time+DDT",
+  "unv": "The DDT page does not state PI eligibility; the MeerKAT Open Time call is open to researchers at any institution, including postdocs and PhD students.",
   "us": false
  },
  {
@@ -8419,6 +8617,41 @@
   "us": false
  },
  {
+  "added": "2026-10-26",
+  "asub": [
+   "star",
+   "inst"
+  ],
+  "c": "Federal grant",
+  "checked": "2026-10-26",
+  "d": "2026-11-20",
+  "dt": "Step-1 proposal due Nov 20, 2026 (required); Step-2 proposal due Mar 16, 2027 (ROSES-25 Amendment 78)",
+  "e": "Funds heliophysics investigations flown as research payloads on suborbital and airborne platforms, with a binding two-step submission and dual-anonymous review. NASA generally funds only US institutions; non-US groups may take part without exchange of funds.",
+  "f": "NASA Science Mission Directorate, Heliophysics Division",
+  "fields": [
+   "astro",
+   "inst"
+  ],
+  "id": "nasa-roses25-b7-heliophysics-lcas",
+  "n": "NASA ROSES-2025 B.7 Heliophysics Low-Cost Access to Space (H-LCAS)",
+  "nofo": [
+   {
+    "opp": "NNH25ZDA001N-LCAS",
+    "u": "https://simpler.grants.gov/opportunity/c2666594-e5e1-4359-9bfc-cbf5042a8e9b"
+   }
+  ],
+  "nom": false,
+  "s": "open",
+  "src": "grants:NNH25ZDA001N-LCAS",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-78-new-opportunity-b-7-heliophysics-low-cost-access-to-space/",
+  "unv": "The NSPIRES page with the full call text timed out, so award size and number of awards are not given.",
+  "us": false
+ },
+ {
   "a": "Multi-node networks, up to 3 years; NASA expects about $6M in first-year funding across 5-6 new awards",
   "added": "2026-09-28",
   "asub": [
@@ -8785,6 +9018,37 @@
   ],
   "u": "https://www.nersc.gov/users/user-news/call-for-proposals-for-nersc-ay-2027",
   "unv": "Whether a PI without DOE funding can get a Mission Science award, and who may serve as PI, not checked; late-request success depends on remaining hours"
+ },
+ {
+  "a": "Fully funded PhD position with salary for four academic years",
+  "added": "2026-10-26",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Graduate program",
+  "checked": "2026-10-26",
+  "d": "2026-11-30",
+  "dt": "Nov 30, 2026; applications reviewed on arrival, early start preferred",
+  "e": "Fully funded PhD in theoretical particle physics on BSM model building (flavour, neutrino masses, dark matter), linking collider signals to phase-transition gravitational-wave signals at LISA and the Einstein Telescope. Requires a Master's degree in physics and fluency in English; no citizenship limit stated.",
+  "f": "National Institute of Chemical Physics and Biophysics (NICPB), Laboratory of High Energy and Computational Physics; degree from Tallinn University of Technology (Carlo Marzo, Ville Vaskonen)",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "nicpb-tallinn-phd-bsm-colliders-gw",
+  "n": "NICPB Tallinn: PhD position in BSM particle physics at colliders and in gravitational-wave observations",
+  "nfit": "High",
+  "nom": false,
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3216413",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://inspirehep.net/jobs/3216413",
+  "unv": "The ad is posted on INSPIRE and the LISA Consortium positions page; no separate host page found.",
+  "us": false
  },
  {
   "a": "Budget not capped; ~6 awards",
@@ -10197,6 +10461,37 @@
   ],
   "u": "https://hyperspace.uni-frankfurt.de/2026/10/15/postdoctoral-fellowship-in-gravitational-wave-modelling-analysis/",
   "unv": "No NUS-hosted ad found; details are from the Hyperspace@GU post. Salary not stated.",
+  "us": false
+ },
+ {
+  "a": "NuSTAR hard X-ray time from PI discretionary time; most approved DDT exposures are 40 ks or less",
+  "added": "2026-10-26",
+  "asub": [
+   "he"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-26",
+  "d": null,
+  "dt": "Requests accepted at any time through the NuSTAR ToO/DDT web form; response times under 48 hours are reserved for GO programs",
+  "e": "Web-form requests for NuSTAR observations of events that could not have been proposed in a General Observer cycle; approved by the NuSTAR PI or designee, and the data have no exclusive-use period. Requests involving PRC organizations or bilateral work with the PRC are not eligible.",
+  "f": "NASA / NuSTAR Science Operations Center (Caltech)",
+  "fields": [
+   "astro"
+  ],
+  "id": "nustar-director-discretionary",
+  "n": "NuSTAR Director's Discretionary Time (DDT) requests",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:nustar-ddt",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://nustarsoc.caltech.edu/NuSTAR_Public/GO/GOsubmit.php",
+  "unv": "The form does not say whether students may be the principal requester.",
   "us": false
  },
  {
@@ -12658,6 +12953,36 @@
    "pd"
   ],
   "u": "https://apply.interfolio.com/194203",
+  "us": false
+ },
+ {
+  "a": "Multiple fully funded PhD positions",
+  "added": "2026-10-26",
+  "asub": [
+   "he"
+  ],
+  "c": "Graduate program",
+  "checked": "2026-10-26",
+  "d": "2027-02-01",
+  "dt": "Apply by Feb 1, 2027 for best chances of receiving funding",
+  "e": "Fully funded PhD positions in gravitational-wave data analysis and detector characterization, surrogate models, numerical relativity, black hole perturbation theory and quantum information/gravity, through the UMass Dartmouth Engineering and Applied Science PhD or the URI Physics PhD. No citizenship limit is stated.",
+  "f": "UMass-URI Gravity Research Consortium (UMass Dartmouth and University of Rhode Island)",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "u2grc-umassd-uri-funded-phd-gw-2027",
+  "n": "UMass Dartmouth / URI Gravity Research Consortium (U²GRC): funded PhD positions in gravitational-wave science",
+  "nfit": "High",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:u2grc-phd-2027",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://web.uri.edu/gravity/phd-openings/",
+  "unv": "Stipend amount not stated; Feb 1, 2027 is a priority date for funding, not a stated final deadline.",
   "us": false
  },
  {
