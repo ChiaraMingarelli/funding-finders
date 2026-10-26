@@ -1,0 +1,34 @@
+{
+ "a": "Up to $475K direct costs a year; up to 4 years",
+ "added": "2026-10-26",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-26",
+ "d": "2026-11-16",
+ "dt": "Next due date Nov 16, 2026; later dates May 17, 2027 and Nov 15, 2027 (NOFO expires Nov 16, 2027)",
+ "e": "Funds advanced preclinical research to bring nanoparticle- and nanodevice-based cancer diagnostics and therapies closer to clinical development. Foreign organizations cannot apply; there is no citizenship limit for PIs.",
+ "f": "NIH NCI",
+ "fields": [
+  "bio",
+  "mat"
+ ],
+ "id": "nci-ttnci-nanotech-cancer-r01",
+ "n": "NIH NCI Toward Translation of Nanotechnology Cancer Interventions (TTNCI, R01)",
+ "nofo": [
+  {
+   "opp": "PAR-25-336",
+   "u": "https://simpler.grants.gov/opportunity/36b6fe58-bbed-461b-b995-c43ac2fbfa22"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:PAR-25-336",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/36b6fe58-bbed-461b-b995-c43ac2fbfa22",
+ "us": false
+}

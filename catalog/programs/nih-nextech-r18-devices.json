@@ -1,0 +1,36 @@
+{
+ "a": "Budgets should rarely exceed $750K direct costs a year; up to 3 years; about 4 awards ($6M) planned",
+ "added": "2026-10-26",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-26",
+ "d": "2027-02-01",
+ "dt": "First due date Feb 1, 2027; later dates Sep 17, 2027, May 26, 2028, Feb 1, 2029, Sep 19, 2029 and Feb 1, 2030",
+ "e": "Funds development and optimization of new devices to prevent, monitor, diagnose or treat disorders within the BRAIN and HEAL Initiative missions, up to readiness for first-in-human trials. Universities, nonprofits, companies and foreign organizations may apply; no citizenship limit for PIs is stated.",
+ "f": "NIH NIBIB (BRAIN and HEAL Initiatives)",
+ "fields": [
+  "bio",
+  "dev",
+  "inst"
+ ],
+ "id": "nih-nextech-r18-devices",
+ "n": "NIH NextTech: Translational Development of Next-Generation Diagnostic and Therapeutic Devices (R18)",
+ "nofo": [
+  {
+   "opp": "RFA-EB-28-004",
+   "u": "https://simpler.grants.gov/opportunity/50e5b762-c9bc-49bb-817e-ece3e37c28e6"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:RFA-EB-28-004",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/50e5b762-c9bc-49bb-817e-ece3e37c28e6",
+ "unv": "Grants.gov lists a Dec 1, 2030 close date; the NOFO lists Feb 1, 2030 as the last due date and expires Feb 2, 2030. The NIH Guide page for this RFA was not found, so dates are from the NOFO attached on grants.gov.",
+ "us": false
+}

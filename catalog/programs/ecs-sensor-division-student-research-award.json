@@ -1,0 +1,28 @@
+{
+ "a": "$500, certificate and complimentary meeting registration",
+ "added": "2026-10-26",
+ "aud": [
+  "ap"
+ ],
+ "c": "Prize",
+ "checked": "2026-10-26",
+ "d": "2027-01-15",
+ "dt": "Nomination period Oct 15 - Jan 15, annually; this cycle closes Jan 15, 2027",
+ "e": "Recognizes graduate students doing outstanding research on sensors; nominees must be enrolled at the nomination deadline, have at least one paper in an ECS journal on a Sensor Division topic, and be ECS members with the Sensor Division as their primary division. A supervisor's nomination letter is required.",
+ "f": "The Electrochemical Society, Sensor Division",
+ "fields": [
+  "dev",
+  "mat"
+ ],
+ "id": "ecs-sensor-division-student-research-award",
+ "n": "ECS Sensor Division Student Research Award",
+ "nom": false,
+ "s": "open",
+ "src": "other:ecs-sensor-student-award",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://www.electrochem.org/ecs-sensor-division-student-research-award",
+ "unv": "The page gives the annual Oct 15 - Jan 15 window; the 2027 closing date is taken from that annual window.",
+ "us": false
+}

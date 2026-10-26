@@ -1,0 +1,35 @@
+{
+ "a": "Multiple fully funded PhD positions",
+ "added": "2026-10-26",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Graduate program",
+ "checked": "2026-10-26",
+ "d": "2027-02-01",
+ "dt": "Apply by Feb 1, 2027 for best chances of receiving funding",
+ "e": "Fully funded PhD positions in gravitational-wave data analysis and detector characterization, surrogate models, numerical relativity, black hole perturbation theory and quantum information/gravity, through the UMass Dartmouth Engineering and Applied Science PhD or the URI Physics PhD. No citizenship limit is stated.",
+ "f": "UMass-URI Gravity Research Consortium (UMass Dartmouth and University of Rhode Island)",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "u2grc-umassd-uri-funded-phd-gw-2027",
+ "n": "UMass Dartmouth / URI Gravity Research Consortium (U²GRC): funded PhD positions in gravitational-wave science",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:u2grc-phd-2027",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://web.uri.edu/gravity/phd-openings/",
+ "unv": "Stipend amount not stated; Feb 1, 2027 is a priority date for funding, not a stated final deadline.",
+ "us": false
+}

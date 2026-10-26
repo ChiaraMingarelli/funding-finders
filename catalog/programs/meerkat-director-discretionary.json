@@ -1,0 +1,35 @@
+{
+ "a": "Up to 5% of competed MeerKAT time, for small projects",
+ "added": "2026-10-26",
+ "aud": [
+  "ast",
+  "ng",
+  "radar"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-26",
+ "d": null,
+ "dt": "Proposals can be submitted at any time by email (one PDF, at most 3 pages)",
+ "e": "MeerKAT radio telescope time for small projects that cannot be proposed through the Open Time call, typically transients, or that are likely to lead to rapid high-impact papers. Proposals must justify why MeerKAT is the best instrument and include data-processing and publication plans.",
+ "f": "SARAO MeerKAT",
+ "fields": [
+  "astro"
+ ],
+ "id": "meerkat-director-discretionary",
+ "n": "MeerKAT Director's Discretionary Time (DDT)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "rolling",
+ "src": "other:meerkat-ddt",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://skaafrica.atlassian.net/wiki/spaces/ESDKB/pages/1600913460/Director+s+Discretionary+Time+DDT",
+ "unv": "The DDT page does not state PI eligibility; the MeerKAT Open Time call is open to researchers at any institution, including postdocs and PhD students.",
+ "us": false
+}

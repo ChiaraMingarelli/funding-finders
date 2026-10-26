@@ -1,0 +1,38 @@
+{
+ "a": "Typically up to $1.5M a year for 5 years per award (topic limits apply, often no more than 6 funded faculty); about $170M in total for the FY27 MURI competition",
+ "added": "2026-10-26",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-26",
+ "d": "2027-04-09",
+ "dt": "Optional white paper due Nov 20, 2026, 5 pm ET; full proposal due Apr 9, 2027, 5 pm ET (per the NOFO).",
+ "e": "AFOSR's posting of the FY2027 Department of War MURI competition; its AFOSR topics are nonlinear EUV/X-ray mixing, tunable goniopolar semiconductors, AI for scientific discovery, TEM ptychography and optical cycling centers. Only US universities (and eligible UARCs) may apply; the NOFO sets no citizenship limit for PIs.",
+ "f": "DOD AFOSR",
+ "fields": [
+  "amo",
+  "phot",
+  "mat",
+  "dev",
+  "ds"
+ ],
+ "id": "fy2027-dow-muri-afosr-posting",
+ "n": "FY2027 DoW MURI (AFOSR posting)",
+ "nofo": [
+  {
+   "opp": "NOFOAFRLAFOSR20260002",
+   "u": "https://simpler.grants.gov/opportunity/a9243901-8569-47ad-a573-8e496d198a5b"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:NOFOAFRLAFOSR20260002",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/a9243901-8569-47ad-a573-8e496d198a5b",
+ "us": false
+}

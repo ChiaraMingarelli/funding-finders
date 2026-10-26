@@ -1,0 +1,32 @@
+{
+ "a": "Gemini North and South time from up to 5% of available observing time; requests are typically under 15 hours",
+ "added": "2026-10-26",
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-26",
+ "d": null,
+ "dt": "Requests accepted at any time of the year, through the Gemini Phase I Tool for the current semester",
+ "e": "Gemini's channel for scientifically urgent observations, prompted by developments since the last proposal cycle, that cannot be handled by Fast Turnaround. Open to astronomers worldwide; requests are judged by the Gemini Director Time Review Board.",
+ "f": "International Gemini Observatory (NSF NOIRLab)",
+ "fields": [
+  "astro"
+ ],
+ "id": "gemini-director-discretionary",
+ "n": "Gemini Director's Discretionary Time (DDT)",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "rolling",
+ "src": "other:gemini-ddt",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://www.gemini.edu/observing/phase-i/ddt",
+ "unv": "The page does not say whether students may be PI.",
+ "us": false
+}

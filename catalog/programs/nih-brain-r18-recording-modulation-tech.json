@@ -1,0 +1,35 @@
+{
+ "a": "Budgets should rarely exceed $750K direct costs a year; up to 3 years",
+ "added": "2026-10-26",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-26",
+ "d": "2027-01-28",
+ "dt": "Last due date Jan 28, 2027; letter of intent 60 days before. The NOFO expires Jan 29, 2027.",
+ "e": "Funds team projects that take new technologies for recording or modulating activity in the human central nervous system (electrical, optical, magnetic, acoustic or combined) from proof of concept to readiness for first-in-human studies. Foreign organizations cannot apply; there is no citizenship limit for PIs.",
+ "f": "NIH BRAIN Initiative (NINDS)",
+ "fields": [
+  "bio",
+  "dev",
+  "inst"
+ ],
+ "id": "nih-brain-r18-recording-modulation-tech",
+ "n": "NIH BRAIN Initiative: Preclinical Proof of Concept for Novel Recording and Modulation Technologies in the Human CNS (R18)",
+ "nofo": [
+  {
+   "opp": "RFA-NS-24-031",
+   "u": "https://simpler.grants.gov/opportunity/8473fc98-91d3-488d-9aef-458a385cc22c"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:RFA-NS-24-031",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/8473fc98-91d3-488d-9aef-458a385cc22c",
+ "us": false
+}

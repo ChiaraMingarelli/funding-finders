@@ -1,0 +1,29 @@
+{
+ "a": "$1,000, certificate, meeting registration and up to $1,000 travel",
+ "added": "2026-10-26",
+ "aud": [
+  "ap"
+ ],
+ "c": "Prize",
+ "checked": "2026-10-26",
+ "d": "2027-01-15",
+ "dt": "Nomination period Oct 15 (even years) - Jan 15 (odd years); this cycle closes Jan 15, 2027; presented at the fall 2027 ECS meeting",
+ "e": "Biennial award for early-career researchers in high-temperature energy, materials and processes who began their careers no more than 12 years before the nomination deadline and have been ECS members for at least two years. Self-nominations are not accepted.",
+ "f": "The Electrochemical Society, High-Temperature Energy, Materials & Processes Division",
+ "fields": [
+  "energy",
+  "mat"
+ ],
+ "id": "ecs-htm-wagner-early-career-award",
+ "n": "ECS High-Temperature Energy, Materials & Processes Division J. Bruce Wagner, Jr. Early-Career Award",
+ "nom": true,
+ "pt": "other",
+ "s": "open",
+ "src": "other:ecs-htm-wagner-award",
+ "stages": [
+  "tt",
+  "pd"
+ ],
+ "u": "https://www.electrochem.org/htm-wagner-award",
+ "us": false
+}

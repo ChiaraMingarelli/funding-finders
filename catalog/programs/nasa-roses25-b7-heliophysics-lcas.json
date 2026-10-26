@@ -1,0 +1,39 @@
+{
+ "added": "2026-10-26",
+ "asub": [
+  "star",
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-10-26",
+ "d": "2026-11-20",
+ "dt": "Step-1 proposal due Nov 20, 2026 (required); Step-2 proposal due Mar 16, 2027 (ROSES-25 Amendment 78)",
+ "e": "Funds heliophysics investigations flown as research payloads on suborbital and airborne platforms, with a binding two-step submission and dual-anonymous review. NASA generally funds only US institutions; non-US groups may take part without exchange of funds.",
+ "f": "NASA Science Mission Directorate, Heliophysics Division",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "nasa-roses25-b7-heliophysics-lcas",
+ "n": "NASA ROSES-2025 B.7 Heliophysics Low-Cost Access to Space (H-LCAS)",
+ "nofo": [
+  {
+   "opp": "NNH25ZDA001N-LCAS",
+   "u": "https://simpler.grants.gov/opportunity/c2666594-e5e1-4359-9bfc-cbf5042a8e9b"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:NNH25ZDA001N-LCAS",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-78-new-opportunity-b-7-heliophysics-low-cost-access-to-space/",
+ "unv": "The NSPIRES page with the full call text timed out, so award size and number of awards are not given.",
+ "us": false
+}

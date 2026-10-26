@@ -1,0 +1,30 @@
+{
+ "a": "Travel to and from the home institution, lodging up to EUR 100/night and EUR 50/day for meals and incidentals",
+ "added": "2026-10-26",
+ "aud": [
+  "ng"
+ ],
+ "c": "Travel",
+ "checked": "2026-10-26",
+ "d": "2026-10-31",
+ "dt": "Oct 31, 2026, 23:59 UTC (for visits in spring and summer 2027); reviewed twice a year, usually Apr 30 and Oct 31",
+ "e": "Funds one-to-three-month research visits to ESAC or ESTEC to work on public data in the ESA space science archives (astronomy, planetary science, heliophysics), open to scientists at all career levels including PhD students. Applicants must be affiliated with an institute in an ESA Member State or Cooperating State (this includes Canada; US institutions are not eligible).",
+ "f": "European Space Agency (ESA), ESAC Science Data Centre",
+ "fields": [
+  "astro"
+ ],
+ "id": "esa-archival-research-visitor-programme",
+ "n": "ESA Archival Research Visitor Programme (ESAC Madrid / ESTEC Noordwijk)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "open",
+ "src": "other:esa-arvp",
+ "stages": [
+  "gr",
+  "pd"
+ ],
+ "u": "https://www.cosmos.esa.int/web/esdc/visitor-programme",
+ "us": false
+}

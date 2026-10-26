@@ -1,0 +1,30 @@
+{
+ "a": "$6,000 stipend plus on-campus housing and a travel allowance",
+ "added": "2026-10-26",
+ "aud": [
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-10-26",
+ "d": "2027-02-12",
+ "dt": "Due Fri Feb 12, 2027; program June 14 - Aug 13, 2027; the page says the 2027 application will open soon",
+ "e": "Nine-week summer research program in nanoscale materials at Northwestern's MRSEC, with experimental and theoretical/simulation projects; mostly rising juniors and seniors in science or engineering who have not yet graduated. Open only to US citizens and permanent residents.",
+ "f": "Northwestern University Materials Research Science and Engineering Center (NSF NU-MRSEC)",
+ "fields": [
+  "mat",
+  "cmx",
+  "phot",
+  "energy"
+ ],
+ "id": "northwestern-mrsec-reu-2027",
+ "n": "Northwestern MRSEC REU Summer Research Program 2027",
+ "nom": false,
+ "s": "open",
+ "src": "other:nu-mrsec-reu",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://mrsec.northwestern.edu/education/undergraduate-opportunities.html",
+ "unv": "The application form was not yet open on Oct 26, 2026.",
+ "us": true
+}

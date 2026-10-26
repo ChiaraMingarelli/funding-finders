@@ -1,0 +1,30 @@
+{
+ "a": "Four-year paid PhD positions (about EUR 43,000 gross in year 1 rising to about EUR 54,000 in year 4)",
+ "added": "2026-10-26",
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Graduate program",
+ "checked": "2026-10-26",
+ "d": "2026-11-15",
+ "dt": "Nov 15, 2026 for applications and all recommendation letters",
+ "e": "General call for several funded four-year PhD positions across the Observatory's research areas, including the joint Leiden de Sitter Fellowship in cosmology with the Lorentz Institute. Applicants need an MSc degree or equivalent by the start date; no citizenship limit stated.",
+ "f": "Leiden Observatory, Leiden University",
+ "fields": [
+  "astro"
+ ],
+ "id": "leiden-observatory-phd-positions-2027",
+ "n": "Leiden Observatory: PhD positions in astronomy and astrophysics (2027 start)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "other:leiden-strw-phd-2027",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://local.strw.leidenuniv.nl/jobs/phd/",
+ "unv": "The number of positions (9) and salary figures come from the Hyperspace@GU announcement; the Observatory page says 'several'.",
+ "us": false
+}

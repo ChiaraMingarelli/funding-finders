@@ -1,0 +1,32 @@
+{
+ "a": "VLT/VLTI and La Silla time from up to 5% of general observing time; programmes are generally under 5 hours",
+ "added": "2026-10-26",
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-26",
+ "d": null,
+ "dt": "Proposals may be submitted at any time through the p1 tool",
+ "e": "ESO's channel for urgent targets of opportunity, highly competitive topics, quick follow-up of recent results and small feasibility tests that cannot wait for the next regular or Fast Track Channel call. Reviewed by a DDT committee; all co-Is need an ESO User Portal account.",
+ "f": "European Southern Observatory",
+ "fields": [
+  "astro"
+ ],
+ "id": "eso-director-discretionary",
+ "n": "ESO Director's Discretionary Time (DDT)",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "rolling",
+ "src": "other:eso-ddt",
+ "stages": [
+  "tt",
+  "ten",
+  "pd",
+  "gr"
+ ],
+ "u": "https://www.eso.org/sci/observing/policies/ddt_policy.html",
+ "unv": "The DDT page does not state limits for PIs from non-member states; ESO's regular call accepts them and ranks them on merit, with preference to member-state proposals rated equally. Student PI rules not stated.",
+ "us": false
+}

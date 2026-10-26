@@ -1,0 +1,34 @@
+{
+ "a": "NuSTAR hard X-ray time from PI discretionary time; most approved DDT exposures are 40 ks or less",
+ "added": "2026-10-26",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ast"
+ ],
+ "c": "Observing time",
+ "checked": "2026-10-26",
+ "d": null,
+ "dt": "Requests accepted at any time through the NuSTAR ToO/DDT web form; response times under 48 hours are reserved for GO programs",
+ "e": "Web-form requests for NuSTAR observations of events that could not have been proposed in a General Observer cycle; approved by the NuSTAR PI or designee, and the data have no exclusive-use period. Requests involving PRC organizations or bilateral work with the PRC are not eligible.",
+ "f": "NASA / NuSTAR Science Operations Center (Caltech)",
+ "fields": [
+  "astro"
+ ],
+ "id": "nustar-director-discretionary",
+ "n": "NuSTAR Director's Discretionary Time (DDT) requests",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "rolling",
+ "src": "other:nustar-ddt",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://nustarsoc.caltech.edu/NuSTAR_Public/GO/GOsubmit.php",
+ "unv": "The form does not say whether students may be the principal requester.",
+ "us": false
+}
