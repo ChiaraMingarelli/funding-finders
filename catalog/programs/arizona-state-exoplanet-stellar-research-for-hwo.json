@@ -11,9 +11,9 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-12",
- "d": "2026-10-26",
- "dt": "Oct 26, 2026",
+ "checked": "2026-10-27",
+ "d": null,
+ "dt": "Application deadline was Oct 26, 2026; applications are still accepted on a rolling basis for a reserve pool until the positions are filled",
  "e": "Exoplanet and stellar research supporting the Habitable Worlds Observatory.",
  "f": "Arizona State University, SESE; PI Evgenya Shkolnik",
  "fields": [
@@ -25,7 +25,7 @@
  "nom": false,
  "pt": "group",
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "aas:0e671982",
  "stages": [
   "pd"
