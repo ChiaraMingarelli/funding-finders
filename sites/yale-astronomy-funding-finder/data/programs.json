@@ -696,9 +696,9 @@
    "star"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-12",
-  "d": "2026-10-26",
-  "dt": "Oct 26, 2026",
+  "checked": "2026-10-27",
+  "d": null,
+  "dt": "Application deadline was Oct 26, 2026; applications are still accepted on a rolling basis for a reserve pool until the positions are filled",
   "e": "Exoplanet and stellar research supporting the Habitable Worlds Observatory.",
   "f": "Arizona State University, SESE; PI Evgenya Shkolnik",
   "fields": [
@@ -710,7 +710,7 @@
   "nom": false,
   "pt": "group",
   "region": "US",
-  "s": "open",
+  "s": "rolling",
   "src": "aas:0e671982",
   "stages": [
    "pd"
@@ -1153,9 +1153,9 @@
    "star"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-26",
-  "dt": "Review Oct 26, 2026; final date Dec 15, 2026 (JPF05593)",
+  "checked": "2026-10-27",
+  "d": "2026-12-15",
+  "dt": "Most recent review Oct 26, 2026; later applications reviewed if not yet filled; final date Dec 15, 2026 (JPF05593)",
   "e": "Up to two two-year postdocs with Daniel Weisz on HST/JWST/Euclid/DESI/Keck studies of resolved stellar populations in Local Group and nearby galaxies, with some independent research time; start Fall 2027.",
   "f": "UC Berkeley",
   "fields": [
@@ -5718,6 +5718,37 @@
   "us": false
  },
  {
+  "a": "Per ANRF norms; 11 months, extendable by 6 months",
+  "added": "2026-10-27",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-27",
+  "d": "2026-11-13",
+  "dt": "Nov 13, 2026; apply by email",
+  "e": "One Research Associate-I post on dark matter phenomenology, astroparticle physics and cosmology in an ANRF-funded project on probing beyond-Standard-Model physics. Open to PhD holders and those who have submitted their thesis.",
+  "f": "Indian Institute of Technology Hyderabad, Department of Physics (Divya Sachdeva); ANRF project",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "iit-hyderabad-astroparticle-ra-postdoc",
+  "n": "IIT Hyderabad: Postdoctoral Research Associate in Astroparticle Physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3218543",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3218543",
+  "unv": "Did not open the official advertisement on physics.iith.ac.in; nationality rules not stated.",
+  "us": false
+ },
+ {
   "a": "About 25 funded PhD positions (fellowship or contract)",
   "added": "2026-10-01",
   "asub": [
@@ -6601,6 +6632,39 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/UTokyo/KavliIPMU/PD2026",
+  "us": false
+ },
+ {
+  "a": "£45,031–£52,514 incl. London weighting; 3 years",
+  "added": "2026-10-27",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-27",
+  "d": "2026-11-29",
+  "dt": "Register interest by Nov 29, 2026 via Academic Jobs Online; positions start October 2027",
+  "e": "Two STFC-funded three-year postdocs in beyond-Standard-Model and collider physics, particle astrophysics and cosmology including dark matter, and gravitational-wave physics, including tests of gravity. Open to PhD holders of any nationality.",
+  "f": "King's College London, Department of Physics, Theoretical Particle Physics and Cosmology Group",
+  "fields": [
+   "ppt",
+   "astro",
+   "grav"
+  ],
+  "id": "kcl-tppc-stfc-postdocs-2027",
+  "n": "King's College London: Postdoctoral Positions in Theoretical Particle Physics and Cosmology",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33231",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33231",
+  "unv": "Visa or right-to-work conditions not stated in the ad.",
   "us": false
  },
  {
@@ -8351,38 +8415,6 @@
   "us": false
  },
  {
-  "a": "$79,600-$98,000",
-  "added": "2026-10-07",
-  "asub": [
-   "he"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-26",
-  "dt": "Full consideration by Mon Oct 26, 2026, 11:59 pm ET; nominal start Jan 2027",
-  "e": "A 1-year research scientist appointment in LISA data analysis with Ira Thorpe at Goddard (Greenbelt, MD), renewable up to 3 years; it requires a PhD, and 3+ years of postdoc experience is preferred. The ad states no citizenship requirement.",
-  "f": "CRESST II / University of Maryland, Baltimore County at NASA Goddard Space Flight Center",
-  "fields": [
-   "grav",
-   "astro",
-   "ds"
-  ],
-  "id": "nasa-gsfc-cresst-ii-umbc-research-scientist-in-lisa-data",
-  "n": "NASA GSFC / CRESST II (UMBC): Research Scientist in LISA Data Analysis",
-  "nfit": "High",
-  "nom": false,
-  "pt": "group",
-  "region": "US",
-  "s": "open",
-  "src": "other:cresst2-lisa-da",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://cresst2.breezy.hr/p/93c7a39e8360",
-  "unv": "This is a research-scientist level post (3+ yrs postdoc preferred), above an entry-level postdoc",
-  "us": false
- },
- {
   "a": "Prize-fellowship salary, up to 3 yr",
   "added": "2026-09-29",
   "c": "Fellowship",
@@ -8581,39 +8613,6 @@
    "pd"
   ],
   "u": "https://npp.orau.org/",
-  "us": false
- },
- {
-  "a": "not listed",
-  "added": "2026-09-28",
-  "asub": [
-   "exo"
-  ],
-  "c": "Federal grant",
-  "checked": "2026-10-26",
-  "d": "2026-10-26",
-  "dt": "Proposals due Oct 26, 2026 via NSPIRES; mandatory NOI was due Sep 10, 2026",
-  "e": "Any organization type, but NASA funds only US institutions. Precursor science for the Habitable Worlds Observatory.",
-  "f": "NASA",
-  "fields": [
-   "astro",
-   "inst"
-  ],
-  "id": "nasa-roses-25-d-8-habitable-worlds-observatory-precursor-sci",
-  "n": "NASA ROSES-25 D.8 Habitable Worlds Observatory Precursor Science",
-  "nofo": [
-   {
-    "opp": "NNH25ZDA001N-HWOPSI",
-    "u": "https://simpler.grants.gov/opportunity/86414383-5e44-4e7b-88a9-7068e1c5b219"
-   }
-  ],
-  "nom": false,
-  "s": "open",
-  "stages": [
-   "tt",
-   "ten"
-  ],
-  "u": "https://simpler.grants.gov/opportunity/86414383-5e44-4e7b-88a9-7068e1c5b219",
   "us": false
  },
  {

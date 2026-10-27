@@ -477,9 +477,8 @@
   "n": "Arizona State: Exoplanet & stellar research for HWO",
   "f": "Arizona State University, SESE; PI Evgenya Shkolnik",
   "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-10-26",
-  "dt": "Oct 26, 2026",
+  "s": "rolling",
+  "dt": "Application deadline was Oct 26, 2026; applications are still accepted on a rolling basis for a reserve pool until the positions are filled",
   "a": "$71,000/yr; up to 3 years",
   "e": "Exoplanet and stellar research supporting the Habitable Worlds Observatory.",
   "u": "https://apply.interfolio.com/193373",
@@ -489,11 +488,12 @@
   "pt": "group",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-12",
+  "checked": "2026-10-27",
   "added": "2026-09-30",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "arizona-state-planet-formation-shock-physics-postdocs",
@@ -815,8 +815,8 @@
   "f": "UC Berkeley",
   "c": "Group postdoc",
   "s": "open",
-  "d": "2026-10-26",
-  "dt": "Review Oct 26, 2026; final date Dec 15, 2026 (JPF05593)",
+  "d": "2026-12-15",
+  "dt": "Most recent review Oct 26, 2026; later applications reviewed if not yet filled; final date Dec 15, 2026 (JPF05593)",
   "a": "$71,491-$85,736 minimum",
   "e": "Up to two two-year postdocs with Daniel Weisz on HST/JWST/Euclid/DESI/Keck studies of resolved stellar populations in Local Group and nearby galaxies, with some independent research time; start Fall 2027.",
   "u": "https://aprecruit.berkeley.edu/JPF05593",
@@ -825,7 +825,7 @@
   "pt": "group",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-10-26",
+  "checked": "2026-10-27",
   "added": "2026-10-17",
   "stages": [
    "pd"
@@ -1363,6 +1363,29 @@
   "nfit": "Medium",
   "checked": "2026-10-26",
   "added": "2026-09-30",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "cea-grenoble-si-ge-spin-qubit-modeling-postdoc",
+  "n": "CEA Grenoble (IRIG): Postdoc in Modeling of Si/SiGe and Ge/GeSi Spin Qubits",
+  "f": "CEA Grenoble, IRIG, L_Sim group (Yann-Michel Niquet); EU SPINS project",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-31",
+  "dt": "Quantiki lists Dec 31, 2026; the ad says open until filled; start by Apr 1, 2027",
+  "a": "not listed; 2 years",
+  "e": "Two-year postdoc on theory and numerical modeling of electron and hole spin qubits in Si/Ge heterostructures within the EU SPINS pilot-line project. Requires a PhD in quantum, condensed-matter or solid-state physics.",
+  "u": "https://quantiki.org/position/postdoctoral-position-modeling-sisige-and-gegesi-spin-qubits-cea-grenoble-france-1",
+  "unv": "Salary not stated; did not open the announcement PDF; nationality or security checks not confirmed. Apply by email to the PI.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-27",
+  "added": "2026-10-27",
   "stages": [
    "pd"
   ]
@@ -2255,6 +2278,29 @@
   "nfit": "Medium",
   "checked": "2026-10-26",
   "added": "2026-09-30",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "edinburgh-celestial-holography-math-phys-postdoc",
+  "n": "University of Edinburgh: Postdoctoral Research Associate in Mathematical Physics (celestial holography)",
+  "f": "University of Edinburgh, School of Mathematics (Tim Adamo); Simons Collaboration on Celestial Holography",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-01",
+  "dt": "Dec 1, 2026; three reference letters by email",
+  "a": "not listed; 24 months from Sep 1, 2027, with travel and research budget",
+  "e": "Two-year postdoc in mathematical physics funded by the Simons Collaboration on Celestial Holography, working with Tim Adamo and free to pursue independent research. Requires a PhD in mathematical or theoretical physics by September 2027.",
+  "u": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14964",
+  "unv": "Salary not stated in the INSPIRE ad; did not open the university job page.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-27",
+  "added": "2026-10-27",
   "stages": [
    "pd"
   ]
@@ -5475,6 +5521,28 @@
   ]
  },
  {
+  "id": "fj-uvic-tt-asst-prof-theoretical-hep",
+  "n": "University of Victoria: Tenure-Track Assistant Professor, Theoretical High-Energy Physics",
+  "f": "University of Victoria, Department of Physics and Astronomy",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2027-01-04",
+  "dt": "Jan 4, 2027",
+  "a": "Assistant Professor; CAD $127,000–$157,000",
+  "e": "Tenure-track assistant professor in theoretical high-energy physics, broadly defined, joining the UVic particle theory group with links to TRIUMF. Open to early-career researchers.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33243",
+  "unv": "AJO marks the deadline with an asterisk; whether review continues after it is not stated.",
+  "us": false,
+  "nom": false,
+  "region": "Canada",
+  "nfit": "Low",
+  "checked": "2026-10-27",
+  "added": "2026-10-27",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
   "id": "fj-uw-whitewater-assistant-professor-tt-physics",
   "n": "UW-Whitewater: Assistant Professor (TT) - Physics",
   "f": "Dept. of Physics, University of Wisconsin-Whitewater",
@@ -7014,6 +7082,29 @@
   ]
  },
  {
+  "id": "iit-hyderabad-astroparticle-ra-postdoc",
+  "n": "IIT Hyderabad: Postdoctoral Research Associate in Astroparticle Physics",
+  "f": "Indian Institute of Technology Hyderabad, Department of Physics (Divya Sachdeva); ANRF project",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-13",
+  "dt": "Nov 13, 2026; apply by email",
+  "a": "Per ANRF norms; 11 months, extendable by 6 months",
+  "e": "One Research Associate-I post on dark matter phenomenology, astroparticle physics and cosmology in an ANRF-funded project on probing beyond-Standard-Model physics. Open to PhD holders and those who have submitted their thesis.",
+  "u": "https://inspirehep.net/jobs/3218543",
+  "unv": "Did not open the official advertisement on physics.iith.ac.in; nationality rules not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-27",
+  "added": "2026-10-27",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "imperial-epsrc-math-sciences-early-independence-fellow",
   "n": "Imperial Physics: EPSRC Mathematical Sciences Early Independence Fellowship",
   "f": "Department of Physics, Imperial College London (EPSRC-funded)",
@@ -7910,6 +8001,29 @@
   ]
  },
  {
+  "id": "kcl-tppc-stfc-postdocs-2027",
+  "n": "King's College London: Postdoctoral Positions in Theoretical Particle Physics and Cosmology",
+  "f": "King's College London, Department of Physics, Theoretical Particle Physics and Cosmology Group",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-29",
+  "dt": "Register interest by Nov 29, 2026 via Academic Jobs Online; positions start October 2027",
+  "a": "£45,031–£52,514 incl. London weighting; 3 years",
+  "e": "Two STFC-funded three-year postdocs in beyond-Standard-Model and collider physics, particle astrophysics and cosmology including dark matter, and gravitational-wave physics, including tests of gravity. Open to PhD holders of any nationality.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33231",
+  "unv": "Visa or right-to-work conditions not stated in the ad.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "High",
+  "checked": "2026-10-27",
+  "added": "2026-10-27",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "kek-qup-postdoctoral-fellows-in-experimental-physics",
   "n": "KEK: QUP Postdoctoral Fellows in Experimental Physics",
   "f": "KEK, International Center for Quantum-field Measurement Systems for Studies of the Universe and Particles (QUP)",
@@ -8205,8 +8319,7 @@
   "f": "Lawrence Berkeley National Laboratory",
   "c": "Group postdoc",
   "s": "rolling",
-  "d": "2026-10-26",
-  "dt": "Priority consideration by Oct 26, 2026; applications accepted until the posting is removed",
+  "dt": "Priority consideration was Oct 26, 2026; applications accepted until the posting is removed",
   "a": "$84,336-$94,020 (union step scale)",
   "e": "Two-year theory and computation postdoc at the Molecular Foundry modeling X-ray interactions with quantum and nanostructured materials (electronic structure, magnetism, light-matter interactions, structured/topological fields). Requires a PhD in physics, applied math or related field and fewer than 3 years of paid postdoc experience.",
   "u": "https://jobs.lbl.gov/jobs/postdoctoral-researcher-applied-mathematics-and-computational-physics-7631",
@@ -8216,11 +8329,12 @@
   "pt": "group",
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-10-26",
+  "checked": "2026-10-27",
   "added": "2026-10-16",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "lbnl-hoffman-distinguished-postdoc-nonproliferation",
@@ -8334,6 +8448,29 @@
    "pd"
   ],
   "d": null
+ },
+ {
+  "id": "leeds-quantum-many-body-research-fellows",
+  "n": "University of Leeds: Research Fellows in Quantum Many-Body Physics",
+  "f": "University of Leeds, School of Physics and Astronomy (Zlatko Papic)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-04",
+  "dt": "Closing date Jan 4, 2027 (ref EPSPA1141)",
+  "a": "£41,064–£48,822; fixed term 24 months",
+  "e": "Three two-year research fellow projects: topological quantum matter, far-from-equilibrium lattice gauge theories, and quantum criticality on the fuzzy sphere, using exact diagonalisation, tensor network and neural quantum state methods. Apply through the Leeds jobs site.",
+  "u": "https://jobs.leeds.ac.uk/Vacancy.aspx?ref=EPSPA1141",
+  "unv": "Visa or right-to-work conditions not checked.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-27",
+  "added": "2026-10-27",
+  "stages": [
+   "pd"
+  ]
  },
  {
   "id": "leiden-observatory-phd-positions-2027",
@@ -9414,29 +9551,6 @@
    "gr"
   ],
   "d": null
- },
- {
-  "id": "nasa-gsfc-cresst-ii-umbc-research-scientist-in-lisa-data",
-  "n": "NASA GSFC / CRESST II (UMBC): Research Scientist in LISA Data Analysis",
-  "f": "CRESST II / University of Maryland, Baltimore County at NASA Goddard Space Flight Center",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-10-26",
-  "dt": "Full consideration by Mon Oct 26, 2026, 11:59 pm ET; nominal start Jan 2027",
-  "a": "$79,600-$98,000",
-  "e": "A 1-year research scientist appointment in LISA data analysis with Ira Thorpe at Goddard (Greenbelt, MD), renewable up to 3 years; it requires a PhD, and 3+ years of postdoc experience is preferred. The ad states no citizenship requirement.",
-  "u": "https://cresst2.breezy.hr/p/93c7a39e8360",
-  "unv": "This is a research-scientist level post (3+ yrs postdoc preferred), above an entry-level postdoc",
-  "us": false,
-  "nom": false,
-  "pt": "group",
-  "region": "US",
-  "nfit": "High",
-  "checked": "2026-10-26",
-  "added": "2026-10-07",
-  "stages": [
-   "pd"
-  ]
  },
  {
   "id": "nasa-hubble-fellowship-program-nhfp",
@@ -13901,6 +14015,29 @@
   "nfit": "Medium",
   "checked": "2026-10-26",
   "added": "2026-09-30",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "utk-camm-mrsec-quantum-materials-mbe-postdoc",
+  "n": "University of Tennessee Knoxville: Postdoctoral Research Associate, Low-Dimensional Quantum Materials (CAMM MRSEC)",
+  "f": "University of Tennessee Knoxville, Department of Physics & Astronomy; Center for Advanced Materials and Manufacturing (NSF MRSEC)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-20",
+  "dt": "Nov 20, 2026; review begins immediately and continues until filled",
+  "a": "$65,000–$70,000 anticipated hiring range",
+  "e": "Postdoc in the new CAMM MRSEC growing epitaxial quantum materials by molecular beam epitaxy with AI-guided synthesis, plus STM/STS, photoemission and transport measurements. Requires a PhD in physics or a related field and MBE experience.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33235",
+  "unv": "Start date and citizenship rules not stated; applications go through UT's job portal (job ID 10279), which was not opened.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-27",
+  "added": "2026-10-27",
   "stages": [
    "pd"
   ]
