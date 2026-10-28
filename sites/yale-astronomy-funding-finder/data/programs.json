@@ -3293,6 +3293,40 @@
   "us": false
  },
  {
+  "a": "About €47,000 gross/yr; two years; start around September 2027",
+  "added": "2026-10-28",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-28",
+  "d": "2026-12-13",
+  "dt": "Deadline Dec 13, 2026",
+  "e": "Up to three two-year postdocs in early-universe and observational cosmology, gravitation (including black holes and gravitational waves) and particle physics, funded by the Basque Government. Requires a PhD by the start date; a PhD from outside Spain may need an official equivalence declaration; no citizenship limits stated.",
+  "f": "EHU Department of Physics and EHU Quantum Center, Bilbao",
+  "fields": [
+   "astro",
+   "grav",
+   "ppt",
+   "nut"
+  ],
+  "id": "ehu-bilbao-theoretical-physics-postdocs-2027",
+  "n": "University of the Basque Country (EHU): Postdoctoral Positions in Theoretical Physics",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33249",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33249",
+  "unv": "Exact start date not fixed.",
+  "us": false
+ },
+ {
   "a": "3 years, start by Sep 2027; salary described as internationally competitive, plus travel funds",
   "added": "2026-10-17",
   "asub": [
@@ -8035,36 +8069,6 @@
   "us": false
  },
  {
-  "a": "AUD 86,195–116,981 + 17% superannuation; 2 years, possibly extendable",
-  "added": "2026-10-02",
-  "asub": [
-   "he"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-27",
-  "dt": "Applications close 27 Oct 2026",
-  "e": "Postdoc on kilonova and collapsar r-process transients with Monash's observational transient group and OzGrav, using multi-wavelength and multi-messenger data. Open to PhDs in astrophysics or related fields; no citizenship limits stated.",
-  "f": "Monash University",
-  "fields": [
-   "astro",
-   "grav"
-  ],
-  "id": "monash-transient-multimessenger-rf",
-  "n": "Monash University: Research Fellow in Transient and Multimessenger Astronomy",
-  "nfit": "High",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "aas:851cb770",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://careers.pageuppeople.com/513/cw/en/job/698298/research-fellow",
-  "us": false
- },
- {
   "a": "€67.5k–77.7k/yr; 4 years",
   "added": "2026-09-30",
   "asub": [
@@ -11029,6 +11033,39 @@
   "us": false
  },
  {
+  "a": "Term position; length set at interview; salary not stated",
+  "added": "2026-10-28",
+  "asub": [
+   "he",
+   "inst"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-28",
+  "d": "2026-12-04",
+  "dt": "Full consideration for applications by Dec 4, 2026; search continues until filled",
+  "e": "Postdoc on radio detection of ultra-high-energy tau neutrinos with HERON, leading the build of its phased-array system and contributing to analysis and simulations, with field work in Argentina. Requires a PhD in physics, astrophysics or a related field; no citizenship limits stated.",
+  "f": "Pennsylvania State University, Particle Astrophysics group (Stephanie Wissel)",
+  "fields": [
+   "astro",
+   "nux",
+   "inst"
+  ],
+  "id": "penn-state-wissel-radio-neutrino-postdoc",
+  "n": "Penn State: Postdoctoral Scholar in Particle Astrophysics (Wissel Lab, radio neutrino detection)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3219254",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://apptrkr.com/9914916",
+  "unv": "INSPIRE lists a Nov 26, 2026 deadline; the ad text gives Dec 4, 2026 for full consideration. Reference letters go through AJO job 31726. Salary not stated.",
+  "us": false
+ },
+ {
   "a": "CAD 79,000 starting salary; 3 yr (named fellowships 4 yr)",
   "added": "2026-09-29",
   "asub": [
@@ -12411,6 +12448,39 @@
   "us": false
  },
  {
+  "a": "Runs January to September 2027; salary not stated in the INSPIRE listing",
+  "added": "2026-10-28",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-28",
+  "d": "2026-11-08",
+  "dt": "Closing date Nov 8, 2026; interviews Nov 13",
+  "e": "Short-term research associate in theoretical cosmology, gravity and quantum field theory with links to gravitational-wave physics; the group takes part in LISA, NANOGrav, Euclid, SKAO and the Einstein Telescope. Requires a PhD; no citizenship limits stated.",
+  "f": "Swansea University, Particle Physics and Cosmology Theory Group (Maleknejad, Tasinato, Zavala)",
+  "fields": [
+   "astro",
+   "grav",
+   "ppt"
+  ],
+  "id": "swansea-short-term-cosmology-gravity-postdoc",
+  "n": "Swansea University: Short-term Postdoc in Theoretical Cosmology and Gravity",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3219202",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.swansea.ac.uk/jobs-at-swansea/current-vacancies/details/?opening-id=11471",
+  "unv": "Salary grade not checked on Swansea's own ad.",
+  "us": false
+ },
+ {
   "a": "NASA funding only, no new Swift observing time: up to $1.0M in total for about 20 one-year awards",
   "added": "2026-10-03",
   "asub": [
@@ -13604,6 +13674,38 @@
   "us": true
  },
  {
+  "a": "Two years, possibly a third; start fall 2027; salary not stated",
+  "added": "2026-10-28",
+  "asub": [
+   "he",
+   "cos"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-28",
+  "d": "2026-12-09",
+  "dt": "Full consideration for applications received by Dec 9, 2026",
+  "e": "Independent prize postdoc at JSI, whose interests include strong gravity, gravitational waves, compact objects, high-energy, time-domain and multi-messenger astronomy and cosmology. Requires a PhD in physics, astronomy or a related field by the start date; no citizenship limits stated.",
+  "f": "Joint Space-Science Institute (UMD Astronomy, UMD Physics and NASA Goddard)",
+  "fields": [
+   "astro",
+   "grav"
+  ],
+  "id": "umd-jsi-gehrels-prize-postdoc-2027",
+  "n": "University of Maryland JSI: Neil Gehrels Prize Postdoctoral Fellowship",
+  "nfit": "High",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33254",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33254",
+  "unv": "Salary not stated; JSI's own page not checked.",
+  "us": false
+ },
+ {
   "a": "",
   "added": "2026-10-09",
   "asub": [
@@ -13821,6 +13923,38 @@
    "gr"
   ],
   "u": "https://ura-hq.org/high-energy-physics-user-community/ura-visiting-scholars-program/",
+  "us": false
+ },
+ {
+  "a": "150,000–250,000 CNY/yr; 2 years, renewable for 1; travel funds",
+  "added": "2026-10-28",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-28",
+  "d": "2026-12-31",
+  "dt": "Apply by Dec 31, 2026 for full consideration; start fall 2027 or earlier",
+  "e": "Several postdocs in string theory, quantum field theory and amplitudes, gravity and cosmology, particle and nuclear physics and mathematical physics; applications by email with three reference letters. No citizenship limits stated.",
+  "f": "University of Science and Technology of China, ICTS and Peng Huanwu Center for Fundamental Theory",
+  "fields": [
+   "ppt",
+   "nut",
+   "grav"
+  ],
+  "id": "ustc-icts-pcft-theoretical-hep-postdocs-2027",
+  "n": "USTC Hefei: Postdocs in Theoretical High Energy Physics (ICTS and Peng Huanwu Center)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3219188",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3219188",
+  "unv": "No host web ad found; details from the INSPIRE listing.",
   "us": false
  },
  {

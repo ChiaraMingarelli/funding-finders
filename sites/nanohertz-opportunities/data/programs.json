@@ -2396,6 +2396,29 @@
   ]
  },
  {
+  "id": "ehu-bilbao-theoretical-physics-postdocs-2027",
+  "n": "University of the Basque Country (EHU): Postdoctoral Positions in Theoretical Physics",
+  "f": "EHU Department of Physics and EHU Quantum Center, Bilbao",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-13",
+  "dt": "Deadline Dec 13, 2026",
+  "a": "About €47,000 gross/yr; two years; start around September 2027",
+  "e": "Up to three two-year postdocs in early-universe and observational cosmology, gravitation (including black holes and gravitational waves) and particle physics, funded by the Basque Government. Requires a PhD by the start date; a PhD from outside Spain may need an official equivalence declaration; no citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33249",
+  "unv": "Exact start date not fixed.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "High",
+  "checked": "2026-10-28",
+  "added": "2026-10-28",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "ens-lpens-postdoc-gauge-theory-bootstrap",
   "n": "ENS Paris (LPENS): Postdoc in Theoretical Physics, Gauge Theory Bootstrap (ANR GTB)",
   "f": "Ecole Normale Superieure, Department of Physics (LPENS)",
@@ -6795,9 +6818,8 @@
   "n": "IFAE Barcelona: Postdoctoral Position in Hadron Collider Physics with ATLAS",
   "f": "Institut de Física d'Altes Energies (IFAE), ATLAS group (Imma Riu, Tamara Vázquez Schröder)",
   "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-10-27",
-  "dt": "Apply ideally by Oct 27, 2026; open until filled",
+  "s": "rolling",
+  "dt": "Applications were ideally due Oct 27, 2026; the ad says it stays open until filled",
   "a": "2 years",
   "e": "One 2-year postdoc with the IFAE ATLAS group on Run 2/3 analysis and HL-LHC upgrade work. Applicants need a PhD in experimental particle physics obtained within the last three years; no citizenship limits stated.",
   "u": "https://inspirehep.net/jobs/3213930",
@@ -6807,11 +6829,12 @@
   "pt": "group",
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-10-26",
+  "checked": "2026-10-28",
   "added": "2026-10-14",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "ifae-gravnet-hfgw-theory-postdoc",
@@ -9283,28 +9306,6 @@
   ]
  },
  {
-  "id": "monash-transient-multimessenger-rf",
-  "n": "Monash University: Research Fellow in Transient and Multimessenger Astronomy",
-  "f": "Monash University",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-10-27",
-  "dt": "Applications close 27 Oct 2026",
-  "a": "AUD 86,195–116,981 + 17% superannuation; 2 years, possibly extendable",
-  "e": "Postdoc on kilonova and collapsar r-process transients with Monash's observational transient group and OzGrav, using multi-wavelength and multi-messenger data. Open to PhDs in astrophysics or related fields; no citizenship limits stated.",
-  "u": "https://careers.pageuppeople.com/513/cw/en/job/698298/research-fellow",
-  "us": false,
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "nfit": "High",
-  "checked": "2026-10-26",
-  "added": "2026-10-02",
-  "stages": [
-   "pd"
-  ]
- },
- {
   "id": "mpa-garching-lattice-simulations-of-inflation-with-gauge",
   "n": "MPA Garching: Lattice simulations of inflation with gauge fields",
   "f": "Max Planck Institute for Astrophysics, Garching; Physical Cosmology; PI Eiichiro Komatsu",
@@ -11240,6 +11241,29 @@
   ]
  },
  {
+  "id": "penn-state-wissel-radio-neutrino-postdoc",
+  "n": "Penn State: Postdoctoral Scholar in Particle Astrophysics (Wissel Lab, radio neutrino detection)",
+  "f": "Pennsylvania State University, Particle Astrophysics group (Stephanie Wissel)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-04",
+  "dt": "Full consideration for applications by Dec 4, 2026; search continues until filled",
+  "a": "Term position; length set at interview; salary not stated",
+  "e": "Postdoc on radio detection of ultra-high-energy tau neutrinos with HERON, leading the build of its phased-array system and contributing to analysis and simulations, with field work in Argentina. Requires a PhD in physics, astrophysics or a related field; no citizenship limits stated.",
+  "u": "https://apptrkr.com/9914916",
+  "unv": "INSPIRE lists a Nov 26, 2026 deadline; the ad text gives Dec 4, 2026 for full consideration. Reference letters go through AJO job 31726. Salary not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "High",
+  "checked": "2026-10-28",
+  "added": "2026-10-28",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "perimeter-institute-postdoctoral-fellowship",
   "n": "Perimeter Institute Postdoctoral Fellowship",
   "f": "Perimeter Institute",
@@ -12341,6 +12365,29 @@
   ]
  },
  {
+  "id": "swansea-short-term-cosmology-gravity-postdoc",
+  "n": "Swansea University: Short-term Postdoc in Theoretical Cosmology and Gravity",
+  "f": "Swansea University, Particle Physics and Cosmology Theory Group (Maleknejad, Tasinato, Zavala)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-08",
+  "dt": "Closing date Nov 8, 2026; interviews Nov 13",
+  "a": "Runs January to September 2027; salary not stated in the INSPIRE listing",
+  "e": "Short-term research associate in theoretical cosmology, gravity and quantum field theory with links to gravitational-wave physics; the group takes part in LISA, NANOGrav, Euclid, SKAO and the Einstein Telescope. Requires a PhD; no citizenship limits stated.",
+  "u": "https://www.swansea.ac.uk/jobs-at-swansea/current-vacancies/details/?opening-id=11471",
+  "unv": "Salary grade not checked on Swansea's own ad.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "High",
+  "checked": "2026-10-28",
+  "added": "2026-10-28",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "syracuse-postdoc-theoretical-quantum-information",
   "n": "Syracuse University: Postdoctoral Researcher, Theoretical Quantum Information and its Applications (Pollack group)",
   "f": "Syracuse University, Institute for Quantum and Information Sciences",
@@ -13146,6 +13193,29 @@
   ]
  },
  {
+  "id": "ucas-kits-high-energy-theory-postdoc",
+  "n": "UCAS Kavli Institute for Theoretical Sciences: High Energy Theory Postdoc",
+  "f": "Kavli Institute for Theoretical Sciences (KITS), University of Chinese Academy of Sciences, Beijing",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-31",
+  "dt": "AJO deadline Dec 31, 2026; later applications may be considered until filled",
+  "a": "300,000 CNY/yr or more, plus 6,000 CNY/month housing and travel funds; two years, extendable by one",
+  "e": "Postdocs in the KITS high energy theory group on AdS/CFT, quantum gravity, entanglement and chaos, quantum field theory, conformal bootstrap and generalized symmetries. Requires a PhD in theoretical physics; no citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33262",
+  "unv": "The ad text appears copied from last cycle (start Sept 2026, full consideration before Dec 30, 2025); the AJO deadline field says Dec 31, 2026. Start date not confirmed.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-28",
+  "added": "2026-10-28",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "ucd-emriwaveforms-erc-gw-postdocs",
   "n": "University College Dublin: ERC-funded Postdocs in Gravitational-Wave Source Modelling (EMRIWaveforms)",
   "f": "University College Dublin (ERC Advanced Grant)",
@@ -13683,6 +13753,29 @@
   ]
  },
  {
+  "id": "umd-jsi-gehrels-prize-postdoc-2027",
+  "n": "University of Maryland JSI: Neil Gehrels Prize Postdoctoral Fellowship",
+  "f": "Joint Space-Science Institute (UMD Astronomy, UMD Physics and NASA Goddard)",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2026-12-09",
+  "dt": "Full consideration for applications received by Dec 9, 2026",
+  "a": "Two years, possibly a third; start fall 2027; salary not stated",
+  "e": "Independent prize postdoc at JSI, whose interests include strong gravity, gravitational waves, compact objects, high-energy, time-domain and multi-messenger astronomy and cosmology. Requires a PhD in physics, astronomy or a related field by the start date; no citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33254",
+  "unv": "Salary not stated; JSI's own page not checked.",
+  "us": false,
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "nfit": "High",
+  "checked": "2026-10-28",
+  "added": "2026-10-28",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "umich-litp-het-postdoc-2027",
   "n": "University of Michigan: High Energy Theory Postdoc (Leinweber Institute)",
   "f": "University of Michigan",
@@ -13903,6 +13996,29 @@
   "nfit": "Low",
   "checked": "2026-10-26",
   "added": "2026-10-02",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "ustc-icts-pcft-theoretical-hep-postdocs-2027",
+  "n": "USTC Hefei: Postdocs in Theoretical High Energy Physics (ICTS and Peng Huanwu Center)",
+  "f": "University of Science and Technology of China, ICTS and Peng Huanwu Center for Fundamental Theory",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-31",
+  "dt": "Apply by Dec 31, 2026 for full consideration; start fall 2027 or earlier",
+  "a": "150,000–250,000 CNY/yr; 2 years, renewable for 1; travel funds",
+  "e": "Several postdocs in string theory, quantum field theory and amplitudes, gravity and cosmology, particle and nuclear physics and mathematical physics; applications by email with three reference letters. No citizenship limits stated.",
+  "u": "https://inspirehep.net/jobs/3219188",
+  "unv": "No host web ad found; details from the INSPIRE listing.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-28",
+  "added": "2026-10-28",
   "stages": [
    "pd"
   ]

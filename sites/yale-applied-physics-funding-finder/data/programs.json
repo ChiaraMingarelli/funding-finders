@@ -2916,9 +2916,9 @@
   "a": "not listed",
   "added": "2026-10-03",
   "c": "Federal grant",
-  "checked": "2026-10-26",
-  "d": "2026-10-27",
-  "dt": "Abstracts due Oct 27, 2026; full proposals Dec 18, 2026 (DARPA-PS-26-141)",
+  "checked": "2026-10-28",
+  "d": "2026-12-18",
+  "dt": "Abstracts were due Oct 27, 2026; full proposals due Dec 18, 2026 (DARPA-PS-26-141)",
   "e": "Funds new ways to synthesize polymers and nonlinear optical materials with molecular-level control, with sub-nanosecond electro-optic modulators as the target application. It suits teams that combine synthesis, computation, characterization, microfabrication and photonics; universities can take part.",
   "f": "DARPA Multi X Office (MXO)",
   "fields": [
@@ -5346,30 +5346,6 @@
    "tt"
   ],
   "u": "https://www.hhmi.org/programs/freeman-hrabowski-scholars",
-  "us": false
- },
- {
-  "a": "$65K/yr for up to 3 years (stipend, allowance, tuition), with an option of up to 4 more years of postdoctoral funding",
-  "added": "2026-09-28",
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-27",
-  "dt": "Due Oct 27, 2026, 11:59pm ET; student and adviser apply as a pair",
-  "e": "2nd- or 3rd-year PhD students in basic biological/biomedical science at eligible institutions. Open to US citizens, permanent residents, DACA recipients and eligible international students. The adviser must take part in a mentorship course. New for 2027: no journal names anywhere in the application.",
-  "f": "Howard Hughes Medical Institute",
-  "fields": [
-   "bio"
-  ],
-  "id": "hhmi-gilliam-fellowships-for-advanced-study-2027",
-  "n": "HHMI Gilliam Fellowships for Advanced Study (2027)",
-  "nom": false,
-  "s": "open",
-  "stages": [
-   "gr",
-   "ten",
-   "tt"
-  ],
-  "u": "https://www.hhmi.org/programs/gilliam-fellows",
   "us": false
  },
  {
