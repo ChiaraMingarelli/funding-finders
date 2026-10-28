@@ -1,0 +1,39 @@
+{
+ "a": "Runs January to September 2027; salary not stated in the INSPIRE listing",
+ "added": "2026-10-28",
+ "asub": [
+  "cos",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-28",
+ "d": "2026-11-08",
+ "dt": "Closing date Nov 8, 2026; interviews Nov 13",
+ "e": "Short-term research associate in theoretical cosmology, gravity and quantum field theory with links to gravitational-wave physics; the group takes part in LISA, NANOGrav, Euclid, SKAO and the Einstein Telescope. Requires a PhD; no citizenship limits stated.",
+ "f": "Swansea University, Particle Physics and Cosmology Theory Group (Maleknejad, Tasinato, Zavala)",
+ "fields": [
+  "astro",
+  "grav",
+  "ppt"
+ ],
+ "id": "swansea-short-term-cosmology-gravity-postdoc",
+ "n": "Swansea University: Short-term Postdoc in Theoretical Cosmology and Gravity",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3219202",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.swansea.ac.uk/jobs-at-swansea/current-vacancies/details/?opening-id=11471",
+ "unv": "Salary grade not checked on Swansea's own ad.",
+ "us": false
+}
