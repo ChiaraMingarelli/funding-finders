@@ -1,11 +1,11 @@
 {
- "a": "Grants.gov lists an award minimum of $10,000,000",
+ "a": "The BAA says project budgets should be at least $10 million (grants.gov award floor $10,000,000, no ceiling); awards are other transaction agreements",
  "added": "2026-10-03",
  "aud": [
   "ap"
  ],
  "c": "Center/large grant",
- "checked": "2026-10-26",
+ "checked": "2026-10-28",
  "d": null,
  "dt": "White-paper intake paused Sept 15, 2026 for system upgrades; reopening expected November 2026 (BAA open to Sept 30, 2029)",
  "e": "Funds research, prototyping and commercial projects in U.S. microelectronics, including work linked to AI, quantum technology, biotechnology and standards. A white paper comes first. Domestic universities, nonprofits and companies may apply.",
@@ -32,6 +32,6 @@
   "ten"
  ],
  "u": "https://www.nist.gov/chips/chips-rd-funding-opportunities/crdo-broad-agency-announcement-baa",
- "unv": "The grants.gov notice is now archived (archive date Oct 15, 2026), while NIST says the application portal reopens in November 2026 with updated instructions; the exact reopening date is not posted. The award-size field on grants.gov is ambiguous.",
+ "unv": "The grants.gov notice is archived (Oct 15, 2026). NIST expects to reopen the portal in November 2026 with updated instructions, but no exact date is posted.",
  "us": false
 }
