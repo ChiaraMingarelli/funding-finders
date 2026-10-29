@@ -1,0 +1,31 @@
+{
+ "a": "Start fall 2027; salary not stated",
+ "added": "2026-10-29",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-29",
+ "d": "2026-12-01",
+ "dt": "Priority to applications by Dec 1, 2026",
+ "e": "One or more postdocs in collider physics, effective field theories, thermal field theory, flavour physics, lattice gauge theory and formal quantum field theory. Applicants name the Bern faculty member they would most likely work with; no citizenship limits stated.",
+ "f": "University of Bern, Institute for Theoretical Physics, Albert Einstein Center for Fundamental Physics",
+ "fields": [
+  "ppt"
+ ],
+ "id": "u-bern-itp-theory-postdocs-2027",
+ "n": "University of Bern: Postdoc positions in theoretical physics (ITP, AEC)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33263",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33263",
+ "unv": "Salary and appointment length not stated.",
+ "us": false
+}

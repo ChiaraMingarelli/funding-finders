@@ -1,0 +1,31 @@
+{
+ "a": "Start fall 2027; salary not stated",
+ "added": "2026-10-29",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-29",
+ "d": "2026-12-31",
+ "dt": "Priority to applications by Dec 31, 2026",
+ "e": "Postdocs in particle phenomenology: collider physics, precision calculations, Higgs and flavour physics, effective field theories and physics beyond the Standard Model. No citizenship limits stated.",
+ "f": "University of Zurich, Department of Physics",
+ "fields": [
+  "ppt"
+ ],
+ "id": "uzh-particle-phenomenology-postdocs-2027",
+ "n": "University of Zurich: Postdoctoral research associate in particle theory",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33264",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33264",
+ "unv": "AJO lists no formal deadline; salary and appointment length not stated.",
+ "us": false
+}

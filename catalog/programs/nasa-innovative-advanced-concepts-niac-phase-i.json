@@ -8,8 +8,8 @@
  ],
  "c": "Federal grant",
  "checked": "2026-10-26",
- "d": "2026-10-28",
- "dt": "Posted 2026-09-28; Step A brief proposal (close 2026-10-28), Step B by invitation",
+ "d": null,
+ "dt": "Last Step A deadline Oct 28, 2026 (Step B by invitation); the next cycle is not posted yet",
  "e": "All US organizations (non-US on no-exchange-of-funds basis). Nine-month feasibility studies of visionary space concepts.",
  "f": "NASA",
  "fields": [
@@ -25,7 +25,7 @@
   }
  ],
  "nom": false,
- "s": "open",
+ "s": "watch",
  "stages": [
   "tt",
   "ten"
