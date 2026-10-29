@@ -4495,6 +4495,28 @@
   "d": null
  },
  {
+  "id": "fj-stony-brook-yitp-tt-asst-prof-theory",
+  "n": "Stony Brook University: Tenure-Track Assistant Professor, Theoretical Physics (C.N. Yang Institute)",
+  "f": "Stony Brook University, C.N. Yang Institute for Theoretical Physics",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-12-15",
+  "dt": "Review begins Dec 15, 2026",
+  "a": "Assistant Professor; start Sep 1, 2027; salary not stated",
+  "e": "Tenure-track assistant professor with an emphasis on formal quantum field theory and/or quantum gravity, joint with the Department of Physics and Astronomy. Requires a PhD in theoretical physics or a related field.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33269",
+  "unv": "Whether applications are accepted after Dec 15 is not stated; salary not stated.",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-29",
+  "added": "2026-10-29",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
   "id": "fj-swinburne-senior-lecturer-physics-astronomy-women-onl",
   "n": "Swinburne: Senior Lecturer, Physics & Astronomy (women-only)",
   "f": "Centre for Astrophysics & Supercomputing, Swinburne University of Technology",
@@ -6408,6 +6430,29 @@
   ]
  },
  {
+  "id": "harvard-high-energy-theory-postdoc-2027",
+  "n": "Harvard University: Postdoctoral Fellow in High-Energy Theory",
+  "f": "Harvard University, Department of Physics",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-07",
+  "dt": "Dec 7, 2026; letters by Dec 14, 2026",
+  "a": "One year, renewable to three; start Sep 1, 2027; salary not stated",
+  "e": "Postdoc in high-energy theory, including particle physics, particle astrophysics, quantum gravity, quantum field theory and string theory. Apply through the Harvard Academic Positions site, not AJO; requires a PhD by the start date.",
+  "u": "https://academicpositions.harvard.edu/postings/16980",
+  "unv": "Salary not stated; citizenship limits not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-29",
+  "added": "2026-10-29",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "harvard-itc-fellowship",
   "n": "Harvard ITC Fellowship",
   "f": "CfA / Harvard",
@@ -6877,6 +6922,28 @@
   "nfit": "Medium",
   "checked": "2026-10-26",
   "added": "2026-10-23",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "ifj-pan-krakow-alice-postdoc",
+  "n": "IFJ PAN Kraków: Postdoctoral position in the ALICE group",
+  "f": "Institute of Nuclear Physics, Polish Academy of Sciences (IFJ PAN), Kraków",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-16",
+  "dt": "Nov 16, 2026; candidates must first contact the department head by Nov 9, 2026",
+  "a": "Up to 33 months; base salary PLN 7,250 gross per month with a PhD",
+  "e": "Postdoc on ultra-peripheral heavy-ion collisions or diffraction with the ALICE experiment at CERN, plus detector upgrade work (FIT, FoCal). Requires a doctorate in experimental physics or a related field; no citizenship limits stated.",
+  "u": "https://ifj.edu.pl/en/career/job-offers/offers/recruitment/2026/october/NZ23-1-Adiunkt_postdoc_AP-II-26-eng.pdf",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-29",
+  "added": "2026-10-29",
   "stages": [
    "pd"
   ]
@@ -9558,9 +9625,8 @@
   "n": "NASA Hubble Fellowship Program (NHFP)",
   "f": "NASA / STScI",
   "c": "Fellowship",
-  "s": "open",
-  "d": "2026-10-28",
-  "dt": "7 pm EDT; letters Nov 4",
+  "s": "watch",
+  "dt": "Last deadline Oct 28, 2026; the next cycle is not posted yet",
   "a": "Prize-fellowship salary, up to 3 yr",
   "e": "Any nationality. PhD on or after Jan 1, 2023 or by Sep 2027. About 24 awards, subject to NASA funding. At most 2 new fellows per host each year.",
   "u": "https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program",
@@ -9574,7 +9640,8 @@
   "added": "2026-09-29",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "nasa-ostem-internships-summer-fall-2027",
@@ -10245,28 +10312,6 @@
    "gr"
   ],
   "d": null
- },
- {
-  "id": "nrao-jansky-postdoctoral-fellowship-2027",
-  "n": "NRAO: Jansky Postdoctoral Fellowship 2027",
-  "f": "National Radio Astronomy Observatory; contact Anna Kapinska",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-10-28",
-  "dt": "Oct 28, 2026, 11:59 pm EDT (letters Nov 11)",
-  "a": "Typical starting salary $75,000 + $17,000/yr for research and travel; 2 to 3 years",
-  "e": "Radio astronomy science, techniques, instrumentation or theory using NRAO facilities. At most 5 years postdoc at the start.",
-  "u": "https://science.nrao.edu/opportunities/postdoctoral-programs/jansky",
-  "us": false,
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "nfit": "High",
-  "checked": "2026-10-26",
-  "added": "2026-09-30",
-  "stages": [
-   "pd"
-  ]
  },
  {
   "id": "nrao-post-baccalaureate-fellowship",
@@ -12411,6 +12456,52 @@
   ]
  },
  {
+  "id": "syracuse-simons-physics-of-learning-postdoc",
+  "n": "Syracuse University: Simons Postdoc in the Physics of Learning and Neural Computation (Maloney group)",
+  "f": "Syracuse University, Institute for Quantum and Information Sciences (Alexander Maloney)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-01",
+  "dt": "Review begins Dec 1, 2026 and continues until filled",
+  "a": "Flexible start; salary not stated",
+  "e": "Postdoc in the Simons Collaboration on the Physics of Learning and Neural Computation, applying field theory, random matrix theory and statistical mechanics to neural networks. Open to physicists with or without a machine-learning background; no citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33274",
+  "unv": "Salary and appointment length not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-29",
+  "added": "2026-10-29",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "syracuse-theoretical-physics-postdocs-2027",
+  "n": "Syracuse University: Postdoctoral Positions in Theoretical Physics",
+  "f": "Syracuse University, Department of Physics and Institute for Quantum and Information Sciences",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-01",
+  "dt": "Review begins Dec 1, 2026 and continues until filled",
+  "a": "$62,400–$65,000; start Sep 2027; up to three offers",
+  "e": "Postdocs in field theory, string theory, particle phenomenology, quantum gravity, quantum information theory, lattice QCD, cosmology and machine learning. No citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33273",
+  "unv": "Appointment length not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-29",
+  "added": "2026-10-29",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "sysu-zhuhai-holography-quantum-dynamics-postdoc",
   "n": "Sun Yat-sen University (Zhuhai): Postdoc in holography and quantum dynamics",
   "f": "Sun Yat-sen University, School of Physics and Astronomy (Zhuo-Yu Xian)",
@@ -12743,6 +12834,29 @@
   "nfit": "Low",
   "checked": "2026-10-26",
   "added": "2026-10-02",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "u-bern-itp-theory-postdocs-2027",
+  "n": "University of Bern: Postdoc positions in theoretical physics (ITP, AEC)",
+  "f": "University of Bern, Institute for Theoretical Physics, Albert Einstein Center for Fundamental Physics",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-01",
+  "dt": "Priority to applications by Dec 1, 2026",
+  "a": "Start fall 2027; salary not stated",
+  "e": "One or more postdocs in collider physics, effective field theories, thermal field theory, flavour physics, lattice gauge theory and formal quantum field theory. Applicants name the Bern faculty member they would most likely work with; no citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33263",
+  "unv": "Salary and appointment length not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-29",
+  "added": "2026-10-29",
   "stages": [
    "pd"
   ]
@@ -13391,6 +13505,29 @@
   "nfit": "High",
   "checked": "2026-10-26",
   "added": "2026-10-01",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "uchicago-zebrowski-experimental-cosmology-postdoc",
+  "n": "University of Chicago: Postdoctoral Researcher in Experimental Cosmology (Zebrowski group)",
+  "f": "University of Chicago, Department of Astronomy and Astrophysics / KICP (Jessica Zebrowski)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-15",
+  "dt": "Review begins Jan 15, 2027 and continues until filled",
+  "a": "$70,000–$75,000 plus benefits; start summer or fall 2027",
+  "e": "Postdoc on line-intensity mapping (TIM balloon data), millimeter-wave detector and spectrometer development, low-frequency 21-cm radio cosmology or high-redshift galaxy surveys. Requires a PhD in physics, astronomy or a related field by the start date; no citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33259",
+  "unv": "Also listed on INSPIRE (3219812).",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-10-29",
+  "added": "2026-10-29",
   "stages": [
    "pd"
   ]
@@ -14220,6 +14357,29 @@
   "nfit": "Low",
   "checked": "2026-10-26",
   "added": "2026-10-13",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "uzh-particle-phenomenology-postdocs-2027",
+  "n": "University of Zurich: Postdoctoral research associate in particle theory",
+  "f": "University of Zurich, Department of Physics",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-31",
+  "dt": "Priority to applications by Dec 31, 2026",
+  "a": "Start fall 2027; salary not stated",
+  "e": "Postdocs in particle phenomenology: collider physics, precision calculations, Higgs and flavour physics, effective field theories and physics beyond the Standard Model. No citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33264",
+  "unv": "AJO lists no formal deadline; salary and appointment length not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-29",
+  "added": "2026-10-29",
   "stages": [
    "pd"
   ]

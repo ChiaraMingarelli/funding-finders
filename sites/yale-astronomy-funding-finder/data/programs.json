@@ -8423,8 +8423,8 @@
   "added": "2026-09-29",
   "c": "Fellowship",
   "checked": "2026-10-26",
-  "d": "2026-10-28",
-  "dt": "7 pm EDT; letters Nov 4",
+  "d": null,
+  "dt": "Last deadline Oct 28, 2026; the next cycle is not posted yet",
   "e": "Any nationality. PhD on or after Jan 1, 2023 or by Sep 2027. About 24 awards, subject to NASA funding. At most 2 new fellows per host each year.",
   "f": "NASA / STScI",
   "fields": [
@@ -8437,7 +8437,7 @@
   "nom": false,
   "pt": "prize",
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
@@ -8451,8 +8451,8 @@
   "asub": [],
   "c": "Federal grant",
   "checked": "2026-10-26",
-  "d": "2026-10-28",
-  "dt": "Posted 2026-09-28; Step A brief proposal (close 2026-10-28), Step B by invitation",
+  "d": null,
+  "dt": "Last Step A deadline Oct 28, 2026 (Step B by invitation); the next cycle is not posted yet",
   "e": "All US organizations (non-US on no-exchange-of-funds basis). Nine-month feasibility studies of visionary space concepts.",
   "f": "NASA",
   "fields": [
@@ -8468,7 +8468,7 @@
    }
   ],
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "stages": [
    "tt",
    "ten"
@@ -9447,34 +9447,6 @@
   ],
   "u": "https://science.nrao.edu/opportunities/student-programs/ReberFellowships",
   "unv": "Stipend amount, citizenship rules and next deadline not stated",
-  "us": false
- },
- {
-  "a": "Typical starting salary $75,000 + $17,000/yr for research and travel; 2 to 3 years",
-  "added": "2026-09-30",
-  "asub": [],
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-28",
-  "dt": "Oct 28, 2026, 11:59 pm EDT (letters Nov 11)",
-  "e": "Radio astronomy science, techniques, instrumentation or theory using NRAO facilities. At most 5 years postdoc at the start.",
-  "f": "National Radio Astronomy Observatory; contact Anna Kapinska",
-  "fields": [
-   "astro",
-   "inst"
-  ],
-  "id": "nrao-jansky-postdoctoral-fellowship-2027",
-  "n": "NRAO: Jansky Postdoctoral Fellowship 2027",
-  "nfit": "High",
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "aas:77bb2a0f",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://science.nrao.edu/opportunities/postdoctoral-programs/jansky",
   "us": false
  },
  {
@@ -13425,6 +13397,39 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32888",
+  "us": false
+ },
+ {
+  "a": "$70,000–$75,000 plus benefits; start summer or fall 2027",
+  "added": "2026-10-29",
+  "asub": [
+   "cos",
+   "xgal",
+   "inst"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-29",
+  "d": "2027-01-15",
+  "dt": "Review begins Jan 15, 2027 and continues until filled",
+  "e": "Postdoc on line-intensity mapping (TIM balloon data), millimeter-wave detector and spectrometer development, low-frequency 21-cm radio cosmology or high-redshift galaxy surveys. Requires a PhD in physics, astronomy or a related field by the start date; no citizenship limits stated.",
+  "f": "University of Chicago, Department of Astronomy and Astrophysics / KICP (Jessica Zebrowski)",
+  "fields": [
+   "astro",
+   "inst"
+  ],
+  "id": "uchicago-zebrowski-experimental-cosmology-postdoc",
+  "n": "University of Chicago: Postdoctoral Researcher in Experimental Cosmology (Zebrowski group)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33259",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33259",
+  "unv": "Also listed on INSPIRE (3219812).",
   "us": false
  },
  {

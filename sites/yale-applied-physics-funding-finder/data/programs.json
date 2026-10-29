@@ -11597,8 +11597,8 @@
   "added": "2026-10-03",
   "c": "Training",
   "checked": "2026-10-26",
-  "d": "2026-10-28",
-  "dt": "Spring 2027 applications close Oct 28, 2026, 11:59 pm ET; Summer 2027 applications close Feb 27, 2027, 11:59 pm ET",
+  "d": "2027-02-27",
+  "dt": "Summer 2027 applications close Feb 27, 2027, 11:59 pm ET",
   "e": "Mentored full- or part-time research appointments at ORNL for undergraduate and graduate students. US citizens or permanent residents with 3.0+ GPA.",
   "f": "Oak Ridge National Laboratory / ORISE",
   "fields": [
@@ -13900,6 +13900,62 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33207",
   "unv": "Salary not stated",
+  "us": false
+ },
+ {
+  "a": "Flexible start; salary not stated",
+  "added": "2026-10-29",
+  "c": "Group postdoc",
+  "checked": "2026-10-29",
+  "d": "2026-12-01",
+  "dt": "Review begins Dec 1, 2026 and continues until filled",
+  "e": "Postdoc in the Simons Collaboration on the Physics of Learning and Neural Computation, applying field theory, random matrix theory and statistical mechanics to neural networks. Open to physicists with or without a machine-learning background; no citizenship limits stated.",
+  "f": "Syracuse University, Institute for Quantum and Information Sciences (Alexander Maloney)",
+  "fields": [
+   "ds",
+   "cmt"
+  ],
+  "id": "syracuse-simons-physics-of-learning-postdoc",
+  "n": "Syracuse University: Simons Postdoc in the Physics of Learning and Neural Computation (Maloney group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33274",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33274",
+  "unv": "Salary and appointment length not stated.",
+  "us": false
+ },
+ {
+  "a": "$62,400–$65,000; start Sep 2027; up to three offers",
+  "added": "2026-10-29",
+  "c": "Group postdoc",
+  "checked": "2026-10-29",
+  "d": "2026-12-01",
+  "dt": "Review begins Dec 1, 2026 and continues until filled",
+  "e": "Postdocs in field theory, string theory, particle phenomenology, quantum gravity, quantum information theory, lattice QCD, cosmology and machine learning. No citizenship limits stated.",
+  "f": "Syracuse University, Department of Physics and Institute for Quantum and Information Sciences",
+  "fields": [
+   "ppt",
+   "qp"
+  ],
+  "id": "syracuse-theoretical-physics-postdocs-2027",
+  "n": "Syracuse University: Postdoctoral Positions in Theoretical Physics",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33273",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33273",
+  "unv": "Appointment length not stated.",
   "us": false
  },
  {
