@@ -8,9 +8,9 @@
   "ast"
  ],
  "c": "Foundation",
- "checked": "2026-10-26",
- "d": "2026-10-29",
- "dt": "LOI Oct 29, 2026, noon ET",
+ "checked": "2026-10-30",
+ "d": null,
+ "dt": "Last LOI deadline Oct 29, 2026, noon ET; the next cycle is not posted yet",
  "e": "Multi-institution teams led by faculty at eligible institutions.",
  "f": "Simons Foundation",
  "fields": [
@@ -20,7 +20,7 @@
  "n": "Simons Collaborations in MPS",
  "nfit": "Low",
  "nom": false,
- "s": "open",
+ "s": "watch",
  "stages": [
   "tt",
   "ten"

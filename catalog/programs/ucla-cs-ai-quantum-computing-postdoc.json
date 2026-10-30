@@ -1,0 +1,32 @@
+{
+ "a": "About $75K, may be adjusted by experience; 2-3 years",
+ "added": "2026-10-30",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-30",
+ "d": null,
+ "dt": "No deadline listed; start Winter Quarter 2027",
+ "e": "Postdoc with Jason Cong and Yizhou Sun on AI methods for quantum error-correction decoding (including qLDPC codes), noise prediction and quantum algorithms on early fault-tolerant hardware. Open to AI researchers moving into quantum computing and to quantum researchers developing AI methods.",
+ "f": "University of California, Los Angeles, Computer Science Department",
+ "fields": [
+  "qp",
+  "ds"
+ ],
+ "id": "ucla-cs-ai-quantum-computing-postdoc",
+ "n": "UCLA Computer Science: Postdoctoral Scholar in AI and Quantum Computing (Cong and Sun)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "ajo:33275",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33275",
+ "us": false
+}

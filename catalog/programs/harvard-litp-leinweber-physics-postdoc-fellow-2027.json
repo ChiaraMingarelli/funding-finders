@@ -1,0 +1,39 @@
+{
+ "a": "1-year appointment, renewable for a second and third year; salary not stated",
+ "added": "2026-10-30",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-30",
+ "d": "2026-11-30",
+ "dt": "Nov 30, 2026 (letters by the same date); apply on the Harvard Academic Positions site, not AJO",
+ "e": "Fellowship starting fall 2027 to pursue the fellow's own research in theoretical physics (particle physics, cosmology, quantum field theory, quantum gravity and string theory, holography, condensed matter theory), with ties across the Leinweber network. Applications go through Harvard's academic positions site.",
+ "f": "Harvard University, Leinweber Institute for Theoretical Physics",
+ "fields": [
+  "ppt",
+  "grav",
+  "astro",
+  "cmt"
+ ],
+ "id": "harvard-litp-leinweber-physics-postdoc-fellow-2027",
+ "n": "Harvard LITP: Leinweber Physics Postdoctoral Fellow",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33286",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicpositions.harvard.edu/postings/16981",
+ "unv": "Salary not listed.",
+ "us": false
+}

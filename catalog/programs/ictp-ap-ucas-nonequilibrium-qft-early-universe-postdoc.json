@@ -1,0 +1,35 @@
+{
+ "a": "About 320,000 CNY/yr before tax; 2 years, possible third; travel funds and up to 3 months/yr of covered visits abroad",
+ "added": "2026-10-30",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-30",
+ "d": "2027-02-01",
+ "dt": "Feb 1, 2027 (AJO); open until one or two candidates are selected",
+ "e": "Postdoc on thermal and non-thermal effects of particle physics in the early Universe, aimed at physics beyond the Standard Model. Requires a PhD in particle physics; background in thermal QFT preferred.",
+ "f": "International Centre for Theoretical Physics Asia-Pacific, University of Chinese Academy of Sciences",
+ "fields": [
+  "ppt",
+  "astro"
+ ],
+ "id": "ictp-ap-ucas-nonequilibrium-qft-early-universe-postdoc",
+ "n": "ICTP-AP (UCAS): Postdoc in non-equilibrium QFT in the early Universe",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33287",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33287",
+ "us": false
+}

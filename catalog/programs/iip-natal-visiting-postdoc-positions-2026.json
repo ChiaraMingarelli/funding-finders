@@ -1,0 +1,34 @@
+{
+ "a": "Three visiting positions for an initial 3 months, renewable subject to funding; stipend not stated",
+ "added": "2026-10-30",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-30",
+ "d": "2026-11-15",
+ "dt": "Nov 15, 2026 (INSPIRE)",
+ "e": "Short visiting positions at the postdoctoral level in theoretical physics (particle physics, quantum information, string theory, statistical and condensed matter physics). Open to Brazilian and international researchers with a PhD or a completed doctoral program.",
+ "f": "International Institute of Physics, Universidade Federal do Rio Grande do Norte (FINEP/FAPERN project)",
+ "fields": [
+  "ppt",
+  "cmt",
+  "qp"
+ ],
+ "id": "iip-natal-visiting-postdoc-positions-2026",
+ "n": "International Institute of Physics (UFRN, Natal): Visiting Positions at the Postdoctoral Level",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3219982",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.iip.ufrn.br/en/researchers-opportunities/call-for-short-postdoc-positions-2026",
+ "unv": "Stipend amount not listed.",
+ "us": false
+}

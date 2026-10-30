@@ -1,0 +1,32 @@
+{
+ "a": "Not stated",
+ "added": "2026-10-30",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-30",
+ "d": null,
+ "dt": "Expressions of interest; no deadline stated; flexible start",
+ "e": "Call for expressions of interest from postdocs (and PhD students) in classical and quantum Shannon theory: channel capacities, zero-error communication, state and channel discrimination. Strong background in theoretical quantum information wanted.",
+ "f": "University of Brescia (ERC project of Marco Dalai)",
+ "fields": [
+  "qp"
+ ],
+ "id": "brescia-quantum-shannon-theory-postdoc-eoi",
+ "n": "University of Brescia: Postdoc in Quantum Information Theory (Dalai, ERC) - expression of interest",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "rolling",
+ "src": "other:quantiki-brescia-dalai-qit",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://quantiki.org/position/postdoctoral-and-phd-opportunities-quantum-information-theory-university-brescia-italy",
+ "unv": "No formal call yet; salary and duration not listed.",
+ "us": false
+}
