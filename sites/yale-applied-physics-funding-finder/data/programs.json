@@ -1878,6 +1878,33 @@
   "us": false
  },
  {
+  "a": "Not stated",
+  "added": "2026-10-30",
+  "c": "Group postdoc",
+  "checked": "2026-10-30",
+  "d": null,
+  "dt": "Expressions of interest; no deadline stated; flexible start",
+  "e": "Call for expressions of interest from postdocs (and PhD students) in classical and quantum Shannon theory: channel capacities, zero-error communication, state and channel discrimination. Strong background in theoretical quantum information wanted.",
+  "f": "University of Brescia (ERC project of Marco Dalai)",
+  "fields": [
+   "qp"
+  ],
+  "id": "brescia-quantum-shannon-theory-postdoc-eoi",
+  "n": "University of Brescia: Postdoc in Quantum Information Theory (Dalai, ERC) - expression of interest",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:quantiki-brescia-dalai-qit",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://quantiki.org/position/postdoctoral-and-phd-opportunities-quantum-information-theory-university-brescia-italy",
+  "unv": "No formal call yet; salary and duration not listed.",
+  "us": false
+ },
+ {
   "a": "Two-year postdoc, possible third year; salary not stated",
   "added": "2026-10-21",
   "c": "Group postdoc",
@@ -4935,6 +4962,39 @@
   "us": false
  },
  {
+  "a": "1-year appointment, renewable for a second and third year; salary not stated",
+  "added": "2026-10-30",
+  "asub": [
+   "cos"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-30",
+  "d": "2026-11-30",
+  "dt": "Nov 30, 2026 (letters by the same date); apply on the Harvard Academic Positions site, not AJO",
+  "e": "Fellowship starting fall 2027 to pursue the fellow's own research in theoretical physics (particle physics, cosmology, quantum field theory, quantum gravity and string theory, holography, condensed matter theory), with ties across the Leinweber network. Applications go through Harvard's academic positions site.",
+  "f": "Harvard University, Leinweber Institute for Theoretical Physics",
+  "fields": [
+   "ppt",
+   "grav",
+   "astro",
+   "cmt"
+  ],
+  "id": "harvard-litp-leinweber-physics-postdoc-fellow-2027",
+  "n": "Harvard LITP: Leinweber Physics Postdoctoral Fellow",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33286",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicpositions.harvard.edu/postings/16981",
+  "unv": "Salary not listed.",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-10-03",
   "c": "Summer program",
@@ -5774,6 +5834,35 @@
   ],
   "u": "https://ieeephotonics.org/awards/graduate-student-scholarship/",
   "unv": "The society page states applications are due May 30 each year; no 2027 call or form date was found.",
+  "us": false
+ },
+ {
+  "a": "Three visiting positions for an initial 3 months, renewable subject to funding; stipend not stated",
+  "added": "2026-10-30",
+  "c": "Fellowship",
+  "checked": "2026-10-30",
+  "d": "2026-11-15",
+  "dt": "Nov 15, 2026 (INSPIRE)",
+  "e": "Short visiting positions at the postdoctoral level in theoretical physics (particle physics, quantum information, string theory, statistical and condensed matter physics). Open to Brazilian and international researchers with a PhD or a completed doctoral program.",
+  "f": "International Institute of Physics, Universidade Federal do Rio Grande do Norte (FINEP/FAPERN project)",
+  "fields": [
+   "ppt",
+   "cmt",
+   "qp"
+  ],
+  "id": "iip-natal-visiting-postdoc-positions-2026",
+  "n": "International Institute of Physics (UFRN, Natal): Visiting Positions at the Postdoctoral Level",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3219982",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.iip.ufrn.br/en/researchers-opportunities/call-for-short-postdoc-positions-2026",
+  "unv": "Stipend amount not listed.",
   "us": false
  },
  {
@@ -11733,32 +11822,6 @@
   }
  },
  {
-  "a": "Stipend + tuition support for up to 2 yrs",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-29",
-  "dt": "Oct 29, 2026, 2 pm ET",
-  "e": "Immigrants or children of immigrants applying to or in the first two years of a US graduate program; age limit applies.",
-  "f": "Paul & Daisy Soros Fellowships",
-  "fields": [
-   "all"
-  ],
-  "id": "paul-daisy-soros-fellowships-for-new-americans-2027",
-  "n": "Paul & Daisy Soros Fellowships for New Americans (2027)",
-  "nfit": "Low",
-  "nom": false,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "gr",
-   "ug"
-  ],
-  "u": "https://www.pdsoros.org/apply",
-  "unv": "Dollar amount and age limit not shown on apply page",
-  "us": false
- },
- {
   "a": "not listed",
   "added": "2026-09-30",
   "c": "Fellowship",
@@ -13067,9 +13130,9 @@
   "a": "Up to $2M/yr for 4 yrs (renewable)",
   "added": "2026-09-28",
   "c": "Foundation",
-  "checked": "2026-10-26",
-  "d": "2026-10-29",
-  "dt": "LOI Oct 29, 2026, noon ET",
+  "checked": "2026-10-30",
+  "d": null,
+  "dt": "Last LOI deadline Oct 29, 2026, noon ET; the next cycle is not posted yet",
   "e": "Multi-institution teams led by faculty at eligible institutions.",
   "f": "Simons Foundation",
   "fields": [
@@ -13079,7 +13142,7 @@
   "n": "Simons Collaborations in MPS",
   "nfit": "Low",
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "stages": [
    "tt",
    "ten"
@@ -14038,6 +14101,38 @@
   "us": false
  },
  {
+  "a": "1-year appointments, renewable up to 3 years; experienced candidates may be considered for the Jawaharlal Nehru postdoctoral fellowship",
+  "added": "2026-10-30",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-30",
+  "d": "2027-01-20",
+  "dt": "Jan 20, 2027 (AJO)",
+  "e": "Several postdoctoral positions in theoretical physics: cosmology and astroparticle physics, condensed matter and statistical physics, particle physics including lattice QCD, string theory and mathematical physics.",
+  "f": "Tata Institute of Fundamental Research, Department of Theoretical Physics",
+  "fields": [
+   "ppt",
+   "astro",
+   "cmt"
+  ],
+  "id": "tifr-mumbai-theoretical-physics-visiting-fellow-2027",
+  "n": "TIFR Mumbai: Visiting Fellow (postdoc) in Theoretical Physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33245",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33245",
+  "unv": "Salary not listed.",
+  "us": false
+ },
+ {
   "a": "Not stated (described as highly competitive, with allowances); initial 3-year appointment with option to extend",
   "added": "2026-10-16",
   "c": "Group postdoc",
@@ -14771,6 +14866,33 @@
   ],
   "u": "https://physicalsciences.ucla.edu/bhaumik-prize-postdoctoral-fellows-program/",
   "unv": "The page header says \"Deadline Extended to 10/31/26\" and the nomination instructions give Oct 31, 2026; the overview text still says Oct 24, 2026.",
+  "us": false
+ },
+ {
+  "a": "About $75K, may be adjusted by experience; 2-3 years",
+  "added": "2026-10-30",
+  "c": "Group postdoc",
+  "checked": "2026-10-30",
+  "d": null,
+  "dt": "No deadline listed; start Winter Quarter 2027",
+  "e": "Postdoc with Jason Cong and Yizhou Sun on AI methods for quantum error-correction decoding (including qLDPC codes), noise prediction and quantum algorithms on early fault-tolerant hardware. Open to AI researchers moving into quantum computing and to quantum researchers developing AI methods.",
+  "f": "University of California, Los Angeles, Computer Science Department",
+  "fields": [
+   "qp",
+   "ds"
+  ],
+  "id": "ucla-cs-ai-quantum-computing-postdoc",
+  "n": "UCLA Computer Science: Postdoctoral Scholar in AI and Quantum Computing (Cong and Sun)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "ajo:33275",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33275",
   "us": false
  },
  {

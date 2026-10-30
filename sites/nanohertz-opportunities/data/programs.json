@@ -876,6 +876,29 @@
   "d": null
  },
  {
+  "id": "brescia-quantum-shannon-theory-postdoc-eoi",
+  "n": "University of Brescia: Postdoc in Quantum Information Theory (Dalai, ERC) - expression of interest",
+  "f": "University of Brescia (ERC project of Marco Dalai)",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Expressions of interest; no deadline stated; flexible start",
+  "a": "Not stated",
+  "e": "Call for expressions of interest from postdocs (and PhD students) in classical and quantum Shannon theory: channel capacities, zero-error communication, state and channel discrimination. Strong background in theoretical quantum information wanted.",
+  "u": "https://quantiki.org/position/postdoctoral-and-phd-opportunities-quantum-information-theory-university-brescia-italy",
+  "unv": "No formal call yet; salary and duration not listed.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-30",
+  "added": "2026-10-30",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
   "id": "brinson-prize-fellowship-stsci",
   "n": "Brinson Prize Fellowship (STScI)",
   "f": "Brinson Foundation / STScI",
@@ -2172,50 +2195,6 @@
   "d": null
  },
  {
-  "id": "dunlap-optical-ground-station-postdoc",
-  "n": "Dunlap Institute (U Toronto): Postdoc in Optical Ground Station Systems for Laser Communications",
-  "f": "Dunlap Institute, University of Toronto",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-10-29",
-  "dt": "Closes 29 Oct 2026",
-  "a": "CAD 74,922/yr + CAD 10,000/yr research allowance; 2 years, extendable subject to funding",
-  "e": "Postdoc in Suresh Sivanandam's group building and testing a compact optical ground station with photonic adaptive optics for classical and quantum space-to-ground links, including on-sky tests. PhD in astronomy, physics, photonics, engineering or related field; no citizenship limits stated.",
-  "u": "https://academicjobsonline.org/ajo/UofT/Dunlap/PDF_OGS2026",
-  "us": false,
-  "nom": false,
-  "pt": "group",
-  "region": "Canada",
-  "nfit": "Low",
-  "checked": "2026-10-26",
-  "added": "2026-10-02",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "dunlap-photonic-aosoc-postdoc",
-  "n": "Dunlap Institute (U Toronto): Postdoc in Integrated Photonics for Adaptive Optics and Optical Communications",
-  "f": "Dunlap Institute, University of Toronto",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-10-29",
-  "dt": "Closes 29 Oct 2026; nominal start Jan 2027",
-  "a": "CAD 74,922/yr + CAD 10,000/yr research allowance; 2 years, extendable subject to funding",
-  "e": "Postdoc in Suresh Sivanandam's group (with Tightbeam Photonics and NRC) designing and testing photonic integrated circuits for an adaptive-optics system-on-a-chip used in optical ground stations and astronomy. PhD awarded on or after 1 Jan 2022 (career breaks accommodated); no citizenship limits stated.",
-  "u": "https://academicjobsonline.org/ajo/UofT/Dunlap/PDF_AOS2026",
-  "us": false,
-  "nom": false,
-  "pt": "group",
-  "region": "Canada",
-  "nfit": "Low",
-  "checked": "2026-10-26",
-  "added": "2026-10-02",
-  "stages": [
-   "pd"
-  ]
- },
- {
   "id": "durham-icc-hefner-fellowship-unbounded-cosmology",
   "n": "Durham University ICC: Robert and MeiLi Hefner Foundation Fellowship in Unbounded Cosmology",
   "f": "Durham University (Institute for Computational Cosmology)",
@@ -2620,6 +2599,29 @@
    "pd"
   ],
   "d": null
+ },
+ {
+  "id": "fermilab-ai-for-science-research-associate-ciprijanovic",
+  "n": "Fermilab: Research Associate in AI for Science (Ciprijanovic group)",
+  "f": "Fermi National Accelerator Laboratory, Computational Science and AI Directorate",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-30",
+  "dt": "Full consideration for applications received by Dec 30, 2026, 11:59 pm CST",
+  "a": "2-year term, renewable for a third year; salary not stated",
+  "e": "Postdoc with Aleksandra Ciprijanovic's group on deep learning for cosmology, neutrino and collider physics (graph neural networks, domain adaptation, uncertainty quantification, interpretability). Requires a PhD in astrophysics, physics, computer science or a related field.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33283",
+  "unv": "Salary not listed.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-10-30",
+  "added": "2026-10-30",
+  "stages": [
+   "pd"
+  ]
  },
  {
   "id": "fermilab-leon-lederman-fellowship",
@@ -6475,6 +6477,29 @@
   ]
  },
  {
+  "id": "harvard-litp-leinweber-physics-postdoc-fellow-2027",
+  "n": "Harvard LITP: Leinweber Physics Postdoctoral Fellow",
+  "f": "Harvard University, Leinweber Institute for Theoretical Physics",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2026-11-30",
+  "dt": "Nov 30, 2026 (letters by the same date); apply on the Harvard Academic Positions site, not AJO",
+  "a": "1-year appointment, renewable for a second and third year; salary not stated",
+  "e": "Fellowship starting fall 2027 to pursue the fellow's own research in theoretical physics (particle physics, cosmology, quantum field theory, quantum gravity and string theory, holography, condensed matter theory), with ties across the Leinweber network. Applications go through Harvard's academic positions site.",
+  "u": "https://academicpositions.harvard.edu/postings/16981",
+  "unv": "Salary not listed.",
+  "us": false,
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-10-30",
+  "added": "2026-10-30",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "harvard-society-of-fellows-junior-fellows",
   "n": "Harvard Society of Fellows (Junior Fellows)",
   "f": "Harvard University",
@@ -6585,29 +6610,6 @@
    "pd"
   ],
   "d": null
- },
- {
-  "id": "iacs-kolkata-research-associate-particle-astroparticle",
-  "n": "IACS Kolkata: Research Associate-I (Postdoc) in Particle Phenomenology and Astroparticle Physics",
-  "f": "Indian Association for the Cultivation of Science, School of Physical Sciences (Dilip Kumar Ghosh)",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-10-29",
-  "dt": "21 days from the 2026-10-08 advertisement (INSPIRE: 2026-10-29)",
-  "a": "Rs. 58,000/month + HRA; 2 years",
-  "e": "One Research Associate-I post in particle phenomenology and astroparticle physics; requires a PhD (or thesis submitted within three months) and relevant publications. The INSPIRE listing says applications are invited from Indian nationals only.",
-  "u": "https://www.iacs.res.in/modules/careersrscientist/images/Rac_08-10-269402.pdf",
-  "unv": "The Indian-nationals restriction appears in the INSPIRE text but not in the host PDF.",
-  "us": false,
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "nfit": "Medium",
-  "checked": "2026-10-26",
-  "added": "2026-10-14",
-  "stages": [
-   "pd"
-  ]
  },
  {
   "id": "iag-usp-s-o-paulo-high-energy-astrophysics-postdoc-swgo",
@@ -6810,6 +6812,28 @@
   "nfit": "High",
   "checked": "2026-10-26",
   "added": "2026-09-30",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "ictp-ap-ucas-nonequilibrium-qft-early-universe-postdoc",
+  "n": "ICTP-AP (UCAS): Postdoc in non-equilibrium QFT in the early Universe",
+  "f": "International Centre for Theoretical Physics Asia-Pacific, University of Chinese Academy of Sciences",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-02-01",
+  "dt": "Feb 1, 2027 (AJO); open until one or two candidates are selected",
+  "a": "About 320,000 CNY/yr before tax; 2 years, possible third; travel funds and up to 3 months/yr of covered visits abroad",
+  "e": "Postdoc on thermal and non-thermal effects of particle physics in the early Universe, aimed at physics beyond the Standard Model. Requires a PhD in particle physics; background in thermal QFT preferred.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33287",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-30",
+  "added": "2026-10-30",
   "stages": [
    "pd"
   ]
@@ -7144,6 +7168,29 @@
   "nfit": "Medium",
   "checked": "2026-10-26",
   "added": "2026-10-22",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "iip-natal-visiting-postdoc-positions-2026",
+  "n": "International Institute of Physics (UFRN, Natal): Visiting Positions at the Postdoctoral Level",
+  "f": "International Institute of Physics, Universidade Federal do Rio Grande do Norte (FINEP/FAPERN project)",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2026-11-15",
+  "dt": "Nov 15, 2026 (INSPIRE)",
+  "a": "Three visiting positions for an initial 3 months, renewable subject to funding; stipend not stated",
+  "e": "Short visiting positions at the postdoctoral level in theoretical physics (particle physics, quantum information, string theory, statistical and condensed matter physics). Open to Brazilian and international researchers with a PhD or a completed doctoral program.",
+  "u": "https://www.iip.ufrn.br/en/researchers-opportunities/call-for-short-postdoc-positions-2026",
+  "unv": "Stipend amount not listed.",
+  "us": false,
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-30",
+  "added": "2026-10-30",
   "stages": [
    "pd"
   ]
@@ -7750,6 +7797,29 @@
   "nfit": "Low",
   "checked": "2026-10-26",
   "added": "2026-10-13",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "ipht-lpthe-string-theory-postdocs-2027",
+  "n": "IPhT Saclay and LPTHE Paris: Joint Postdoctoral Positions in String Theory",
+  "f": "IPhT (CEA Saclay) and LPTHE (Sorbonne Université), ANR grant \"Beyond Supergravity\"",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-16",
+  "dt": "Dec 16, 2026, through the common European postdoc call on AJO (job 32558)",
+  "a": "Two positions starting fall 2027; salary not stated",
+  "e": "Two joint postdocs with the string theory groups of Bena, Graña and Minasian (IPhT) and Israel, Lüst and Petrini (LPTHE). Apply through the European \"Leuven\" network call on Academic Jobs Online.",
+  "u": "https://academicjobsonline.org/ajo/jobs/32558",
+  "unv": "Salary and appointment length not listed.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-30",
+  "added": "2026-10-30",
   "stages": [
    "pd"
   ]
@@ -11241,29 +11311,6 @@
   ]
  },
  {
-  "id": "paul-daisy-soros-fellowships-for-new-americans-2027",
-  "n": "Paul & Daisy Soros Fellowships for New Americans (2027)",
-  "f": "Paul & Daisy Soros Fellowships",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-10-29",
-  "dt": "Oct 29, 2026, 2 pm ET",
-  "a": "Stipend + tuition support for up to 2 yrs",
-  "e": "Immigrants or children of immigrants applying to or in the first two years of a US graduate program; age limit applies.",
-  "u": "https://www.pdsoros.org/apply",
-  "unv": "Dollar amount and age limit not shown on apply page",
-  "us": false,
-  "nom": false,
-  "region": "US",
-  "nfit": "Low",
-  "checked": "2026-10-26",
-  "added": "2026-09-29",
-  "stages": [
-   "gr",
-   "ug"
-  ]
- },
- {
   "id": "peking-university-kiaa-kiaa-fellowships",
   "n": "Peking University KIAA: KIAA Fellowships",
   "f": "Peking University, Kavli Institute for Astronomy and Astrophysics",
@@ -12056,6 +12103,29 @@
   "d": null
  },
  {
+  "id": "sissa-tpp-string-qft-postdocs-2027",
+  "n": "SISSA Trieste: Postdoctoral Positions in Theoretical Physics (String Theory, QFT)",
+  "f": "SISSA, Theoretical Particle Physics group (Simons Collaboration on the Virtue of Defects; ERC grant of G. Cuomo)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-16",
+  "dt": "Dec 16, 2026, through the common European postdoc call on AJO (job 32558)",
+  "a": "2 years with possible third, or 3 years; from fall 2027; salary not stated",
+  "e": "Several postdocs in quantum field theory, holography, string theory and their links to condensed matter and mathematical physics. Apply through the common European postdoc application site.",
+  "u": "https://www.sissa.it/tpp/joinus/joinus.php.html",
+  "unv": "Salary not listed.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-10-30",
+  "added": "2026-10-30",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "skai-postdoctoral-associate",
   "n": "SkAI Postdoctoral Associate",
   "f": "NSF-Simons SkAI Institute",
@@ -12294,29 +12364,6 @@
   "nfit": "Low",
   "checked": "2026-10-26",
   "added": "2026-10-15",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "stsci-lasker-fellowship-2027",
-  "n": "STScI: Barry M. Lasker Data Science Postdoctoral Fellowship 2027",
-  "f": "Space Telescope Science Institute",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-10-29",
-  "dt": "29 Oct 2026, 11:59pm EDT",
-  "a": "$84,875/yr; up to 3 years, non-extendable",
-  "e": "Independent fellowship at STScI for research combining data science (large databases, ML, statistics, image processing) with astronomy, astrophysics or planetary science. PhD in astronomy, physics or related field by start; no citizenship limits stated.",
-  "u": "https://stsci.slideroom.com/#/permalink/program/91301/56TDfZ4aqB",
-  "unv": "STScI Lasker page (Oct 12, 2026) confirmed the Oct 29, 2026 deadline and lists only a \"competitive salary\"; the $84,875/yr figure is from the AAS ad. On Oct 26, 2026 the STScI page was unreachable (TLS error, HTTP 503), the AAS ad returned HTTP 403 and the SlideRoom form shows no text without JavaScript, so the deadline was not re-verified.",
-  "us": true,
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "nfit": "Medium",
-  "checked": "2026-10-12",
-  "added": "2026-10-02",
   "stages": [
    "pd"
   ]
@@ -12652,6 +12699,29 @@
   "nfit": "Medium",
   "checked": "2026-10-26",
   "added": "2026-10-22",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "tifr-mumbai-theoretical-physics-visiting-fellow-2027",
+  "n": "TIFR Mumbai: Visiting Fellow (postdoc) in Theoretical Physics",
+  "f": "Tata Institute of Fundamental Research, Department of Theoretical Physics",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-20",
+  "dt": "Jan 20, 2027 (AJO)",
+  "a": "1-year appointments, renewable up to 3 years; experienced candidates may be considered for the Jawaharlal Nehru postdoctoral fellowship",
+  "e": "Several postdoctoral positions in theoretical physics: cosmology and astroparticle physics, condensed matter and statistical physics, particle physics including lattice QCD, string theory and mathematical physics.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33245",
+  "unv": "Salary not listed.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-30",
+  "added": "2026-10-30",
   "stages": [
    "pd"
   ]
@@ -13353,6 +13423,28 @@
   ]
  },
  {
+  "id": "ucd-pantelidou-theoretical-gravitational-physics-postdoc",
+  "n": "University College Dublin: Postdoc in Theoretical and Gravitational Physics (Pantelidou)",
+  "f": "University College Dublin, Relativity Group (Royal Society - Research Ireland grant)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-16",
+  "dt": "Dec 16, 2026, through the common European postdoc call on AJO (job 32558)",
+  "a": "About €47,273 or €55,399/yr depending on experience, plus research and travel funds; 2 years from Oct 2027",
+  "e": "Postdoc with Christiana Pantelidou on black holes in AdS, AdS/CFT and quasinormal-mode computations, with links to the UCD Relativity Group. Some numerical experience wanted.",
+  "u": "https://academicjobsonline.org/ajo/jobs/32558",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-10-30",
+  "added": "2026-10-30",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "ucdavis-aggarwal-rf-gw-axion-postdoc",
   "n": "UC Davis: Postdoctoral Scholar, Tabletop RF Gravitational-Wave Detector and Quantum Precision Measurement (Aggarwal group)",
   "f": "UC Davis",
@@ -13577,6 +13669,28 @@
   "stages": [
    "pd"
   ]
+ },
+ {
+  "id": "ucla-cs-ai-quantum-computing-postdoc",
+  "n": "UCLA Computer Science: Postdoctoral Scholar in AI and Quantum Computing (Cong and Sun)",
+  "f": "University of California, Los Angeles, Computer Science Department",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "No deadline listed; start Winter Quarter 2027",
+  "a": "About $75K, may be adjusted by experience; 2-3 years",
+  "e": "Postdoc with Jason Cong and Yizhou Sun on AI methods for quantum error-correction decoding (including qLDPC codes), noise prediction and quantum algorithms on early fault-tolerant hardware. Open to AI researchers moving into quantum computing and to quantum researchers developing AI methods.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33275",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-10-30",
+  "added": "2026-10-30",
+  "stages": [
+   "pd"
+  ],
+  "d": null
  },
  {
   "id": "ucla-postdoctoral-scholar-in-astronomy-treu-group",
@@ -14513,6 +14627,29 @@
   "nfit": "Medium",
   "checked": "2026-10-26",
   "added": "2026-10-07",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "waterloo-mcdonald-institute-theory-fellowship-2027",
+  "n": "University of Waterloo (WCA): McDonald Institute Theory Postdoctoral Fellowships in Astroparticle Physics and Cosmology",
+  "f": "University of Waterloo, Waterloo Centre for Astrophysics / McDonald Institute",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2026-11-30",
+  "dt": "Nov 30, 2026 (AJO); first-round offers in January",
+  "a": "Competitive salary and benefits plus research and travel allowance; 2 years, possible third",
+  "e": "McDonald Institute and MI-CITA theory fellowships at the Waterloo Centre for Astrophysics on astroparticle physics and cosmology (neutrino mass, dark matter, galaxy surveys and lensing), with links to Canadian experiments such as SNO+ and SuperCDMS. PhD in physics, astronomy or a related field by a start no later than Sep 30, 2027.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33280",
+  "unv": "Salary not listed.",
+  "us": false,
+  "nom": false,
+  "pt": "prize",
+  "region": "Canada",
+  "nfit": "Medium",
+  "checked": "2026-10-30",
+  "added": "2026-10-30",
   "stages": [
    "pd"
   ]

@@ -3055,66 +3055,6 @@
   "us": false
  },
  {
-  "a": "CAD 74,922/yr + CAD 10,000/yr research allowance; 2 years, extendable subject to funding",
-  "added": "2026-10-02",
-  "asub": [
-   "inst"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-29",
-  "dt": "Closes 29 Oct 2026",
-  "e": "Postdoc in Suresh Sivanandam's group building and testing a compact optical ground station with photonic adaptive optics for classical and quantum space-to-ground links, including on-sky tests. PhD in astronomy, physics, photonics, engineering or related field; no citizenship limits stated.",
-  "f": "Dunlap Institute, University of Toronto",
-  "fields": [
-   "inst",
-   "astro"
-  ],
-  "id": "dunlap-optical-ground-station-postdoc",
-  "n": "Dunlap Institute (U Toronto): Postdoc in Optical Ground Station Systems for Laser Communications",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "Canada",
-  "s": "open",
-  "src": "other:casca-dunlap-ogs",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/UofT/Dunlap/PDF_OGS2026",
-  "us": false
- },
- {
-  "a": "CAD 74,922/yr + CAD 10,000/yr research allowance; 2 years, extendable subject to funding",
-  "added": "2026-10-02",
-  "asub": [
-   "inst"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-29",
-  "dt": "Closes 29 Oct 2026; nominal start Jan 2027",
-  "e": "Postdoc in Suresh Sivanandam's group (with Tightbeam Photonics and NRC) designing and testing photonic integrated circuits for an adaptive-optics system-on-a-chip used in optical ground stations and astronomy. PhD awarded on or after 1 Jan 2022 (career breaks accommodated); no citizenship limits stated.",
-  "f": "Dunlap Institute, University of Toronto",
-  "fields": [
-   "inst",
-   "astro"
-  ],
-  "id": "dunlap-photonic-aosoc-postdoc",
-  "n": "Dunlap Institute (U Toronto): Postdoc in Integrated Photonics for Adaptive Optics and Optical Communications",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "Canada",
-  "s": "open",
-  "src": "other:casca-dunlap-pic-aosoc",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/UofT/Dunlap/PDF_AOS2026",
-  "us": false
- },
- {
   "a": "Grade 7 (from £39,560) or Grade 8 (from £48,337) plus research allowance",
   "added": "2026-10-21",
   "asub": [
@@ -3621,6 +3561,38 @@
   ],
   "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-80-d-3-agigo-swift-fermi-and-tess-observatories-second-opportunities-in-roses-25/",
   "unv": "The Fermi Science Support Center site could not be reached; the date is confirmed on the NASA ROSES pages. The call does not say whether students or postdocs may be PI.",
+  "us": false
+ },
+ {
+  "a": "2-year term, renewable for a third year; salary not stated",
+  "added": "2026-10-30",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-30",
+  "d": "2026-12-30",
+  "dt": "Full consideration for applications received by Dec 30, 2026, 11:59 pm CST",
+  "e": "Postdoc with Aleksandra Ciprijanovic's group on deep learning for cosmology, neutrino and collider physics (graph neural networks, domain adaptation, uncertainty quantification, interpretability). Requires a PhD in astrophysics, physics, computer science or a related field.",
+  "f": "Fermi National Accelerator Laboratory, Computational Science and AI Directorate",
+  "fields": [
+   "astro",
+   "ppx",
+   "ds"
+  ],
+  "id": "fermilab-ai-for-science-research-associate-ciprijanovic",
+  "n": "Fermilab: Research Associate in AI for Science (Ciprijanovic group)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33283",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33283",
+  "unv": "Salary not listed.",
   "us": false
  },
  {
@@ -4480,30 +4452,6 @@
   "us": false
  },
  {
-  "a": "$116,238–$169,942 a year; full time, City of Los Angeles civil service",
-  "added": "2026-10-09",
-  "c": "Staff position",
-  "checked": "2026-10-26",
-  "d": "2026-10-29",
-  "dt": "Applications must be received by Oct 29, 2026, 11:59 pm PT. The exam is an online training-and-experience questionnaire for invited applicants, expected Dec 7 to 14, 2026.",
-  "e": "Plans, develops and evaluates all of Griffith Observatory's public and educational programs, planetarium shows, publications and exhibits, and manages the staff who carry them out. Requires a PhD in astronomy, physics or planetary science and four years of full-time paid professional experience at a public observatory, major planetarium, science museum or related facility, supervising staff who develop and run public astronomy and physical-science programs and exhibits.",
-  "f": "City of Los Angeles, Department of Recreation and Parks (Griffith Observatory)",
-  "fields": [
-   "astro"
-  ],
-  "id": "griffith-observatory-curator-los-angeles-2026",
-  "n": "Griffith Observatory (Los Angeles): Curator",
-  "nom": false,
-  "s": "open",
-  "src": "other:lacity-6230-griffith-curator",
-  "stages": [
-   "tt",
-   "ten"
-  ],
-  "u": "https://www.governmentjobs.com/careers/lacity/jobs/5481469/curator-of-griffith-observatory-6230",
-  "us": false
- },
- {
   "a": "Gold medal and unrestricted $500,000 cash prize",
   "added": "2026-10-21",
   "asub": [
@@ -4759,6 +4707,39 @@
    "pd"
   ],
   "u": "https://academicpositions.harvard.edu/postings/16741",
+  "us": false
+ },
+ {
+  "a": "1-year appointment, renewable for a second and third year; salary not stated",
+  "added": "2026-10-30",
+  "asub": [
+   "cos"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-30",
+  "d": "2026-11-30",
+  "dt": "Nov 30, 2026 (letters by the same date); apply on the Harvard Academic Positions site, not AJO",
+  "e": "Fellowship starting fall 2027 to pursue the fellow's own research in theoretical physics (particle physics, cosmology, quantum field theory, quantum gravity and string theory, holography, condensed matter theory), with ties across the Leinweber network. Applications go through Harvard's academic positions site.",
+  "f": "Harvard University, Leinweber Institute for Theoretical Physics",
+  "fields": [
+   "ppt",
+   "grav",
+   "astro",
+   "cmt"
+  ],
+  "id": "harvard-litp-leinweber-physics-postdoc-fellow-2027",
+  "n": "Harvard LITP: Leinweber Physics Postdoctoral Fellow",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33286",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicpositions.harvard.edu/postings/16981",
+  "unv": "Salary not listed.",
   "us": false
  },
  {
@@ -5053,37 +5034,6 @@
   "us": false
  },
  {
-  "a": "Rs. 58,000/month + HRA; 2 years",
-  "added": "2026-10-14",
-  "asub": [
-   "cos"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-29",
-  "dt": "21 days from the 2026-10-08 advertisement (INSPIRE: 2026-10-29)",
-  "e": "One Research Associate-I post in particle phenomenology and astroparticle physics; requires a PhD (or thesis submitted within three months) and relevant publications. The INSPIRE listing says applications are invited from Indian nationals only.",
-  "f": "Indian Association for the Cultivation of Science, School of Physical Sciences (Dilip Kumar Ghosh)",
-  "fields": [
-   "ppt",
-   "astro"
-  ],
-  "id": "iacs-kolkata-research-associate-particle-astroparticle",
-  "n": "IACS Kolkata: Research Associate-I (Postdoc) in Particle Phenomenology and Astroparticle Physics",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3213917",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.iacs.res.in/modules/careersrscientist/images/Rac_08-10-269402.pdf",
-  "unv": "The Indian-nationals restriction appears in the INSPIRE text but not in the host PDF.",
-  "us": false
- },
- {
   "a": "R$12,570/month; 1 year, renewable",
   "added": "2026-09-30",
   "asub": [
@@ -5354,6 +5304,36 @@
    "pd"
   ],
   "u": "https://ictp-ap.org/form/92",
+  "us": false
+ },
+ {
+  "a": "About 320,000 CNY/yr before tax; 2 years, possible third; travel funds and up to 3 months/yr of covered visits abroad",
+  "added": "2026-10-30",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-30",
+  "d": "2027-02-01",
+  "dt": "Feb 1, 2027 (AJO); open until one or two candidates are selected",
+  "e": "Postdoc on thermal and non-thermal effects of particle physics in the early Universe, aimed at physics beyond the Standard Model. Requires a PhD in particle physics; background in thermal QFT preferred.",
+  "f": "International Centre for Theoretical Physics Asia-Pacific, University of Chinese Academy of Sciences",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "ictp-ap-ucas-nonequilibrium-qft-early-universe-postdoc",
+  "n": "ICTP-AP (UCAS): Postdoc in non-equilibrium QFT in the early Universe",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33287",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33287",
   "us": false
  },
  {
@@ -10952,32 +10932,6 @@
   }
  },
  {
-  "a": "Stipend + tuition support for up to 2 yrs",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-29",
-  "dt": "Oct 29, 2026, 2 pm ET",
-  "e": "Immigrants or children of immigrants applying to or in the first two years of a US graduate program; age limit applies.",
-  "f": "Paul & Daisy Soros Fellowships",
-  "fields": [
-   "all"
-  ],
-  "id": "paul-daisy-soros-fellowships-for-new-americans-2027",
-  "n": "Paul & Daisy Soros Fellowships for New Americans (2027)",
-  "nfit": "Low",
-  "nom": false,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "gr",
-   "ug"
-  ],
-  "u": "https://www.pdsoros.org/apply",
-  "unv": "Dollar amount and age limit not shown on apply page",
-  "us": false
- },
- {
   "a": "",
   "added": "2026-10-07",
   "c": "Fellowship",
@@ -11690,9 +11644,9 @@
   "a": "Up to $2M/yr for 4 yrs (renewable)",
   "added": "2026-09-28",
   "c": "Foundation",
-  "checked": "2026-10-26",
-  "d": "2026-10-29",
-  "dt": "LOI Oct 29, 2026, noon ET",
+  "checked": "2026-10-30",
+  "d": null,
+  "dt": "Last LOI deadline Oct 29, 2026, noon ET; the next cycle is not posted yet",
   "e": "Multi-institution teams led by faculty at eligible institutions.",
   "f": "Simons Foundation",
   "fields": [
@@ -11702,7 +11656,7 @@
   "n": "Simons Collaborations in MPS",
   "nfit": "Low",
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "stages": [
    "tt",
    "ten"
@@ -12244,34 +12198,6 @@
   "us": true
  },
  {
-  "a": "$84,875/yr; up to 3 years, non-extendable",
-  "added": "2026-10-02",
-  "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-10-29",
-  "dt": "29 Oct 2026, 11:59pm EDT",
-  "e": "Independent fellowship at STScI for research combining data science (large databases, ML, statistics, image processing) with astronomy, astrophysics or planetary science. PhD in astronomy, physics or related field by start; no citizenship limits stated.",
-  "f": "Space Telescope Science Institute",
-  "fields": [
-   "astro",
-   "ds"
-  ],
-  "id": "stsci-lasker-fellowship-2027",
-  "n": "STScI: Barry M. Lasker Data Science Postdoctoral Fellowship 2027",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "aas:b238b1ed",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://stsci.slideroom.com/#/permalink/program/91301/56TDfZ4aqB",
-  "unv": "STScI Lasker page (Oct 12, 2026) confirmed the Oct 29, 2026 deadline and lists only a \"competitive salary\"; the $84,875/yr figure is from the AAS ad. On Oct 26, 2026 the STScI page was unreachable (TLS error, HTTP 503), the AAS ad returned HTTP 403 and the SlideRoom form shows no text without JavaScript, so the deadline was not re-verified.",
-  "us": true
- },
- {
   "a": "Stipend tentatively $880 per week; travel and housing assistance",
   "added": "2026-10-07",
   "c": "Summer program",
@@ -12751,6 +12677,38 @@
   ],
   "u": "https://science.yalecollege.yale.edu/yale-undergraduate-research/fellowship-grants/tetelman-fellowship-international-research-sciences",
   "unv": "The amount is not stated; the 2027 date is not posted.",
+  "us": false
+ },
+ {
+  "a": "1-year appointments, renewable up to 3 years; experienced candidates may be considered for the Jawaharlal Nehru postdoctoral fellowship",
+  "added": "2026-10-30",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-30",
+  "d": "2027-01-20",
+  "dt": "Jan 20, 2027 (AJO)",
+  "e": "Several postdoctoral positions in theoretical physics: cosmology and astroparticle physics, condensed matter and statistical physics, particle physics including lattice QCD, string theory and mathematical physics.",
+  "f": "Tata Institute of Fundamental Research, Department of Theoretical Physics",
+  "fields": [
+   "ppt",
+   "astro",
+   "cmt"
+  ],
+  "id": "tifr-mumbai-theoretical-physics-visiting-fellow-2027",
+  "n": "TIFR Mumbai: Visiting Fellow (postdoc) in Theoretical Physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33245",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33245",
+  "unv": "Salary not listed.",
   "us": false
  },
  {
@@ -13267,6 +13225,36 @@
   ],
   "u": "https://inspirehep.net/jobs/3218289",
   "unv": "No UCD-hosted ad found; applications go through a Google form (https://forms.gle/VARZsnqbz4SeGM39A). Salary not listed.",
+  "us": false
+ },
+ {
+  "a": "About €47,273 or €55,399/yr depending on experience, plus research and travel funds; 2 years from Oct 2027",
+  "added": "2026-10-30",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-30",
+  "d": "2026-12-16",
+  "dt": "Dec 16, 2026, through the common European postdoc call on AJO (job 32558)",
+  "e": "Postdoc with Christiana Pantelidou on black holes in AdS, AdS/CFT and quasinormal-mode computations, with links to the UCD Relativity Group. Some numerical experience wanted.",
+  "f": "University College Dublin, Relativity Group (Royal Society - Research Ireland grant)",
+  "fields": [
+   "grav",
+   "ppt"
+  ],
+  "id": "ucd-pantelidou-theoretical-gravitational-physics-postdoc",
+  "n": "University College Dublin: Postdoc in Theoretical and Gravitational Physics (Pantelidou)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3219979",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32558",
   "us": false
  },
  {
@@ -14367,6 +14355,38 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32951",
+  "us": false
+ },
+ {
+  "a": "Competitive salary and benefits plus research and travel allowance; 2 years, possible third",
+  "added": "2026-10-30",
+  "asub": [
+   "cos"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-30",
+  "d": "2026-11-30",
+  "dt": "Nov 30, 2026 (AJO); first-round offers in January",
+  "e": "McDonald Institute and MI-CITA theory fellowships at the Waterloo Centre for Astrophysics on astroparticle physics and cosmology (neutrino mass, dark matter, galaxy surveys and lensing), with links to Canadian experiments such as SNO+ and SuperCDMS. PhD in physics, astronomy or a related field by a start no later than Sep 30, 2027.",
+  "f": "University of Waterloo, Waterloo Centre for Astrophysics / McDonald Institute",
+  "fields": [
+   "astro",
+   "nut",
+   "ppt"
+  ],
+  "id": "waterloo-mcdonald-institute-theory-fellowship-2027",
+  "n": "University of Waterloo (WCA): McDonald Institute Theory Postdoctoral Fellowships in Astroparticle Physics and Cosmology",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "Canada",
+  "s": "open",
+  "src": "ajo:33280",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33280",
+  "unv": "Salary not listed.",
   "us": false
  },
  {
