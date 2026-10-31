@@ -1420,30 +1420,6 @@
   "us": false
  },
  {
-  "a": "Gold/Silver/Bronze: $400, $300, $250 cash, plus up to $500 travel, free registration and up to six nights' lodging for finalists",
-  "added": "2026-10-21",
-  "c": "Prize",
-  "checked": "2026-10-26",
-  "d": "2026-10-30",
-  "dt": "Advisor submits the nomination package to asedawards@avs.org by Oct 30, 2026 (same day as the ICMCTF 2027 abstract deadline)",
-  "e": "Awards for graduate students in surface engineering, coatings and thin-film fields who are presenting authors of an oral talk at the ICMCTF 2027 conference. The student's advisor submits the application form, abstract, two-page research description, resume, evaluation form and recommendation letter; up to three finalists present at the conference.",
-  "f": "AVS Advanced Surface Engineering Division (ICMCTF)",
-  "fields": [
-   "mat"
-  ],
-  "id": "avs-ased-icmctf-2027-graduate-student-awards",
-  "n": "AVS ASED Graduate Student Awards (ICMCTF 2027)",
-  "nom": true,
-  "s": "open",
-  "src": "other:icmctf-2027-grad-awards",
-  "stages": [
-   "gr"
-  ],
-  "u": "https://icmctf2027.avs.org/?p=1429",
-  "unv": "Conference dates and location are not stated on the awards page.",
-  "us": false
- },
- {
   "a": "Cash + certificate + travel to AVS International Symposium; ~10 awards",
   "added": "2026-10-03",
   "c": "Prize",
@@ -2359,31 +2335,6 @@
   "us": false
  },
  {
-  "a": "$80,000 + COLA; 2 years, renewable for a 3rd",
-  "added": "2026-09-30",
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-30",
-  "dt": "2026/10/30 23:59:59 (time zone not stated on page)",
-  "e": "Theoretical AMO: ultracold atoms/molecules, quantum and nonlinear optics, strong fields, molecular astrophysics, quantum information and simulation. PhD no more than one year before the nominal Apr 1, 2027 start.",
-  "f": "Center for Astrophysics | Harvard & Smithsonian, Institute for Theoretical Atomic, Molecular and Optical Physics (ITAMP)",
-  "fields": [
-   "amo",
-   "qp"
-  ],
-  "id": "cfa-itamp-postdoctoral-fellowship",
-  "n": "CfA: ITAMP Postdoctoral Fellowship",
-  "nom": false,
-  "pt": "prize",
-  "s": "open",
-  "src": "ajo:32483",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32483",
-  "us": false
- },
- {
   "a": "Varies by RFA",
   "added": "2026-09-28",
   "c": "Foundation",
@@ -2831,63 +2782,6 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32093",
   "unv": "Salary not stated. Ad posted May 2026; the AJO listing still shows it as open until filled, but whether it has been filled could not be confirmed. Applications go by email to Prof. Raschke."
- },
- {
-  "a": "$74,000-$108,000 (postdoc); $78,000-$135,000 (research associate)",
-  "added": "2026-10-16",
-  "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-30",
-  "dt": "Closes Oct 30, 2026 (posted Oct 1)",
-  "e": "Experimental and theoretical work at NIST Boulder improving Rydberg-atom electric-field sensors for RF communications and quantum sensing; anticipated Dec 1, 2026 to Mar 31, 2028. Requires a NAIS agreement and federal security clearance as mandated by NIST.",
-  "f": "University of Colorado Boulder (NIST Boulder, Electromagnetic Fields Group)",
-  "fields": [
-   "amo",
-   "qp"
-  ],
-  "id": "cu-nist-prep-rydberg-rf-sensing-postdoc",
-  "n": "CU Boulder / NIST PREP: Postdoctoral or Research Associate, Rydberg Atom Systems for RF Sensing",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "US",
-  "s": "open",
-  "src": "other:cu-75253",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://jobs.colorado.edu/jobs/JobDetail/Postdoctoral-Associate-or-Research-Associate/75253",
-  "unv": "Posted 2026-10-01, earlier than the sweep window; NIST clearance eligibility rules not spelled out.",
-  "us": false
- },
- {
-  "a": "$74,000-$108,000 (postdoc); $78,000-$135,000 (research associate)",
-  "added": "2026-10-16",
-  "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-30",
-  "dt": "Closes Oct 30, 2026 (posted Oct 1)",
-  "e": "NIST Boulder work on alkali vapor cells, alkali-material interactions and photonics integration for the sensor head of Rydberg-atom RF sensors; anticipated Dec 1, 2026 to Mar 31, 2028. PhD in physics, atomic physics, optics or related field; requires a NAIS agreement and federal security clearance as mandated by NIST.",
-  "f": "University of Colorado Boulder (NIST Boulder, Electromagnetic Fields Group)",
-  "fields": [
-   "amo",
-   "qp",
-   "phot"
-  ],
-  "id": "cu-nist-prep-rydberg-vapor-cell-photonics-postdoc",
-  "n": "CU Boulder / NIST PREP: Postdoctoral or Research Associate, Rydberg Vapor Cells and Photonics Integration",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "US",
-  "s": "open",
-  "src": "other:cu-75255",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://jobs.colorado.edu/jobs/JobDetail/Postdoctoral-Associate-or-Research-Associate/75255",
-  "unv": "Posted 2026-10-01, earlier than the sweep window; NIST clearance eligibility rules not spelled out.",
-  "us": false
  },
  {
   "a": "",
@@ -3386,9 +3280,9 @@
   "a": "No-cost access to fabrication, characterization and staff for non-proprietary research",
   "added": "2026-10-03",
   "c": "Instrumentation",
-  "checked": "2026-10-26",
-  "d": "2026-10-30",
-  "dt": "CNM due Oct 30, 2026, 11:59 PM CT (then Mar 5, 2027). CFN due Jan 31, May 31 and Sept 30. Molecular Foundry and CINT run fall/spring calls; CNMS runs a spring call.",
+  "checked": "2026-10-31",
+  "d": "2027-01-31",
+  "dt": "CFN due Jan 31, May 31 and Sept 30. CNM next due Mar 5, 2027, 11:59 PM CT. Molecular Foundry and CINT run fall/spring calls; CNMS runs a spring call.",
   "e": "Peer-reviewed access to nanofabrication, microscopy, nanophotonics and quantum-materials tools at the five DOE nanocenters. Researchers from universities, labs and industry may apply, including students and postdocs, and foreign nationals are allowed with advance planning.",
   "f": "DOE Office of Science (BES) user facilities",
   "fields": [
@@ -5288,31 +5182,6 @@
   "us": false
  },
  {
-  "a": "Up to 5 yrs of stipend + tuition equivalent (valued up to $250k)",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-30",
-  "dt": "Oct 30, 2026",
-  "e": "College seniors, gap-year students or grad students in applied sciences, engineering and math (applied physics fits); US citizens/PR (see criteria).",
-  "f": "Fannie and John Hertz Foundation",
-  "fields": [
-   "all"
-  ],
-  "id": "hertz-fellowship-2027",
-  "n": "Hertz Fellowship (2027)",
-  "nfit": "Low",
-  "nom": false,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "gr",
-   "ug"
-  ],
-  "u": "https://www.hertzfoundation.org/news/2027-hertz-fellowship-application-now-open/",
-  "us": true
- },
- {
   "a": "3 years; living, research and travel allowances vary by host country",
   "added": "2026-09-28",
   "c": "Fellowship",
@@ -6532,32 +6401,6 @@
   "us": false
  },
  {
-  "a": "$146,318–$150,718/yr; target start Oct 1, 2027",
-  "added": "2026-10-03",
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-30",
-  "dt": "Apply by Oct 30, 2026",
-  "e": "Distinguished postdoctoral fellowships in computing sciences, including quantum computing/networking algorithms and software and computational science applications in materials, physics and biology. PhD in CS, math, computational science or related field by start; at most 3 years postdoc experience.",
-  "f": "Lawrence Berkeley National Laboratory, Computing Sciences Area",
-  "fields": [
-   "ds",
-   "qp",
-   "mat"
-  ],
-  "id": "lbnl-alvarez-hopper-fellowship-2027",
-  "n": "Berkeley Lab: Luis W. Alvarez and Grace M. Hopper Postdoctoral Fellowships (Computing Sciences)",
-  "nom": false,
-  "pt": "prize",
-  "s": "open",
-  "src": "other:lbnl-alvarez-hopper",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://jobs.lbl.gov/jobs/2027-luis-w-alvarez-and-grace-m-hopper-postdoctoral-fellowships-7596",
-  "us": false
- },
- {
   "a": "$8,321–$10,418/month (union step scale)",
   "added": "2026-10-22",
   "c": "Group postdoc",
@@ -7697,29 +7540,6 @@
   "us": false
  },
  {
-  "a": "Gold $400; Silver $200; optional Arthur Nowick Award $500",
-  "added": "2026-10-03",
-  "c": "Prize",
-  "checked": "2026-10-26",
-  "d": "2026-10-30",
-  "dt": "Oct 30, 2026, 11:59 pm EDT; requires an abstract submitted by the first abstract deadline for the 2027 MRS Spring Meeting",
-  "e": "Awards for graduate students who author or co-author an accepted abstract at the 2027 MRS Spring Meeting, with advisor endorsement. Previous Gold winners are not eligible.",
-  "f": "Materials Research Society",
-  "fields": [
-   "mat"
-  ],
-  "id": "mrs-graduate-student-awards-spring-2027",
-  "n": "MRS Graduate Student Awards (2027 Spring Meeting)",
-  "nom": false,
-  "s": "open",
-  "src": "other:mrs",
-  "stages": [
-   "gr"
-  ],
-  "u": "https://gsa.mrs.org/",
-  "us": false
- },
- {
   "a": "not listed",
   "added": "2026-10-03",
   "c": "Prize",
@@ -8128,36 +7948,6 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32555",
   "us": false
- },
- {
-  "a": "3-year fellowship: $3,600 monthly stipend ($43,200 a year) plus tuition, and up to $5,000 travel over the tenure",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-30",
-  "dt": "Aug 3 to Oct 30, 2026, 5 pm ET",
-  "e": "US citizens early in their PhD (or seniors) in DoD-relevant S&E, including physics.",
-  "f": "DoD",
-  "fields": [
-   "all",
-   "amo",
-   "cmx",
-   "cmt",
-   "qp",
-   "inst"
-  ],
-  "id": "ndseg-fellowship-fy2027",
-  "n": "NDSEG Fellowship (FY2027)",
-  "nfit": "Low",
-  "nom": false,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "gr",
-   "ug"
-  ],
-  "u": "https://ndseg.sysplus.com/",
-  "us": true
  },
  {
   "a": "Perlmutter CPU/GPU node-hours and storage for Jan 20, 2027 to Jan 18, 2028",
@@ -11218,39 +11008,6 @@
   "us": false
  },
  {
-  "a": "Typically $750K over 36 months (≤$250K/yr); up to 25 awards",
-  "added": "2026-09-28",
-  "c": "Federal grant",
-  "checked": "2026-10-26",
-  "d": "2026-10-30",
-  "dt": "Proposals due Oct 30, 2026, 5:00 PM ET (NOFO N00014-26-S-F004).",
-  "e": "First or second full-time tenure-track (or equivalent) appointment, PhD on or after Jan 1, 2019. Must be a US citizen, national or permanent resident on the due date.",
-  "f": "Office of Naval Research",
-  "fields": [
-   "all",
-   "amo",
-   "cmx",
-   "cmt",
-   "qp",
-   "inst"
-  ],
-  "id": "onr-young-investigator-program-yip-fy2027",
-  "n": "ONR Young Investigator Program (YIP) FY2027",
-  "nofo": [
-   {
-    "opp": "N0001426SF004",
-    "u": "https://simpler.grants.gov/opportunity/19850d71-3af6-4f9f-bf6e-1ee9b1f8d8b7"
-   }
-  ],
-  "nom": false,
-  "s": "open",
-  "stages": [
-   "tt"
-  ],
-  "u": "https://www.onr.navy.mil/work-with-us/funding-opportunities/fiscal-year-fy-2027-young-investigator-program-yip",
-  "us": true
- },
- {
   "a": "US$10,000 plus Optica membership, mentors and the Amplify Optics Immersion event",
   "added": "2026-10-03",
   "c": "Scholarship",
@@ -11878,9 +11635,9 @@
   "a": "$80,000 plus one-time $5,000 research award",
   "added": "2026-10-07",
   "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-30",
-  "dt": "Oct 30, 2026 first-round consideration; rolling until filled",
+  "checked": "2026-10-31",
+  "d": null,
+  "dt": "Applications received by Oct 30, 2026 got first-round consideration; review continues on a rolling basis until filled",
   "e": "Several postdoctoral fellow positions in theory of emergent quantum matter: quantum information, quantum materials, quantum computation, AI/computational methods, quantum geometry, Majorana modes, fractional quantum anomalous Hall effect. Flexible start, can be immediate.",
   "f": "Pennsylvania State University, Center for Theory of Emergent Quantum Matter (ICDS Quantum Hub)",
   "fields": [
@@ -11892,7 +11649,7 @@
   "nom": false,
   "pt": "prize",
   "region": "US",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:32970",
   "stages": [
    "pd"
@@ -12494,6 +12251,35 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33172",
   "unv": "Exact start date not checked; the ad's contract example uses a May 1, 2027 hire",
+  "us": false
+ },
+ {
+  "a": "Postdoctoral researcher: 480,000 JPY or more per month; research scientist: 550,000 JPY or more",
+  "added": "2026-10-31",
+  "c": "Group postdoc",
+  "checked": "2026-10-31",
+  "d": null,
+  "dt": "Open until filled; applications received by Dec 18, 2026 (JST) reviewed first; start on or after May 1, 2027",
+  "e": "Posts in Kantaro Ohmori's unit on categorical and algebraic quantum field theory, generalized symmetries, and tensor-network and lattice descriptions of quantum many-body systems. A doctorate is required by the start date; no citizenship limit is stated.",
+  "f": "RIKEN iTHEMS (Ohmori unit)",
+  "fields": [
+   "cmt",
+   "ppt",
+   "qp"
+  ],
+  "id": "riken-ithems-ohmori-category-theoretical-physics-26-1713",
+  "n": "RIKEN iTHEMS: Research scientists or postdoctoral researchers, category theoretical physics (26-1713)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "ajo:33158",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33158",
+  "unv": "Separate from the unit's earlier call 26-1454; applicants may apply to both.",
   "us": false
  },
  {

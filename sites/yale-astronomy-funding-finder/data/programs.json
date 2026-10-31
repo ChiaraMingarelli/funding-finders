@@ -1449,38 +1449,6 @@
   "us": false
  },
  {
-  "a": "$75,268–85,000/yr; 3 years",
-  "added": "2026-09-30",
-  "asub": [
-   "cos",
-   "inst"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-09-30",
-  "d": "2026-10-30",
-  "dt": "Oct 30, 2026",
-  "e": "CMB polarization with BICEP/Keck, mm-wave detector development and B-mode analysis.",
-  "f": "Caltech, PMA experimental cosmology group; contact Shelly Aguda",
-  "fields": [
-   "astro",
-   "inst"
-  ],
-  "id": "caltech-experimental-cmb-cosmology-postdoc-bicep-keck",
-  "n": "Caltech: Experimental CMB cosmology postdoc (BICEP/Keck)",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "US",
-  "s": "open",
-  "src": "aas:9bd32e66",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://aas.org/jobregister/ad/9bd32e66",
-  "unv": "The AAS Job Register blocked automated access (HTTP 403) again on Oct 21 and Oct 26, 2026, so the deadline and details were not reconfirmed. The posting is not listed on Caltech PMA's Positions Available page.",
-  "us": false
- },
- {
   "a": "$76,000-$80,000; 2 years + expected 3rd",
   "added": "2026-09-30",
   "asub": [
@@ -1775,40 +1743,6 @@
    "pd"
   ],
   "u": "https://apply.interfolio.com/192639",
-  "unv": "Not re-verified on 2026-10-26: the Interfolio page needs JavaScript and the AAS Job Register blocks automated access (403).",
-  "us": false
- },
- {
-  "a": "$87,500; 2 years + 1",
-  "added": "2026-09-30",
-  "asub": [
-   "cos",
-   "exo",
-   "xgal",
-   "he",
-   "star"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-10-30",
-  "dt": "Oct 30, 2026",
-  "e": "Theory of stars, galaxies, black holes, transients, exoplanets and cosmology. A joint Carnegie-Caltech option also runs through AJO 32276.",
-  "f": "Carnegie Theoretical Astrophysics Center; contact Anthony Piro",
-  "fields": [
-   "astro"
-  ],
-  "id": "carnegie-observatories-ctac-fellowship",
-  "n": "Carnegie Observatories: CTAC Fellowship",
-  "nfit": "High",
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "aas:65fd90fd",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://apply.interfolio.com/192644",
   "unv": "Not re-verified on 2026-10-26: the Interfolio page needs JavaScript and the AAS Job Register blocks automated access (403).",
   "us": false
  },
@@ -2256,6 +2190,39 @@
    "pd"
   ],
   "u": "https://www.cita.utoronto.ca/postdoctoral-fellowship-opportunity/",
+  "us": false
+ },
+ {
+  "a": "",
+  "added": "2026-10-31",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-31",
+  "d": "2026-12-31",
+  "dt": "Full consideration for applications completed by Dec 31, 2026; start Sep 2027 (flexible)",
+  "e": "Two-year postdoc (possible third year) with Yiming Zhong on dark matter, primordial non-Gaussianity and gravitational waves; PhD required by the start date. No citizenship limit is stated.",
+  "f": "City University of Hong Kong, Department of Physics",
+  "fields": [
+   "astro",
+   "ppt",
+   "grav"
+  ],
+  "id": "cityu-hk-postdoc-theoretical-astro-particle-pheno",
+  "n": "City University of Hong Kong: Postdoc in theoretical astrophysics and particle phenomenology",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33303",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33303",
+  "unv": "Salary not stated.",
   "us": false
  },
  {
@@ -3657,39 +3624,6 @@
   "us": false
  },
  {
-  "a": "about EUR 3,700-4,000/month; 3-year fixed term",
-  "added": "2026-10-01",
-  "asub": [
-   "cos",
-   "exo",
-   "xgal",
-   "he",
-   "star"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-30",
-  "dt": "Deadline Oct 30, 2026 16:00 EET",
-  "e": "Independent research in observational astronomy themes (cosmology, AGN, galaxy evolution, transients, compact binaries, planets), with priority on ESO facilities. PhD no more than five years before the deadline (plus parental leave).",
-  "f": "Finnish Centre for Astronomy with ESO (FINCA), University of Turku",
-  "fields": [
-   "astro"
-  ],
-  "id": "finca-turku-postdoctoral-researcher-positions",
-  "n": "FINCA (Finnish Centre for Astronomy with ESO): Postdoctoral Researcher Positions",
-  "nfit": "High",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "aas:7e619afb",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://ats.talentadore.com/apply/1-2-tutkijatohtorin-maaraaikaista-tehtavaa-suomen-eso-keskuksella/ZAYvbj?lang=en",
-  "us": false
- },
- {
   "a": "USD 75K-150K for 12 months (paid in local currency), plus compute and API credits",
   "added": "2026-10-17",
   "c": "Fellowship",
@@ -4826,31 +4760,6 @@
   "us": false
  },
  {
-  "a": "Up to 5 yrs of stipend + tuition equivalent (valued up to $250k)",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-30",
-  "dt": "Oct 30, 2026",
-  "e": "College seniors, gap-year students or grad students in applied sciences, engineering and math (applied physics fits); US citizens/PR (see criteria).",
-  "f": "Fannie and John Hertz Foundation",
-  "fields": [
-   "all"
-  ],
-  "id": "hertz-fellowship-2027",
-  "n": "Hertz Fellowship (2027)",
-  "nfit": "Low",
-  "nom": false,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "gr",
-   "ug"
-  ],
-  "u": "https://www.hertzfoundation.org/news/2027-hertz-fellowship-application-now-open/",
-  "us": true
- },
- {
   "a": "competitive + relocation/childcare allowances; 2 years, extendable",
   "added": "2026-09-30",
   "c": "Fellowship",
@@ -5801,9 +5710,9 @@
    "he"
   ],
   "c": "Graduate program",
-  "checked": "2026-10-26",
-  "d": "2026-10-30",
-  "dt": "Application round opened Sep 15, 2026; applications received by Oct 30, 2026, 24:00 CET get full consideration",
+  "checked": "2026-10-31",
+  "d": null,
+  "dt": "Last deadline Oct 30, 2026 (full consideration); the next application round is not posted yet",
   "e": "International applicants welcome; requires a German Diploma/Master's-equivalent by Oct 2027 (applicants without a master's should apply to the Bonn-Cologne Graduate School). MPIfR is a leading pulsar/EPTA institute.",
   "f": "Max Planck Institute for Radio Astronomy / Univ. Bonn / Univ. Cologne",
   "fields": [
@@ -5815,7 +5724,7 @@
   "nfit": "High",
   "nom": false,
   "region": "International",
-  "s": "open",
+  "s": "watch",
   "src": "other:mpifr",
   "stages": [
    "gr"
@@ -6354,6 +6263,38 @@
   ],
   "u": "https://aas.org/jobregister/ad/1fa6ba25",
   "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 7, 12 and 21, 2026, and no host ad was found in searches on Oct 12 and Oct 21, so it is unknown whether the posting is still open after the Oct 4, 2026 deadline.",
+  "us": false
+ },
+ {
+  "a": "CAD 65,000 per year, plus up to CAD 10,000 per year research funds and up to CAD 2,000 moving",
+  "added": "2026-10-31",
+  "asub": [
+   "exo",
+   "inst"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-31",
+  "d": "2026-12-15",
+  "dt": "Full consideration for applications by Dec 15, 2026, 11:59 pm ET; open until filled",
+  "e": "Two-year postdoc (renewable for a third), half on instrument, pipeline and data work (precision radial velocity preferred) and half on independent research in exoplanets and related astrophysics. PhD required by the start; preference for those within 3 years of the PhD; no citizenship limit is stated.",
+  "f": "Université de Montréal, Trottier Institute for Research on Exoplanets",
+  "fields": [
+   "astro",
+   "inst"
+  ],
+  "id": "irex-umontreal-diar-postdoctoral-fellowship-2027",
+  "n": "Université de Montréal (IREx / Mont-Mégantic): 2027 Data, Instrumentation and Astrophysical Research Postdoctoral Fellowship",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "Canada",
+  "s": "open",
+  "src": "other:irex-diar-pdf-2027",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://exoplanetes.umontreal.ca/en/job/2027-data-instrumentation-and-astrophysical-research-postdoctoral-fellowship/",
+  "unv": "Found via CASCA; host page not opened, and CASCA gives two different application form links.",
   "us": false
  },
  {
@@ -8918,36 +8859,6 @@
   "us": false
  },
  {
-  "a": "3-year fellowship: $3,600 monthly stipend ($43,200 a year) plus tuition, and up to $5,000 travel over the tenure",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-30",
-  "dt": "Aug 3 to Oct 30, 2026, 5 pm ET",
-  "e": "US citizens early in their PhD (or seniors) in DoD-relevant S&E, including physics.",
-  "f": "DoD",
-  "fields": [
-   "all",
-   "amo",
-   "cmx",
-   "cmt",
-   "qp",
-   "inst"
-  ],
-  "id": "ndseg-fellowship-fy2027",
-  "n": "NDSEG Fellowship (FY2027)",
-  "nfit": "Low",
-  "nom": false,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "gr",
-   "ug"
-  ],
-  "u": "https://ndseg.sysplus.com/",
-  "us": true
- },
- {
   "a": "Up to 10k Perlmutter GPU node-hrs",
   "added": "2026-09-28",
   "c": "Compute",
@@ -10688,39 +10599,6 @@
   ],
   "u": "https://www.olcf.ornl.gov/for-users/getting-started/",
   "unv": "The OLCF page still quotes typical award sizes (15,000-20,000 node hours) for the retired Summit system, so the current award size is not confirmed; PI eligibility rules not stated on the page"
- },
- {
-  "a": "Typically $750K over 36 months (≤$250K/yr); up to 25 awards",
-  "added": "2026-09-28",
-  "c": "Federal grant",
-  "checked": "2026-10-26",
-  "d": "2026-10-30",
-  "dt": "Proposals due Oct 30, 2026, 5:00 PM ET (NOFO N00014-26-S-F004).",
-  "e": "First or second full-time tenure-track (or equivalent) appointment, PhD on or after Jan 1, 2019. Must be a US citizen, national or permanent resident on the due date.",
-  "f": "Office of Naval Research",
-  "fields": [
-   "all",
-   "amo",
-   "cmx",
-   "cmt",
-   "qp",
-   "inst"
-  ],
-  "id": "onr-young-investigator-program-yip-fy2027",
-  "n": "ONR Young Investigator Program (YIP) FY2027",
-  "nofo": [
-   {
-    "opp": "N0001426SF004",
-    "u": "https://simpler.grants.gov/opportunity/19850d71-3af6-4f9f-bf6e-1ee9b1f8d8b7"
-   }
-  ],
-  "nom": false,
-  "s": "open",
-  "stages": [
-   "tt"
-  ],
-  "u": "https://www.onr.navy.mil/work-with-us/funding-opportunities/fiscal-year-fy-2027-young-investigator-program-yip",
-  "us": true
  },
  {
   "a": "not listed; 2+1 years",
@@ -13667,6 +13545,39 @@
   "us": true
  },
  {
+  "a": "",
+  "added": "2026-10-31",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-10-31",
+  "d": "2027-01-15",
+  "dt": "INSPIRE deadline Jan 15, 2027",
+  "e": "One or two two-year theory postdocs on dark matter, gravitational waves, inflation and primordial black holes. Applicants need a PhD by the start date and must meet a mobility requirement; usually no more than 3-4 years of postdoc experience.",
+  "f": "Université Libre de Bruxelles, Service de Physique Théorique",
+  "fields": [
+   "ppt",
+   "astro",
+   "grav"
+  ],
+  "id": "ulb-postdoc-theoretical-particle-physics-cosmology",
+  "n": "Université Libre de Bruxelles: Postdoc in theoretical particle physics and cosmology",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3220789",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3220789",
+  "unv": "The ad text names a full-consideration date of Dec 15, 2027, which looks like a typo; host ad not checked; the mobility requirement is not explained.",
+  "us": false
+ },
+ {
   "a": "Two years, possibly a third; start fall 2027; salary not stated",
   "added": "2026-10-28",
   "asub": [
@@ -13728,6 +13639,38 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32979",
   "unv": "Salary not stated.",
+  "us": false
+ },
+ {
+  "a": "",
+  "added": "2026-10-31",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-31",
+  "d": "2026-11-23",
+  "dt": "AJO deadline Nov 23, 2026",
+  "e": "Three-year McDonald Institute Theory Fellowship in astroparticle theory and phenomenology (neutrinos, dark matter, physics beyond the Standard Model) with the UdeM phenomenology group. Applicants need a PhD in physics or astronomy before the start; no citizenship limit is stated.",
+  "f": "Université de Montréal",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "umontreal-mcdonald-theory-fellowship-astroparticle",
+  "n": "Université de Montréal: McDonald Institute Theory Fellowship in astroparticle theory",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "Canada",
+  "s": "open",
+  "src": "inspire:3220282",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33189",
+  "unv": "INSPIRE lists Nov 24, 2026; the AJO date is used. Salary not stated.",
   "us": false
  },
  {
@@ -14053,9 +13996,9 @@
    "inst"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-30",
-  "dt": "2026/10/30 23:59:59 (time zone not stated on page); review begins Oct 16",
+  "checked": "2026-10-31",
+  "d": null,
+  "dt": "AJO deadline Oct 30, 2026 passed; review continues until the position is filled (listed until Feb 7, 2027)",
   "e": "CMB experiment deployment, operations and instrument optimization; TES/MKID and cryogenics experience preferred. Start early 2027.",
   "f": "The University of Texas at Austin, Department of Physics (Nicholas Galitzki)",
   "fields": [
@@ -14068,7 +14011,7 @@
   "nom": false,
   "pt": "group",
   "region": "US",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:32699",
   "stages": [
    "pd"
@@ -14453,6 +14396,37 @@
   ],
   "u": "https://apply.interfolio.com/194799",
   "unv": "Not re-verified on 2026-10-26: the AAS Job Register blocks automated access (403), and the Interfolio page and the Westlake astronomy site need JavaScript",
+  "us": false
+ },
+ {
+  "a": "",
+  "added": "2026-10-31",
+  "asub": [
+   "cos"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-10-31",
+  "d": "2026-11-23",
+  "dt": "Deadline Nov 23, 2026; first-round offers in January",
+  "e": "Three-year McDonald Institute Theory Fellowship in particle cosmology, working with Evan McDonough and Andrew Frey; top-ranked applicants go to the McDonald Institute theory evaluation committee. No citizenship limit is stated.",
+  "f": "University of Winnipeg, Department of Physics",
+  "fields": [
+   "astro",
+   "ppt"
+  ],
+  "id": "winnipeg-mcdonald-theory-fellowship-particle-cosmology",
+  "n": "University of Winnipeg: McDonald Institute Theory Fellowship (particle cosmology)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "Canada",
+  "s": "open",
+  "src": "ajo:33293",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33293",
+  "unv": "Salary not stated. Also listed on INSPIRE (3220787).",
   "us": false
  },
  {
