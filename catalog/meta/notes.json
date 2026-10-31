@@ -37,11 +37,11 @@
   "items": [
    {
     "b": "First-year students only:",
-    "t": "DOE CSGF (Jan 7) and Hertz (Oct 30). Both require US citizenship or permanent residency. Hertz takes PhD students who will be in their first or second year in fall 2027."
+    "t": "DOE CSGF (Jan 7). It requires US citizenship or permanent residency."
    },
    {
     "b": "Other deadlines:",
-    "t": "NDSEG Oct 30, DOE SCGSR Nov 4, NIH F31 Dec 8 and NNSA SSGF Jan 5."
+    "t": "DOE SCGSR Nov 4, NIH F31 Dec 8 and NNSA SSGF Jan 5."
    },
    {
     "b": "Final-year students",
@@ -96,7 +96,7 @@
    },
    {
     "b": "Defense early-career awards are due soon.",
-    "t": "The AFOSR YIP full proposal is due Dec 4 for those who submitted the Oct 9 white paper, and ONR YIP is due Oct 30. AFOSR requires a PhD on or after Apr 1, 2019 and ONR a PhD on or after Jan 1, 2019; both are limited to US citizens, nationals and permanent residents. FY2027 DURIP equipment proposals are due Nov 6."
+    "t": "The AFOSR YIP full proposal is due Dec 4 for those who submitted the Oct 9 white paper. AFOSR requires a PhD on or after Apr 1, 2019 and is limited to US citizens, nationals and permanent residents. FY2027 DURIP equipment proposals are due Nov 6."
    },
    {
     "b": "DOE Early Career",
@@ -129,7 +129,7 @@
    },
    {
     "b": "Seniors",
-    "t": "can apply for Hertz (Oct 30) and DOE CSGF (Jan 7)."
+    "t": "can apply for DOE CSGF (Jan 7)."
    }
   ],
   "title": "For undergraduates"

@@ -1,0 +1,37 @@
+{
+ "a": "CAD 65,000 per year, plus up to CAD 10,000 per year research funds and up to CAD 2,000 moving",
+ "added": "2026-10-31",
+ "asub": [
+  "exo",
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-10-31",
+ "d": "2026-12-15",
+ "dt": "Full consideration for applications by Dec 15, 2026, 11:59 pm ET; open until filled",
+ "e": "Two-year postdoc (renewable for a third), half on instrument, pipeline and data work (precision radial velocity preferred) and half on independent research in exoplanets and related astrophysics. PhD required by the start; preference for those within 3 years of the PhD; no citizenship limit is stated.",
+ "f": "Université de Montréal, Trottier Institute for Research on Exoplanets",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "irex-umontreal-diar-postdoctoral-fellowship-2027",
+ "n": "Université de Montréal (IREx / Mont-Mégantic): 2027 Data, Instrumentation and Astrophysical Research Postdoctoral Fellowship",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "prize",
+ "region": "Canada",
+ "s": "open",
+ "src": "other:irex-diar-pdf-2027",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://exoplanetes.umontreal.ca/en/job/2027-data-instrumentation-and-astrophysical-research-postdoctoral-fellowship/",
+ "unv": "Found via CASCA; host page not opened, and CASCA gives two different application form links.",
+ "us": false
+}

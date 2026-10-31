@@ -1,0 +1,34 @@
+{
+ "a": "Postdoctoral researcher: 480,000 JPY or more per month; research scientist: 550,000 JPY or more",
+ "added": "2026-10-31",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-31",
+ "d": null,
+ "dt": "Open until filled; applications received by Dec 18, 2026 (JST) reviewed first; start on or after May 1, 2027",
+ "e": "Posts in Kantaro Ohmori's unit on categorical and algebraic quantum field theory, generalized symmetries, and tensor-network and lattice descriptions of quantum many-body systems. A doctorate is required by the start date; no citizenship limit is stated.",
+ "f": "RIKEN iTHEMS (Ohmori unit)",
+ "fields": [
+  "cmt",
+  "ppt",
+  "qp"
+ ],
+ "id": "riken-ithems-ohmori-category-theoretical-physics-26-1713",
+ "n": "RIKEN iTHEMS: Research scientists or postdoctoral researchers, category theoretical physics (26-1713)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "rolling",
+ "src": "ajo:33158",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33158",
+ "unv": "Separate from the unit's earlier call 26-1454; applicants may apply to both.",
+ "us": false
+}

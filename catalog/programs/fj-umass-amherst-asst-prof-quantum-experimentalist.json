@@ -1,0 +1,30 @@
+{
+ "a": "About $79,350-$124,620",
+ "added": "2026-10-31",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-10-31",
+ "d": "2027-01-01",
+ "dt": "Review begins Jan 1, 2027 and may continue until a suitable pool is found",
+ "e": "Tenure-track assistant professor in experimental quantum matter and many-body physics (correlated and quantum materials, magnetism, unconventional superconductivity, topological phenomena). Applicants need a PhD and postdoctoral experience; no citizenship limit is stated.",
+ "f": "University of Massachusetts Amherst",
+ "fields": [
+  "cmx",
+  "qp",
+  "mat"
+ ],
+ "id": "fj-umass-amherst-asst-prof-quantum-experimentalist",
+ "n": "UMass Amherst: Assistant Professor, Quantum Experimentalist",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "other:umass-amherst-quantum-experimentalist",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://careers.umass.edu/jobs/assistant-professor-quantum-experimentalist-amherst-massachusetts-united-states",
+ "us": false
+}

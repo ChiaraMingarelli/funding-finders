@@ -1,0 +1,31 @@
+{
+ "a": "300,000 AMD per month at start, generally rising to 400,000-800,000 AMD in the first year",
+ "added": "2026-10-31",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-31",
+ "d": "2026-12-21",
+ "dt": "Rolling review; INSPIRE deadline Dec 21, 2026; start December 2026 to October 2027",
+ "e": "One or two postdocs or long-term visitors on solitons, oscillons and Q-balls in quantum field theory, with applications to cosmology, monopole searches and QCD. No citizenship limit is stated.",
+ "f": "A. I. Alikhanyan National Science Laboratory, Yerevan",
+ "fields": [
+  "ppt"
+ ],
+ "id": "aanl-yerevan-postdocs-quantum-solitons",
+ "n": "A. I. Alikhanyan National Science Laboratory (Yerevan): Postdocs in quantum solitons",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "rolling",
+ "src": "inspire:3219991",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://qs.aanl.am/",
+ "unv": "The Dec 21 date appears only on INSPIRE.",
+ "us": false
+}

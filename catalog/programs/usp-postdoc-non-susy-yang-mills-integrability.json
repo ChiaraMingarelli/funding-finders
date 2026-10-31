@@ -1,0 +1,31 @@
+{
+ "a": "",
+ "added": "2026-10-31",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-31",
+ "d": "2027-01-07",
+ "dt": "Jan 7, 2027",
+ "e": "Postdoc on hidden symmetries and integrability in non-supersymmetric Yang-Mills theories in 3+1 dimensions using generalized loop-space methods. Applicants need a PhD in theoretical physics or mathematics; no citizenship limit is stated.",
+ "f": "University of São Paulo",
+ "fields": [
+  "ppt"
+ ],
+ "id": "usp-postdoc-non-susy-yang-mills-integrability",
+ "n": "University of São Paulo: Postdoc in non-supersymmetric Yang-Mills theories and integrability",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3220702",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3220702",
+ "unv": "Brief INSPIRE post: no PI, duration, salary or host ad given.",
+ "us": false
+}

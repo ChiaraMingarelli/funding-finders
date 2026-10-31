@@ -1,0 +1,31 @@
+{
+ "a": "76,000 CZK gross per month",
+ "added": "2026-10-31",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-31",
+ "d": "2026-12-05",
+ "dt": "Dec 5, 2026; start May 2027",
+ "e": "Two-year postdoc on three-body correlation functions for kaon-containing hadron systems. Applicants need a PhD in nuclear or particle physics and at least two peer-reviewed papers; no citizenship limit is stated.",
+ "f": "Czech Technical University in Prague",
+ "fields": [
+  "nut"
+ ],
+ "id": "ctu-prague-postdoc-theoretical-hadron-physics-femtoscopy",
+ "n": "Czech Technical University in Prague: Postdoc in theoretical hadron physics (femtoscopy)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3220339",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3220339",
+ "unv": "No host ad; deadline and salary from INSPIRE.",
+ "us": false
+}

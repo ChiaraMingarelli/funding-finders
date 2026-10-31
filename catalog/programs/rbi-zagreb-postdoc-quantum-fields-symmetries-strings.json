@@ -1,0 +1,31 @@
+{
+ "a": "About 1,700 EUR net per month (expected)",
+ "added": "2026-10-31",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-31",
+ "d": "2026-12-05",
+ "dt": "Expressions of interest by Dec 5, 2026; start April to October 2027",
+ "e": "Two-year postdoc on a Croatian Science Foundation project led by Alex Arvanitakis. Applicants need a PhD by the start date and fewer than 2 years of postdoc experience; no citizenship limit is stated.",
+ "f": "Rudjer Boskovic Institute, Zagreb",
+ "fields": [
+  "ppt"
+ ],
+ "id": "rbi-zagreb-postdoc-quantum-fields-symmetries-strings",
+ "n": "Rudjer Boskovic Institute: Postdoc in theoretical and mathematical physics (quantum fields, symmetries and strings)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3220800",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3220800",
+ "unv": "No host ad; deadline from INSPIRE. Apply by email to the PI with code [PdocASA26] in the subject.",
+ "us": false
+}

@@ -1,0 +1,39 @@
+{
+ "a": "",
+ "added": "2026-10-31",
+ "asub": [
+  "cos",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-31",
+ "d": "2027-01-15",
+ "dt": "INSPIRE deadline Jan 15, 2027",
+ "e": "One or two two-year theory postdocs on dark matter, gravitational waves, inflation and primordial black holes. Applicants need a PhD by the start date and must meet a mobility requirement; usually no more than 3-4 years of postdoc experience.",
+ "f": "Université Libre de Bruxelles, Service de Physique Théorique",
+ "fields": [
+  "ppt",
+  "astro",
+  "grav"
+ ],
+ "id": "ulb-postdoc-theoretical-particle-physics-cosmology",
+ "n": "Université Libre de Bruxelles: Postdoc in theoretical particle physics and cosmology",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3220789",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3220789",
+ "unv": "The ad text names a full-consideration date of Dec 15, 2027, which looks like a typo; host ad not checked; the mobility requirement is not explained.",
+ "us": false
+}

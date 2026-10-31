@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-26",
- "d": "2026-10-30",
- "dt": "Oct 30, 2026 first-round consideration; rolling until filled",
+ "checked": "2026-10-31",
+ "d": null,
+ "dt": "Applications received by Oct 30, 2026 got first-round consideration; review continues on a rolling basis until filled",
  "e": "Several postdoctoral fellow positions in theory of emergent quantum matter: quantum information, quantum materials, quantum computation, AI/computational methods, quantum geometry, Majorana modes, fractional quantum anomalous Hall effect. Flexible start, can be immediate.",
  "f": "Pennsylvania State University, Center for Theory of Emergent Quantum Matter (ICDS Quantum Hub)",
  "fields": [
@@ -20,7 +20,7 @@
  "nom": false,
  "pt": "prize",
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:32970",
  "stages": [
   "pd"

@@ -1,0 +1,31 @@
+{
+ "a": "",
+ "added": "2026-10-31",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-10-31",
+ "d": "2026-11-23",
+ "dt": "Review begins Nov 23, 2026 and continues until filled",
+ "e": "Three-year postdoc on LHCb data analysis (rare b-hadron decays, semileptonic B decays or heavy ions), with possible work on the VELO Upgrade 2. Applicants need a PhD in experimental high-energy physics; no citizenship limit is stated.",
+ "f": "IGFAE, University of Santiago de Compostela",
+ "fields": [
+  "ppx"
+ ],
+ "id": "igfae-postdoc-lhcb",
+ "n": "IGFAE (Santiago de Compostela): Postdoctoral research associate on LHCb",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "rolling",
+ "src": "inspire:3220283",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3220283",
+ "unv": "INSPIRE lists a Nov 25, 2026 deadline; the ad text says review begins Nov 23. No host ad.",
+ "us": false
+}
