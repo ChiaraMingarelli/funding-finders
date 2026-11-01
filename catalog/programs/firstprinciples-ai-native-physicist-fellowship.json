@@ -8,9 +8,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-26",
- "d": "2026-10-31",
- "dt": "Apply by Oct 31, 2026 (foundation site; the AJO form lists Nov 7); first cohort starts Jan 2027, three cohorts a year",
+ "checked": "2026-11-01",
+ "d": null,
+ "dt": "Last deadline Oct 31, 2026 (inaugural cohort starting Jan 2027); three cohorts a year (Jan, May, Sep) are planned but the next call is not posted yet",
  "e": "Twelve-month, remote, full-time fellowship that funds physicists to do their own research project using AI and to document their AI workflow openly. Open to senior postdocs, research scientists, junior faculty, independent researchers and strong late-stage PhD students; no citizenship limits stated.",
  "f": "FirstPrinciples Foundation",
  "fields": [
@@ -25,12 +25,12 @@
  "nom": false,
  "pt": "prize",
  "region": "Canada",
- "s": "open",
+ "s": "watch",
  "src": "ajo:33114",
  "stages": [
   "pd"
  ],
  "u": "https://www.firstprinciplesfoundation.org/programs",
- "unv": "The AJO deadline field says Nov 7, 2026, but the foundation's program page and the ad text say Oct 31, 2026. No time of day is stated.",
+ "unv": "The AJO 33114 deadline field still says Nov 7, 2026, but AJO is not taking applications itself and points to the foundation, whose program page says Oct 31, 2026.",
  "us": false
 }

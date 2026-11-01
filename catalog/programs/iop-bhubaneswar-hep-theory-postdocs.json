@@ -10,9 +10,9 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-26",
- "d": "2026-10-31",
- "dt": "Oct 31, 2026",
+ "checked": "2026-11-01",
+ "d": null,
+ "dt": "Listed deadline Oct 31, 2026; the host ad could not be reached to confirm it has closed",
  "e": "Several postdoc positions in the HEP theory and phenomenology group covering particle physics, astroparticle physics and cosmology, including dark matter, inflation and gravitational waves.",
  "f": "Institute of Physics (IoP), Bhubaneswar",
  "fields": [
@@ -26,12 +26,12 @@
  "nom": false,
  "pt": "group",
  "region": "International",
- "s": "open",
+ "s": "watch",
  "src": "inspire:3214873",
  "stages": [
   "pd"
  ],
  "u": "https://www.iopb.res.in/job_opening/advertisement-for-postdoctoral-research-associate-positions-in-high-energy-physics-theory-phenomenology-group/",
- "unv": "On Oct 21, 2026 iopb.res.in could not be reached (TLS certificate error / HTTP 503); INSPIRE still lists the posting as open to Oct 31, 2026.",
+ "unv": "iopb.res.in was unreachable on 2026-11-01 (TLS: self-signed certificate in chain), the same as on Oct 21. INSPIRE 3214873 is closed with deadline 2026-10-31, and its text says letters are due 'by the deadline' with no until-filled wording, so it is likely a delete once the host can be checked.",
  "us": false
 }

@@ -1,0 +1,33 @@
+{
+ "a": "$55,000–$62,652 base",
+ "added": "2026-11-01",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-01",
+ "d": "2026-12-31",
+ "dt": "Review begins Nov 17, 2026; AJO lists Dec 31, 2026; open until filled",
+ "e": "One-year renewable postdoc with Hari Padma doing time-resolved optical spectroscopy and x-ray scattering of quantum materials, starting by March 2027. Applicants need a doctorate in physics, materials science, chemistry or a related field with ultrafast/nonlinear optics experience and must be eligible to work in the US.",
+ "f": "Case Western Reserve University, Department of Physics",
+ "fields": [
+  "cmx",
+  "phot"
+ ],
+ "id": "cwru-postdoc-ultrafast-quantum-materials-padma",
+ "n": "Case Western Reserve University: Postdoc in experimental quantum materials / ultrafast spectroscopy (Padma group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:31834",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/31834",
+ "unv": "Apply via Interfolio (https://apply.interfolio.com/182931).",
+ "us": false
+}

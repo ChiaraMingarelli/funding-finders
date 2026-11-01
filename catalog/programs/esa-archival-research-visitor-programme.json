@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Travel",
- "checked": "2026-10-26",
- "d": "2026-10-31",
- "dt": "Oct 31, 2026, 23:59 UTC (for visits in spring and summer 2027); reviewed twice a year, usually Apr 30 and Oct 31",
+ "checked": "2026-11-01",
+ "d": null,
+ "dt": "Last deadline Oct 31, 2026 (for visits in spring and summer 2027); reviewed twice a year, usually Apr 30 and Oct 31; the next deadline is not posted yet",
  "e": "Funds one-to-three-month research visits to ESAC or ESTEC to work on public data in the ESA space science archives (astronomy, planetary science, heliophysics), open to scientists at all career levels including PhD students. Applicants must be affiliated with an institute in an ESA Member State or Cooperating State (this includes Canada; US institutions are not eligible).",
  "f": "European Space Agency (ESA), ESAC Science Data Centre",
  "fields": [
@@ -19,7 +19,7 @@
  "nom": false,
  "pt": "other",
  "region": "International",
- "s": "open",
+ "s": "watch",
  "src": "other:esa-arvp",
  "stages": [
   "gr",

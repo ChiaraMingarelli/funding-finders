@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-26",
- "d": "2026-10-31",
- "dt": "Applications accepted on an ongoing basis and reviewed each quarter; review begins Oct 31, 2026",
+ "checked": "2026-11-01",
+ "d": null,
+ "dt": "Nominations considered as they arrive; applications accepted on an ongoing basis and reviewed once each quarter (first review Oct 31, 2026)",
  "e": "Three-year fellowships (Dehmelt: any area of physics; Thouless: quantum matter and information); the process starts with a nomination by a PI in the candidate's field, and nominees may have at most 24 months of prior postdoc experience and no prior UW Seattle position. Non-US citizens must show English proficiency.",
  "f": "University of Washington, Department of Physics / Thouless Institute for Quantum Matter",
  "fields": [
@@ -22,11 +22,12 @@
  "nom": true,
  "pt": "prize",
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "other:uw-dehmelt-thouless",
  "stages": [
   "pd"
  ],
  "u": "https://apply.interfolio.com/194644",
+ "unv": "The Interfolio page (194644) is JavaScript-only, so its status could not be read; the status comes from the UW Physics program page.",
  "us": false
 }

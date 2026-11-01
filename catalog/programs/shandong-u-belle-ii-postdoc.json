@@ -2,9 +2,9 @@
  "a": "from 300,000 CNY/yr; 2 years, extendable to 4",
  "added": "2026-09-30",
  "c": "Group postdoc",
- "checked": "2026-10-26",
- "d": "2026-10-31",
- "dt": "Oct 31, 2026",
+ "checked": "2026-11-01",
+ "d": null,
+ "dt": "Review began immediately and continues until the positions are filled",
  "e": "Precision B and tau decay measurements at Belle II. Requires a PhD in experimental HEP or computer science.",
  "f": "Shandong University, Qingdao; PI Qi-Dong Zhou",
  "fields": [
@@ -14,11 +14,12 @@
  "n": "Shandong U.: Belle II postdoc",
  "nom": false,
  "pt": "group",
- "s": "open",
+ "s": "rolling",
  "src": "inspire:3164965",
  "stages": [
   "pd"
  ],
  "u": "https://frontier-en.qd.sdu.edu.cn",
+ "unv": "The host URL is only the institute homepage, with no posting page to confirm it is still live. INSPIRE 3164965 is marked closed (deadline field Oct 31).",
  "us": false
 }

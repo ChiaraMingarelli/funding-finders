@@ -1,0 +1,33 @@
+{
+ "a": "not listed",
+ "added": "2026-11-01",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-01",
+ "d": "2026-12-14",
+ "dt": "Expressions of interest by email to Giulia Casarosa (giulia.casarosa@pi.infn.it); the formal call will be published separately, expected in early 2027",
+ "e": "The Belle II group at INFN Pisa and the University of Pisa is asking for expressions of interest in a research position developing machine-learning anomaly detection for CAEN power-supply monitoring data; it needs a PhD in physics or a related field. A second position on the Belle II vertex detector (VTX) upgrade does not need a PhD and is open to candidates within six years of their Master's degree.",
+ "f": "INFN Pisa / University of Pisa",
+ "fields": [
+  "ppx",
+  "inst",
+  "ds"
+ ],
+ "id": "infn-pisa-belle2-ml-instrumentation-eoi",
+ "n": "INFN Pisa / University of Pisa (Belle II): Research position in machine learning for detector power-supply monitoring (expression of interest)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3219266",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3219266",
+ "unv": "This is a preliminary request for expressions of interest, not a formal call. Eligibility, salary, contract length and the formal deadline are not yet published; 2026-12-14 is the INSPIRE listing deadline.",
+ "us": false
+}

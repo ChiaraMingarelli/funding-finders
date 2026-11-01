@@ -1,0 +1,28 @@
+{
+ "a": "$115,000–$140,000",
+ "added": "2026-11-01",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-01",
+ "d": "2026-12-18",
+ "dt": "Closing date Dec 18, 2026",
+ "e": "Tenure-track assistant professor in quantum computing algorithms (algorithm rather than hardware development) in London, Ontario, starting July 2027, including teaching a large quantum computing course. Open to applicants with a physics or related doctorate and postdoctoral experience; priority is given to Canadian citizens and permanent residents.",
+ "f": "Western University, Department of Physics & Astronomy",
+ "fields": [
+  "qp"
+ ],
+ "id": "fj-western-ap-quantum-computing-algorithms",
+ "n": "Western University: Assistant Professor, Quantum Computing Algorithms",
+ "nfit": "Low",
+ "nom": false,
+ "region": "Canada",
+ "s": "open",
+ "src": "ajo:33295",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33295",
+ "us": false
+}

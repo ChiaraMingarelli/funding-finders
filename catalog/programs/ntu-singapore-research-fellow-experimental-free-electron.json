@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-26",
- "d": "2026-10-31",
- "dt": "Oct 31, 2026",
+ "checked": "2026-11-01",
+ "d": "2027-01-07",
+ "dt": "Jan 7, 2027 (INSPIRE deadline); apply by email to Prof. Liang Jie Wong",
  "e": "Experimental free-electron X-ray nanophotonics and phase-contrast imaging. Requires a PhD in physics or engineering; SEM/TEM familiarity preferred.",
  "f": "Nanyang Technological University; group of Liang Jie Wong",
  "fields": [
@@ -25,5 +25,6 @@
   "pd"
  ],
  "u": "https://sites.google.com/view/ljwgroup",
+ "unv": "New date is the INSPIRE deadline field; the ad text and group site give no date.",
  "us": false
 }

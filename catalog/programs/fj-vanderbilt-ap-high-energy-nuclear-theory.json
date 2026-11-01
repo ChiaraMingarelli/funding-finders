@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-10-26",
- "d": "2026-10-31",
- "dt": "Full consideration by Oct 31, 2026; review begins Nov 1",
+ "checked": "2026-11-01",
+ "d": null,
+ "dt": "Review began Nov 1, 2026 and continues until the position is filled; apply via Interfolio",
  "e": "Tenure-track assistant professor in high-energy nuclear theory (QCD matter at finite temperature and density, hydrodynamics, lattice, quantum simulation). No citizenship limit stated.",
  "f": "Vanderbilt University",
  "fields": [
@@ -18,11 +18,12 @@
  "nfit": "Low",
  "nom": false,
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:32858",
  "stages": [
   "fj"
  ],
  "u": "https://academicjobsonline.org/ajo/jobs/32858",
+ "unv": "AJO deadline field is Nov 1, 2026 23:59; the Interfolio page (JS-only) could not be read to confirm it is still accepting.",
  "us": true
 }
