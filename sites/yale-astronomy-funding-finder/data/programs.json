@@ -2053,8 +2053,8 @@
   ],
   "c": "Observing time",
   "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Monthly Phase-1 deadlines at 23:59 CET/CEST on the last day of each month; next 31 Oct 2026. Large programmes only in the April and October cycles.",
+  "d": "2026-11-30",
+  "dt": "Monthly Phase-1 deadlines at 23:59 CET/CEST on the last day of each month; next 30 Nov 2026. Large programmes only in the April and October cycles.",
   "e": "ESA's rolling call for CHEOPS observing time during the second extended mission. Open to the worldwide scientific community regardless of nationality or institutional affiliation; undergraduate and PhD students may apply with their supervisor as a Co-I.",
   "f": "ESA / CHEOPS Science Operations Centre",
   "fields": [
@@ -3627,9 +3627,9 @@
   "a": "USD 75K-150K for 12 months (paid in local currency), plus compute and API credits",
   "added": "2026-10-17",
   "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Apply by Oct 31, 2026 (foundation site; the AJO form lists Nov 7); first cohort starts Jan 2027, three cohorts a year",
+  "checked": "2026-11-01",
+  "d": null,
+  "dt": "Last deadline Oct 31, 2026 (inaugural cohort starting Jan 2027); three cohorts a year (Jan, May, Sep) are planned but the next call is not posted yet",
   "e": "Twelve-month, remote, full-time fellowship that funds physicists to do their own research project using AI and to document their AI workflow openly. Open to senior postdocs, research scientists, junior faculty, independent researchers and strong late-stage PhD students; no citizenship limits stated.",
   "f": "FirstPrinciples Foundation",
   "fields": [
@@ -3644,13 +3644,13 @@
   "nom": false,
   "pt": "prize",
   "region": "Canada",
-  "s": "open",
+  "s": "watch",
   "src": "ajo:33114",
   "stages": [
    "pd"
   ],
   "u": "https://www.firstprinciplesfoundation.org/programs",
-  "unv": "The AJO deadline field says Nov 7, 2026, but the foundation's program page and the ad text say Oct 31, 2026. No time of day is stated.",
+  "unv": "The AJO 33114 deadline field still says Nov 7, 2026, but AJO is not taking applications itself and points to the foundation, whose program page says Oct 31, 2026.",
   "us": false
  },
  {
@@ -3681,61 +3681,6 @@
   ],
   "u": "https://mtholyoke.wd504.myworkdayjobs.com/External/job/Mount-Holyoke-College---Main-Campus/Five-College-Astronomy-Department-Fellow_R-0000003668",
   "unv": "Teaching and research fellowship: two undergraduate courses a year plus the fellow's own proposed research project",
-  "us": false
- },
- {
-  "a": "$95,000/yr; 2 years, renewable up to 3 more",
-  "added": "2026-09-30",
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Oct 31, 2026",
-  "e": "Original astrophysics research plus open-source scientific software (simulation, statistics/ML, data analysis). Start late Aug-early Oct 2027.",
-  "f": "Simons Foundation, Flatiron Institute, Center for Computational Astrophysics",
-  "fields": [
-   "astro",
-   "ds"
-  ],
-  "id": "flatiron-cca-flatiron-software-research-fellow",
-  "n": "Flatiron CCA: Flatiron Software Research Fellow",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "ajo:32795",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32795",
-  "us": false
- },
- {
-  "a": "$95k, 2+1 yr",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Oct 31, 2026 (all materials, including letters)",
-  "e": "Covers computational astrophysics, including the CCA gravitational-wave group. A software research fellow track is also posted.",
-  "f": "Simons Foundation, NYC",
-  "fields": [
-   "astro",
-   "grav",
-   "ds"
-  ],
-  "id": "flatiron-cca-research-fellow",
-  "n": "Flatiron CCA Research Fellow",
-  "nfit": "High",
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "ajo:32794",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32794",
   "us": false
  },
  {
@@ -4093,8 +4038,8 @@
   "asub": [],
   "c": "Observing time",
   "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Monthly, due on the last day of each month at noon HST; next one is 31 Oct 2026",
+  "d": "2026-11-30",
+  "dt": "Monthly, due on the last day of each month at noon HST; next one is 30 Nov 2026",
   "e": "A monthly call for short Gemini programs, reviewed by the other proposers. Open to researchers at Gemini participant institutions, which include US institutions; a graduate student may be PI with a PhD co-I as mentor.",
   "f": "International Gemini Observatory",
   "fields": [
@@ -5124,6 +5069,38 @@
   "unv": "Time of day for the extended Jan 15, 2027 deadline not stated"
  },
  {
+  "a": "not listed",
+  "added": "2026-11-01",
+  "asub": [
+   "he",
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-01",
+  "d": "2026-12-09",
+  "dt": "Materials incl. letters by Dec 9, 2026 (AJO lists 04:00)",
+  "e": "Postdoc-level 'Senior Researcher' post (the ad says it is effectively a postdoc, open to fresh PhDs) on the Young Scientist Fellow project 'Testing General Relativity using black hole observations' led by Che-Yu Chen in Daejeon, Korea; fixed term to Dec 15, 2029, possibly extendable to 2031. Applicants in gravity, black hole physics, cosmology, astrophysics or particle physics may apply; PhD needed by Dec 16, 2027.",
+  "f": "Institute for Basic Science (IBS), Center for Theoretical Physics of the Universe",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "ibs-ctpu-cga-postdoc-testing-gr-black-holes",
+  "n": "IBS CTPU-CGA: Postdoc in testing general relativity with black hole observations (Chen YSF project)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33244",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33244",
+  "unv": "Salary not stated in the ad; no nationality limit stated (general IBS/State Public Officials Act eligibility rules apply).",
+  "us": false
+ },
+ {
   "a": "3 years",
   "added": "2026-10-15",
   "c": "Fellowship",
@@ -5192,9 +5169,9 @@
    "he"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Oct 31, 2026",
+  "checked": "2026-11-01",
+  "d": null,
+  "dt": "Review began Aug 2026; open until an outstanding candidate is selected",
   "e": "GW detection, cosmology, data analysis and numerical relativity. Requires a PhD in theoretical physics.",
   "f": "ICTP-AP (UCAS), Beijing; PI Jun Zhang",
   "fields": [
@@ -5207,12 +5184,13 @@
   "nom": false,
   "pt": "group",
   "region": "International",
-  "s": "open",
+  "s": "rolling",
   "src": "inspire:3164763",
   "stages": [
    "pd"
   ],
   "u": "https://ictp-ap.org/form/92",
+  "unv": "The ictp-ap.org/form/92 application form is still online but needs sign-in, so whether it accepts submissions was not verified. INSPIRE 3164763 is marked closed (deadline field Oct 31).",
   "us": false
  },
  {
@@ -6097,9 +6075,9 @@
    "cos"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Oct 31, 2026",
+  "checked": "2026-11-01",
+  "d": null,
+  "dt": "Listed deadline Oct 31, 2026; the host ad could not be reached to confirm it has closed",
   "e": "Several postdoc positions in the HEP theory and phenomenology group covering particle physics, astroparticle physics and cosmology, including dark matter, inflation and gravitational waves.",
   "f": "Institute of Physics (IoP), Bhubaneswar",
   "fields": [
@@ -6113,13 +6091,13 @@
   "nom": false,
   "pt": "group",
   "region": "International",
-  "s": "open",
+  "s": "watch",
   "src": "inspire:3214873",
   "stages": [
    "pd"
   ],
   "u": "https://www.iopb.res.in/job_opening/advertisement-for-postdoctoral-research-associate-positions-in-high-energy-physics-theory-phenomenology-group/",
-  "unv": "On Oct 21, 2026 iopb.res.in could not be reached (TLS certificate error / HTTP 503); INSPIRE still lists the posting as open to Oct 31, 2026.",
+  "unv": "iopb.res.in was unreachable on 2026-11-01 (TLS: self-signed certificate in chain), the same as on Oct 21. INSPIRE 3214873 is closed with deadline 2026-10-31, and its text says letters are due 'by the deadline' with no until-filled wording, so it is likely a delete once the host can be checked.",
   "us": false
  },
  {
@@ -8795,40 +8773,6 @@
   "us": false
  },
  {
-  "a": "3 years; Open Fellowships extendable to 5",
-  "added": "2026-10-01",
-  "asub": [
-   "cos",
-   "xgal",
-   "he",
-   "star"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Deadline Oct 31, 2026",
-  "e": "Independent postdoctoral fellowships in low-frequency radio astronomy, including pulsars, solar physics, AGN, cosmology and instrumentation, with GMRT/ORT engagement preferred. Apply by email with CV, research plan and three referees.",
-  "f": "National Centre for Radio Astrophysics, Tata Institute of Fundamental Research (Pune)",
-  "fields": [
-   "astro",
-   "inst"
-  ],
-  "id": "ncra-tifr-jawaharlal-nehru-open-postdoc-fellowships",
-  "n": "NCRA-TIFR: Jawaharlal Nehru & Open Post-Doctoral Fellowships",
-  "nfit": "High",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "aas:fad1bb09",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.ncra.tifr.res.in/jobs/academic/pdf",
-  "unv": "Salary in AAS ad (US$8,000-9,200/month) looks garbled, so not recorded",
-  "us": false
- },
- {
   "a": "commensurate with experience + health insurance + airfare; 1 year, renewable to 3",
   "added": "2026-09-30",
   "asub": [
@@ -10267,38 +10211,6 @@
   "us": false
  },
  {
-  "a": "Competitive salary plus travel support; 1 year, renewable to 2–3 years; start as early as March 2027",
-  "added": "2026-10-07",
-  "asub": [
-   "he"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "All materials by Oct 31, 2026 for full consideration",
-  "e": "Several postdocs in an NRF-funded programme on AI for gravitational-wave astronomy (surrogate modelling, simulation-based inference, Bayesian methods and related ML). Applicants with GW analysis or statistical ML backgrounds, or general applied math/statistics/data science, may apply by e-mail to ai4gw.nus@gmail.com; no citizenship limits stated.",
-  "f": "National University of Singapore, Dept. of Physics and Dept. of Statistics and Data Science (Alvin Chua, Li Cheng, Alexandre Thiery, David Nott)",
-  "fields": [
-   "grav",
-   "astro",
-   "ds"
-  ],
-  "id": "nus-ai-for-gw-postdoc-fellowships",
-  "n": "National University of Singapore: Postdoctoral Fellowships in AI for Gravitational-Wave Astronomy",
-  "nfit": "High",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "other:lisa-nus-ai4gw",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.lisamission.org/postdoctoral-fellowships-in-ai-for-gravitational-waves-at-the-national-university-of-singapore/",
-  "unv": "Announcement posted on the LISA Consortium positions page (Sep 1, 2026); no NUS-hosted ad found.",
-  "us": false
- },
- {
   "a": "Salary not stated; travel support",
   "added": "2026-10-15",
   "asub": [
@@ -10694,39 +10606,9 @@
    "exo"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Applications reviewed until the position is filled (applying before Sep 1, 2026 was recommended); the Workday posting end date is Oct 31, 2026",
-  "e": "Postdoc supporting the HWO Community Science and Instrument Team and Technology Maturation Project Office on Living Worlds science goals (reflected-light spectroscopy, retrievals, biosignatures, astrometry). PhD in astronomy, astrophysics or related field by appointment.",
-  "f": "The Ohio State University, Department of Astronomy",
-  "fields": [
-   "astro"
-  ],
-  "id": "osu-astronomy-hwo-living-worlds-postdoc",
-  "n": "Ohio State Astronomy (Gaudi group): Postdoctoral Scholar, Habitable Worlds Observatory Living Worlds",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "US",
-  "s": "open",
-  "src": "other:osu-R155245",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Postdoctoral-Scholar_R155245",
-  "unv": "The Oct 31, 2026 close date comes from Workday posting metadata, not the ad text.",
-  "us": false
- },
- {
-  "a": "$65,000-$70,000; up to 3 years",
-  "added": "2026-10-16",
-  "asub": [
-   "exo"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Applications reviewed until the position is filled (applying before Sep 1, 2026 was recommended); the Workday posting end date is Oct 31, 2026",
+  "checked": "2026-11-01",
+  "d": null,
+  "dt": "Workday posting end date was Oct 31, 2026; the ad said applications are reviewed until filled. Current status could not be checked",
   "e": "Postdoc on Roman Galactic Exoplanet Survey science: microlensing theory, commissioning and early GBTDS data analysis, and event-analysis and occurrence-rate pipelines. PhD in astronomy, astrophysics or related field by time of hire.",
   "f": "The Ohio State University, Department of Astronomy",
   "fields": [
@@ -10738,13 +10620,13 @@
   "nom": false,
   "pt": "group",
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "src": "other:osu-R155249",
   "stages": [
    "pd"
   ],
   "u": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Postdoctoral-Scholar_R155249-1",
-  "unv": "The Oct 31, 2026 close date comes from Workday posting metadata, not the ad text.",
+  "unv": "OSU Workday blocked automated access (the JSON API returned 403; the HTML page is a JS shell with an empty title and description), so we could not tell whether the posting is still live.",
   "us": false
  },
  {
@@ -13052,9 +12934,9 @@
    "he"
   ],
   "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "2026/10/31 23:59:59 (time zone not stated on page); open until filled",
+  "checked": "2026-11-01",
+  "d": null,
+  "dt": "Review began early Aug 2026; open until an outstanding candidate is selected (AJO deadline field was Oct 31, 2026)",
   "e": "GW detection, GW cosmology, data analysis and/or numerical relativity. PhD in theoretical physics.",
   "f": "University of Chinese Academy of Sciences, ICTP Asia-Pacific (Jun Zhang)",
   "fields": [
@@ -13067,7 +12949,7 @@
   "nom": false,
   "pt": "group",
   "region": "International",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:32144",
   "stages": [
    "pd"
@@ -13329,35 +13211,6 @@
   ],
   "u": "https://aas.org/jobregister/ad/57813d20",
   "unv": "Deadline and salary confirmed on the jobs.ac.uk copy of the UCL advert (ref. B04-07866) on Oct 12, 2026; the AAS Job Register blocks automated access.",
-  "us": false
- },
- {
-  "a": "$90,000/yr plus $2,000 travel and benefits; 3 years",
-  "added": "2026-09-30",
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Nominations due Oct 31, 2026 (extended from Oct 24; self-nominations not allowed); invited full applications due Dec 15, 2026",
-  "e": "Nomination-based fellowship in physics, astronomy, chemistry and biochemistry, with research in a participating UCLA faculty member's lab. Candidates need a PhD conferred between Sept 2024 and Aug 2027 and must be a US citizen, permanent resident or J-1 visa eligible.",
-  "f": "UCLA Division of Physical Sciences",
-  "fields": [
-   "astro",
-   "ppt",
-   "cmt"
-  ],
-  "id": "ucla-bhaumik-prize-postdoctoral-fellows",
-  "n": "UCLA: Bhaumik Prize Postdoctoral Fellows",
-  "nfit": "Medium",
-  "nom": true,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "inspire:3204681",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://physicalsciences.ucla.edu/bhaumik-prize-postdoctoral-fellows-program/",
-  "unv": "The page header says \"Deadline Extended to 10/31/26\" and the nomination instructions give Oct 31, 2026; the overview text still says Oct 24, 2026.",
   "us": false
  },
  {
@@ -14079,6 +13932,37 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33026",
   "unv": "Salary and appointment length not stated.",
+  "us": false
+ },
+ {
+  "a": "$5,705–$6,000 per month base",
+  "added": "2026-11-01",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-01",
+  "d": "2026-12-01",
+  "dt": "Full consideration by Dec 1, 2026",
+  "e": "One or more three-year postdoc positions starting September 2027 in theoretical high energy physics, including astroparticle physics, cosmology, particle phenomenology and quantum field theory, with links to the Dark Universe Science Center. Applicants need a PhD in physics or a related field by the appointment date.",
+  "f": "University of Washington, Department of Physics",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "uw-postdoc-particle-string-cosmology",
+  "n": "University of Washington: Postdoctoral Scholar, Particle Physics, String Theory and Cosmology Group",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:32895",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32895",
+  "unv": "Apply via Interfolio (https://apply.interfolio.com/194203).",
   "us": false
  },
  {

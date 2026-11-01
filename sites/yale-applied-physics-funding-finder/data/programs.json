@@ -2784,28 +2784,31 @@
   "unv": "Salary not stated. Ad posted May 2026; the AJO listing still shows it as open until filled, but whether it has been filled could not be confirmed. Applications go by email to Prof. Raschke."
  },
  {
-  "a": "",
-  "added": "2026-10-01",
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Expression of interest by Oct 31, 2026; official AEI application window Nov 12-26, 2026",
-  "e": "Expression of interest to be hosted by the GeomMPhys group (geometry, mathematical physics, QFT, quantum information) for a Spanish Juan de la Cierva postdoctoral fellowship. PhD must be defended between Jan 1, 2024 and Dec 31, 2026 (extensions per call).",
-  "f": "CUNEF Universidad, Geometrical Mathematical Physics (GeomMPhys) group, Madrid",
+  "a": "$55,000–$62,652 base",
+  "added": "2026-11-01",
+  "c": "Group postdoc",
+  "checked": "2026-11-01",
+  "d": "2026-12-31",
+  "dt": "Review begins Nov 17, 2026; AJO lists Dec 31, 2026; open until filled",
+  "e": "One-year renewable postdoc with Hari Padma doing time-resolved optical spectroscopy and x-ray scattering of quantum materials, starting by March 2027. Applicants need a doctorate in physics, materials science, chemistry or a related field with ultrafast/nonlinear optics experience and must be eligible to work in the US.",
+  "f": "Case Western Reserve University, Department of Physics",
   "fields": [
-   "ppt",
-   "qp"
+   "cmx",
+   "phot"
   ],
-  "id": "cunef-juan-de-la-cierva-eoi-math-theoretical-physics",
-  "n": "CUNEF Universidad: Juan de la Cierva 2026 Fellowship EOI (Mathematical & Theoretical Physics)",
+  "id": "cwru-postdoc-ultrafast-quantum-materials-padma",
+  "n": "Case Western Reserve University: Postdoc in experimental quantum materials / ultrafast spectroscopy (Padma group)",
+  "nfit": "Low",
   "nom": false,
-  "pt": "prize",
+  "pt": "group",
+  "region": "US",
   "s": "open",
-  "src": "inspire:3209476",
+  "src": "ajo:31834",
   "stages": [
    "pd"
   ],
-  "u": "https://inspirehep.net/jobs/3209476",
+  "u": "https://academicjobsonline.org/ajo/jobs/31834",
+  "unv": "Apply via Interfolio (https://apply.interfolio.com/182931).",
   "us": false
  },
  {
@@ -4164,9 +4167,9 @@
   "a": "USD 75K-150K for 12 months (paid in local currency), plus compute and API credits",
   "added": "2026-10-17",
   "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Apply by Oct 31, 2026 (foundation site; the AJO form lists Nov 7); first cohort starts Jan 2027, three cohorts a year",
+  "checked": "2026-11-01",
+  "d": null,
+  "dt": "Last deadline Oct 31, 2026 (inaugural cohort starting Jan 2027); three cohorts a year (Jan, May, Sep) are planned but the next call is not posted yet",
   "e": "Twelve-month, remote, full-time fellowship that funds physicists to do their own research project using AI and to document their AI workflow openly. Open to senior postdocs, research scientists, junior faculty, independent researchers and strong late-stage PhD students; no citizenship limits stated.",
   "f": "FirstPrinciples Foundation",
   "fields": [
@@ -4181,13 +4184,13 @@
   "nom": false,
   "pt": "prize",
   "region": "Canada",
-  "s": "open",
+  "s": "watch",
   "src": "ajo:33114",
   "stages": [
    "pd"
   ],
   "u": "https://www.firstprinciplesfoundation.org/programs",
-  "unv": "The AJO deadline field says Nov 7, 2026, but the foundation's program page and the ad text say Oct 31, 2026. No time of day is stated.",
+  "unv": "The AJO 33114 deadline field still says Nov 7, 2026, but AJO is not taking applications itself and points to the foundation, whose program page says Oct 31, 2026.",
   "us": false
  },
  {
@@ -5846,33 +5849,6 @@
   "us": true
  },
  {
-  "a": "2 years; travel funding; salary not stated",
-  "added": "2026-10-20",
-  "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Oct 31, 2026; start early 2027",
-  "e": "Two-year postdoc on device-independent approaches to quantum computing primitives (QuantERA project ToDiQT), for PhDs in physics, mathematics or computer science with a quantum information theory background. No citizenship restriction stated.",
-  "f": "Institut de Physique Théorique (IPhT), CEA Saclay, Quantum Information Theory group (Jean-Daniel Bancal)",
-  "fields": [
-   "qp"
-  ],
-  "id": "ipht-saclay-device-independent-quantum-computing-postdoc",
-  "n": "IPhT CEA Saclay: Postdoc in device-independent quantum computing",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "other:quantiki-ipht-bancal-diqc",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://quantiki.org/position/postdoc-position-device-independent-quantum-computing-cea-saclay-paris-france",
-  "unv": "No separate host-site ad found; the Quantiki post is by the PI.",
-  "us": false
- },
- {
   "a": "No cost to students; travel bursaries available; 30 places",
   "added": "2026-10-21",
   "c": "Summer program",
@@ -6033,31 +6009,6 @@
   "us": false
  },
  {
-  "a": "not listed; start date negotiable",
-  "added": "2026-09-30",
-  "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Oct 31, 2026 (INSPIRE deadline); review began Jun 15, 2026 and continues until filled",
-  "e": "Electron electric dipole moment measurement. Requires a PhD with relevant technical experience.",
-  "f": "JILA / CU Boulder; PI Eric Cornell",
-  "fields": [
-   "amo",
-   "ppx"
-  ],
-  "id": "jila-electron-edm-experiment-postdoc",
-  "n": "JILA: Electron EDM experiment postdoc",
-  "nom": false,
-  "pt": "group",
-  "s": "open",
-  "src": "inspire:3158069",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://inspirehep.net/jobs/3158069",
-  "us": false
- },
- {
   "a": "Up to 50,000,000 KRW/year gross; 1 year, renewable annually",
   "added": "2026-10-02",
   "c": "Group postdoc",
@@ -6189,36 +6140,6 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/31641",
-  "us": false
- },
- {
-  "a": "Salary per KIAS rules plus individual research grant; 2 years, renewable once for up to 2 years",
-  "added": "2026-10-02",
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Deadline 31 Oct 2026",
-  "e": "Postdoc-level research fellowships at KIAS in areas including quantum algorithms for many-body theory, quantum computation and information, computational condensed matter, and biophysics. Needs a PhD by the start date; no citizenship limits stated.",
-  "f": "Korea Institute for Advanced Study",
-  "fields": [
-   "qp",
-   "cmt",
-   "bio",
-   "ds"
-  ],
-  "id": "kias-computational-sciences-research-fellow",
-  "n": "KIAS: Research Fellow Positions, School of Computational Sciences",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "other:quantiki-kias-compsci",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://jobs.kias.re.kr/ext/rec/rec_1001.do?ANNC_NO=REC202608260001",
-  "unv": "Labeled as prize/independent because KIAS fellows get individual research grants; the ad does not say outright that the research is independent. The Oct 31, 2026 deadline was reconfirmed on the KIAS job list (posting period 2026-09-16 to 2026-10-31) on Oct 26, 2026; salary and term were not rechecked because the posting text sits behind a consent notice.",
   "us": false
  },
  {
@@ -7512,31 +7433,6 @@
   ],
   "u": "https://www.moore.org/initiative-additional-info?initiativeId=emergent-phenomena-in-quantum-systems",
   "unv": "The 2026 synthesis call page on epiqs.smapply.io was removed (404); the plan for open calls in 2029 and 2032 is stated on the EPiQS 2026 Experimental Investigators call page.",
-  "us": false
- },
- {
-  "a": "TVöD Bund; 2 years",
-  "added": "2026-09-30",
-  "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Oct 31, 2026",
-  "e": "Development of quantum sensors and qubit technology (listed at postdoc level). Requires a PhD in physics or engineering with a quantum sensing background.",
-  "f": "Max Planck Semiconductor Laboratory (HLL), Munich; contact Jelena Ninkovic",
-  "fields": [
-   "qp",
-   "inst"
-  ],
-  "id": "mpg-semiconductor-lab-quantum-sensors-qubit-technology-s",
-  "n": "MPG Semiconductor Lab: Quantum sensors & qubit technology scientist",
-  "nom": false,
-  "pt": "group",
-  "s": "open",
-  "src": "inspire:3208119",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://inspirehep.net/jobs/3208119",
   "us": false
  },
  {
@@ -10650,9 +10546,9 @@
   "a": "not listed",
   "added": "2026-09-30",
   "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Oct 31, 2026",
+  "checked": "2026-11-01",
+  "d": "2027-01-07",
+  "dt": "Jan 7, 2027 (INSPIRE deadline); apply by email to Prof. Liang Jie Wong",
   "e": "Computational and theoretical modeling of X-ray nanophotonics driven by free electrons. Requires a PhD in physics or engineering with electrodynamics and programming skills.",
   "f": "Nanyang Technological University; group of Liang Jie Wong",
   "fields": [
@@ -10668,15 +10564,16 @@
    "pd"
   ],
   "u": "https://sites.google.com/view/ljwgroup",
+  "unv": "New date is the INSPIRE deadline field; the ad text and group site give no date.",
   "us": false
  },
  {
   "a": "not listed",
   "added": "2026-09-30",
   "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Oct 31, 2026",
+  "checked": "2026-11-01",
+  "d": "2027-01-07",
+  "dt": "Jan 7, 2027 (INSPIRE deadline); apply by email to Prof. Liang Jie Wong",
   "e": "Experimental free-electron X-ray nanophotonics and phase-contrast imaging. Requires a PhD in physics or engineering; SEM/TEM familiarity preferred.",
   "f": "Nanyang Technological University; group of Liang Jie Wong",
   "fields": [
@@ -10693,15 +10590,16 @@
    "pd"
   ],
   "u": "https://sites.google.com/view/ljwgroup",
+  "unv": "New date is the INSPIRE deadline field; the ad text and group site give no date.",
   "us": false
  },
  {
   "a": "not listed",
   "added": "2026-09-30",
   "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Oct 31, 2026",
+  "checked": "2026-11-01",
+  "d": "2027-01-07",
+  "dt": "Jan 7, 2027 (INSPIRE deadline); apply by email to Prof. Liang Jie Wong",
   "e": "Theory and computation of EUV nanophotonics and nanoscale radiation. Requires a PhD in physics or engineering.",
   "f": "Nanyang Technological University; PI Liang Jie Wong",
   "fields": [
@@ -10717,6 +10615,7 @@
    "pd"
   ],
   "u": "https://sites.google.com/view/ljwgroup",
+  "unv": "New date is the INSPIRE deadline field; the ad text and group site give no date.",
   "us": false
  },
  {
@@ -11521,32 +11420,6 @@
   ],
   "u": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar---Quantum-Networking_R160444-1",
   "unv": "Close date taken from Workday posting metadata, not from the ad text; no citizenship statement seen.",
-  "us": false
- },
- {
-  "added": "2026-10-22",
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Workday posting end date Oct 31, 2026; the ad itself states no deadline",
-  "e": "A named postdoctoral fellowship hosted by OSU's CQISE, mentored by CQISE-affiliated faculty, in quantum computing, algorithms, simulation, networks or sensing (theory or experiment). Requires a PhD in physics, EE, CS, chemistry or a related field and QIS research experience.",
-  "f": "The Ohio State University, Department of Physics / Center for Quantum Information Science and Engineering (CQISE)",
-  "fields": [
-   "qp"
-  ],
-  "id": "osu-farinacci-qise-postdoctoral-fellowship",
-  "n": "Ohio State: Farinacci Family Postdoctoral Fellowship in Quantum Information Science and Engineering",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "other:osu-R151630",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar_R151630-2",
-  "unv": "The Oct 31, 2026 close date comes from Workday posting metadata, not the ad text; salary, term and start date not stated.",
   "us": false
  },
  {
@@ -14029,60 +13902,6 @@
   "us": false
  },
  {
-  "a": "5 years",
-  "added": "2026-09-30",
-  "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Deadline Oct 31, 2026 on the TU Berlin posting (ref. IV-359/26); apply by email, not through AJO.",
-  "e": "First-principles and ML design of spin defects for quantum sensing (coherence, optical readout, charge stability). Needs expertise in >=2 of defect spin physics, ML for materials, multiscale simulation, excited-state chemistry.",
-  "f": "Technische Universitat Berlin, Semiconductor Components and Microelectronic Systems (SAM)",
-  "fields": [
-   "cmt",
-   "qp",
-   "ds",
-   "mat"
-  ],
-  "id": "tu-berlin-postdoc-computational-design-of-quantum-sensin",
-  "n": "TU Berlin: Postdoc, Computational Design of Quantum Sensing Materials",
-  "nom": false,
-  "pt": "group",
-  "s": "open",
-  "src": "ajo:32712",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32712",
-  "us": false
- },
- {
-  "a": "not listed",
-  "added": "2026-10-02",
-  "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Deadline 31 Oct 2026",
-  "e": "Senior postdoc running mK experiments on superconducting/magnetic and quantum devices, writing grant proposals, and teaching. Needs a relevant PhD (postdoc experience preferred) and dilution-refrigerator experience; no citizenship limits stated.",
-  "f": "TU Braunschweig (CryoQuant group)",
-  "fields": [
-   "cmx",
-   "qp"
-  ],
-  "id": "tu-braunschweig-cryoquant-senior-postdoc",
-  "n": "TU Braunschweig: Senior Scientist (Senior Postdoc), Cryogenic and Quantum Electronics",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "other:quantiki-tubs-cryoquant",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.tu-braunschweig.de/emg/cryoquant/open-positions-and-internships",
-  "us": false
- },
- {
   "a": "TV-L salary scale",
   "added": "2026-09-30",
   "c": "Group postdoc",
@@ -14182,34 +14001,6 @@
   ],
   "u": "https://midas.infoready4.com/",
   "unv": "On Oct 12, 21 and 26, 2026 the MIDAS site returned 403 (bot check) and the InfoReady portal needs JavaScript; third-party listings give Nov 23, 2026 for the 2027 cycle but it was not confirmed on an official page.",
-  "us": false
- },
- {
-  "a": "CAD 85,000 per year plus benefits; funding for a 2-year project",
-  "added": "2026-10-12",
-  "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Oct 31, 2026; start as soon as possible",
-  "e": "Postdoc developing algorithms for open quantum systems, quantum simulations of many-body systems on classical and quantum devices, and resource and thermodynamic costs of quantum information processing. PhD in quantum physics, theoretical chemistry, applied math or a related field within the last five years; apply by email with CV, one-page research proposal and two referees. No citizenship limit stated.",
-  "f": "University of Toronto, Department of Chemistry or Department of Physics; PI Dvira Segal",
-  "fields": [
-   "qp",
-   "cmt"
-  ],
-  "id": "u-toronto-segal-postdoc-quantum-algorithms-open-systems",
-  "n": "U. Toronto: Postdoc in quantum algorithms and simulations (Segal group)",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "Canada",
-  "s": "open",
-  "src": "other:quantiki-utoronto-segal-qalgo",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://quantiki.org/position/postdoctoral-position-quantum-algorithms-and-simulations",
-  "unv": "The deadline comes from the Quantiki listing; no separate University of Toronto ad was found.",
   "us": false
  },
  {
@@ -14327,6 +14118,33 @@
   "us": false
  },
  {
+  "a": "not listed",
+  "added": "2026-11-01",
+  "c": "Group postdoc",
+  "checked": "2026-11-01",
+  "d": "2026-12-16",
+  "dt": "Full consideration by Dec 16, 2026; open until filled",
+  "e": "Two-year postdoc in theoretical condensed matter with Tessa Cookmeyer, studying many-body phenomena in quantum materials, quantum magnets and quantum simulators, starting fall 2027. Applicants need a PhD in theoretical condensed matter, theoretical AMO or a similar field by the start date.",
+  "f": "University of California, Davis, Department of Physics & Astronomy",
+  "fields": [
+   "cmt",
+   "amo"
+  ],
+  "id": "uc-davis-postdoc-cmt-cookmeyer",
+  "n": "UC Davis: Postdoc in theoretical condensed matter (Cookmeyer group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:31394",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/31394",
+  "us": false
+ },
+ {
   "a": "$80,000/yr stipend plus benefits, travel support and relocation",
   "added": "2026-10-07",
   "c": "Fellowship",
@@ -14433,30 +14251,6 @@
   ],
   "u": "https://ucf.wd1.myworkdayjobs.com/careers/job/Orlando-FL-Main-Campus/Postdoctoral-Scholar-in-Experimental-Optics_R114369",
   "unv": "Salary and deadline not stated; citizenship restriction is 'may be'.",
-  "us": false
- },
- {
-  "a": "not listed",
-  "added": "2026-09-30",
-  "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "2026/10/31 23:59:59 (time zone not stated on page)",
-  "e": "Attosecond and strong-field electron/ion dynamics after photoabsorption; hands-on ultrafast lasers and ion/electron spectrometers.",
-  "f": "University of Central Florida, Physics, Ultrafast Atomic, Molecular & Plasma group (Prof. Fang)",
-  "fields": [
-   "amo"
-  ],
-  "id": "ucf-postdoc-in-ultrafast-amo-attosecond-science",
-  "n": "UCF: Postdoc in Ultrafast AMO / Attosecond Science",
-  "nom": false,
-  "pt": "group",
-  "s": "open",
-  "src": "ajo:31878",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/31878",
   "us": false
  },
  {
@@ -14623,35 +14417,6 @@
   ],
   "u": "https://physics.uchicago.edu/academics/postdoctoral-fellowships/quantum-fellows/",
   "unv": "Salary amount not stated; travel funding not mentioned on the current page.",
-  "us": false
- },
- {
-  "a": "$90,000/yr plus $2,000 travel and benefits; 3 years",
-  "added": "2026-09-30",
-  "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Nominations due Oct 31, 2026 (extended from Oct 24; self-nominations not allowed); invited full applications due Dec 15, 2026",
-  "e": "Nomination-based fellowship in physics, astronomy, chemistry and biochemistry, with research in a participating UCLA faculty member's lab. Candidates need a PhD conferred between Sept 2024 and Aug 2027 and must be a US citizen, permanent resident or J-1 visa eligible.",
-  "f": "UCLA Division of Physical Sciences",
-  "fields": [
-   "astro",
-   "ppt",
-   "cmt"
-  ],
-  "id": "ucla-bhaumik-prize-postdoctoral-fellows",
-  "n": "UCLA: Bhaumik Prize Postdoctoral Fellows",
-  "nfit": "Medium",
-  "nom": true,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "inspire:3204681",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://physicalsciences.ucla.edu/bhaumik-prize-postdoctoral-fellows-program/",
-  "unv": "The page header says \"Deadline Extended to 10/31/26\" and the nomination instructions give Oct 31, 2026; the overview text still says Oct 24, 2026.",
   "us": false
  },
  {
@@ -15238,9 +15003,9 @@
   "a": "$84,000/yr salary plus $10,000/yr research fund and $2,000 relocation",
   "added": "2026-10-07",
   "c": "Fellowship",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Applications accepted on an ongoing basis and reviewed each quarter; review begins Oct 31, 2026",
+  "checked": "2026-11-01",
+  "d": null,
+  "dt": "Nominations considered as they arrive; applications accepted on an ongoing basis and reviewed once each quarter (first review Oct 31, 2026)",
   "e": "Three-year fellowships (Dehmelt: any area of physics; Thouless: quantum matter and information); the process starts with a nomination by a PI in the candidate's field, and nominees may have at most 24 months of prior postdoc experience and no prior UW Seattle position. Non-US citizens must show English proficiency.",
   "f": "University of Washington, Department of Physics / Thouless Institute for Quantum Matter",
   "fields": [
@@ -15254,12 +15019,13 @@
   "nom": true,
   "pt": "prize",
   "region": "US",
-  "s": "open",
+  "s": "rolling",
   "src": "other:uw-dehmelt-thouless",
   "stages": [
    "pd"
   ],
   "u": "https://apply.interfolio.com/194644",
+  "unv": "The Interfolio page (194644) is JavaScript-only, so its status could not be read; the status comes from the UW Physics program page.",
   "us": false
  },
  {
@@ -15830,33 +15596,6 @@
   ],
   "u": "https://ventures.yale.edu/student-opportunities/rothberg-build-fund",
   "unv": "Whether postdocs are eligible is not stated. The page still describes the 2025-2026 academic year (Nov 5, Feb 5, May 5), so the Nov 5, 2026 date is not confirmed for 2026-27.",
-  "us": false
- },
- {
-  "a": "Program-specific researcher (possibly Research Assistant Professor title); renewable 1-year terms to Mar 31, 2030; salary per Kyoto University rules",
-  "added": "2026-10-07",
-  "c": "Group postdoc",
-  "checked": "2026-10-26",
-  "d": "2026-10-31",
-  "dt": "Materials must arrive by 9:00 a.m. JST, Oct 31, 2026",
-  "e": "Postdoc on quantum-enhanced feature design and algorithms using topological data analysis and quantum computational complexity, with stays in the Netherlands. PhD required by appointment; overseas applicants welcome; apply by e-mail.",
-  "f": "Yukawa Institute for Theoretical Physics, Kyoto University (Ryu Hayakawa)",
-  "fields": [
-   "qp",
-   "ds"
-  ],
-  "id": "yitp-kyoto-postdoc-quantum-ml-hayakawa",
-  "n": "Yukawa Institute (Kyoto University): Postdoc in quantum computing and quantum machine learning (JST ASPIRE)",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "other:quantiki-yitp-hayakawa-qml",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.kyoto-u.ac.jp/sites/default/files/acceptance_teacher/2026-07/yukawa_JST%20ASPIRE%20PD%20202607E-b9bacb543ee55b27963e4f4c2a411483.pdf",
   "us": false
  },
  {
