@@ -7,8 +7,8 @@
  ],
  "c": "Prize",
  "checked": "2026-10-07",
- "d": "2026-11-01",
- "dt": "Nominations due Nov 1, 2026",
+ "d": null,
+ "dt": "Last deadline Nov 1, 2026; the next cycle is not posted yet",
  "e": "APS Division of Astrophysics award for an outstanding astrophysics PhD thesis defended in the two calendar years before the award year. The thesis advisor nominates; the nominee and nominator must be DAP members.",
  "f": "APS Division of Astrophysics",
  "fields": [
@@ -20,13 +20,13 @@
  "nom": false,
  "pt": "other",
  "region": "US",
- "s": "open",
+ "s": "watch",
  "src": "other:aps-dap-dissertation",
  "stages": [
   "gr",
   "pd"
  ],
  "u": "https://www.aps.org/funding-recognition/award/dissertation-in-astrophysics",
- "unv": "aps.org returned HTTP 403 to automated access on Oct 12, Oct 21 and Oct 26, 2026, and search results show no 2027 date, so the Nov 1, 2026 deadline was not rechecked.",
+ "unv": "aps.org returned HTTP 403 to automated access on Oct 12, Oct 21, Oct 26 and Nov 2, 2026. Search results confirm the Nov 1, 2026 deadline; no 2027-cycle date is posted.",
  "us": false
 }

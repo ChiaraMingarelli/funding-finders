@@ -1,5 +1,5 @@
 {
- "a": "Per ANRF norms; 11 months, extendable by 6 months",
+ "a": "₹58,000/month + 27% HRA (ANRF norms); 11 months, extendable by 6 months",
  "added": "2026-10-27",
  "asub": [
   "cos"
@@ -10,9 +10,9 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-27",
+ "checked": "2026-11-02",
  "d": "2026-11-13",
- "dt": "Nov 13, 2026; apply by email",
+ "dt": "Nov 13, 2026; apply by email; expected joining Nov 30, 2026",
  "e": "One Research Associate-I post on dark matter phenomenology, astroparticle physics and cosmology in an ANRF-funded project on probing beyond-Standard-Model physics. Open to PhD holders and those who have submitted their thesis.",
  "f": "Indian Institute of Technology Hyderabad, Department of Physics (Divya Sachdeva); ANRF project",
  "fields": [
@@ -30,7 +30,7 @@
  "stages": [
   "pd"
  ],
- "u": "https://inspirehep.net/jobs/3218543",
- "unv": "Did not open the official advertisement on physics.iith.ac.in; nationality rules not stated.",
+ "u": "https://physics.iith.ac.in/assets/Announcements/Advertisement_RA-I_ANRF_PMECRG_IITH.pdf",
+ "unv": "Nationality rules are not stated in the official advertisement.",
  "us": false
 }

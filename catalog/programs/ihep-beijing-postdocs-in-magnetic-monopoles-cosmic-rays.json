@@ -1,13 +1,16 @@
 {
  "a": "competitive; not specified",
  "added": "2026-09-30",
+ "asub": [
+  "he"
+ ],
  "aud": [
   "yale",
   "ng",
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-26",
+ "checked": "2026-11-02",
  "d": null,
  "dt": "Rolling review with no fixed deadline; INSPIRE listing runs to Apr 30, 2027.",
  "e": "Magnetic monopoles, cosmic rays and exotics. Requires a PhD and Geant4/CORSIKA and Python/ROOT skills.",

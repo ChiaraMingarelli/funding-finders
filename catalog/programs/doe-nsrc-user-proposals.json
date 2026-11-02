@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Instrumentation",
- "checked": "2026-10-31",
+ "checked": "2026-11-02",
  "d": "2027-01-31",
  "dt": "CFN due Jan 31, May 31 and Sept 30. CNM next due Mar 5, 2027, 11:59 PM CT. Molecular Foundry and CINT run fall/spring calls; CNMS runs a spring call.",
  "e": "Peer-reviewed access to nanofabrication, microscopy, nanophotonics and quantum-materials tools at the five DOE nanocenters. Researchers from universities, labs and industry may apply, including students and postdocs, and foreign nationals are allowed with advance planning.",
@@ -31,6 +31,6 @@
   "gr"
  ],
  "u": "https://nsrc.energy.gov/",
- "unv": "CNM dates confirmed on cnm.anl.gov Oct 26, 2026. CFN dates confirmed on bnl.gov Oct 12, 2026 (bnl.gov did not respond on Oct 26, 2026); nsrc.energy.gov lists no dates.",
+ "unv": "nsrc.energy.gov lists no dates. CNM dates confirmed on cnm.anl.gov Oct 26, 2026. CFN dates confirmed on bnl.gov Oct 12, 2026 (bnl.gov returned HTTP 503 on Nov 2, 2026).",
  "us": false
 }

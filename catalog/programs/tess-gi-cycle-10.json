@@ -9,7 +9,7 @@
   "ast"
  ],
  "c": "Observing time",
- "checked": "2026-10-21",
+ "checked": "2026-11-02",
  "d": "2027-01-28",
  "dt": "Phase-1 proposals due Jan 28, 2027 via ARK/RPS (ROSES-25 Amendment 80, posted Oct 20, 2026); Cycle 10 starts with Sector 122",
  "e": "NASA's call to put targets on TESS and fund related science. Open to all; NASA funding goes only to US investigators.",
@@ -30,6 +30,6 @@
   "pd"
  ],
  "u": "https://heasarc.gsfc.nasa.gov/docs/tess/proposing.html",
- "unv": "Time of day for the deadline not checked on NSPIRES; NASA's ROSES-25 Amendment 80 notice confirms the Jan 28, 2027 Phase-1 due date. heasarc.gsfc.nasa.gov could not be reached on Oct 26, 2026 (TLS certificate error, then HTTP 503), so the page was not rechecked.",
+ "unv": "The TESS proposing page (reached Nov 2, 2026) says only that proposals are due once a year and points to NSPIRES; the Jan 28, 2027 Phase-1 date comes from NASA's ROSES-25 Amendment 80 notice, and the time of day was not checked on NSPIRES.",
  "us": false
 }

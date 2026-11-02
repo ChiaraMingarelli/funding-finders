@@ -5,7 +5,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-26",
+ "checked": "2026-11-02",
  "d": "2027-01-15",
  "dt": "Annual deadline Jan 15",
  "e": "Summer support (June-September) for graduate students working in electrochemistry and solid-state science fields covered by ECS. Applicants must be ECS members.",
@@ -23,5 +23,6 @@
   "gr"
  ],
  "u": "https://www.electrochem.org/summer-fellowships",
+ "unv": "The page gives an annual Jan 15 deadline without naming the year; the 2027 date is taken from that annual deadline.",
  "us": false
 }

@@ -9,7 +9,7 @@
   "ast"
  ],
  "c": "Observing time",
- "checked": "2026-10-21",
+ "checked": "2026-11-02",
  "d": null,
  "dt": "Cycle 4 not posted; Cycle 3 closed 27 Feb 2026 (Type-1 at 4:30 pm EST). A separate first XRISM Key Program call is due 3 Dec 2026, 6:59 pm EST",
  "e": "Call for observations with the XRISM X-ray spectroscopy mission. US and Canadian PIs apply through NASA, ESA-member PIs through ESA, and others through JAXA.",
@@ -30,6 +30,6 @@
   "pd"
  ],
  "u": "https://heasarc.gsfc.nasa.gov/docs/xrism/proposals/",
- "unv": "Cycle 4 dates not posted (a web search on Oct 26, 2026 found no Cycle 4 call). heasarc.gsfc.nasa.gov could not be reached on Oct 26, 2026 (TLS certificate error, then HTTP 503).",
+ "unv": "Cycle 4 dates not posted: on Nov 2, 2026 the HEASARC XRISM proposals page still listed Cycle 3 (closed Feb 27, 2026) and the Key Program call (due Dec 3, 2026).",
  "us": false
 }

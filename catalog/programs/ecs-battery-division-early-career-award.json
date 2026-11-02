@@ -5,10 +5,10 @@
   "ap"
  ],
  "c": "Prize",
- "checked": "2026-10-26",
+ "checked": "2026-11-02",
  "d": "2027-01-15",
  "dt": "Nomination period Oct 15 - Jan 15, annually; this cycle closes Jan 15, 2027",
- "e": "Recognizes early-career researchers in battery and fuel-cell science and technology who received their final degree or started work in the field no more than 10 years before the nomination deadline. The recipient writes a featured review article in the Journal of The Electrochemical Society.",
+ "e": "Recognizes early-career researchers in battery and fuel-cell science and technology who received their final degree or started work in the field no more than 10 years before the nomination deadline. Nominees must be ECS and Battery Division members; the recipient writes a featured review article in the Journal of The Electrochemical Society.",
  "f": "The Electrochemical Society, Battery Division",
  "fields": [
   "energy",
@@ -25,6 +25,6 @@
   "pd"
  ],
  "u": "https://www.electrochem.org/battery-division-early-career-award",
- "unv": "The page gives the annual Oct 15 - Jan 15 window; the 2027 closing date is taken from that annual window. Membership requirements were not confirmed.",
+ "unv": "The page gives the annual Oct 15 - Jan 15 window; the 2027 closing date is taken from that annual window.",
  "us": false
 }

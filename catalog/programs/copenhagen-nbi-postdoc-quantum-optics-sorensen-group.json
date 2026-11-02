@@ -25,6 +25,6 @@
   "pd"
  ],
  "u": "https://employment.ku.dk/all-vacancies/?show=170074",
- "unv": "employment.ku.dk could not be reached on Oct 26, 2026 (connection reset); deadline not rechecked.",
+ "unv": "employment.ku.dk and nbi.ku.dk returned HTTP 503 on Nov 2, 2026; deadline not rechecked on the official page (copies on job aggregators still give Nov 9, 2026, 23:59 CET).",
  "us": false
 }

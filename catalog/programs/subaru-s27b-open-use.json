@@ -6,7 +6,7 @@
   "ast"
  ],
  "c": "Observing time",
- "checked": "2026-10-26",
+ "checked": "2026-11-02",
  "d": null,
  "dt": "S27B not posted (normal deadline usually early to mid March, JST); S27A service closed 1 Oct 2026, noon JST",
  "e": "Subaru's twice-yearly open-use call. Open to international PIs; US astronomers can also get Subaru time through NOIRLab.",
@@ -27,6 +27,6 @@
   "pd"
  ],
  "u": "https://www.naoj.org/Observing/Proposals/call.html",
- "unv": "S27B dates; foreign-PI limits not checked in detail",
+ "unv": "S27B dates not posted; the call page still shows S27A (its Normal-program deadline is printed as 'September 1 (Tue), 2027', apparently meaning 2026). Under the open-use policy, proposals from non-Japanese PIs at non-Japanese institutions get at most 5% of total nights (10% for Princeton and Taiwan).",
  "us": false
 }

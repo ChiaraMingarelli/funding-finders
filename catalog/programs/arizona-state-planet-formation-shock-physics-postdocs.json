@@ -12,8 +12,8 @@
  ],
  "c": "Group postdoc",
  "checked": "2026-10-12",
- "d": "2026-11-01",
- "dt": "Nov 1, 2026",
+ "d": null,
+ "dt": "Nov 1, 2026 deadline has passed; applications are still accepted on a rolling basis for a reserve pool",
  "e": "High-pressure physics, planetary impacts and planet formation. Requires a relevant doctorate.",
  "f": "Arizona State University, SESE; PI Sarah Stewart",
  "fields": [
@@ -26,12 +26,12 @@
  "nom": false,
  "pt": "group",
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "aas:542dc57e",
  "stages": [
   "pd"
  ],
  "u": "https://apply.interfolio.com/193463",
- "unv": "Not re-verified on 2026-10-26: the Interfolio page needs JavaScript and the AAS Job Register blocks automated access (403).",
+ "unv": "Not re-verified directly on Nov 2, 2026: the Interfolio page needs JavaScript and the AAS Job Register blocks automated access (403). The rolling reserve-pool wording is from the AAS ad as shown in search results.",
  "us": false
 }

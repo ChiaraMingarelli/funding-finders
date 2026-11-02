@@ -5,10 +5,10 @@
   "ap"
  ],
  "c": "Scholarship",
- "checked": "2026-10-26",
- "d": null,
- "dt": "Annual; next window not posted",
- "e": "Twenty women students in optics and photonics are chosen each year for a merit- and need-based grant. Open internationally.",
+ "checked": "2026-11-02",
+ "d": "2026-12-06",
+ "dt": "Application window Oct 30 to Dec 6, 2026",
+ "e": "Twenty women students in optics and photonics are chosen each year for a merit- and need-based grant. Open internationally to undergraduates (optics, physics, chemistry, math or engineering majors with an interest in optics) and master's students in optics or photonics who self-identify as women.",
  "f": "Optica Foundation",
  "fields": [
   "phot"
@@ -16,13 +16,13 @@
  "id": "optica-women-scholars",
  "n": "Optica Foundation: Optica Women Scholars",
  "nom": false,
- "s": "watch",
+ "s": "open",
  "src": "other:optica-foundation",
  "stages": [
   "gr",
   "ug"
  ],
  "u": "https://www.optica.org/foundation/opportunities/scholarships/optica_women_scholars/",
- "unv": "Eligible study levels and the 2027 application dates are not shown on the page.",
+ "unv": "The time of day for the Dec 6, 2026 deadline is not stated; the page does not mention PhD students.",
  "us": false
 }

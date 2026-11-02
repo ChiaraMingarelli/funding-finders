@@ -1,24 +1,32 @@
 {
- "a": "not listed; 2 years, renewable",
+ "a": "Salary not stated; 2-year appointment, renewable for 1-2 more years",
  "added": "2026-09-30",
+ "aud": [
+  "yale",
+  "ng"
+ ],
  "c": "Group postdoc",
- "checked": "2026-10-26",
- "d": "2026-12-31",
- "dt": "Dec 31, 2026; applications received before Oct 31 get priority",
- "e": "JUNO atmospheric neutrino physics and mass ordering. Requires a PhD in physics.",
- "f": "Institute of High Energy Physics, Beijing; contact Alejandro Reina Conde",
+ "checked": "2026-11-02",
+ "d": "2027-02-28",
+ "dt": "Applications received before Dec 15, 2026 get priority; INSPIRE listing deadline Feb 28, 2027",
+ "e": "One postdoc at IHEP Beijing working on atmospheric neutrinos at JUNO: flux predictions, neutrino interactions in the detector, backgrounds for low-energy analyses and mass-ordering sensitivity. Requires a PhD (completed or near completion) in particle, astroparticle or nuclear physics with C++/ROOT and Monte Carlo or data-analysis experience; international candidates are welcome. Apply by email with CV, research statement and three letters.",
+ "f": "Institute of High Energy Physics (Chinese Academy of Sciences), Experimental Physics Division neutrino group; contact Alejandro Reina Conde",
  "fields": [
+  "nux",
   "ppx"
  ],
  "id": "ihep-beijing-juno-atmospheric-neutrino-postdoc",
- "n": "IHEP Beijing: JUNO atmospheric neutrino postdoc",
+ "n": "IHEP Beijing: Postdoc in atmospheric neutrinos and mass ordering at JUNO",
+ "nfit": "Low",
  "nom": false,
  "pt": "group",
+ "region": "International",
  "s": "open",
- "src": "inspire:3206963",
+ "src": "inspire:3219285",
  "stages": [
   "pd"
  ],
- "u": "https://inspirehep.net/jobs/3206963",
+ "u": "https://inspirehep.net/jobs/3219285",
+ "unv": "Reposted on INSPIRE as 3219285 after listing 3206963 was closed early. Salary not stated in the posting. No separate host ad was found (applications go by email to the contact); the Feb 28, 2027 date is the INSPIRE listing deadline.",
  "us": false
 }

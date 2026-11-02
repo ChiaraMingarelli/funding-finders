@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-10-26",
- "d": "2026-11-01",
- "dt": "Review begins Nov 1, 2026; later applications accepted",
+ "checked": "2026-11-02",
+ "d": null,
+ "dt": "Review began Nov 1, 2026; later applications accepted (apply by Nov 1 for full consideration)",
  "e": "Open to all subfields of physics; AI and the physics of learning are encouraged. Start Aug 25, 2027.",
  "f": "Dept. of Physics, University of Michigan",
  "fields": [
@@ -24,5 +24,6 @@
   "fj"
  ],
  "u": "https://apply.interfolio.com/188444",
+ "unv": "INSPIRE closed its listing at its Nov 1, 2026 deadline field; the ad text there says later applications are accepted. The Interfolio page needs JavaScript, so it was not confirmed directly that it is still accepting.",
  "us": false
 }

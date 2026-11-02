@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-26",
- "d": "2026-11-01",
- "dt": "Full consideration by Nov 1, 2026; review continues on a rolling basis after that.",
+ "checked": "2026-11-02",
+ "d": null,
+ "dt": "Applications through AJO (Experimental #32652, Theoretical #32650) encouraged by Nov 1, 2026; reviewed from Nov 1, 2026 and on a rolling basis after that.",
  "e": "PhD by start, less than 7 years past PhD. Experimental and/or theoretical quantum science.",
  "f": "University of Chicago Department of Physics",
  "fields": [
@@ -21,7 +21,7 @@
  "n": "UChicago Quantum Fellows (Physics / CQE)",
  "nom": false,
  "pt": "prize",
- "s": "open",
+ "s": "rolling",
  "stages": [
   "pd"
  ],

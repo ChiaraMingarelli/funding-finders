@@ -1,16 +1,16 @@
 {
- "a": "Not stated",
+ "a": "24 months, possibly extendable; €28,761.73 gross per year, plus a first-year mobility incentive of €4,242.05 for eligible candidates",
  "added": "2026-10-21",
  "aud": [
   "yale",
   "ng"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-26",
+ "checked": "2026-11-02",
  "d": "2026-11-19",
- "dt": "Nov 19, 2026 (INFN call no. 29234, per INSPIRE)",
- "e": "Postdoc developing, building and testing a demonstrator 4D tracker based on resistive LGAD silicon sensors and their readout electronics, including lab tests, test beams and performance analysis. Apply through the INFN recruitment portal; eligibility terms are set in the INFN call.",
- "f": "INFN (Istituto Nazionale di Fisica Nucleare)",
+ "dt": "Nov 19, 2026 (INFN call no. 29234, Torino)",
+ "e": "Postdoc at INFN Torino developing, building and testing a demonstrator 4D tracker based on resistive LGAD silicon sensors and their readout electronics, including lab tests, test beams and performance analysis. Open to Italian and foreign citizens with a PhD in physics or an equivalent foreign degree; apply through the INFN recruitment portal.",
+ "f": "INFN, Sezione di Torino",
  "fields": [
   "ppx",
   "inst"
@@ -26,7 +26,6 @@
  "stages": [
   "pd"
  ],
- "u": "https://reclutamento.dsi.infn.it/#!bandi/POSTDOC",
- "unv": "The INFN recruitment portal could not be reached (connection failed), so the call text, host section, salary, duration and eligibility were not verified; details are from the INSPIRE listing (contact Roberta Arcidiacono).",
+ "u": "https://jobs.dsi.infn.it/dettagli_job.php?id=4718",
  "us": false
 }

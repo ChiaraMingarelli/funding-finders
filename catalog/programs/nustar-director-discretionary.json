@@ -8,7 +8,7 @@
   "ast"
  ],
  "c": "Observing time",
- "checked": "2026-10-26",
+ "checked": "2026-11-02",
  "d": null,
  "dt": "Requests accepted at any time through the NuSTAR ToO/DDT web form; response times under 48 hours are reserved for GO programs",
  "e": "Web-form requests for NuSTAR observations of events that could not have been proposed in a General Observer cycle; approved by the NuSTAR PI or designee, and the data have no exclusive-use period. Requests involving PRC organizations or bilateral work with the PRC are not eligible.",

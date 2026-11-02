@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Summer program",
- "checked": "2026-10-21",
+ "checked": "2026-11-02",
  "d": "2027-02-01",
- "dt": "Applications open around Nov 1, 2026; due Feb 1, 2027 at all 14 host sites",
+ "dt": "Due Feb 1, 2027 at all 14 host sites; each host runs its own application",
  "e": "US citizens or permanent residents; sophomores, juniors and non-graduating seniors with a GPA of at least 3.2 who intend to pursue a PhD or MD-PhD. Yale is a host, and students may apply to other hosts. The program was renewed by the Amgen Foundation in Nov 2025.",
  "f": "Amgen Foundation",
  "fields": [
@@ -22,6 +22,6 @@
   "ug"
  ],
  "u": "https://amgenscholars.com/us-program/",
- "unv": "amgenscholars.com showed a JavaScript bot check on Oct 26, 2026, so the dates were not re-verified on the official page; secondary sources also give Nov 1, 2026 to Feb 1, 2027.",
+ "unv": "The date applications open (around Nov 1, 2026, per secondary sources) is not stated on the official page.",
  "us": true
 }

@@ -6,9 +6,9 @@
   "ng"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-26",
- "d": "2026-11-01",
- "dt": "Nov 1, 2026 for priority consideration; applications accepted until the position is filled (AJO #33056)",
+ "checked": "2026-11-02",
+ "d": null,
+ "dt": "Priority consideration for applications by Nov 1, 2026; applications are accepted until the position is filled (AJO #33056)",
  "e": "Theory postdoc on holography, quantum gravity and black holes, quantum information and strongly coupled quantum dynamics, quantum chaos and open quantum systems. PhD in theoretical physics required by the start; no citizenship restriction stated.",
  "f": "Sun Yat-sen University, School of Physics and Astronomy (Zhuo-Yu Xian)",
  "fields": [
@@ -21,7 +21,7 @@
  "nom": false,
  "pt": "group",
  "region": "International",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:33056",
  "stages": [
   "pd"

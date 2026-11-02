@@ -6,7 +6,7 @@
  ],
  "c": "Faculty job",
  "checked": "2026-10-21",
- "d": "2026-11-01",
+ "d": null,
  "dt": "Full consideration by Nov 1, 2026; accepted until filled",
  "e": "Tenure-track faculty position in theoretical quantum information science (algorithms, error correction, architectures, quantum simulation) in Illinois Physics. Open to PhD researchers at any rank; no citizenship limit stated.",
  "f": "University of Illinois Urbana-Champaign, Department of Physics",
@@ -18,12 +18,12 @@
  "nfit": "Low",
  "nom": false,
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "inspire:3210313",
  "stages": [
   "fj"
  ],
  "u": "https://illinois.csod.com/ux/ats/careersite/1/home/requisition/18058?c=illinois",
- "unv": "Salary not checked in the full announcement (go.physics.illinois.edu/QISTheory26). INSPIRE lists Dec 31, 2026 as its deadline field; the ad text gives Nov 1, 2026 for full consideration and accepts applications until filled. The Illinois job page needs JavaScript and could not be read on 2026-10-26.",
+ "unv": "The Illinois job page needs JavaScript and could not be read on Oct 26 or Nov 2, 2026; status taken from the INSPIRE copy of the ad (still open on Nov 2, 2026), which accepts applications until the position is filled. Salary not checked (go.physics.illinois.edu/QISTheory26).",
  "us": true
 }

@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-10-26",
- "d": "2026-11-01",
- "dt": "Full consideration for materials received by Nov 1, 2026; start August 2027",
+ "checked": "2026-11-02",
+ "d": null,
+ "dt": "Full consideration for materials received by Nov 1, 2026; the posting now shows applications open until filled; start August 2027",
  "e": "Tenure-track experimental physics position in optics or quantum optics, with teaching and an undergraduate and master's research program. CSUF states it will not sponsor H-1B applicants subject to the $100,000 fee; no other citizenship limit stated.",
  "f": "Dept. of Physics, California State University, Fullerton",
  "fields": [
@@ -20,7 +20,7 @@
  "nfit": "Low",
  "nom": false,
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "other:csuf-562328",
  "stages": [
   "fj"

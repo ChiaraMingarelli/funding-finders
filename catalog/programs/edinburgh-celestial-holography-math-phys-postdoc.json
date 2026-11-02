@@ -1,14 +1,14 @@
 {
- "a": "not listed; 24 months from Sep 1, 2027, with travel and research budget",
+ "a": "Grade UE07, £41,064–£48,822 per year; 24-month fixed term from Sep 1, 2027, with travel and research budget",
  "added": "2026-10-27",
  "aud": [
   "yale",
   "ng"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-27",
+ "checked": "2026-11-02",
  "d": "2026-12-01",
- "dt": "Dec 1, 2026; three reference letters by email",
+ "dt": "Dec 1, 2026, 11:59 pm UK time; three reference letters by email",
  "e": "Two-year postdoc in mathematical physics funded by the Simons Collaboration on Celestial Holography, working with Tim Adamo and free to pursue independent research. Requires a PhD in mathematical or theoretical physics by September 2027.",
  "f": "University of Edinburgh, School of Mathematics (Tim Adamo); Simons Collaboration on Celestial Holography",
  "fields": [
@@ -26,6 +26,6 @@
   "pd"
  ],
  "u": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14964",
- "unv": "Salary not stated in the INSPIRE ad; did not open the university job page.",
+ "unv": "Start date taken from the INSPIRE ad; the university ad gives the 24-month term but was not checked for the start date.",
  "us": false
 }

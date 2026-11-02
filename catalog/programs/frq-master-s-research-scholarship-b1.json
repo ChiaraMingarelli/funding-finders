@@ -25,6 +25,6 @@
   "gr"
  ],
  "u": "https://frq.gouv.qc.ca/en/program/masters-research-scholarships-2027-2028-b1-regular-component-and-re-entering-research-component/",
- "unv": "Detailed B1 citizenship/residency rules not read; assumed similar to B2 but unverified",
+ "unv": "FRQ program page returned HTTP 507 on Nov 2, 2026, so it was not rechecked. Detailed B1 citizenship/residency rules not read; assumed similar to B2 but unverified",
  "us": false
 }

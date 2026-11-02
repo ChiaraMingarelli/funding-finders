@@ -1,5 +1,5 @@
 {
- "a": "VLBI observing time on the EVN, optionally with joint e-MERLIN and global VLBI on NRAO/GBO telescopes, plus MeerKAT and GMRT at L-band. From 2027 the EVN observes in 10 one-week sessions a year. JIVE offers user support.",
+ "a": "VLBI observing time on the EVN, optionally with joint e-MERLIN and global VLBI on NRAO/GBO telescopes, plus MeerKAT and GMRT at L-band. From 2027 the EVN observes in 10 one-week sessions a year, and from 1 April 2027 proposals go through the Polaris tool with double-anonymous review. JIVE offers user support.",
  "added": "2026-10-03",
  "asub": [],
  "aud": [
@@ -7,7 +7,7 @@
   "ng"
  ],
  "c": "Observing time",
- "checked": "2026-10-26",
+ "checked": "2026-11-02",
  "d": "2027-04-01",
  "dt": "Next regular deadline 1 April 2027: the October 2026 call says that from 2027 the deadlines are 1 April and 1 October each year. Last deadline was 1 Oct 2026, 16:00 UTC. ToO and short requests may be sent at any time.",
  "e": "Open call from an international VLBI consortium. 'The EVN facility is open to all astronomers', except that PIs and co-Is at institutes in Russia or Belarus are currently barred. Student proposals are encouraged.",

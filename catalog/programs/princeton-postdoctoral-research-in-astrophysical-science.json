@@ -14,8 +14,8 @@
  ],
  "c": "Group postdoc",
  "checked": "2026-10-26",
- "d": "2026-11-01",
- "dt": "Full consideration for applications incl. references received by Nov 1, 2026; accepted until all positions are filled",
+ "d": null,
+ "dt": "Full consideration for applications incl. references received by Nov 1, 2026; applications continue to be accepted until all available positions are filled",
  "e": "Exoplanet theory, ISM/star formation, plasma astrophysics, supernovae and instrumentation. Requires a PhD in astronomy or a related field.",
  "f": "Princeton University, Department of Astrophysical Sciences",
  "fields": [
@@ -27,12 +27,12 @@
  "nom": false,
  "pt": "group",
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "aas:b74bc3c8",
  "stages": [
   "pd"
  ],
  "u": "https://apply.interfolio.com/193062",
- "unv": "Read via the JBHE copy of the ad on 2026-10-26; the AAS Job Register and the Princeton astro site block automated access (403) and the Interfolio page needs JavaScript.",
+ "unv": "Read via the JBHE copy of the ad on 2026-11-02 (posted Sep 23, 2026; no notice that positions are filled); the AAS Job Register and the Princeton astro site block automated access (403) and the Interfolio page needs JavaScript.",
  "us": false
 }

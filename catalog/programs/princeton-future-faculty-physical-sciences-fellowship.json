@@ -8,9 +8,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-26",
- "d": "2026-11-01",
- "dt": "Full consideration for applications and letters received by Nov 1, 2026; applications accepted until filled",
+ "checked": "2026-11-02",
+ "d": null,
+ "dt": "Full consideration for applications and letters received by Nov 1, 2026; applications continue to be accepted until the positions are filled",
  "e": "Fellowship for early-career scientists to do independent or collaborative research in physics broadly (including astrophysics, biophysics, geophysics and planetary physics) at Princeton, starting around Sep 1, 2027; commitment to broadening participation is encouraged. PhD in the physical sciences or a related field required; no citizenship restriction stated, but the ad says it cannot sponsor H-1B visas that require consular processing.",
  "f": "Princeton University (Physics, Astrophysical Sciences, Geosciences)",
  "fields": [
@@ -22,7 +22,7 @@
  "nom": false,
  "pt": "prize",
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "inspire:3212699",
  "stages": [
   "pd"

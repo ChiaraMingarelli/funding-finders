@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-21",
+ "checked": "2026-11-02",
  "d": null,
  "dt": "Last deadline Aug 15, 2026 (2026 cycle, AJO #32124); the next cycle is not posted yet, expected around summer 2027.",
  "e": "Students in a US physics PhD program (no citizenship requirement), usually in year 2-3, doing HEP instrumentation research mainly in the US. A Yale student won in 2023.",
@@ -23,6 +23,6 @@
   "gr"
  ],
  "u": "https://cpad-dpf.org/?page_id=285",
- "unv": "cpad-dpf.org blocked automated access (\"Just a moment\" check) on 2026-10-12, 2026-10-21 and 2026-10-26; the 2026 deadline and terms are from the AJO listing #32124.",
+ "unv": "cpad-dpf.org blocked automated access (\"Just a moment\" check) to curl on 2026-11-02, but the page was read through WebFetch the same day: it still shows the Aug 15, 2026 deadline and no next cycle.",
  "us": false
 }

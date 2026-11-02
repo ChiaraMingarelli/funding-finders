@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-26",
- "d": "2026-11-01",
- "dt": "2026/11/01 23:59:59 (time zone not stated on page) for full consideration; applications considered until all positions are filled",
+ "checked": "2026-11-02",
+ "d": null,
+ "dt": "Full-consideration date was Nov 1, 2026; applications are considered until all positions are filled.",
  "e": "Circuit QED, superconducting qubits, quantum error correction, microwave quantum optics and ML for quantum systems.",
  "f": "Universite de Sherbrooke, Institut Quantique (Alexandre Blais)",
  "fields": [
@@ -19,7 +19,7 @@
  "n": "Universite de Sherbrooke: Postdoc, Theory of Superconducting Quantum Devices",
  "nom": false,
  "pt": "group",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:28229",
  "stages": [
   "pd"

@@ -1,5 +1,5 @@
 {
- "a": "Not stated in posting (other ads under INFN call 29216 give EUR 36,000/yr gross)",
+ "a": "EUR 36,000/yr gross, 2 years",
  "added": "2026-10-16",
  "aud": [
   "yale",
@@ -7,7 +7,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-26",
+ "checked": "2026-11-02",
  "d": "2026-11-12",
  "dt": "12 Nov 2026, 23:59 CET (INFN call 29216)",
  "e": "Two-year INFN postdoctoral fellowship in the Milano-Bicocca string theory group (INFN network GSS), starting fall 2027; apply via the INFN portal under call 29216. Open to non-Italian citizens with a PhD from a foreign institution, or Italian citizens who have held a position abroad for at least three years; PhD on or after 12 Nov 2018 (PhD needed by 1 Nov 2027).",
@@ -27,7 +27,6 @@
  "stages": [
   "pd"
  ],
- "u": "https://reclutamento.dsi.infn.it",
- "unv": "Salary not stated in this posting; call deadline confirmed on INFN call page (29216). The INFN recruitment portal could not be reached on Oct 21, 2026 (connection reset, HTTP 503); the INSPIRE listing was still open with the Nov 12 deadline.",
+ "u": "https://jobs.dsi.infn.it/dettagli_job.php?id=4701",
  "us": false
 }

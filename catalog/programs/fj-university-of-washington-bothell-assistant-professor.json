@@ -5,8 +5,8 @@
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-10-26",
- "d": "2026-11-01",
+ "checked": "2026-11-02",
+ "d": null,
  "dt": "Priority to applications received by Nov 1, 2026; open until filled; start Sep 16, 2027",
  "e": "A tenure-track assistant professor in physics who will teach across the undergraduate curriculum and lead an experimental or applied physics research program involving undergraduates. The ad states no citizenship limit.",
  "f": "University of Washington Bothell, School of STEM, Physical Sciences",
@@ -20,7 +20,7 @@
  "nfit": "Low",
  "nom": false,
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "other:uwb-ap-physics",
  "stages": [
   "fj"

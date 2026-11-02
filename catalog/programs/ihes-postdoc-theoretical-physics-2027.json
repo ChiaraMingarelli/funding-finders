@@ -1,16 +1,19 @@
 {
- "a": "Two (2+1)-year positions; salary, health coverage, subsidized housing for first two years, travel funds",
+ "a": "One (2+1)-year position; salary, full health coverage, subsidized housing for the first two years, subsidized lunch and travel funds",
  "added": "2026-10-22",
+ "asub": [
+  "he"
+ ],
  "aud": [
   "yale",
   "ng",
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-26",
+ "checked": "2026-11-02",
  "d": "2026-11-27",
  "dt": "Deadline Nov 27, 2026 23:59 (AJO)",
- "e": "Two postdocs at IHES (Bures-sur-Yvette, France) starting fall 2027 in QFT/CFT, EFT, gravitation, condensed matter and topological field theory, bootstrap, amplitudes and gravitational-wave physics, interacting with Delcamp, Parra-Martinez and Rychkov. Open to PhD holders; no citizenship limits stated.",
+ "e": "One postdoc at IHES (Bures-sur-Yvette, France) starting fall 2027 in QFT/CFT, EFT, gravitation, condensed matter and topological field theory, bootstrap, amplitudes and gravitational-wave physics, interacting with Delcamp, Parra-Martinez, Rychkov and Damour (emeritus). Open to PhD holders; no citizenship limits stated.",
  "f": "Institut des Hautes Études Scientifiques (IHES)",
  "fields": [
   "ppt",
@@ -18,7 +21,7 @@
   "grav"
  ],
  "id": "ihes-postdoc-theoretical-physics-2027",
- "n": "IHES: Postdoctoral positions in Theoretical Physics",
+ "n": "IHES: Postdoctoral position in Theoretical Physics",
  "nfit": "Medium",
  "nom": false,
  "pt": "group",

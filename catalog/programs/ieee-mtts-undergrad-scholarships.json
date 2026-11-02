@@ -5,7 +5,7 @@
   "ap"
  ],
  "c": "Scholarship",
- "checked": "2026-10-21",
+ "checked": "2026-11-02",
  "d": "2027-04-15",
  "dt": "Deadlines Apr 15 and Oct 15; next deadline Apr 15, 2027",
  "e": "Scholarships for BS and MS students in electrical engineering doing microwave-related projects.",
@@ -23,6 +23,5 @@
   "ug"
  ],
  "u": "https://mtt.org/students/",
- "unv": "mtt.org did not respond on Oct 26, 2026 (timeout, then HTTP 503); not rechecked this week.",
  "us": false
 }

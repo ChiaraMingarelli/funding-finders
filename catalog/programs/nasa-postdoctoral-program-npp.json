@@ -12,9 +12,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-26",
- "d": "2026-11-01",
- "dt": "6 pm ET; about 3 cycles a year",
+ "checked": "2026-11-02",
+ "d": null,
+ "dt": "Last deadline Nov 1, 2026, 6 pm ET (usual deadlines Mar 1, Jul 1, Nov 1); NASA is not accepting NPP applications now and says the next cycle will be announced soon",
  "e": "Hosted at NASA centers including JPL and GSFC. Some country restrictions apply.",
  "f": "NASA / ORAU",
  "fields": [
@@ -29,10 +29,11 @@
  "nom": false,
  "pt": "prize",
  "region": "US",
- "s": "open",
+ "s": "watch",
  "stages": [
   "pd"
  ],
  "u": "https://npp.orau.org/",
+ "unv": "Next application cycle not posted as of Nov 2, 2026.",
  "us": false
 }

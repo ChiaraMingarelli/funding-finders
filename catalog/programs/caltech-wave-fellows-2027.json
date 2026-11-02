@@ -1,5 +1,5 @@
 {
- "a": "$8,354 for 10 weeks plus a $2,000 travel/housing supplement",
+ "a": "$8,354 for 10 weeks plus a $2,000 on-campus housing supplement",
  "added": "2026-10-26",
  "aud": [
   "yale",
@@ -8,9 +8,9 @@
   "ast"
  ],
  "c": "Summer program",
- "checked": "2026-10-26",
- "d": "2027-01-09",
- "dt": "Application opens Nov 1, 2026; due Jan 9, 2027 (recommendation letters due Jan 8)",
+ "checked": "2026-11-02",
+ "d": "2027-01-08",
+ "dt": "Applications and two recommendation letters due on or before Jan 8, 2027",
  "e": "A 10-week summer research program at Caltech (June 14 to August 20, 2027) for sophomores, juniors and non-graduating seniors in STEM who plan to pursue a PhD, with a Caltech faculty mentor. Applicants must be US citizens, permanent residents or DACA recipients, have a GPA of at least 3.4 and have prior research experience.",
  "f": "Caltech Student-Faculty Programs",
  "fields": [
@@ -27,6 +27,6 @@
   "ug"
  ],
  "u": "https://sfp.caltech.edu/undergraduate-research/programs/wavefellows",
- "unv": "The application page gives the deadline as January 9 without a year; it is the deadline for the 2027 application, which opens Nov 1, 2026.",
+ "unv": "The application page gives the deadline as January 8 without a year; it is the deadline for the 2027 program (June 14 to August 20, 2027). It previously gave January 9.",
  "us": true
 }

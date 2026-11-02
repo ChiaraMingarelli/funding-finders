@@ -3,10 +3,11 @@
  "added": "2026-09-28",
  "aud": [
   "radar",
-  "ast"
+  "ast",
+  "ap"
  ],
  "c": "Compute",
- "checked": "2026-10-26",
+ "checked": "2026-11-02",
  "d": null,
  "dt": "Apply form on page",
  "e": "Serverless GPU credits for academic research projects, useful for bursty ML training such as simulation-based inference.",

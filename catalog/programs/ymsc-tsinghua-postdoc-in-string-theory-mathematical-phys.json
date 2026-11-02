@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-26",
+ "checked": "2026-11-02",
  "d": "2027-07-01",
  "dt": "2027/07/01 23:59:59 (time zone not stated on page)",
  "e": "String theory, QFT, mathematical physics and quantum gravity.",
@@ -22,7 +22,7 @@
  ],
  "id": "ymsc-tsinghua-postdoc-in-string-theory-mathematical-phys",
  "n": "YMSC Tsinghua: Postdoc in String Theory / Mathematical Physics",
- "nfit": "High",
+ "nfit": "Medium",
  "nom": false,
  "pt": "group",
  "region": "International",

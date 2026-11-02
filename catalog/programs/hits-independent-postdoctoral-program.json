@@ -7,9 +7,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-07",
- "d": "2026-11-01",
- "dt": "Nov 1, 2026",
+ "checked": "2026-11-02",
+ "d": null,
+ "dt": "Last deadline Nov 1, 2026; HITS says the call is now closed, and the next call is not posted yet",
  "e": "Independent theoretical/computational research in an interdisciplinary institute (simulation, data).",
  "f": "Heidelberg Institute for Theoretical Studies",
  "fields": [
@@ -22,12 +22,12 @@
  "nom": false,
  "pt": "prize",
  "region": "International",
- "s": "open",
+ "s": "watch",
  "src": "aas:09fe3cd2",
  "stages": [
   "pd"
  ],
- "u": "https://aas.org/jobregister/ad/09fe3cd2",
- "unv": "The AAS page blocked automated access (HTTP 403) on Oct 7 and Oct 21, 2026; the Nov 1, 2026 deadline appears in search-indexed copies of the ad (jobs.ac.uk, researchersjob.com).",
+ "u": "https://www.h-its.org/research/independent-postdoc-program/",
+ "unv": "The AAS ad blocked automated access (HTTP 403) on Oct 7, Oct 21 and Nov 2, 2026; the HITS program page (Nov 2, 2026) says the call is closed and gives no next date.",
  "us": false
 }

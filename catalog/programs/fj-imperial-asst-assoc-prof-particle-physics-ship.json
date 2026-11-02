@@ -1,5 +1,5 @@
 {
- "a": "Assistant or Associate Professor; salary not stated",
+ "a": "Assistant Professor £73,194–£82,954 a year; Associate Professor from £85,873 a year",
  "added": "2026-10-16",
  "aud": [
   "ng"
@@ -25,6 +25,6 @@
   "fj"
  ],
  "u": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29599&jobTitle=Assistant+%2F+Associate+Professor+in+Particle+Physics",
- "unv": "Imperial job page did not render the ad text (JS); deadline and salary not confirmed on host site.",
+ "unv": "Imperial job page blocked automated access (HTTP 403) on Nov 2, 2026; closing date (25 Nov 2026) and salary taken from the jobs.ac.uk copy of the ad (ref. NAT02311).",
  "us": false
 }

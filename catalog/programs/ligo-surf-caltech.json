@@ -11,10 +11,10 @@
   "ast"
  ],
  "c": "Summer program",
- "checked": "2026-09-29",
+ "checked": "2026-11-02",
  "d": null,
- "dt": "Last deadline Jan 11, 2026",
- "e": "Open to US and international students. For continuing undergraduates.",
+ "dt": "Applications open Nov 2026; deadline January 2027 (exact day not posted). Last deadline Jan 11, 2026",
+ "e": "Summer research at Caltech and the LIGO Hanford and Livingston observatories for continuing undergraduates (GPA 2.5 or higher, at least one full-year physics course). US applicants must be US citizens, permanent residents or US nationals; students at institutions in India apply through LIGO India.",
  "f": "Caltech LIGO Lab",
  "fields": [
   "grav",
@@ -30,7 +30,7 @@
  "stages": [
   "ug"
  ],
- "u": "https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/applicants-info.shtml",
- "unv": "2027 date not posted; official page unreachable (HTTP 503/timeout on 2026-10-07; TLS certificate error and HTTP 503 on 2026-10-12, 2026-10-21 and 2026-10-26)",
+ "u": "https://ligosurf.caltech.edu/apply",
+ "unv": "The 2027 page gives only 'January 2027' as the deadline, so d stays null. The old labcit.ligo.caltech.edu page still fails (TLS certificate error); the URL now points to the program's current site, ligosurf.caltech.edu.",
  "us": false
 }

@@ -5,7 +5,7 @@
   "ap"
  ],
  "c": "Federal grant",
- "checked": "2026-10-28",
+ "checked": "2026-11-02",
  "d": "2026-12-18",
  "dt": "Abstracts were due Oct 27, 2026; full proposals due Dec 18, 2026 (DARPA-PS-26-141)",
  "e": "Funds new ways to synthesize polymers and nonlinear optical materials with molecular-level control, with sub-nanosecond electro-optic modulators as the target application. It suits teams that combine synthesis, computation, characterization, microfabrication and photonics; universities can take part.",
@@ -23,7 +23,7 @@
   "tt",
   "ten"
  ],
- "u": "https://www.darpa.mil/work-with-us/opportunities/darpa-ps-26-141",
- "unv": "Abstract date is from DARPA's page. The Dec 18 proposal date, the use of Other Transaction agreements and university eligibility come from a consultant summary of the SAM.gov notice and were not checked against the notice itself.",
+ "u": "https://www.darpa.mil/research/programs/apm",
+ "unv": "The solicitation page (darpa-ps-26-141) now redirects to DARPA's general opportunities list; the APM program page lists DARPA-PS-26-141 with only \"Deadline: Oct. 27, 2026\" (the abstract date). DARPA's APM Q&A confirms Other Transaction agreements and that non-US organizations may not take part. The Dec 18, 2026 full-proposal date comes from consultant summaries of the SAM.gov notice, and whether an abstract was required to submit a full proposal was not confirmed.",
  "us": false
 }

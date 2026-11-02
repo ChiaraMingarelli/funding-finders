@@ -30,6 +30,6 @@
   "pd"
  ],
  "u": "https://icc.ub.edu/node/1716565",
- "unv": "Rechecked through the INSPIRE record on Oct 21, 2026; the ICCUB page could not be reached (connection reset).",
+ "unv": "The ICCUB page returned HTTP 503 on Nov 2, 2026; dates confirmed through INSPIRE record 3214624 (open, deadline Nov 26, 2026) on Nov 2, 2026.",
  "us": false
 }

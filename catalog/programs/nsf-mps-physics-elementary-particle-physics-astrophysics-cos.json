@@ -9,9 +9,9 @@
   "ast"
  ],
  "c": "Federal grant",
- "checked": "2026-10-26",
+ "checked": "2026-11-02",
  "d": null,
- "dt": "Proposals accepted anytime under NSF 26-523; overview page says 'Full proposal accepted anytime'.",
+ "dt": "Proposals accepted anytime under NSF 26-523; the program page (updated Sep 25, 2026) lists no due dates.",
  "e": "Faculty PIs at eligible US institutions. NSF prefers one proposal routed for co-review over several related proposals.",
  "f": "NSF MPS/PHY (NSF 26-523)",
  "fields": [
@@ -33,6 +33,6 @@
   "ten"
  ],
  "u": "https://www.nsf.gov/funding/opportunities/elementary-particle-physics-astrophysics-cosmology-theory",
- "unv": "No program-specific target date posted as of 2026-10-26",
+ "unv": "No program-specific target date posted as of 2026-11-02",
  "us": false
 }

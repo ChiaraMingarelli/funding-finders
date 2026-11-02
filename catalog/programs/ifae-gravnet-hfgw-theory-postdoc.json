@@ -10,9 +10,9 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-26",
+ "checked": "2026-11-02",
  "d": "2026-12-31",
- "dt": "Deadline 2026-12-31",
+ "dt": "Dec 31, 2026 (AJO #33210); IFAE's own ad (ref. IFAE2026/46_THEORY_2Postdoc) says applications are accepted until filled",
  "e": "One or two 2-3-year postdocs in the IFAE theory group (Diego Blas) modelling detector response and network strategies for high-frequency gravitational-wave searches with EM cavities and quantum sensing, starting fall 2027. Requires PhD in physics or related field by contract start.",
  "f": "IFAE (ERC Synergy Grant GravNet)",
  "fields": [
@@ -26,11 +26,11 @@
  "pt": "group",
  "region": "International",
  "s": "open",
- "src": "ajo:33197",
+ "src": "ajo:33210",
  "stages": [
   "pd"
  ],
- "u": "https://academicjobsonline.org/ajo/jobs/33197",
- "unv": "Salary not stated.",
+ "u": "https://academicjobsonline.org/ajo/jobs/33210",
+ "unv": "Salary not stated. The original AJO posting #33197 is no longer public; the positions are now posted as AJO #33210 and on ifae.es.",
  "us": false
 }
