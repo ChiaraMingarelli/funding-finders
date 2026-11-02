@@ -1,0 +1,37 @@
+{
+ "a": "Free housing and office space at Green Bank, WV (no stipend); standard stays of about three weeks",
+ "added": "2026-11-02",
+ "asub": [
+  "he",
+  "ism",
+  "inst"
+ ],
+ "aud": [
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Visiting program",
+ "checked": "2026-11-02",
+ "d": null,
+ "dt": "Applications open Feb 1, 2027; rolling admission until spaces are full, expected to close in mid-April 2027",
+ "e": "Graduate students who work with Green Bank Observatory data or staff spend a few weeks on site, in themed blocks (pulsars and the interstellar medium; star formation, astrochemistry and technosignatures; planetary radar and radio instrumentation; HI, galaxies and interference), with a mini single-dish school and 20 m telescope observing in each block. The page states no citizenship limit.",
+ "f": "Green Bank Observatory (NSF)",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "gbo-graduate-students-in-residence-summer-2027",
+ "n": "Green Bank Observatory Graduate Students in Residence (Summer 2027)",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "src": "other:gbo-grad-residence",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://greenbankobservatory.org/graduate-students/",
+ "unv": "No exact closing date is posted (only 'mid April'); the summer 2027 block dates are not posted yet (the page still lists 2026 sessions).",
+ "us": false
+}

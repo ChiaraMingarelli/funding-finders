@@ -1,0 +1,31 @@
+{
+ "a": "Salary and term not listed",
+ "added": "2026-11-02",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-02",
+ "d": "2027-01-03",
+ "dt": "Deadline Jan 3, 2027",
+ "e": "Postdoc in theoretical particle physics (phenomenology) with David London and Ryan Plestid: flavour physics, rare decays, neutrinos, dark matter, model building, precision physics and BSM searches. Requires a PhD in theoretical particle physics; no citizenship limits stated.",
+ "f": "Université de Montréal, Groupe de Physique des Particules",
+ "fields": [
+  "ppt"
+ ],
+ "id": "udem-particle-phenomenology-postdoc-2027",
+ "n": "Université de Montréal: Postdoc in Particle Phenomenology",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "Canada",
+ "s": "open",
+ "src": "ajo:33188",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33188",
+ "unv": "Salary, term and start date not stated in the ad.",
+ "us": false
+}

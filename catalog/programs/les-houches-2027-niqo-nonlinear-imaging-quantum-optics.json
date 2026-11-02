@@ -1,0 +1,29 @@
+{
+ "a": "School fee €550 (tax included), covering accommodation, meals and hosting; travel not included",
+ "added": "2026-11-02",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-11-02",
+ "d": "2026-12-18",
+ "dt": "Apply before Dec 18, 2026; selection early 2027, registration opens in February; school Apr 18-23, 2027",
+ "e": "One-week school at Les Houches on nonlinear light-matter interactions, optics in complex media, quantum state engineering for imaging and sensing, and advanced microscopy. Only registered PhD students (any year) may apply, through an online form.",
+ "f": "Les Houches School of Physics",
+ "fields": [
+  "phot",
+  "amo"
+ ],
+ "id": "les-houches-2027-niqo-nonlinear-imaging-quantum-optics",
+ "n": "Les Houches School 2027: Non-linear, Imaging and Quantum Optics (NIQO 2027)",
+ "nom": false,
+ "s": "open",
+ "src": "other:niqo2027",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://niqo2027.sciencesconf.org/page/application?lang=en",
+ "unv": "Number of places and any fee waivers or grants are not stated",
+ "us": false
+}

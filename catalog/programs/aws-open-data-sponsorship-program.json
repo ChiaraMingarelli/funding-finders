@@ -1,0 +1,37 @@
+{
+ "a": "AWS covers the cost of storing and sharing the dataset on the Registry of Open Data on AWS (in-kind; no dollar cap stated)",
+ "added": "2026-11-02",
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Compute",
+ "checked": "2026-11-02",
+ "d": null,
+ "dt": "Rolling; AWS says decisions are generally sent within two weeks",
+ "e": "Covers cloud storage and data-transfer costs for publicly available, openly licensed, cloud-optimized datasets (for example a survey or timing-array data release) listed on the Registry of Open Data on AWS. Data providers apply; applications are judged on accessibility, cloud readiness, community engagement and demand.",
+ "f": "Amazon Web Services",
+ "fields": [
+  "ds",
+  "all"
+ ],
+ "id": "aws-open-data-sponsorship-program",
+ "n": "AWS Open Data Sponsorship Program",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:aws-open-data-sponsorship",
+ "stages": [
+  "tt",
+  "ten",
+  "pd"
+ ],
+ "u": "https://aws.amazon.com/opendata/open-data-sponsorship-program/",
+ "unv": "The page names 'data providers' as applicants and does not say whether individual faculty or postdocs (rather than an institution or collaboration) may apply, or list citizenship limits; no award size is stated.",
+ "us": false
+}

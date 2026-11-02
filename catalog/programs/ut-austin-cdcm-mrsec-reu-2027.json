@@ -1,0 +1,28 @@
+{
+ "a": "$6,000 stipend, UT Austin dorm housing and a travel allowance",
+ "added": "2026-11-02",
+ "aud": [
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-11-02",
+ "d": "2027-02-02",
+ "dt": "Applications open Nov 1, 2026 and close Feb 2, 2027; program about May 25 - July 23, 2027",
+ "e": "Nine-week summer materials research program at UT Austin for sophomores, juniors and non-graduating seniors (advanced freshmen may apply) with GPA 3.0 or higher; students from other universities are eligible. U.S. citizens and permanent residents only.",
+ "f": "University of Texas at Austin, Center for Dynamics and Control of Materials (NSF MRSEC)",
+ "fields": [
+  "mat",
+  "cmx"
+ ],
+ "id": "ut-austin-cdcm-mrsec-reu-2027",
+ "n": "UT Austin MRSEC (Center for Dynamics and Control of Materials) REU, Summer 2027",
+ "nom": false,
+ "s": "open",
+ "src": "other:utexas-cdcm-reu",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://mrsec.utexas.edu/education-outreach/research-experience-undergraduates",
+ "unv": "The page heading says 2027 but some body text still says 2026; dates are stated as anticipated",
+ "us": true
+}

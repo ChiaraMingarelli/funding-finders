@@ -1,0 +1,37 @@
+{
+ "a": "$620/week stipend for 10 weeks (early June to August), free dormitory housing and daily transport; limited travel support",
+ "added": "2026-11-02",
+ "asub": [
+  "he",
+  "cos",
+  "inst"
+ ],
+ "aud": [
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-11-02",
+ "d": "2027-02-01",
+ "dt": "Applications due Feb 1, 2027; the application form opens on Thanksgiving 2026; first offers around Mar 1",
+ "e": "Ten-week paid summer research at MIT Haystack Observatory (Westford, MA) in radio astronomy, geodesy, radar and ionospheric science and related engineering and computing, with listed projects on Event Horizon Telescope and BHEX black hole imaging, EDGES low-frequency cosmology, quasar VLBI and the 37 m telescope. Open to undergraduates (bachelor's or associate degree programs) who have not graduated before the June start; US citizens and permanent residents only (NSF REU rule).",
+ "f": "MIT Haystack Observatory (NSF REU)",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "mit-haystack-observatory-reu-2027",
+ "n": "MIT Haystack Observatory REU (Summer 2027)",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:haystack-reu",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.haystack.mit.edu/haystack-public-outreach/research-experiences-for-undergraduates-reu/",
+ "unv": "The program is contingent on NSF funding; 2027 program dates and the 2027 project list are not posted yet (the page lists the 2026-era projects, subject to change).",
+ "us": true
+}

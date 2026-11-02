@@ -1,0 +1,37 @@
+{
+ "added": "2026-11-02",
+ "asub": [
+  "star"
+ ],
+ "aud": [
+  "yale",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-11-02",
+ "d": "2026-11-20",
+ "dt": "Step-1 proposal due Nov 20, 2026 (required); Step-2 proposal due Feb 5, 2027 (ROSES-25 Amendment 79)",
+ "e": "New ROSES-2025 element funding investigations that prepare the two top-priority heliophysics spaceflight projects of the 2024 Decadal Survey: Links (magnetosphere-aurora coupling) and Solar Polar (global solar dynamics and the solar dynamo). Two-step submission with dual-anonymous review; NASA generally funds only US institutions, and non-US groups may take part without exchange of funds.",
+ "f": "NASA Science Mission Directorate, Heliophysics Division",
+ "fields": [
+  "astro"
+ ],
+ "id": "nasa-roses25-b8-heliophysics-spaceflight-science-found",
+ "n": "NASA ROSES-2025 B.8 Heliophysics Spaceflight Science Foundations (SSF)",
+ "nofo": [
+  {
+   "opp": "NNH25ZDA001N-SSF",
+   "u": "https://simpler.grants.gov/opportunity/60fe4b26-ef81-4bbd-96cc-4aaafd725587"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:NNH25ZDA001N-SSF",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-79-new-opportunity-b-8-heliophysics-spaceflight-science-foundations/",
+ "unv": "Award size and number of awards are in the full NSPIRES call text, which was not read; the amendment page and grants.gov notice do not state them.",
+ "us": false
+}

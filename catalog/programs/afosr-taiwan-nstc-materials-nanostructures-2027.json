@@ -1,0 +1,39 @@
+{
+ "a": "Up to $150,000 per year for 3 years per US PI; about 8 awards ($1.2M per year total for US projects)",
+ "added": "2026-11-02",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-11-02",
+ "d": "2026-11-18",
+ "dt": "Joint 3-page pre-proposal (white paper) due Nov 18, 2026 by email to AFOSR and via the NSTC system; invited full proposals due Feb 19, 2027",
+ "e": "Joint US-Taiwan basic research on AI-driven materials discovery, materials and nanostructures for energy-efficient electronic, photonic and quantum information technologies, and quantum geometry in solids. Each pre-proposal pairs a US PI and a Taiwan PI; the US PI must be a US citizen, national or permanent resident in a permanent or tenure-track position at a US university.",
+ "f": "Air Force Office of Scientific Research (AFOSR/AOARD) and Taiwan NSTC",
+ "fields": [
+  "cmx",
+  "cmt",
+  "mat",
+  "dev",
+  "phot",
+  "qp"
+ ],
+ "id": "afosr-taiwan-nstc-materials-nanostructures-2027",
+ "n": "AFOSR-Taiwan NSTC Frontiers in Materials and Nanostructures (2027-2030)",
+ "nofo": [
+  {
+   "opp": "FA955027S0002",
+   "u": "https://simpler.grants.gov/opportunity/d08645c9-6162-453f-84dc-92d4614dc711"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:FA955027S0002",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/d08645c9-6162-453f-84dc-92d4614dc711",
+ "us": true
+}

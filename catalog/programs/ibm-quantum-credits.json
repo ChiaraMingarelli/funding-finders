@@ -1,0 +1,29 @@
+{
+ "a": "Project-based time on IBM quantum processors beyond the free Open Plan, with technical support; no stated maximum",
+ "added": "2026-11-02",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Industry",
+ "checked": "2026-11-02",
+ "d": null,
+ "dt": "Rolling review; no deadlines",
+ "e": "IBM awards quantum hardware time for novel, utility-scale research projects at eligible research institutions. Applications must come from a tenure-track faculty member or permanent research staff lead; students use the Open Plan or a professor's classroom account.",
+ "f": "IBM Quantum",
+ "fields": [
+  "qp"
+ ],
+ "id": "ibm-quantum-credits",
+ "n": "IBM Quantum Credits (research access to IBM quantum hardware)",
+ "nom": false,
+ "s": "rolling",
+ "src": "other:ibm-quantum-credits",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.ibm.com/quantum/quantum-credits",
+ "unv": "Award size and credit validity period are set per award and not published",
+ "us": false
+}

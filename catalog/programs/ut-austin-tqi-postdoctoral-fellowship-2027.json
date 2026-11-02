@@ -1,0 +1,28 @@
+{
+ "a": "Two years; competitive salary plus annual professional development funds (amount not stated)",
+ "added": "2026-11-02",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-11-02",
+ "d": "2027-01-31",
+ "dt": "Deadline for the next cycle Jan 31, 2027 (email one PDF to TQI-OE@utexas.edu)",
+ "e": "Two-year quantum science and engineering fellowship for incoming and current UT Austin postdocs. Apply with a one-page research proposal, a CV and an email in which two UT faculty sponsors endorse the candidate.",
+ "f": "Texas Quantum Institute, University of Texas at Austin",
+ "fields": [
+  "qp"
+ ],
+ "id": "ut-austin-tqi-postdoctoral-fellowship-2027",
+ "n": "Texas Quantum Institute (UT Austin) Postdoctoral Fellowship",
+ "nom": false,
+ "pt": "prize",
+ "s": "open",
+ "src": "other:utexas-tqi-postdoc",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://quantum.utexas.edu/opportunities",
+ "unv": "Salary amount and citizenship rules not stated"
+}

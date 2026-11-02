@@ -1,0 +1,33 @@
+{
+ "a": "Up to $1.5M direct costs per year (most awards $500k-$900k) for up to 5 years",
+ "added": "2026-11-02",
+ "aud": [
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-11-02",
+ "d": "2026-11-17",
+ "dt": "Standard due dates Nov 17, 2026; Jan 26, May 26 and Sep 27, 2027; continuing through Sep 2029 (NOFO expires Sep 27, 2029)",
+ "e": "Supports integrated teams of three to six PDs/PIs working on a single ambitious research goal in biomedical science that individual efforts could not reach. US institutions apply; foreign subawards are not allowed.",
+ "f": "NIH (NIGMS lead, with NEI, NHGRI, NIA, NIAID, NINDS and other institutes)",
+ "fields": [
+  "bio"
+ ],
+ "id": "nih-collaborative-program-grant-teams-rm1-par-27-003",
+ "n": "NIH Collaborative Program Grant for Interdisciplinary Teams (RM1, PAR-27-003)",
+ "nofo": [
+  {
+   "opp": "PAR-27-003",
+   "u": "https://simpler.grants.gov/opportunity/c467080e-51a0-4a76-b416-035664fa95df"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:PAR-27-003",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/c467080e-51a0-4a76-b416-035664fa95df",
+ "us": false
+}

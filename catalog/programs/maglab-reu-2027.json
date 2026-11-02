@@ -1,0 +1,30 @@
+{
+ "a": "$6,500 stipend, housing provided if needed, up to $800 travel",
+ "added": "2026-11-02",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-11-02",
+ "d": "2027-01-08",
+ "dt": "Application deadline Jan 8, 2027; program May 24 - July 30, 2027",
+ "e": "Ten-week summer research at the MagLab in Tallahassee or Gainesville in physics, chemistry, biology, geochemistry, materials science, or magnet science and engineering. U.S. citizens and permanent residents aged 18 or older by the start date.",
+ "f": "National High Magnetic Field Laboratory (Florida State University / University of Florida)",
+ "fields": [
+  "cmx",
+  "mat",
+  "dev"
+ ],
+ "id": "maglab-reu-2027",
+ "n": "National MagLab Research Experiences for Undergraduates (REU), Summer 2027",
+ "nom": false,
+ "s": "open",
+ "src": "other:maglab-reu",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://nationalmaglab.org/education/college-students/reu/",
+ "unv": "Required class year not stated",
+ "us": true
+}
