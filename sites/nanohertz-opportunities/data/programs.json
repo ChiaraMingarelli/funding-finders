@@ -722,6 +722,29 @@
   "d": null
  },
  {
+  "id": "aws-open-data-sponsorship-program",
+  "n": "AWS Open Data Sponsorship Program",
+  "f": "Amazon Web Services",
+  "c": "Compute",
+  "s": "rolling",
+  "dt": "Rolling; AWS says decisions are generally sent within two weeks",
+  "a": "AWS covers the cost of storing and sharing the dataset on the Registry of Open Data on AWS (in-kind; no dollar cap stated)",
+  "e": "Covers cloud storage and data-transfer costs for publicly available, openly licensed, cloud-optimized datasets (for example a survey or timing-array data release) listed on the Registry of Open Data on AWS. Data providers apply; applications are judged on accessibility, cloud readiness, community engagement and demand.",
+  "u": "https://aws.amazon.com/opendata/open-data-sponsorship-program/",
+  "unv": "The page names 'data providers' as applicants and does not say whether individual faculty or postdocs (rather than an institution or collaboration) may apply, or list citizenship limits; no award size is stated.",
+  "us": false,
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-02",
+  "added": "2026-11-02",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
   "id": "ben-gurion-palti-string-theory-postdoc",
   "n": "Ben-Gurion University of the Negev: Postdoc in theoretical high-energy physics (Palti group)",
   "f": "Ben-Gurion University of the Negev",
@@ -809,6 +832,29 @@
   "stages": [
    "pd"
   ]
+ },
+ {
+  "id": "bimsa-postdoctoral-positions-2027",
+  "n": "BIMSA: Postdoctoral Positions in Mathematics and Theoretical Physics",
+  "f": "Beijing Institute of Mathematical Sciences and Applications (BIMSA)",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "No deadline stated; listed on AJO until Oct 28, 2027",
+  "a": "2 years, possible 1-year extension; RMB 300k-500k (about $42k-$70k) per year",
+  "e": "Several postdoctoral positions in mathematics, theoretical physics (including string theory, high-energy theory, condensed matter theory and mathematical physics) and computer science in Beijing. PhD required before the start; no citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33193",
+  "unv": "No application deadline or start date stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-02",
+  "added": "2026-11-02",
+  "stages": [
+   "pd"
+  ],
+  "d": null
  },
  {
   "id": "blavatnik-regional-awards-for-young-scientists-2027",
@@ -2835,6 +2881,28 @@
   "nfit": "Low",
   "checked": "2026-10-21",
   "added": "2026-10-01",
+  "stages": [
+   "fj"
+  ],
+  "d": null
+ },
+ {
+  "id": "fj-bimsa-assistant-professor-2027",
+  "n": "BIMSA: Assistant Professor (mathematics and theoretical physics)",
+  "f": "Beijing Institute of Mathematical Sciences and Applications (BIMSA)",
+  "c": "Faculty job",
+  "s": "rolling",
+  "dt": "No deadline stated; listed on AJO until Oct 28, 2027",
+  "a": "Assistant Professor; RMB 400k-700k (about $55k-$96k) per year",
+  "e": "Several assistant professor positions in mathematics, theoretical physics (string theory, particle theory, condensed matter theory and related areas) and computer science; teaching one course per semester in English. No citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33191",
+  "unv": "No application deadline or start date stated; the ad does not say whether the post is tenure-track.",
+  "us": false,
+  "nom": false,
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-02",
+  "added": "2026-11-02",
   "stages": [
    "fj"
   ],
@@ -5920,6 +5988,28 @@
   "d": null
  },
  {
+  "id": "gbo-graduate-students-in-residence-summer-2027",
+  "n": "Green Bank Observatory Graduate Students in Residence (Summer 2027)",
+  "f": "Green Bank Observatory (NSF)",
+  "c": "Visiting program",
+  "s": "watch",
+  "dt": "Applications open Feb 1, 2027; rolling admission until spaces are full, expected to close in mid-April 2027",
+  "a": "Free housing and office space at Green Bank, WV (no stipend); standard stays of about three weeks",
+  "e": "Graduate students who work with Green Bank Observatory data or staff spend a few weeks on site, in themed blocks (pulsars and the interstellar medium; star formation, astrochemistry and technosignatures; planetary radar and radio instrumentation; HI, galaxies and interference), with a mini single-dish school and 20 m telescope observing in each block. The page states no citizenship limit.",
+  "u": "https://greenbankobservatory.org/graduate-students/",
+  "unv": "No exact closing date is posted (only 'mid April'); the summer 2027 block dates are not posted yet (the page still lists 2026 sessions).",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "High",
+  "checked": "2026-11-02",
+  "added": "2026-11-02",
+  "stages": [
+   "gr"
+  ],
+  "d": null
+ },
+ {
   "id": "gbt-observer-training-workshop",
   "n": "GBT Observer Training Workshop",
   "f": "Green Bank Observatory",
@@ -8142,6 +8232,29 @@
   ]
  },
  {
+  "id": "kias-qft-string-theory-research-fellows-2027",
+  "n": "KIAS: Research Fellow in Quantum Field Theory & String Theory",
+  "f": "Korea Institute for Advanced Study, School of Physics",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-31",
+  "dt": "Dec 31, 2026 (Korea Standard Time)",
+  "a": "2 years, one-time renewal for 2 more; salary not listed",
+  "e": "Postdoctoral research fellow positions in quantum field theory and string theory at KIAS in Seoul. Applicants should show research contributions beyond the doctoral dissertation; no citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33288",
+  "unv": "Salary and start date not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-02",
+  "added": "2026-11-02",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "kicp-fellowship",
   "n": "KICP Fellowship",
   "f": "U Chicago",
@@ -8181,6 +8294,29 @@
   "nfit": "Medium",
   "checked": "2026-11-02",
   "added": "2026-09-29",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "kit-itp-theoretical-particle-physics-postdocs-2027",
+  "n": "KIT Institute for Theoretical Physics: Postdocs in Theoretical Particle Physics",
+  "f": "Karlsruhe Institute of Technology, Institute for Theoretical Physics (ITP)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-07",
+  "dt": "Priority to applications received by Jan 7, 2027",
+  "a": "2 years, possible third year; start autumn 2027; salary not listed",
+  "e": "Several postdoctoral positions in particle phenomenology, astroparticle physics or cosmology (collider physics, precision calculations, EFTs, BSM, dark matter, inflation, Monte Carlo development) with the ITP group at KIT. No citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33306",
+  "unv": "Salary not stated; positions are described as expected to become available.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-02",
+  "added": "2026-11-02",
   "stages": [
    "pd"
   ]
@@ -9083,6 +9219,28 @@
   "added": "2026-09-30",
   "stages": [
    "pd"
+  ]
+ },
+ {
+  "id": "mit-haystack-observatory-reu-2027",
+  "n": "MIT Haystack Observatory REU (Summer 2027)",
+  "f": "MIT Haystack Observatory (NSF REU)",
+  "c": "Summer program",
+  "s": "open",
+  "d": "2027-02-01",
+  "dt": "Applications due Feb 1, 2027; the application form opens on Thanksgiving 2026; first offers around Mar 1",
+  "a": "$620/week stipend for 10 weeks (early June to August), free dormitory housing and daily transport; limited travel support",
+  "e": "Ten-week paid summer research at MIT Haystack Observatory (Westford, MA) in radio astronomy, geodesy, radar and ionospheric science and related engineering and computing, with listed projects on Event Horizon Telescope and BHEX black hole imaging, EDGES low-frequency cosmology, quasar VLBI and the 37 m telescope. Open to undergraduates (bachelor's or associate degree programs) who have not graduated before the June start; US citizens and permanent residents only (NSF REU rule).",
+  "u": "https://www.haystack.mit.edu/haystack-public-outreach/research-experiences-for-undergraduates-reu/",
+  "unv": "The program is contingent on NSF funding; 2027 program dates and the 2027 project list are not posted yet (the page lists the 2026-era projects, subject to change).",
+  "us": true,
+  "nom": false,
+  "region": "US",
+  "nfit": "High",
+  "checked": "2026-11-02",
+  "added": "2026-11-02",
+  "stages": [
+   "ug"
   ]
  },
  {
@@ -11887,6 +12045,29 @@
   ]
  },
  {
+  "id": "slac-associate-scientist-ai-fundamental-physics",
+  "n": "SLAC: Associate Scientist, AI and Fundamental Physics",
+  "f": "SLAC National Accelerator Laboratory, Fundamental Physics Directorate",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2026-12-18",
+  "dt": "Deadline Dec 18, 2026",
+  "a": "Associate Scientist, 3-5 year fixed term with possible appointment to Staff Scientist; salary not listed",
+  "e": "Research staff position at a level the lab compares to assistant professor, to build a research program in AI and fundamental physics (including astrophysics and cosmology) at SLAC. Requires a PhD and at least two years of postdoctoral experience in AI for fundamental physics; on-site work; no citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33299",
+  "unv": "Salary and start date not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-11-02",
+  "added": "2026-11-02",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "slac-panofsky-fellowship",
   "n": "SLAC Panofsky Fellowship",
   "f": "SLAC National Accelerator Laboratory",
@@ -13496,6 +13677,29 @@
   ]
  },
  {
+  "id": "udem-particle-phenomenology-postdoc-2027",
+  "n": "Université de Montréal: Postdoc in Particle Phenomenology",
+  "f": "Université de Montréal, Groupe de Physique des Particules",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-03",
+  "dt": "Deadline Jan 3, 2027",
+  "a": "Salary and term not listed",
+  "e": "Postdoc in theoretical particle physics (phenomenology) with David London and Ryan Plestid: flavour physics, rare decays, neutrinos, dark matter, model building, precision physics and BSM searches. Requires a PhD in theoretical particle physics; no citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33188",
+  "unv": "Salary, term and start date not stated in the ad.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "nfit": "Low",
+  "checked": "2026-11-02",
+  "added": "2026-11-02",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "uf-astronomy-reu-2027",
   "n": "UF Astronomy REU (Summer 2027)",
   "f": "University of Florida, Department of Astronomy",
@@ -14476,6 +14680,29 @@
   "nfit": "Medium",
   "checked": "2026-11-02",
   "added": "2026-10-30",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "weizmann-hep-theory-postdoc-2027",
+  "n": "Weizmann Institute: Postdoc in Theoretical High-Energy Physics",
+  "f": "Weizmann Institute of Science, Department of Particle Physics and Astrophysics",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-17",
+  "dt": "Full consideration by Dec 17, 2026; no offers with deadlines before Jan 29, 2027",
+  "a": "Postdoctoral fellowship starting fall 2027; salary not listed",
+  "e": "Postdoctoral fellowships with the high-energy theory group (Ofer Aharony, Micha Berkooz, Adar Sharon) in quantum field theory, string theory and quantum chaos. A joint Weizmann-Max Planck postdoc option (two years at each) has a Dec 21 deadline; no citizenship limits stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33305",
+  "unv": "Salary and term length not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-02",
+  "added": "2026-11-02",
   "stages": [
    "pd"
   ]

@@ -1019,6 +1019,36 @@
   "us": false
  },
  {
+  "a": "AWS covers the cost of storing and sharing the dataset on the Registry of Open Data on AWS (in-kind; no dollar cap stated)",
+  "added": "2026-11-02",
+  "c": "Compute",
+  "checked": "2026-11-02",
+  "d": null,
+  "dt": "Rolling; AWS says decisions are generally sent within two weeks",
+  "e": "Covers cloud storage and data-transfer costs for publicly available, openly licensed, cloud-optimized datasets (for example a survey or timing-array data release) listed on the Registry of Open Data on AWS. Data providers apply; applications are judged on accessibility, cloud readiness, community engagement and demand.",
+  "f": "Amazon Web Services",
+  "fields": [
+   "ds",
+   "all"
+  ],
+  "id": "aws-open-data-sponsorship-program",
+  "n": "AWS Open Data Sponsorship Program",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:aws-open-data-sponsorship",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://aws.amazon.com/opendata/open-data-sponsorship-program/",
+  "unv": "The page names 'data providers' as applicants and does not say whether individual faculty or postdocs (rather than an institution or collaboration) may apply, or list citizenship limits; no award size is stated.",
+  "us": false
+ },
+ {
   "a": "Initial 2-year appointment; salary not stated as a figure, travel support included",
   "added": "2026-10-11",
   "asub": [
@@ -3904,6 +3934,38 @@
    "t": "No Yale endorsement is required: the Yale postgraduate awards grid does not mark it as needing Yale nomination. Apply directly to Cambridge by the October US-round deadline. Yale Office of Fellowships advises.",
    "u": "https://funding.yale.edu/sites/default/files/files/Yale%20Postgraduate%20Fellowships%20Grid.pdf"
   }
+ },
+ {
+  "a": "Free housing and office space at Green Bank, WV (no stipend); standard stays of about three weeks",
+  "added": "2026-11-02",
+  "asub": [
+   "he",
+   "ism",
+   "inst"
+  ],
+  "c": "Visiting program",
+  "checked": "2026-11-02",
+  "d": null,
+  "dt": "Applications open Feb 1, 2027; rolling admission until spaces are full, expected to close in mid-April 2027",
+  "e": "Graduate students who work with Green Bank Observatory data or staff spend a few weeks on site, in themed blocks (pulsars and the interstellar medium; star formation, astrochemistry and technosignatures; planetary radar and radio instrumentation; HI, galaxies and interference), with a mini single-dish school and 20 m telescope observing in each block. The page states no citizenship limit.",
+  "f": "Green Bank Observatory (NSF)",
+  "fields": [
+   "astro",
+   "inst"
+  ],
+  "id": "gbo-graduate-students-in-residence-summer-2027",
+  "n": "Green Bank Observatory Graduate Students in Residence (Summer 2027)",
+  "nfit": "High",
+  "nom": false,
+  "region": "US",
+  "s": "watch",
+  "src": "other:gbo-grad-residence",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://greenbankobservatory.org/graduate-students/",
+  "unv": "No exact closing date is posted (only 'mid April'); the summer 2027 block dates are not posted yet (the page still lists 2026 sessions).",
+  "us": false
  },
  {
   "a": "Free",
@@ -7560,6 +7622,38 @@
   "us": false
  },
  {
+  "a": "$620/week stipend for 10 weeks (early June to August), free dormitory housing and daily transport; limited travel support",
+  "added": "2026-11-02",
+  "asub": [
+   "he",
+   "cos",
+   "inst"
+  ],
+  "c": "Summer program",
+  "checked": "2026-11-02",
+  "d": "2027-02-01",
+  "dt": "Applications due Feb 1, 2027; the application form opens on Thanksgiving 2026; first offers around Mar 1",
+  "e": "Ten-week paid summer research at MIT Haystack Observatory (Westford, MA) in radio astronomy, geodesy, radar and ionospheric science and related engineering and computing, with listed projects on Event Horizon Telescope and BHEX black hole imaging, EDGES low-frequency cosmology, quasar VLBI and the 37 m telescope. Open to undergraduates (bachelor's or associate degree programs) who have not graduated before the June start; US citizens and permanent residents only (NSF REU rule).",
+  "f": "MIT Haystack Observatory (NSF REU)",
+  "fields": [
+   "astro",
+   "inst"
+  ],
+  "id": "mit-haystack-observatory-reu-2027",
+  "n": "MIT Haystack Observatory REU (Summer 2027)",
+  "nfit": "High",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:haystack-reu",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://www.haystack.mit.edu/haystack-public-outreach/research-experiences-for-undergraduates-reu/",
+  "unv": "The program is contingent on NSF funding; 2027 program dates and the 2027 project list are not posted yet (the page lists the 2026-era projects, subject to change).",
+  "us": true
+ },
+ {
   "a": "$73,308-$90,000; ~$15,000 research budget",
   "added": "2026-10-07",
   "c": "Fellowship",
@@ -8421,6 +8515,39 @@
   ],
   "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-78-new-opportunity-b-7-heliophysics-low-cost-access-to-space/",
   "unv": "The NSPIRES page with the full call text timed out, so award size and number of awards are not given.",
+  "us": false
+ },
+ {
+  "added": "2026-11-02",
+  "asub": [
+   "star"
+  ],
+  "c": "Federal grant",
+  "checked": "2026-11-02",
+  "d": "2026-11-20",
+  "dt": "Step-1 proposal due Nov 20, 2026 (required); Step-2 proposal due Feb 5, 2027 (ROSES-25 Amendment 79)",
+  "e": "New ROSES-2025 element funding investigations that prepare the two top-priority heliophysics spaceflight projects of the 2024 Decadal Survey: Links (magnetosphere-aurora coupling) and Solar Polar (global solar dynamics and the solar dynamo). Two-step submission with dual-anonymous review; NASA generally funds only US institutions, and non-US groups may take part without exchange of funds.",
+  "f": "NASA Science Mission Directorate, Heliophysics Division",
+  "fields": [
+   "astro"
+  ],
+  "id": "nasa-roses25-b8-heliophysics-spaceflight-science-found",
+  "n": "NASA ROSES-2025 B.8 Heliophysics Spaceflight Science Foundations (SSF)",
+  "nofo": [
+   {
+    "opp": "NNH25ZDA001N-SSF",
+    "u": "https://simpler.grants.gov/opportunity/60fe4b26-ef81-4bbd-96cc-4aaafd725587"
+   }
+  ],
+  "nom": false,
+  "s": "open",
+  "src": "grants:NNH25ZDA001N-SSF",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-79-new-opportunity-b-8-heliophysics-spaceflight-science-foundations/",
+  "unv": "Award size and number of awards are in the full NSPIRES call text, which was not read; the amendment page and grants.gov notice do not state them.",
   "us": false
  },
  {
@@ -11451,6 +11578,39 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/SkAIInstitute/PDASSOCIATE",
+  "us": false
+ },
+ {
+  "a": "Associate Scientist, 3-5 year fixed term with possible appointment to Staff Scientist; salary not listed",
+  "added": "2026-11-02",
+  "asub": [
+   "cos"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-11-02",
+  "d": "2026-12-18",
+  "dt": "Deadline Dec 18, 2026",
+  "e": "Research staff position at a level the lab compares to assistant professor, to build a research program in AI and fundamental physics (including astrophysics and cosmology) at SLAC. Requires a PhD and at least two years of postdoctoral experience in AI for fundamental physics; on-site work; no citizenship limits stated.",
+  "f": "SLAC National Accelerator Laboratory, Fundamental Physics Directorate",
+  "fields": [
+   "ppx",
+   "ppt",
+   "astro",
+   "ds"
+  ],
+  "id": "slac-associate-scientist-ai-fundamental-physics",
+  "n": "SLAC: Associate Scientist, AI and Fundamental Physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33299",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33299",
+  "unv": "Salary and start date not stated.",
   "us": false
  },
  {

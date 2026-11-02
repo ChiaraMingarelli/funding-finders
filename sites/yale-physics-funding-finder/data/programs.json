@@ -400,6 +400,45 @@
   "us": false
  },
  {
+  "a": "Up to $150,000 per year for 3 years per US PI; about 8 awards ($1.2M per year total for US projects)",
+  "added": "2026-11-02",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Federal grant",
+  "checked": "2026-11-02",
+  "d": "2026-11-18",
+  "dt": "Joint 3-page pre-proposal (white paper) due Nov 18, 2026 by email to AFOSR and via the NSTC system; invited full proposals due Feb 19, 2027",
+  "e": "Joint US-Taiwan basic research on AI-driven materials discovery, materials and nanostructures for energy-efficient electronic, photonic and quantum information technologies, and quantum geometry in solids. Each pre-proposal pairs a US PI and a Taiwan PI; the US PI must be a US citizen, national or permanent resident in a permanent or tenure-track position at a US university.",
+  "f": "Air Force Office of Scientific Research (AFOSR/AOARD) and Taiwan NSTC",
+  "fields": [
+   "cmx",
+   "cmt",
+   "mat",
+   "dev",
+   "phot",
+   "qp"
+  ],
+  "id": "afosr-taiwan-nstc-materials-nanostructures-2027",
+  "n": "AFOSR-Taiwan NSTC Frontiers in Materials and Nanostructures (2027-2030)",
+  "nofo": [
+   {
+    "opp": "FA955027S0002",
+    "u": "https://simpler.grants.gov/opportunity/d08645c9-6162-453f-84dc-92d4614dc711"
+   }
+  ],
+  "nom": false,
+  "s": "open",
+  "src": "grants:FA955027S0002",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://simpler.grants.gov/opportunity/d08645c9-6162-453f-84dc-92d4614dc711",
+  "us": true
+ },
+ {
   "a": "Up to $150K/yr for 3 years ($450K); ~37 awards plus 3 LPS-funded QIS YIPs",
   "added": "2026-09-28",
   "aud": [
@@ -2188,6 +2227,43 @@
   "us": false
  },
  {
+  "a": "AWS covers the cost of storing and sharing the dataset on the Registry of Open Data on AWS (in-kind; no dollar cap stated)",
+  "added": "2026-11-02",
+  "aud": [
+   "yale",
+   "ng",
+   "radar",
+   "ap",
+   "ast"
+  ],
+  "c": "Compute",
+  "checked": "2026-11-02",
+  "d": null,
+  "dt": "Rolling; AWS says decisions are generally sent within two weeks",
+  "e": "Covers cloud storage and data-transfer costs for publicly available, openly licensed, cloud-optimized datasets (for example a survey or timing-array data release) listed on the Registry of Open Data on AWS. Data providers apply; applications are judged on accessibility, cloud readiness, community engagement and demand.",
+  "f": "Amazon Web Services",
+  "fields": [
+   "ds",
+   "all"
+  ],
+  "id": "aws-open-data-sponsorship-program",
+  "n": "AWS Open Data Sponsorship Program",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:aws-open-data-sponsorship",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://aws.amazon.com/opendata/open-data-sponsorship-program/",
+  "unv": "The page names 'data providers' as applicants and does not say whether individual faculty or postdocs (rather than an institution or collaboration) may apply, or list citizenship limits; no award size is stated.",
+  "us": false
+ },
+ {
   "a": "$85K first year plus $7K/yr research fund; 3 years",
   "added": "2026-09-28",
   "aud": [
@@ -2425,6 +2501,38 @@
    "ten"
   ],
   "u": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/friedrich-wilhelm-bessel-research-award",
+  "us": false
+ },
+ {
+  "a": "2 years, possible 1-year extension; RMB 300k-500k (about $42k-$70k) per year",
+  "added": "2026-11-02",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-02",
+  "d": null,
+  "dt": "No deadline stated; listed on AJO until Oct 28, 2027",
+  "e": "Several postdoctoral positions in mathematics, theoretical physics (including string theory, high-energy theory, condensed matter theory and mathematical physics) and computer science in Beijing. PhD required before the start; no citizenship limits stated.",
+  "f": "Beijing Institute of Mathematical Sciences and Applications (BIMSA)",
+  "fields": [
+   "ppt",
+   "cmt"
+  ],
+  "id": "bimsa-postdoctoral-positions-2027",
+  "n": "BIMSA: Postdoctoral Positions in Mathematics and Theoretical Physics",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "ajo:33193",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33193",
+  "unv": "No application deadline or start date stated.",
   "us": false
  },
  {
@@ -8863,6 +8971,35 @@
   "us": false
  },
  {
+  "a": "Project-based time on IBM quantum processors beyond the free Open Plan, with technical support; no stated maximum",
+  "added": "2026-11-02",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Industry",
+  "checked": "2026-11-02",
+  "d": null,
+  "dt": "Rolling review; no deadlines",
+  "e": "IBM awards quantum hardware time for novel, utility-scale research projects at eligible research institutions. Applications must come from a tenure-track faculty member or permanent research staff lead; students use the Open Plan or a professor's classroom account.",
+  "f": "IBM Quantum",
+  "fields": [
+   "qp"
+  ],
+  "id": "ibm-quantum-credits",
+  "n": "IBM Quantum Credits (research access to IBM quantum hardware)",
+  "nom": false,
+  "s": "rolling",
+  "src": "other:ibm-quantum-credits",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://www.ibm.com/quantum/quantum-credits",
+  "unv": "Award size and credit validity period are set per award and not published",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-11-01",
   "asub": [
@@ -11895,6 +12032,37 @@
   "us": false
  },
  {
+  "a": "2 years, one-time renewal for 2 more; salary not listed",
+  "added": "2026-11-02",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-02",
+  "d": "2026-12-31",
+  "dt": "Dec 31, 2026 (Korea Standard Time)",
+  "e": "Postdoctoral research fellow positions in quantum field theory and string theory at KIAS in Seoul. Applicants should show research contributions beyond the doctoral dissertation; no citizenship limits stated.",
+  "f": "Korea Institute for Advanced Study, School of Physics",
+  "fields": [
+   "ppt"
+  ],
+  "id": "kias-qft-string-theory-research-fellows-2027",
+  "n": "KIAS: Research Fellow in Quantum Field Theory & String Theory",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33288",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33288",
+  "unv": "Salary and start date not stated.",
+  "us": false
+ },
+ {
   "a": "$76k–80k, up to 3 yr",
   "added": "2026-09-29",
   "aud": [
@@ -11957,6 +12125,37 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/Stanford/KIPAC/FELLOWS",
+  "us": false
+ },
+ {
+  "a": "2 years, possible third year; start autumn 2027; salary not listed",
+  "added": "2026-11-02",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-02",
+  "d": "2027-01-07",
+  "dt": "Priority to applications received by Jan 7, 2027",
+  "e": "Several postdoctoral positions in particle phenomenology, astroparticle physics or cosmology (collider physics, precision calculations, EFTs, BSM, dark matter, inflation, Monte Carlo development) with the ITP group at KIT. No citizenship limits stated.",
+  "f": "Karlsruhe Institute of Technology, Institute for Theoretical Physics (ITP)",
+  "fields": [
+   "ppt"
+  ],
+  "id": "kit-itp-theoretical-particle-physics-postdocs-2027",
+  "n": "KIT Institute for Theoretical Physics: Postdocs in Theoretical Particle Physics",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33306",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33306",
+  "unv": "Salary not stated; positions are described as expected to become available.",
   "us": false
  },
  {
@@ -12597,6 +12796,35 @@
   ],
   "u": "https://www.houches-school-physics.com/program/program-2027/summer-school-adaptive-measurements-and-dissipation-engineering-in-quantum-systems-1736630.kjsp",
   "unv": "Deadline and fees not posted (rechecked Nov 2, 2026). The session's registration page says applications open in early 2027 and a limited number of grants to cover registration fees may be available.",
+  "us": false
+ },
+ {
+  "a": "School fee €550 (tax included), covering accommodation, meals and hosting; travel not included",
+  "added": "2026-11-02",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Summer program",
+  "checked": "2026-11-02",
+  "d": "2026-12-18",
+  "dt": "Apply before Dec 18, 2026; selection early 2027, registration opens in February; school Apr 18-23, 2027",
+  "e": "One-week school at Les Houches on nonlinear light-matter interactions, optics in complex media, quantum state engineering for imaging and sensing, and advanced microscopy. Only registered PhD students (any year) may apply, through an online form.",
+  "f": "Les Houches School of Physics",
+  "fields": [
+   "phot",
+   "amo"
+  ],
+  "id": "les-houches-2027-niqo-nonlinear-imaging-quantum-optics",
+  "n": "Les Houches School 2027: Non-linear, Imaging and Quantum Optics (NIQO 2027)",
+  "nom": false,
+  "s": "open",
+  "src": "other:niqo2027",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://niqo2027.sciencesconf.org/page/application?lang=en",
+  "unv": "Number of places and any fee waivers or grants are not stated",
   "us": false
  },
  {
@@ -13309,6 +13537,36 @@
   ],
   "u": "https://lsstdiscoveryalliance.org/vera-c-rubin-astronomy-frontiers-fellowship/",
   "us": false
+ },
+ {
+  "a": "$6,500 stipend, housing provided if needed, up to $800 travel",
+  "added": "2026-11-02",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Summer program",
+  "checked": "2026-11-02",
+  "d": "2027-01-08",
+  "dt": "Application deadline Jan 8, 2027; program May 24 - July 30, 2027",
+  "e": "Ten-week summer research at the MagLab in Tallahassee or Gainesville in physics, chemistry, biology, geochemistry, materials science, or magnet science and engineering. U.S. citizens and permanent residents aged 18 or older by the start date.",
+  "f": "National High Magnetic Field Laboratory (Florida State University / University of Florida)",
+  "fields": [
+   "cmx",
+   "mat",
+   "dev"
+  ],
+  "id": "maglab-reu-2027",
+  "n": "National MagLab Research Experiences for Undergraduates (REU), Summer 2027",
+  "nom": false,
+  "s": "open",
+  "src": "other:maglab-reu",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://nationalmaglab.org/education/college-students/reu/",
+  "unv": "Required class year not stated",
+  "us": true
  },
  {
   "a": "TV-L E13; 3 years",
@@ -14679,6 +14937,43 @@
   ],
   "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-78-new-opportunity-b-7-heliophysics-low-cost-access-to-space/",
   "unv": "The NSPIRES page with the full call text timed out, so award size and number of awards are not given.",
+  "us": false
+ },
+ {
+  "added": "2026-11-02",
+  "asub": [
+   "star"
+  ],
+  "aud": [
+   "yale",
+   "ast"
+  ],
+  "c": "Federal grant",
+  "checked": "2026-11-02",
+  "d": "2026-11-20",
+  "dt": "Step-1 proposal due Nov 20, 2026 (required); Step-2 proposal due Feb 5, 2027 (ROSES-25 Amendment 79)",
+  "e": "New ROSES-2025 element funding investigations that prepare the two top-priority heliophysics spaceflight projects of the 2024 Decadal Survey: Links (magnetosphere-aurora coupling) and Solar Polar (global solar dynamics and the solar dynamo). Two-step submission with dual-anonymous review; NASA generally funds only US institutions, and non-US groups may take part without exchange of funds.",
+  "f": "NASA Science Mission Directorate, Heliophysics Division",
+  "fields": [
+   "astro"
+  ],
+  "id": "nasa-roses25-b8-heliophysics-spaceflight-science-found",
+  "n": "NASA ROSES-2025 B.8 Heliophysics Spaceflight Science Foundations (SSF)",
+  "nofo": [
+   {
+    "opp": "NNH25ZDA001N-SSF",
+    "u": "https://simpler.grants.gov/opportunity/60fe4b26-ef81-4bbd-96cc-4aaafd725587"
+   }
+  ],
+  "nom": false,
+  "s": "open",
+  "src": "grants:NNH25ZDA001N-SSF",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-79-new-opportunity-b-8-heliophysics-spaceflight-science-foundations/",
+  "unv": "Award size and number of awards are in the full NSPIRES call text, which was not read; the amendment page and grants.gov notice do not state them.",
   "us": false
  },
  {
@@ -21801,6 +22096,44 @@
   "us": false
  },
  {
+  "a": "Associate Scientist, 3-5 year fixed term with possible appointment to Staff Scientist; salary not listed",
+  "added": "2026-11-02",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-11-02",
+  "d": "2026-12-18",
+  "dt": "Deadline Dec 18, 2026",
+  "e": "Research staff position at a level the lab compares to assistant professor, to build a research program in AI and fundamental physics (including astrophysics and cosmology) at SLAC. Requires a PhD and at least two years of postdoctoral experience in AI for fundamental physics; on-site work; no citizenship limits stated.",
+  "f": "SLAC National Accelerator Laboratory, Fundamental Physics Directorate",
+  "fields": [
+   "ppx",
+   "ppt",
+   "astro",
+   "ds"
+  ],
+  "id": "slac-associate-scientist-ai-fundamental-physics",
+  "n": "SLAC: Associate Scientist, AI and Fundamental Physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33299",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33299",
+  "unv": "Salary and start date not stated.",
+  "us": false
+ },
+ {
   "a": "5-year Associate Staff Scientist appointment with research support; review for continuing staff at or before the end.",
   "added": "2026-09-29",
   "aud": [
@@ -25404,6 +25737,37 @@
   "us": false
  },
  {
+  "a": "Salary and term not listed",
+  "added": "2026-11-02",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-02",
+  "d": "2027-01-03",
+  "dt": "Deadline Jan 3, 2027",
+  "e": "Postdoc in theoretical particle physics (phenomenology) with David London and Ryan Plestid: flavour physics, rare decays, neutrinos, dark matter, model building, precision physics and BSM searches. Requires a PhD in theoretical particle physics; no citizenship limits stated.",
+  "f": "Université de Montréal, Groupe de Physique des Particules",
+  "fields": [
+   "ppt"
+  ],
+  "id": "udem-particle-phenomenology-postdoc-2027",
+  "n": "Université de Montréal: Postdoc in Particle Phenomenology",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "open",
+  "src": "ajo:33188",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33188",
+  "unv": "Salary, term and start date not stated in the ad.",
+  "us": false
+ },
+ {
   "a": "$60,000 per year plus travel funding and benefits",
   "added": "2026-10-13",
   "asub": [
@@ -27334,6 +27698,34 @@
   "us": false
  },
  {
+  "a": "Two years; competitive salary plus annual professional development funds (amount not stated)",
+  "added": "2026-11-02",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-11-02",
+  "d": "2027-01-31",
+  "dt": "Deadline for the next cycle Jan 31, 2027 (email one PDF to TQI-OE@utexas.edu)",
+  "e": "Two-year quantum science and engineering fellowship for incoming and current UT Austin postdocs. Apply with a one-page research proposal, a CV and an email in which two UT faculty sponsors endorse the candidate.",
+  "f": "Texas Quantum Institute, University of Texas at Austin",
+  "fields": [
+   "qp"
+  ],
+  "id": "ut-austin-tqi-postdoctoral-fellowship-2027",
+  "n": "Texas Quantum Institute (UT Austin) Postdoctoral Fellowship",
+  "nom": false,
+  "pt": "prize",
+  "s": "open",
+  "src": "other:utexas-tqi-postdoc",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://quantum.utexas.edu/opportunities",
+  "unv": "Salary amount and citizenship rules not stated"
+ },
+ {
   "a": "$65,000–$70,000 anticipated hiring range",
   "added": "2026-10-27",
   "aud": [
@@ -27891,6 +28283,37 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33280",
   "unv": "Salary not listed.",
+  "us": false
+ },
+ {
+  "a": "Postdoctoral fellowship starting fall 2027; salary not listed",
+  "added": "2026-11-02",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-02",
+  "d": "2026-12-17",
+  "dt": "Full consideration by Dec 17, 2026; no offers with deadlines before Jan 29, 2027",
+  "e": "Postdoctoral fellowships with the high-energy theory group (Ofer Aharony, Micha Berkooz, Adar Sharon) in quantum field theory, string theory and quantum chaos. A joint Weizmann-Max Planck postdoc option (two years at each) has a Dec 21 deadline; no citizenship limits stated.",
+  "f": "Weizmann Institute of Science, Department of Particle Physics and Astrophysics",
+  "fields": [
+   "ppt"
+  ],
+  "id": "weizmann-hep-theory-postdoc-2027",
+  "n": "Weizmann Institute: Postdoc in Theoretical High-Energy Physics",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33305",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33305",
+  "unv": "Salary and term length not stated.",
   "us": false
  },
  {
