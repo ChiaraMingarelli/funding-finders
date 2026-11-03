@@ -2456,35 +2456,6 @@
   "us": false
  },
  {
-  "a": "1 yr of study/research at Cambridge (fees + stipend)",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026, 5 pm ET",
-  "e": "US citizen seniors/recent grads from participating institutions (Yale participates), endorsed by the institution.",
-  "f": "Winston Churchill Foundation",
-  "fields": [
-   "all"
-  ],
-  "id": "churchill-scholarship-2027-28",
-  "n": "Churchill Scholarship (2027-28)",
-  "nfit": "Low",
-  "nom": true,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "ug"
-  ],
-  "u": "https://www.churchillscholarship.org/",
-  "us": true,
-  "yale": {
-   "d": "2026-10-01",
-   "t": "Campus deadline for Yale's nomination: 1pm ET, Oct 1, 2026, through the Yale Student Grants Database (yale.communityforce.com). Submit a PDF of the submitted draft Churchill application and 4 letters. Yale nominates 2. You must also apply to Cambridge by the mid-October Gates Cambridge deadline, listing Churchill as first-choice college.",
-   "u": "https://funding.yale.edu/find-funding/uk-fellowships"
-  }
- },
- {
   "a": "1–3 years; salary not listed",
   "added": "2026-10-03",
   "c": "Group postdoc",
@@ -4695,8 +4666,8 @@
   "added": "2026-09-29",
   "c": "Summer program",
   "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026, 5 pm CT; interns announced Jan 15, 2027; program runs summer 2027 with 20 positions",
+  "d": null,
+  "dt": "Last deadline Nov 2, 2026, 5 pm CT; the next cycle is not posted yet",
   "e": "Paid 10-week summer research internships for college freshmen and sophomores in chemistry, computing, engineering, life sciences, and physics and astronomy. US citizens and permanent residents only.",
   "f": "Barry Goldwater Scholarship Foundation",
   "fields": [
@@ -4707,7 +4678,7 @@
   "nfit": "Low",
   "nom": false,
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "ug"
   ],
@@ -7338,40 +7309,6 @@
   ],
   "u": "https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/",
   "unv": "The 17 current research challenges are all AI-focused; none is about quantum or materials. The 2026-27 dates are not posted.",
-  "us": false
- },
- {
-  "a": "not listed",
-  "added": "2026-09-30",
-  "asub": [
-   "cos",
-   "he"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026, 11:59 pm ET; nominations due Oct 9",
-  "e": "Nomination-based fellowship across QFT, quantum gravity, strings, cosmology, phenomenology, nuclear theory and QIS; 3+ letters. Start Sep 1, 2027.",
-  "f": "MIT Center for Theoretical Physics - a Leinweber Institute",
-  "fields": [
-   "ppt",
-   "nut",
-   "astro",
-   "grav",
-   "qp"
-  ],
-  "id": "mit-ctp-leinweber-postdoctoral-fellowships-in-theoretica",
-  "n": "MIT CTP: Leinweber Postdoctoral Fellowships in Theoretical Physics",
-  "nfit": "High",
-  "nom": true,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "ajo:32742",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32742",
   "us": false
  },
  {
@@ -10666,6 +10603,35 @@
   "us": false
  },
  {
+  "a": "About TWD 64,000 per month for a new PhD, plus bonus up to 1.5 months' salary; no teaching",
+  "added": "2026-11-03",
+  "c": "Group postdoc",
+  "checked": "2026-11-03",
+  "d": "2026-12-15",
+  "dt": "Priority to applications received by Dec 15, 2026; accepted until positions are filled",
+  "e": "Several postdocs with Chong-Sun Chu and Norihiro Iizuka on quantum gravity, holography, quantum information, black hole physics and quantum many-body or condensed matter theory; AI/LLM applications to theory are welcome. Apply by email; no citizenship limit is stated.",
+  "f": "National Tsing Hua University, Department of Physics",
+  "fields": [
+   "ppt",
+   "qp",
+   "cmt"
+  ],
+  "id": "nthu-taiwan-theory-postdocs-chu-iizuka",
+  "n": "National Tsing Hua University (Taiwan): Postdoctoral positions in theoretical physics (Chu and Iizuka)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3220936",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3220936",
+  "unv": "No host web ad is linked; details are from INSPIRE.",
+  "us": false
+ },
+ {
   "a": "Salary not listed",
   "added": "2026-10-07",
   "c": "Group postdoc",
@@ -13454,31 +13420,6 @@
    "pd"
   ],
   "u": "https://glam.stanford.edu/fellowships/",
-  "us": false
- },
- {
-  "a": "3 years funding, competitive salary plus discretionary research/travel funds",
-  "added": "2026-10-03",
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Apply by Nov 2, 2026 (AJO)",
-  "e": "Independent postdoctoral fellowship in condensed matter theory (quantum materials, topological phases, strongly correlated systems, quantum dynamics and QI–many-body interface), starting fall 2027; separate from the general LITP theory fellowship. No citizenship restriction stated.",
-  "f": "Stanford University, Leinweber Institute for Theoretical Physics (condensed matter theory)",
-  "fields": [
-   "cmt",
-   "qp"
-  ],
-  "id": "stanford-litp-cmt-fellow-2027",
-  "n": "Stanford LITP: Leinweber Postdoctoral Fellow in Condensed Matter Theory",
-  "nom": false,
-  "pt": "prize",
-  "s": "open",
-  "src": "ajo:32908",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32908",
   "us": false
  },
  {

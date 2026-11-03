@@ -93,38 +93,6 @@
   "unv": "aas.org returned HTTP 403 on Oct 7, Oct 21 and Nov 2, 2026; the April 1 annual deadline, amount and eligibility come from search snippets of the AAS grant page and AAS FAQ. Citizenship rules not checked."
  },
  {
-  "a": "Travel support",
-  "added": "2026-09-29",
-  "aud": [
-   "yale",
-   "ng",
-   "radar",
-   "ast"
-  ],
-  "c": "Travel",
-  "checked": "2026-09-29",
-  "d": "2026-11-02",
-  "dt": "",
-  "e": "Aimed at groups underrepresented in astronomy.",
-  "f": "AAS",
-  "fields": [
-   "astro"
-  ],
-  "id": "aas-famous-travel-grants-aas-249",
-  "n": "AAS FAMOUS Travel Grants (AAS 249)",
-  "nfit": "Medium",
-  "nom": false,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "gr",
-   "ug"
-  ],
-  "u": "https://aas.org/meetings/aas249/meeting-grants",
-  "unv": "AAS pages returned 403 on Oct 7, Oct 21 and Nov 2, 2026; the Nov 2 deadline could not be reconfirmed on aas.org (a third-party grant listing gives Nov 2, 2026).",
-  "us": false
- },
- {
   "a": "Economy airfare",
   "added": "2026-09-29",
   "aud": [
@@ -738,6 +706,38 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3211697",
+  "us": false
+ },
+ {
+  "a": "1 year, renewable up to two more years; salary not stated",
+  "added": "2026-11-03",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-03",
+  "d": "2026-12-20",
+  "dt": "Priority to applications received by Dec 20, 2026; review continues until filled; start Sep 1, 2027 (negotiable)",
+  "e": "Postdocs in theoretical high-energy physics with Hyun-Sik Jeong, on holography, quantum information, AI, and quantum simulation and computation. Apply by email; no citizenship limit is stated.",
+  "f": "Asia Pacific Center for Theoretical Physics",
+  "fields": [
+   "ppt",
+   "qp"
+  ],
+  "id": "apctp-jrg-qi-black-holes-holography-postdoc",
+  "n": "APCTP (Pohang): Postdocs in the Junior Research Group on Quantum Information, Black Holes and Holography",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3220855",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://sites.google.com/view/for-hyun-sik/home",
+  "unv": "Details from INSPIRE; salary not stated.",
   "us": false
  },
  {
@@ -3391,39 +3391,6 @@
   "us": false
  },
  {
-  "a": "$87,500/yr + ~$12,000/yr research; 2 years + 3rd",
-  "added": "2026-09-30",
-  "aud": [
-   "yale",
-   "ng",
-   "ast"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026 (letters Nov 9)",
-  "e": "Observational astrophysics or instrumentation with Las Campanas and SDSS-V access. PhD before the start.",
-  "f": "Carnegie Observatories, Pasadena; contact Josh Simon",
-  "fields": [
-   "astro",
-   "inst"
-  ],
-  "id": "carnegie-observatories-carnegie-fellowship-in-observatio",
-  "n": "Carnegie Observatories: Carnegie Fellowship in Observational Astrophysics",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "aas:75eb0ae8",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://apply.interfolio.com/192639",
-  "unv": "Not re-verified on 2026-11-02: the Interfolio page needs JavaScript and the AAS Job Register blocks automated access (403); a web search of the AAS listing still shows the Nov 2, 2026 deadline.",
-  "us": false
- },
- {
   "a": "$3,000 award plus travel expenses",
   "added": "2026-10-10",
   "aud": [
@@ -3810,8 +3777,8 @@
   ],
   "c": "Fellowship",
   "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "For fellowships starting in 2027: deadline 2026-11-02 23:59 CET. Contracts start in autumn.",
+  "d": null,
+  "dt": "Last deadline Nov 2, 2026 (23:59 CET); the next cycle is not posted yet",
   "e": "The TH page explicitly invites non-member-state nationals, including US citizens. Physics fellows must be at most 6 years past PhD.",
   "f": "CERN",
   "fields": [
@@ -3825,7 +3792,7 @@
   "nom": false,
   "pt": "prize",
   "region": "International",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
@@ -3999,46 +3966,6 @@
   "us": false
  },
  {
-  "a": "1 yr of study/research at Cambridge (fees + stipend)",
-  "added": "2026-09-29",
-  "aud": [
-   "yale",
-   "ng",
-   "radar",
-   "ap",
-   "ast"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026, 5 pm ET",
-  "e": "US citizen seniors/recent grads from participating institutions (Yale participates), endorsed by the institution.",
-  "f": "Winston Churchill Foundation",
-  "fields": [
-   "all"
-  ],
-  "id": "churchill-scholarship-2027-28",
-  "n": "Churchill Scholarship (2027-28)",
-  "nfit": "Low",
-  "ng": {
-   "dt": "Nov 2, 2026, 5 pm ET; your institution's internal deadline is usually earlier (often mid-October)",
-   "e": "US citizen seniors or recent graduates from participating institutions, endorsed by their institution."
-  },
-  "nom": true,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "ug"
-  ],
-  "u": "https://www.churchillscholarship.org/",
-  "us": true,
-  "yale": {
-   "d": "2026-10-01",
-   "t": "Campus deadline for Yale's nomination: 1pm ET, Oct 1, 2026, through the Yale Student Grants Database (yale.communityforce.com). Submit a PDF of the submitted draft Churchill application and 4 letters. Yale nominates 2. You must also apply to Cambridge by the mid-October Gates Cambridge deadline, listing Churchill as first-choice college.",
-   "u": "https://funding.yale.edu/find-funding/uk-fellowships"
-  }
- },
- {
   "a": "$85k–90k + $16k/yr research, 3 yr",
   "added": "2026-09-29",
   "asub": [
@@ -4122,8 +4049,8 @@
   ],
   "c": "Fellowship",
   "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Apply online by Nov 2, 2026; start Sep 1, 2027",
+  "d": null,
+  "dt": "Last deadline Nov 2, 2026; the next cycle is not posted yet",
   "e": "Theoretical astrophysics, including GW and compact objects. Start Sep 1, 2027.",
   "f": "CITA Toronto",
   "fields": [
@@ -4136,7 +4063,7 @@
   "nom": false,
   "pt": "prize",
   "region": "Canada",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
@@ -7330,8 +7257,8 @@
   ],
   "c": "Summer program",
   "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026, 5 pm CT; interns announced Jan 15, 2027; program runs summer 2027 with 20 positions",
+  "d": null,
+  "dt": "Last deadline Nov 2, 2026, 5 pm CT; the next cycle is not posted yet",
   "e": "Paid 10-week summer research internships for college freshmen and sophomores in chemistry, computing, engineering, life sciences, and physics and astronomy. US citizens and permanent residents only.",
   "f": "Barry Goldwater Scholarship Foundation",
   "fields": [
@@ -7342,7 +7269,7 @@
   "nfit": "Low",
   "nom": false,
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "ug"
   ],
@@ -11236,6 +11163,43 @@
   "us": false
  },
  {
+  "a": "1.5 years; salary not stated",
+  "added": "2026-11-03",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-03",
+  "d": "2026-12-11",
+  "dt": "Expressions of interest and letters by Dec 11, 2026; start Feb to Apr 2027 depending on funding",
+  "e": "FCT-funded postdoc with Nicola Franchini computing black-hole quasi-normal modes and their excitation in general relativity and beyond; experience in tests of GR, perturbation theory, waveform modelling or GW data analysis is welcome. Apply by email; no citizenship limit is stated.",
+  "f": "GRIT gravity group, CENTRA, Instituto Superior Tecnico (FCT project, Nicola Franchini)",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "ist-lisbon-ride-ringdown-gw-postdoc",
+  "n": "Instituto Superior Tecnico (Lisbon): Postdoc in gravitational-wave science (RiDE ringdown project)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:ist-lisbon-ride-postdoc-2026",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://hyperspace.uni-frankfurt.de/2026/11/03/postdoctoral-position-in-gravitational-waves-sciences-lisbon-portugal/",
+  "unv": "Only the Hyperspace@GU post was found; it links to the CENTRA homepage, not a separate host ad. Salary not stated.",
+  "us": false
+ },
+ {
   "a": "2 years, likely extension to a 3rd",
   "added": "2026-10-20",
   "aud": [
@@ -12106,8 +12070,8 @@
   ],
   "c": "Fellowship",
   "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "11:59 pm ET",
+  "d": null,
+  "dt": "Last deadline Nov 2, 2026; the next cycle is not posted yet",
   "e": "PhD between Jun 2024 and Sep 2027. Includes Rubin-linked tracks.",
   "f": "Stanford / SLAC",
   "fields": [
@@ -12120,7 +12084,7 @@
   "nom": false,
   "pt": "prize",
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
@@ -12267,6 +12231,42 @@
   ],
   "u": "https://www.kitp.ucsb.edu/scientific-activities/lead/submit-a-program-proposal",
   "unv": "Page gives \"October 16\" without a year; the year follows from the 2028-29 cycle it names. The pre-proposal, guidelines and visit pages (checked Oct 8, 2026) do not say what KITP pays for, so the award note is not confirmed there.",
+  "us": false
+ },
+ {
+  "a": "JPY 320,000-370,000 per month; contract to March 31, 2030, renewed yearly",
+  "added": "2026-11-03",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-03",
+  "d": "2026-12-23",
+  "dt": "Dec 23, 2026, 11:59 pm JST",
+  "e": "One program-specific researcher position on the KAKENHI project on black hole envelopes and high-energy astrophysics, related to multi-messenger astronomy, star and galaxy formation and cosmology. Applicants need a doctorate by the start date (after April 1, 2027); no citizenship limit is stated.",
+  "f": "Yukawa Institute for Theoretical Physics, Kyoto University (JSPS KAKENHI, PI Kunihito Ioka)",
+  "fields": [
+   "astro"
+  ],
+  "id": "kyoto-yitp-black-hole-envelopes-postdoc",
+  "n": "Kyoto University (YITP): Postdoc on black hole envelopes and high-energy astrophysics",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3221095",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.yukawa.kyoto-u.ac.jp/news/n470?lang=en-GB",
+  "unv": "Details from the INSPIRE listing; the YITP page was not opened.",
   "us": false
  },
  {
@@ -13067,6 +13067,68 @@
   "us": false
  },
  {
+  "a": "2 years, possible third year; salary not stated",
+  "added": "2026-11-03",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-03",
+  "d": "2026-12-31",
+  "dt": "Dec 31, 2026 (per INSPIRE); start October 2027",
+  "e": "ERC Starting Grant postdoc in Yannick Ulrich's group developing the McMule Monte Carlo code for low-energy precision QED; no teaching duties. Applicants need a PhD by the start date; no citizenship limit is stated.",
+  "f": "University of Liverpool, Department of Mathematical Sciences",
+  "fields": [
+   "ppt"
+  ],
+  "id": "liverpool-erc-postdoc-precision-qed-mcmule",
+  "n": "University of Liverpool: ERC-funded Postdoctoral Research Associate in Theoretical Particle Physics (precision QED)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3221534",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3221534",
+  "unv": "Details from INSPIRE; applications go through an AJO e-delivery link. Salary and host university ad not confirmed.",
+  "us": false
+ },
+ {
+  "a": "2 years, possible third year with HADRON-2030 funding; salary not stated",
+  "added": "2026-11-03",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-03",
+  "d": "2026-12-31",
+  "dt": "Dec 31, 2026 (per INSPIRE); start October 2027",
+  "e": "STFC-funded postdoc on perturbative precision calculations in the Standard Model and beyond, including collider physics, effective field theories and lattice matching, with Gorbahn, Gracey, Smirnov, Teubner and Ulrich. No citizenship limit is stated.",
+  "f": "University of Liverpool, Department of Mathematical Sciences",
+  "fields": [
+   "ppt"
+  ],
+  "id": "liverpool-stfc-postdoc-precision-pheno",
+  "n": "University of Liverpool: Postdoctoral Research Associate in Theoretical Particle Physics (precision calculations)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3221533",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3221533",
+  "unv": "Details from INSPIRE; applications go through an AJO e-delivery link. Salary and host university ad not confirmed.",
+  "us": false
+ },
+ {
   "a": "Two years (extension possible); start Jan 1, 2027 (somewhat flexible); ERC Advanced Grant NUMBS",
   "added": "2026-10-07",
   "aud": [
@@ -13507,38 +13569,6 @@
   "us": false
  },
  {
-  "a": "$80,000/yr + $12,000/yr; 2 years",
-  "added": "2026-09-30",
-  "aud": [
-   "yale",
-   "ng",
-   "ast"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026, 7:00 pm EST",
-  "e": "Two-year fellowship to apply AI/ML methods to Rubin LSST data, with dedicated NVIDIA GPU time at SLAC. PhD awarded Jan 2019–Aug 2027; open to English-speaking citizens of all nations, at an eligible host institution of the applicant's choice (including outside the US).",
-  "f": "LSST Discovery Alliance; contact Ana Gabela",
-  "fields": [
-   "astro",
-   "ds"
-  ],
-  "id": "lsst-discovery-alliance-vera-c-rubin-astronomy-frontiers",
-  "n": "LSST Discovery Alliance: Vera C. Rubin Astronomy Frontiers Fellowship",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "aas:8bd99c92",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://lsstdiscoveryalliance.org/vera-c-rubin-astronomy-frontiers-fellowship/",
-  "us": false
- },
- {
   "a": "$6,500 stipend, housing provided if needed, up to $800 travel",
   "added": "2026-11-02",
   "aud": [
@@ -13894,44 +13924,35 @@
   "us": false
  },
  {
-  "a": "not listed",
-  "added": "2026-09-30",
-  "asub": [
-   "cos",
-   "he"
-  ],
+  "a": "Two years of guaranteed funding; salary not stated",
+  "added": "2026-11-03",
   "aud": [
    "yale",
-   "ng",
-   "radar",
-   "ap",
-   "ast"
+   "ng"
   ],
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026, 11:59 pm ET; nominations due Oct 9",
-  "e": "Nomination-based fellowship across QFT, quantum gravity, strings, cosmology, phenomenology, nuclear theory and QIS; 3+ letters. Start Sep 1, 2027.",
-  "f": "MIT Center for Theoretical Physics - a Leinweber Institute",
+  "c": "Group postdoc",
+  "checked": "2026-11-03",
+  "d": "2027-01-07",
+  "dt": "Jan 7, 2027 (per INSPIRE); start January 2027",
+  "e": "Postdoc characterizing superconducting tunnel junctions and transition-edge sensors and developing microwave SQUID multiplexed readout for BeEST, RICOCHET, Project 8 and dark matter demonstrators, working with NIST Boulder. No citizenship limit is stated in the listing.",
+  "f": "Colorado School of Mines, Quantum Technologies at the Sensitivity Frontier group (Wouter Van De Pontseele)",
   "fields": [
-   "ppt",
-   "nut",
-   "astro",
-   "grav",
-   "qp"
+   "nux",
+   "inst"
   ],
-  "id": "mit-ctp-leinweber-postdoctoral-fellowships-in-theoretica",
-  "n": "MIT CTP: Leinweber Postdoctoral Fellowships in Theoretical Physics",
-  "nfit": "High",
-  "nom": true,
-  "pt": "prize",
+  "id": "mines-qtsf-superconducting-sensors-postdoc",
+  "n": "Colorado School of Mines: Postdoc in superconducting quantum sensors for neutrino physics, dark matter and rare isotopes",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
   "region": "US",
   "s": "open",
-  "src": "ajo:32742",
+  "src": "inspire:3220839",
   "stages": [
    "pd"
   ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32742",
+  "u": "https://mines.wd1.myworkdayjobs.com/en-US/Mines_Careers/job/Post-Doctoral-Researcher---Quantum-Sensing-for-Fundamental-Physics_JR110223",
+  "unv": "Workday ad not opened; deadline and details from INSPIRE. Salary and work-authorization terms not confirmed.",
   "us": false
  },
  {
@@ -15156,8 +15177,8 @@
   ],
   "c": "Fellowship",
   "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026, 5 pm ET (the Nov 1 deadline moved to the next business day); NRC deadlines are quarterly: Feb 1, May 1, Aug 1, Nov 1",
+  "d": "2027-02-01",
+  "dt": "Next NRC quarterly deadline Feb 1, 2027 (NRC deadlines are Feb 1, May 1, Aug 1, Nov 1)",
   "e": "High-energy astrophysics, GRBs, pulsars and instrumentation. Requires a PhD and US citizenship or permanent residency.",
   "f": "U.S. Naval Research Laboratory, Washington DC (NRC RAP; multiple advisers)",
   "fields": [
@@ -16348,6 +16369,38 @@
   "us": false
  },
  {
+  "a": "Salary not stated",
+  "added": "2026-11-03",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-03",
+  "d": "2027-01-31",
+  "dt": "Jan 31, 2027 (per INSPIRE)",
+  "e": "Postdoc applying AI and machine learning to holography (AdS/CFT), gravitational theory, quantum field theory and string theory. Apply by email with CV, research statement and three referees; no citizenship limit is stated.",
+  "f": "Ningbo University (Song He)",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "ningbo-u-hep-theory-ai-ml-postdoc",
+  "n": "Ningbo University: Postdoc in high-energy theory with AI/machine learning",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3220856",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3220856",
+  "unv": "No host web ad; details from INSPIRE. Appointment length and salary not stated.",
+  "us": false
+ },
+ {
   "a": "$85K-$91K",
   "added": "2026-10-21",
   "aud": [
@@ -16875,80 +16928,6 @@
    "pd"
   ],
   "u": "https://nrc.canada.ca/en/corporate/careers/canadian-ska-scientist-program-call-applications",
-  "us": false
- },
- {
-  "a": "CAD 83,985–116,641; 2 years + 1",
-  "added": "2026-09-30",
-  "asub": [
-   "inst"
-  ],
-  "aud": [
-   "yale",
-   "ng",
-   "ast"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026, 23:59 ET",
-  "e": "Astronomical instrumentation or observational astronomy. PhD within the last 5 years or within 6 months of the start. Preference goes to Canadian citizens and permanent residents, and Reliability Status clearance is required.",
-  "f": "National Research Council Canada, Herzberg Astronomy & Astrophysics Research Centre",
-  "fields": [
-   "astro",
-   "inst"
-  ],
-  "id": "nrc-canada-herzberg-instrument-science-postdoctoral-fell",
-  "n": "NRC Canada: Herzberg Instrument Science Postdoctoral Fellowship",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "Canada",
-  "s": "open",
-  "src": "aas:bd8a234d",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://recruitment-recrutement.nrc-cnrc.gc.ca/job-invite/26055/",
-  "us": false
- },
- {
-  "a": "CAD 83,985–116,641; 2 years + 1",
-  "added": "2026-09-30",
-  "asub": [
-   "cos",
-   "exo",
-   "xgal",
-   "he",
-   "star"
-  ],
-  "aud": [
-   "yale",
-   "ng",
-   "radar",
-   "ast"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026, 23:59 EDT",
-  "e": "Exoplanets, stars, galaxies, cosmology and time-domain astronomy. PhD since Sept 30, 2022 or within 6 months of the start. Preference goes to Canadian citizens and permanent residents, and Reliability Status clearance is required.",
-  "f": "National Research Council Canada, Herzberg Astronomy & Astrophysics Research Centre",
-  "fields": [
-   "astro"
-  ],
-  "id": "nrc-canada-plaskett-postdoctoral-fellowship",
-  "n": "NRC Canada: Plaskett Postdoctoral Fellowship",
-  "nfit": "High",
-  "nom": false,
-  "pt": "prize",
-  "region": "Canada",
-  "s": "open",
-  "src": "aas:ca903e5f",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://recruitment-recrutement.nrc-cnrc.gc.ca/job-invite/26131/",
   "us": false
  },
  {
@@ -18567,6 +18546,40 @@
   ],
   "u": "https://www.bnl.gov/nsls2/userguide/",
   "unv": "bnl.gov could not be reached on Oct 26 or Nov 2, 2026 (HTTP 503 / connection failure), so the 2027-2 date is kept from the Oct 21, 2026 check. ALS takes no new general user proposals in 2027 ahead of its ALS-U dark period (from Oct 2027 at the earliest).",
+  "us": false
+ },
+ {
+  "a": "About TWD 64,000 per month for a new PhD, plus bonus up to 1.5 months' salary; no teaching",
+  "added": "2026-11-03",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-03",
+  "d": "2026-12-15",
+  "dt": "Priority to applications received by Dec 15, 2026; accepted until positions are filled",
+  "e": "Several postdocs with Chong-Sun Chu and Norihiro Iizuka on quantum gravity, holography, quantum information, black hole physics and quantum many-body or condensed matter theory; AI/LLM applications to theory are welcome. Apply by email; no citizenship limit is stated.",
+  "f": "National Tsing Hua University, Department of Physics",
+  "fields": [
+   "ppt",
+   "qp",
+   "cmt"
+  ],
+  "id": "nthu-taiwan-theory-postdocs-chu-iizuka",
+  "n": "National Tsing Hua University (Taiwan): Postdoctoral positions in theoretical physics (Chu and Iizuka)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3220936",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3220936",
+  "unv": "No host web ad is linked; details are from INSPIRE.",
   "us": false
  },
  {
@@ -21470,6 +21483,38 @@
   "us": true
  },
  {
+  "a": "About $2,800 per month",
+  "added": "2026-11-03",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-03",
+  "d": "2027-01-01",
+  "dt": "Jan 1, 2027 (per INSPIRE)",
+  "e": "Postdoc (PhD positions also offered) in the mathematical foundations of quantum mechanics, hyper-entangled states, mathematical physics or high-energy QCD. Apply by email with CV and publication list; no citizenship limit is stated.",
+  "f": "SCE Sami Shamoon College of Engineering, Physics Unit",
+  "fields": [
+   "ppt",
+   "qp"
+  ],
+  "id": "sce-israel-theory-postdoc-mulian",
+  "n": "SCE Sami Shamoon College of Engineering (Israel): Theoretical physics postdoc",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3220857",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3220857",
+  "unv": "No host web ad; details from INSPIRE (contact Yair Mulian). Appointment length not stated.",
+  "us": false
+ },
+ {
   "a": "Stipend for 1 to 2 yrs of interdisciplinary postdoc",
   "added": "2026-09-29",
   "aud": [
@@ -22529,35 +22574,6 @@
    "pd"
   ],
   "u": "https://glam.stanford.edu/fellowships/",
-  "us": false
- },
- {
-  "a": "3 years funding, competitive salary plus discretionary research/travel funds",
-  "added": "2026-10-03",
-  "aud": [
-   "yale",
-   "ap"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Apply by Nov 2, 2026 (AJO)",
-  "e": "Independent postdoctoral fellowship in condensed matter theory (quantum materials, topological phases, strongly correlated systems, quantum dynamics and QI–many-body interface), starting fall 2027; separate from the general LITP theory fellowship. No citizenship restriction stated.",
-  "f": "Stanford University, Leinweber Institute for Theoretical Physics (condensed matter theory)",
-  "fields": [
-   "cmt",
-   "qp"
-  ],
-  "id": "stanford-litp-cmt-fellow-2027",
-  "n": "Stanford LITP: Leinweber Postdoctoral Fellow in Condensed Matter Theory",
-  "nom": false,
-  "pt": "prize",
-  "s": "open",
-  "src": "ajo:32908",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32908",
   "us": false
  },
  {
@@ -24528,6 +24544,42 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3206287",
+  "us": false
+ },
+ {
+  "a": "2 years, extendable to 3 subject to funding; salary not stated",
+  "added": "2026-11-03",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-11-03",
+  "d": "2026-11-20",
+  "dt": "Full consideration by Nov 20, 2026; applications accepted until Dec 1, 2026; first-round offers in January",
+  "e": "McDonald Institute Theory Fellowship in theoretical astroparticle physics and dark matter phenomenology with Nassim Bozorgnia, starting fall 2027; top applicants go to the McDonald Institute theory evaluation committee. No citizenship limit is stated.",
+  "f": "University of Alberta, Department of Physics and Theoretical Physics Institute",
+  "fields": [
+   "astro",
+   "ppt"
+  ],
+  "id": "ualberta-mcdonald-theory-fellowship-dark-matter",
+  "n": "University of Alberta: McDonald Institute Theory Fellowship (astroparticle physics and dark matter)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "Canada",
+  "s": "open",
+  "src": "inspire:3220929",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://iaejup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/UOA-Careers/job/4570",
+  "unv": "University of Alberta portal not opened; details from INSPIRE. Salary not stated.",
   "us": false
  },
  {
@@ -27756,6 +27808,37 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33235",
   "unv": "Start date and citizenship rules not stated; applications go through UT's job portal (job ID 10279), which was not opened.",
+  "us": false
+ },
+ {
+  "a": "2 years initially, extension possible depending on funding; salary not stated",
+  "added": "2026-11-03",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-03",
+  "d": "2026-12-15",
+  "dt": "Dec 15, 2026 (per INSPIRE)",
+  "e": "Postdoc in the Toronto DUNE group working on data acquisition commissioning with ProtoDUNE and later DUNE, with tau-neutrino and supernova-neutrino searches; physics topic is flexible. Apply by email with a CV and three letters; no citizenship limit is stated.",
+  "f": "University of Toronto, Department of Physics",
+  "fields": [
+   "nux"
+  ],
+  "id": "utoronto-dune-postdoc-ilic",
+  "n": "University of Toronto: Postdoc on the DUNE experiment",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "open",
+  "src": "inspire:3221537",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3221537",
+  "unv": "No host web ad is linked; details are from the INSPIRE listing (apply to Nikolina.Ilic@cern.ch). Salary not stated.",
   "us": false
  },
  {

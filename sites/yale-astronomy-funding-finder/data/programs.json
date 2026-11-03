@@ -28,32 +28,6 @@
   "unv": "aas.org returned HTTP 403 on Oct 7, Oct 21 and Nov 2, 2026; the April 1 annual deadline, amount and eligibility come from search snippets of the AAS grant page and AAS FAQ. Citizenship rules not checked."
  },
  {
-  "a": "Travel support",
-  "added": "2026-09-29",
-  "c": "Travel",
-  "checked": "2026-09-29",
-  "d": "2026-11-02",
-  "dt": "",
-  "e": "Aimed at groups underrepresented in astronomy.",
-  "f": "AAS",
-  "fields": [
-   "astro"
-  ],
-  "id": "aas-famous-travel-grants-aas-249",
-  "n": "AAS FAMOUS Travel Grants (AAS 249)",
-  "nfit": "Medium",
-  "nom": false,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "gr",
-   "ug"
-  ],
-  "u": "https://aas.org/meetings/aas249/meeting-grants",
-  "unv": "AAS pages returned 403 on Oct 7, Oct 21 and Nov 2, 2026; the Nov 2 deadline could not be reconfirmed on aas.org (a third-party grant listing gives Nov 2, 2026).",
-  "us": false
- },
- {
   "a": "Economy airfare",
   "added": "2026-09-29",
   "c": "Travel",
@@ -1710,34 +1684,6 @@
   "unv": "2027 program dates and citizenship rules not stated."
  },
  {
-  "a": "$87,500/yr + ~$12,000/yr research; 2 years + 3rd",
-  "added": "2026-09-30",
-  "c": "Fellowship",
-  "checked": "2026-10-12",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026 (letters Nov 9)",
-  "e": "Observational astrophysics or instrumentation with Las Campanas and SDSS-V access. PhD before the start.",
-  "f": "Carnegie Observatories, Pasadena; contact Josh Simon",
-  "fields": [
-   "astro",
-   "inst"
-  ],
-  "id": "carnegie-observatories-carnegie-fellowship-in-observatio",
-  "n": "Carnegie Observatories: Carnegie Fellowship in Observational Astrophysics",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "aas:75eb0ae8",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://apply.interfolio.com/192639",
-  "unv": "Not re-verified on 2026-11-02: the Interfolio page needs JavaScript and the AAS Job Register blocks automated access (403); a web search of the AAS listing still shows the Nov 2, 2026 deadline.",
-  "us": false
- },
- {
   "a": "Gold medal, a $750 honorarium and expenses to attend the awarding society's annual meeting",
   "added": "2026-10-01",
   "asub": [
@@ -1895,8 +1841,8 @@
   "added": "2026-09-29",
   "c": "Fellowship",
   "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "For fellowships starting in 2027: deadline 2026-11-02 23:59 CET. Contracts start in autumn.",
+  "d": null,
+  "dt": "Last deadline Nov 2, 2026 (23:59 CET); the next cycle is not posted yet",
   "e": "The TH page explicitly invites non-member-state nationals, including US citizens. Physics fellows must be at most 6 years past PhD.",
   "f": "CERN",
   "fields": [
@@ -1910,7 +1856,7 @@
   "nom": false,
   "pt": "prize",
   "region": "International",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
@@ -2068,35 +2014,6 @@
   "us": false
  },
  {
-  "a": "1 yr of study/research at Cambridge (fees + stipend)",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026, 5 pm ET",
-  "e": "US citizen seniors/recent grads from participating institutions (Yale participates), endorsed by the institution.",
-  "f": "Winston Churchill Foundation",
-  "fields": [
-   "all"
-  ],
-  "id": "churchill-scholarship-2027-28",
-  "n": "Churchill Scholarship (2027-28)",
-  "nfit": "Low",
-  "nom": true,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "ug"
-  ],
-  "u": "https://www.churchillscholarship.org/",
-  "us": true,
-  "yale": {
-   "d": "2026-10-01",
-   "t": "Campus deadline for Yale's nomination: 1pm ET, Oct 1, 2026, through the Yale Student Grants Database (yale.communityforce.com). Submit a PDF of the submitted draft Churchill application and 4 letters. Yale nominates 2. You must also apply to Cambridge by the mid-October Gates Cambridge deadline, listing Churchill as first-choice college.",
-   "u": "https://funding.yale.edu/find-funding/uk-fellowships"
-  }
- },
- {
   "a": "$85k–90k + $16k/yr research, 3 yr",
   "added": "2026-09-29",
   "asub": [
@@ -2162,8 +2079,8 @@
   ],
   "c": "Fellowship",
   "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Apply online by Nov 2, 2026; start Sep 1, 2027",
+  "d": null,
+  "dt": "Last deadline Nov 2, 2026; the next cycle is not posted yet",
   "e": "Theoretical astrophysics, including GW and compact objects. Start Sep 1, 2027.",
   "f": "CITA Toronto",
   "fields": [
@@ -2176,7 +2093,7 @@
   "nom": false,
   "pt": "prize",
   "region": "Canada",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
@@ -4184,8 +4101,8 @@
   "added": "2026-09-29",
   "c": "Summer program",
   "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026, 5 pm CT; interns announced Jan 15, 2027; program runs summer 2027 with 20 positions",
+  "d": null,
+  "dt": "Last deadline Nov 2, 2026, 5 pm CT; the next cycle is not posted yet",
   "e": "Paid 10-week summer research internships for college freshmen and sophomores in chemistry, computing, engineering, life sciences, and physics and astronomy. US citizens and permanent residents only.",
   "f": "Barry Goldwater Scholarship Foundation",
   "fields": [
@@ -4196,7 +4113,7 @@
   "nfit": "Low",
   "nom": false,
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "ug"
   ],
@@ -6238,6 +6155,37 @@
   "us": false
  },
  {
+  "a": "1.5 years; salary not stated",
+  "added": "2026-11-03",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-03",
+  "d": "2026-12-11",
+  "dt": "Expressions of interest and letters by Dec 11, 2026; start Feb to Apr 2027 depending on funding",
+  "e": "FCT-funded postdoc with Nicola Franchini computing black-hole quasi-normal modes and their excitation in general relativity and beyond; experience in tests of GR, perturbation theory, waveform modelling or GW data analysis is welcome. Apply by email; no citizenship limit is stated.",
+  "f": "GRIT gravity group, CENTRA, Instituto Superior Tecnico (FCT project, Nicola Franchini)",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "ist-lisbon-ride-ringdown-gw-postdoc",
+  "n": "Instituto Superior Tecnico (Lisbon): Postdoc in gravitational-wave science (RiDE ringdown project)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:ist-lisbon-ride-postdoc-2026",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://hyperspace.uni-frankfurt.de/2026/11/03/postdoctoral-position-in-gravitational-waves-sciences-lisbon-portugal/",
+  "unv": "Only the Hyperspace@GU post was found; it links to the CENTRA homepage, not a separate host ad. Salary not stated.",
+  "us": false
+ },
+ {
   "a": "About 11 Ms per cycle (Cycle 4); joint XMM-Newton time; NASA funding for US investigators",
   "added": "2026-10-03",
   "asub": [
@@ -6631,8 +6579,8 @@
   "added": "2026-09-29",
   "c": "Fellowship",
   "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "11:59 pm ET",
+  "d": null,
+  "dt": "Last deadline Nov 2, 2026; the next cycle is not posted yet",
   "e": "PhD between Jun 2024 and Sep 2027. Includes Rubin-linked tracks.",
   "f": "Stanford / SLAC",
   "fields": [
@@ -6645,7 +6593,7 @@
   "nom": false,
   "pt": "prize",
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
@@ -6722,31 +6670,33 @@
   "us": false
  },
  {
-  "a": "About 200 hours of mm-VLBI time on the four 21 m KVN telescopes, with simultaneous 22/43/86/129 GHz observing. No funding.",
-  "added": "2026-10-12",
-  "c": "Observing time",
-  "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Deadline 2 Nov 2026, 09:00 UT (18:00 KST); submission via the KVN website opened 1 Oct 2026. Observations 16 Jan to 15 Jun 2027 (can be spread to 15 Jan 2028 if requested).",
-  "e": "KASI invites VLBI proposals for the Korean VLBI Network from astronomers around the world. (The separate KVN single-dish call is for the Korean community only.)",
-  "f": "Korea Astronomy and Space Science Institute (KASI)",
+  "a": "JPY 320,000-370,000 per month; contract to March 31, 2030, renewed yearly",
+  "added": "2026-11-03",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-03",
+  "d": "2026-12-23",
+  "dt": "Dec 23, 2026, 11:59 pm JST",
+  "e": "One program-specific researcher position on the KAKENHI project on black hole envelopes and high-energy astrophysics, related to multi-messenger astronomy, star and galaxy formation and cosmology. Applicants need a doctorate by the start date (after April 1, 2027); no citizenship limit is stated.",
+  "f": "Yukawa Institute for Theoretical Physics, Kyoto University (JSPS KAKENHI, PI Kunihito Ioka)",
   "fields": [
    "astro"
   ],
-  "id": "kvn-vlbi-2027a",
-  "n": "Korean VLBI Network (KVN) VLBI Semester 2027A Call for Proposals",
+  "id": "kyoto-yitp-black-hole-envelopes-postdoc",
+  "n": "Kyoto University (YITP): Postdoc on black hole envelopes and high-energy astrophysics",
+  "nfit": "High",
   "nom": false,
-  "pt": "other",
+  "pt": "group",
   "region": "International",
   "s": "open",
-  "src": "other:kvn-cfp",
+  "src": "inspire:3221095",
   "stages": [
-   "tt",
-   "ten",
    "pd"
   ],
-  "u": "https://radio.kasi.re.kr/cfp_view.php?id=56",
-  "unv": "Graduate-student PI eligibility is not stated.",
+  "u": "https://www.yukawa.kyoto-u.ac.jp/news/n470?lang=en-GB",
+  "unv": "Details from the INSPIRE listing; the YITP page was not opened.",
   "us": false
  },
  {
@@ -7327,33 +7277,6 @@
   "us": false
  },
  {
-  "a": "$80,000/yr + $12,000/yr; 2 years",
-  "added": "2026-09-30",
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026, 7:00 pm EST",
-  "e": "Two-year fellowship to apply AI/ML methods to Rubin LSST data, with dedicated NVIDIA GPU time at SLAC. PhD awarded Jan 2019–Aug 2027; open to English-speaking citizens of all nations, at an eligible host institution of the applicant's choice (including outside the US).",
-  "f": "LSST Discovery Alliance; contact Ana Gabela",
-  "fields": [
-   "astro",
-   "ds"
-  ],
-  "id": "lsst-discovery-alliance-vera-c-rubin-astronomy-frontiers",
-  "n": "LSST Discovery Alliance: Vera C. Rubin Astronomy Frontiers Fellowship",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "aas:8bd99c92",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://lsstdiscoveryalliance.org/vera-c-rubin-astronomy-frontiers-fellowship/",
-  "us": false
- },
- {
   "a": "No fee; coffee breaks and lunches provided; travel, dinners and accommodation not covered (some free student rooms offered)",
   "added": "2026-10-21",
   "asub": [
@@ -7553,40 +7476,6 @@
   ],
   "u": "https://skaafrica.atlassian.net/wiki/spaces/ESDKB/pages/3080126470/2026+Call+for+Proposals",
   "unv": "Next call date",
-  "us": false
- },
- {
-  "a": "not listed",
-  "added": "2026-09-30",
-  "asub": [
-   "cos",
-   "he"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026, 11:59 pm ET; nominations due Oct 9",
-  "e": "Nomination-based fellowship across QFT, quantum gravity, strings, cosmology, phenomenology, nuclear theory and QIS; 3+ letters. Start Sep 1, 2027.",
-  "f": "MIT Center for Theoretical Physics - a Leinweber Institute",
-  "fields": [
-   "ppt",
-   "nut",
-   "astro",
-   "grav",
-   "qp"
-  ],
-  "id": "mit-ctp-leinweber-postdoctoral-fellowships-in-theoretica",
-  "n": "MIT CTP: Leinweber Postdoctoral Fellowships in Theoretical Physics",
-  "nfit": "High",
-  "nom": true,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "ajo:32742",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32742",
   "us": false
  },
  {
@@ -8625,8 +8514,8 @@
   ],
   "c": "Fellowship",
   "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026, 5 pm ET (the Nov 1 deadline moved to the next business day); NRC deadlines are quarterly: Feb 1, May 1, Aug 1, Nov 1",
+  "d": "2027-02-01",
+  "dt": "Next NRC quarterly deadline Feb 1, 2027 (NRC deadlines are Feb 1, May 1, Aug 1, Nov 1)",
   "e": "High-energy astrophysics, GRBs, pulsars and instrumentation. Requires a PhD and US citizenship or permanent residency.",
   "f": "U.S. Naval Research Laboratory, Washington DC (NRC RAP; multiple advisers)",
   "fields": [
@@ -9397,69 +9286,6 @@
    "pd"
   ],
   "u": "https://nrc.canada.ca/en/corporate/careers/canadian-ska-scientist-program-call-applications",
-  "us": false
- },
- {
-  "a": "CAD 83,985–116,641; 2 years + 1",
-  "added": "2026-09-30",
-  "asub": [
-   "inst"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026, 23:59 ET",
-  "e": "Astronomical instrumentation or observational astronomy. PhD within the last 5 years or within 6 months of the start. Preference goes to Canadian citizens and permanent residents, and Reliability Status clearance is required.",
-  "f": "National Research Council Canada, Herzberg Astronomy & Astrophysics Research Centre",
-  "fields": [
-   "astro",
-   "inst"
-  ],
-  "id": "nrc-canada-herzberg-instrument-science-postdoctoral-fell",
-  "n": "NRC Canada: Herzberg Instrument Science Postdoctoral Fellowship",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "Canada",
-  "s": "open",
-  "src": "aas:bd8a234d",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://recruitment-recrutement.nrc-cnrc.gc.ca/job-invite/26055/",
-  "us": false
- },
- {
-  "a": "CAD 83,985–116,641; 2 years + 1",
-  "added": "2026-09-30",
-  "asub": [
-   "cos",
-   "exo",
-   "xgal",
-   "he",
-   "star"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-02",
-  "dt": "Nov 2, 2026, 23:59 EDT",
-  "e": "Exoplanets, stars, galaxies, cosmology and time-domain astronomy. PhD since Sept 30, 2022 or within 6 months of the start. Preference goes to Canadian citizens and permanent residents, and Reliability Status clearance is required.",
-  "f": "National Research Council Canada, Herzberg Astronomy & Astrophysics Research Centre",
-  "fields": [
-   "astro"
-  ],
-  "id": "nrc-canada-plaskett-postdoctoral-fellowship",
-  "n": "NRC Canada: Plaskett Postdoctoral Fellowship",
-  "nfit": "High",
-  "nom": false,
-  "pt": "prize",
-  "region": "Canada",
-  "s": "open",
-  "src": "aas:ca903e5f",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://recruitment-recrutement.nrc-cnrc.gc.ca/job-invite/26131/",
   "us": false
  },
  {
@@ -12802,6 +12628,37 @@
   ],
   "u": "https://web.uri.edu/gravity/phd-openings/",
   "unv": "Stipend amount not stated; Feb 1, 2027 is a priority date for funding, not a stated final deadline.",
+  "us": false
+ },
+ {
+  "a": "2 years, extendable to 3 subject to funding; salary not stated",
+  "added": "2026-11-03",
+  "asub": [
+   "cos"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-11-03",
+  "d": "2026-11-20",
+  "dt": "Full consideration by Nov 20, 2026; applications accepted until Dec 1, 2026; first-round offers in January",
+  "e": "McDonald Institute Theory Fellowship in theoretical astroparticle physics and dark matter phenomenology with Nassim Bozorgnia, starting fall 2027; top applicants go to the McDonald Institute theory evaluation committee. No citizenship limit is stated.",
+  "f": "University of Alberta, Department of Physics and Theoretical Physics Institute",
+  "fields": [
+   "astro",
+   "ppt"
+  ],
+  "id": "ualberta-mcdonald-theory-fellowship-dark-matter",
+  "n": "University of Alberta: McDonald Institute Theory Fellowship (astroparticle physics and dark matter)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "Canada",
+  "s": "open",
+  "src": "inspire:3220929",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://iaejup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/UOA-Careers/job/4570",
+  "unv": "University of Alberta portal not opened; details from INSPIRE. Salary not stated.",
   "us": false
  },
  {
