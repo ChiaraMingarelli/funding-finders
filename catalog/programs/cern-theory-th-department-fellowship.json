@@ -8,8 +8,8 @@
  ],
  "c": "Fellowship",
  "checked": "2026-11-02",
- "d": "2026-11-02",
- "dt": "For fellowships starting in 2027: deadline 2026-11-02 23:59 CET. Contracts start in autumn.",
+ "d": null,
+ "dt": "Last deadline Nov 2, 2026 (23:59 CET); the next cycle is not posted yet",
  "e": "The TH page explicitly invites non-member-state nationals, including US citizens. Physics fellows must be at most 6 years past PhD.",
  "f": "CERN",
  "fields": [
@@ -23,7 +23,7 @@
  "nom": false,
  "pt": "prize",
  "region": "International",
- "s": "open",
+ "s": "watch",
  "stages": [
   "pd"
  ],

@@ -1,0 +1,32 @@
+{
+ "a": "About $2,800 per month",
+ "added": "2026-11-03",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-03",
+ "d": "2027-01-01",
+ "dt": "Jan 1, 2027 (per INSPIRE)",
+ "e": "Postdoc (PhD positions also offered) in the mathematical foundations of quantum mechanics, hyper-entangled states, mathematical physics or high-energy QCD. Apply by email with CV and publication list; no citizenship limit is stated.",
+ "f": "SCE Sami Shamoon College of Engineering, Physics Unit",
+ "fields": [
+  "ppt",
+  "qp"
+ ],
+ "id": "sce-israel-theory-postdoc-mulian",
+ "n": "SCE Sami Shamoon College of Engineering (Israel): Theoretical physics postdoc",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3220857",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3220857",
+ "unv": "No host web ad; details from INSPIRE (contact Yair Mulian). Appointment length not stated.",
+ "us": false
+}

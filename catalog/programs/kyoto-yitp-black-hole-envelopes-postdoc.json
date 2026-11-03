@@ -1,0 +1,36 @@
+{
+ "a": "JPY 320,000-370,000 per month; contract to March 31, 2030, renewed yearly",
+ "added": "2026-11-03",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-03",
+ "d": "2026-12-23",
+ "dt": "Dec 23, 2026, 11:59 pm JST",
+ "e": "One program-specific researcher position on the KAKENHI project on black hole envelopes and high-energy astrophysics, related to multi-messenger astronomy, star and galaxy formation and cosmology. Applicants need a doctorate by the start date (after April 1, 2027); no citizenship limit is stated.",
+ "f": "Yukawa Institute for Theoretical Physics, Kyoto University (JSPS KAKENHI, PI Kunihito Ioka)",
+ "fields": [
+  "astro"
+ ],
+ "id": "kyoto-yitp-black-hole-envelopes-postdoc",
+ "n": "Kyoto University (YITP): Postdoc on black hole envelopes and high-energy astrophysics",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3221095",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.yukawa.kyoto-u.ac.jp/news/n470?lang=en-GB",
+ "unv": "Details from the INSPIRE listing; the YITP page was not opened.",
+ "us": false
+}

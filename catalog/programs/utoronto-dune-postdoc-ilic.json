@@ -1,0 +1,31 @@
+{
+ "a": "2 years initially, extension possible depending on funding; salary not stated",
+ "added": "2026-11-03",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-03",
+ "d": "2026-12-15",
+ "dt": "Dec 15, 2026 (per INSPIRE)",
+ "e": "Postdoc in the Toronto DUNE group working on data acquisition commissioning with ProtoDUNE and later DUNE, with tau-neutrino and supernova-neutrino searches; physics topic is flexible. Apply by email with a CV and three letters; no citizenship limit is stated.",
+ "f": "University of Toronto, Department of Physics",
+ "fields": [
+  "nux"
+ ],
+ "id": "utoronto-dune-postdoc-ilic",
+ "n": "University of Toronto: Postdoc on the DUNE experiment",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "Canada",
+ "s": "open",
+ "src": "inspire:3221537",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3221537",
+ "unv": "No host web ad is linked; details are from the INSPIRE listing (apply to Nikolina.Ilic@cern.ch). Salary not stated.",
+ "us": false
+}

@@ -1,0 +1,32 @@
+{
+ "a": "Salary not stated",
+ "added": "2026-11-03",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-03",
+ "d": "2027-01-31",
+ "dt": "Jan 31, 2027 (per INSPIRE)",
+ "e": "Postdoc applying AI and machine learning to holography (AdS/CFT), gravitational theory, quantum field theory and string theory. Apply by email with CV, research statement and three referees; no citizenship limit is stated.",
+ "f": "Ningbo University (Song He)",
+ "fields": [
+  "ppt",
+  "grav"
+ ],
+ "id": "ningbo-u-hep-theory-ai-ml-postdoc",
+ "n": "Ningbo University: Postdoc in high-energy theory with AI/machine learning",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3220856",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3220856",
+ "unv": "No host web ad; details from INSPIRE. Appointment length and salary not stated.",
+ "us": false
+}

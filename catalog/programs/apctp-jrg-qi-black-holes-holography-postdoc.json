@@ -1,0 +1,32 @@
+{
+ "a": "1 year, renewable up to two more years; salary not stated",
+ "added": "2026-11-03",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-03",
+ "d": "2026-12-20",
+ "dt": "Priority to applications received by Dec 20, 2026; review continues until filled; start Sep 1, 2027 (negotiable)",
+ "e": "Postdocs in theoretical high-energy physics with Hyun-Sik Jeong, on holography, quantum information, AI, and quantum simulation and computation. Apply by email; no citizenship limit is stated.",
+ "f": "Asia Pacific Center for Theoretical Physics",
+ "fields": [
+  "ppt",
+  "qp"
+ ],
+ "id": "apctp-jrg-qi-black-holes-holography-postdoc",
+ "n": "APCTP (Pohang): Postdocs in the Junior Research Group on Quantum Information, Black Holes and Holography",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3220855",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://sites.google.com/view/for-hyun-sik/home",
+ "unv": "Details from INSPIRE; salary not stated.",
+ "us": false
+}

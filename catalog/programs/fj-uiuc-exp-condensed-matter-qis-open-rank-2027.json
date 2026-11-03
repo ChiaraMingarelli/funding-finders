@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-11-02",
- "d": "2026-11-02",
- "dt": "Full consideration by Nov 2, 2026; accepted until filled; apply at go.physics.illinois.edu/ECMQIS26",
+ "checked": "2026-11-03",
+ "d": null,
+ "dt": "Full consideration given to applications received by Nov 2, 2026; applications accepted until the position is filled; apply at go.physics.illinois.edu/ECMQIS26",
  "e": "One open-rank tenure-track position in experimental quantum physics broadly defined (QIS, condensed matter, AMO). No citizenship restriction stated.",
  "f": "University of Illinois Urbana-Champaign, Department of Physics",
  "fields": [
@@ -20,7 +20,7 @@
  "nfit": "Low",
  "nom": false,
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:33045",
  "stages": [
   "fj"
