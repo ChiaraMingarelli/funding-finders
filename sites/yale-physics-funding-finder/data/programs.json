@@ -10037,37 +10037,6 @@
   "us": false
  },
  {
-  "a": "Funded PhD positions (amount not checked)",
-  "added": "2026-10-07",
-  "aud": [
-   "yale",
-   "ng",
-   "ast"
-  ],
-  "c": "Training",
-  "checked": "2026-11-02",
-  "d": "2026-11-03",
-  "dt": "Apply by Nov 3, 2026, 14:00 CET; interviews Feb 1-5, 2027; PhD starts Sep 2027",
-  "e": "PhD program in astronomy and astrophysics at the Heidelberg Max Planck institutes and Heidelberg University. Applicants generally need a master's degree (or equivalent) in physics or astronomy.",
-  "f": "International Max Planck Research School for Astronomy & Cosmic Physics at the University of Heidelberg (IMPRS-HD)",
-  "fields": [
-   "astro"
-  ],
-  "id": "imprs-heidelberg-phd-2027",
-  "n": "IMPRS for Astronomy & Cosmic Physics (Heidelberg): PhD positions, fall 2027 start",
-  "nfit": "Medium",
-  "nom": false,
-  "region": "International",
-  "s": "open",
-  "src": "other:imprs-hd-2027",
-  "stages": [
-   "ug",
-   "gr"
-  ],
-  "u": "https://www.imprs-hd.mpg.de/3192/Application",
-  "unv": "Stipend or salary level and exact degree requirements not checked"
- },
- {
   "a": "not listed",
   "added": "2026-09-30",
   "c": "Group postdoc",
@@ -12828,35 +12797,6 @@
   "us": false
  },
  {
-  "a": "Registration fee €855 excl. VAT (€735 basic package plus €120 extra services); full board and single rooms included",
-  "added": "2026-10-07",
-  "aud": [
-   "yale",
-   "ap"
-  ],
-  "c": "Summer program",
-  "checked": "2026-11-02",
-  "d": "2026-11-03",
-  "dt": "Second application round open until Nov 3, 2026 (few places left); school Apr 4-9, 2027",
-  "e": "One-week school (70 places) on machine learning for photonic design, photonic hardware for AI, and neuromorphic photonics. Open internationally to PhD students, postdocs and researchers; apply with a short CV, abstract and motivation letter.",
-  "f": "Société Française d'Optique / Les Houches School of Physics",
-  "fields": [
-   "phot"
-  ],
-  "id": "les-houches-2027-photonics-ai",
-  "n": "Les Houches Thematic School 2027: Photonics & Artificial Intelligence",
-  "nom": false,
-  "pt": "other",
-  "s": "open",
-  "src": "other:sfo-photonics-ai-2027",
-  "stages": [
-   "gr",
-   "pd"
-  ],
-  "u": "https://www.sfoptique.org/pages/sfo/ecoles-thematiques/2027-artificial-intelligence-photonics/photonics-ai.html",
-  "us": false
- },
- {
   "a": "$85,000/yr ($79K salary plus $6K research) for 3 years",
   "added": "2026-09-28",
   "aud": [
@@ -14044,6 +13984,41 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32745",
+  "us": false
+ },
+ {
+  "a": "$73,308-$90,000; 2 years plus a third contingent on funding and performance; start fall 2027",
+  "added": "2026-11-04",
+  "asub": [
+   "xgal"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-04",
+  "d": "2026-12-18",
+  "dt": "Review begins Dec 18, 2026 and continues until the position is filled",
+  "e": "Postdoc in Anna-Christina Eilers's group studying the formation of galaxies, quasars and supermassive black holes in the early universe, with JWST and Chandra programs and MIT access to Magellan. Requires a PhD in physics, astronomy or a related field by the start date.",
+  "f": "MIT Kavli Institute for Astrophysics and Space Research (Anna-Christina Eilers)",
+  "fields": [
+   "astro"
+  ],
+  "id": "mit-kavli-eilers-cosmic-dawn-extragalactic-postdoc",
+  "n": "MIT Kavli Institute: Postdoctoral Associate in observational extragalactic astrophysics (Cosmic Dawn group)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33321",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33321",
+  "unv": "No citizenship requirement is stated in the ad.",
   "us": false
  },
  {
@@ -21862,6 +21837,42 @@
   "us": false
  },
  {
+  "a": "GBP 39,560-41,885; full-time, 12-month fixed term",
+  "added": "2026-11-04",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-04",
+  "d": "2026-12-01",
+  "dt": "Closes Dec 1, 2026",
+  "e": "One-year postdoc with Eleonora Di Valentino on the Royal Society-funded H0TTEST project, studying the Hubble tension and extensions to LCDM. Requires a PhD in physics, astronomy, cosmology or a related field; the ad states no citizenship limit.",
+  "f": "University of Sheffield, Cosmology, Relativity and Gravitation group (Eleonora Di Valentino)",
+  "fields": [
+   "astro",
+   "grav"
+  ],
+  "id": "sheffield-h0ttest-theoretical-cosmology-research-associate",
+  "n": "University of Sheffield: Research Associate in Theoretical Cosmology (H0TTEST)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:sheffield-3362",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://university-of-sheffield.contactrh.com/jobs/11046/44549997",
+  "unv": "UK visa sponsorship and start date are not stated; details are from the jobs.ac.uk copy of the ad.",
+  "us": false
+ },
+ {
   "a": "Up to $2M/yr for 4 yrs (renewable)",
   "added": "2026-09-28",
   "aud": [
@@ -23710,8 +23721,8 @@
   ],
   "c": "Group postdoc",
   "checked": "2026-11-02",
-  "d": "2026-11-03",
-  "dt": "Applications before Nov 3, 2026 get full consideration; the position stays open until filled",
+  "d": null,
+  "dt": "Review began Nov 3, 2026; the position stays open until filled",
   "e": "Research associate employed by NRC Canada at TRIUMF (Vancouver), developing quantum-assisted generative machine-learning models on quantum annealing hardware for particle-shower and calorimeter simulation and proton therapy, with D-Wave and Perimeter Institute. Preference to Canadian citizens and permanent residents.",
   "f": "National Research Council Canada / TRIUMF",
   "fields": [
@@ -23724,7 +23735,7 @@
   "nom": false,
   "pt": "group",
   "region": "Canada",
-  "s": "open",
+  "s": "rolling",
   "src": "inspire:3214896",
   "stages": [
    "pd"
@@ -23742,8 +23753,8 @@
   ],
   "c": "Group postdoc",
   "checked": "2026-11-02",
-  "d": "2026-11-03",
-  "dt": "Applications before Nov 3, 2026 get full consideration; the position stays open until filled",
+  "d": null,
+  "dt": "Review began Nov 3, 2026; the position stays open until filled",
   "e": "NRC-employed research associate based at TRIUMF (Vancouver) using quantum-assisted generative ML in place of Monte Carlo for proton-therapy dose simulations, with D-Wave and Perimeter. PhD in a quantitative field; preference to Canadian citizens and permanent residents.",
   "f": "National Research Council Canada / TRIUMF",
   "fields": [
@@ -23757,7 +23768,7 @@
   "nom": false,
   "pt": "group",
   "region": "Canada",
-  "s": "open",
+  "s": "rolling",
   "src": "inspire:3214918",
   "stages": [
    "pd"
@@ -27617,6 +27628,37 @@
   "us": false
  },
  {
+  "a": "1-year appointment, renewable up to 5 years",
+  "added": "2026-11-04",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-04",
+  "d": null,
+  "dt": "No deadline stated; listed until 2027-02-07",
+  "e": "Postdoc building a high-repetition-rate, sub-100 fs laser front end and amplifier upgrades for the Texas Petawatt laser and supporting laser-plasma experiments. Requires a PhD in physics, optics, laser physics, electrical engineering or a related field within the last 3 years, with hands-on ultrashort-pulse laser experience.",
+  "f": "University of Texas at Austin, Department of Physics, Center for High Energy Density Science (B. M. Hegelich)",
+  "fields": [
+   "phot"
+  ],
+  "id": "ut-austin-cheds-ultrashort-pulse-laser-postdoc",
+  "n": "UT Austin: Postdoctoral Fellow, high-repetition-rate ultrashort-pulse laser development",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "ajo:33318",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33318",
+  "unv": "Salary is not stated; no citizenship requirement is stated in the ad.",
+  "us": false
+ },
+ {
   "a": "$80,000/yr; 2 years + possible 3rd",
   "added": "2026-09-30",
   "asub": [
@@ -27839,6 +27881,36 @@
   ],
   "u": "https://inspirehep.net/jobs/3221537",
   "unv": "No host web ad is linked; details are from the INSPIRE listing (apply to Nikolina.Ilic@cern.ch). Salary not stated.",
+  "us": false
+ },
+ {
+  "a": "EUR 3,706-5,760 gross per month (scale 10); 3 years from fall 2027, third year subject to performance and funding",
+  "added": "2026-11-04",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-04",
+  "d": "2026-12-16",
+  "dt": "Priority to applications by Dec 16, 2026, when review starts",
+  "e": "Three-year postdoc in celestial holography with Andrea Puhm, funded by the Simons Collaboration on Celestial Holography, with travel to collaboration meetings and freedom to pursue independent research. Requires a PhD in theoretical physics with a background in quantum field theory and general relativity.",
+  "f": "University of Amsterdam, Institute of Physics, String Theory Group (Andrea Puhm); Simons Collaboration on Celestial Holography",
+  "fields": [
+   "ppt"
+  ],
+  "id": "uva-simons-fellow-celestial-holography-postdoc",
+  "n": "University of Amsterdam: Simons Fellow in Celestial Holography",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33323",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33323",
   "us": false
  },
  {

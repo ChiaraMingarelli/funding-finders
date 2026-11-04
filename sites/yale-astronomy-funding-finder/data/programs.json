@@ -5593,32 +5593,6 @@
   "us": false
  },
  {
-  "a": "Funded PhD positions (amount not checked)",
-  "added": "2026-10-07",
-  "c": "Training",
-  "checked": "2026-11-02",
-  "d": "2026-11-03",
-  "dt": "Apply by Nov 3, 2026, 14:00 CET; interviews Feb 1-5, 2027; PhD starts Sep 2027",
-  "e": "PhD program in astronomy and astrophysics at the Heidelberg Max Planck institutes and Heidelberg University. Applicants generally need a master's degree (or equivalent) in physics or astronomy.",
-  "f": "International Max Planck Research School for Astronomy & Cosmic Physics at the University of Heidelberg (IMPRS-HD)",
-  "fields": [
-   "astro"
-  ],
-  "id": "imprs-heidelberg-phd-2027",
-  "n": "IMPRS for Astronomy & Cosmic Physics (Heidelberg): PhD positions, fall 2027 start",
-  "nfit": "Medium",
-  "nom": false,
-  "region": "International",
-  "s": "open",
-  "src": "other:imprs-hd-2027",
-  "stages": [
-   "ug",
-   "gr"
-  ],
-  "u": "https://www.imprs-hd.mpg.de/3192/Application",
-  "unv": "Stipend or salary level and exact degree requirements not checked"
- },
- {
   "a": "INAF-TAC allocates about 1000 hours of queue observations on REM. REM is a robotic 60-cm telescope at ESO La Silla that images simultaneously in optical (g, r, i, z) and near-IR.",
   "added": "2026-10-03",
   "asub": [],
@@ -7541,6 +7515,36 @@
   "u": "https://www.haystack.mit.edu/haystack-public-outreach/research-experiences-for-undergraduates-reu/",
   "unv": "The program is contingent on NSF funding; 2027 program dates and the 2027 project list are not posted yet (the page lists the 2026-era projects, subject to change).",
   "us": true
+ },
+ {
+  "a": "$73,308-$90,000; 2 years plus a third contingent on funding and performance; start fall 2027",
+  "added": "2026-11-04",
+  "asub": [
+   "xgal"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-04",
+  "d": "2026-12-18",
+  "dt": "Review begins Dec 18, 2026 and continues until the position is filled",
+  "e": "Postdoc in Anna-Christina Eilers's group studying the formation of galaxies, quasars and supermassive black holes in the early universe, with JWST and Chandra programs and MIT access to Magellan. Requires a PhD in physics, astronomy or a related field by the start date.",
+  "f": "MIT Kavli Institute for Astrophysics and Space Research (Anna-Christina Eilers)",
+  "fields": [
+   "astro"
+  ],
+  "id": "mit-kavli-eilers-cosmic-dawn-extragalactic-postdoc",
+  "n": "MIT Kavli Institute: Postdoctoral Associate in observational extragalactic astrophysics (Cosmic Dawn group)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33321",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33321",
+  "unv": "No citizenship requirement is stated in the ad.",
+  "us": false
  },
  {
   "a": "$73,308-$90,000; ~$15,000 research budget",
@@ -11223,6 +11227,37 @@
   ],
   "u": "https://inspirehep.net/jobs/3217201",
   "unv": "No SFU web ad found; related Queen's McDonald/MI-CITA fellowship (ajo:33096) already known but this is the separate SFU-hosted call.",
+  "us": false
+ },
+ {
+  "a": "GBP 39,560-41,885; full-time, 12-month fixed term",
+  "added": "2026-11-04",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-04",
+  "d": "2026-12-01",
+  "dt": "Closes Dec 1, 2026",
+  "e": "One-year postdoc with Eleonora Di Valentino on the Royal Society-funded H0TTEST project, studying the Hubble tension and extensions to LCDM. Requires a PhD in physics, astronomy, cosmology or a related field; the ad states no citizenship limit.",
+  "f": "University of Sheffield, Cosmology, Relativity and Gravitation group (Eleonora Di Valentino)",
+  "fields": [
+   "astro",
+   "grav"
+  ],
+  "id": "sheffield-h0ttest-theoretical-cosmology-research-associate",
+  "n": "University of Sheffield: Research Associate in Theoretical Cosmology (H0TTEST)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:sheffield-3362",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://university-of-sheffield.contactrh.com/jobs/11046/44549997",
+  "unv": "UK visa sponsorship and start date are not stated; details are from the jobs.ac.uk copy of the ad.",
   "us": false
  },
  {

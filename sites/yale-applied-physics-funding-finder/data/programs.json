@@ -6694,31 +6694,6 @@
   "us": false
  },
  {
-  "a": "Registration fee €855 excl. VAT (€735 basic package plus €120 extra services); full board and single rooms included",
-  "added": "2026-10-07",
-  "c": "Summer program",
-  "checked": "2026-11-02",
-  "d": "2026-11-03",
-  "dt": "Second application round open until Nov 3, 2026 (few places left); school Apr 4-9, 2027",
-  "e": "One-week school (70 places) on machine learning for photonic design, photonic hardware for AI, and neuromorphic photonics. Open internationally to PhD students, postdocs and researchers; apply with a short CV, abstract and motivation letter.",
-  "f": "Société Française d'Optique / Les Houches School of Physics",
-  "fields": [
-   "phot"
-  ],
-  "id": "les-houches-2027-photonics-ai",
-  "n": "Les Houches Thematic School 2027: Photonics & Artificial Intelligence",
-  "nom": false,
-  "pt": "other",
-  "s": "open",
-  "src": "other:sfo-photonics-ai-2027",
-  "stages": [
-   "gr",
-   "pd"
-  ],
-  "u": "https://www.sfoptique.org/pages/sfo/ecoles-thematiques/2027-artificial-intelligence-photonics/photonics-ai.html",
-  "us": false
- },
- {
   "a": "$85,000/yr ($79K salary plus $6K research) for 3 years",
   "added": "2026-09-28",
   "c": "Fellowship",
@@ -13863,8 +13838,8 @@
   "added": "2026-10-15",
   "c": "Group postdoc",
   "checked": "2026-11-02",
-  "d": "2026-11-03",
-  "dt": "Applications before Nov 3, 2026 get full consideration; the position stays open until filled",
+  "d": null,
+  "dt": "Review began Nov 3, 2026; the position stays open until filled",
   "e": "Research associate employed by NRC Canada at TRIUMF (Vancouver), developing quantum-assisted generative machine-learning models on quantum annealing hardware for particle-shower and calorimeter simulation and proton therapy, with D-Wave and Perimeter Institute. Preference to Canadian citizens and permanent residents.",
   "f": "National Research Council Canada / TRIUMF",
   "fields": [
@@ -13877,7 +13852,7 @@
   "nom": false,
   "pt": "group",
   "region": "Canada",
-  "s": "open",
+  "s": "rolling",
   "src": "inspire:3214896",
   "stages": [
    "pd"
@@ -13890,8 +13865,8 @@
   "added": "2026-10-16",
   "c": "Group postdoc",
   "checked": "2026-11-02",
-  "d": "2026-11-03",
-  "dt": "Applications before Nov 3, 2026 get full consideration; the position stays open until filled",
+  "d": null,
+  "dt": "Review began Nov 3, 2026; the position stays open until filled",
   "e": "NRC-employed research associate based at TRIUMF (Vancouver) using quantum-assisted generative ML in place of Monte Carlo for proton-therapy dose simulations, with D-Wave and Perimeter. PhD in a quantitative field; preference to Canadian citizens and permanent residents.",
   "f": "National Research Council Canada / TRIUMF",
   "fields": [
@@ -13905,7 +13880,7 @@
   "nom": false,
   "pt": "group",
   "region": "Canada",
-  "s": "open",
+  "s": "rolling",
   "src": "inspire:3214918",
   "stages": [
    "pd"
@@ -15200,6 +15175,33 @@
   "u": "https://mrsec.utexas.edu/education-outreach/research-experience-undergraduates",
   "unv": "The page heading says 2027 but some body text still says 2026; dates are stated as anticipated",
   "us": true
+ },
+ {
+  "a": "1-year appointment, renewable up to 5 years",
+  "added": "2026-11-04",
+  "c": "Group postdoc",
+  "checked": "2026-11-04",
+  "d": null,
+  "dt": "No deadline stated; listed until 2027-02-07",
+  "e": "Postdoc building a high-repetition-rate, sub-100 fs laser front end and amplifier upgrades for the Texas Petawatt laser and supporting laser-plasma experiments. Requires a PhD in physics, optics, laser physics, electrical engineering or a related field within the last 3 years, with hands-on ultrashort-pulse laser experience.",
+  "f": "University of Texas at Austin, Department of Physics, Center for High Energy Density Science (B. M. Hegelich)",
+  "fields": [
+   "phot"
+  ],
+  "id": "ut-austin-cheds-ultrashort-pulse-laser-postdoc",
+  "n": "UT Austin: Postdoctoral Fellow, high-repetition-rate ultrashort-pulse laser development",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "ajo:33318",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33318",
+  "unv": "Salary is not stated; no citizenship requirement is stated in the ad.",
+  "us": false
  },
  {
   "a": "Two years; competitive salary plus annual professional development funds (amount not stated)",

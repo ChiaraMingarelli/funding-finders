@@ -2888,28 +2888,6 @@
   ]
  },
  {
-  "id": "fj-bio-bio-tt-physics-particle-gravity-cosmology",
-  "n": "Univ. of Bío-Bío (Chile): TT Faculty in Particle Physics, Gravity or Cosmology",
-  "f": "Dept. of Elementary Sciences, Faculty of Science, University of Bío-Bío (Chillán, Chile)",
-  "c": "Faculty job",
-  "s": "open",
-  "d": "2026-11-03",
-  "dt": "All materials must be received by Nov 3, 2026",
-  "a": "Tenure-track faculty; about US$30,000 per year; start March 2027",
-  "e": "Tenure-track faculty position in physics specializing in particle physics, gravity or cosmology, with undergraduate and graduate teaching. Apply by email; non-Chilean applicants must meet visa and work-permit requirements.",
-  "u": "https://inspirehep.net/jobs/3198780",
-  "unv": "No official university page for the ad was found; details are from the INSPIRE listing (applications go to gcabello@ubiobio.cl).",
-  "us": false,
-  "nom": false,
-  "region": "International",
-  "nfit": "Medium",
-  "checked": "2026-11-02",
-  "added": "2026-10-07",
-  "stages": [
-   "fj"
-  ]
- },
- {
   "id": "fj-caltech-faculty-position-experimental-or-theoretical-",
   "n": "Caltech: Faculty Position, Experimental or Theoretical Physics",
   "f": "Division of Physics, Mathematics & Astronomy, Caltech",
@@ -7227,28 +7205,6 @@
   ]
  },
  {
-  "id": "imprs-heidelberg-phd-2027",
-  "n": "IMPRS for Astronomy & Cosmic Physics (Heidelberg): PhD positions, fall 2027 start",
-  "f": "International Max Planck Research School for Astronomy & Cosmic Physics at the University of Heidelberg (IMPRS-HD)",
-  "c": "Training",
-  "s": "open",
-  "d": "2026-11-03",
-  "dt": "Apply by Nov 3, 2026, 14:00 CET; interviews Feb 1-5, 2027; PhD starts Sep 2027",
-  "a": "Funded PhD positions (amount not checked)",
-  "e": "PhD program in astronomy and astrophysics at the Heidelberg Max Planck institutes and Heidelberg University. Applicants generally need a master's degree (or equivalent) in physics or astronomy.",
-  "u": "https://www.imprs-hd.mpg.de/3192/Application",
-  "unv": "Stipend or salary level and exact degree requirements not checked",
-  "nom": false,
-  "region": "International",
-  "nfit": "Medium",
-  "checked": "2026-11-02",
-  "added": "2026-10-07",
-  "stages": [
-   "ug",
-   "gr"
-  ]
- },
- {
   "id": "indiana-u-nova-dune-neutrino-postdoc",
   "n": "Indiana U.: Postdoc in experimental long-baseline neutrino oscillation physics (NOvA/DUNE)",
   "f": "Indiana University Bloomington, High Energy Neutrino and Particle Astrophysics group",
@@ -9248,6 +9204,29 @@
   "added": "2026-11-02",
   "stages": [
    "ug"
+  ]
+ },
+ {
+  "id": "mit-kavli-eilers-cosmic-dawn-extragalactic-postdoc",
+  "n": "MIT Kavli Institute: Postdoctoral Associate in observational extragalactic astrophysics (Cosmic Dawn group)",
+  "f": "MIT Kavli Institute for Astrophysics and Space Research (Anna-Christina Eilers)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-18",
+  "dt": "Review begins Dec 18, 2026 and continues until the position is filled",
+  "a": "$73,308-$90,000; 2 years plus a third contingent on funding and performance; start fall 2027",
+  "e": "Postdoc in Anna-Christina Eilers's group studying the formation of galaxies, quasars and supermassive black holes in the early universe, with JWST and Chandra programs and MIT access to Magellan. Requires a PhD in physics, astronomy or a related field by the start date.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33321",
+  "unv": "No citizenship requirement is stated in the ad.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-11-04",
+  "added": "2026-11-04",
+  "stages": [
+   "pd"
   ]
  },
  {
@@ -11965,6 +11944,29 @@
   ]
  },
  {
+  "id": "sheffield-h0ttest-theoretical-cosmology-research-associate",
+  "n": "University of Sheffield: Research Associate in Theoretical Cosmology (H0TTEST)",
+  "f": "University of Sheffield, Cosmology, Relativity and Gravitation group (Eleonora Di Valentino)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-01",
+  "dt": "Closes Dec 1, 2026",
+  "a": "GBP 39,560-41,885; full-time, 12-month fixed term",
+  "e": "One-year postdoc with Eleonora Di Valentino on the Royal Society-funded H0TTEST project, studying the Hubble tension and extensions to LCDM. Requires a PhD in physics, astronomy, cosmology or a related field; the ad states no citizenship limit.",
+  "u": "https://university-of-sheffield.contactrh.com/jobs/11046/44549997",
+  "unv": "UK visa sponsorship and start date are not stated; details are from the jobs.ac.uk copy of the ad.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-11-04",
+  "added": "2026-11-04",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "sigma-xi-grants-in-aid-of-research-astronomy-designated",
   "n": "Sigma Xi Grants in Aid of Research (Astronomy designated fund)",
   "f": "Sigma Xi",
@@ -12705,9 +12707,8 @@
   "n": "NRC Canada at TRIUMF: Research Associate, Quantum-Assisted Generative Machine Learning",
   "f": "National Research Council Canada / TRIUMF",
   "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-11-03",
-  "dt": "Applications before Nov 3, 2026 get full consideration; the position stays open until filled",
+  "s": "rolling",
+  "dt": "Review began Nov 3, 2026; the position stays open until filled",
   "a": "From CAD 83,985 (RO/RCO-2)",
   "e": "Research associate employed by NRC Canada at TRIUMF (Vancouver), developing quantum-assisted generative machine-learning models on quantum annealing hardware for particle-shower and calorimeter simulation and proton therapy, with D-Wave and Perimeter Institute. Preference to Canadian citizens and permanent residents.",
   "u": "https://inspirehep.net/jobs/3214896",
@@ -12720,16 +12721,16 @@
   "added": "2026-10-15",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "triumf-nrc-quantum-ml-proton-therapy-research-assoc",
   "n": "NRC Canada at TRIUMF: Research Associate, Quantum Machine Learning for Proton Therapy",
   "f": "National Research Council Canada / TRIUMF",
   "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-11-03",
-  "dt": "Applications before Nov 3, 2026 get full consideration; the position stays open until filled",
+  "s": "rolling",
+  "dt": "Review began Nov 3, 2026; the position stays open until filled",
   "a": "From CAD 83,985 (RO/RCO-2)",
   "e": "NRC-employed research associate based at TRIUMF (Vancouver) using quantum-assisted generative ML in place of Monte Carlo for proton-therapy dose simulations, with D-Wave and Perimeter. PhD in a quantitative field; preference to Canadian citizens and permanent residents.",
   "u": "https://inspirehep.net/jobs/3214918",
@@ -12743,7 +12744,8 @@
   "added": "2026-10-16",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "trottier-space-institute-mcgill-postdoctoral-fellowships",
@@ -14492,6 +14494,28 @@
    "ug"
   ],
   "d": null
+ },
+ {
+  "id": "uva-simons-fellow-celestial-holography-postdoc",
+  "n": "University of Amsterdam: Simons Fellow in Celestial Holography",
+  "f": "University of Amsterdam, Institute of Physics, String Theory Group (Andrea Puhm); Simons Collaboration on Celestial Holography",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-16",
+  "dt": "Priority to applications by Dec 16, 2026, when review starts",
+  "a": "EUR 3,706-5,760 gross per month (scale 10); 3 years from fall 2027, third year subject to performance and funding",
+  "e": "Three-year postdoc in celestial holography with Andrea Puhm, funded by the Simons Collaboration on Celestial Holography, with travel to collaboration meetings and freedom to pursue independent research. Requires a PhD in theoretical physics with a background in quantum field theory and general relativity.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33323",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-04",
+  "added": "2026-11-04",
+  "stages": [
+   "pd"
+  ]
  },
  {
   "id": "uvic-mcdonald-institute-theory-fellows-2027",
