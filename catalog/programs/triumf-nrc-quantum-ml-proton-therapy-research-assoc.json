@@ -8,8 +8,8 @@
  ],
  "c": "Group postdoc",
  "checked": "2026-11-02",
- "d": "2026-11-03",
- "dt": "Applications before Nov 3, 2026 get full consideration; the position stays open until filled",
+ "d": null,
+ "dt": "Review began Nov 3, 2026; the position stays open until filled",
  "e": "NRC-employed research associate based at TRIUMF (Vancouver) using quantum-assisted generative ML in place of Monte Carlo for proton-therapy dose simulations, with D-Wave and Perimeter. PhD in a quantitative field; preference to Canadian citizens and permanent residents.",
  "f": "National Research Council Canada / TRIUMF",
  "fields": [
@@ -23,7 +23,7 @@
  "nom": false,
  "pt": "group",
  "region": "Canada",
- "s": "open",
+ "s": "rolling",
  "src": "inspire:3214918",
  "stages": [
   "pd"

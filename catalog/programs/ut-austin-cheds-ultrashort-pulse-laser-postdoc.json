@@ -1,0 +1,31 @@
+{
+ "a": "1-year appointment, renewable up to 5 years",
+ "added": "2026-11-04",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-04",
+ "d": null,
+ "dt": "No deadline stated; listed until 2027-02-07",
+ "e": "Postdoc building a high-repetition-rate, sub-100 fs laser front end and amplifier upgrades for the Texas Petawatt laser and supporting laser-plasma experiments. Requires a PhD in physics, optics, laser physics, electrical engineering or a related field within the last 3 years, with hands-on ultrashort-pulse laser experience.",
+ "f": "University of Texas at Austin, Department of Physics, Center for High Energy Density Science (B. M. Hegelich)",
+ "fields": [
+  "phot"
+ ],
+ "id": "ut-austin-cheds-ultrashort-pulse-laser-postdoc",
+ "n": "UT Austin: Postdoctoral Fellow, high-repetition-rate ultrashort-pulse laser development",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "ajo:33318",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33318",
+ "unv": "Salary is not stated; no citizenship requirement is stated in the ad.",
+ "us": false
+}
