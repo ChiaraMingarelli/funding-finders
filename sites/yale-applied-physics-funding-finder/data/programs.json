@@ -3345,40 +3345,6 @@
   "us": false
  },
  {
-  "a": "Supplemental award for 3 to 12 months of thesis research at a DOE lab",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-04",
-  "dt": "Nov 4, 2026, 5 pm ET",
-  "e": "US citizens or permanent residents in PhD programs, working with a DOE lab scientist.",
-  "f": "DOE Office of Science",
-  "fields": [
-   "all",
-   "ppx",
-   "ppt",
-   "nux",
-   "nut",
-   "inst",
-   "ds",
-   "qp",
-   "cmx",
-   "cmt",
-   "amo"
-  ],
-  "id": "doe-office-of-science-graduate-student-research-scgsr-2026-s",
-  "n": "DOE Office of Science Graduate Student Research (SCGSR), 2026 Solicitation 2",
-  "nfit": "Low",
-  "nom": false,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "gr"
-  ],
-  "u": "https://science.osti.gov/wdts/scgsr",
-  "us": true
- },
- {
   "a": "Typical single-PI university grants; narratives 15–20 pp; no fixed cap",
   "added": "2026-09-28",
   "c": "Federal grant",
@@ -4084,35 +4050,6 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32396",
-  "us": false
- },
- {
-  "a": "3-year appointment, extendable up to 2 more years.",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-04",
-  "dt": "Nov 4, 2026, 23:59 (AJO #32904, posted Oct 1, 2026)",
-  "e": "For candidates with a PhD in experimental particle physics, astrophysics or a related field earned after Sep 1, 2025, or expected by Sep 1, 2027. Includes an outreach commitment.",
-  "f": "Fermilab",
-  "fields": [
-   "ppx",
-   "astro",
-   "qp",
-   "inst"
-  ],
-  "id": "fermilab-leon-lederman-fellowship",
-  "n": "Fermilab Leon Lederman Fellowship",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "ajo:32904",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32904",
   "us": false
  },
  {
@@ -10521,9 +10458,9 @@
   "a": "Total $100,000,000; ~50 awards",
   "added": "2026-09-28",
   "c": "Federal grant",
-  "checked": "2026-11-02",
-  "d": "2026-11-04",
-  "dt": "Posted 2026-07-21",
+  "checked": "2026-11-05",
+  "d": "2027-11-03",
+  "dt": "Full proposals due Nov 3, 2027, 5 pm local time (first Wednesday in November each year; Nov 4, 2026 deadline passed)",
   "e": "IHEs, non-profits, for-profits, FFRDCs and others. Novel methods and AI to extract new value from existing scientific datasets.",
   "f": "NSF",
   "fields": [
@@ -11515,6 +11452,34 @@
   "us": false
  },
  {
+  "a": "3-year fixed-term positions (ERC, UKRI and STFC funded); start by Oct 1, 2027",
+  "added": "2026-11-05",
+  "c": "Group postdoc",
+  "checked": "2026-11-05",
+  "d": "2026-11-30",
+  "dt": "Nov 30, 2026, 12:00 UK time",
+  "e": "Three postdocs with Mezei, Schafer-Nameki and Sparks on many-body quantum chaos, generalized symmetries in many-body systems and quantum information, or low-dimensional and twisted holography. Open to PhDs in theoretical physics or mathematics.",
+  "f": "University of Oxford",
+  "fields": [
+   "ppt",
+   "cmt",
+   "qp"
+  ],
+  "id": "oxford-maths-three-postdocs-holography-quantum-chaos",
+  "n": "University of Oxford Mathematical Institute: Three Postdoctoral Research Associates (quantum chaos, generalized symmetries, holography)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3222725",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.maths.ox.ac.uk/node/86241",
+  "us": false
+ },
+ {
   "a": "$875,000 over 5 yrs",
   "added": "2026-09-30",
   "c": "Fellowship",
@@ -12110,9 +12075,9 @@
   "a": "$5,000 cash prize plus membership in the Cottrell Scholar community (eligible for Cottrell STAR, IMPACT and SEED awards)",
   "added": "2026-10-21",
   "c": "Prize",
-  "checked": "2026-11-02",
-  "d": "2026-11-04",
-  "dt": "Nomination package due Nov 4, 2026 (submitted by the nominating Cottrell Scholar or Holland awardee via the RCSA PRISM portal)",
+  "checked": "2026-11-05",
+  "d": "2026-12-02",
+  "dt": "Nomination package due Dec 2, 2026 (submitted by the nominating Cottrell Scholar or Holland awardee via the RCSA PRISM portal)",
   "e": "Recognizes tenured faculty in chemistry, physics or astronomy (or closely related physical sciences) at a US or Canadian research university or primarily undergraduate institution with strong records in research, teaching, mentoring and leadership. Nomination by a Cottrell Scholar or Holland awardee only (no self-nominations); past Cottrell Scholars are not eligible.",
   "f": "Research Corporation for Science Advancement (RCSA)",
   "fields": [
@@ -12127,7 +12092,7 @@
    "ten"
   ],
   "u": "https://rescorp.org/cottrell-scholars/robert-holland-jr-award/",
-  "unv": "Sources still disagree on Nov 2, 2026: the Awards Calendar on the RCSA Cottrell Scholars page lists Nov 4, 2026, while the Holland Award page says 2027 applications opened Sep 18, 2026 and are due Dec 2, 2026. The row keeps the earlier date.",
+  "unv": "The RCSA Awards Calendar listed Nov 4, 2026; the Holland Award page (checked Nov 5, 2026) says 2027 applications are due Dec 2, 2026, so the row uses Dec 2.",
   "us": false
  },
  {
@@ -13834,6 +13799,34 @@
   "us": false
  },
  {
+  "a": "Canada Impact+ Research Training Award (postdoctoral level)",
+  "added": "2026-11-05",
+  "c": "Group postdoc",
+  "checked": "2026-11-05",
+  "d": "2026-11-11",
+  "dt": "Nov 11, 2026 (TRIUMF seeks a candidate to nominate)",
+  "e": "TRIUMF's Centre for Molecular and Materials Science and Scientific Computing Department seek a postdoctoral-level candidate to nominate for a Canada Impact+ Research Training Award, on linking µSR and β-NMR experiments with analog quantum simulation.",
+  "f": "TRIUMF",
+  "fields": [
+   "cmx",
+   "qp"
+  ],
+  "id": "triumf-canada-impact-plus-musr-quantum-simulation",
+  "n": "TRIUMF: Canada Impact+ Research Training Award nominee (µSR, β-NMR and analog quantum simulation)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "open",
+  "src": "inspire:3221912",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3221912",
+  "unv": "Eligibility rules of the Canada Impact+ award (citizenship, years since PhD) not checked.",
+  "us": false
+ },
+ {
   "a": "From CAD 83,985 (RO/RCO-2)",
   "added": "2026-10-15",
   "c": "Group postdoc",
@@ -15375,6 +15368,33 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32521",
+  "us": false
+ },
+ {
+  "a": "Junior (2 years) and senior (3 years) postdocs; start any time in 2027; travel and equipment funds",
+  "added": "2026-11-05",
+  "c": "Group postdoc",
+  "checked": "2026-11-05",
+  "d": "2026-11-30",
+  "dt": "Nov 30, 2026 (AJO #33330; interviews in December)",
+  "e": "Postdocs in Achim Kempf's Physics of Information and AI Lab (Dieter Schwarz Foundation funding) on quantum information methods in quantum gravity and cosmology, quantum computation and quantum machine learning; links to IQC and Perimeter.",
+  "f": "University of Waterloo",
+  "fields": [
+   "qp",
+   "ds"
+  ],
+  "id": "waterloo-physics-of-information-ai-postdocs-2027",
+  "n": "University of Waterloo: Junior and Senior Postdoctoral Fellowships in Physics of Information and AI (Kempf lab)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "open",
+  "src": "ajo:33330",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33330",
   "us": false
  },
  {

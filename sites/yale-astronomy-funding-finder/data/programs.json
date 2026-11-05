@@ -749,6 +749,37 @@
   "us": false
  },
  {
+  "a": "2 years, possible third year; start in 2027",
+  "added": "2026-11-05",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-05",
+  "d": "2026-12-10",
+  "dt": "Dec 10, 2026 (INSPIRE #3222095)",
+  "e": "Multiple postdocs in the Astrocent theory group (Roszkowski, Lewicki, Shakya, Trojanowski) in theoretical particle physics, cosmology and particle astrophysics. Open to PhDs in theoretical physics.",
+  "f": "Astrocent Institute, Polish Academy of Sciences",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "astrocent-warsaw-theory-postdocs-2027",
+  "n": "Astrocent (Polish Academy of Sciences, Warsaw): Postdocs in Theoretical Particle Physics, Cosmology and Astroparticle Physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3222095",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3222095",
+  "unv": "Salary not stated; the listing links only to astrocent.edu.pl.",
+  "us": false
+ },
+ {
   "a": "€4,552–5,758 gross/month; 3 years (2+1)",
   "added": "2026-09-30",
   "asub": [
@@ -2407,6 +2438,38 @@
   "us": true
  },
  {
+  "a": "Postdoc starting fall 2027",
+  "added": "2026-11-05",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-05",
+  "d": "2026-12-15",
+  "dt": "Dec 15, 2026 (AJO #33328)",
+  "e": "Postdoc in Cornell's high energy theory group pursuing independent research mainly on quantum gravity, including quantum aspects of black holes and cosmology. PhD required by the start date.",
+  "f": "Cornell University",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "cornell-classe-het-postdoc-quantum-gravity-2027",
+  "n": "Cornell University (CLASSE): Postdoctoral Associate, High Energy Theory Group (quantum gravity)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33328",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33328",
+  "unv": "Salary not stated.",
+  "us": false
+ },
+ {
   "a": "$80,000/yr stipend + up to $1,000 relocation; 2 years from Sep 1, 2027, renewable for a third",
   "added": "2026-09-29",
   "c": "Fellowship",
@@ -2809,40 +2872,6 @@
   "u": "https://science.osti.gov/early-career",
   "unv": "FY2027 NOFO not posted; subject to FY27 appropriations",
   "us": false
- },
- {
-  "a": "Supplemental award for 3 to 12 months of thesis research at a DOE lab",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-04",
-  "dt": "Nov 4, 2026, 5 pm ET",
-  "e": "US citizens or permanent residents in PhD programs, working with a DOE lab scientist.",
-  "f": "DOE Office of Science",
-  "fields": [
-   "all",
-   "ppx",
-   "ppt",
-   "nux",
-   "nut",
-   "inst",
-   "ds",
-   "qp",
-   "cmx",
-   "cmt",
-   "amo"
-  ],
-  "id": "doe-office-of-science-graduate-student-research-scgsr-2026-s",
-  "n": "DOE Office of Science Graduate Student Research (SCGSR), 2026 Solicitation 2",
-  "nfit": "Low",
-  "nom": false,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "gr"
-  ],
-  "u": "https://science.osti.gov/wdts/scgsr",
-  "us": true
  },
  {
   "a": "Paid 10-week internship at a DOE lab",
@@ -3381,6 +3410,37 @@
   "us": false
  },
  {
+  "a": "2 years, possible 1-year extension; TV-L salary scale",
+  "added": "2026-11-05",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-05",
+  "d": "2026-12-01",
+  "dt": "Dec 1, 2026 (INSPIRE #3222742)",
+  "e": "Postdoc starting autumn 2027 at the Institute for Quantum Gravity (Giesel, Sahlmann, Thiemann) on non-perturbative quantum gravity, including quantum cosmology, quantum black holes and numerical quantum gravity. Open to PhDs in theoretical physics or mathematics.",
+  "f": "Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)",
+  "fields": [
+   "grav",
+   "ppt"
+  ],
+  "id": "fau-erlangen-iqg-nonperturbative-quantum-gravity-postdoc",
+  "n": "FAU Erlangen-Nürnberg: Postdoc in Non-perturbative Quantum Gravity (Institute for Quantum Gravity)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3222742",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.gravity.physik.fau.de",
+  "us": false
+ },
+ {
   "a": "About 35 one-year Regular awards averaging $75K; 1-2 Large awards of up to 3 years averaging $125K a year",
   "added": "2026-10-03",
   "asub": [
@@ -3441,35 +3501,6 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33283",
   "unv": "Salary not listed.",
-  "us": false
- },
- {
-  "a": "3-year appointment, extendable up to 2 more years.",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-04",
-  "dt": "Nov 4, 2026, 23:59 (AJO #32904, posted Oct 1, 2026)",
-  "e": "For candidates with a PhD in experimental particle physics, astrophysics or a related field earned after Sep 1, 2025, or expected by Sep 1, 2027. Includes an outreach commitment.",
-  "f": "Fermilab",
-  "fields": [
-   "ppx",
-   "astro",
-   "qp",
-   "inst"
-  ],
-  "id": "fermilab-leon-lederman-fellowship",
-  "n": "Fermilab Leon Lederman Fellowship",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "ajo:32904",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32904",
   "us": false
  },
  {
@@ -5012,6 +5043,39 @@
   "us": false
  },
  {
+  "a": "Several postdocs funded by David Mateos's ERC Advanced Grant",
+  "added": "2026-11-05",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-05",
+  "d": "2026-12-16",
+  "dt": "Dec 16, 2026 (INSPIRE #3221916)",
+  "e": "Several postdocs with Mateos, Casalderrey-Solana and others applying holography to cosmology and astrophysics with a focus on gravitational waves: cosmological phase transitions, baryogenesis, neutron star mergers. Prior holography experience is not required.",
+  "f": "Institute of Cosmos Sciences, University of Barcelona (ICCUB)",
+  "fields": [
+   "grav",
+   "ppt",
+   "astro"
+  ],
+  "id": "iccub-holography-gravitational-waves-postdocs",
+  "n": "ICCUB (University of Barcelona): Postdocs on Holographic Applications to Gravitational Waves (ERC Advanced Grant)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3221916",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://icc.ub.edu/node/1738889",
+  "unv": "The ICCUB page could not be reached on Nov 5, 2026; details are from INSPIRE. Salary not stated.",
+  "us": false
+ },
+ {
   "a": "3 years",
   "added": "2026-10-15",
   "c": "Fellowship",
@@ -5039,6 +5103,37 @@
   ],
   "u": "https://icc.ub.edu/node/1716565",
   "unv": "The ICCUB page returned HTTP 503 on Nov 2, 2026; dates confirmed through INSPIRE record 3214624 (open, deadline Nov 26, 2026) on Nov 2, 2026.",
+  "us": false
+ },
+ {
+  "a": "2+1 years starting fall 2027",
+  "added": "2026-11-05",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-05",
+  "d": "2026-12-16",
+  "dt": "Dec 16, 2026 (INSPIRE #3221915)",
+  "e": "Postdoc in the String Theory, Gravitation and Cosmology group (Bueno, Emparan, Figueras, Garriga, Mateos and others). Open to PhDs in theoretical physics; applications also go through a European network of institutes with a joint postdoc application system.",
+  "f": "Institute of Cosmos Sciences, University of Barcelona (ICCUB)",
+  "fields": [
+   "grav",
+   "ppt"
+  ],
+  "id": "iccub-string-gravitation-cosmology-postdoc-2027",
+  "n": "ICCUB (University of Barcelona): Postdoc in String Theory, Gravitation and Cosmology",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3221915",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://icc.ub.edu/node/1745012",
+  "unv": "Salary not stated.",
   "us": false
  },
  {
@@ -10011,9 +10106,9 @@
   "a": "Total $100,000,000; ~50 awards",
   "added": "2026-09-28",
   "c": "Federal grant",
-  "checked": "2026-11-02",
-  "d": "2026-11-04",
-  "dt": "Posted 2026-07-21",
+  "checked": "2026-11-05",
+  "d": "2027-11-03",
+  "dt": "Full proposals due Nov 3, 2027, 5 pm local time (first Wednesday in November each year; Nov 4, 2026 deadline passed)",
   "e": "IHEs, non-profits, for-profits, FFRDCs and others. Novel methods and AI to extract new value from existing scientific datasets.",
   "f": "NSF",
   "fields": [
@@ -10977,6 +11072,36 @@
   "us": false
  },
  {
+  "a": "2-year postdoc",
+  "added": "2026-11-05",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-05",
+  "d": "2027-01-10",
+  "dt": "Jan 10, 2027",
+  "e": "Postdoc with Annegret Burtscher on the Vidi project 'Spacetimes near the boundary of existence': Lorentzian geometry, geometric analysis and PDEs in general relativity, in the Mathematics Department.",
+  "f": "Radboud University",
+  "fields": [
+   "grav"
+  ],
+  "id": "radboud-mathematical-relativity-postdoc-burtscher",
+  "n": "Radboud University Nijmegen: Postdoc in Mathematical Relativity (Vidi project, Burtscher)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:hyperspace-radboud-math-relativity",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.ru.nl/en/working-at/job-opportunities/postdoc-position-mathematical-relativity",
+  "unv": "Details from the Hyperspace post; salary and eligibility not checked on the Radboud ad.",
+  "us": false
+ },
+ {
   "a": "$78,000 stipend + $5,000 project expenses; 1 yr in residence",
   "added": "2026-09-28",
   "c": "Sabbatical",
@@ -11004,9 +11129,9 @@
   "a": "$5,000 cash prize plus membership in the Cottrell Scholar community (eligible for Cottrell STAR, IMPACT and SEED awards)",
   "added": "2026-10-21",
   "c": "Prize",
-  "checked": "2026-11-02",
-  "d": "2026-11-04",
-  "dt": "Nomination package due Nov 4, 2026 (submitted by the nominating Cottrell Scholar or Holland awardee via the RCSA PRISM portal)",
+  "checked": "2026-11-05",
+  "d": "2026-12-02",
+  "dt": "Nomination package due Dec 2, 2026 (submitted by the nominating Cottrell Scholar or Holland awardee via the RCSA PRISM portal)",
   "e": "Recognizes tenured faculty in chemistry, physics or astronomy (or closely related physical sciences) at a US or Canadian research university or primarily undergraduate institution with strong records in research, teaching, mentoring and leadership. Nomination by a Cottrell Scholar or Holland awardee only (no self-nominations); past Cottrell Scholars are not eligible.",
   "f": "Research Corporation for Science Advancement (RCSA)",
   "fields": [
@@ -11021,7 +11146,7 @@
    "ten"
   ],
   "u": "https://rescorp.org/cottrell-scholars/robert-holland-jr-award/",
-  "unv": "Sources still disagree on Nov 2, 2026: the Awards Calendar on the RCSA Cottrell Scholars page lists Nov 4, 2026, while the Holland Award page says 2027 applications opened Sep 18, 2026 and are due Dec 2, 2026. The row keeps the earlier date.",
+  "unv": "The RCSA Awards Calendar listed Nov 4, 2026; the Holland Award page (checked Nov 5, 2026) says 2027 applications are due Dec 2, 2026, so the row uses Dec 2.",
   "us": false
  },
  {
@@ -12024,6 +12149,38 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32225",
+  "us": false
+ },
+ {
+  "a": "£39,906 to £46,049 per year, fixed term",
+  "added": "2026-11-05",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-05",
+  "d": "2026-12-06",
+  "dt": "Dec 6, 2026 (INSPIRE #3222646; job SU01742)",
+  "e": "Postdoc in the Particle Physics and Cosmology Theory Group (Maleknejad, Tasinato, Zavala) on how gravitational-wave experiments probe early-Universe physics and the dark sector; the group is active in LISA, NANOGrav and Euclid. Open to PhDs in theoretical cosmology or GW physics.",
+  "f": "Swansea University",
+  "fields": [
+   "grav",
+   "astro",
+   "ppt"
+  ],
+  "id": "swansea-gw-cosmology-postdoc-2027",
+  "n": "Swansea University: Postdoctoral Research Associate in Gravitational Wave Cosmology",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3222646",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.swansea.ac.uk/jobs-at-swansea/current-vacancies/details/?opening-id=11476",
   "us": false
  },
  {
