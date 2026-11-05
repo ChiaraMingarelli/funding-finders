@@ -1,0 +1,36 @@
+{
+ "a": "2 years, possible 1-year extension; TV-L salary scale",
+ "added": "2026-11-05",
+ "asub": [
+  "cos",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-05",
+ "d": "2026-12-01",
+ "dt": "Dec 1, 2026 (INSPIRE #3222742)",
+ "e": "Postdoc starting autumn 2027 at the Institute for Quantum Gravity (Giesel, Sahlmann, Thiemann) on non-perturbative quantum gravity, including quantum cosmology, quantum black holes and numerical quantum gravity. Open to PhDs in theoretical physics or mathematics.",
+ "f": "Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)",
+ "fields": [
+  "grav",
+  "ppt"
+ ],
+ "id": "fau-erlangen-iqg-nonperturbative-quantum-gravity-postdoc",
+ "n": "FAU Erlangen-Nürnberg: Postdoc in Non-perturbative Quantum Gravity (Institute for Quantum Gravity)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3222742",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.gravity.physik.fau.de",
+ "us": false
+}

@@ -1,0 +1,29 @@
+{
+ "a": "Tenure-track assistant professor, start Fall 2027",
+ "added": "2026-11-05",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-05",
+ "d": "2027-01-04",
+ "dt": "Jan 4, 2027 (INSPIRE #3222029)",
+ "e": "Department of Physics seeks an astronomer or astrophysicist in theoretical, computational or observational astronomy who will build an externally funded program, teach astronomy and physics, and use the campus Brooks Observatory.",
+ "f": "Central Michigan University",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-central-michigan-tt-asst-prof-astronomy",
+ "n": "Central Michigan University: Tenure-Track Assistant Professor in Astronomy/Astrophysics",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3222029",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://www.jobs.cmich.edu/postings/45656",
+ "unv": "Deadline from INSPIRE; check the CMU posting for review dates.",
+ "us": false
+}

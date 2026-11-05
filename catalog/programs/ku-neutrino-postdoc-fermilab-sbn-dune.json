@@ -1,0 +1,31 @@
+{
+ "a": "Postdoc starting as early as Jan 15, 2027",
+ "added": "2026-11-05",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-05",
+ "d": "2026-11-30",
+ "dt": "Nov 30, 2026 (INSPIRE #3221540)",
+ "e": "Postdoc based at Fermilab working on reconstruction (Pandora, NuGraph2, AI/ML) and physics analysis for the Short-Baseline Neutrino program and DUNE. Open to PhDs in experimental particle physics.",
+ "f": "University of Kansas",
+ "fields": [
+  "nux"
+ ],
+ "id": "ku-neutrino-postdoc-fermilab-sbn-dune",
+ "n": "University of Kansas: Postdoctoral Researcher in Experimental Neutrino Physics (based at Fermilab)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3221540",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://employment.ku.edu/jobs/staff/postdoctoral-researcher/34041br",
+ "unv": "Salary not stated.",
+ "us": false
+}

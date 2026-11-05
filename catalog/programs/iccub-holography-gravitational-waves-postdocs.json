@@ -1,0 +1,39 @@
+{
+ "a": "Several postdocs funded by David Mateos's ERC Advanced Grant",
+ "added": "2026-11-05",
+ "asub": [
+  "cos",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-05",
+ "d": "2026-12-16",
+ "dt": "Dec 16, 2026 (INSPIRE #3221916)",
+ "e": "Several postdocs with Mateos, Casalderrey-Solana and others applying holography to cosmology and astrophysics with a focus on gravitational waves: cosmological phase transitions, baryogenesis, neutron star mergers. Prior holography experience is not required.",
+ "f": "Institute of Cosmos Sciences, University of Barcelona (ICCUB)",
+ "fields": [
+  "grav",
+  "ppt",
+  "astro"
+ ],
+ "id": "iccub-holography-gravitational-waves-postdocs",
+ "n": "ICCUB (University of Barcelona): Postdocs on Holographic Applications to Gravitational Waves (ERC Advanced Grant)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3221916",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://icc.ub.edu/node/1738889",
+ "unv": "The ICCUB page could not be reached on Nov 5, 2026; details are from INSPIRE. Salary not stated.",
+ "us": false
+}

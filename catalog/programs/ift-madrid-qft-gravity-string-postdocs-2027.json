@@ -1,0 +1,31 @@
+{
+ "a": "Several postdocs starting fall 2027 (ERC Starting Grant SymQuaG, PI Dierigl; ATRAE grant, PI Valenzuela)",
+ "added": "2026-11-05",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-05",
+ "d": "2026-12-20",
+ "dt": "Dec 20, 2026",
+ "e": "Several postdocs in QFT, gravity and string theory broadly (swampland, string phenomenology, holography, QFTs/CFTs). PhD in theoretical physics required by the start date.",
+ "f": "Instituto de Física Teórica UAM-CSIC",
+ "fields": [
+  "ppt"
+ ],
+ "id": "ift-madrid-qft-gravity-string-postdocs-2027",
+ "n": "IFT UAM-CSIC Madrid: Postdocs in QFT, Gravity and String Theory (ERC SymQuaG and ATRAE)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3222647",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://calls.ift.uam-csic.es/convocatoria/NjQ=",
+ "unv": "Salary not stated.",
+ "us": false
+}

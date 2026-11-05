@@ -1,0 +1,32 @@
+{
+ "a": "Postdoc posts on STFC Consolidated Grant 'Particle Theory at the Higgs Centre'",
+ "added": "2026-11-05",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-05",
+ "d": "2026-11-27",
+ "dt": "Nov 27, 2026 (INSPIRE #3222649; vacancies 15049 and 15041)",
+ "e": "Two postdocs in lattice field theory: precision lattice QCD for (semi-)leptonic decays with QED corrections (Portelli), and multi-hadron scattering, decay amplitudes and long-distance matrix elements (Hansen). Open to PhDs in theoretical particle physics.",
+ "f": "University of Edinburgh",
+ "fields": [
+  "ppt",
+  "nut"
+ ],
+ "id": "edinburgh-higgs-centre-lattice-qcd-postdocs",
+ "n": "University of Edinburgh Higgs Centre: Two Lattice QCD Postdoctoral Research Associates",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3222649",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3222649",
+ "unv": "The INSPIRE listing gives no link to the university's own ad; salary not stated.",
+ "us": false
+}

@@ -1,0 +1,28 @@
+{
+ "a": "Tenure-track assistant professor",
+ "added": "2026-11-05",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-05",
+ "d": "2026-12-06",
+ "dt": "Dec 6, 2026 (INSPIRE #3221909)",
+ "e": "Department of Theoretical Physics and Astrophysics seeks a string theorist; experience in string scattering amplitudes is welcomed. Requires a strong research and teaching record and ability to attract funding.",
+ "f": "Masaryk University",
+ "fields": [
+  "ppt"
+ ],
+ "id": "fj-masaryk-tt-asst-prof-string-theory",
+ "n": "Masaryk University (Brno): Tenure-Track Assistant Professor in String Theory",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3221909",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://www.muni.cz/en/about-us/careers/vacancies/81894",
+ "us": false
+}

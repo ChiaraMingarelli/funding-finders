@@ -1,0 +1,30 @@
+{
+ "a": "Tenure-track assistant professor, start Oct 1, 2027 or later",
+ "added": "2026-11-05",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-05",
+ "d": "2027-04-01",
+ "dt": "Apr 1, 2027 (INSPIRE #3221914)",
+ "e": "Multiple tenure-track posts at the Interdisciplinary Center for Theoretical Study in string theory, QFT, particle phenomenology (emphasis), gravity, cosmology and mathematical physics. Requires a PhD and at least three years of postdoc experience.",
+ "f": "University of Science and Technology of China",
+ "fields": [
+  "ppt",
+  "grav"
+ ],
+ "id": "fj-ustc-icts-tt-asst-prof-theoretical-physics",
+ "n": "USTC ICTS (Hefei): Tenure-Track Assistant Professors in Theoretical Physics",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3221914",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://inspirehep.net/jobs/3221914",
+ "unv": "Salary not stated; no direct USTC ad link in the listing.",
+ "us": false
+}

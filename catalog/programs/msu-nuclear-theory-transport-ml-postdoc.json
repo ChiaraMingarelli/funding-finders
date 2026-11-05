@@ -1,0 +1,32 @@
+{
+ "a": "Fixed-term postdoc; salary not stated in the listing",
+ "added": "2026-11-05",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-05",
+ "d": "2027-03-01",
+ "dt": "Listed deadline Mar 1, 2027 (INSPIRE #3222744, posted Nov 4, 2026)",
+ "e": "Postdoc in the MSU Nuclear Theory Group developing microscopic transport models (SMASH) and Bayesian and AI/ML methods to constrain dense nuclear matter with heavy-ion collision data. Open to PhDs in nuclear or related physics.",
+ "f": "Michigan State University",
+ "fields": [
+  "nut",
+  "ds"
+ ],
+ "id": "msu-nuclear-theory-transport-ml-postdoc",
+ "n": "Michigan State University: Postdoctoral Scholar in Nuclear Theory (transport models and AI/ML)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3222744",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://careers.msu.edu/jobs/postdoctoral-scholar-fixed-term-east-lansing-michigan-united-states-bec65303-8db5-49b2-bc49-9a69f03daabb",
+ "unv": "Deadline taken from the INSPIRE listing; the MSU ad may close earlier.",
+ "us": false
+}

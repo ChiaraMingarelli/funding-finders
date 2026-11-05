@@ -1,0 +1,36 @@
+{
+ "a": "2 years, possible third year; start in 2027",
+ "added": "2026-11-05",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-05",
+ "d": "2026-12-10",
+ "dt": "Dec 10, 2026 (INSPIRE #3222095)",
+ "e": "Multiple postdocs in the Astrocent theory group (Roszkowski, Lewicki, Shakya, Trojanowski) in theoretical particle physics, cosmology and particle astrophysics. Open to PhDs in theoretical physics.",
+ "f": "Astrocent Institute, Polish Academy of Sciences",
+ "fields": [
+  "ppt",
+  "astro"
+ ],
+ "id": "astrocent-warsaw-theory-postdocs-2027",
+ "n": "Astrocent (Polish Academy of Sciences, Warsaw): Postdocs in Theoretical Particle Physics, Cosmology and Astroparticle Physics",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3222095",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3222095",
+ "unv": "Salary not stated; the listing links only to astrocent.edu.pl.",
+ "us": false
+}

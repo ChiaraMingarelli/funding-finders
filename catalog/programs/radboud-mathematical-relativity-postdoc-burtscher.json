@@ -1,0 +1,35 @@
+{
+ "a": "2-year postdoc",
+ "added": "2026-11-05",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-05",
+ "d": "2027-01-10",
+ "dt": "Jan 10, 2027",
+ "e": "Postdoc with Annegret Burtscher on the Vidi project 'Spacetimes near the boundary of existence': Lorentzian geometry, geometric analysis and PDEs in general relativity, in the Mathematics Department.",
+ "f": "Radboud University",
+ "fields": [
+  "grav"
+ ],
+ "id": "radboud-mathematical-relativity-postdoc-burtscher",
+ "n": "Radboud University Nijmegen: Postdoc in Mathematical Relativity (Vidi project, Burtscher)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:hyperspace-radboud-math-relativity",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.ru.nl/en/working-at/job-opportunities/postdoc-position-mathematical-relativity",
+ "unv": "Details from the Hyperspace post; salary and eligibility not checked on the Radboud ad.",
+ "us": false
+}

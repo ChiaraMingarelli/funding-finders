@@ -1,0 +1,36 @@
+{
+ "a": "2+1 years starting fall 2027",
+ "added": "2026-11-05",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-05",
+ "d": "2026-12-16",
+ "dt": "Dec 16, 2026 (INSPIRE #3221915)",
+ "e": "Postdoc in the String Theory, Gravitation and Cosmology group (Bueno, Emparan, Figueras, Garriga, Mateos and others). Open to PhDs in theoretical physics; applications also go through a European network of institutes with a joint postdoc application system.",
+ "f": "Institute of Cosmos Sciences, University of Barcelona (ICCUB)",
+ "fields": [
+  "grav",
+  "ppt"
+ ],
+ "id": "iccub-string-gravitation-cosmology-postdoc-2027",
+ "n": "ICCUB (University of Barcelona): Postdoc in String Theory, Gravitation and Cosmology",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3221915",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://icc.ub.edu/node/1745012",
+ "unv": "Salary not stated.",
+ "us": false
+}
