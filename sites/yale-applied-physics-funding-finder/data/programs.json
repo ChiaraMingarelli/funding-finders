@@ -7403,6 +7403,37 @@
   "us": false
  },
  {
+  "a": "$800,000–$900,000 over 6 years, unconstrained; up to 4 awards",
+  "added": "2026-11-05",
+  "c": "Foundation",
+  "checked": "2026-11-05",
+  "d": "2026-12-04",
+  "dt": "Pre-application due Dec 4, 2026, 11:59 pm Pacific (Dec 5, 2:59 am Eastern). Applicants submit it themselves through the EPiQS portal, with no institutional sign-off or budget at this stage; 30–40 applicants are invited to send full proposals in early February 2027.",
+  "e": "Single-investigator awards for theoretical and computational studies of quantum materials (correlated systems, unusual magnets, topological materials, 2D and layered systems, hybrid materials). The applicant must hold a primary tenured or tenure-track appointment at a US academic institution; adjunct, research and emeritus faculty are not eligible. Quantum simulators (cold atoms, superconducting circuits, photonic systems) are outside the scope. Only work published in 2019 or later counts toward the track record. The next EPiQS Investigator calls are planned for 2029 and 2032.",
+  "f": "Gordon and Betty Moore Foundation – Emergent Phenomena in Quantum Systems",
+  "fields": [
+   "cmt",
+   "mat"
+  ],
+  "id": "moore-epiqs-theory-investigators-2026",
+  "n": "Moore EPiQS Theory Investigators (2026)",
+  "nom": false,
+  "s": "open",
+  "src": "other:epiqs-theory-2026",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://epiqs.smapply.io/prog/2026_theory/",
+  "us": false,
+  "yale": {
+   "d": null,
+   "t": "The Yale research newsletter of Nov 4, 2026 lists this under Corporate & Foundation opportunities, with no internal limited-submission step. Contact zandra.ruiz@yale.edu (Corporate and Foundation Relations) before applying.",
+   "u": "https://yale.infoready4.com/",
+   "unv": "Source is the Nov 4, 2026 newsletter. The Moore Foundation asks applicants to check its indirect-cost policy with their institution before applying."
+  }
+ },
+ {
   "a": "not listed",
   "added": "2026-10-03",
   "c": "Prize",
