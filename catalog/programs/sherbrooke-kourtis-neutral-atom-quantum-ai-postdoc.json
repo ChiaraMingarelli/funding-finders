@@ -1,0 +1,33 @@
+{
+ "a": "Postdoctoral position; salary not stated in the listing",
+ "added": "2026-11-06",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-06",
+ "d": "2026-12-06",
+ "dt": "Deadline Dec 6, 2026",
+ "e": "Theory postdoc designing quantum algorithms, quantum simulation and quantum machine learning protocols for neutral-atom processors, in partnership with PASQAL. No citizenship limit stated.",
+ "f": "Université de Sherbrooke, Department of Physics / Institut quantique",
+ "fields": [
+  "qp",
+  "amo"
+ ],
+ "id": "sherbrooke-kourtis-neutral-atom-quantum-ai-postdoc",
+ "n": "Université de Sherbrooke: Postdoc, quantum AI with neutral-atom arrays (Kourtis group, with PASQAL)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "Canada",
+ "s": "open",
+ "src": "ajo:33349",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33349",
+ "unv": "",
+ "us": false
+}

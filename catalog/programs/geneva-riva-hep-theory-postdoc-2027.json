@@ -1,0 +1,31 @@
+{
+ "a": "Two years with a possible one-year extension; starts Sep 2027",
+ "added": "2026-11-06",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-06",
+ "d": "2027-01-03",
+ "dt": "Deadline Jan 3, 2027",
+ "e": "Theory postdoc in the group of Francesco Riva on S-matrix theory, scattering amplitudes, bootstrap methods, energy correlators and Hamiltonian truncation. Requires a PhD in theoretical physics by the start date; no citizenship limit stated.",
+ "f": "University of Geneva, Department of Theoretical Physics",
+ "fields": [
+  "ppt"
+ ],
+ "id": "geneva-riva-hep-theory-postdoc-2027",
+ "n": "University of Geneva: Postdoctoral Researcher in Theoretical Particle Physics (Riva group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33336",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33336",
+ "unv": "Also listed on INSPIRE (3223147).",
+ "us": false
+}

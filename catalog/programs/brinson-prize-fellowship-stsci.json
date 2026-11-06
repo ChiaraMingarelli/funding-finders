@@ -12,8 +12,8 @@
  ],
  "c": "Fellowship",
  "checked": "2026-10-12",
- "d": "2026-11-05",
- "dt": "7 pm EST; letters Nov 19",
+ "d": null,
+ "dt": "Last deadline Nov 5, 2026 (letters due Nov 19); the next cycle is not posted yet",
  "e": "Focused on observational cosmology. Held at 15 US host institutions.",
  "f": "Brinson Foundation / STScI",
  "fields": [
@@ -25,7 +25,7 @@
  "nom": false,
  "pt": "prize",
  "region": "US",
- "s": "open",
+ "s": "watch",
  "stages": [
   "pd"
  ],

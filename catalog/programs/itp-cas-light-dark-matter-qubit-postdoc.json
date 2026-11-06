@@ -1,0 +1,32 @@
+{
+ "a": "Two years, possible third year or promotion to a 3-year research associate post",
+ "added": "2026-11-06",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-06",
+ "d": null,
+ "dt": "Reviewed until filled (INSPIRE lists Mar 31, 2027)",
+ "e": "Experimental postdoc developing ultra-low-threshold superconducting-qubit detectors for light dark matter, partly based at BAQIS and the China Jinping Underground Laboratory. Applicants send CV, research statement and two letters to songnq@itp.ac.cn.",
+ "f": "Institute of Theoretical Physics, Chinese Academy of Sciences (Ningqiang Song group)",
+ "fields": [
+  "ppx",
+  "qp"
+ ],
+ "id": "itp-cas-light-dark-matter-qubit-postdoc",
+ "n": "ITP-CAS Beijing: Postdoc in light dark matter searches with superconducting qubit arrays",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "rolling",
+ "src": "inspire:3223142",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3223142",
+ "unv": "No institutional web page for the ad; details from INSPIRE.",
+ "us": false
+}

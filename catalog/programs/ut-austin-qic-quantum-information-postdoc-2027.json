@@ -1,0 +1,33 @@
+{
+ "a": "Two years, renewable for a third; stipend plus research/travel budget; starts summer or fall 2027",
+ "added": "2026-11-06",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-06",
+ "d": "2026-12-12",
+ "dt": "Full consideration by Dec 12, 2026; considered until filled",
+ "e": "Theory postdocs in quantum information, computation, complexity, quantum dynamics and many-body physics with the QIC (Aaronson, Hunter-Jones, Ippoliti, Kretschmer), affiliated with Physics and Computer Science. No citizenship limit stated.",
+ "f": "University of Texas at Austin, Quantum Information Center and Texas Quantum Institute",
+ "fields": [
+  "qp",
+  "cmt"
+ ],
+ "id": "ut-austin-qic-quantum-information-postdoc-2027",
+ "n": "UT Austin: Postdoctoral Fellow, Quantum Information Science (Quantum Information Center)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33317",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33317",
+ "unv": "",
+ "us": false
+}

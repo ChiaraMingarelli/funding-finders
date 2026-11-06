@@ -1,0 +1,37 @@
+{
+ "a": "Research Associate-I: Rs 70,850 per month including HRA and medical; 11 months, in a 1+1-year ISRO-funded project",
+ "added": "2026-11-06",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-06",
+ "d": "2026-12-04",
+ "dt": "Apply by Dec 4, 2026 (INSPIRE listing) via the IIT Guwahati R&D recruitment portal; online interviews Dec 7, 2026",
+ "e": "Postdoc-level project position applying machine learning to dark matter and modified gravity using galactic dynamics. Requires a PhD (or submitted thesis) in gravity, astrophysics, astroparticle or high energy physics.",
+ "f": "Indian Institute of Technology Guwahati, Department of Physics",
+ "fields": [
+  "astro",
+  "grav",
+  "ppt"
+ ],
+ "id": "iit-guwahati-isro-ml-dark-matter-gravity-ra",
+ "n": "IIT Guwahati: Research Associate, machine learning for dark matter and modified gravity (ISRO project)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3223149",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.iitg.ac.in/pdf/ab9a7f5f93178f207f093453d0857b97.pdf",
+ "unv": "The advertisement does not say whether non-Indian nationals may apply; the Dec 4 deadline is from INSPIRE, not the advertisement.",
+ "us": false
+}

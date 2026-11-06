@@ -6,8 +6,8 @@
  ],
  "c": "Federal grant",
  "checked": "2026-11-02",
- "d": "2026-11-05",
- "dt": "Renewal, resubmission and revision applications Nov 5, 2026, the last due date before the NOFO expires Jan 8, 2027; the last date for new applications was Oct 5, 2026",
+ "d": null,
+ "dt": "Last deadline Nov 5, 2026 (renewal, resubmission and revision); the NOFO expires Jan 8, 2027 and no reissue is posted yet",
  "e": "Academic-industry teams translating imaging, spectroscopy and data-science technologies into validated in vivo imaging tools for cancer or other disease. An industrial partner is part of the team; no citizenship restriction.",
  "f": "NIH NCI",
  "fields": [
@@ -24,7 +24,7 @@
   }
  ],
  "nom": false,
- "s": "open",
+ "s": "watch",
  "src": "grants:PAR-25-079",
  "stages": [
   "tt",
