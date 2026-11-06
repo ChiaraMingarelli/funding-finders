@@ -1870,6 +1870,37 @@
  },
  {
   "a": "Expected hiring range $72,879-$121,465",
+  "added": "2026-11-06",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-06",
+  "d": null,
+  "dt": "Posted Nov 2, 2026; no deadline stated",
+  "e": "Postdoc on design, simulation and testing of a hard X-ray free-electron laser oscillator at the Advanced Photon Source, including diamond-crystal X-ray cavities and high-heat-load optics. For PhDs from the last 0-5 years in physics, photon science or accelerator science; requires a DOE background check.",
+  "f": "Argonne National Laboratory, X-ray Science Division Optics and Accelerator Systems Division Diagnostics",
+  "fields": [
+   "phot",
+   "inst"
+  ],
+  "id": "argonne-sr-xfel-oscillator-postdoc-423616",
+  "n": "Argonne National Laboratory: Postdoctoral Appointee, Storage-Ring-Based X-Ray Free-Electron Laser Oscillator",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "s": "rolling",
+  "src": "other:anl-423616-sr-xfelo",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Storage-Ring-Based-X-Ray-Free-Electron-Laser-Oscillator_423616",
+  "unv": "",
+  "us": false
+ },
+ {
+  "a": "Expected hiring range $72,879-$121,465",
   "added": "2026-10-20",
   "aud": [
    "yale",
@@ -2845,6 +2876,39 @@
   "us": false
  },
  {
+  "a": "Three years; competitive salary with subsidized benefits; start Aug or Sep 2027",
+  "added": "2026-11-06",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-06",
+  "d": "2026-11-19",
+  "dt": "Deadline Nov 19, 2026",
+  "e": "Theory postdocs in quantum condensed matter, statistical, many-body and soft matter physics, free to work with all CMTC faculty (Altman, Lake, Ledwith, Lee, Moore, Zaletel). PhD in physics by the start date; no citizenship limit stated.",
+  "f": "UC Berkeley, Department of Physics / Condensed Matter Theory Center",
+  "fields": [
+   "cmt",
+   "qp"
+  ],
+  "id": "berkeley-cmtc-postdoc-2027",
+  "n": "UC Berkeley: Condensed Matter Theory Center Postdoctoral Fellow",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33355",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33355",
+  "unv": "",
+  "us": false
+ },
+ {
   "a": "$67,000 starting stipend plus $40,000/yr research fund; 2 years",
   "added": "2026-10-03",
   "aud": [
@@ -2946,6 +3010,39 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33011",
   "unv": "Salary not stated (\"competitive\").",
+  "us": false
+ },
+ {
+  "a": "Three years; competitive salary with subsidized benefits; start Aug or Sep 2027",
+  "added": "2026-11-06",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-11-06",
+  "d": "2026-11-15",
+  "dt": "Deadline Nov 15, 2026",
+  "e": "Named EPiQS-funded postdoc in theoretical condensed matter physics; fellows may collaborate with all CMTC faculty. Applicants are also considered for the CMTC postdoc. PhD in physics by the start date; no citizenship limit stated.",
+  "f": "UC Berkeley, Department of Physics / Condensed Matter Theory Center (Moore Foundation EPiQS)",
+  "fields": [
+   "cmt",
+   "qp"
+  ],
+  "id": "berkeley-moore-epiqs-cmt-postdoc-2027",
+  "n": "UC Berkeley: Gordon and Betty Moore Postdoctoral Fellowship in theoretical condensed matter physics",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33353",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33353",
+  "unv": "",
   "us": false
  },
  {
@@ -3405,8 +3502,8 @@
   ],
   "c": "Fellowship",
   "checked": "2026-10-12",
-  "d": "2026-11-05",
-  "dt": "7 pm EST; letters Nov 19",
+  "d": null,
+  "dt": "Last deadline Nov 5, 2026 (letters due Nov 19); the next cycle is not posted yet",
   "e": "Focused on observational cosmology. Held at 15 US host institutions.",
   "f": "Brinson Foundation / STScI",
   "fields": [
@@ -3418,7 +3515,7 @@
   "nom": false,
   "pt": "prize",
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
@@ -6153,8 +6250,8 @@
   ],
   "c": "Federal grant",
   "checked": "2026-11-02",
-  "d": "2026-11-05",
-  "dt": "YFA 2027 research announcement DARPARA2701 posted Oct 20, 2026: executive summaries due Nov 5, 2026, 4:00 pm ET; questions close Jan 5, 2027; full proposals due Jan 13, 2027, 4:00 pm ET",
+  "d": "2027-01-13",
+  "dt": "YFA 2027 research announcement DARPARA2701: executive summaries were due Nov 5, 2026; questions close Jan 5, 2027; full proposals due Jan 13, 2027, 4:00 pm ET",
   "e": "Current tenure-track faculty, tenured faculty within 3 years of their tenure date, or the equivalent at a non-profit research institution within 12 years of the doctorate; all personnel must be employed at a US institution. Foreign nationals may apply, but citizens of China, Cuba, Iran, North Korea, Russia and Venezuela cannot be key or senior personnel; PIs with more than $500K in prior DARPA funding (or $1.25M from all DoW sources) are excluded.",
   "f": "DARPA",
   "fields": [
@@ -6179,6 +6276,7 @@
    "ten"
   ],
   "u": "https://www.darpa.mil/work-with-us/communities/academia/young-faculty-award",
+  "unv": "Not confirmed whether a full proposal may be submitted without an executive summary submitted by Nov 5, 2026; check the research announcement.",
   "us": false
  },
  {
@@ -13563,6 +13661,37 @@
   "us": false
  },
  {
+  "a": "Two years with a possible one-year extension; starts Sep 2027",
+  "added": "2026-11-06",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-06",
+  "d": "2027-01-03",
+  "dt": "Deadline Jan 3, 2027",
+  "e": "Theory postdoc in the group of Francesco Riva on S-matrix theory, scattering amplitudes, bootstrap methods, energy correlators and Hamiltonian truncation. Requires a PhD in theoretical physics by the start date; no citizenship limit stated.",
+  "f": "University of Geneva, Department of Theoretical Physics",
+  "fields": [
+   "ppt"
+  ],
+  "id": "geneva-riva-hep-theory-postdoc-2027",
+  "n": "University of Geneva: Postdoctoral Researcher in Theoretical Particle Physics (Riva group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33336",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33336",
+  "unv": "Also listed on INSPIRE (3223147).",
+  "us": false
+ },
+ {
   "a": "Three years (2 + 1 contingent), start Fall 2027, with discretionary research fund; salary not stated",
   "added": "2026-10-23",
   "aud": [
@@ -14688,6 +14817,43 @@
   ],
   "u": "https://socfell.fas.harvard.edu/nomination-procedure",
   "unv": "Official page blocks automated access (HTTP 403), still on Nov 2, 2026; dates from a search summary of the official site.",
+  "us": false
+ },
+ {
+  "a": "Two years, extension to three possible; start fall 2027",
+  "added": "2026-11-06",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-06",
+  "d": "2027-01-02",
+  "dt": "Review begins Jan 2, 2027; the AJO listing ends Jan 6, 2027",
+  "e": "Theory postdocs in particle physics, cosmology and gravitational physics, including particle cosmology, structure formation, quantum gravity and string theory. Applicants with a PhD in theoretical physics; no citizenship limit stated.",
+  "f": "Institute for Theoretical Physics, Heidelberg University (Fundamental Physics Division)",
+  "fields": [
+   "ppt",
+   "astro",
+   "grav"
+  ],
+  "id": "heidelberg-itp-theory-postdocs-2027",
+  "n": "University of Heidelberg ITP: Postdoctoral positions in theoretical physics (particle physics, cosmology, gravity)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33326",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33326",
+  "unv": "",
   "us": false
  },
  {
@@ -16818,6 +16984,43 @@
   "us": false
  },
  {
+  "a": "Research Associate-I: Rs 70,850 per month including HRA and medical; 11 months, in a 1+1-year ISRO-funded project",
+  "added": "2026-11-06",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-06",
+  "d": "2026-12-04",
+  "dt": "Apply by Dec 4, 2026 (INSPIRE listing) via the IIT Guwahati R&D recruitment portal; online interviews Dec 7, 2026",
+  "e": "Postdoc-level project position applying machine learning to dark matter and modified gravity using galactic dynamics. Requires a PhD (or submitted thesis) in gravity, astrophysics, astroparticle or high energy physics.",
+  "f": "Indian Institute of Technology Guwahati, Department of Physics",
+  "fields": [
+   "astro",
+   "grav",
+   "ppt"
+  ],
+  "id": "iit-guwahati-isro-ml-dark-matter-gravity-ra",
+  "n": "IIT Guwahati: Research Associate, machine learning for dark matter and modified gravity (ISRO project)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3223149",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.iitg.ac.in/pdf/ab9a7f5f93178f207f093453d0857b97.pdf",
+  "unv": "The advertisement does not say whether non-Indian nationals may apply; the Dec 4 deadline is from INSPIRE, not the advertisement.",
+  "us": false
+ },
+ {
   "a": "₹58,000/month + 27% HRA (ANRF norms); 11 months, extendable by 6 months",
   "added": "2026-10-27",
   "asub": [
@@ -18316,6 +18519,74 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/31467",
   "unv": "Posted Jan 2026; positions may already be partly filled",
+  "us": false
+ },
+ {
+  "a": "Two years, possible third year or promotion to a 3-year research associate post",
+  "added": "2026-11-06",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-06",
+  "d": null,
+  "dt": "Reviewed until filled (INSPIRE lists Mar 31, 2027)",
+  "e": "Experimental postdoc developing ultra-low-threshold superconducting-qubit detectors for light dark matter, partly based at BAQIS and the China Jinping Underground Laboratory. Applicants send CV, research statement and two letters to songnq@itp.ac.cn.",
+  "f": "Institute of Theoretical Physics, Chinese Academy of Sciences (Ningqiang Song group)",
+  "fields": [
+   "ppx",
+   "qp"
+  ],
+  "id": "itp-cas-light-dark-matter-qubit-postdoc",
+  "n": "ITP-CAS Beijing: Postdoc in light dark matter searches with superconducting qubit arrays",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "inspire:3223142",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3223142",
+  "unv": "No institutional web page for the ad; details from INSPIRE.",
+  "us": false
+ },
+ {
+  "a": "Two years, possible promotion to a 3-year research associate post",
+  "added": "2026-11-06",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-06",
+  "d": null,
+  "dt": "Review begins Jan 1, 2027; open until filled (INSPIRE lists Jan 31, 2027)",
+  "e": "Theory postdoc on dark matter, neutrino physics, physics beyond the Standard Model and links between particle physics, astrophysics and new detection methods. Applicants send CV, research statement and two letters to songnq@itp.ac.cn.",
+  "f": "Institute of Theoretical Physics, Chinese Academy of Sciences (Ningqiang Song group)",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "itp-cas-particle-astroparticle-theory-postdoc",
+  "n": "ITP-CAS Beijing: Postdoc in theoretical particle and astroparticle physics (Song group)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "inspire:3223141",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3223141",
+  "unv": "No institutional web page for the ad; details from INSPIRE.",
   "us": false
  },
  {
@@ -23346,8 +23617,8 @@
   ],
   "c": "Federal grant",
   "checked": "2026-11-02",
-  "d": "2026-11-05",
-  "dt": "Renewal, resubmission and revision applications Nov 5, 2026, the last due date before the NOFO expires Jan 8, 2027; the last date for new applications was Oct 5, 2026",
+  "d": null,
+  "dt": "Last deadline Nov 5, 2026 (renewal, resubmission and revision); the NOFO expires Jan 8, 2027 and no reissue is posted yet",
   "e": "Academic-industry teams translating imaging, spectroscopy and data-science technologies into validated in vivo imaging tools for cancer or other disease. An industrial partner is part of the team; no citizenship restriction.",
   "f": "NIH NCI",
   "fields": [
@@ -23364,7 +23635,7 @@
    }
   ],
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "src": "grants:PAR-25-079",
   "stages": [
    "tt",
@@ -23807,8 +24078,8 @@
   ],
   "c": "Federal grant",
   "checked": "2026-11-02",
-  "d": "2026-11-05",
-  "dt": "Renewal/resubmission Nov 5, 2026; new applications Feb 5, 2027 (standard 5th of Feb/Jun/Oct for new, Mar/Jul/Nov for others); NOFO expires Jul 6, 2029",
+  "d": "2027-02-05",
+  "dt": "New applications Feb 5, 2027 (standard 5th of Feb/Jun/Oct for new, Mar/Jul/Nov for others); NOFO expires Jul 6, 2029",
   "e": "Broad eligibility incl. foreign orgs. Life-/physical-science collaborations applying bioengineering to biomedical problems.",
   "f": "NIH NIBIB",
   "fields": [
@@ -24280,8 +24551,8 @@
   ],
   "c": "Federal grant",
   "checked": "2026-11-02",
-  "d": "2026-11-05",
-  "dt": "Renewal/resubmission Nov 5, 2026; new applications Feb 5, 2027 (standard 5th of Feb/Jun/Oct for new, Mar/Jul/Nov for others); NOFO expires Jan 8, 2028",
+  "d": "2027-02-05",
+  "dt": "New applications Feb 5, 2027 (standard 5th of Feb/Jun/Oct for new, Mar/Jul/Nov for others); NOFO expires Jan 8, 2028",
   "e": "US organizations (foreign ineligible). Development of biomedical technologies that significantly advance the state of the art.",
   "f": "NIH",
   "fields": [
@@ -24419,8 +24690,8 @@
   ],
   "c": "Federal grant",
   "checked": "2026-11-02",
-  "d": "2026-11-05",
-  "dt": "Resubmissions Nov 5, 2026 (5th of Mar/Jul/Nov); new applications Feb 5, Jun 5 and Oct 5, 2027",
+  "d": "2027-02-05",
+  "dt": "New applications Feb 5, Jun 5 and Oct 5, 2027; resubmissions on the 5th of Mar/Jul/Nov (the Nov 5, 2026 date has passed)",
   "e": "Faculty at US institutions; ESIs get career-stage consideration. Since Sept 25, 2025, NIH accepts at most 6 new, renewal, resubmission or revision applications per PI per calendar year (NOT-OD-25-132). From the January 2026 council round, NIH ICs no longer use paylines (unified funding strategy).",
   "f": "NIH",
   "fields": [
@@ -30561,6 +30832,39 @@
   "us": false
  },
  {
+  "a": "Postdoctoral position; salary not stated in the listing",
+  "added": "2026-11-06",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-06",
+  "d": "2026-11-25",
+  "dt": "Deadline Nov 25, 2026",
+  "e": "Theory postdoc on quantum simulation with bosonic and hybrid qubit-boson systems, quantum learning and benchmarking, in a PSI-ETH project on molecular quantum dynamics with trapped ions and superconducting circuits. Requires a PhD in physics or a related field.",
+  "f": "Paul Scherrer Institute (PSI), Laboratory for Theoretical and Computational Physics, with ETH Zurich",
+  "fields": [
+   "qp",
+   "amo"
+  ],
+  "id": "psi-ltc-bosonic-quantum-simulation-postdoc",
+  "n": "Paul Scherrer Institute: Postdoc, quantum simulation and bosonic quantum information",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33338",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33338",
+  "unv": "",
+  "us": false
+ },
+ {
   "a": "EUR 4,200/month gross; 3 years",
   "added": "2026-09-30",
   "aud": [
@@ -31360,6 +31664,41 @@
   ],
   "u": "https://aas.org/grants-and-prizes/rodger-doxsey-travel-prize",
   "unv": "aas.org returned HTTP 403 on Oct 7, 12, 21 and Nov 2, 2026; the AAS 249 deadline (tied to the on-time abstract deadline, usually about Oct 1) is not confirmed and may already have passed.",
+  "us": false
+ },
+ {
+  "a": "Two years, renewal possible; salary competitive",
+  "added": "2026-11-06",
+  "asub": [
+   "exo"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-06",
+  "d": "2027-05-31",
+  "dt": "AJO deadline May 31, 2027; start on or after Jul 1, 2027",
+  "e": "Postdoc with Renyu Hu on atmospheres, climates and habitability of small exoplanets, using JWST and ground-based observations, models and machine learning. No citizenship limit stated.",
+  "f": "Rutgers University, Department of Physics and Astronomy",
+  "fields": [
+   "astro"
+  ],
+  "id": "rutgers-hu-exoplanet-postdoc-2027",
+  "n": "Rutgers: Postdoctoral Researcher in exoplanet science (Renyu Hu group)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33344",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33344",
+  "unv": "AJO lists the post as 'Postdoctoral Associate-Condensed Matter Theory', but the description is for exoplanet science.",
   "us": false
  },
  {
@@ -32190,6 +32529,39 @@
   ],
   "u": "https://university-of-sheffield.contactrh.com/jobs/11046/44549997",
   "unv": "UK visa sponsorship and start date are not stated; details are from the jobs.ac.uk copy of the ad.",
+  "us": false
+ },
+ {
+  "a": "Postdoctoral position; salary not stated in the listing",
+  "added": "2026-11-06",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-06",
+  "d": "2026-12-06",
+  "dt": "Deadline Dec 6, 2026",
+  "e": "Theory postdoc designing quantum algorithms, quantum simulation and quantum machine learning protocols for neutral-atom processors, in partnership with PASQAL. No citizenship limit stated.",
+  "f": "Université de Sherbrooke, Department of Physics / Institut quantique",
+  "fields": [
+   "qp",
+   "amo"
+  ],
+  "id": "sherbrooke-kourtis-neutral-atom-quantum-ai-postdoc",
+  "n": "Université de Sherbrooke: Postdoc, quantum AI with neutral-atom arrays (Kourtis group, with PASQAL)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "open",
+  "src": "ajo:33349",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33349",
+  "unv": "",
   "us": false
  },
  {
@@ -38713,6 +39085,39 @@
   "us": false
  },
  {
+  "a": "Two years, renewable for a third; stipend plus research/travel budget; starts summer or fall 2027",
+  "added": "2026-11-06",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-06",
+  "d": "2026-12-12",
+  "dt": "Full consideration by Dec 12, 2026; considered until filled",
+  "e": "Theory postdocs in quantum information, computation, complexity, quantum dynamics and many-body physics with the QIC (Aaronson, Hunter-Jones, Ippoliti, Kretschmer), affiliated with Physics and Computer Science. No citizenship limit stated.",
+  "f": "University of Texas at Austin, Quantum Information Center and Texas Quantum Institute",
+  "fields": [
+   "qp",
+   "cmt"
+  ],
+  "id": "ut-austin-qic-quantum-information-postdoc-2027",
+  "n": "UT Austin: Postdoctoral Fellow, Quantum Information Science (Quantum Information Center)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33317",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33317",
+  "unv": "",
+  "us": false
+ },
+ {
   "a": "Two years; competitive salary plus annual professional development funds (amount not stated)",
   "added": "2026-11-02",
   "aud": [
@@ -39629,6 +40034,70 @@
   "us": false
  },
  {
+  "a": "Full-time (100%) postdoc position; salary not stated in the listing",
+  "added": "2026-11-06",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-06",
+  "d": "2026-12-01",
+  "dt": "Deadline Dec 1, 2026 (INSPIRE listing)",
+  "e": "Experimental postdoc building superconducting-qubit quantum computers: novel qubits such as fluxonium, long-range couplers, error-correction codes, fabrication and readout. Open to applicants with a PhD in a related field; no citizenship limit stated.",
+  "f": "Walther-Meißner-Institute, Bavarian Academy of Sciences and Humanities (Munich Quantum Valley)",
+  "fields": [
+   "qp",
+   "cmx"
+  ],
+  "id": "wmi-munich-superconducting-quantum-computing-postdoc",
+  "n": "Walther-Meißner-Institute (Munich): Postdoc, Superconducting Quantum Computers",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3223566",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.wmi.badw.de/career",
+  "unv": "Deadline and details from the INSPIRE listing; the WMI career page was not checked for this position.",
+  "us": false
+ },
+ {
+  "a": "Postdoctoral research associate; salary not stated in the listing",
+  "added": "2026-11-06",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-06",
+  "d": "2026-11-30",
+  "dt": "Deadline Nov 30, 2026",
+  "e": "Experimental postdoc on the search for keV-scale sterile neutrinos with KATRIN and the TRISTAN detector, including building an X-ray calibration source. Open to applicants with a PhD in physics; no citizenship limit stated.",
+  "f": "Bergische Universität Wuppertal, Astroparticle Physics Group",
+  "fields": [
+   "nux"
+  ],
+  "id": "wuppertal-katrin-tristan-neutrino-postdoc",
+  "n": "University of Wuppertal: Postdoctoral Research Associate in Neutrino Physics (KATRIN/TRISTAN)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3223151",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3223151",
+  "unv": "The university's own job page could not be opened through a stable link; details from the INSPIRE listing.",
+  "us": false
+ },
+ {
   "a": "German civil-service grade A13 (Akademischer Rat auf Zeit); 3 years, extendable by up to 3 more",
   "added": "2026-10-07",
   "aud": [
@@ -40127,7 +40596,7 @@
   ],
   "c": "Yale internal",
   "checked": "2026-11-02",
-  "d": "2026-11-05",
+  "d": "2027-02-05",
   "dt": "Three cycles a year: Nov 5, Feb 5, May 5",
   "e": "Small grants for Yale students building healthcare or medical solutions and reaching innovation milestones.",
   "f": "Yale Ventures",

@@ -792,6 +792,28 @@
   ]
  },
  {
+  "id": "berkeley-cmtc-postdoc-2027",
+  "n": "UC Berkeley: Condensed Matter Theory Center Postdoctoral Fellow",
+  "f": "UC Berkeley, Department of Physics / Condensed Matter Theory Center",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-19",
+  "dt": "Deadline Nov 19, 2026",
+  "a": "Three years; competitive salary with subsidized benefits; start Aug or Sep 2027",
+  "e": "Theory postdocs in quantum condensed matter, statistical, many-body and soft matter physics, free to work with all CMTC faculty (Altman, Lake, Ledwith, Lee, Moore, Zaletel). PhD in physics by the start date; no citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33355",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-06",
+  "added": "2026-11-06",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "berkeley-litp-lbnl-theory-postdoc-2027",
   "n": "UC Berkeley LITP / Berkeley Lab: Postdoctoral Fellows in Theoretical Particle Physics",
   "f": "University of California, Berkeley / Lawrence Berkeley National Laboratory",
@@ -831,6 +853,28 @@
   "nfit": "Medium",
   "checked": "2026-11-02",
   "added": "2026-10-09",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "berkeley-moore-epiqs-cmt-postdoc-2027",
+  "n": "UC Berkeley: Gordon and Betty Moore Postdoctoral Fellowship in theoretical condensed matter physics",
+  "f": "UC Berkeley, Department of Physics / Condensed Matter Theory Center (Moore Foundation EPiQS)",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2026-11-15",
+  "dt": "Deadline Nov 15, 2026",
+  "a": "Three years; competitive salary with subsidized benefits; start Aug or Sep 2027",
+  "e": "Named EPiQS-funded postdoc in theoretical condensed matter physics; fellows may collaborate with all CMTC faculty. Applicants are also considered for the CMTC postdoc. PhD in physics by the start date; no citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33353",
+  "us": false,
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-06",
+  "added": "2026-11-06",
   "stages": [
    "pd"
   ]
@@ -952,9 +996,8 @@
   "n": "Brinson Prize Fellowship (STScI)",
   "f": "Brinson Foundation / STScI",
   "c": "Fellowship",
-  "s": "open",
-  "d": "2026-11-05",
-  "dt": "7 pm EST; letters Nov 19",
+  "s": "watch",
+  "dt": "Last deadline Nov 5, 2026 (letters due Nov 19); the next cycle is not posted yet",
   "a": "Stipend + research funds, up to 3 yr",
   "e": "Focused on observational cosmology. Held at 15 US host institutions.",
   "u": "https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program",
@@ -968,7 +1011,8 @@
   "added": "2026-09-29",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "british-columbia-graduate-scholarship-bcgs",
@@ -6084,6 +6128,29 @@
   ]
  },
  {
+  "id": "geneva-riva-hep-theory-postdoc-2027",
+  "n": "University of Geneva: Postdoctoral Researcher in Theoretical Particle Physics (Riva group)",
+  "f": "University of Geneva, Department of Theoretical Physics",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-03",
+  "dt": "Deadline Jan 3, 2027",
+  "a": "Two years with a possible one-year extension; starts Sep 2027",
+  "e": "Theory postdoc in the group of Francesco Riva on S-matrix theory, scattering amplitudes, bootstrap methods, energy correlators and Hamiltonian truncation. Requires a PhD in theoretical physics by the start date; no citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33336",
+  "unv": "Also listed on INSPIRE (3223147).",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-06",
+  "added": "2026-11-06",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "georgia-tech-physics-prize-postdoc-2027",
   "n": "Georgia Tech School of Physics: Prize Postdoctoral Fellowship (inaugural)",
   "f": "Georgia Institute of Technology, School of Physics",
@@ -6486,6 +6553,28 @@
    "pd"
   ],
   "d": null
+ },
+ {
+  "id": "heidelberg-itp-theory-postdocs-2027",
+  "n": "University of Heidelberg ITP: Postdoctoral positions in theoretical physics (particle physics, cosmology, gravity)",
+  "f": "Institute for Theoretical Physics, Heidelberg University (Fundamental Physics Division)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-02",
+  "dt": "Review begins Jan 2, 2027; the AJO listing ends Jan 6, 2027",
+  "a": "Two years, extension to three possible; start fall 2027",
+  "e": "Theory postdocs in particle physics, cosmology and gravitational physics, including particle cosmology, structure formation, quantum gravity and string theory. Applicants with a PhD in theoretical physics; no citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33326",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-11-06",
+  "added": "2026-11-06",
+  "stages": [
+   "pd"
+  ]
  },
  {
   "id": "himis-shenzhen-hep-theory-quantum-info-postdocs",
@@ -7278,6 +7367,29 @@
   ]
  },
  {
+  "id": "iit-guwahati-isro-ml-dark-matter-gravity-ra",
+  "n": "IIT Guwahati: Research Associate, machine learning for dark matter and modified gravity (ISRO project)",
+  "f": "Indian Institute of Technology Guwahati, Department of Physics",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-04",
+  "dt": "Apply by Dec 4, 2026 (INSPIRE listing) via the IIT Guwahati R&D recruitment portal; online interviews Dec 7, 2026",
+  "a": "Research Associate-I: Rs 70,850 per month including HRA and medical; 11 months, in a 1+1-year ISRO-funded project",
+  "e": "Postdoc-level project position applying machine learning to dark matter and modified gravity using galactic dynamics. Requires a PhD (or submitted thesis) in gravity, astrophysics, astroparticle or high energy physics.",
+  "u": "https://www.iitg.ac.in/pdf/ab9a7f5f93178f207f093453d0857b97.pdf",
+  "unv": "The advertisement does not say whether non-Indian nationals may apply; the Dec 4 deadline is from INSPIRE, not the advertisement.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-11-06",
+  "added": "2026-11-06",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "iit-hyderabad-astroparticle-ra-postdoc",
   "n": "IIT Hyderabad: Postdoctoral Research Associate in Astroparticle Physics",
   "f": "Indian Institute of Technology Hyderabad, Department of Physics (Divya Sachdeva); ANRF project",
@@ -8032,6 +8144,52 @@
   "nfit": "Low",
   "checked": "2026-11-02",
   "added": "2026-10-02",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
+  "id": "itp-cas-light-dark-matter-qubit-postdoc",
+  "n": "ITP-CAS Beijing: Postdoc in light dark matter searches with superconducting qubit arrays",
+  "f": "Institute of Theoretical Physics, Chinese Academy of Sciences (Ningqiang Song group)",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Reviewed until filled (INSPIRE lists Mar 31, 2027)",
+  "a": "Two years, possible third year or promotion to a 3-year research associate post",
+  "e": "Experimental postdoc developing ultra-low-threshold superconducting-qubit detectors for light dark matter, partly based at BAQIS and the China Jinping Underground Laboratory. Applicants send CV, research statement and two letters to songnq@itp.ac.cn.",
+  "u": "https://inspirehep.net/jobs/3223142",
+  "unv": "No institutional web page for the ad; details from INSPIRE.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-06",
+  "added": "2026-11-06",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
+  "id": "itp-cas-particle-astroparticle-theory-postdoc",
+  "n": "ITP-CAS Beijing: Postdoc in theoretical particle and astroparticle physics (Song group)",
+  "f": "Institute of Theoretical Physics, Chinese Academy of Sciences (Ningqiang Song group)",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Review begins Jan 1, 2027; open until filled (INSPIRE lists Jan 31, 2027)",
+  "a": "Two years, possible promotion to a 3-year research associate post",
+  "e": "Theory postdoc on dark matter, neutrino physics, physics beyond the Standard Model and links between particle physics, astrophysics and new detection methods. Applicants send CV, research statement and two letters to songnq@itp.ac.cn.",
+  "u": "https://inspirehep.net/jobs/3223141",
+  "unv": "No institutional web page for the ad; details from INSPIRE.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-11-06",
+  "added": "2026-11-06",
   "stages": [
    "pd"
   ],
@@ -11714,6 +11872,28 @@
   ]
  },
  {
+  "id": "psi-ltc-bosonic-quantum-simulation-postdoc",
+  "n": "Paul Scherrer Institute: Postdoc, quantum simulation and bosonic quantum information",
+  "f": "Paul Scherrer Institute (PSI), Laboratory for Theoretical and Computational Physics, with ETH Zurich",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-25",
+  "dt": "Deadline Nov 25, 2026",
+  "a": "Postdoctoral position; salary not stated in the listing",
+  "e": "Theory postdoc on quantum simulation with bosonic and hybrid qubit-boson systems, quantum learning and benchmarking, in a PSI-ETH project on molecular quantum dynamics with trapped ions and superconducting circuits. Requires a PhD in physics or a related field.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33338",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-06",
+  "added": "2026-11-06",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "psu-redwing-mocvd-2d-tmd-postdocs",
   "n": "Penn State MSE (Redwing group, 2D Crystal Consortium): Postdoctoral Scholars, MOCVD of 2D TMDs",
   "f": "Penn State University, Department of Materials Science and Engineering",
@@ -12011,6 +12191,29 @@
   "d": null
  },
  {
+  "id": "rutgers-hu-exoplanet-postdoc-2027",
+  "n": "Rutgers: Postdoctoral Researcher in exoplanet science (Renyu Hu group)",
+  "f": "Rutgers University, Department of Physics and Astronomy",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-05-31",
+  "dt": "AJO deadline May 31, 2027; start on or after Jul 1, 2027",
+  "a": "Two years, renewal possible; salary competitive",
+  "e": "Postdoc with Renyu Hu on atmospheres, climates and habitability of small exoplanets, using JWST and ground-based observations, models and machine learning. No citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33344",
+  "unv": "AJO lists the post as 'Postdoctoral Associate-Condensed Matter Theory', but the description is for exoplanet science.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-11-06",
+  "added": "2026-11-06",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "sandia-697934-quantum-photonics-pd",
   "n": "Sandia National Laboratories: Postdoctoral Appointee, Quantum Photonics, Onsite",
   "f": "Sandia National Laboratories, Photonic Microsystems Technologies Department",
@@ -12258,6 +12461,28 @@
   "nfit": "Medium",
   "checked": "2026-11-04",
   "added": "2026-11-04",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "sherbrooke-kourtis-neutral-atom-quantum-ai-postdoc",
+  "n": "Université de Sherbrooke: Postdoc, quantum AI with neutral-atom arrays (Kourtis group, with PASQAL)",
+  "f": "Université de Sherbrooke, Department of Physics / Institut quantique",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-06",
+  "dt": "Deadline Dec 6, 2026",
+  "a": "Postdoctoral position; salary not stated in the listing",
+  "e": "Theory postdoc designing quantum algorithms, quantum simulation and quantum machine learning protocols for neutral-atom processors, in partnership with PASQAL. No citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33349",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "nfit": "Low",
+  "checked": "2026-11-06",
+  "added": "2026-11-06",
   "stages": [
    "pd"
   ]
@@ -14769,6 +14994,28 @@
   "d": null
  },
  {
+  "id": "ut-austin-qic-quantum-information-postdoc-2027",
+  "n": "UT Austin: Postdoctoral Fellow, Quantum Information Science (Quantum Information Center)",
+  "f": "University of Texas at Austin, Quantum Information Center and Texas Quantum Institute",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-12",
+  "dt": "Full consideration by Dec 12, 2026; considered until filled",
+  "a": "Two years, renewable for a third; stipend plus research/travel budget; starts summer or fall 2027",
+  "e": "Theory postdocs in quantum information, computation, complexity, quantum dynamics and many-body physics with the QIC (Aaronson, Hunter-Jones, Ippoliti, Kretschmer), affiliated with Physics and Computer Science. No citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33317",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-06",
+  "added": "2026-11-06",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "utk-camm-mrsec-quantum-materials-mbe-postdoc",
   "n": "University of Tennessee Knoxville: Postdoctoral Research Associate, Low-Dimensional Quantum Materials (CAMM MRSEC)",
   "f": "University of Tennessee Knoxville, Department of Physics & Astronomy; Center for Advanced Materials and Manufacturing (NSF MRSEC)",
@@ -15236,6 +15483,52 @@
   "nfit": "Medium",
   "checked": "2026-11-02",
   "added": "2026-10-31",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "wmi-munich-superconducting-quantum-computing-postdoc",
+  "n": "Walther-Meißner-Institute (Munich): Postdoc, Superconducting Quantum Computers",
+  "f": "Walther-Meißner-Institute, Bavarian Academy of Sciences and Humanities (Munich Quantum Valley)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-01",
+  "dt": "Deadline Dec 1, 2026 (INSPIRE listing)",
+  "a": "Full-time (100%) postdoc position; salary not stated in the listing",
+  "e": "Experimental postdoc building superconducting-qubit quantum computers: novel qubits such as fluxonium, long-range couplers, error-correction codes, fabrication and readout. Open to applicants with a PhD in a related field; no citizenship limit stated.",
+  "u": "https://www.wmi.badw.de/career",
+  "unv": "Deadline and details from the INSPIRE listing; the WMI career page was not checked for this position.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-06",
+  "added": "2026-11-06",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "wuppertal-katrin-tristan-neutrino-postdoc",
+  "n": "University of Wuppertal: Postdoctoral Research Associate in Neutrino Physics (KATRIN/TRISTAN)",
+  "f": "Bergische Universität Wuppertal, Astroparticle Physics Group",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-11-30",
+  "dt": "Deadline Nov 30, 2026",
+  "a": "Postdoctoral research associate; salary not stated in the listing",
+  "e": "Experimental postdoc on the search for keV-scale sterile neutrinos with KATRIN and the TRISTAN detector, including building an X-ray calibration source. Open to applicants with a PhD in physics; no citizenship limit stated.",
+  "u": "https://inspirehep.net/jobs/3223151",
+  "unv": "The university's own job page could not be opened through a stable link; details from the INSPIRE listing.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-06",
+  "added": "2026-11-06",
   "stages": [
    "pd"
   ]

@@ -1301,8 +1301,8 @@
   ],
   "c": "Fellowship",
   "checked": "2026-10-12",
-  "d": "2026-11-05",
-  "dt": "7 pm EST; letters Nov 19",
+  "d": null,
+  "dt": "Last deadline Nov 5, 2026 (letters due Nov 19); the next cycle is not posted yet",
   "e": "Focused on observational cosmology. Held at 15 US host institutions.",
   "f": "Brinson Foundation / STScI",
   "fields": [
@@ -1314,7 +1314,7 @@
   "nom": false,
   "pt": "prize",
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
@@ -2613,8 +2613,8 @@
   "added": "2026-09-28",
   "c": "Federal grant",
   "checked": "2026-11-02",
-  "d": "2026-11-05",
-  "dt": "YFA 2027 research announcement DARPARA2701 posted Oct 20, 2026: executive summaries due Nov 5, 2026, 4:00 pm ET; questions close Jan 5, 2027; full proposals due Jan 13, 2027, 4:00 pm ET",
+  "d": "2027-01-13",
+  "dt": "YFA 2027 research announcement DARPARA2701: executive summaries were due Nov 5, 2026; questions close Jan 5, 2027; full proposals due Jan 13, 2027, 4:00 pm ET",
   "e": "Current tenure-track faculty, tenured faculty within 3 years of their tenure date, or the equivalent at a non-profit research institution within 12 years of the doctorate; all personnel must be employed at a US institution. Foreign nationals may apply, but citizens of China, Cuba, Iran, North Korea, Russia and Venezuela cannot be key or senior personnel; PIs with more than $500K in prior DARPA funding (or $1.25M from all DoW sources) are excluded.",
   "f": "DARPA",
   "fields": [
@@ -2639,6 +2639,7 @@
    "ten"
   ],
   "u": "https://www.darpa.mil/work-with-us/communities/academia/young-faculty-award",
+  "unv": "Not confirmed whether a full proposal may be submitted without an executive summary submitted by Nov 5, 2026; check the research announcement.",
   "us": false
  },
  {
@@ -4619,6 +4620,38 @@
   "us": false
  },
  {
+  "a": "Two years, extension to three possible; start fall 2027",
+  "added": "2026-11-06",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-06",
+  "d": "2027-01-02",
+  "dt": "Review begins Jan 2, 2027; the AJO listing ends Jan 6, 2027",
+  "e": "Theory postdocs in particle physics, cosmology and gravitational physics, including particle cosmology, structure formation, quantum gravity and string theory. Applicants with a PhD in theoretical physics; no citizenship limit stated.",
+  "f": "Institute for Theoretical Physics, Heidelberg University (Fundamental Physics Division)",
+  "fields": [
+   "ppt",
+   "astro",
+   "grav"
+  ],
+  "id": "heidelberg-itp-theory-postdocs-2027",
+  "n": "University of Heidelberg ITP: Postdoctoral positions in theoretical physics (particle physics, cosmology, gravity)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33326",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33326",
+  "unv": "",
+  "us": false
+ },
+ {
   "a": "$20,000 to $80,000 per event grant (up to $800,000 in total per cycle)",
   "added": "2026-09-28",
   "c": "Foundation",
@@ -5599,6 +5632,38 @@
   "us": false
  },
  {
+  "a": "Research Associate-I: Rs 70,850 per month including HRA and medical; 11 months, in a 1+1-year ISRO-funded project",
+  "added": "2026-11-06",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-06",
+  "d": "2026-12-04",
+  "dt": "Apply by Dec 4, 2026 (INSPIRE listing) via the IIT Guwahati R&D recruitment portal; online interviews Dec 7, 2026",
+  "e": "Postdoc-level project position applying machine learning to dark matter and modified gravity using galactic dynamics. Requires a PhD (or submitted thesis) in gravity, astrophysics, astroparticle or high energy physics.",
+  "f": "Indian Institute of Technology Guwahati, Department of Physics",
+  "fields": [
+   "astro",
+   "grav",
+   "ppt"
+  ],
+  "id": "iit-guwahati-isro-ml-dark-matter-gravity-ra",
+  "n": "IIT Guwahati: Research Associate, machine learning for dark matter and modified gravity (ISRO project)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3223149",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.iitg.ac.in/pdf/ab9a7f5f93178f207f093453d0857b97.pdf",
+  "unv": "The advertisement does not say whether non-Indian nationals may apply; the Dec 4 deadline is from INSPIRE, not the advertisement.",
+  "us": false
+ },
+ {
   "a": "₹58,000/month + 27% HRA (ANRF norms); 11 months, extendable by 6 months",
   "added": "2026-10-27",
   "asub": [
@@ -6252,6 +6317,37 @@
   ],
   "u": "https://hyperspace.uni-frankfurt.de/2026/11/03/postdoctoral-position-in-gravitational-waves-sciences-lisbon-portugal/",
   "unv": "Only the Hyperspace@GU post was found; it links to the CENTRA homepage, not a separate host ad. Salary not stated.",
+  "us": false
+ },
+ {
+  "a": "Two years, possible promotion to a 3-year research associate post",
+  "added": "2026-11-06",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-06",
+  "d": null,
+  "dt": "Review begins Jan 1, 2027; open until filled (INSPIRE lists Jan 31, 2027)",
+  "e": "Theory postdoc on dark matter, neutrino physics, physics beyond the Standard Model and links between particle physics, astrophysics and new detection methods. Applicants send CV, research statement and two letters to songnq@itp.ac.cn.",
+  "f": "Institute of Theoretical Physics, Chinese Academy of Sciences (Ningqiang Song group)",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "itp-cas-particle-astroparticle-theory-postdoc",
+  "n": "ITP-CAS Beijing: Postdoc in theoretical particle and astroparticle physics (Song group)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "inspire:3223141",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3223141",
+  "unv": "No institutional web page for the ad; details from INSPIRE.",
   "us": false
  },
  {
@@ -11202,6 +11298,36 @@
   ],
   "u": "https://aas.org/grants-and-prizes/rodger-doxsey-travel-prize",
   "unv": "aas.org returned HTTP 403 on Oct 7, 12, 21 and Nov 2, 2026; the AAS 249 deadline (tied to the on-time abstract deadline, usually about Oct 1) is not confirmed and may already have passed.",
+  "us": false
+ },
+ {
+  "a": "Two years, renewal possible; salary competitive",
+  "added": "2026-11-06",
+  "asub": [
+   "exo"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-06",
+  "d": "2027-05-31",
+  "dt": "AJO deadline May 31, 2027; start on or after Jul 1, 2027",
+  "e": "Postdoc with Renyu Hu on atmospheres, climates and habitability of small exoplanets, using JWST and ground-based observations, models and machine learning. No citizenship limit stated.",
+  "f": "Rutgers University, Department of Physics and Astronomy",
+  "fields": [
+   "astro"
+  ],
+  "id": "rutgers-hu-exoplanet-postdoc-2027",
+  "n": "Rutgers: Postdoctoral Researcher in exoplanet science (Renyu Hu group)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33344",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33344",
+  "unv": "AJO lists the post as 'Postdoctoral Associate-Condensed Matter Theory', but the description is for exoplanet science.",
   "us": false
  },
  {
