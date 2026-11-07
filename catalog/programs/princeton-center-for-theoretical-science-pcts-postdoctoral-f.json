@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-09-29",
- "d": "2026-11-06",
- "dt": "Nominations opened Aug 25; candidate materials due Nov 6, 2026.",
+ "checked": "2026-11-07",
+ "d": null,
+ "dt": "Last deadline Nov 6, 2026 (candidate materials); the next cycle is not posted yet.",
  "e": "Theorists nominated by a faculty or permanent research staff member.",
  "f": "Princeton University PCTS",
  "fields": [
@@ -20,7 +20,7 @@
  "n": "Princeton Center for Theoretical Science (PCTS) Postdoctoral Fellowship",
  "nom": true,
  "pt": "prize",
- "s": "open",
+ "s": "watch",
  "stages": [
   "pd"
  ],

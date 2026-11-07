@@ -1,0 +1,31 @@
+{
+ "a": "2 years, possible extension to 3; salary not stated",
+ "added": "2026-11-07",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-07",
+ "d": "2026-12-07",
+ "dt": "Consideration of applications starts Dec 7, 2026; apply by email (one PDF) with three letters",
+ "e": "Postdoc in theoretical particle physics; multi-loop computations and collider physics are encouraged. Apply by email to Patricia Zündorf (zuendorf@uni-bonn.de). No citizenship restriction stated.",
+ "f": "University of Bonn",
+ "fields": [
+  "ppt"
+ ],
+ "id": "bonn-duhr-theoretical-particle-physics-postdoc",
+ "n": "University of Bonn: Postdoc in theoretical particle physics (Duhr group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3225405",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3225405",
+ "unv": "No host ad link given on INSPIRE; salary not stated.",
+ "us": false
+}

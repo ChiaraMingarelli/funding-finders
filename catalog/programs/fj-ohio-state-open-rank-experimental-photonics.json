@@ -1,0 +1,31 @@
+{
+ "a": "Open rank (Assistant/Associate/Full Professor), tenure-track, start Autumn 2027; salary not stated",
+ "added": "2026-11-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-07",
+ "d": "2026-11-15",
+ "dt": "Nov 15, 2026, 11:59 pm (AJO)",
+ "e": "Tenure-track hire in experimental physics focused on novel photonic phenomena, materials and devices, with links to campus centers such as CEM, NeXUS, CQISE and the Institute for Optical Science. Apply via AJO #33034 (OSU R159856).",
+ "f": "Ohio State University, Department of Physics",
+ "fields": [
+  "phot",
+  "cmx",
+  "amo"
+ ],
+ "id": "fj-ohio-state-open-rank-experimental-photonics",
+ "n": "Ohio State University: Open-Rank Tenure-Track Faculty, Experimental Photonics Physics",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33034",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33034",
+ "unv": "Salary not stated.",
+ "us": false
+}

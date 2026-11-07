@@ -1,0 +1,31 @@
+{
+ "a": "Open rank (Assistant/Associate/Full Professor), tenure-track, start Autumn 2027; salary not stated",
+ "added": "2026-11-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-07",
+ "d": "2026-11-15",
+ "dt": "Nov 15, 2026, 11:59 pm (AJO); INSPIRE lists Nov 16",
+ "e": "Tenure-track position for a theorist at the intersection of high energy physics and astrophysics (e.g. neutrinos, dark matter, inflation, gravitational waves, dark energy, cosmology), expected to join CCAPP. Apply via AJO #33037 (OSU R160038).",
+ "f": "Ohio State University, Department of Physics",
+ "fields": [
+  "ppt",
+  "astro",
+  "grav"
+ ],
+ "id": "fj-ohio-state-open-rank-theory-hep-astrophysics",
+ "n": "Ohio State University: Open-Rank Tenure-Track Faculty, Theoretical High Energy Physics with connection to Astrophysics",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33037",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33037",
+ "unv": "Salary not stated; INSPIRE 3210820 gives Nov 16, AJO gives Nov 15.",
+ "us": false
+}

@@ -13,9 +13,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-11-02",
- "d": "2026-11-06",
- "dt": "Consideration begins Nov 6, 2026 (23:59); applications accepted until all positions are filled",
+ "checked": "2026-11-07",
+ "d": null,
+ "dt": "Consideration began Nov 6, 2026; applications accepted until all positions are filled",
  "e": "Theoretical physics, including strong gravity, cosmology, quantum and condensed matter theory.",
  "f": "Perimeter Institute",
  "fields": [
@@ -31,7 +31,7 @@
  "nom": false,
  "pt": "prize",
  "region": "Canada",
- "s": "open",
+ "s": "rolling",
  "stages": [
   "pd"
  ],

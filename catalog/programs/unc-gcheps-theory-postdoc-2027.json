@@ -1,0 +1,37 @@
+{
+ "a": "Three positions: a 3-year UNC postdoc and two 2+2 joint positions (two years at UNC, then two at Harvard or the University of Chicago); start Fall 2027; salary not stated",
+ "added": "2026-11-07",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-07",
+ "d": "2026-12-15",
+ "dt": "Dec 15, 2026 (AJO)",
+ "e": "Postdocs in the gravity, cosmology, high energy physics and string theory group (quantum gravity, particle theory, string theory, cosmology, gravitational waves). No citizenship restriction stated.",
+ "f": "University of North Carolina at Chapel Hill, Department of Physics and Astronomy",
+ "fields": [
+  "ppt",
+  "grav",
+  "astro"
+ ],
+ "id": "unc-gcheps-theory-postdoc-2027",
+ "n": "UNC Chapel Hill: Postdoc in Theoretical Physics (incl. joint UNC–Harvard and UNC–UChicago positions)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33360",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33360",
+ "unv": "Salary not stated.",
+ "us": false
+}

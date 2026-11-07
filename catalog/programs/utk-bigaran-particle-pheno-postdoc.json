@@ -1,0 +1,32 @@
+{
+ "a": "Salary not stated",
+ "added": "2026-11-07",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-07",
+ "d": "2026-12-24",
+ "dt": "Dec 24, 2026 (INSPIRE)",
+ "e": "Postdoc with Innes Bigaran on neutrino and charged-lepton phenomenology, physics beyond the Standard Model, effective field theory and future colliders (incl. muon colliders). No citizenship restriction stated.",
+ "f": "University of Tennessee, Knoxville, Department of Physics and Astronomy",
+ "fields": [
+  "ppt",
+  "nut"
+ ],
+ "id": "utk-bigaran-particle-pheno-postdoc",
+ "n": "University of Tennessee, Knoxville: Postdoc in theoretical particle physics and phenomenology (Bigaran group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3225439",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10659",
+ "unv": "Employer ad not opened (Oracle careers page); details from INSPIRE. Salary and appointment length not stated.",
+ "us": false
+}

@@ -1,0 +1,31 @@
+{
+ "a": "Assistant or Associate Professor (tenure-track or tenured), start Fall 2027; salary not stated",
+ "added": "2026-11-07",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-07",
+ "d": null,
+ "dt": "No deadline listed on AJO (posted Nov 6, 2026)",
+ "e": "One faculty position in experimental quantum science in the Department of Physics, Tempe campus; physical presence required. Apply via AJO #33365.",
+ "f": "Arizona State University, Department of Physics",
+ "fields": [
+  "qp",
+  "amo",
+  "cmx"
+ ],
+ "id": "fj-asu-asst-assoc-prof-experimental-quantum-science",
+ "n": "Arizona State University: Assistant or Associate Professor, Experimental Quantum Science",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "ajo:33365",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33365",
+ "unv": "Review start date and salary not stated.",
+ "us": false
+}

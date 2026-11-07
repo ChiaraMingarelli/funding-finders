@@ -1,0 +1,31 @@
+{
+ "a": "Several 2–3 year positions, start Aug 1, 2027 or later; salary not stated",
+ "added": "2026-11-07",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-07",
+ "d": "2027-01-03",
+ "dt": "Jan 3, 2027 (AJO)",
+ "e": "Postdocs in quantum algorithms and quantum software at the Centre for Quantum Mathematics in Odense. No citizenship restriction stated.",
+ "f": "University of Southern Denmark, Department of Mathematics and Computer Science",
+ "fields": [
+  "qp"
+ ],
+ "id": "sdu-qm-postdoc-quantum-algorithms-software",
+ "n": "University of Southern Denmark (Centre for Quantum Mathematics): Postdocs in quantum algorithms and quantum software",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33357",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33357",
+ "unv": "Salary not stated.",
+ "us": false
+}
