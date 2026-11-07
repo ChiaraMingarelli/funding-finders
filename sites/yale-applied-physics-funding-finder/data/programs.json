@@ -4117,9 +4117,9 @@
   "a": "$103,000/yr salary plus $10,000/yr travel and research fund; 2 to 3 years",
   "added": "2026-09-29",
   "c": "Yale internal",
-  "checked": "2026-11-02",
-  "d": "2026-11-06",
-  "dt": "Application deadline Nov 6, 2026, 23:59:59; review begins that day. Apply via AcademicJobsOnline #32396.",
+  "checked": "2026-11-07",
+  "d": null,
+  "dt": "Last deadline Nov 6, 2026 (review began that day); the next cycle is not posted yet. AJO #32396.",
   "e": "Independent scholars working on the foundations of data science, including applications in the sciences. The cover letter must name potential Yale mentors, at least one of them an FDS member.",
   "f": "Yale Institute for Foundations of Data Science",
   "fields": [
@@ -4129,7 +4129,7 @@
   "n": "FDS Postdoctoral Fellowship in Foundations of Data Science",
   "nom": false,
   "pt": "prize",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
@@ -4418,96 +4418,6 @@
    "ten"
   ],
   "u": "https://simpler.grants.gov/opportunity/808c438e-f1f8-46ae-8cd3-6bf68320548a",
-  "us": false
- },
- {
-  "a": "$50,000-$7,000,000 (as listed); total $28,000,000",
-  "added": "2026-09-28",
-  "c": "Instrumentation",
-  "checked": "2026-11-02",
-  "d": "2026-11-06",
-  "dt": "Posted 2026-07-29; due 5 PM ET",
-  "e": "Public and private IHEs. Research equipment/instrumentation in areas important to national defense.",
-  "f": "DOD AFOSR",
-  "fields": [
-   "all",
-   "inst"
-  ],
-  "id": "fy2027-durip-afosr-posting",
-  "n": "FY2027 DURIP (AFOSR posting)",
-  "nofo": [
-   {
-    "opp": "NOFOAFRLAFOSR20260001",
-    "u": "https://simpler.grants.gov/opportunity/84c7f111-baf9-4729-8daf-eb09376a6d45"
-   }
-  ],
-  "nom": false,
-  "s": "open",
-  "stages": [
-   "tt",
-   "ten"
-  ],
-  "u": "https://simpler.grants.gov/opportunity/84c7f111-baf9-4729-8daf-eb09376a6d45",
-  "us": false
- },
- {
-  "a": "$50,000-$3,000,000; total $28,000,000",
-  "added": "2026-09-28",
-  "c": "Instrumentation",
-  "checked": "2026-11-02",
-  "d": "2026-11-06",
-  "dt": "Posted 2026-07-29; due 5 PM ET",
-  "e": "Accredited non-profit US IHEs with S&E degree programs; UARCs eligible. Equipment to enhance defense-relevant research and education.",
-  "f": "DOD ARO",
-  "fields": [
-   "all",
-   "inst"
-  ],
-  "id": "fy2027-durip-army-posting",
-  "n": "FY2027 DURIP (Army posting)",
-  "nofo": [
-   {
-    "opp": "W911NF26S0095",
-    "u": "https://simpler.grants.gov/opportunity/cb2e8072-dfd4-4101-9004-c4f1e1ccbad7"
-   }
-  ],
-  "nom": false,
-  "s": "open",
-  "stages": [
-   "tt",
-   "ten"
-  ],
-  "u": "https://simpler.grants.gov/opportunity/cb2e8072-dfd4-4101-9004-c4f1e1ccbad7",
-  "us": false
- },
- {
-  "a": "$50,000-$3,000,000; total $28,000,000",
-  "added": "2026-09-28",
-  "c": "Instrumentation",
-  "checked": "2026-11-02",
-  "d": "2026-11-06",
-  "dt": "Posted 2026-07-29",
-  "e": "Accredited non-profit US IHEs with S&E degree programs; UARCs eligible. Same DoW DURIP program; apply via the agency whose program officer matches.",
-  "f": "DOD ONR",
-  "fields": [
-   "all",
-   "inst"
-  ],
-  "id": "fy2027-durip-onr-posting",
-  "n": "FY2027 DURIP (ONR posting)",
-  "nofo": [
-   {
-    "opp": "N0001426SF003",
-    "u": "https://simpler.grants.gov/opportunity/812b55e0-deb1-43cc-a2e2-f9f82ad735ad"
-   }
-  ],
-  "nom": false,
-  "s": "open",
-  "stages": [
-   "tt",
-   "ten"
-  ],
-  "u": "https://simpler.grants.gov/opportunity/812b55e0-deb1-43cc-a2e2-f9f82ad735ad",
   "us": false
  },
  {
@@ -6611,9 +6521,9 @@
   "a": "$7,029–$8,152 per month; 2-year appointment",
   "added": "2026-10-11",
   "c": "Group postdoc",
-  "checked": "2026-11-02",
-  "d": "2026-11-06",
-  "dt": "Priority consideration for applications by Nov 6, 2026; open until the posting is removed",
+  "checked": "2026-11-07",
+  "d": null,
+  "dt": "Priority consideration was for applications by Nov 6, 2026; open until the posting is removed",
   "e": "Postdoc on polymer binders, conductive coatings and inorganic cathode materials for recyclable sodium-ion battery electrodes. Requires a recent PhD and under 3 years of paid postdoc experience; no citizenship limit stated.",
   "f": "Lawrence Berkeley National Laboratory, Energy Technologies Area",
   "fields": [
@@ -11711,9 +11621,9 @@
    "he"
   ],
   "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-06",
-  "dt": "Consideration begins Nov 6, 2026 (23:59); applications accepted until all positions are filled",
+  "checked": "2026-11-07",
+  "d": null,
+  "dt": "Consideration began Nov 6, 2026; applications accepted until all positions are filled",
   "e": "Theoretical physics, including strong gravity, cosmology, quantum and condensed matter theory.",
   "f": "Perimeter Institute",
   "fields": [
@@ -11729,7 +11639,7 @@
   "nom": false,
   "pt": "prize",
   "region": "Canada",
-  "s": "open",
+  "s": "rolling",
   "stages": [
    "pd"
   ],
@@ -11844,9 +11754,9 @@
   "a": "3 years, fully funded plus travel",
   "added": "2026-09-28",
   "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": "2026-11-06",
-  "dt": "Nominations opened Aug 25; candidate materials due Nov 6, 2026.",
+  "checked": "2026-11-07",
+  "d": null,
+  "dt": "Last deadline Nov 6, 2026 (candidate materials); the next cycle is not posted yet.",
   "e": "Theorists nominated by a faculty or permanent research staff member.",
   "f": "Princeton University PCTS",
   "fields": [
@@ -11858,7 +11768,7 @@
   "n": "Princeton Center for Theoretical Science (PCTS) Postdoctoral Fellowship",
   "nom": true,
   "pt": "prize",
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
@@ -12880,6 +12790,33 @@
   ],
   "u": "https://rescorp.org/scialog/sustainable-minerals-metals-materials/",
   "unv": "The seed award amount is not stated; the 2027 meeting dates come from the Scialog calendar page, not the initiative page.",
+  "us": false
+ },
+ {
+  "a": "Several 2–3 year positions, start Aug 1, 2027 or later; salary not stated",
+  "added": "2026-11-07",
+  "c": "Group postdoc",
+  "checked": "2026-11-07",
+  "d": "2027-01-03",
+  "dt": "Jan 3, 2027 (AJO)",
+  "e": "Postdocs in quantum algorithms and quantum software at the Centre for Quantum Mathematics in Odense. No citizenship restriction stated.",
+  "f": "University of Southern Denmark, Department of Mathematics and Computer Science",
+  "fields": [
+   "qp"
+  ],
+  "id": "sdu-qm-postdoc-quantum-algorithms-software",
+  "n": "University of Southern Denmark (Centre for Quantum Mathematics): Postdocs in quantum algorithms and quantum software",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33357",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33357",
+  "unv": "Salary not stated.",
   "us": false
  },
  {
@@ -15778,9 +15715,9 @@
   "a": "",
   "added": "2026-10-07",
   "c": "Group postdoc",
-  "checked": "2026-10-21",
-  "d": "2026-11-06",
-  "dt": "Applications and letters by Nov 6, 2026 for full consideration",
+  "checked": "2026-11-07",
+  "d": null,
+  "dt": "Full consideration for applications and letters by Nov 6, 2026; the Interfolio posting still accepted applications on Nov 7, 2026",
   "e": "Postdoc starting Summer/Fall 2027 working with Leonid Glazman on electron correlations, low-dimensional and topological solids, and the physics of superconducting qubits. No citizenship restriction stated.",
   "f": "Yale University, Department of Physics",
   "fields": [
@@ -15792,13 +15729,13 @@
   "nom": false,
   "pt": "group",
   "region": "US",
-  "s": "open",
+  "s": "rolling",
   "src": "other:yale-cmt-glazman-postdoc",
   "stages": [
    "pd"
   ],
   "u": "https://apply.interfolio.com/194965",
-  "unv": "Not re-verified on 2026-10-26 or 2026-11-02: the Interfolio page needs JavaScript and the Yale physics page for this posting returns 404",
+  "unv": "The Yale physics page for this posting returns 404; the Interfolio page (checked Nov 7, 2026) still offers Apply Now.",
   "us": false
  },
  {

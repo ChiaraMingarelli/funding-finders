@@ -780,36 +780,6 @@
   "us": false
  },
  {
-  "a": "€4,552–5,758 gross/month; 3 years (2+1)",
-  "added": "2026-09-30",
-  "asub": [
-   "inst"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-06",
-  "dt": "Apply before Nov 6, 2026 (closing 11:59 CET, as listed); the ad says the position stays open until filled",
-  "e": "Any radio astronomy direction; preference for candidates with instrument development or commissioning interests (LOFAR, WSRT, EVN, SKA).",
-  "f": "ASTRON, Netherlands Institute for Radio Astronomy; contact J. R. Callingham",
-  "fields": [
-   "astro",
-   "inst"
-  ],
-  "id": "astron-bell-burnell-postdoctoral-fellowship",
-  "n": "ASTRON: Bell Burnell Postdoctoral Fellowship",
-  "nfit": "High",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "aas:783d4e4a",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://werkenbijastron.nl/job-offer/?o=bell-burnell-postdoctoral-fellowship-1",
-  "us": false
- },
- {
   "a": "€190/week stipend + accommodation + full travel reimbursement; 10–12 weeks; 7 grants",
   "added": "2026-10-01",
   "asub": [
@@ -837,36 +807,6 @@
   ],
   "u": "https://www.astron.nl/education/summer-research-programme/",
   "unv": "2027 dates not posted: the page still shows the 2026 call (deadline Jan 31, 2026) as of Nov 2, 2026. Whether US/Canadian bachelor's graduates qualify is unclear.",
-  "us": false
- },
- {
-  "a": "€4,552–5,758 gross/month + allowances; 3 years (2+1)",
-  "added": "2026-09-30",
-  "asub": [
-   "exo",
-   "star"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-02",
-  "d": "2026-11-06",
-  "dt": "Nov 6, 2026, 23:59 CET",
-  "e": "Detect and characterize stellar and exoplanetary radio emission and space weather. Requires a PhD in radio, stellar or exoplanet science.",
-  "f": "ASTRON; PI J. R. Callingham",
-  "fields": [
-   "astro"
-  ],
-  "id": "astron-postdoc-in-radio-stars-exoplanets",
-  "n": "ASTRON: Postdoc in radio stars & exoplanets",
-  "nfit": "High",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "aas:bb13cc34",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://werkenbijastron.nl/job-offer/?o=postdoctoral-researcher-in-radio-stars-and-exoplanets",
   "us": false
  },
  {
@@ -1773,6 +1713,37 @@
   "us": false
  },
  {
+  "a": "Up to three positions, up to 3 years, start Mar to Oct 2027; monthly net salary R$6,760 (category A) or R$5,408 (category B), plus some travel and equipment funds",
+  "added": "2026-11-07",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-07",
+  "d": "2026-12-31",
+  "dt": "Dec 31, 2026 for full consideration",
+  "e": "Postdocs in cosmology (large-scale structure, CMB, gravitational-wave cosmology, lensing) with independent research in a group whose members are in Euclid, LSST, SO, LIGO and ET. No citizenship restriction stated.",
+  "f": "Centro Brasileiro de Pesquisas Físicas (CBPF)",
+  "fields": [
+   "astro",
+   "grav"
+  ],
+  "id": "cbpf-cosmology-group-postdocs-2027",
+  "n": "CBPF (Rio de Janeiro): Postdoctoral positions in the cosmology group",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33358",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33358",
+  "unv": "Also on INSPIRE (3225407).",
+  "us": false
+ },
+ {
   "a": "CNY 250,000 + X (negotiable) before tax; 1+1 years",
   "added": "2026-09-30",
   "asub": [
@@ -1893,6 +1864,38 @@
   ],
   "u": "https://th-dep.web.cern.ch/jobs",
   "unv": "Stipend figure is from the general Research Fellowship page.",
+  "us": false
+ },
+ {
+  "a": "$84,500",
+  "added": "2026-11-07",
+  "asub": [
+   "he",
+   "inst"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-07",
+  "d": "2027-02-12",
+  "dt": "Applications and three letters due Feb 12, 2027, 11:59 pm (AJO)",
+  "e": "Postdoc with Danielle Frostig at SAO on time-domain astrophysics and/or instrumentation, including the Boombox rapid-response spectrograph for the MMT and Magellan (early kilonova spectra from GW run O5 and Rubin) and the WINTER infrared survey. No citizenship restriction stated.",
+  "f": "Smithsonian Astrophysical Observatory (CfA)",
+  "fields": [
+   "astro",
+   "inst"
+  ],
+  "id": "cfa-frostig-time-domain-instrumentation-postdoc",
+  "n": "Center for Astrophysics | Harvard & Smithsonian: Postdoc in Time-Domain Astrophysics and/or Instrumentation (Frostig group)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33359",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33359",
+  "unv": "Appointment length not checked.",
   "us": false
  },
  {
@@ -3762,96 +3765,6 @@
    "ten"
   ],
   "u": "https://simpler.grants.gov/opportunity/808c438e-f1f8-46ae-8cd3-6bf68320548a",
-  "us": false
- },
- {
-  "a": "$50,000-$7,000,000 (as listed); total $28,000,000",
-  "added": "2026-09-28",
-  "c": "Instrumentation",
-  "checked": "2026-11-02",
-  "d": "2026-11-06",
-  "dt": "Posted 2026-07-29; due 5 PM ET",
-  "e": "Public and private IHEs. Research equipment/instrumentation in areas important to national defense.",
-  "f": "DOD AFOSR",
-  "fields": [
-   "all",
-   "inst"
-  ],
-  "id": "fy2027-durip-afosr-posting",
-  "n": "FY2027 DURIP (AFOSR posting)",
-  "nofo": [
-   {
-    "opp": "NOFOAFRLAFOSR20260001",
-    "u": "https://simpler.grants.gov/opportunity/84c7f111-baf9-4729-8daf-eb09376a6d45"
-   }
-  ],
-  "nom": false,
-  "s": "open",
-  "stages": [
-   "tt",
-   "ten"
-  ],
-  "u": "https://simpler.grants.gov/opportunity/84c7f111-baf9-4729-8daf-eb09376a6d45",
-  "us": false
- },
- {
-  "a": "$50,000-$3,000,000; total $28,000,000",
-  "added": "2026-09-28",
-  "c": "Instrumentation",
-  "checked": "2026-11-02",
-  "d": "2026-11-06",
-  "dt": "Posted 2026-07-29; due 5 PM ET",
-  "e": "Accredited non-profit US IHEs with S&E degree programs; UARCs eligible. Equipment to enhance defense-relevant research and education.",
-  "f": "DOD ARO",
-  "fields": [
-   "all",
-   "inst"
-  ],
-  "id": "fy2027-durip-army-posting",
-  "n": "FY2027 DURIP (Army posting)",
-  "nofo": [
-   {
-    "opp": "W911NF26S0095",
-    "u": "https://simpler.grants.gov/opportunity/cb2e8072-dfd4-4101-9004-c4f1e1ccbad7"
-   }
-  ],
-  "nom": false,
-  "s": "open",
-  "stages": [
-   "tt",
-   "ten"
-  ],
-  "u": "https://simpler.grants.gov/opportunity/cb2e8072-dfd4-4101-9004-c4f1e1ccbad7",
-  "us": false
- },
- {
-  "a": "$50,000-$3,000,000; total $28,000,000",
-  "added": "2026-09-28",
-  "c": "Instrumentation",
-  "checked": "2026-11-02",
-  "d": "2026-11-06",
-  "dt": "Posted 2026-07-29",
-  "e": "Accredited non-profit US IHEs with S&E degree programs; UARCs eligible. Same DoW DURIP program; apply via the agency whose program officer matches.",
-  "f": "DOD ONR",
-  "fields": [
-   "all",
-   "inst"
-  ],
-  "id": "fy2027-durip-onr-posting",
-  "n": "FY2027 DURIP (ONR posting)",
-  "nofo": [
-   {
-    "opp": "N0001426SF003",
-    "u": "https://simpler.grants.gov/opportunity/812b55e0-deb1-43cc-a2e2-f9f82ad735ad"
-   }
-  ],
-  "nom": false,
-  "s": "open",
-  "stages": [
-   "tt",
-   "ten"
-  ],
-  "u": "https://simpler.grants.gov/opportunity/812b55e0-deb1-43cc-a2e2-f9f82ad735ad",
   "us": false
  },
  {
@@ -9457,33 +9370,6 @@
   "us": false
  },
  {
-  "a": "Full salary plus research, travel and relocation support; 3 years, extendable by 2 years",
-  "added": "2026-09-30",
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-06",
-  "dt": "Nov 6, 2026, 11:59 pm PT; one PDF application by email to the NRC SKA Office, with an endorsement letter from the first-choice host institution",
-  "e": "Independent early-career positions at a Canadian host institution for SKA science, radio instrumentation and pathfinder work, with about half the time on community support; up to 2 positions in 2027. Open to applicants from any country (preference to Canadian citizens and permanent residents); PhD within 5 years of the start date; needs a host-institution endorsement and faculty mentor.",
-  "f": "NRC Herzberg Astronomy & Astrophysics Research Centre, SKA Office (hosted at Canadian institutions)",
-  "fields": [
-   "astro",
-   "inst"
-  ],
-  "id": "nrc-canada-canadian-ska-scientist-program",
-  "n": "NRC Canada: Canadian SKA Scientist program",
-  "nfit": "High",
-  "nom": false,
-  "pt": "prize",
-  "region": "Canada",
-  "s": "open",
-  "src": "aas:f14e6ada",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://nrc.canada.ca/en/corporate/careers/canadian-ska-scientist-program-call-applications",
-  "us": false
- },
- {
   "a": "Competitive salary and benefits; 3-year appointment",
   "added": "2026-10-01",
   "asub": [
@@ -10322,38 +10208,6 @@
   "us": false
  },
  {
-  "a": "R480,000 per year (tax free); three years, extendable up to five",
-  "added": "2026-10-23",
-  "asub": [
-   "he",
-   "xgal",
-   "cos"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-02",
-  "d": "2026-11-06",
-  "dt": "Applications and three letters due Nov 6, 2026",
-  "e": "Senior postdoc in any of the Centre's areas (gamma-ray/multi-messenger astrophysics, galaxy evolution, cosmology, heliospheric/space physics) with 25% support role for the IDIA/ilifu computing cluster. Requires a PhD in astronomy/astrophysics/space physics within 5 years of start and age under 45.",
-  "f": "North-West University, Centre for Space Research",
-  "fields": [
-   "astro"
-  ],
-  "id": "nwu-south-africa-csr-senior-postdoc-2027",
-  "n": "North-West University (South Africa) Centre for Space Research: Senior Postdoctoral Fellowship",
-  "nfit": "High",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3217502",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://inspirehep.net/jobs/3217502",
-  "unv": "No host web ad found; details from INSPIRE posting (applications by email to Joseph.Magwanya@nwu.ac.za).",
-  "us": false
- },
- {
   "a": "usually 3 years (longer for exceptional candidates)",
   "added": "2026-09-30",
   "asub": [
@@ -10806,9 +10660,9 @@
    "he"
   ],
   "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-06",
-  "dt": "Consideration begins Nov 6, 2026 (23:59); applications accepted until all positions are filled",
+  "checked": "2026-11-07",
+  "d": null,
+  "dt": "Consideration began Nov 6, 2026; applications accepted until all positions are filled",
   "e": "Theoretical physics, including strong gravity, cosmology, quantum and condensed matter theory.",
   "f": "Perimeter Institute",
   "fields": [
@@ -10824,7 +10678,7 @@
   "nom": false,
   "pt": "prize",
   "region": "Canada",
-  "s": "open",
+  "s": "rolling",
   "stages": [
    "pd"
   ],
@@ -13295,39 +13149,6 @@
   "us": false
  },
  {
-  "a": "$70,000-$80,000 + research support; up to 3 years",
-  "added": "2026-09-30",
-  "asub": [
-   "cos",
-   "he"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-06",
-  "dt": "2026/11/06 23:59:59 (time zone not stated on page)",
-  "e": "Independent fellowship across HEP theory/experiment, astrophysics, cosmology, CMB, GR/GWs; priority to PhDs 2022 or later. Start Autumn 2027.",
-  "f": "University of Chicago, Enrico Fermi Institute",
-  "fields": [
-   "ppt",
-   "ppx",
-   "astro",
-   "grav"
-  ],
-  "id": "uchicago-efi-fermi-mccormick-oehme-postdoctoral-fellowsh",
-  "n": "UChicago EFI: Fermi/McCormick/Oehme Postdoctoral Fellowship",
-  "nfit": "High",
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "ajo:32842",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32842",
-  "us": false
- },
- {
   "a": "$70,000–$75,000 plus benefits; start summer or fall 2027",
   "added": "2026-10-29",
   "asub": [
@@ -13705,6 +13526,38 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33189",
   "unv": "INSPIRE lists Nov 24, 2026; the AJO date is used. Salary not stated.",
+  "us": false
+ },
+ {
+  "a": "Three positions: a 3-year UNC postdoc and two 2+2 joint positions (two years at UNC, then two at Harvard or the University of Chicago); start Fall 2027; salary not stated",
+  "added": "2026-11-07",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-07",
+  "d": "2026-12-15",
+  "dt": "Dec 15, 2026 (AJO)",
+  "e": "Postdocs in the gravity, cosmology, high energy physics and string theory group (quantum gravity, particle theory, string theory, cosmology, gravitational waves). No citizenship restriction stated.",
+  "f": "University of North Carolina at Chapel Hill, Department of Physics and Astronomy",
+  "fields": [
+   "ppt",
+   "grav",
+   "astro"
+  ],
+  "id": "unc-gcheps-theory-postdoc-2027",
+  "n": "UNC Chapel Hill: Postdoc in Theoretical Physics (incl. joint UNC–Harvard and UNC–UChicago positions)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33360",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33360",
+  "unv": "Salary not stated.",
   "us": false
  },
  {
@@ -14334,35 +14187,6 @@
   ],
   "u": "https://apply.interfolio.com/195539",
   "unv": "Interfolio page is script-rendered; the Dec 5, 2026 deadline was reconfirmed on the INSPIRE listing (still open) on Nov 2, 2026. Salary not stated.",
-  "us": false
- },
- {
-  "a": "",
-  "added": "2026-10-07",
-  "asub": [
-   "cos"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-02",
-  "d": "2026-11-06",
-  "dt": "Nov 6, 2026",
-  "e": "3-year postdoc with Will Percival on galaxy redshift survey analysis and interpretation, with possible access to DESI, Euclid and/or Roman data. Applicants must meet Waterloo postdoc eligibility guidelines.",
-  "f": "University of Waterloo, Waterloo Centre for Astrophysics",
-  "fields": [
-   "astro"
-  ],
-  "id": "waterloo-centre-for-astrophysics-postdoctoral-fellowship",
-  "n": "Waterloo Centre for Astrophysics: Postdoctoral Fellowship (galaxy redshift surveys, Percival)",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "Canada",
-  "s": "open",
-  "src": "ajo:32951",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32951",
   "us": false
  },
  {

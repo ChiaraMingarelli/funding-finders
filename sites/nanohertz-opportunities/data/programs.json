@@ -567,28 +567,6 @@
   ]
  },
  {
-  "id": "astron-bell-burnell-postdoctoral-fellowship",
-  "n": "ASTRON: Bell Burnell Postdoctoral Fellowship",
-  "f": "ASTRON, Netherlands Institute for Radio Astronomy; contact J. R. Callingham",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-11-06",
-  "dt": "Apply before Nov 6, 2026 (closing 11:59 CET, as listed); the ad says the position stays open until filled",
-  "a": "€4,552–5,758 gross/month; 3 years (2+1)",
-  "e": "Any radio astronomy direction; preference for candidates with instrument development or commissioning interests (LOFAR, WSRT, EVN, SKA).",
-  "u": "https://werkenbijastron.nl/job-offer/?o=bell-burnell-postdoctoral-fellowship-1",
-  "us": false,
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "nfit": "High",
-  "checked": "2026-11-02",
-  "added": "2026-09-30",
-  "stages": [
-   "pd"
-  ]
- },
- {
   "id": "astron-jive-summer-research-programme",
   "n": "ASTRON/JIVE Summer Research Programme",
   "f": "ASTRON & JIVE (Dwingeloo, Netherlands)",
@@ -609,28 +587,6 @@
    "gr"
   ],
   "d": null
- },
- {
-  "id": "astron-postdoc-in-radio-stars-exoplanets",
-  "n": "ASTRON: Postdoc in radio stars & exoplanets",
-  "f": "ASTRON; PI J. R. Callingham",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-11-06",
-  "dt": "Nov 6, 2026, 23:59 CET",
-  "a": "€4,552–5,758 gross/month + allowances; 3 years (2+1)",
-  "e": "Detect and characterize stellar and exoplanetary radio emission and space weather. Requires a PhD in radio, stellar or exoplanet science.",
-  "u": "https://werkenbijastron.nl/job-offer/?o=postdoctoral-researcher-in-radio-stars-and-exoplanets",
-  "us": false,
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "nfit": "High",
-  "checked": "2026-11-02",
-  "added": "2026-09-30",
-  "stages": [
-   "pd"
-  ]
  },
  {
   "id": "astronova-fellowship-instrumentation",
@@ -942,6 +898,29 @@
   "nfit": "Low",
   "checked": "2026-11-02",
   "added": "2026-09-30",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "bonn-duhr-theoretical-particle-physics-postdoc",
+  "n": "University of Bonn: Postdoc in theoretical particle physics (Duhr group)",
+  "f": "University of Bonn",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-07",
+  "dt": "Consideration of applications starts Dec 7, 2026; apply by email (one PDF) with three letters",
+  "a": "2 years, possible extension to 3; salary not stated",
+  "e": "Postdoc in theoretical particle physics; multi-loop computations and collider physics are encouraged. Apply by email to Patricia Zündorf (zuendorf@uni-bonn.de). No citizenship restriction stated.",
+  "u": "https://inspirehep.net/jobs/3225405",
+  "unv": "No host ad link given on INSPIRE; salary not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-07",
+  "added": "2026-11-07",
   "stages": [
    "pd"
   ]
@@ -1370,6 +1349,29 @@
   ]
  },
  {
+  "id": "cbpf-cosmology-group-postdocs-2027",
+  "n": "CBPF (Rio de Janeiro): Postdoctoral positions in the cosmology group",
+  "f": "Centro Brasileiro de Pesquisas Físicas (CBPF)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-31",
+  "dt": "Dec 31, 2026 for full consideration",
+  "a": "Up to three positions, up to 3 years, start Mar to Oct 2027; monthly net salary R$6,760 (category A) or R$5,408 (category B), plus some travel and equipment funds",
+  "e": "Postdocs in cosmology (large-scale structure, CMB, gravitational-wave cosmology, lensing) with independent research in a group whose members are in Euclid, LSST, SO, LIGO and ET. No citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33358",
+  "unv": "Also on INSPIRE (3225407).",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-11-07",
+  "added": "2026-11-07",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "ccast-ihep-postdoctoral-fellow-positions",
   "n": "CCAST/IHEP: Postdoctoral Fellow Positions",
   "f": "China Center of Advanced Science and Technology (with IHEP, Chinese Academy of Sciences), Beijing",
@@ -1503,6 +1505,29 @@
    "pd"
   ],
   "d": null
+ },
+ {
+  "id": "cfa-frostig-time-domain-instrumentation-postdoc",
+  "n": "Center for Astrophysics | Harvard & Smithsonian: Postdoc in Time-Domain Astrophysics and/or Instrumentation (Frostig group)",
+  "f": "Smithsonian Astrophysical Observatory (CfA)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-02-12",
+  "dt": "Applications and three letters due Feb 12, 2027, 11:59 pm (AJO)",
+  "a": "$84,500",
+  "e": "Postdoc with Danielle Frostig at SAO on time-domain astrophysics and/or instrumentation, including the Boombox rapid-response spectrograph for the MMT and Magellan (early kilonova spectra from GW run O5 and Rubin) and the WINTER infrared survey. No citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33359",
+  "unv": "Appointment length not checked.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "High",
+  "checked": "2026-11-07",
+  "added": "2026-11-07",
+  "stages": [
+   "pd"
+  ]
  },
  {
   "id": "cfa-time-domain-gw-astrophysics-postdoc",
@@ -2534,29 +2559,6 @@
   ]
  },
  {
-  "id": "epfl-lhcb-postdoc-cp-violation-scifi",
-  "n": "EPFL LPHE: Postdoc in experimental particle physics (LHCb)",
-  "f": "EPFL, High Energy Physics Laboratory (LPHE), Lausanne",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-11-06",
-  "dt": "Apply by Nov 6, 2026; reference letters within 5 days after the deadline",
-  "a": "1 year, renewable up to 3.5 years; EPFL salary scale",
-  "e": "Physics analyses of LHCb data (CP violation in B-meson mixing with charmonium final states), supervision of PhD students and possible SciFi tracker calibration work; includes some teaching. PhD in experimental particle physics required; no citizenship restriction stated.",
-  "u": "https://programs-recruiting.epfl.ch/position/50659328",
-  "unv": "Salary amount not stated in the ad. On Nov 2, 2026 the EPFL ad link again opened only the recruiting tool's login page; INSPIRE 3212701 still lists the Nov 6 deadline and status open.",
-  "us": false,
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "nfit": "Low",
-  "checked": "2026-10-26",
-  "added": "2026-10-09",
-  "stages": [
-   "pd"
-  ]
- },
- {
   "id": "eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship",
   "n": "Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship",
   "f": "Schmidt Sciences",
@@ -2908,6 +2910,28 @@
   "nfit": "Low",
   "checked": "2026-11-02",
   "added": "2026-10-01",
+  "stages": [
+   "fj"
+  ],
+  "d": null
+ },
+ {
+  "id": "fj-asu-asst-assoc-prof-experimental-quantum-science",
+  "n": "Arizona State University: Assistant or Associate Professor, Experimental Quantum Science",
+  "f": "Arizona State University, Department of Physics",
+  "c": "Faculty job",
+  "s": "rolling",
+  "dt": "No deadline listed on AJO (posted Nov 6, 2026)",
+  "a": "Assistant or Associate Professor (tenure-track or tenured), start Fall 2027; salary not stated",
+  "e": "One faculty position in experimental quantum science in the Department of Physics, Tempe campus; physical presence required. Apply via AJO #33365.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33365",
+  "unv": "Review start date and salary not stated.",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-07",
+  "added": "2026-11-07",
   "stages": [
    "fj"
   ],
@@ -4200,6 +4224,50 @@
   "nfit": "High",
   "checked": "2026-11-02",
   "added": "2026-10-23",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
+  "id": "fj-ohio-state-open-rank-experimental-photonics",
+  "n": "Ohio State University: Open-Rank Tenure-Track Faculty, Experimental Photonics Physics",
+  "f": "Ohio State University, Department of Physics",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-11-15",
+  "dt": "Nov 15, 2026, 11:59 pm (AJO)",
+  "a": "Open rank (Assistant/Associate/Full Professor), tenure-track, start Autumn 2027; salary not stated",
+  "e": "Tenure-track hire in experimental physics focused on novel photonic phenomena, materials and devices, with links to campus centers such as CEM, NeXUS, CQISE and the Institute for Optical Science. Apply via AJO #33034 (OSU R159856).",
+  "u": "https://academicjobsonline.org/ajo/jobs/33034",
+  "unv": "Salary not stated.",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-07",
+  "added": "2026-11-07",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
+  "id": "fj-ohio-state-open-rank-theory-hep-astrophysics",
+  "n": "Ohio State University: Open-Rank Tenure-Track Faculty, Theoretical High Energy Physics with connection to Astrophysics",
+  "f": "Ohio State University, Department of Physics",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-11-15",
+  "dt": "Nov 15, 2026, 11:59 pm (AJO); INSPIRE lists Nov 16",
+  "a": "Open rank (Assistant/Associate/Full Professor), tenure-track, start Autumn 2027; salary not stated",
+  "e": "Tenure-track position for a theorist at the intersection of high energy physics and astrophysics (e.g. neutrinos, dark matter, inflation, gravitational waves, dark energy, cosmology), expected to join CCAPP. Apply via AJO #33037 (OSU R160038).",
+  "u": "https://academicjobsonline.org/ajo/jobs/33037",
+  "unv": "Salary not stated; INSPIRE 3210820 gives Nov 16, AJO gives Nov 15.",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "High",
+  "checked": "2026-11-07",
+  "added": "2026-11-07",
   "stages": [
    "fj"
   ]
@@ -5617,6 +5685,28 @@
   "nfit": "Low",
   "checked": "2026-11-02",
   "added": "2026-10-01",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
+  "id": "fj-uwm-open-rank-gravitation-cosmology-astro",
+  "n": "University of Wisconsin-Milwaukee: Open-Rank Faculty, Gravitation, Cosmology, Astronomy and Astrophysics",
+  "f": "University of Wisconsin-Milwaukee, Department of Physics and Astronomy",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-11-29",
+  "dt": "Submit by Nov 29, 2026 to ensure consideration; initial review Nov 30, 2026; continuous recruitment",
+  "a": "Open rank, intended to be tenure-track (higher rank possible for senior applicants), start Fall 2027; salary not stated",
+  "e": "Faculty position in any area of gravitation, cosmology, astronomy and astrophysics, associated with the Center for Gravitation, Cosmology and Astrophysics (CGCA), whose memberships include LIGO, NANOGrav, EHT, ZTF and Rubin. Apply online via Workday with a single PDF.",
+  "u": "https://apptrkr.com/9923939",
+  "unv": "Seen via the Hyperspace@GU jobs board (posted Nov 6, 2026); the employer link redirects through a job-tracking service and the Workday ad itself was not opened. Salary not stated.",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "High",
+  "checked": "2026-11-07",
+  "added": "2026-11-07",
   "stages": [
    "fj"
   ]
@@ -10759,28 +10849,6 @@
   "d": null
  },
  {
-  "id": "nrc-canada-canadian-ska-scientist-program",
-  "n": "NRC Canada: Canadian SKA Scientist program",
-  "f": "NRC Herzberg Astronomy & Astrophysics Research Centre, SKA Office (hosted at Canadian institutions)",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-11-06",
-  "dt": "Nov 6, 2026, 11:59 pm PT; one PDF application by email to the NRC SKA Office, with an endorsement letter from the first-choice host institution",
-  "a": "Full salary plus research, travel and relocation support; 3 years, extendable by 2 years",
-  "e": "Independent early-career positions at a Canadian host institution for SKA science, radio instrumentation and pathfinder work, with about half the time on community support; up to 2 positions in 2027. Open to applicants from any country (preference to Canadian citizens and permanent residents); PhD within 5 years of the start date; needs a host-institution endorsement and faculty mentor.",
-  "u": "https://nrc.canada.ca/en/corporate/careers/canadian-ska-scientist-program-call-applications",
-  "us": false,
-  "nom": false,
-  "pt": "prize",
-  "region": "Canada",
-  "nfit": "High",
-  "checked": "2026-11-02",
-  "added": "2026-09-30",
-  "stages": [
-   "pd"
-  ]
- },
- {
   "id": "nrc-covington-fellowship-drao",
   "n": "NRC Covington Fellowship (DRAO)",
   "f": "National Research Council Canada – Herzberg",
@@ -10967,29 +11035,6 @@
   "nfit": "High",
   "checked": "2026-11-02",
   "added": "2026-10-15",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "nwu-south-africa-csr-senior-postdoc-2027",
-  "n": "North-West University (South Africa) Centre for Space Research: Senior Postdoctoral Fellowship",
-  "f": "North-West University, Centre for Space Research",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-11-06",
-  "dt": "Applications and three letters due Nov 6, 2026",
-  "a": "R480,000 per year (tax free); three years, extendable up to five",
-  "e": "Senior postdoc in any of the Centre's areas (gamma-ray/multi-messenger astrophysics, galaxy evolution, cosmology, heliospheric/space physics) with 25% support role for the IDIA/ilifu computing cluster. Requires a PhD in astronomy/astrophysics/space physics within 5 years of start and age under 45.",
-  "u": "https://inspirehep.net/jobs/3217502",
-  "unv": "No host web ad found; details from INSPIRE posting (applications by email to Joseph.Magwanya@nwu.ac.za).",
-  "us": false,
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "nfit": "High",
-  "checked": "2026-11-02",
-  "added": "2026-10-23",
   "stages": [
    "pd"
   ]
@@ -11606,9 +11651,8 @@
   "n": "Perimeter Institute Postdoctoral Fellowship",
   "f": "Perimeter Institute",
   "c": "Fellowship",
-  "s": "open",
-  "d": "2026-11-06",
-  "dt": "Consideration begins Nov 6, 2026 (23:59); applications accepted until all positions are filled",
+  "s": "rolling",
+  "dt": "Consideration began Nov 6, 2026; applications accepted until all positions are filled",
   "a": "CAD 79,000 starting salary; 3 yr (named fellowships 4 yr)",
   "e": "Theoretical physics, including strong gravity, cosmology, quantum and condensed matter theory.",
   "u": "https://academicjobsonline.org/ajo/PI/Research/2027PDF",
@@ -11617,11 +11661,12 @@
   "pt": "prize",
   "region": "Canada",
   "nfit": "High",
-  "checked": "2026-11-02",
+  "checked": "2026-11-07",
   "added": "2026-09-29",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "perimeter-phd-residency-award-2027",
@@ -14120,28 +14165,6 @@
   "d": null
  },
  {
-  "id": "uchicago-efi-fermi-mccormick-oehme-postdoctoral-fellowsh",
-  "n": "UChicago EFI: Fermi/McCormick/Oehme Postdoctoral Fellowship",
-  "f": "University of Chicago, Enrico Fermi Institute",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-11-06",
-  "dt": "2026/11/06 23:59:59 (time zone not stated on page)",
-  "a": "$70,000-$80,000 + research support; up to 3 years",
-  "e": "Independent fellowship across HEP theory/experiment, astrophysics, cosmology, CMB, GR/GWs; priority to PhDs 2022 or later. Start Autumn 2027.",
-  "u": "https://academicjobsonline.org/ajo/jobs/32842",
-  "us": false,
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "nfit": "High",
-  "checked": "2026-11-02",
-  "added": "2026-09-30",
-  "stages": [
-   "pd"
-  ]
- },
- {
   "id": "uchicago-zebrowski-experimental-cosmology-postdoc",
   "n": "University of Chicago: Postdoctoral Researcher in Experimental Cosmology (Zebrowski group)",
   "f": "University of Chicago, Department of Astronomy and Astrophysics / KICP (Jessica Zebrowski)",
@@ -14634,6 +14657,29 @@
   ]
  },
  {
+  "id": "unc-gcheps-theory-postdoc-2027",
+  "n": "UNC Chapel Hill: Postdoc in Theoretical Physics (incl. joint UNC–Harvard and UNC–UChicago positions)",
+  "f": "University of North Carolina at Chapel Hill, Department of Physics and Astronomy",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-15",
+  "dt": "Dec 15, 2026 (AJO)",
+  "a": "Three positions: a 3-year UNC postdoc and two 2+2 joint positions (two years at UNC, then two at Harvard or the University of Chicago); start Fall 2027; salary not stated",
+  "e": "Postdocs in the gravity, cosmology, high energy physics and string theory group (quantum gravity, particle theory, string theory, cosmology, gravitational waves). No citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33360",
+  "unv": "Salary not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-11-07",
+  "added": "2026-11-07",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "university-of-arizona-arizona-cosmology-lab-fellowship",
   "n": "University of Arizona: Arizona Cosmology Lab Fellowship",
   "f": "University of Arizona, Steward Observatory, Arizona Cosmology Lab",
@@ -15016,6 +15062,29 @@
   ]
  },
  {
+  "id": "utk-bigaran-particle-pheno-postdoc",
+  "n": "University of Tennessee, Knoxville: Postdoc in theoretical particle physics and phenomenology (Bigaran group)",
+  "f": "University of Tennessee, Knoxville, Department of Physics and Astronomy",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-24",
+  "dt": "Dec 24, 2026 (INSPIRE)",
+  "a": "Salary not stated",
+  "e": "Postdoc with Innes Bigaran on neutrino and charged-lepton phenomenology, physics beyond the Standard Model, effective field theory and future colliders (incl. muon colliders). No citizenship restriction stated.",
+  "u": "https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10659",
+  "unv": "Employer ad not opened (Oracle careers page); details from INSPIRE. Salary and appointment length not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-07",
+  "added": "2026-11-07",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "utk-camm-mrsec-quantum-materials-mbe-postdoc",
   "n": "University of Tennessee Knoxville: Postdoctoral Research Associate, Low-Dimensional Quantum Materials (CAMM MRSEC)",
   "f": "University of Tennessee Knoxville, Department of Physics & Astronomy; Center for Advanced Materials and Manufacturing (NSF MRSEC)",
@@ -15326,27 +15395,6 @@
   "nfit": "Medium",
   "checked": "2026-10-26",
   "added": "2026-10-17",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "waterloo-centre-for-astrophysics-postdoctoral-fellowship",
-  "n": "Waterloo Centre for Astrophysics: Postdoctoral Fellowship (galaxy redshift surveys, Percival)",
-  "f": "University of Waterloo, Waterloo Centre for Astrophysics",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-11-06",
-  "dt": "Nov 6, 2026",
-  "e": "3-year postdoc with Will Percival on galaxy redshift survey analysis and interpretation, with possible access to DESI, Euclid and/or Roman data. Applicants must meet Waterloo postdoc eligibility guidelines.",
-  "u": "https://academicjobsonline.org/ajo/jobs/32951",
-  "us": false,
-  "nom": false,
-  "pt": "group",
-  "region": "Canada",
-  "nfit": "Medium",
-  "checked": "2026-11-02",
-  "added": "2026-10-07",
   "stages": [
    "pd"
   ]
