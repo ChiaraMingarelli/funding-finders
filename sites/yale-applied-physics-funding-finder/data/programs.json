@@ -15385,6 +15385,34 @@
   "us": false
  },
  {
+  "a": "salary commensurate with experience; fixed-term trainee appointment",
+  "added": "2026-11-08",
+  "c": "Group postdoc",
+  "checked": "2026-11-08",
+  "d": "2026-12-01",
+  "dt": "Application deadline Dec 1, 2026 (per Quantiki listing); UTRGV may stop accepting applications early",
+  "e": "Postdoc in the Department of Physics and Astronomy for theoretical research on quantum optics of correlated electronic systems, quantum materials and superconductivity, working with experimental groups. Requires a PhD in physics or a related field by the start date; in-person on campus.",
+  "f": "University of Texas Rio Grande Valley",
+  "fields": [
+   "amo",
+   "cmt"
+  ],
+  "id": "utrgv-postdoc-theoretical-amo-cmt",
+  "n": "University of Texas Rio Grande Valley: Postdoctoral Fellow, Theoretical AMO/Condensed Matter Physics",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:utrgv-52936",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://careers.utrgv.edu/postings/52936",
+  "unv": "Dec 1, 2026 deadline appears on the Quantiki ad (posted 2026-11-07) but not on the UTRGV posting, which lists no close date; posting available date 2026-10-26; duration not stated.",
+  "us": false
+ },
+ {
   "a": "$400,000",
   "added": "2026-09-30",
   "c": "Foundation",

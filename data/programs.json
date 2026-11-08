@@ -9738,6 +9738,40 @@
   "us": false
  },
  {
+  "a": "5-year AEI-funded contract, gross €40,000/yr, at least €200,000 research funding; permanent USC position after positive evaluation",
+  "added": "2026-11-08",
+  "aud": [
+   "ng"
+  ],
+  "c": "Faculty job",
+  "checked": "2026-11-08",
+  "d": "2026-12-10",
+  "dt": "AEI application window 10 Nov to 10 Dec 2026, 14:00 CET",
+  "e": "IGFAE invites applicants to the national Spanish Ramón y Cajal 2026 call naming IGFAE as host, in astrophysics and cosmology, particle, nuclear, astroparticle physics and quantum information; IGFAE expects to host two or more successful candidates. Applicants need a PhD awarded between 1 Jan 2013 and 31 Dec 2024 (extensions possible); selection is by the national agency AEI.",
+  "f": "Galician Institute of High Energy Physics (IGFAE), University of Santiago de Compostela",
+  "fields": [
+   "astro",
+   "ppt",
+   "ppx",
+   "nux",
+   "nut",
+   "qp"
+  ],
+  "id": "fj-igfae-ramon-y-cajal-2026-tenure-track",
+  "n": "IGFAE (Universidade de Santiago de Compostela): Ramón y Cajal 2026 tenure-track positions",
+  "nfit": "Medium",
+  "nom": false,
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33337",
+  "stages": [
+   "fj"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33337",
+  "unv": "Applications go to Spain's AEI national call, not to IGFAE directly; the AEI call page was not opened. The IGFAE gravitational-wave group posted the same call separately.",
+  "us": false
+ },
+ {
   "a": "Tenure-track research associate professor; one or two positions, start 2027; salary not listed",
   "added": "2026-10-02",
   "aud": [
@@ -11004,6 +11038,35 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33232",
   "unv": "Salary not stated; the ad also mentions postdoc openings in quantum information without separate details. The earlier QI-only INS listing (ajo:31325) closed on Oct 30, 2026.",
+  "us": false
+ },
+ {
+  "a": "Tenure-track Assistant Professor; start Fall 2027; salary not listed",
+  "added": "2026-11-08",
+  "aud": [
+   "ng"
+  ],
+  "c": "Faculty job",
+  "checked": "2026-11-08",
+  "d": "2026-11-30",
+  "dt": "Applications due Nov 30, 2026 (not confirmed)",
+  "e": "Tenure-track assistant professor in observational astronomy, broadly defined, in the Department of Physics & Astronomy, with particular interest in exoplanets or transient phenomena. Anticipated start Fall 2027.",
+  "f": "Stony Brook University",
+  "fields": [
+   "astro"
+  ],
+  "id": "fj-stony-brook-ap-observational-astronomy",
+  "n": "Stony Brook University: Assistant Professor in Observational Astronomy (tenure-track)",
+  "nfit": "High",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "aas:a19ed916",
+  "stages": [
+   "fj"
+  ],
+  "u": "https://aas.org/jobregister/ad/a19ed916",
+  "unv": "AAS Job Register blocks automated access (Cloudflare); details come from search-engine snippets only. Deadline (11/30/26), posting date, and the university application portal not confirmed; verify on the AAS ad or stonybrook.edu/jobs.",
   "us": false
  },
  {
@@ -36870,6 +36933,42 @@
   "us": false
  },
  {
+  "a": "3-year appointment; $10,000/yr research and travel budget; relocation up to $5,000; salary not listed",
+  "added": "2026-11-08",
+  "asub": [
+   "inst"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-08",
+  "d": "2026-11-16",
+  "dt": "Full consideration for applications complete by Nov 15, 2026; listed deadline Nov 16, 2026 (not confirmed)",
+  "e": "Three-year fellowship at UC Observatories in Santa Cruz, with two-thirds of time supporting instrumentation projects for Lick, Keck and Gemini (e.g. adaptive optics, wavefront sensing, data pipelines) and one-third for independent research. UC Santa Cruz sponsors employment visas for academic appointees.",
+  "f": "University of California Observatories, UC Santa Cruz",
+  "fields": [
+   "astro",
+   "inst"
+  ],
+  "id": "uco-santa-cruz-astronomical-instrumentation-postdoc",
+  "n": "UC Observatories (UC Santa Cruz): Postdoctoral Fellow in Astronomical Instrumentation",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "aas:9d513651",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://aas.org/jobregister/ad/9d513651",
+  "unv": "AAS Job Register blocks automated access; all details from search-engine snippets. Deadline, salary, posting date (may predate Nov 5) and start date (no later than Oct 1, 2027) not confirmed on the ad itself.",
+  "us": false
+ },
+ {
   "added": "2026-10-22",
   "asub": [
    "cos",
@@ -38360,38 +38459,6 @@
   "us": false
  },
  {
-  "a": "Three-year postdoctoral contract (Juan de la Cierva)",
-  "added": "2026-10-09",
-  "aud": [
-   "yale",
-   "ng"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-07",
-  "dt": "Contact the group by Nov 7, 2026; official application forms Nov 12-26, 2026",
-  "e": "Expression of interest for a Spanish Juan de la Cierva postdoctoral fellowship hosted by the UPV/EHU particle physics group (QCD theory and phenomenology, experimental QCD, neutrino physics and cosmology). PhD obtained between Jan 1, 2024 and Dec 31, 2026 (extensions per call); each supervisor endorses one candidate.",
-  "f": "University of the Basque Country (UPV/EHU), Particle Physics group, Bilbao",
-  "fields": [
-   "ppt",
-   "ppx"
-  ],
-  "id": "upv-ehu-juan-de-la-cierva-2026-eoi-particle-physics",
-  "n": "University of the Basque Country (UPV/EHU): Juan de la Cierva 2026 Fellowship EOI (Particle Physics)",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3212682",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://inspirehep.net/jobs/3212682",
-  "unv": "Salary not stated in the listing; see the AEI call.",
-  "us": false
- },
- {
   "a": "$10,000 plus a talk at the Users Meeting.",
   "added": "2026-09-28",
   "aud": [
@@ -39217,6 +39284,39 @@
   ],
   "u": "https://inspirehep.net/jobs/3221537",
   "unv": "No host web ad is linked; details are from the INSPIRE listing (apply to Nikolina.Ilic@cern.ch). Salary not stated.",
+  "us": false
+ },
+ {
+  "a": "salary commensurate with experience; fixed-term trainee appointment",
+  "added": "2026-11-08",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-08",
+  "d": "2026-12-01",
+  "dt": "Application deadline Dec 1, 2026 (per Quantiki listing); UTRGV may stop accepting applications early",
+  "e": "Postdoc in the Department of Physics and Astronomy for theoretical research on quantum optics of correlated electronic systems, quantum materials and superconductivity, working with experimental groups. Requires a PhD in physics or a related field by the start date; in-person on campus.",
+  "f": "University of Texas Rio Grande Valley",
+  "fields": [
+   "amo",
+   "cmt"
+  ],
+  "id": "utrgv-postdoc-theoretical-amo-cmt",
+  "n": "University of Texas Rio Grande Valley: Postdoctoral Fellow, Theoretical AMO/Condensed Matter Physics",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:utrgv-52936",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://careers.utrgv.edu/postings/52936",
+  "unv": "Dec 1, 2026 deadline appears on the Quantiki ad (posted 2026-11-07) but not on the UTRGV posting, which lists no close date; posting available date 2026-10-26; duration not stated.",
   "us": false
  },
  {
