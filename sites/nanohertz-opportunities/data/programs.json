@@ -2537,6 +2537,27 @@
   ]
  },
  {
+  "id": "epfl-het-postdoc-2027",
+  "n": "EPFL: Postdoctoral Research Associate in High Energy Theory (Rattazzi/Riembau)",
+  "f": "Ecole Polytechnique Federale de Lausanne (EPFL), Theoretical Particle Physics Laboratory",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-18",
+  "dt": "Preference to applications received by Dec 18, 2026",
+  "a": "Postdoctoral research associate, start fall 2027",
+  "e": "Postdoctoral position in the EPFL High Energy Theory group working in the areas of Rattazzi and Riembau: quantum field theory, high energy phenomenology, physics beyond the Standard Model and cosmology. Applicants of any nationality apply through AcademicJobsOnline with three letters.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33369",
+  "unv": "Salary and appointment length not stated in the ad.",
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-11-09",
+  "added": "2026-11-09",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship",
   "n": "Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship",
   "f": "Schmidt Sciences",
@@ -6966,6 +6987,28 @@
   ]
  },
  {
+  "id": "icerm-spec-spectre-summer-school-2027",
+  "n": "Simulating Extreme Spacetimes with SpEC and SpECTRE II: Summer school and developers' meeting (ICERM, July 2027)",
+  "f": "ICERM, Brown University (organizers from the SXS collaboration)",
+  "c": "Training",
+  "s": "open",
+  "d": "2027-02-28",
+  "dt": "Apply by Feb 28, 2027; workshop Jul 19-23, 2027 in Providence, RI",
+  "a": "One-week in-person workshop; ICERM offers limited funding for some participants (amounts not stated)",
+  "e": "A week of lectures and hands-on sessions on the open-source numerical relativity code SpECTRE (compact object mergers, gravitational waveforms), plus a SpEC/SpECTRE developers' meeting. Open to graduate students, postdocs and faculty; no citizenship limit stated.",
+  "u": "https://icerm.brown.edu/program/topical_workshop/tw-27-ses2",
+  "unv": "Deadline, dates and funding note taken from the organizers' announcement on Hyperspace (Nov 3, 2026); the ICERM page could not be read on Nov 9, 2026 (TLS certificate error), so eligibility details and funding amounts are not confirmed there.",
+  "pt": "other",
+  "region": "US",
+  "nfit": "High",
+  "checked": "2026-11-09",
+  "added": "2026-11-09",
+  "stages": [
+   "gr",
+   "pd"
+  ]
+ },
+ {
   "id": "ictp-ap-beijing-gravitational-wave-physics-postdoc",
   "n": "ICTP-AP Beijing: Gravitational-wave physics postdoc",
   "f": "ICTP-AP (UCAS), Beijing; PI Jun Zhang",
@@ -8462,6 +8505,27 @@
   "nfit": "High",
   "checked": "2026-11-09",
   "added": "2026-10-27",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "kek-qup-postdoc-theoretical-physics-2027",
+  "n": "KEK: QUP Postdoctoral Fellows in Theoretical Physics",
+  "f": "KEK, International Center for Quantum-field Measurement Systems for Studies of the Universe and Particles (QUP)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-15",
+  "dt": "Apply by Dec 15, 2026 for full consideration; open until filled",
+  "a": "Up to 3 years (annual contracts)",
+  "e": "Theory postdocs at QUP (Tsukuba, Japan) supervised by Kazunori Nakayama or Volodymyr Takhistov, in particle phenomenology, cosmology, astroparticle and neutrino physics, quantum sensing for fundamental physics and quantum field theory. PhD in physics or a related field by the start date; open to applicants worldwide.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33352",
+  "unv": "Salary not stated (\"comparable to other prestigious institutions\").",
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-11-09",
+  "added": "2026-11-09",
   "stages": [
    "pd"
   ]

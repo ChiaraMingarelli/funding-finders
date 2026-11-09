@@ -7962,6 +7962,40 @@
   "us": false
  },
  {
+  "a": "Postdoctoral research associate, start fall 2027",
+  "added": "2026-11-09",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-09",
+  "d": "2026-12-18",
+  "dt": "Preference to applications received by Dec 18, 2026",
+  "e": "Postdoctoral position in the EPFL High Energy Theory group working in the areas of Rattazzi and Riembau: quantum field theory, high energy phenomenology, physics beyond the Standard Model and cosmology. Applicants of any nationality apply through AcademicJobsOnline with three letters.",
+  "f": "Ecole Polytechnique Federale de Lausanne (EPFL), Theoretical Particle Physics Laboratory",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "epfl-het-postdoc-2027",
+  "n": "EPFL: Postdoctoral Research Associate in High Energy Theory (Rattazzi/Riembau)",
+  "nfit": "Medium",
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33369",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33369",
+  "unv": "Salary and appointment length not stated in the ad."
+ },
+ {
   "a": "See host institution",
   "added": "2026-09-29",
   "aud": [
@@ -15852,6 +15886,42 @@
   "us": false
  },
  {
+  "a": "One-week in-person workshop; ICERM offers limited funding for some participants (amounts not stated)",
+  "added": "2026-11-09",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Training",
+  "checked": "2026-11-09",
+  "d": "2027-02-28",
+  "dt": "Apply by Feb 28, 2027; workshop Jul 19-23, 2027 in Providence, RI",
+  "e": "A week of lectures and hands-on sessions on the open-source numerical relativity code SpECTRE (compact object mergers, gravitational waveforms), plus a SpEC/SpECTRE developers' meeting. Open to graduate students, postdocs and faculty; no citizenship limit stated.",
+  "f": "ICERM, Brown University (organizers from the SXS collaboration)",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "icerm-spec-spectre-summer-school-2027",
+  "n": "Simulating Extreme Spacetimes with SpEC and SpECTRE II: Summer school and developers' meeting (ICERM, July 2027)",
+  "nfit": "High",
+  "pt": "other",
+  "region": "US",
+  "s": "open",
+  "src": "other:icerm-spectre-2027",
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "u": "https://icerm.brown.edu/program/topical_workshop/tw-27-ses2",
+  "unv": "Deadline, dates and funding note taken from the organizers' announcement on Hyperspace (Nov 3, 2026); the ICERM page could not be read on Nov 9, 2026 (TLS certificate error), so eligibility details and funding amounts are not confirmed there."
+ },
+ {
   "a": "~320,000 CNY/yr; 2 years + possible 3rd",
   "added": "2026-09-30",
   "asub": [
@@ -16976,6 +17046,34 @@
   "u": "https://physics.iith.ac.in/assets/Announcements/Advertisement_RA-I_ANRF_PMECRG_IITH.pdf",
   "unv": "Nationality rules are not stated in the official advertisement.",
   "us": false
+ },
+ {
+  "a": "$7,000 stipend plus free housing and travel to and from Urbana",
+  "added": "2026-11-09",
+  "aud": [
+   "ap"
+  ],
+  "c": "Summer program",
+  "checked": "2026-11-09",
+  "d": "2027-01-22",
+  "dt": "Application opens Nov 15, 2026; due Jan 22, 2027; program May 25 - July 30, 2027",
+  "e": "Ten-week summer materials research program at the Illinois MRSEC in Urbana. Open to US citizens and permanent residents, at least 18, who are enrolled undergraduates with at least one year completed in engineering, physics, chemistry, materials or a related field and are not enrolled at UIUC.",
+  "f": "University of Illinois Urbana-Champaign, Materials Research Science and Engineering Center (NSF MRSEC)",
+  "fields": [
+   "mat",
+   "cmx",
+   "phot"
+  ],
+  "id": "illinois-mrsec-reu-2027",
+  "n": "Illinois MRSEC REU in Advanced Materials (Summer 2027)",
+  "nom": false,
+  "s": "open",
+  "src": "other:illinois-mrsec-reu",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://mrsec.illinois.edu/reu-program",
+  "us": true
  },
  {
   "a": "not listed; 2 years, extendable",
@@ -19142,6 +19240,40 @@
   "us": false
  },
  {
+  "a": "Up to 3 years (annual contracts)",
+  "added": "2026-11-09",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-09",
+  "d": "2026-12-15",
+  "dt": "Apply by Dec 15, 2026 for full consideration; open until filled",
+  "e": "Theory postdocs at QUP (Tsukuba, Japan) supervised by Kazunori Nakayama or Volodymyr Takhistov, in particle phenomenology, cosmology, astroparticle and neutrino physics, quantum sensing for fundamental physics and quantum field theory. PhD in physics or a related field by the start date; open to applicants worldwide.",
+  "f": "KEK, International Center for Quantum-field Measurement Systems for Studies of the Universe and Particles (QUP)",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "kek-qup-postdoc-theoretical-physics-2027",
+  "n": "KEK: QUP Postdoctoral Fellows in Theoretical Physics",
+  "nfit": "Medium",
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33352",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33352",
+  "unv": "Salary not stated (\"comparable to other prestigious institutions\")."
+ },
+ {
   "a": "up to 3 years (annual contracts)",
   "added": "2026-09-30",
   "asub": [
@@ -20787,6 +20919,36 @@
   "u": "https://st.llnl.gov/opportunities/postdocs/postdoc-program/lawrence-fellowship",
   "unv": "The page gives the Oct 1 deadline without a year; read as Oct 1, 2026 (2027 cohort). No date for the next cycle was posted as of Nov 9, 2026.",
   "us": false
+ },
+ {
+  "a": "Paid three-month appointment (May-September 2027); pay not stated",
+  "added": "2026-11-09",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Summer program",
+  "checked": "2026-11-09",
+  "d": "2027-01-10",
+  "dt": "Due Jan 10, 2027; offers mid to late February 2027; apply to requisition REF8946O (undergraduate) or REF8947G (graduate) on the LLNL careers site",
+  "e": "Paid summer research internship at LLNL in quantum computing and quantum sensing (experiment, theory and computation), such as superconducting-qubit noise, Josephson-junction fabrication and qubit control and calibration. Open to undergraduate and graduate students, who name preferred mentors from the program's list.",
+  "f": "Lawrence Livermore National Laboratory, Livermore Center for Quantum Science",
+  "fields": [
+   "qp",
+   "cmx",
+   "dev"
+  ],
+  "id": "llnl-lcqs-quantum-summer-internship-2027",
+  "n": "Livermore Center for Quantum Science (LCQS) Summer Internship 2027",
+  "nom": false,
+  "s": "open",
+  "src": "other:llnl-lcqs-internship",
+  "stages": [
+   "ug",
+   "gr"
+  ],
+  "u": "https://pls.llnl.gov/careers/internships/livermore-center-quantum-science-summer-internship",
+  "unv": "The program page does not state pay or citizenship/clearance requirements; check the LLNL requisition postings."
  },
  {
   "a": "$122,028-$143,328/yr",
@@ -22702,6 +22864,12 @@
   "id": "nasa-astrophysics-theory-program-atp",
   "n": "NASA Astrophysics Theory Program (ATP)",
   "nfit": "Medium",
+  "nofo": [
+   {
+    "opp": "NNH25ZDA001N-ATP",
+    "u": "https://www.grants.gov/search-results-detail/364221"
+   }
+  ],
   "nom": false,
   "s": "open",
   "stages": [
@@ -27085,6 +27253,12 @@
   ],
   "id": "nsf-major-research-instrumentation-mri",
   "n": "NSF Major Research Instrumentation (MRI)",
+  "nofo": [
+   {
+    "opp": "27-500",
+    "u": "https://www.grants.gov/search-results-detail/364243"
+   }
+  ],
   "nom": false,
   "s": "open",
   "stages": [
@@ -35435,6 +35609,35 @@
   "u": "https://web.uri.edu/gravity/phd-openings/",
   "unv": "Stipend amount not stated; Feb 1, 2027 is a priority date for funding, not a stated final deadline.",
   "us": false
+ },
+ {
+  "a": "$7,000 stipend, UAB dorm housing and round-trip travel reimbursement",
+  "added": "2026-11-09",
+  "aud": [
+   "ap"
+  ],
+  "c": "Summer program",
+  "checked": "2026-11-09",
+  "d": "2027-04-01",
+  "dt": "Application opens Dec 1, 2026; form, transcript and career statement due Apr 1, 2027 (letters Apr 5); rolling review; program May 16 - July 23, 2027 (tentative)",
+  "e": "Ten-week NSF-funded summer research program in materials research spanning physics, chemistry, materials science and biomedical engineering, with a UAB faculty mentor. Open only to US citizens and permanent residents enrolled as undergraduates at a US institution.",
+  "f": "University of Alabama at Birmingham, Center for Nanoscale Materials and Biointegration (NSF DMR REU Site)",
+  "fields": [
+   "mat",
+   "cmx",
+   "bio"
+  ],
+  "id": "uab-materials-reu-2027",
+  "n": "UAB REU in Experimental and Computational Materials Research (Summer 2027)",
+  "nom": false,
+  "s": "open",
+  "src": "other:uab-cnmb-reu",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://sites.uab.edu/cnmb/research-experiences-for-undergraduates/",
+  "unv": "The page mixes 'Summer 2026' wording with 2027 dates and calls the program dates tentative.",
+  "us": true
  },
  {
   "a": "2 years, extendable to 3 subject to funding; salary not stated",

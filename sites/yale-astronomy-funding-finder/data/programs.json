@@ -3180,6 +3180,35 @@
   "us": false
  },
  {
+  "a": "Postdoctoral research associate, start fall 2027",
+  "added": "2026-11-09",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-09",
+  "d": "2026-12-18",
+  "dt": "Preference to applications received by Dec 18, 2026",
+  "e": "Postdoctoral position in the EPFL High Energy Theory group working in the areas of Rattazzi and Riembau: quantum field theory, high energy phenomenology, physics beyond the Standard Model and cosmology. Applicants of any nationality apply through AcademicJobsOnline with three letters.",
+  "f": "Ecole Polytechnique Federale de Lausanne (EPFL), Theoretical Particle Physics Laboratory",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "epfl-het-postdoc-2027",
+  "n": "EPFL: Postdoctoral Research Associate in High Energy Theory (Rattazzi/Riembau)",
+  "nfit": "Medium",
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33369",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33369",
+  "unv": "Salary and appointment length not stated in the ad."
+ },
+ {
   "a": "See host institution",
   "added": "2026-09-29",
   "c": "Fellowship",
@@ -5052,6 +5081,36 @@
   "us": false
  },
  {
+  "a": "One-week in-person workshop; ICERM offers limited funding for some participants (amounts not stated)",
+  "added": "2026-11-09",
+  "asub": [
+   "he"
+  ],
+  "c": "Training",
+  "checked": "2026-11-09",
+  "d": "2027-02-28",
+  "dt": "Apply by Feb 28, 2027; workshop Jul 19-23, 2027 in Providence, RI",
+  "e": "A week of lectures and hands-on sessions on the open-source numerical relativity code SpECTRE (compact object mergers, gravitational waveforms), plus a SpEC/SpECTRE developers' meeting. Open to graduate students, postdocs and faculty; no citizenship limit stated.",
+  "f": "ICERM, Brown University (organizers from the SXS collaboration)",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "icerm-spec-spectre-summer-school-2027",
+  "n": "Simulating Extreme Spacetimes with SpEC and SpECTRE II: Summer school and developers' meeting (ICERM, July 2027)",
+  "nfit": "High",
+  "pt": "other",
+  "region": "US",
+  "s": "open",
+  "src": "other:icerm-spectre-2027",
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "u": "https://icerm.brown.edu/program/topical_workshop/tw-27-ses2",
+  "unv": "Deadline, dates and funding note taken from the organizers' announcement on Hyperspace (Nov 3, 2026); the ICERM page could not be read on Nov 9, 2026 (TLS certificate error), so eligibility details and funding amounts are not confirmed there."
+ },
+ {
   "a": "~320,000 CNY/yr; 2 years + possible 3rd",
   "added": "2026-09-30",
   "asub": [
@@ -6469,6 +6528,35 @@
   "u": "https://academicjobsonline.org/ajo/jobs/33231",
   "unv": "Visa or right-to-work conditions not stated in the ad.",
   "us": false
+ },
+ {
+  "a": "Up to 3 years (annual contracts)",
+  "added": "2026-11-09",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-09",
+  "d": "2026-12-15",
+  "dt": "Apply by Dec 15, 2026 for full consideration; open until filled",
+  "e": "Theory postdocs at QUP (Tsukuba, Japan) supervised by Kazunori Nakayama or Volodymyr Takhistov, in particle phenomenology, cosmology, astroparticle and neutrino physics, quantum sensing for fundamental physics and quantum field theory. PhD in physics or a related field by the start date; open to applicants worldwide.",
+  "f": "KEK, International Center for Quantum-field Measurement Systems for Studies of the Universe and Particles (QUP)",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "kek-qup-postdoc-theoretical-physics-2027",
+  "n": "KEK: QUP Postdoctoral Fellows in Theoretical Physics",
+  "nfit": "Medium",
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33352",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33352",
+  "unv": "Salary not stated (\"comparable to other prestigious institutions\")."
  },
  {
   "a": "up to 3 years (annual contracts)",
@@ -8155,6 +8243,12 @@
   "id": "nasa-astrophysics-theory-program-atp",
   "n": "NASA Astrophysics Theory Program (ATP)",
   "nfit": "Medium",
+  "nofo": [
+   {
+    "opp": "NNH25ZDA001N-ATP",
+    "u": "https://www.grants.gov/search-results-detail/364221"
+   }
+  ],
   "nom": false,
   "s": "open",
   "stages": [
@@ -9732,6 +9826,12 @@
   ],
   "id": "nsf-major-research-instrumentation-mri",
   "n": "NSF Major Research Instrumentation (MRI)",
+  "nofo": [
+   {
+    "opp": "27-500",
+    "u": "https://www.grants.gov/search-results-detail/364243"
+   }
+  ],
   "nom": false,
   "s": "open",
   "stages": [

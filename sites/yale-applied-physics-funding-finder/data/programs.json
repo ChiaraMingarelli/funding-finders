@@ -5676,6 +5676,31 @@
   "us": false
  },
  {
+  "a": "$7,000 stipend plus free housing and travel to and from Urbana",
+  "added": "2026-11-09",
+  "c": "Summer program",
+  "checked": "2026-11-09",
+  "d": "2027-01-22",
+  "dt": "Application opens Nov 15, 2026; due Jan 22, 2027; program May 25 - July 30, 2027",
+  "e": "Ten-week summer materials research program at the Illinois MRSEC in Urbana. Open to US citizens and permanent residents, at least 18, who are enrolled undergraduates with at least one year completed in engineering, physics, chemistry, materials or a related field and are not enrolled at UIUC.",
+  "f": "University of Illinois Urbana-Champaign, Materials Research Science and Engineering Center (NSF MRSEC)",
+  "fields": [
+   "mat",
+   "cmx",
+   "phot"
+  ],
+  "id": "illinois-mrsec-reu-2027",
+  "n": "Illinois MRSEC REU in Advanced Materials (Summer 2027)",
+  "nom": false,
+  "s": "open",
+  "src": "other:illinois-mrsec-reu",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://mrsec.illinois.edu/reu-program",
+  "us": true
+ },
+ {
   "a": "12-month initial appointment, renewable annually subject to performance and funding; salary not stated",
   "added": "2026-10-08",
   "c": "Group postdoc",
@@ -6816,6 +6841,32 @@
   "u": "https://st.llnl.gov/opportunities/postdocs/postdoc-program/lawrence-fellowship",
   "unv": "The page gives the Oct 1 deadline without a year; read as Oct 1, 2026 (2027 cohort). No date for the next cycle was posted as of Nov 9, 2026.",
   "us": false
+ },
+ {
+  "a": "Paid three-month appointment (May-September 2027); pay not stated",
+  "added": "2026-11-09",
+  "c": "Summer program",
+  "checked": "2026-11-09",
+  "d": "2027-01-10",
+  "dt": "Due Jan 10, 2027; offers mid to late February 2027; apply to requisition REF8946O (undergraduate) or REF8947G (graduate) on the LLNL careers site",
+  "e": "Paid summer research internship at LLNL in quantum computing and quantum sensing (experiment, theory and computation), such as superconducting-qubit noise, Josephson-junction fabrication and qubit control and calibration. Open to undergraduate and graduate students, who name preferred mentors from the program's list.",
+  "f": "Lawrence Livermore National Laboratory, Livermore Center for Quantum Science",
+  "fields": [
+   "qp",
+   "cmx",
+   "dev"
+  ],
+  "id": "llnl-lcqs-quantum-summer-internship-2027",
+  "n": "Livermore Center for Quantum Science (LCQS) Summer Internship 2027",
+  "nom": false,
+  "s": "open",
+  "src": "other:llnl-lcqs-internship",
+  "stages": [
+   "ug",
+   "gr"
+  ],
+  "u": "https://pls.llnl.gov/careers/internships/livermore-center-quantum-science-summer-internship",
+  "unv": "The program page does not state pay or citizenship/clearance requirements; check the LLNL requisition postings."
  },
  {
   "a": "$122,028-$143,328/yr",
@@ -9733,6 +9784,12 @@
   ],
   "id": "nsf-major-research-instrumentation-mri",
   "n": "NSF Major Research Instrumentation (MRI)",
+  "nofo": [
+   {
+    "opp": "27-500",
+    "u": "https://www.grants.gov/search-results-detail/364243"
+   }
+  ],
   "nom": false,
   "s": "open",
   "stages": [
@@ -13949,6 +14006,32 @@
   "u": "https://inspirehep.net/jobs/3206287",
   "unv": "INSPIRE closed the listing at its Nov 1, 2026 date, but the ad says applications are considered until the position is filled; no filled notice seen.",
   "us": false
+ },
+ {
+  "a": "$7,000 stipend, UAB dorm housing and round-trip travel reimbursement",
+  "added": "2026-11-09",
+  "c": "Summer program",
+  "checked": "2026-11-09",
+  "d": "2027-04-01",
+  "dt": "Application opens Dec 1, 2026; form, transcript and career statement due Apr 1, 2027 (letters Apr 5); rolling review; program May 16 - July 23, 2027 (tentative)",
+  "e": "Ten-week NSF-funded summer research program in materials research spanning physics, chemistry, materials science and biomedical engineering, with a UAB faculty mentor. Open only to US citizens and permanent residents enrolled as undergraduates at a US institution.",
+  "f": "University of Alabama at Birmingham, Center for Nanoscale Materials and Biointegration (NSF DMR REU Site)",
+  "fields": [
+   "mat",
+   "cmx",
+   "bio"
+  ],
+  "id": "uab-materials-reu-2027",
+  "n": "UAB REU in Experimental and Computational Materials Research (Summer 2027)",
+  "nom": false,
+  "s": "open",
+  "src": "other:uab-cnmb-reu",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://sites.uab.edu/cnmb/research-experiences-for-undergraduates/",
+  "unv": "The page mixes 'Summer 2026' wording with 2027 dates and calls the program dates tentative.",
+  "us": true
  },
  {
   "a": "$70,000 per year plus benefits",
