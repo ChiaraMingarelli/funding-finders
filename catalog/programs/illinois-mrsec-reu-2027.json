@@ -1,0 +1,28 @@
+{
+ "a": "$7,000 stipend plus free housing and travel to and from Urbana",
+ "added": "2026-11-09",
+ "aud": [
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-11-09",
+ "d": "2027-01-22",
+ "dt": "Application opens Nov 15, 2026; due Jan 22, 2027; program May 25 - July 30, 2027",
+ "e": "Ten-week summer materials research program at the Illinois MRSEC in Urbana. Open to US citizens and permanent residents, at least 18, who are enrolled undergraduates with at least one year completed in engineering, physics, chemistry, materials or a related field and are not enrolled at UIUC.",
+ "f": "University of Illinois Urbana-Champaign, Materials Research Science and Engineering Center (NSF MRSEC)",
+ "fields": [
+  "mat",
+  "cmx",
+  "phot"
+ ],
+ "id": "illinois-mrsec-reu-2027",
+ "n": "Illinois MRSEC REU in Advanced Materials (Summer 2027)",
+ "nom": false,
+ "s": "open",
+ "src": "other:illinois-mrsec-reu",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://mrsec.illinois.edu/reu-program",
+ "us": true
+}

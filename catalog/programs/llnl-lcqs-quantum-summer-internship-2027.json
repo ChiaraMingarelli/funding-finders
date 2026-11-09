@@ -1,0 +1,30 @@
+{
+ "a": "Paid three-month appointment (May-September 2027); pay not stated",
+ "added": "2026-11-09",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-11-09",
+ "d": "2027-01-10",
+ "dt": "Due Jan 10, 2027; offers mid to late February 2027; apply to requisition REF8946O (undergraduate) or REF8947G (graduate) on the LLNL careers site",
+ "e": "Paid summer research internship at LLNL in quantum computing and quantum sensing (experiment, theory and computation), such as superconducting-qubit noise, Josephson-junction fabrication and qubit control and calibration. Open to undergraduate and graduate students, who name preferred mentors from the program's list.",
+ "f": "Lawrence Livermore National Laboratory, Livermore Center for Quantum Science",
+ "fields": [
+  "qp",
+  "cmx",
+  "dev"
+ ],
+ "id": "llnl-lcqs-quantum-summer-internship-2027",
+ "n": "Livermore Center for Quantum Science (LCQS) Summer Internship 2027",
+ "nom": false,
+ "s": "open",
+ "src": "other:llnl-lcqs-internship",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://pls.llnl.gov/careers/internships/livermore-center-quantum-science-summer-internship",
+ "unv": "The program page does not state pay or citizenship/clearance requirements; check the LLNL requisition postings."
+}

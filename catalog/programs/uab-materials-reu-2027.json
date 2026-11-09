@@ -1,0 +1,29 @@
+{
+ "a": "$7,000 stipend, UAB dorm housing and round-trip travel reimbursement",
+ "added": "2026-11-09",
+ "aud": [
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-11-09",
+ "d": "2027-04-01",
+ "dt": "Application opens Dec 1, 2026; form, transcript and career statement due Apr 1, 2027 (letters Apr 5); rolling review; program May 16 - July 23, 2027 (tentative)",
+ "e": "Ten-week NSF-funded summer research program in materials research spanning physics, chemistry, materials science and biomedical engineering, with a UAB faculty mentor. Open only to US citizens and permanent residents enrolled as undergraduates at a US institution.",
+ "f": "University of Alabama at Birmingham, Center for Nanoscale Materials and Biointegration (NSF DMR REU Site)",
+ "fields": [
+  "mat",
+  "cmx",
+  "bio"
+ ],
+ "id": "uab-materials-reu-2027",
+ "n": "UAB REU in Experimental and Computational Materials Research (Summer 2027)",
+ "nom": false,
+ "s": "open",
+ "src": "other:uab-cnmb-reu",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://sites.uab.edu/cnmb/research-experiences-for-undergraduates/",
+ "unv": "The page mixes 'Summer 2026' wording with 2027 dates and calls the program dates tentative.",
+ "us": true
+}

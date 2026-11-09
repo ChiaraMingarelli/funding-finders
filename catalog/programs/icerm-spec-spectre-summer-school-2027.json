@@ -1,0 +1,36 @@
+{
+ "a": "One-week in-person workshop; ICERM offers limited funding for some participants (amounts not stated)",
+ "added": "2026-11-09",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Training",
+ "checked": "2026-11-09",
+ "d": "2027-02-28",
+ "dt": "Apply by Feb 28, 2027; workshop Jul 19-23, 2027 in Providence, RI",
+ "e": "A week of lectures and hands-on sessions on the open-source numerical relativity code SpECTRE (compact object mergers, gravitational waveforms), plus a SpEC/SpECTRE developers' meeting. Open to graduate students, postdocs and faculty; no citizenship limit stated.",
+ "f": "ICERM, Brown University (organizers from the SXS collaboration)",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "icerm-spec-spectre-summer-school-2027",
+ "n": "Simulating Extreme Spacetimes with SpEC and SpECTRE II: Summer school and developers' meeting (ICERM, July 2027)",
+ "nfit": "High",
+ "pt": "other",
+ "region": "US",
+ "s": "open",
+ "src": "other:icerm-spectre-2027",
+ "stages": [
+  "gr",
+  "pd"
+ ],
+ "u": "https://icerm.brown.edu/program/topical_workshop/tw-27-ses2",
+ "unv": "Deadline, dates and funding note taken from the organizers' announcement on Hyperspace (Nov 3, 2026); the ICERM page could not be read on Nov 9, 2026 (TLS certificate error), so eligibility details and funding amounts are not confirmed there."
+}
