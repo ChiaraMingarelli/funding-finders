@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Prize",
- "checked": "2026-10-21",
+ "checked": "2026-11-09",
  "d": null,
- "dt": "No current call found; limited-submission pages list the program as CLOSED",
+ "dt": "No current call; the Simons Foundation program page marks the program as Closed",
  "e": "By institutional nomination only; theory–experiment work in the life sciences.",
  "f": "Simons Foundation",
  "fields": [
@@ -23,7 +23,7 @@
   "ten",
   "tt"
  ],
- "u": "https://www.simonsfoundation.org/mathematical-modeling-living-systems/",
- "unv": "On Oct 26 and Nov 2, 2026 the Simons MMLS page returned 404 and no 2026 or 2027 call for nominations was found; could not confirm whether the program still runs cycles",
+ "u": "https://www.simonsfoundation.org/funding/mathematical-modeling-of-living-systems/",
+ "unv": "The program page (moved to /funding/mathematical-modeling-of-living-systems/) marks MMLS as Closed and lists Investigators only through 2019; it does not say outright that the program is discontinued.",
  "us": false
 }

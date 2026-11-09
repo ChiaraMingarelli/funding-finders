@@ -25,6 +25,6 @@
   "ug"
  ],
  "u": "https://www.lrsm.upenn.edu/outreach/reu/",
- "unv": "The LRSM REU page could not be reached on Oct 21, Oct 26 or Nov 2, 2026 (TLS certificate error, then HTTP 503), so the 2027 dates were not rechecked; a search summary of the page says 2027 applications open in November.",
+ "unv": "The LRSM REU page could not be reached on Oct 21, Oct 26, Nov 2 or Nov 9, 2026 (TLS certificate error, HTTP 503, then no response), so the 2027 dates were not rechecked; a search summary of the page says 2027 applications open in November.",
  "us": true
 }

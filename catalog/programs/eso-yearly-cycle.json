@@ -1,12 +1,11 @@
 {
  "a": "VLT/VLTI, La Silla and APEX time",
  "added": "2026-10-03",
- "asub": [],
  "aud": [
   "ast"
  ],
  "c": "Observing time",
- "checked": "2026-11-02",
+ "checked": "2026-11-09",
  "d": null,
  "dt": "P118 closed 22 Sep 2026, 12:00 CEST; ESO says the next call will be released in July 2027",
  "e": "ESO's once-a-year call. Open to scientists worldwide, but non-member-state PIs face extra scrutiny and limited time.",

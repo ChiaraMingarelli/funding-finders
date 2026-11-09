@@ -5,7 +5,7 @@
   "ast"
  ],
  "c": "Observing time",
- "checked": "2026-10-26",
+ "checked": "2026-11-09",
  "d": null,
  "dt": "Requests accepted at any time of the year, through the Gemini Phase I Tool for the current semester",
  "e": "Gemini's channel for scientifically urgent observations, prompted by developments since the last proposal cycle, that cannot be handled by Fast Turnaround. Open to astronomers worldwide; requests are judged by the Gemini Director Time Review Board.",
@@ -27,6 +27,6 @@
   "gr"
  ],
  "u": "https://www.gemini.edu/observing/phase-i/ddt",
- "unv": "gemini.edu blocked automated access (HTTP 403) on Nov 2, 2026, so the page was not rechecked. The page does not say whether students may be PI.",
+ "unv": "The page does not say whether students may be PI.",
  "us": false
 }

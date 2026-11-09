@@ -5,9 +5,9 @@
   "yale"
  ],
  "c": "Fellowship",
- "checked": "2026-11-02",
+ "checked": "2026-11-09",
  "d": null,
- "dt": "Openings posted on careers.cern; no fixed date on the programme page.",
+ "dt": "No Experimental Physics openings listed on careers.cern on Nov 9, 2026 (only a Theoretical Physics opening); openings are posted there with no fixed date on the programme page.",
  "e": "Open to nationals of CERN Member or Associate Member States, with a few exceptions possible each year, so US nationals are generally not eligible. At most 6 years post-PhD (physics). Relevant for Yale postdocs with European citizenship.",
  "f": "CERN",
  "fields": [
@@ -20,11 +20,11 @@
  "n": "CERN Research Fellowship (Experimental Physics)",
  "nom": false,
  "pt": "prize",
- "s": "rolling",
+ "s": "watch",
  "stages": [
   "pd"
  ],
  "u": "https://careers.cern/programmes/research-fellowship/",
- "unv": "Next selection-committee deadline not listed",
+ "unv": "Next Experimental Physics opening and selection date not posted",
  "us": false
 }

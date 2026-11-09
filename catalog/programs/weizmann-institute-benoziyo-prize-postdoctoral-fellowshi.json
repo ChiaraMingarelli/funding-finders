@@ -33,6 +33,6 @@
   "pd"
  ],
  "u": "https://centers.weizmann.ac.il/AstroCenter/benoziyo-fellowship",
- "unv": "The AAS ad blocked automated access (HTTP 403) on Oct 7, 12, 21 and 26, 2026. On Nov 2, 2026 the Weizmann Benoziyo Fellowship page still showed the 2025-26 cycle (closed, deadline Jan 15, 2026), so the Dec 15, 2026 deadline comes from the AAS listing only and was not reconfirmed.",
+ "unv": "The AAS ad blocks automated access (HTTP 403). On Nov 2, 2026 the Weizmann Benoziyo Fellowship page still showed the 2025-26 cycle (closed, deadline Jan 15, 2026); on Nov 9, 2026 that page rejected automated requests. The Dec 15, 2026 deadline comes from the AAS listing only and was not reconfirmed.",
  "us": false
 }

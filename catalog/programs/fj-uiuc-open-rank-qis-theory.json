@@ -24,6 +24,6 @@
   "fj"
  ],
  "u": "https://illinois.csod.com/ux/ats/careersite/1/home/requisition/18058?c=illinois",
- "unv": "The Illinois job page needs JavaScript and could not be read on Oct 26 or Nov 2, 2026; status taken from the INSPIRE copy of the ad (still open on Nov 2, 2026), which accepts applications until the position is filled. Salary not checked (go.physics.illinois.edu/QISTheory26).",
+ "unv": "The Illinois job page needs JavaScript and could not be read on Oct 26, Nov 2 or Nov 9, 2026; status taken from the INSPIRE copy of the ad (still open on Nov 9, 2026), which accepts applications until the position is filled. Salary not checked (go.physics.illinois.edu/QISTheory26 returned HTTP 503 / TLS error on Nov 9, 2026).",
  "us": true
 }

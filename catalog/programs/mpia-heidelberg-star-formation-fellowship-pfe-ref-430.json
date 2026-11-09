@@ -32,6 +32,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/07007ae4",
- "unv": "The AAS Job Register blocked automated access (HTTP 403) again on Oct 21, Oct 26 and Nov 2, 2026, and no MPIA host ad could be opened, so the deadline and details were not reconfirmed; a search-engine snippet of the AAS ad still gives Nov 15, 2026.",
+ "unv": "The AAS Job Register blocks automated access (HTTP 403; not tried again on Nov 9, 2026) and no MPIA host ad for Ref. 430 could be found (MPIA's English job board said on Nov 9, 2026 that no postdoc positions are open there), so the deadline and details were not reconfirmed; search-engine snippets of the AAS ad still give Nov 15, 2026.",
  "us": false
 }

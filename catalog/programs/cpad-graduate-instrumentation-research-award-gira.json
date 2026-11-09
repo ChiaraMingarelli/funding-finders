@@ -23,6 +23,6 @@
   "gr"
  ],
  "u": "https://cpad-dpf.org/?page_id=285",
- "unv": "cpad-dpf.org blocked automated access (\"Just a moment\" check) to curl on 2026-11-02, but the page was read through WebFetch the same day: it still shows the Aug 15, 2026 deadline and no next cycle.",
+ "unv": "cpad-dpf.org blocked automated access (\"Just a moment\" check / HTTP 403) on Nov 2 and Nov 9, 2026; the page was last read on Nov 2, 2026, when it still showed the Aug 15, 2026 deadline and no next cycle.",
  "us": false
 }

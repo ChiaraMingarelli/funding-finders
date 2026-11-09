@@ -29,6 +29,6 @@
   "gr"
  ],
  "u": "https://www.bnl.gov/nsls2/userguide/",
- "unv": "bnl.gov could not be reached on Oct 26 or Nov 2, 2026 (HTTP 503 / connection failure), so the 2027-2 date is kept from the Oct 21, 2026 check. ALS takes no new general user proposals in 2027 ahead of its ALS-U dark period (from Oct 2027 at the earliest).",
+ "unv": "bnl.gov could not be reached on Oct 26, Nov 2 or Nov 9, 2026 (HTTP 503 / connection failure), so the 2027-2 date is kept from the Oct 21, 2026 check. ALS takes no new general user proposals in 2027 ahead of its ALS-U dark period (from Oct 2027 at the earliest).",
  "us": false
 }

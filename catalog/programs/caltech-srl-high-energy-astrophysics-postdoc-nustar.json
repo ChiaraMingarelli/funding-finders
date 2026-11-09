@@ -32,6 +32,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/ca443bb1",
- "unv": "Salary and term not reconfirmed: the AAS ad blocks automated access (HTTP 403 again on Nov 2, 2026). Caltech PMA's Positions Available page confirmed the deadline on Nov 2, 2026.",
+ "unv": "Salary and term not reconfirmed: the AAS ad blocks automated access (HTTP 403 again on Nov 9, 2026), and the Caltech PMA Positions Available page returned HTTP 503 / TLS errors on Nov 9; it confirmed the deadline on Nov 2, 2026.",
  "us": false
 }

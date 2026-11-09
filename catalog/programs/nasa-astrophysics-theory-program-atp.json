@@ -7,10 +7,10 @@
   "ast"
  ],
  "c": "Federal grant",
- "checked": "2026-11-02",
- "d": null,
- "dt": "Last deadline Jul 2025; NASA plans to release ROSES-27 no later than January 2027",
- "e": "NASA had said ROSES-26 would come out in July 2026; on Oct 20, 2026 it announced that ROSES-27 will be released no later than January 2027. The FY27 request cuts Astrophysics R&A sharply.",
+ "checked": "2026-11-09",
+ "d": "2027-02-03",
+ "dt": "Proposals due Feb 3, 2027 (ROSES-25 Amendment 81, element D.10); no NOI or Step-1 proposal",
+ "e": "NASA's Astrophysics Theory Program funds basic theory that supports NASA's space astrophysics missions; ROSES-25 Amendment 81 released it as a new opportunity in November 2026. Proposals may include developing data analysis methods for astrophysics missions.",
  "f": "NASA SMD",
  "fields": [
   "astro",
@@ -20,12 +20,12 @@
  "n": "NASA Astrophysics Theory Program (ATP)",
  "nfit": "Medium",
  "nom": false,
- "s": "watch",
+ "s": "open",
  "stages": [
   "tt",
   "ten"
  ],
- "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/",
- "unv": "NASA has not said whether ROSES-27 will include ATP or when it will be due.",
+ "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-81-new-opportunity-astrophysics-theory-program/",
+ "unv": "Award sizes and number of awards for this call were not checked.",
  "us": false
 }

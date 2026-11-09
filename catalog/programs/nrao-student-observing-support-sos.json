@@ -10,9 +10,9 @@
   "ast"
  ],
  "c": "Observing time",
- "checked": "2026-11-02",
- "d": null,
- "dt": "Tied to accepted proposals; separate rounds roughly Sep (ALMA), Dec and Jun (VLA/VLBA/GBT); NRAO lists no active SOS call now",
+ "checked": "2026-11-09",
+ "d": "2026-12-11",
+ "dt": "VLA/VLBA/GBT Semester 27A SOS applications due Dec 11, 2026, 11:00 pm ET; rounds roughly Sep (ALMA), Dec and Jun (VLA/VLBA/GBT)",
  "e": "PI (not a student or postdoc) at the student's institution applies after an accepted GBT/VLA/VLBA/ALMA project. Can fund students working on GBT pulsar-timing or radio projects.",
  "f": "NSF NRAO",
  "fields": [
@@ -24,13 +24,13 @@
  "nfit": "High",
  "nom": false,
  "region": "US",
- "s": "watch",
+ "s": "open",
  "src": "other:nrao",
  "stages": [
   "gr",
   "ug"
  ],
  "u": "https://science.nrao.edu/opportunities/student-programs/sos",
- "unv": "Next SOS deadline not posted; whether non-US institutions are eligible not stated",
+ "unv": "Whether non-US institutions are eligible is not stated.",
  "us": false
 }

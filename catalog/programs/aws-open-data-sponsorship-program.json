@@ -9,7 +9,7 @@
   "ast"
  ],
  "c": "Compute",
- "checked": "2026-11-02",
+ "checked": "2026-11-09",
  "d": null,
  "dt": "Rolling; AWS says decisions are generally sent within two weeks",
  "e": "Covers cloud storage and data-transfer costs for publicly available, openly licensed, cloud-optimized datasets (for example a survey or timing-array data release) listed on the Registry of Open Data on AWS. Data providers apply; applications are judged on accessibility, cloud readiness, community engagement and demand.",

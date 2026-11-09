@@ -5,7 +5,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-26",
+ "checked": "2026-11-09",
  "d": null,
  "dt": "Last deadline Jul 15, 2026; the next cycle is not posted yet",
  "e": "Award for full-time PhD students in electron-device fields who are EDS student members with an EDS-member faculty sponsor.",
@@ -22,6 +22,6 @@
   "gr"
  ],
  "u": "https://eds.ieee.org/education/student-fellowships/phd-student-fellowship",
- "unv": "2027 deadline not posted; eds.ieee.org blocked the automated request on Nov 2, 2026 (HTTP 418), so the page was not rechecked.",
+ "unv": "2027 deadline not posted; the page (read Nov 9, 2026) still shows the Jul 15, 2026 timetable.",
  "us": false
 }

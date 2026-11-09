@@ -5,9 +5,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-11-02",
- "d": null,
- "dt": "Last listed deadline Dec 31, 2025; recurring",
+ "checked": "2026-11-09",
+ "d": "2026-12-31",
+ "dt": "Apply by Dec 31, 2026 for the 2027–2028 fellowship (AJO fellowship #33307)",
  "e": "Postdoctoral fellowship at IBM Research in algorithm theory, with emphasis on quantum algorithms, mathematics of AI, optimization and matrix/tensor algebra. No citizenship restriction stated.",
  "f": "IBM Research",
  "fields": [
@@ -18,12 +18,11 @@
  "n": "IBM Herman Goldstine Memorial Postdoctoral Fellowship (incl. quantum algorithms)",
  "nom": false,
  "pt": "prize",
- "s": "watch",
+ "s": "open",
  "src": "other:ibm-goldstine",
  "stages": [
   "pd"
  ],
  "u": "https://www.research.ibm.com/goldstine",
- "unv": "On Oct 26, 2026 the IBM page still showed the 2026–2027 call with its Dec 31, 2025 deadline; no 2027–2028 call was found.",
  "us": false
 }

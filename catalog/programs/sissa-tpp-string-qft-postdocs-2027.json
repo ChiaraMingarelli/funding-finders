@@ -27,6 +27,6 @@
   "pd"
  ],
  "u": "https://www.sissa.it/tpp/joinus/joinus.php.html",
- "unv": "Salary not listed. The SISSA page did not respond (HTTP 503 / connection failure) on Nov 2, 2026; the INSPIRE record (status open, deadline Dec 16, 2026) and AJO job 32558 (deadline 2026/12/16) still list the call.",
+ "unv": "Salary not listed. The SISSA TPP join-us page returned HTTP 404 on Nov 9, 2026 (it failed with HTTP 503 on Nov 2); the INSPIRE record (status open, deadline Dec 16, 2026) and AJO job 32558 (deadline 2026/12/16, read Nov 9) still list the call.",
  "us": false
 }

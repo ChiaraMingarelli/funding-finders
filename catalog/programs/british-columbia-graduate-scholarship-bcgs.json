@@ -5,7 +5,7 @@
   "ng"
  ],
  "c": "Scholarship",
- "checked": "2026-11-02",
+ "checked": "2026-11-09",
  "d": null,
  "dt": "Awarded by graduate programs/faculties (UBC lists deadline as 'ongoing')",
  "e": "For Canadian citizens and permanent residents in master's or PhD programs at BC universities, with priority for STEM. Relevant for students at UBC (a NANOGrav/CHIME institution).",
@@ -25,6 +25,6 @@
   "gr"
  ],
  "u": "https://www.grad.ubc.ca/awards/british-columbia-graduate-scholarship",
- "unv": "International eligibility not stated; selection is via departmental nomination.",
+ "unv": "Selection is via departmental nomination.",
  "us": false
 }

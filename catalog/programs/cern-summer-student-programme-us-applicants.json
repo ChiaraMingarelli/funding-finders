@@ -5,9 +5,9 @@
   "yale"
  ],
  "c": "Summer program",
- "checked": "2026-11-02",
+ "checked": "2026-11-09",
  "d": null,
- "dt": "Applications are normally due by end of January. home.cern says the programme is open for applications, but no 2027 deadline is posted yet. CERN says students from the USA, Canada and Japan have dedicated application portals.",
+ "dt": "Applications are normally due by end of January. home.cern says the programme is open for applications and careers.cern lists the CERN Summer Student Programme 2027 (SUMM-2027), but no 2027 deadline is shown. CERN says students from the USA, Canada and Japan have dedicated application portals.",
  "e": "Bachelor's or master's students (not PhD) with 6 or more semesters in physics, engineering, CS or math. All nationalities welcome; US students use the US-specific route.",
  "f": "CERN",
  "fields": [
@@ -25,6 +25,6 @@
   "gr"
  ],
  "u": "https://home.cern/summer-student-programme/",
- "unv": "2027 deadline not posted on careers.cern as of Nov 2, 2026",
+ "unv": "2027 deadline not shown on careers.cern as of Nov 9, 2026",
  "us": false
 }

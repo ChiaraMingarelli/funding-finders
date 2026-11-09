@@ -1,5 +1,5 @@
 {
- "a": "Under NSF 23-519: Track 1 $100k to $1.4M; Track 2 $1.4M to $4M; Track 3 (helium conservation) $100k to $4M",
+ "a": "$100,000 to $4 million per proposal (smaller requests allowed in mathematics and from non-PhD-granting institutions); about 60 awards, $50M expected",
  "added": "2026-09-28",
  "aud": [
   "yale",
@@ -7,10 +7,10 @@
   "ast"
  ],
  "c": "Instrumentation",
- "checked": "2026-11-02",
- "d": null,
- "dt": "No FY2026 window (NSF funded more FY2025 proposals instead). NSF 23-519 is archived; NSF says it anticipates an updated MRI solicitation for FY 2027 proposals, but none is posted. An Oct 15 to Nov 16, 2026 window NSF had signaled is not confirmed.",
- "e": "Limited submission under 23-519: max 2 Track 1, 1 Track 2 and 1 Track 3 per organization (Yale internal competition). Cost sharing was waived for 5 yrs starting with FY2023 (would cover FY2027 unless changed).",
+ "checked": "2026-11-09",
+ "d": "2027-01-29",
+ "dt": "FY2027 solicitation NSF 27-500 (published Nov 6, 2026): submission windows Jan 4 to Jan 29, 2027 and Oct 18 to Nov 19, 2027, due 5 pm submitter's local time",
+ "e": "Funds acquisition or development of multi-user research instruments. Under NSF 27-500 there is no limit on proposals per organization or per PI, and voluntary committed cost sharing is not allowed.",
  "f": "NSF OIA",
  "fields": [
   "all",
@@ -20,18 +20,17 @@
  ],
  "id": "nsf-major-research-instrumentation-mri",
  "n": "NSF Major Research Instrumentation (MRI)",
- "nom": true,
- "s": "watch",
+ "nom": false,
+ "s": "open",
  "stages": [
   "tt",
   "ten"
  ],
  "u": "https://www.nsf.gov/funding/opportunities/mri-major-research-instrumentation-program",
- "unv": "FY2027 solicitation not published; Oct-Nov 2026 window unconfirmed; limits and cost share may change",
  "us": false,
  "yale": {
-  "d": "2026-04-13",
-  "t": "Yale's internal competition for NSF MRI under NSF 23-519 (up to $4M) closed Apr 13, 2026, for a sponsor window then expected to end Nov 16, 2026. NSF has since archived 23-519 and expects to issue a new MRI solicitation for FY2027.",
+  "d": null,
+  "t": "Yale ran an internal competition for NSF MRI under the old solicitation NSF 23-519 (closed Apr 13, 2026). NSF 27-500 sets no limit on proposals per organization; check the Yale Funding Opportunities newsletter for any internal step.",
   "u": "https://research.yale.edu/funding-opportunities-newsletter-archive",
   "unv": "Source is the Mar 11, Mar 18, Apr 1 and Apr 8, 2026 Yale Funding Opportunities newsletters."
  }

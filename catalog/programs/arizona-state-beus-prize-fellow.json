@@ -11,9 +11,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-10-26",
+ "checked": "2026-11-09",
  "d": null,
- "dt": "Nov 1, 2026 deadline for full consideration has passed; later applications go to a reserve pool reviewed in the order received until filled",
+ "dt": "Last deadline Nov 1, 2026 (2027 fellowship); applications are accepted each year between September and November, and the next call is not posted yet",
  "e": "How stars and galaxies form and evolve across cosmic time. Requires a PhD.",
  "f": "Arizona State University, SESE, Beus Center for Cosmic Foundations",
  "fields": [
@@ -25,12 +25,12 @@
  "nom": false,
  "pt": "prize",
  "region": "US",
- "s": "rolling",
+ "s": "watch",
  "src": "aas:dcf7a33c",
  "stages": [
   "pd"
  ],
- "u": "https://apply.interfolio.com/190307",
- "unv": "Not re-verified directly on Nov 2, 2026: the Interfolio page needs JavaScript and the AAS Job Register blocks automated access (403). The Beus Center page (sese.asu.edu/beus-prize-fellowship) said on Nov 2, 2026 that applications for the 2027 fellowship are being accepted; the reserve-pool wording is from the AAS ad as shown in search results.",
+ "u": "https://sese.asu.edu/beus-prize-fellowship",
+ "unv": "On Nov 9, 2026 the Beus Center page said the application period for the 2027 fellowship has closed (results in January 2027). The 2027 Interfolio posting (apply.interfolio.com/190307) needs JavaScript and the AAS Job Register blocks automated access (403).",
  "us": false
 }

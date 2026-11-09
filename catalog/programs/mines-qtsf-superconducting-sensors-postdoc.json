@@ -1,14 +1,14 @@
 {
- "a": "Two years of guaranteed funding; salary not stated",
+ "a": "$60,000-$70,000 a year; two years of guaranteed funding, extension possible",
  "added": "2026-11-03",
  "aud": [
   "yale",
   "ng"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-03",
- "d": "2027-01-07",
- "dt": "Jan 7, 2027 (per INSPIRE); start January 2027",
+ "checked": "2026-11-09",
+ "d": null,
+ "dt": "Applications reviewed on a rolling basis until the position is filled (INSPIRE lists Jan 7, 2027); start January 2027",
  "e": "Postdoc characterizing superconducting tunnel junctions and transition-edge sensors and developing microwave SQUID multiplexed readout for BeEST, RICOCHET, Project 8 and dark matter demonstrators, working with NIST Boulder. No citizenship limit is stated in the listing.",
  "f": "Colorado School of Mines, Quantum Technologies at the Sensitivity Frontier group (Wouter Van De Pontseele)",
  "fields": [
@@ -21,12 +21,12 @@
  "nom": false,
  "pt": "group",
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "inspire:3220839",
  "stages": [
   "pd"
  ],
  "u": "https://mines.wd1.myworkdayjobs.com/en-US/Mines_Careers/job/Post-Doctoral-Researcher---Quantum-Sensing-for-Fundamental-Physics_JR110223",
- "unv": "Workday ad not opened; deadline and details from INSPIRE. Salary and work-authorization terms not confirmed.",
+ "unv": "Work-authorization terms not stated in the Mines ad.",
  "us": false
 }

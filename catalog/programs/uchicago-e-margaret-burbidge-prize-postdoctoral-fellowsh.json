@@ -1,11 +1,6 @@
 {
  "a": "$80,000/yr + $15,000/yr research; up to 3 years",
  "added": "2026-09-30",
- "asub": [
-  "cos",
-  "exo",
-  "he"
- ],
  "aud": [
   "yale",
   "ng",
@@ -13,7 +8,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-11-02",
+ "checked": "2026-11-09",
  "d": null,
  "dt": "Full consideration by Nov 1, 2026 (letters by Nov 8); positions remain open until filled",
  "e": "Any area of astrophysics (cosmology, dark matter, exoplanets, gravitational, high-energy, particle astrophysics). PhD Jun 2023-Sep 2027; start Fall 2027.",

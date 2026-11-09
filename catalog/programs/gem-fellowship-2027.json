@@ -23,6 +23,6 @@
   "gr"
  ],
  "u": "https://www.gemfellowship.org/gem-fellowship-program/",
- "unv": "Yale's current GEM membership not confirmed on GEM site (member list is login-only). GEM's application page gives the deadline as the second Friday in November, which is Nov 13, 2026; no time of day is stated.",
+ "unv": "Yale's current GEM membership not confirmed on GEM site (member list is login-only). GEM's application page gives the deadline as the second Friday in November, which is Nov 13, 2026; no time of day is stated. On Nov 9, 2026 gemfellowship.org blocked automated access (Cloudflare check, HTTP 403), so the deadline was not reconfirmed.",
  "us": true
 }

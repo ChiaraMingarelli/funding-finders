@@ -1,5 +1,5 @@
 {
- "a": "Postdoc starting fall 2027",
+ "a": "Postdoc starting fall 2027; 1 year, renewable up to two more; starting salary printed as \"$65,00-$75,000\"",
  "added": "2026-11-05",
  "asub": [
   "cos",
@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-05",
+ "checked": "2026-11-09",
  "d": "2026-12-15",
  "dt": "Dec 15, 2026 (AJO #33328)",
  "e": "Postdoc in Cornell's high energy theory group pursuing independent research mainly on quantum gravity, including quantum aspects of black holes and cosmology. PhD required by the start date.",
@@ -32,6 +32,6 @@
   "pd"
  ],
  "u": "https://academicjobsonline.org/ajo/jobs/33328",
- "unv": "Salary not stated.",
+ "unv": "The lower salary figure is printed as \"$65,00\" in the ad (probably $65,000).",
  "us": false
 }

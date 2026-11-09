@@ -12,9 +12,8 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-09-30",
- "d": null,
- "dt": "Last listed deadline Nov 1, 2026 (AAS Job Register); search copies of the ad say applications are handled on a rolling basis",
+ "checked": "2026-11-09",
+ "dt": "Last listed deadline Nov 1, 2026 (AAS Job Register); search copies of the AAS ad say applications are considered on a rolling basis, and the NTNU Physics notice gives no deadline",
  "e": "Numerical methods for gravitational equations and solar-system dynamics. Needs a PhD in physics, math or CS with ODE-numerics skills.",
  "f": "NTNU Physics, Center for Astronomy and Gravity; PI David M. Hernandez",
  "fields": [
@@ -27,12 +26,12 @@
  "nom": false,
  "pt": "group",
  "region": "International",
- "s": "watch",
+ "s": "rolling",
  "src": "aas:5238c7ed",
  "stages": [
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/5238c7ed",
- "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 21, Oct 26 and Nov 2, 2026, so the ad could not be read after its Nov 1 deadline. The NTNU Physics notice (Jan 6, 2026) gives no deadline and does not say the post is filled.",
+ "unv": "The AAS Job Register blocks automated access (HTTP 403), so the AAS ad was not read after its Nov 1 deadline. The NTNU Physics notice (Jan 6, 2026; read Nov 9, 2026) invites applicants to contact Prof. Hernandez, gives no deadline and does not say the post is filled.",
  "us": false
 }

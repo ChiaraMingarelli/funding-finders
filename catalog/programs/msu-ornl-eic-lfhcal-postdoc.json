@@ -27,6 +27,6 @@
   "pd"
  ],
  "u": "http://explore.msujobs.msstate.edu/cw/en-us/job/511359",
- "unv": "Salary not stated. The host ad (job 511359) gives Oct 20, 2026 for full consideration while INSPIRE lists Nov 10, 2026; both say review continues until filled. The position is funded by a DOE EPSCoR project, but the ad sets no residency limit on applicants.",
+ "unv": "Salary not stated. The host ad (job 511359) gives Oct 20, 2026 for full consideration while INSPIRE lists Nov 10, 2026; both say review continues until filled. The position is funded by a DOE EPSCoR project, but the ad sets no residency limit on applicants. On Nov 9, 2026 the host site returned an empty automated-access response (HTTP 202), so the ad was not reread; INSPIRE still lists the post as open.",
  "us": false
 }

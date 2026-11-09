@@ -9,7 +9,7 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-11-02",
+ "checked": "2026-11-09",
  "d": null,
  "dt": "Last NSERC deadline Oct 19, 2026 (8 pm ET); the next cycle is not posted yet.",
  "e": "Mainly Canadian citizens/PR; some awards tenable abroad.",
@@ -28,5 +28,6 @@
   "pd"
  ],
  "u": "https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program",
+ "unv": "The NSERC program page now lists the NSERC deadline as \"October 17\" with no year; the next cycle is not posted yet.",
  "us": false
 }

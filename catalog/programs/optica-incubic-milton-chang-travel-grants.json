@@ -5,9 +5,9 @@
   "ap"
  ],
  "c": "Travel",
- "checked": "2026-11-02",
- "d": null,
- "dt": "Opt in when submitting a paper to CLEO or FiO+LS",
+ "checked": "2026-11-09",
+ "d": "2026-11-23",
+ "dt": "Opt in when submitting a paper to CLEO 2027 (paper deadline Nov 23, 2026, 11:59 PM PT) or to FiO+LS",
  "e": "Travel support for student Optica members with an accepted CLEO or FiO+LS paper who show financial need. Applicants opt in during paper submission.",
  "f": "Optica Foundation",
  "fields": [
@@ -16,12 +16,12 @@
  "id": "optica-incubic-milton-chang-travel-grants",
  "n": "Optica Foundation: Incubic/Milton Chang Student Travel Grants (CLEO, FiO+LS)",
  "nom": false,
- "s": "watch",
+ "s": "open",
  "src": "other:optica-foundation",
  "stages": [
   "gr"
  ],
  "u": "https://www.optica.org/foundation/opportunities/scholarships/incubic_milton_travel_grant_cleo/",
- "unv": "The CLEO 2027 paper deadline was not posted on cleoconference.org on Nov 2, 2026 (the 2026 call page is still up).",
+ "unv": "The FiO+LS 2027 paper deadline was not checked.",
  "us": false
 }

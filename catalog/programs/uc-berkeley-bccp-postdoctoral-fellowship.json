@@ -12,9 +12,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-11-02",
+ "checked": "2026-11-09",
  "d": "2026-11-15",
- "dt": "2026/11/15 23:59:59 (time zone not stated on page)",
+ "dt": "2026/11/15 23:59:59 (time zone not stated); the AJO ad says the position stays open until filled",
  "e": "Cosmology: supernovae, galaxy clustering, weak lensing, CMB, theory and AI for cosmology (Roman, Rubin, DESI, LS4). Start Summer/Fall 2027.",
  "f": "University of California, Berkeley, Physics - Berkeley Center for Cosmological Physics (BCCP)",
  "fields": [
@@ -33,6 +33,5 @@
   "pd"
  ],
  "u": "https://bccp.berkeley.edu/jobs/",
- "unv": "On Nov 2, 2026 the AJO posting (32646) said the BCCP account had expired and new applications are no longer accepted; the BCCP jobs page still says the call is open with a Nov 15 deadline and links to an AAS Job Register ad (9a2ae398), which blocks automated access.",
  "us": false
 }

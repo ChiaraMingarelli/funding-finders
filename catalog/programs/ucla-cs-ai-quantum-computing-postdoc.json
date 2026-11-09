@@ -7,9 +7,9 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-02",
- "d": null,
- "dt": "No deadline listed; start Winter Quarter 2027",
+ "checked": "2026-11-09",
+ "d": "2027-01-01",
+ "dt": "Apply by Jan 1, 2027 (AJO); start Winter Quarter 2027",
  "e": "Postdoc with Jason Cong and Yizhou Sun on AI methods for quantum error-correction decoding (including qLDPC codes), noise prediction and quantum algorithms on early fault-tolerant hardware. Open to AI researchers moving into quantum computing and to quantum researchers developing AI methods.",
  "f": "University of California, Los Angeles, Computer Science Department",
  "fields": [
@@ -22,7 +22,7 @@
  "nom": false,
  "pt": "group",
  "region": "US",
- "s": "rolling",
+ "s": "open",
  "src": "ajo:33275",
  "stages": [
   "pd"

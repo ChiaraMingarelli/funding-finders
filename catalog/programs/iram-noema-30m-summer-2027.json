@@ -5,7 +5,7 @@
   "ast"
  ],
  "c": "Observing time",
- "checked": "2026-10-26",
+ "checked": "2026-11-09",
  "d": null,
  "dt": "The winter 2026 deadline was 10 Sep 2026, 17:00 CEST. IRAM deadlines fall around mid-March and mid-September, and the summer-semester call is published by early February.",
  "e": "Twice-yearly call for IRAM's millimeter telescopes in France and Spain. PIs at institutes in non-partner countries, including the US, may submit regular proposals but may not lead Large Programs.",
@@ -26,6 +26,6 @@
   "pd"
  ],
  "u": "https://iram-institute.org/science-portal/proposals/call-for-proposals/",
- "unv": "The summer 2027 call and its exact deadline are not yet posted. Student-PI rules are not stated. iram-institute.org returned HTTP 500 on Nov 2, 2026, so the page was not rechecked.",
+ "unv": "The summer 2027 call and its exact deadline are not yet posted (the call page still shows the winter 2026 call on Nov 9, 2026). Student-PI rules are not stated.",
  "us": false
 }

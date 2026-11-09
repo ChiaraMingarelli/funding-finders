@@ -10,9 +10,9 @@
   "ast"
  ],
  "c": "Summer program",
- "checked": "2026-11-02",
- "d": null,
- "dt": "Last GBO deadline Feb 1, 2026; the 2027 deadline is not posted yet",
+ "checked": "2026-11-09",
+ "d": "2027-02-01",
+ "dt": "Feb 1, 2027 (one online application for Charlottesville, Socorro and Green Bank); the application system opens by the first week of December 2026",
  "e": "Radio astronomy and pulsars. The REU slots need US citizenship or permanent residency.",
  "f": "NRAO / Green Bank Observatory",
  "fields": [
@@ -25,12 +25,12 @@
  "nfit": "High",
  "nom": false,
  "region": "US",
- "s": "watch",
+ "s": "open",
  "stages": [
   "ug",
   "gr"
  ],
  "u": "https://science.nrao.edu/opportunities/student-programs/summerstudents",
- "unv": "2027 deadline not posted",
+ "unv": "The page's application instructions still say Feb 1, 2026; the Feb 1, 2027 date is from the page's current-year notice.",
  "us": true
 }

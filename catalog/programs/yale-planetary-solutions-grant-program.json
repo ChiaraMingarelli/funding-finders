@@ -7,9 +7,9 @@
   "ast"
  ],
  "c": "Yale internal",
- "checked": "2026-11-02",
- "d": null,
- "dt": "Next round posted on the Yale Ventures Impact Accelerator page: applications open Nov 30, 2026 and proposals are due Jan 29, 2027, 11:59 pm (through the YPS Grant Program on InfoReady, Commercialization Pathway + PSIA option)",
+ "checked": "2026-11-09",
+ "d": "2027-01-29",
+ "dt": "2027-28 cycle: applications open Nov 30, 2026 and close Jan 29, 2027, 11:59 pm (through the YPS Grant Program on InfoReady); Initiation, Exploration and Constellation tracks",
  "e": "Internal grants for climate and environmental research and implementation at Yale. Constellation awardees working toward commercialization can join the Impact Accelerator.",
  "f": "Yale Planetary Solutions",
  "fields": [
@@ -19,13 +19,12 @@
  "id": "yale-planetary-solutions-grant-program",
  "n": "Yale Planetary Solutions Grant Program (Initiation, Exploration, Constellation grants)",
  "nom": false,
- "s": "watch",
+ "s": "open",
  "src": "other:yps",
  "stages": [
   "tt",
   "ten"
  ],
  "u": "https://planetarysolutions.yale.edu/programs/yps-grant-program",
- "unv": "The YPS grant program page still says the 2026-27 cycle is closed and does not yet show the Nov 30, 2026 opening; whether the Initiation and Exploration tracks reopen with it is not stated.",
  "us": false
 }

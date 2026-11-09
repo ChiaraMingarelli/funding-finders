@@ -25,6 +25,6 @@
   "fj"
  ],
  "u": "https://apply.interfolio.com/194798",
- "unv": "Not re-verified on 2026-11-02: the AAS Job Register blocks automated access (403), and the Interfolio page and the Westlake astronomy site need JavaScript; a web search found the AAS ad still listed but did not show the deadline.",
+ "unv": "Not re-verified on 2026-11-09: the AAS Job Register blocks automated access (403), and the Interfolio page and its API need JavaScript or a login; web searches found the AAS ad still listed but did not show the deadline.",
  "us": false
 }

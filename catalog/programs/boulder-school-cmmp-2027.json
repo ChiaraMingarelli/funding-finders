@@ -1,12 +1,12 @@
 {
- "a": "Not listed (see Student Expenses and Financial Aid page)",
+ "a": "Free dormitory housing and weekday meals; travel support up to $500 for students and postdocs at US universities; $400 registration fee",
  "added": "2026-10-03",
  "aud": [
   "yale",
   "ap"
  ],
  "c": "Summer program",
- "checked": "2026-11-02",
+ "checked": "2026-11-09",
  "d": "2027-01-15",
  "dt": "Applications due Jan 15, 2027; school held July 5–30, 2027 in Boulder",
  "e": "Multi-week summer school for advanced graduate students and postdocs in condensed matter physics and materials science; the 2027 topic is machine learning and condensed matter. International students pay their own airfare under NSF rules.",
@@ -28,6 +28,5 @@
   "pd"
  ],
  "u": "https://www.colorado.edu/conference/bss/",
- "unv": "Covered costs are not stated on the pages read (see the Student Expenses and Financial Aid page)",
  "us": false
 }

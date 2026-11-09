@@ -1,5 +1,5 @@
 {
- "a": "$84,500",
+ "a": "$84,500 stipend; three years, third year contingent on progress",
  "added": "2026-11-07",
  "asub": [
   "he",
@@ -12,7 +12,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-07",
+ "checked": "2026-11-09",
  "d": "2027-02-12",
  "dt": "Applications and three letters due Feb 12, 2027, 11:59 pm (AJO)",
  "e": "Postdoc with Danielle Frostig at SAO on time-domain astrophysics and/or instrumentation, including the Boombox rapid-response spectrograph for the MMT and Magellan (early kilonova spectra from GW run O5 and Rubin) and the WINTER infrared survey. No citizenship restriction stated.",
@@ -33,6 +33,5 @@
   "pd"
  ],
  "u": "https://academicjobsonline.org/ajo/jobs/33359",
- "unv": "Appointment length not checked.",
  "us": false
 }

@@ -6,7 +6,7 @@
   "ng"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-02",
+ "checked": "2026-11-09",
  "d": "2026-11-24",
  "dt": "Nov 24, 2026 (applications by email to qft.applications@mi.infn.it)",
  "e": "Senior postdoc coordinating work on second-order electroweak corrections in the Standard Model for the HL-LHC and FCC-ee, funded by an ERC Advanced Grant. No citizenship restriction stated.",
@@ -26,5 +26,6 @@
   "pd"
  ],
  "u": "https://qft.mi.infn.it/",
+ "unv": "The INSPIRE ad gives 3+2 years; the project jobs page (qft.mi.infn.it) says appointments are for three years.",
  "us": false
 }

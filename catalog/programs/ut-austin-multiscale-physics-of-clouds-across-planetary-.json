@@ -31,6 +31,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/bdbbb7e9",
- "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 21, Oct 26 and Nov 2, 2026, so the ad was not reread; a Nov 2 web search still shows the same deadline.",
+ "unv": "The AAS Job Register blocks automated access (HTTP 403), so the ad was not reread (also on Nov 9, 2026); a Nov 9 web search found no separate host or collaboration ad, so the Dec 4, 2026 deadline is kept from the earlier reading.",
  "us": false
 }

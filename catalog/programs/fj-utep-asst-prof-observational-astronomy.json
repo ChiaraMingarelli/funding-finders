@@ -24,6 +24,6 @@
   "fj"
  ],
  "u": "https://www.utep.edu/science/physics/available_positions/observational_astronomy_fall_2026.html",
- "unv": "The department's ad says review begins November 15 but gives no year; 2026 comes from the AAS listing. The department page returned HTTP 503 on Nov 2, 2026, so it was not re-verified; the Interview Exchange application page returned 403 on Oct 7, 2026.",
+ "unv": "The department's ad says review begins November 15 but gives no year; 2026 comes from the AAS listing. The department page returned HTTP 503 or timed out on Nov 2 and Nov 9, 2026, so it was not re-verified; the Interview Exchange application page returned 403 on Oct 7, 2026.",
  "us": false
 }
