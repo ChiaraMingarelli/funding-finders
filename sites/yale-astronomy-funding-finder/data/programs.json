@@ -601,6 +601,35 @@
   "us": false
  },
  {
+  "a": "12,000 NIS/month stipend (tax-free, no benefits); 2 years",
+  "added": "2026-11-10",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-10",
+  "d": "2027-01-15",
+  "dt": "Full consideration by Jan 15, 2027 (via MathJobs); considered until filled; start Oct 1, 2027 (negotiable)",
+  "e": "Two-year ISF-funded postdoc on the geometric and topological structure of black holes and spacetime singularities, with no teaching. Requires a PhD in mathematics or mathematical physics specializing in general relativity or geometric analysis.",
+  "f": "Ariel University",
+  "fields": [
+   "grav"
+  ],
+  "id": "ariel-weinstein-black-hole-geometry-postdoc",
+  "n": "Ariel University: Postdoc in mathematical general relativity (Weinstein group, ISF project on black holes and spacetime singularities)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3225558",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.mathjobs.org/jobs/list/29451",
+  "us": false
+ },
+ {
   "a": "$87,035/yr + $17,000/yr research + $6,000 relocation; 1 year, renewable up to 2 more",
   "added": "2026-09-30",
   "asub": [
@@ -6751,6 +6780,37 @@
   "us": false
  },
  {
+  "a": "3 years",
+  "added": "2026-11-10",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-10",
+  "d": "2026-12-16",
+  "dt": "Apply by Dec 16, 2026 via the Joint European Postdoc Application (AJO 32558), naming KU Leuven; start Sep 2027",
+  "e": "At least two 3-year postdocs in the hep-th group (quantum cosmology, quantum gravity, holography, supergravity, string theory, supersymmetric QFTs, gravitational waves). Apply through the joint European application and indicate a preference for KU Leuven.",
+  "f": "KU Leuven, Institute for Theoretical Physics",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "ku-leuven-hep-th-postdocs-2027",
+  "n": "KU Leuven: Postdoctoral researchers in theoretical high energy physics and gravity",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3225295",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3225295",
+  "unv": "Salary is not stated in the posting.",
+  "us": false
+ },
+ {
   "a": "JPY 320,000-370,000 per month; contract to March 31, 2030, renewed yearly",
   "added": "2026-11-03",
   "asub": [
@@ -7588,6 +7648,36 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32743",
+  "us": false
+ },
+ {
+  "a": "3 years (third year contingent on progress and funding)",
+  "added": "2026-11-10",
+  "asub": [
+   "exo"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-10",
+  "d": "2026-12-31",
+  "dt": "Review begins Dec 18, 2026 and continues until filled; AJO listing deadline Dec 31, 2026",
+  "e": "Postdoc in Richard Teague's Planet Formation Lab at MIT EAPS, working on observational and theoretical planet formation (data calibration/analysis, simulations, telescope proposals). Requires a PhD in astronomy, physics, planetary science or related field; applications go by email to Prof. Teague, not through AJO.",
+  "f": "Massachusetts Institute of Technology",
+  "fields": [
+   "astro"
+  ],
+  "id": "mit-eaps-teague-planet-formation-postdoc",
+  "n": "MIT EAPS: Postdoctoral Associate in Planet Formation (Teague group)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33381",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33381",
+  "unv": "Salary and citizenship terms not stated.",
   "us": false
  },
  {
@@ -8981,6 +9071,36 @@
   ],
   "u": "https://noirlab.edu/science/observing-noirlab/proposals/call-for-proposals",
   "unv": "2027B deadline not posted (B-semester proposals are normally due the last day of March)",
+  "us": false
+ },
+ {
+  "a": "Full-time, 2 to 3 years; start Sept 1, 2027; salary not stated",
+  "added": "2026-11-10",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-10",
+  "d": "2026-12-31",
+  "dt": "Dec 31, 2026 (enforced on AJO); reference letters by Jan 9, 2027",
+  "e": "Postdoc with Axel Brandenburg at Nordita (Stockholm) in the ERC Synergy project COSMOMAG, simulating primordial magnetic field evolution through recombination with the Pencil Code, including effects on the Hubble tension. Requires a doctoral degree and MHD turbulence simulation experience; no citizenship restriction stated.",
+  "f": "Nordita (Nordic Institute for Theoretical Physics)",
+  "fields": [
+   "astro"
+  ],
+  "id": "nordita-primordial-magnetic-field-postdoc-2027",
+  "n": "Nordita: Postdoctoral Fellow in primordial magnetic field evolution",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33372",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33372",
+  "unv": "Salary not stated.",
   "us": false
  },
  {
@@ -11115,9 +11235,9 @@
   "a": "Up to $1M total over 2 years per team; 3–4 teams in the pilot year",
   "added": "2026-09-30",
   "c": "Foundation",
-  "checked": "2026-11-09",
-  "d": "2026-11-09",
-  "dt": "Letter of intent due Nov 9, 2026 (11 p.m. Arizona time); full application due Jul 1, 2027.",
+  "checked": "2026-11-10",
+  "d": null,
+  "dt": "Letter of intent was due Nov 9, 2026; full applications from that round are due Jul 1, 2027. The next call is not posted yet.",
   "e": "Teams of 3–5 non-hierarchical investigators at US or Canadian universities, labs or institutes, each within 10 years of their first independent position, working in basic physical sciences (physics incl. astrophysics and biophysics, astronomy, chemistry, materials, Earth and planetary science). A person may join only one LOI. At Yale, contact zandra.ruiz@yale.edu (Corporate & Foundation Relations).",
   "f": "Research Corporation for Science Advancement",
   "fields": [
@@ -11126,7 +11246,7 @@
   "id": "rcsa-team-science-accelerator",
   "n": "RCSA Team Science Accelerator",
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "src": "other:rcsa-tsa-2026",
   "stages": [
    "tt",
@@ -12666,9 +12786,9 @@
   "a": "CAD 81,916/yr + CAD 20,000/yr research; 3 years (up to 5 for instrumentation)",
   "added": "2026-09-30",
   "c": "Fellowship",
-  "checked": "2026-11-09",
-  "d": "2026-11-09",
-  "dt": "2026/11/09 23:59:59 (time zone not stated on page)",
+  "checked": "2026-11-10",
+  "d": null,
+  "dt": "Last deadline Nov 9, 2026; the next round is not posted yet",
   "e": "Instrumentation, software and observational astronomy. PhD on/after Jan 1, 2022; start Sep 1, 2027.",
   "f": "University of Toronto, Dunlap Institute for Astronomy & Astrophysics",
   "fields": [
@@ -12681,7 +12801,7 @@
   "nom": false,
   "pt": "prize",
   "region": "Canada",
-  "s": "open",
+  "s": "watch",
   "src": "ajo:32533",
   "stages": [
    "pd"
@@ -13248,6 +13368,41 @@
   ],
   "u": "https://aas.org/jobregister/ad/9d513651",
   "unv": "AAS Job Register blocks automated access; no host ad found on UCSC Recruit's open-positions list on Nov 9, 2026, and ucolick.org returned HTTP 503. All details from search-engine snippets; deadline, salary, posting date and start date (no later than Oct 1, 2027) not confirmed on the ad itself.",
+  "us": false
+ },
+ {
+  "a": "2 years, possible third year; start Sept 1, 2027; salary not stated",
+  "added": "2026-11-10",
+  "asub": [
+   "cos",
+   "he",
+   "inst"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-11-10",
+  "d": "2026-12-31",
+  "dt": "Full consideration if received by Dec 31, 2026; rolling review from January 2027",
+  "e": "Honorific postdoctoral fellowship at the Center for Experimental Cosmology & Instrumentation (UC Riverside) for experimental work in cosmology, astroparticle physics, neutrino physics, gravitational-wave detection and related fields, carried out in the labs of CECI faculty (ADMX, CCAT, DarkSide, DEAP, DUNE, LIGO, Simons Observatory). Open to recent PhDs in experimental physics; no citizenship restriction stated.",
+  "f": "University of California, Riverside",
+  "fields": [
+   "ppx",
+   "grav",
+   "astro",
+   "inst"
+  ],
+  "id": "ucr-ceci-postdoctoral-fellowship-2027",
+  "n": "UC Riverside: CECI Postdoctoral Fellow",
+  "nfit": "High",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33383",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33383",
+  "unv": "Salary amount and citizenship/visa terms not stated in the posting.",
   "us": false
  },
  {

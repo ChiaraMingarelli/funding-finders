@@ -2571,31 +2571,6 @@
   "us": false
  },
  {
-  "a": "2 years; Danish state salary agreement",
-  "added": "2026-10-01",
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-09",
-  "dt": "Deadline Nov 9, 2026 23:59 CET; start Feb 1, 2027 or later",
-  "e": "Design and modelling of a prototype quantum internet within the Quantum Internet Alliance, plus theory of quantum repeaters, networks and narrow-band single-photon sources. Requires a PhD.",
-  "f": "University of Copenhagen, Niels Bohr Institute, Theoretical Quantum Optics group (Anders S. Sorensen)",
-  "fields": [
-   "qp",
-   "amo"
-  ],
-  "id": "copenhagen-nbi-postdoc-quantum-optics-sorensen-group",
-  "n": "Niels Bohr Institute: Postdoc in Theoretical Quantum Optics / Quantum Internet (Sorensen group)",
-  "nom": false,
-  "pt": "group",
-  "s": "open",
-  "src": "other:quantiki-nbi-sorensen-qia",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://employment.ku.dk/all-vacancies/?show=170074",
-  "us": false
- },
- {
   "a": "$80,000/yr + up to $5,000/yr research; 1 year renewable up to 2 more",
   "added": "2026-09-30",
   "c": "Fellowship",
@@ -7569,6 +7544,63 @@
   "us": false
  },
  {
+  "a": "2-year fixed-term position with possibility of extension; salary per Danish state academic agreement, supplement negotiable",
+  "added": "2026-11-10",
+  "c": "Group postdoc",
+  "checked": "2026-11-10",
+  "d": "2026-12-06",
+  "dt": "6 December 2026, 23:59 GMT+2",
+  "e": "Experimental postdoc in the Quantum Matter Lab (Vaitiekenas group) studying topologically protected synthetic matter in 1D and 2D arrays of semiconductor-superconductor Josephson junctions, starting 1 February 2027 or later. Requires a PhD in experimental condensed matter, mesoscopic transport or solid-state quantum information; no citizenship restriction stated.",
+  "f": "Niels Bohr Institute, University of Copenhagen",
+  "fields": [
+   "cmx",
+   "qp",
+   "dev"
+  ],
+  "id": "nbi-copenhagen-pd-experimental-quantum-matter",
+  "n": "Niels Bohr Institute, University of Copenhagen: Postdoctoral Fellowship in Experimental Quantum Matter (Josephson junction arrays)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:ku-172247",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://employment.ku.dk/all-vacancies/?show=172247",
+  "us": false
+ },
+ {
+  "a": null,
+  "added": "2026-11-10",
+  "c": "Group postdoc",
+  "checked": "2026-11-10",
+  "d": "2026-12-16",
+  "dt": "Apply by Dec 16, 2026 via the Joint European Postdoc Application (AJO 32558); start fall 2027",
+  "e": "One or two postdoc openings in Prof. Charlotte Kristjansen's Villum Investigator group, working between high energy theory, condensed matter and quantum information (AdS/CFT, integrability, bootstrap, localization). Requires a PhD in theoretical high energy physics.",
+  "f": "Niels Bohr Institute, University of Copenhagen",
+  "fields": [
+   "ppt",
+   "cmt",
+   "qp"
+  ],
+  "id": "nbi-villum-quantum-quenches-postdoc",
+  "n": "Niels Bohr International Academy: Postdoc in theoretical high energy/mathematical physics (Villum group “Quantum Quenches from Quantum Fields”)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3225758",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3225758",
+  "unv": "Salary is not stated in the posting.",
+  "us": false
+ },
+ {
   "a": "Under $500K direct per year; up to 5 years",
   "added": "2026-10-03",
   "c": "Federal grant",
@@ -12071,9 +12103,9 @@
   "a": "Up to $1M total over 2 years per team; 3–4 teams in the pilot year",
   "added": "2026-09-30",
   "c": "Foundation",
-  "checked": "2026-11-09",
-  "d": "2026-11-09",
-  "dt": "Letter of intent due Nov 9, 2026 (11 p.m. Arizona time); full application due Jul 1, 2027.",
+  "checked": "2026-11-10",
+  "d": null,
+  "dt": "Letter of intent was due Nov 9, 2026; full applications from that round are due Jul 1, 2027. The next call is not posted yet.",
   "e": "Teams of 3–5 non-hierarchical investigators at US or Canadian universities, labs or institutes, each within 10 years of their first independent position, working in basic physical sciences (physics incl. astrophysics and biophysics, astronomy, chemistry, materials, Earth and planetary science). A person may join only one LOI. At Yale, contact zandra.ruiz@yale.edu (Corporate & Foundation Relations).",
   "f": "Research Corporation for Science Advancement",
   "fields": [
@@ -12082,7 +12114,7 @@
   "id": "rcsa-team-science-accelerator",
   "n": "RCSA Team Science Accelerator",
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "src": "other:rcsa-tsa-2026",
   "stages": [
    "tt",
@@ -12835,6 +12867,32 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33349",
+  "us": false
+ },
+ {
+  "a": "CAD $70,000-$80,000 per year; initial 2 years, possible third",
+  "added": "2026-11-10",
+  "c": "Group postdoc",
+  "checked": "2026-11-10",
+  "d": "2026-12-13",
+  "dt": "Full consideration by Dec 13, 2026; rolling review until filled",
+  "e": "Multiple postdocs in Cunlu Zhou's group (Computer Science / Institut quantique) on quantum algorithms, error correction, quantum learning and AI for quantum computing, with collaborators including IBM Quantum and Mila. Open to PhDs in computer science, mathematics, quantum physics, quantum chemistry or related fields; no citizenship restriction stated.",
+  "f": "Université de Sherbrooke",
+  "fields": [
+   "qp"
+  ],
+  "id": "sherbrooke-zhou-quantum-computing-ai-postdocs",
+  "n": "Université de Sherbrooke: Postdoctoral Positions in Quantum Computing and Artificial Intelligence (Zhou group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "open",
+  "src": "ajo:33368",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33368",
   "us": false
  },
  {
