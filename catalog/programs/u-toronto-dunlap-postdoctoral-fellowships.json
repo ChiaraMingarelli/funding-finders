@@ -7,9 +7,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-11-09",
- "d": "2026-11-09",
- "dt": "2026/11/09 23:59:59 (time zone not stated on page)",
+ "checked": "2026-11-10",
+ "d": null,
+ "dt": "Last deadline Nov 9, 2026; the next round is not posted yet",
  "e": "Instrumentation, software and observational astronomy. PhD on/after Jan 1, 2022; start Sep 1, 2027.",
  "f": "University of Toronto, Dunlap Institute for Astronomy & Astrophysics",
  "fields": [
@@ -22,7 +22,7 @@
  "nom": false,
  "pt": "prize",
  "region": "Canada",
- "s": "open",
+ "s": "watch",
  "src": "ajo:32533",
  "stages": [
   "pd"

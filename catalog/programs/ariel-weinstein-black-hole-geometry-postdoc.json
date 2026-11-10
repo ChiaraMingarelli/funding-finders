@@ -1,0 +1,34 @@
+{
+ "a": "12,000 NIS/month stipend (tax-free, no benefits); 2 years",
+ "added": "2026-11-10",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-10",
+ "d": "2027-01-15",
+ "dt": "Full consideration by Jan 15, 2027 (via MathJobs); considered until filled; start Oct 1, 2027 (negotiable)",
+ "e": "Two-year ISF-funded postdoc on the geometric and topological structure of black holes and spacetime singularities, with no teaching. Requires a PhD in mathematics or mathematical physics specializing in general relativity or geometric analysis.",
+ "f": "Ariel University",
+ "fields": [
+  "grav"
+ ],
+ "id": "ariel-weinstein-black-hole-geometry-postdoc",
+ "n": "Ariel University: Postdoc in mathematical general relativity (Weinstein group, ISF project on black holes and spacetime singularities)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3225558",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.mathjobs.org/jobs/list/29451",
+ "us": false
+}

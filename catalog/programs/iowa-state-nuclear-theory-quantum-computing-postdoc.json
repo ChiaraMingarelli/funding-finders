@@ -6,9 +6,9 @@
   "ng"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-09",
- "d": "2026-11-09",
- "dt": "Posting close date Nov 9, 2026 (reposted; originally posted Oct 19, 2026)",
+ "checked": "2026-11-10",
+ "d": null,
+ "dt": "Last posting close date Nov 9, 2026; the posting could not be opened to confirm whether it is still accepting applications",
  "e": "One-year, renewable postdoc in ab initio Hamiltonian methods (light-front quantized field theory or microscopic nuclear structure) and their use on quantum computers. Requires a PhD in theoretical nuclear physics, particle physics or a related field by the start date.",
  "f": "Iowa State University, Department of Physics and Astronomy",
  "fields": [
@@ -21,12 +21,12 @@
  "nom": false,
  "pt": "group",
  "region": "US",
- "s": "open",
+ "s": "watch",
  "src": "other:isu-R20105",
  "stages": [
   "pd"
  ],
  "u": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Postdoctoral-Research-Associate---Theoretical-Nuclear-Physics-and-Quantum-Computing_R20105",
- "unv": "Salary is listed only as the ISU 'Post Docs' pay grade.",
+ "unv": "Salary is listed only as the ISU 'Post Docs' pay grade. The Workday site refused automated access (HTTP 403) on Nov 10, 2026.",
  "us": false
 }

@@ -1,0 +1,32 @@
+{
+ "a": null,
+ "added": "2026-11-10",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-10",
+ "d": null,
+ "dt": "Review begins Dec 15, 2026; open until filled",
+ "e": "Two tenure-track assistant professor positions in the Department of Physics and Astronomy in advanced materials for quantum technologies (e.g. photonic metamaterials, nanomechanical and nonequilibrium functional materials), start August 2027. Requires a PhD in physics or closely related field; apply via Interfolio.",
+ "f": "Texas A&M University",
+ "fields": [
+  "mat",
+  "cmx",
+  "qp",
+  "phot"
+ ],
+ "id": "fj-tamu-asst-prof-advanced-materials-quantum-tech",
+ "n": "Texas A&M University: Assistant Professor, Advanced Materials for Quantum Technologies",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "ajo:33375",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33375",
+ "unv": "Salary and citizenship terms not stated.",
+ "us": false
+}

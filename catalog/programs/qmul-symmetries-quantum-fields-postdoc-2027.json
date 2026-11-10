@@ -1,0 +1,31 @@
+{
+ "a": "2-year fixed term; salary not stated",
+ "added": "2026-11-10",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-10",
+ "d": "2026-12-07",
+ "dt": "Dec 7, 2026 (AJO listing, 18:59)",
+ "e": "Two-year postdoc run jointly by QMUL's Centre for Geometry, Analysis and Gravitation and Centre for Theoretical Physics and Astronomy on the project 'Symmetries and Quantum Fields: Dualities, Algebras and Learning' (QFT, generalized symmetries, black holes, holography, de Sitter, quantum information, matrix models). Applicants must also complete the application on QMUL's own site.",
+ "f": "Queen Mary University of London",
+ "fields": [
+  "ppt"
+ ],
+ "id": "qmul-symmetries-quantum-fields-postdoc-2027",
+ "n": "Queen Mary University of London: Postdoctoral position in Theoretical Physics (Symmetries and Quantum Fields)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33253",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33253",
+ "unv": "Salary and visa terms not stated; funded by the same STFC consolidated grant as the existing QMUL amplitudes row but a separate posting.",
+ "us": false
+}

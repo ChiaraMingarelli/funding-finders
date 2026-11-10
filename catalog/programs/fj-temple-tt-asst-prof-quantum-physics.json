@@ -1,0 +1,30 @@
+{
+ "a": null,
+ "added": "2026-11-10",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-10",
+ "d": "2026-12-10",
+ "dt": "AJO deadline Dec 10, 2026; posting text says review begins Jan 1 and continues until filled",
+ "e": "Tenure-track assistant professor in theoretical or experimental quantum physics (quantum sensing, quantum information, AMO, QIS in nuclear/particle physics) in Temple's Department of Physics, start Fall/July 2027. Requires a PhD in physics or closely related field.",
+ "f": "Temple University",
+ "fields": [
+  "qp",
+  "amo"
+ ],
+ "id": "fj-temple-tt-asst-prof-quantum-physics",
+ "n": "Temple University: Tenure-Track Assistant Professor (Quantum Physics)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33370",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33370",
+ "unv": "AJO deadline (Dec 10) and text (review begins Jan 1) conflict; salary and citizenship terms not stated.",
+ "us": false
+}

@@ -1,0 +1,41 @@
+{
+ "a": "2 years, possible third year; start Sept 1, 2027; salary not stated",
+ "added": "2026-11-10",
+ "asub": [
+  "cos",
+  "he",
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-11-10",
+ "d": "2026-12-31",
+ "dt": "Full consideration if received by Dec 31, 2026; rolling review from January 2027",
+ "e": "Honorific postdoctoral fellowship at the Center for Experimental Cosmology & Instrumentation (UC Riverside) for experimental work in cosmology, astroparticle physics, neutrino physics, gravitational-wave detection and related fields, carried out in the labs of CECI faculty (ADMX, CCAT, DarkSide, DEAP, DUNE, LIGO, Simons Observatory). Open to recent PhDs in experimental physics; no citizenship restriction stated.",
+ "f": "University of California, Riverside",
+ "fields": [
+  "ppx",
+  "grav",
+  "astro",
+  "inst"
+ ],
+ "id": "ucr-ceci-postdoctoral-fellowship-2027",
+ "n": "UC Riverside: CECI Postdoctoral Fellow",
+ "nfit": "High",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33383",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33383",
+ "unv": "Salary amount and citizenship/visa terms not stated in the posting.",
+ "us": false
+}

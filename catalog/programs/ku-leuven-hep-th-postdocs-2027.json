@@ -1,0 +1,36 @@
+{
+ "a": "3 years",
+ "added": "2026-11-10",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-10",
+ "d": "2026-12-16",
+ "dt": "Apply by Dec 16, 2026 via the Joint European Postdoc Application (AJO 32558), naming KU Leuven; start Sep 2027",
+ "e": "At least two 3-year postdocs in the hep-th group (quantum cosmology, quantum gravity, holography, supergravity, string theory, supersymmetric QFTs, gravitational waves). Apply through the joint European application and indicate a preference for KU Leuven.",
+ "f": "KU Leuven, Institute for Theoretical Physics",
+ "fields": [
+  "ppt",
+  "grav"
+ ],
+ "id": "ku-leuven-hep-th-postdocs-2027",
+ "n": "KU Leuven: Postdoctoral researchers in theoretical high energy physics and gravity",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3225295",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3225295",
+ "unv": "Salary is not stated in the posting.",
+ "us": false
+}
