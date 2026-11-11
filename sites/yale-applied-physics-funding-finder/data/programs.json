@@ -25,6 +25,34 @@
   "us": false
  },
  {
+  "a": "EUR 4,229-4,649/month",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": "2026-12-31",
+  "dt": "Deadline Dec 31, 2026; rolling screening",
+  "e": "Two-year postdoc on superconducting qubit/resonator circuits: axion detection with qubits, microwave/optical control, and continuous-variable processing with parametric amplifiers. PhD in physics, EE or CS (or nearly done); people from other quantum platforms may be considered.",
+  "f": "Aalto University, Department of Applied Physics",
+  "fields": [
+   "qp",
+   "dev",
+   "amo"
+  ],
+  "id": "aalto-university-postdoctoral-researcher-in-experimental",
+  "n": "Aalto University: Postdoctoral Researcher in Experimental Circuit QED (Kvantti group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:aalto-kvantti-cqed-pd",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.aalto.fi/en/open-positions/postdoctoral-researcher-in-the-field-of-superconducting-quantum-circuits",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-09-30",
   "c": "Group postdoc",
@@ -1021,6 +1049,34 @@
   "us": false
  },
  {
+  "a": "$72,879-$121,465 (Argonne posted hiring range)",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": null,
+  "dt": "Open until filled; posted 2026-06-01",
+  "e": "Companion HPCAT postdoc using coherent and nano-focused synchrotron x-ray techniques to characterize melts at high pressure and temperature. Requires a recent PhD (0-5 years) in physics, chemistry, materials science, geoscience or engineering with synchrotron experience.",
+  "f": "Argonne National Laboratory, HPCAT at the Advanced Photon Source",
+  "fields": [
+   "mat",
+   "cmx",
+   "inst"
+  ],
+  "id": "argonne-postdoc-characterizing-high-pressure-melts-with",
+  "n": "Argonne National Laboratory: Postdoctoral Appointee, Characterizing High-Pressure Melts with Coherence and Nano-beams (HPCAT)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:anl-422749-hpcat-melts",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Characterizing-high-pressure-melts-using-coherence-and-nano-beams-at-HPCAT_422749",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-09-30",
   "c": "Group postdoc",
@@ -1044,6 +1100,147 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32801",
+  "us": false
+ },
+ {
+  "a": "$72,879-$121,465 (Argonne posted hiring range)",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": null,
+  "dt": "Open until filled; on Argonne careers since Apr 2026",
+  "e": "Joint MSD/HEP postdoc with Notre Dame building on-chip superconducting hybrid circuits that couple magnon targets to qubits for low-energy axion dark-matter detection. Requires a PhD in condensed matter, experimental HEP, QIS or a related field.",
+  "f": "Argonne National Laboratory (MSD/HEP)",
+  "fields": [
+   "qp",
+   "dev",
+   "ppx",
+   "cmx"
+  ],
+  "id": "argonne-postdoc-magnon-dark-matter-quantum-detection",
+  "n": "Argonne National Laboratory: Postdoctoral Appointee, Magnon Dark-Matter Quantum Detection",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:anl-422684-magnon-dm",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee-Magnon-Dark-Matter-quantum-detection_422684",
+  "unv": "No closing date given; posting dates from April 2026 but is still listed as open",
+  "us": false
+ },
+ {
+  "a": "$72,879-$121,465 (Argonne posted hiring range)",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": null,
+  "dt": "Open until filled; posted 2026-06-22",
+  "e": "CNM postdoc developing AI/ML data resources, predictive models and closed-loop decision tools for self-driving materials synthesis labs. Requires a PhD in the last 0-5 years in chemistry, chemical engineering, materials science, polymer science, physics, CS or data science.",
+  "f": "Argonne National Laboratory, Center for Nanoscale Materials",
+  "fields": [
+   "mat",
+   "ds"
+  ],
+  "id": "argonne-postdoc-materials-informatics-and-autonomous-syn",
+  "n": "Argonne National Laboratory: Postdoctoral Appointee, Materials Informatics and Autonomous Synthesis (CNM)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:anl-422966-materials-informatics",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Materials-Informatics-and-Autonomous-Synthesis_422966",
+  "us": false
+ },
+ {
+  "a": "$72,879-$121,465 (Argonne posted hiring range)",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": null,
+  "dt": "Open until filled; posted 2026-06-01",
+  "e": "HPCAT postdoc using high-pressure platforms and upgraded APS x-ray beams to study materials across the solid-melt transition and melt/liquid structure. Requires a recent PhD (0-5 years) in physics, chemistry, materials science, geoscience or engineering with high-pressure experience.",
+  "f": "Argonne National Laboratory, HPCAT at the Advanced Photon Source",
+  "fields": [
+   "mat",
+   "cmx",
+   "inst"
+  ],
+  "id": "argonne-postdoc-research-at-extremes-of-pressure-tempera",
+  "n": "Argonne National Laboratory: Postdoctoral Appointee, Research at Extremes of Pressure, Temperature and Strain (HPCAT)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:anl-422744-hpcat-extremes",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Research-at-extremes-of-pressure--temperature-and-strain-at-HPCAT_422744",
+  "us": false
+ },
+ {
+  "a": "$72,879-$121,465 (Argonne posted hiring range)",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": null,
+  "dt": "Open until filled; posted 2026-10-27",
+  "e": "CNM Dynamics-theme postdoc studying ultrafast electronic, structural and nonequilibrium dynamics of MXenes with transient photoemission, transient absorption, ultrafast electron microscopy and cathodoluminescence. Requires a PhD in the last 0-5 years in experimental physics, chemistry, engineering or materials science.",
+  "f": "Argonne National Laboratory, Center for Nanoscale Materials",
+  "fields": [
+   "mat",
+   "cmx",
+   "phot"
+  ],
+  "id": "argonne-postdoc-ultrafast-dynamics-of-mxene-materials-cn",
+  "n": "Argonne National Laboratory: Postdoctoral Appointee, Ultrafast Dynamics of MXene Materials (CNM)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:anl-423619-mxene-ultrafast",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Ultrafast-Dynamics-of-MXene-Materials--NST-_423619",
+  "us": false
+ },
+ {
+  "a": "$72,879-$121,465 (Argonne posted hiring range)",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": null,
+  "dt": "Open until filled; posted 2026-06-25",
+  "e": "APS postdoc designing, simulating and testing nonlinear MEMS oscillators driven by storage-ring RF signals to manipulate X-ray pulses. Two years, possibly renewable for a third; requires a PhD in EE, ME, physics or a related field from the past five years.",
+  "f": "Argonne National Laboratory, Advanced Photon Source",
+  "fields": [
+   "phot",
+   "inst",
+   "dev"
+  ],
+  "id": "argonne-postdoc-ultrafast-microscale-photonics-for-x-ray",
+  "n": "Argonne National Laboratory: Postdoctoral Appointee, Ultrafast Microscale Photonics for X-ray Optics (APS)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:anl-422989-mems-xray-photonics",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Ultrafast-Microscale-Photonics-for-X-ray-Optics_422989",
   "us": false
  },
  {
@@ -1537,6 +1734,33 @@
    "pd"
   ],
   "u": "https://iqim.caltech.edu/aws-quantum-postdoctoral-scholar/",
+  "us": false
+ },
+ {
+  "a": "Competitive salary plus $5,000/yr research funds",
+  "added": "2026-11-11",
+  "c": "Fellowship",
+  "checked": "2026-11-11",
+  "d": "2026-12-01",
+  "dt": "Dec 1, 2026 for full consideration; rolling after",
+  "e": "Two-year fellowship (possible third year) on driven-dissipative systems, mixed-state phases and non-equilibrium topology, with no teaching duties. PhD in physics or a related field required; start by Sep 1, 2027.",
+  "f": "Simons Targeted Research Group on the Non-Equilibrium Frontier / Bard College and NYU",
+  "fields": [
+   "qp",
+   "cmt"
+  ],
+  "id": "bard-college-nyu-postdoctoral-fellowship-in-theoretical",
+  "n": "Bard College / NYU: Postdoctoral Fellowship in Theoretical Quantum Science (Prem & Mitra, Simons Non-Equilibrium Frontier)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "other:noneq-bard-nyu",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.non-eq.com/openings/bard-nyu",
   "us": false
  },
  {
@@ -5812,6 +6036,39 @@
   "us": false
  },
  {
+  "a": "Not stated",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": "2027-01-10",
+  "dt": "General call deadline 10 Jan 2027 (AJO lists 10 Feb 2027; one group says 31 Jan 2027, open until filled)",
+  "e": "Several 2027 postdoc positions across theoretical physics at ITP-CAS (particle/nuclear, QFT/strings, gravity/astro/cosmology, condensed matter, quantum information, statistical/biophysics). Requires a PhD in theoretical physics or related field and age under 35.",
+  "f": "Institute of Theoretical Physics, Chinese Academy of Sciences",
+  "fields": [
+   "ppt",
+   "grav",
+   "astro",
+   "cmt",
+   "qp",
+   "amo",
+   "nut"
+  ],
+  "id": "itp-cas-beijing-postdocs-2027",
+  "n": "ITP-CAS Beijing: Postdoctoral Positions Available in 2027",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33398",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33398",
+  "unv": "Deadline differs between AJO field and text; salary not stated",
+  "us": false
+ },
+ {
   "a": "10 positions; 2 years, possible 3rd year; salary not listed",
   "added": "2026-10-02",
   "c": "Group postdoc",
@@ -5998,6 +6255,37 @@
   "us": false
  },
  {
+  "a": "Salary 'comparable to other prestigious institutions' (not stated); annual contract, up to 3 years",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": "2026-12-31",
+  "dt": "Apply by 31 Dec 2026 for full consideration",
+  "e": "Several experimental postdocs at QUP Tsukuba on quantum-sensor searches (light dark matter, axions, NV centers, superconducting qubits, TES, SRF cavities for high-frequency GW, antimatter gravity, detectors). Open worldwide; exceptional candidates may be appointed Assistant Professor.",
+  "f": "KEK International Center for Quantum-field Measurement Systems (QUP, WPI)",
+  "fields": [
+   "ppx",
+   "inst",
+   "qp",
+   "amo",
+   "dev"
+  ],
+  "id": "kek-qup-experimental-postdoc-fellows-2027-round",
+  "n": "KEK QUP: QUP Postdoctoral Fellows in Experimental Physics (2027 round)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33354",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33354",
+  "unv": "Known file has an earlier posting with the same title (ajo:32184); this is a new ID (KEK-QUP-PD2026-4) posted 10 Nov 2026",
+  "us": false
+ },
+ {
   "a": "up to 3 years (annual contracts)",
   "added": "2026-09-30",
   "asub": [
@@ -6148,6 +6436,34 @@
   ],
   "u": "https://www.kitp.ucsb.edu/scientific-activities/lead/submit-a-program-proposal",
   "unv": "Page gives \"October 16\" without a year; the year follows from the 2028-29 cycle it names. The pre-proposal, guidelines and visit pages (checked Oct 8, 2026) do not say what KITP pays for, so the award note is not confirmed there.",
+  "us": false
+ },
+ {
+  "a": "TRY 65,000/month stipend plus TRY 250/day meal allowance and limited private health insurance; 18 months",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": "2026-12-10",
+  "dt": "Application deadline Dec 10, 2026",
+  "e": "18-month TÜBİTAK project fellowship on collision models for preparing multipartite entanglement and controlling energy and coherence in quantum networks. PhD in physics or related field by start date; apply by email with CV and two letters.",
+  "f": "Koç University / TÜBİTAK 1001",
+  "fields": [
+   "qp",
+   "amo"
+  ],
+  "id": "koc-quest-quantum-thermodynamics-postdoc",
+  "n": "Koç University: Postdoctoral Fellowship in Quantum Information Thermodynamics (QuEST group, Müstecaplıoğlu)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-koc-quest-qit",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://quantiki.org/position/postdoctoral-fellowship-quantum-information-and-thermodynamics-ko%C3%A7-university-i%CC%87stanbul",
+  "unv": "Ad found only on Quantiki (posted 11 Nov 2026); no separate page on the host site was found. Citizenship rules for TÜBİTAK bursiyer status not stated.",
   "us": false
  },
  {
@@ -6871,6 +7187,35 @@
   "us": true
  },
  {
+  "a": "Not stated",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": null,
+  "dt": "Immediate opening; no close date listed (IRC146216)",
+  "e": "T-4 postdoc extending many-body perturbation theory to non-equilibrium problems to model STS spectra of transuranic compounds, with ML spectral analysis. Citizens of China, Iran, North Korea and Russia who are not US permanent residents are barred; no clearance is required.",
+  "f": "Los Alamos National Laboratory, Theoretical Division T-4",
+  "fields": [
+   "cmt",
+   "mat",
+   "ds"
+  ],
+  "id": "los-alamos-postdoctoral-research-associate-in-quantum-ma",
+  "n": "Los Alamos National Laboratory: Postdoctoral Research Associate in Quantum Many-Body Perturbation Theory (T-4)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:lanl-IRC146216",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://lanl.jobs/search/jobdetails/postdoctoral-research-associate-in-quantum-many-body-perturbation-theory/902b62e0-8f31-4a46-a0e0-a11e6743407c",
+  "unv": "No posting or closing date shown",
+  "us": false
+ },
+ {
   "a": "$97,000 starting salary for a new PhD",
   "added": "2026-10-07",
   "c": "Group postdoc",
@@ -6896,6 +7241,35 @@
   "us": false
  },
  {
+  "a": "Not stated",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": null,
+  "dt": "Immediate opening; no close date listed (IRC145587)",
+  "e": "T-4 postdoc using DFT, high-throughput methods and ML to discover and inverse-design topological 2D f-electron materials. Citizens of China, Iran, North Korea and Russia who are not US permanent residents are barred; no clearance is required.",
+  "f": "Los Alamos National Laboratory, Theoretical Division T-4",
+  "fields": [
+   "cmt",
+   "mat",
+   "ds"
+  ],
+  "id": "los-alamos-theory-postdoc-in-computational-materials-the",
+  "n": "Los Alamos National Laboratory: Theory Postdoc in Computational Materials Theory and Discovery (T-4)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:lanl-IRC145587",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://lanl.jobs/search/jobdetails/theory-postdoctoral-research-associate-in-computational-materials-theory-and-discovery/779041d0-2737-4093-a550-a7f4554b6b17",
+  "unv": "No posting or closing date shown",
+  "us": false
+ },
+ {
   "a": "Stipend set by LPS, plus health, relocation and travel allowances; 12 months, renewable up to 3 years",
   "added": "2026-09-28",
   "c": "Fellowship",
@@ -6918,6 +7292,33 @@
   "u": "https://www.qubitcollaboratory.org/nqfp/",
   "unv": "Next cycle not confirmed. On Nov 9, 2026 the LQC NQFP page still showed the old Mar 31, 2025 deadline.",
   "us": true
+ },
+ {
+  "a": "2 years, extendable; salary not stated",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": "2027-03-05",
+  "dt": "Closing date 5 Mar 2027; review began immediately, until filled",
+  "e": "Two-year postdoc on theory of altermagnetic materials, unconventional magnetism and superconductivity in Constantin Schrade's group; start from November 2026. PhD in physics or related field; no citizenship limits stated.",
+  "f": "LSU Department of Physics & Astronomy",
+  "fields": [
+   "cmt",
+   "mat"
+  ],
+  "id": "lsu-schrade-cmt-altermagnetism-postdoc",
+  "n": "Louisiana State University: Postdoctoral Researcher, Theoretical Condensed Matter Physics (Schrade group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33392",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33392",
+  "us": false
  },
  {
   "a": "$6,500 stipend, housing provided if needed, up to $800 travel",
@@ -7132,6 +7533,33 @@
   ],
   "u": "https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/",
   "unv": "The 17 current research challenges are all AI-focused; none is about quantum or materials. The 2026-27 dates are not posted.",
+  "us": false
+ },
+ {
+  "a": "Not stated",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": null,
+  "dt": "Open until filled; start by Sep 1, 2027",
+  "e": "36-month postdoc modelling driven-dissipative superconducting circuits with tensor networks, for qubit readout and bosonic-qubit stabilization. Requires a PhD from no more than five years before the start.",
+  "f": "Mines Paris - PSL",
+  "fields": [
+   "qp",
+   "cmt"
+  ],
+  "id": "mines-paris-psl-postdoctoral-researcher-in-theoretical-c",
+  "n": "Mines Paris - PSL: Postdoctoral Researcher in Theoretical Circuit QED (Petrescu)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:minesparis-petrescu-cqed",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://sites.google.com/site/tpetresc/openings/postdoctoral-researcher-in-theoretical-circuit-quantum-electrodynamics",
   "us": false
  },
  {
@@ -7667,43 +8095,6 @@
    "ten"
   ],
   "u": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-346.html",
-  "us": false
- },
- {
-  "a": "R61: up to $150K direct/yr, 3 yrs; R33: up to $300K direct/yr, 3 yrs",
-  "added": "2026-10-03",
-  "c": "Federal grant",
-  "checked": "2026-11-09",
-  "d": "2026-11-10",
-  "dt": "Nov 10, 2026 for both RFA-CA-27-001 (R61) and RFA-CA-27-002 (R33); FY2028 reissue forecast with est. due Jun 4, 2027",
-  "e": "Funds development of new technologies (tools, assays, instruments, platforms) for molecular or cellular characterization of cancer and biospecimen handling, from proof of concept (R61) to advanced validation (R33). No citizenship restriction.",
-  "f": "NIH NCI",
-  "fields": [
-   "bio",
-   "phot",
-   "inst"
-  ],
-  "id": "nci-imat-r61-r33-2026",
-  "n": "NIH NCI Innovative Molecular Analysis Technologies (IMAT): Early-Stage R61 and Advanced Development R33",
-  "nofo": [
-   {
-    "opp": "RFA-CA-27-001",
-    "u": "https://simpler.grants.gov/opportunity/00000220-55f5-4691-aec6-6eed51f77f2d"
-   },
-   {
-    "opp": "RFA-CA-27-002",
-    "u": "https://simpler.grants.gov/opportunity/24e288b3-ec28-4135-b845-37ace28563e3"
-   }
-  ],
-  "nom": false,
-  "s": "open",
-  "src": "grants:RFA-CA-27-001",
-  "stages": [
-   "tt",
-   "ten"
-  ],
-  "u": "https://simpler.grants.gov/opportunity/00000220-55f5-4691-aec6-6eed51f77f2d",
-  "unv": "IMAT program name taken from NCI convention; the NOFO titles do not use it.",
   "us": false
  },
  {
@@ -10794,6 +11185,34 @@
  },
  {
   "a": "Not stated",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": "2026-11-30",
+  "dt": "Initial deadline Nov 30, 2026; later until filled",
+  "e": "Two-year renewable postdocs in THz spectroscopy of 2D quantum matter and designer van der Waals quantum materials and devices. PhD in physics, chemistry or a related field required.",
+  "f": "Okinawa Institute of Science and Technology",
+  "fields": [
+   "cmx",
+   "phot",
+   "mat"
+  ],
+  "id": "oist-postdoctoral-scholars-quantum-and-ultrafast-optoele",
+  "n": "OIST: Postdoctoral Scholars, Quantum and Ultrafast Optoelectronics Unit (Handa)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:oist-quo-handa",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.oist.jp/careers/postdoctoral-scholars-quantum-and-ultrafast-optoelectronics-unit",
+  "us": false
+ },
+ {
+  "a": "Not stated",
   "added": "2026-10-15",
   "c": "Group postdoc",
   "checked": "2026-11-02",
@@ -12322,6 +12741,33 @@
   }
  },
  {
+  "a": "$63,968 minimum",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": null,
+  "dt": "No close date; posted Sep 20, 2026; start Fall 2027",
+  "e": "Several CMT postdocs: one Abrahams Postdoctoral Fellowship plus grant-funded posts on strongly correlated electrons (Haule) and non-equilibrium quantum dynamics (Pixley). Requires a PhD in condensed matter physics, materials science or similar by the start date.",
+  "f": "Rutgers University-New Brunswick, Physics & Astronomy",
+  "fields": [
+   "cmt"
+  ],
+  "id": "rutgers-center-for-materials-theory-postdoctoral-associa",
+  "n": "Rutgers Center for Materials Theory: Postdoctoral Associates in Condensed Matter Theory (incl. Abrahams Fellowship)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:rutgers-26FA0846",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.rutgers.edu/postings/281255",
+  "unv": "No closing date posted; a rumor-mill entry says review begins Nov 15",
+  "us": false
+ },
+ {
   "a": "Up to US$150,000 per project for one year (2026 call), with possible extension",
   "added": "2026-10-03",
   "c": "Industry",
@@ -13632,6 +14078,34 @@
   "us": false
  },
  {
+  "a": "Not stated",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": null,
+  "dt": "No deadline; AJO listing until 13 Jan 2027",
+  "e": "Postdoc in Alex Jones' computer architecture lab on classical and quantum computer architectures, memory systems, compilers or quantum computing. PhD in CS, CE, physics or related; apply via SU job posting 104681.",
+  "f": "Syracuse University EECS / Institute for Quantum and Information Sciences",
+  "fields": [
+   "qp",
+   "ds"
+  ],
+  "id": "syracuse-jones-quantum-computer-architectures-postdoc",
+  "n": "Syracuse University: Postdoctoral Researcher, Classical and/or Quantum Computer Architectures (Jones group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "ajo:32514",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.sujobopps.com/postings/104681",
+  "unv": "Posted Aug 2026; salary and close date not stated",
+  "us": false
+ },
+ {
   "a": "Up to 3 years, start Fall 2027; salary not stated",
   "added": "2026-10-23",
   "c": "Group postdoc",
@@ -13742,6 +14216,34 @@
   "us": false
  },
  {
+  "a": "2 years + possible 1; salary not stated",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": null,
+  "dt": "Review from 10 Jul 2026, until filled; AJO listing until 30 Nov 2026",
+  "e": "Theory postdoc on topological and correlated phenomena in 2D moire and 3D materials, unconventional superconductivity and non-equilibrium response, in Adarsh Patri's group. PhD in condensed matter theory by start; no citizenship limits stated.",
+  "f": "Temple University Physics",
+  "fields": [
+   "cmt",
+   "mat"
+  ],
+  "id": "temple-patri-condensed-matter-theory-postdoc",
+  "n": "Temple University: Postdoctoral Fellow, Condensed Matter Theory (Patri group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "ajo:32166",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32166",
+  "unv": "Posted June 2026 with Fall 2026 start; could not confirm it is still unfilled",
+  "us": false
+ },
+ {
   "a": "Up to $2.5M per project in Mathematical & Physical Sciences",
   "added": "2026-09-28",
   "c": "Foundation",
@@ -13791,6 +14293,33 @@
   ],
   "u": "https://science.yalecollege.yale.edu/yale-undergraduate-research/fellowship-grants/tetelman-fellowship-international-research-sciences",
   "unv": "The amount is not stated; the 2027 date is not posted.",
+  "us": false
+ },
+ {
+  "a": "Competitive salary and housing allowance (no figure)",
+  "added": "2026-11-11",
+  "c": "Fellowship",
+  "checked": "2026-11-11",
+  "d": "2026-12-01",
+  "dt": "Dec 1, 2026 for full consideration; rolling after",
+  "e": "Two postdoctoral fellowships at TIFR in theoretical condensed matter and quantum information on quantum matter far from equilibrium. PhD in physics or a related field, completed or near completion.",
+  "f": "Simons Targeted Research Group on the Non-Equilibrium Frontier / Tata Institute of Fundamental Research",
+  "fields": [
+   "qp",
+   "cmt"
+  ],
+  "id": "tifr-mumbai-postdoctoral-fellowships-in-theoretical-quan",
+  "n": "TIFR Mumbai: Postdoctoral Fellowships in Theoretical Quantum Science (Moudgalya, Simons Non-Equilibrium Frontier)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "other:noneq-tifr",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.non-eq.com/openings/tifr",
   "us": false
  },
  {
@@ -14207,6 +14736,33 @@
   "us": false
  },
  {
+  "a": "Competitive salary plus $5,000/yr research funds",
+  "added": "2026-11-11",
+  "c": "Fellowship",
+  "checked": "2026-11-11",
+  "d": "2026-12-01",
+  "dt": "Dec 1, 2026 for full consideration; rolling after",
+  "e": "Two-year fellowship (possible third year) in quantum error correction, mixed-state phases and many-body entanglement; fellows may pursue their own directions. PhD in physics, CS, math or a related field, completed or near completion; start by Sep 1, 2027.",
+  "f": "Simons Targeted Research Group on the Non-Equilibrium Frontier / UC Davis",
+  "fields": [
+   "qp",
+   "cmt"
+  ],
+  "id": "uc-davis-postdoctoral-fellowship-in-theoretical-quantum",
+  "n": "UC Davis: Postdoctoral Fellowship in Theoretical Quantum Science (Isaac Kim, Simons Non-Equilibrium Frontier)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "other:noneq-davis-kim",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.non-eq.com/openings/davis",
+  "us": false
+ },
+ {
   "a": "$80,000/yr stipend plus benefits, travel support and relocation",
   "added": "2026-10-07",
   "c": "Fellowship",
@@ -14232,6 +14788,32 @@
    "pd"
   ],
   "u": "https://recruit.ap.uci.edu/JPF10362/",
+  "us": false
+ },
+ {
+  "a": "EUR 47,273-51,176 per year (PD1/PD2)",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": "2026-11-30",
+  "dt": "Closes 12:00 noon Irish time, 30 Nov 2026",
+  "e": "Postdoc to June 2029 on non-linear response in quantum magnets, spin liquids and correlated multi-orbital systems, mostly computational. PD1/PD2 limits on total postdoc years apply; apply via UCD CoreHR (job 020238).",
+  "f": "UCD School of Physics (Research Ireland Frontiers grant)",
+  "fields": [
+   "cmt"
+  ],
+  "id": "ucd-hickey-condensed-matter-theory-postdoc",
+  "n": "University College Dublin: Postdoctoral Researcher, Condensed Matter Theory (Hickey group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:31689",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/31689",
   "us": false
  },
  {
@@ -14556,6 +15138,35 @@
    "pd"
   ],
   "u": "https://jobs.uiowa.edu/postdoc/view/4699",
+  "us": false
+ },
+ {
+  "a": "$55,000-65,000",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": null,
+  "dt": "No deadline; AJO listing until 26 Nov 2026",
+  "e": "Experimental postdoc on integrated photonic devices for classical and quantum information, sensing and networking in Kejie Fang's group. PhD within 10 years; visa sponsorship available except new H-1B petitions that incur the $100,000 fee.",
+  "f": "University of Illinois Urbana-Champaign, Grainger College of Engineering",
+  "fields": [
+   "phot",
+   "qp",
+   "dev"
+  ],
+  "id": "uiuc-fang-integrated-quantum-photonics-postdoc",
+  "n": "UIUC Holonyak Lab: Postdoctoral Research Associate in Integrated Quantum Photonics (Fang group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "ajo:32103",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32103",
+  "unv": "Posted May 2026 with Sept 2026 start; could not confirm it is still unfilled",
   "us": false
  },
  {
@@ -15006,6 +15617,34 @@
   "us": false
  },
  {
+  "a": "Not stated",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": null,
+  "dt": "Open until filled; posted August 2026",
+  "e": "NSF-funded postdoc automating van der Waals heterostructure device fabrication and cryogenic transport measurement with robotics and AI. Apply by emailing a CV and three references to the PI.",
+  "f": "University of Utah, Physics & Astronomy",
+  "fields": [
+   "cmx",
+   "dev",
+   "mat"
+  ],
+  "id": "university-of-utah-postdoc-in-autonomous-2d-heterostruct",
+  "n": "University of Utah: Postdoc in Autonomous 2D Heterostructure Quantum Device Fabrication (Deshpande lab, NSF AURORA)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:utah-deshpande-aurora",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://deshpandegroup.github.io/vacancies",
+  "us": false
+ },
+ {
   "a": "$84,000/yr salary plus $10,000/yr research fund and $2,000 relocation",
   "added": "2026-10-07",
   "c": "Fellowship",
@@ -15390,6 +16029,63 @@
   }
  },
  {
+  "a": "Not stated",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": null,
+  "dt": "Open until filled; flexible 2026-27 start",
+  "e": "Postdoc in a new quantum optoelectronics lab using electromagnetic drives to create, control and probe quantum phases in van der Waals materials. Contact the PI to apply.",
+  "f": "Vanderbilt University, Physics & Astronomy",
+  "fields": [
+   "cmx",
+   "phot",
+   "mat"
+  ],
+  "id": "vanderbilt-university-postdoc-in-non-equilibrium-quantum",
+  "n": "Vanderbilt University: Postdoc in Non-Equilibrium Quantum Materials (Day lab)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:vanderbilt-day-lab",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.daylab-vu.com/postdocad",
+  "us": false
+ },
+ {
+  "a": "$65,000-$75,000",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": "2026-12-01",
+  "dt": "Review date Dec 1, 2026; posted Nov 6, 2026",
+  "e": "Postdoc in the Programmable Cloud Laboratory node working on AI-guided design-build-test workflows for dielectric meta-optics, with plasmonics and thin-film lithium niobate. Requires a PhD awarded no more than four years before the start date in EE, optics, materials science, physics or a related field.",
+  "f": "Virginia Tech, Bradley Dept. of Electrical and Computer Engineering",
+  "fields": [
+   "phot",
+   "dev",
+   "mat"
+  ],
+  "id": "virginia-tech-ece-postdoctoral-associate-instrumentation",
+  "n": "Virginia Tech ECE: Postdoctoral Associate, Instrumentation and Photonic Workflow Validation (meta-optics)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:chronicle-38064113",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.chronicle.com/job/38064113/postdoctoral-associate-instrumentation-and-photonic-workflow-validation/",
+  "unv": "Seen on the Chronicle listing; did not open the Virginia Tech careers page it redirects to",
+  "us": false
+ },
+ {
   "a": "$1M to $1.3M over 3 yrs; supports high-risk work and custom instrumentation",
   "added": "2026-09-28",
   "c": "Foundation",
@@ -15442,6 +16138,37 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32711",
+  "us": false
+ },
+ {
+  "a": "$70,000 plus $10,000/yr research fund",
+  "added": "2026-11-11",
+  "c": "Fellowship",
+  "checked": "2026-11-11",
+  "d": "2026-11-15",
+  "dt": "Deadline Nov 15, 2026; start July 1, 2027",
+  "e": "Three-year prize fellowship. Fellows propose their own research in any department area: nuclear/particle, condensed matter, quantum information, biophysics or astrophysics. Current WashU Physics employees are not eligible.",
+  "f": "WashU Department of Physics",
+  "fields": [
+   "cmx",
+   "cmt",
+   "qp",
+   "nux",
+   "astro",
+   "bio"
+  ],
+  "id": "washington-university-in-st-louis-edwin-thompson-jaynes",
+  "n": "Washington University in St. Louis: Edwin Thompson Jaynes Postdoctoral Fellowship in Physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "other:wustl-JR96997-jaynes",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Danforth-Campus/Edwin-Thompson-Jaynes-Postdoctoral-Fellow-in-Physics_JR96997",
   "us": false
  },
  {
@@ -15750,6 +16477,34 @@
   ],
   "u": "https://ventures.yale.edu/student-opportunities/rothberg-build-fund",
   "unv": "Whether postdocs are eligible is not stated. The page still describes the 2025-2026 academic year (Nov 5, Feb 5, May 5), so the Feb 5, 2027 date is not confirmed for 2026-27.",
+  "us": false
+ },
+ {
+  "a": "Not stated",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": null,
+  "dt": "Open until filled (YQI fellowship deadline Oct 4 passed)",
+  "e": "Postdoc for experimental AMO / quantum information work on neutral-atom quantum computing. Email a CV and research note; strong candidates may also apply for a YQI Postdoctoral Fellowship.",
+  "f": "Yale University",
+  "fields": [
+   "amo",
+   "qp"
+  ],
+  "id": "yale-university-postdoc-in-experimental-neutral-atom-qua",
+  "n": "Yale University: Postdoc in Experimental Neutral-Atom Quantum Computing (Bichen Zhang lab)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:yale-bichen-zhang",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://bichenzhang.github.io/contact.html",
+  "unv": "Informal lab-page call with no posting date",
   "us": false
  },
  {

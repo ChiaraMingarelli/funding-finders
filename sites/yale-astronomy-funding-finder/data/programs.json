@@ -569,6 +569,39 @@
   "us": false
  },
  {
+  "a": "$72,879-$121,465 (Argonne posted hiring range)",
+  "added": "2026-11-11",
+  "asub": [
+   "cos",
+   "inst"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": null,
+  "dt": "Open until filled; posted 2026-04-17",
+  "e": "HEP Division postdoc designing, fabricating and characterizing microstrip-coupled TES bolometer arrays for South Pole Telescope focal planes, plus new superconducting-detector uses. Requires a PhD in the last 0-5 years in physics, EE, materials science or a related field.",
+  "f": "Argonne National Laboratory (HEP/MSD)",
+  "fields": [
+   "inst",
+   "dev",
+   "astro"
+  ],
+  "id": "argonne-postdoctoral-researcher-superconducting-detector",
+  "n": "Argonne National Laboratory: Postdoctoral Researcher, Superconducting Detector Development and CMB Instrumentation",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:anl-422591-tes-cmb",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Researcher---Superconducting-Detector-Development-and-CMB-Instrumentation_422591",
+  "unv": "Posted April 2026; still listed as open but no closing date",
+  "us": false
+ },
+ {
   "a": "2 years, possible 3rd; salary per university matrix",
   "added": "2026-09-30",
   "asub": [
@@ -1482,36 +1515,6 @@
   ],
   "u": "https://aas.org/jobregister/ad/ff862c4f",
   "unv": "Not rechecked on Nov 9, 2026: the AAS ad blocks automated access (HTTP 403 on Nov 2 and Nov 9, 2026) and the Caltech PMA positions page did not respond. Deadline last confirmed on Caltech PMA's page on Nov 2, 2026.",
-  "us": false
- },
- {
-  "a": "$76,000-$82,000; 2 years, renewable for a 3rd",
-  "added": "2026-09-30",
-  "asub": [
-   "galac",
-   "star"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-10",
-  "dt": "2026/11/10 23:59:59 (time zone not stated on page)",
-  "e": "Observational binary/multiple-star and compact-object astrophysics with Gaia DR4, Roman, SDSS-V, ZTF and Euclid. Start Aug 1, 2027.",
-  "f": "Caltech, Division of Physics, Mathematics & Astronomy (Kareem El-Badry)",
-  "fields": [
-   "astro"
-  ],
-  "id": "caltech-postdoctoral-scholar-in-astronomy-el-badry-group",
-  "n": "Caltech: Postdoctoral Scholar in Astronomy (El-Badry group)",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "US",
-  "s": "open",
-  "src": "ajo:32426",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32426",
   "us": false
  },
  {
@@ -5079,6 +5082,36 @@
   "us": false
  },
  {
+  "a": "EUR 40,000-45,000 gross/yr; 2 years + possible 1-year extension",
+  "added": "2026-11-11",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": "2026-12-20",
+  "dt": "Dec 20, 2026 (23:59); later applications may be considered until filled",
+  "e": "Two-year postdoc in the ICCUB group working on particle phenomenology, cosmology and astroparticle physics, with freedom to develop an independent programme; start around October 2027. Requires a PhD in theoretical physics or related field by start; apply by email with CV, publication list, research statement and two letters; no citizenship limit stated.",
+  "f": "Institute of Cosmos Sciences, University of Barcelona (project PID2025-169343NB-C22)",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "iccub-theory-particle-cosmology-astroparticle-postdoc",
+  "n": "ICCUB (University of Barcelona): Postdoc in Theoretical Particle Physics, Cosmology and Astroparticle Physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3226861",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://icc.ub.edu/node/1769676",
+  "us": false
+ },
+ {
   "a": "Approx. EUR 43,000-55,000 gross/yr; 3 years",
   "added": "2026-10-21",
   "asub": [
@@ -6230,6 +6263,39 @@
   ],
   "u": "https://hyperspace.uni-frankfurt.de/2026/11/03/postdoctoral-position-in-gravitational-waves-sciences-lisbon-portugal/",
   "unv": "Only the Hyperspace@GU post was found; it links to the CENTRA homepage, not a separate host ad. Salary not stated.",
+  "us": false
+ },
+ {
+  "a": "Not stated",
+  "added": "2026-11-11",
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": "2027-01-10",
+  "dt": "General call deadline 10 Jan 2027 (AJO lists 10 Feb 2027; one group says 31 Jan 2027, open until filled)",
+  "e": "Several 2027 postdoc positions across theoretical physics at ITP-CAS (particle/nuclear, QFT/strings, gravity/astro/cosmology, condensed matter, quantum information, statistical/biophysics). Requires a PhD in theoretical physics or related field and age under 35.",
+  "f": "Institute of Theoretical Physics, Chinese Academy of Sciences",
+  "fields": [
+   "ppt",
+   "grav",
+   "astro",
+   "cmt",
+   "qp",
+   "amo",
+   "nut"
+  ],
+  "id": "itp-cas-beijing-postdocs-2027",
+  "n": "ITP-CAS Beijing: Postdoctoral Positions Available in 2027",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33398",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33398",
+  "unv": "Deadline differs between AJO field and text; salary not stated",
   "us": false
  },
  {
@@ -11652,6 +11718,39 @@
   "us": false
  },
  {
+  "a": "2 years; salary not stated",
+  "added": "2026-11-11",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-11-11",
+  "d": "2026-12-23",
+  "dt": "AJO deadline 23 Dec 2026; posting text says applications by 6 Jan 2027",
+  "e": "Two-year IFPU postdoc in Trieste tied to SISSA's Astroparticle and Gravitational Physics group (astroparticle, dark matter/energy, LSS, early Universe, GW astrophysics, gravity); preference for neutral-hydrogen cosmology expertise. No nationality limits stated.",
+  "f": "SISSA Physics Area / IFPU",
+  "fields": [
+   "astro",
+   "grav",
+   "ppt"
+  ],
+  "id": "sissa-ifpu-postdoctoral-fellowship-2027",
+  "n": "SISSA / IFPU Trieste: Postdoctoral IFPU Fellowship",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33399",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33399",
+  "unv": "Two different deadlines given (23 Dec 2026 on AJO vs 6 Jan 2027 in text); start Fall 2027",
+  "us": false
+ },
+ {
   "a": "$70k–78k, 2+1 yr",
   "added": "2026-09-29",
   "c": "Fellowship",
@@ -14129,6 +14228,38 @@
   "us": false
  },
  {
+  "a": "Competitive salary (amount not stated); 2-3 yr, extendable to 5",
+  "added": "2026-11-11",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-11",
+  "d": "2027-01-04",
+  "dt": "Submission by 4 Jan 2027 strongly preferred; considered until filled",
+  "e": "2-3 postdoc positions in experiment, theory, data analysis, instrumentation or AI for high-energy neutrinos, gamma rays, cosmic rays and multi-messenger astrophysics (IceCube, Gen2, CTAO, ARA, RNO-G, HAWC, SWGO); all applicants are considered for the independent John Bahcall Fellowship. PhD required by start; no citizenship limits stated.",
+  "f": "Wisconsin IceCube Particle Astrophysics Center, UW-Madison",
+  "fields": [
+   "astro",
+   "nux",
+   "inst",
+   "ds"
+  ],
+  "id": "uw-madison-wipac-particle-astrophysics-postdocs",
+  "n": "UW-Madison WIPAC: Postdoctoral positions in Particle Astrophysics (incl. John Bahcall Fellowship)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33396",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33396",
+  "us": false
+ },
+ {
   "a": "$5,705–$6,000 per month base",
   "added": "2026-11-01",
   "asub": [
@@ -14282,6 +14413,37 @@
    "u": "https://researchdev.yale.edu/limited-submissions-internal-competitions",
    "unv": "No Keck internal deadline for the Dec 2026 cycle appeared in the public Yale Funding Opportunities newsletters (Jan to Jun 2026; the archive stops at Jun 3, 2026). The InfoReady listing needs a Yale NetID login. Timing inferred from Yale's general 12-week rule, not a posted date."
   }
+ },
+ {
+  "a": "$70,000 plus $10,000/yr research fund",
+  "added": "2026-11-11",
+  "c": "Fellowship",
+  "checked": "2026-11-11",
+  "d": "2026-11-15",
+  "dt": "Deadline Nov 15, 2026; start July 1, 2027",
+  "e": "Three-year prize fellowship. Fellows propose their own research in any department area: nuclear/particle, condensed matter, quantum information, biophysics or astrophysics. Current WashU Physics employees are not eligible.",
+  "f": "WashU Department of Physics",
+  "fields": [
+   "cmx",
+   "cmt",
+   "qp",
+   "nux",
+   "astro",
+   "bio"
+  ],
+  "id": "washington-university-in-st-louis-edwin-thompson-jaynes",
+  "n": "Washington University in St. Louis: Edwin Thompson Jaynes Postdoctoral Fellowship in Physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "other:wustl-JR96997-jaynes",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Danforth-Campus/Edwin-Thompson-Jaynes-Postdoctoral-Fellow-in-Physics_JR96997",
+  "us": false
  },
  {
   "added": "2026-10-17",
