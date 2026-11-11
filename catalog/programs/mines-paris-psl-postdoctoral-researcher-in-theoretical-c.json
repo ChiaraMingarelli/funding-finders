@@ -1,0 +1,32 @@
+{
+ "a": "Not stated",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": null,
+ "dt": "Open until filled; start by Sep 1, 2027",
+ "e": "36-month postdoc modelling driven-dissipative superconducting circuits with tensor networks, for qubit readout and bosonic-qubit stabilization. Requires a PhD from no more than five years before the start.",
+ "f": "Mines Paris - PSL",
+ "fields": [
+  "qp",
+  "cmt"
+ ],
+ "id": "mines-paris-psl-postdoctoral-researcher-in-theoretical-c",
+ "n": "Mines Paris - PSL: Postdoctoral Researcher in Theoretical Circuit QED (Petrescu)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "rolling",
+ "src": "other:minesparis-petrescu-cqed",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://sites.google.com/site/tpetresc/openings/postdoctoral-researcher-in-theoretical-circuit-quantum-electrodynamics",
+ "us": false
+}

@@ -1,0 +1,33 @@
+{
+ "a": "$72,879-$121,465 (Argonne posted hiring range)",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": null,
+ "dt": "Open until filled; posted 2026-10-27",
+ "e": "CNM Dynamics-theme postdoc studying ultrafast electronic, structural and nonequilibrium dynamics of MXenes with transient photoemission, transient absorption, ultrafast electron microscopy and cathodoluminescence. Requires a PhD in the last 0-5 years in experimental physics, chemistry, engineering or materials science.",
+ "f": "Argonne National Laboratory, Center for Nanoscale Materials",
+ "fields": [
+  "mat",
+  "cmx",
+  "phot"
+ ],
+ "id": "argonne-postdoc-ultrafast-dynamics-of-mxene-materials-cn",
+ "n": "Argonne National Laboratory: Postdoctoral Appointee, Ultrafast Dynamics of MXene Materials (CNM)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:anl-423619-mxene-ultrafast",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Ultrafast-Dynamics-of-MXene-Materials--NST-_423619",
+ "us": false
+}

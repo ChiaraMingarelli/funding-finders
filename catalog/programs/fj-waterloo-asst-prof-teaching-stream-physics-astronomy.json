@@ -1,0 +1,31 @@
+{
+ "a": "CAD 100,000-120,000 (higher considered for exceptional candidates)",
+ "added": "2026-11-11",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-11",
+ "d": "2026-11-30",
+ "dt": "Full consideration for applications received by Nov 30, 2026; review continues until filled",
+ "e": "Two permanence-track (probationary, leading to permanence) Assistant Professor, Teaching Stream posts; PhD in physics or related field required, focus on teaching (about six one-term courses per year), curriculum development and service. Apply via Waterloo OFAS; no citizenship limit stated.",
+ "f": "University of Waterloo, Department of Physics and Astronomy",
+ "fields": [
+  "astro",
+  "cmx",
+  "cmt"
+ ],
+ "id": "fj-waterloo-asst-prof-teaching-stream-physics-astronomy",
+ "n": "University of Waterloo: Assistant Professor, Teaching Stream, Physics and Astronomy (two posts)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "Canada",
+ "s": "open",
+ "src": "other:waterloo-teaching-stream-ap-2027",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://www.casca.ca/post/assistant-professors-teaching-stream-department-of-physics-astronomy",
+ "unv": "Teaching-stream (not research) appointment; official OFAS posting (https://ofas.uwaterloo.ca/) not opened, details taken from the CASCA repost.",
+ "us": false
+}

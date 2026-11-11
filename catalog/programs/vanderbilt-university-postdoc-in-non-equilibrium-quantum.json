@@ -1,0 +1,33 @@
+{
+ "a": "Not stated",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": null,
+ "dt": "Open until filled; flexible 2026-27 start",
+ "e": "Postdoc in a new quantum optoelectronics lab using electromagnetic drives to create, control and probe quantum phases in van der Waals materials. Contact the PI to apply.",
+ "f": "Vanderbilt University, Physics & Astronomy",
+ "fields": [
+  "cmx",
+  "phot",
+  "mat"
+ ],
+ "id": "vanderbilt-university-postdoc-in-non-equilibrium-quantum",
+ "n": "Vanderbilt University: Postdoc in Non-Equilibrium Quantum Materials (Day lab)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:vanderbilt-day-lab",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.daylab-vu.com/postdocad",
+ "us": false
+}

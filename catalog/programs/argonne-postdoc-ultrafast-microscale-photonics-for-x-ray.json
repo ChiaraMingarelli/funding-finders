@@ -1,0 +1,33 @@
+{
+ "a": "$72,879-$121,465 (Argonne posted hiring range)",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": null,
+ "dt": "Open until filled; posted 2026-06-25",
+ "e": "APS postdoc designing, simulating and testing nonlinear MEMS oscillators driven by storage-ring RF signals to manipulate X-ray pulses. Two years, possibly renewable for a third; requires a PhD in EE, ME, physics or a related field from the past five years.",
+ "f": "Argonne National Laboratory, Advanced Photon Source",
+ "fields": [
+  "phot",
+  "inst",
+  "dev"
+ ],
+ "id": "argonne-postdoc-ultrafast-microscale-photonics-for-x-ray",
+ "n": "Argonne National Laboratory: Postdoctoral Appointee, Ultrafast Microscale Photonics for X-ray Optics (APS)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:anl-422989-mems-xray-photonics",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Ultrafast-Microscale-Photonics-for-X-ray-Optics_422989",
+ "us": false
+}

@@ -1,0 +1,34 @@
+{
+ "a": "Not stated",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": null,
+ "dt": "Immediate opening; no close date listed (IRC145587)",
+ "e": "T-4 postdoc using DFT, high-throughput methods and ML to discover and inverse-design topological 2D f-electron materials. Citizens of China, Iran, North Korea and Russia who are not US permanent residents are barred; no clearance is required.",
+ "f": "Los Alamos National Laboratory, Theoretical Division T-4",
+ "fields": [
+  "cmt",
+  "mat",
+  "ds"
+ ],
+ "id": "los-alamos-theory-postdoc-in-computational-materials-the",
+ "n": "Los Alamos National Laboratory: Theory Postdoc in Computational Materials Theory and Discovery (T-4)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:lanl-IRC145587",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://lanl.jobs/search/jobdetails/theory-postdoctoral-research-associate-in-computational-materials-theory-and-discovery/779041d0-2737-4093-a550-a7f4554b6b17",
+ "unv": "No posting or closing date shown",
+ "us": false
+}

@@ -1,0 +1,32 @@
+{
+ "a": "Competitive salary plus $5,000/yr research funds",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-11-11",
+ "d": "2026-12-01",
+ "dt": "Dec 1, 2026 for full consideration; rolling after",
+ "e": "Two-year fellowship (possible third year) on driven-dissipative systems, mixed-state phases and non-equilibrium topology, with no teaching duties. PhD in physics or a related field required; start by Sep 1, 2027.",
+ "f": "Simons Targeted Research Group on the Non-Equilibrium Frontier / Bard College and NYU",
+ "fields": [
+  "qp",
+  "cmt"
+ ],
+ "id": "bard-college-nyu-postdoctoral-fellowship-in-theoretical",
+ "n": "Bard College / NYU: Postdoctoral Fellowship in Theoretical Quantum Science (Prem & Mitra, Simons Non-Equilibrium Frontier)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "other:noneq-bard-nyu",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.non-eq.com/openings/bard-nyu",
+ "us": false
+}

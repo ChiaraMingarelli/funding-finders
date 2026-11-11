@@ -1,0 +1,31 @@
+{
+ "a": "Not stated",
+ "added": "2026-11-11",
+ "aud": [
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": null,
+ "dt": "No deadline; AJO listing until 13 Jan 2027",
+ "e": "Postdoc in Alex Jones' computer architecture lab on classical and quantum computer architectures, memory systems, compilers or quantum computing. PhD in CS, CE, physics or related; apply via SU job posting 104681.",
+ "f": "Syracuse University EECS / Institute for Quantum and Information Sciences",
+ "fields": [
+  "qp",
+  "ds"
+ ],
+ "id": "syracuse-jones-quantum-computer-architectures-postdoc",
+ "n": "Syracuse University: Postdoctoral Researcher, Classical and/or Quantum Computer Architectures (Jones group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "ajo:32514",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.sujobopps.com/postings/104681",
+ "unv": "Posted Aug 2026; salary and close date not stated",
+ "us": false
+}

@@ -1,0 +1,33 @@
+{
+ "a": "$72,879-$121,465 (Argonne posted hiring range)",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": null,
+ "dt": "Open until filled; posted 2026-06-01",
+ "e": "HPCAT postdoc using high-pressure platforms and upgraded APS x-ray beams to study materials across the solid-melt transition and melt/liquid structure. Requires a recent PhD (0-5 years) in physics, chemistry, materials science, geoscience or engineering with high-pressure experience.",
+ "f": "Argonne National Laboratory, HPCAT at the Advanced Photon Source",
+ "fields": [
+  "mat",
+  "cmx",
+  "inst"
+ ],
+ "id": "argonne-postdoc-research-at-extremes-of-pressure-tempera",
+ "n": "Argonne National Laboratory: Postdoctoral Appointee, Research at Extremes of Pressure, Temperature and Strain (HPCAT)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:anl-422744-hpcat-extremes",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Research-at-extremes-of-pressure--temperature-and-strain-at-HPCAT_422744",
+ "us": false
+}

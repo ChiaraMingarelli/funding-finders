@@ -1,0 +1,32 @@
+{
+ "a": "$63,968 minimum",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": null,
+ "dt": "No close date; posted Sep 20, 2026; start Fall 2027",
+ "e": "Several CMT postdocs: one Abrahams Postdoctoral Fellowship plus grant-funded posts on strongly correlated electrons (Haule) and non-equilibrium quantum dynamics (Pixley). Requires a PhD in condensed matter physics, materials science or similar by the start date.",
+ "f": "Rutgers University-New Brunswick, Physics & Astronomy",
+ "fields": [
+  "cmt"
+ ],
+ "id": "rutgers-center-for-materials-theory-postdoctoral-associa",
+ "n": "Rutgers Center for Materials Theory: Postdoctoral Associates in Condensed Matter Theory (incl. Abrahams Fellowship)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:rutgers-26FA0846",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.rutgers.edu/postings/281255",
+ "unv": "No closing date posted; a rumor-mill entry says review begins Nov 15",
+ "us": false
+}

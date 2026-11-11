@@ -1,0 +1,33 @@
+{
+ "a": "EUR 4,229-4,649/month",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": "2026-12-31",
+ "dt": "Deadline Dec 31, 2026; rolling screening",
+ "e": "Two-year postdoc on superconducting qubit/resonator circuits: axion detection with qubits, microwave/optical control, and continuous-variable processing with parametric amplifiers. PhD in physics, EE or CS (or nearly done); people from other quantum platforms may be considered.",
+ "f": "Aalto University, Department of Applied Physics",
+ "fields": [
+  "qp",
+  "dev",
+  "amo"
+ ],
+ "id": "aalto-university-postdoctoral-researcher-in-experimental",
+ "n": "Aalto University: Postdoctoral Researcher in Experimental Circuit QED (Kvantti group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:aalto-kvantti-cqed-pd",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.aalto.fi/en/open-positions/postdoctoral-researcher-in-the-field-of-superconducting-quantum-circuits",
+ "us": false
+}

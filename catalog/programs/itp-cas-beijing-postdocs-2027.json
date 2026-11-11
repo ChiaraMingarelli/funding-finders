@@ -1,0 +1,39 @@
+{
+ "a": "Not stated",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": "2027-01-10",
+ "dt": "General call deadline 10 Jan 2027 (AJO lists 10 Feb 2027; one group says 31 Jan 2027, open until filled)",
+ "e": "Several 2027 postdoc positions across theoretical physics at ITP-CAS (particle/nuclear, QFT/strings, gravity/astro/cosmology, condensed matter, quantum information, statistical/biophysics). Requires a PhD in theoretical physics or related field and age under 35.",
+ "f": "Institute of Theoretical Physics, Chinese Academy of Sciences",
+ "fields": [
+  "ppt",
+  "grav",
+  "astro",
+  "cmt",
+  "qp",
+  "amo",
+  "nut"
+ ],
+ "id": "itp-cas-beijing-postdocs-2027",
+ "n": "ITP-CAS Beijing: Postdoctoral Positions Available in 2027",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33398",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33398",
+ "unv": "Deadline differs between AJO field and text; salary not stated",
+ "us": false
+}

@@ -1,0 +1,33 @@
+{
+ "a": "2 years + possible 1; salary not stated",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": null,
+ "dt": "Review from 10 Jul 2026, until filled; AJO listing until 30 Nov 2026",
+ "e": "Theory postdoc on topological and correlated phenomena in 2D moire and 3D materials, unconventional superconductivity and non-equilibrium response, in Adarsh Patri's group. PhD in condensed matter theory by start; no citizenship limits stated.",
+ "f": "Temple University Physics",
+ "fields": [
+  "cmt",
+  "mat"
+ ],
+ "id": "temple-patri-condensed-matter-theory-postdoc",
+ "n": "Temple University: Postdoctoral Fellow, Condensed Matter Theory (Patri group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "ajo:32166",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32166",
+ "unv": "Posted June 2026 with Fall 2026 start; could not confirm it is still unfilled",
+ "us": false
+}

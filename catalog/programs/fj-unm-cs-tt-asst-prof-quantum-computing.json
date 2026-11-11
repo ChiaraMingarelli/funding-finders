@@ -1,0 +1,29 @@
+{
+ "a": "Not stated",
+ "added": "2026-11-11",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-11",
+ "d": "2026-12-05",
+ "dt": "Best consideration Dec 5, 2026; open until filled (Req #38093)",
+ "e": "Tenure-track assistant professor in computer science, with interest in quantum computing, theory and algorithms, or cybersecurity. Doctorate in CS or a closely related area needed by the start date; apply through UNMJobs, Req #38093.",
+ "f": "University of New Mexico, Department of Computer Science",
+ "fields": [
+  "qp"
+ ],
+ "id": "fj-unm-cs-tt-asst-prof-quantum-computing",
+ "n": "University of New Mexico: Tenure-Track Assistant Professor in Computer Science (quantum computing, theory, cybersecurity)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:unm-cs-38093",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://unmjobs.unm.edu/",
+ "unv": "Requisition page on UNMJobs not opened, so the link goes to the portal home; salary not stated. Ad seen on Quantiki (posted 13 Oct 2026). Computer science department, not physics.",
+ "us": false
+}

@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-10-12",
- "d": "2026-11-10",
- "dt": "Deadline Nov 10, 2026",
+ "checked": "2026-11-11",
+ "d": "2026-12-10",
+ "dt": "Applications by Nov 10, 2026 had full consideration; Interfolio deadline Dec 10, 2026, 11:59 PM ET",
  "e": "All areas, with particular interest in time-domain/transient astrophysics, stellar astrophysics, the Milky Way and the Local Group. Start Aug 2027.",
  "f": "Dept. of Astronomy, University of Texas at Austin",
  "fields": [
@@ -25,6 +25,6 @@
   "fj"
  ],
  "u": "https://apply.interfolio.com/192998",
- "unv": "Not re-verified on 2026-11-09: the AAS Job Register blocks automated access (403) and the Interfolio page needs JavaScript; a Nov 9 web search snippet of the AAS ad says complete applications received by Nov 10, 2026 are assured of full consideration.",
+ "unv": "AAS Job Register blocks automated access (403); deadline read from the Interfolio posting on 2026-11-11.",
  "us": false
 }

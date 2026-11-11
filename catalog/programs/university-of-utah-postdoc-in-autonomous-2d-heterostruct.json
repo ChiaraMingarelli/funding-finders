@@ -1,0 +1,33 @@
+{
+ "a": "Not stated",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": null,
+ "dt": "Open until filled; posted August 2026",
+ "e": "NSF-funded postdoc automating van der Waals heterostructure device fabrication and cryogenic transport measurement with robotics and AI. Apply by emailing a CV and three references to the PI.",
+ "f": "University of Utah, Physics & Astronomy",
+ "fields": [
+  "cmx",
+  "dev",
+  "mat"
+ ],
+ "id": "university-of-utah-postdoc-in-autonomous-2d-heterostruct",
+ "n": "University of Utah: Postdoc in Autonomous 2D Heterostructure Quantum Device Fabrication (Deshpande lab, NSF AURORA)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:utah-deshpande-aurora",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://deshpandegroup.github.io/vacancies",
+ "us": false
+}

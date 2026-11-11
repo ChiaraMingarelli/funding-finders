@@ -1,0 +1,33 @@
+{
+ "a": "TRY 65,000/month stipend plus TRY 250/day meal allowance and limited private health insurance; 18 months",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": "2026-12-10",
+ "dt": "Application deadline Dec 10, 2026",
+ "e": "18-month TÜBİTAK project fellowship on collision models for preparing multipartite entanglement and controlling energy and coherence in quantum networks. PhD in physics or related field by start date; apply by email with CV and two letters.",
+ "f": "Koç University / TÜBİTAK 1001",
+ "fields": [
+  "qp",
+  "amo"
+ ],
+ "id": "koc-quest-quantum-thermodynamics-postdoc",
+ "n": "Koç University: Postdoctoral Fellowship in Quantum Information Thermodynamics (QuEST group, Müstecaplıoğlu)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:quantiki-koc-quest-qit",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://quantiki.org/position/postdoctoral-fellowship-quantum-information-and-thermodynamics-ko%C3%A7-university-i%CC%87stanbul",
+ "unv": "Ad found only on Quantiki (posted 11 Nov 2026); no separate page on the host site was found. Citizenship rules for TÜBİTAK bursiyer status not stated.",
+ "us": false
+}

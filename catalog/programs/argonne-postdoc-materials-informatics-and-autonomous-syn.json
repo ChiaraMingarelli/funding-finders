@@ -1,0 +1,32 @@
+{
+ "a": "$72,879-$121,465 (Argonne posted hiring range)",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": null,
+ "dt": "Open until filled; posted 2026-06-22",
+ "e": "CNM postdoc developing AI/ML data resources, predictive models and closed-loop decision tools for self-driving materials synthesis labs. Requires a PhD in the last 0-5 years in chemistry, chemical engineering, materials science, polymer science, physics, CS or data science.",
+ "f": "Argonne National Laboratory, Center for Nanoscale Materials",
+ "fields": [
+  "mat",
+  "ds"
+ ],
+ "id": "argonne-postdoc-materials-informatics-and-autonomous-syn",
+ "n": "Argonne National Laboratory: Postdoctoral Appointee, Materials Informatics and Autonomous Synthesis (CNM)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:anl-422966-materials-informatics",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Materials-Informatics-and-Autonomous-Synthesis_422966",
+ "us": false
+}

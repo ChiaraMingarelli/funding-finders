@@ -1,0 +1,38 @@
+{
+ "a": "$72,879-$121,465 (Argonne posted hiring range)",
+ "added": "2026-11-11",
+ "asub": [
+  "cos",
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": null,
+ "dt": "Open until filled; posted 2026-04-17",
+ "e": "HEP Division postdoc designing, fabricating and characterizing microstrip-coupled TES bolometer arrays for South Pole Telescope focal planes, plus new superconducting-detector uses. Requires a PhD in the last 0-5 years in physics, EE, materials science or a related field.",
+ "f": "Argonne National Laboratory (HEP/MSD)",
+ "fields": [
+  "inst",
+  "dev",
+  "astro"
+ ],
+ "id": "argonne-postdoctoral-researcher-superconducting-detector",
+ "n": "Argonne National Laboratory: Postdoctoral Researcher, Superconducting Detector Development and CMB Instrumentation",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:anl-422591-tes-cmb",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Researcher---Superconducting-Detector-Development-and-CMB-Instrumentation_422591",
+ "unv": "Posted April 2026; still listed as open but no closing date",
+ "us": false
+}

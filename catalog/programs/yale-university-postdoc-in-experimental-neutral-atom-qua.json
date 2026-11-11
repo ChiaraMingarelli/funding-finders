@@ -1,0 +1,32 @@
+{
+ "a": "Not stated",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": null,
+ "dt": "Open until filled (YQI fellowship deadline Oct 4 passed)",
+ "e": "Postdoc for experimental AMO / quantum information work on neutral-atom quantum computing. Email a CV and research note; strong candidates may also apply for a YQI Postdoctoral Fellowship.",
+ "f": "Yale University",
+ "fields": [
+  "amo",
+  "qp"
+ ],
+ "id": "yale-university-postdoc-in-experimental-neutral-atom-qua",
+ "n": "Yale University: Postdoc in Experimental Neutral-Atom Quantum Computing (Bichen Zhang lab)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:yale-bichen-zhang",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://bichenzhang.github.io/contact.html",
+ "unv": "Informal lab-page call with no posting date",
+ "us": false
+}

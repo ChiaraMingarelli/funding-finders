@@ -1,0 +1,29 @@
+{
+ "a": "GBP 54,923-64,515 per year incl. London Weighting; indefinite contract",
+ "added": "2026-11-11",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-11",
+ "d": "2027-01-07",
+ "dt": "Closing date Jan 7, 2027",
+ "e": "Permanent (indefinite) research-and-teaching Lecturer post in mathematical aspects of complex and disordered systems: statistical and quantum mechanics of disorder, random matrices, spin glasses, nonequilibrium and many-body physics, quantum information. No citizenship limit stated.",
+ "f": "King's College London",
+ "fields": [
+  "cmt",
+  "qp"
+ ],
+ "id": "fj-kcl-lecturer-disordered-systems-maths",
+ "n": "King's College London: Lecturer in Disordered Systems (Department of Mathematics)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "other:kcl-163085-lecturer-disordered",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://my.corehr.com/pls/coreportal_kclp/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=I&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=163085",
+ "us": false
+}

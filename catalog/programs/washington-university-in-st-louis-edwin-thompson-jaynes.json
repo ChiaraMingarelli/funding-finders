@@ -1,0 +1,37 @@
+{
+ "a": "$70,000 plus $10,000/yr research fund",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-11-11",
+ "d": "2026-11-15",
+ "dt": "Deadline Nov 15, 2026; start July 1, 2027",
+ "e": "Three-year prize fellowship. Fellows propose their own research in any department area: nuclear/particle, condensed matter, quantum information, biophysics or astrophysics. Current WashU Physics employees are not eligible.",
+ "f": "WashU Department of Physics",
+ "fields": [
+  "cmx",
+  "cmt",
+  "qp",
+  "nux",
+  "astro",
+  "bio"
+ ],
+ "id": "washington-university-in-st-louis-edwin-thompson-jaynes",
+ "n": "Washington University in St. Louis: Edwin Thompson Jaynes Postdoctoral Fellowship in Physics",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "other:wustl-JR96997-jaynes",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Danforth-Campus/Edwin-Thompson-Jaynes-Postdoctoral-Fellow-in-Physics_JR96997",
+ "us": false
+}

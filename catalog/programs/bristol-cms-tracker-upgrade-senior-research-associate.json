@@ -1,0 +1,32 @@
+{
+ "a": "Not stated",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": "2026-11-24",
+ "dt": "Nov 24, 2026 (per INSPIRE listing); immediate start",
+ "e": "Postdoc to work on integration and commissioning of the CMS Tracker Upgrade, track-finder and DAQ. Funded to September 2027 with hoped-for extension to 2030; no citizenship limit stated.",
+ "f": "University of Bristol, CMS group",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "bristol-cms-tracker-upgrade-senior-research-associate",
+ "n": "University of Bristol: Senior Research Associate, CMS (Tracker Upgrade)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3226782",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.bristol.ac.uk/jobs/find/details/?jobId=392257",
+ "unv": "Bristol job page is JavaScript-rendered; closing date and salary not confirmed on host page.",
+ "us": false
+}

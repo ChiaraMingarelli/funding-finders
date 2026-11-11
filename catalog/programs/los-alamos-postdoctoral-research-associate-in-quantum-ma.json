@@ -1,0 +1,34 @@
+{
+ "a": "Not stated",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": null,
+ "dt": "Immediate opening; no close date listed (IRC146216)",
+ "e": "T-4 postdoc extending many-body perturbation theory to non-equilibrium problems to model STS spectra of transuranic compounds, with ML spectral analysis. Citizens of China, Iran, North Korea and Russia who are not US permanent residents are barred; no clearance is required.",
+ "f": "Los Alamos National Laboratory, Theoretical Division T-4",
+ "fields": [
+  "cmt",
+  "mat",
+  "ds"
+ ],
+ "id": "los-alamos-postdoctoral-research-associate-in-quantum-ma",
+ "n": "Los Alamos National Laboratory: Postdoctoral Research Associate in Quantum Many-Body Perturbation Theory (T-4)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:lanl-IRC146216",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://lanl.jobs/search/jobdetails/postdoctoral-research-associate-in-quantum-many-body-perturbation-theory/902b62e0-8f31-4a46-a0e0-a11e6743407c",
+ "unv": "No posting or closing date shown",
+ "us": false
+}

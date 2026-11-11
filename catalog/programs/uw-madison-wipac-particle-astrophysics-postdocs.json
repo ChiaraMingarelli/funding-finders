@@ -1,0 +1,38 @@
+{
+ "a": "Competitive salary (amount not stated); 2-3 yr, extendable to 5",
+ "added": "2026-11-11",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": "2027-01-04",
+ "dt": "Submission by 4 Jan 2027 strongly preferred; considered until filled",
+ "e": "2-3 postdoc positions in experiment, theory, data analysis, instrumentation or AI for high-energy neutrinos, gamma rays, cosmic rays and multi-messenger astrophysics (IceCube, Gen2, CTAO, ARA, RNO-G, HAWC, SWGO); all applicants are considered for the independent John Bahcall Fellowship. PhD required by start; no citizenship limits stated.",
+ "f": "Wisconsin IceCube Particle Astrophysics Center, UW-Madison",
+ "fields": [
+  "astro",
+  "nux",
+  "inst",
+  "ds"
+ ],
+ "id": "uw-madison-wipac-particle-astrophysics-postdocs",
+ "n": "UW-Madison WIPAC: Postdoctoral positions in Particle Astrophysics (incl. John Bahcall Fellowship)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33396",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33396",
+ "us": false
+}

@@ -1,0 +1,36 @@
+{
+ "a": "Salary 'comparable to other prestigious institutions' (not stated); annual contract, up to 3 years",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": "2026-12-31",
+ "dt": "Apply by 31 Dec 2026 for full consideration",
+ "e": "Several experimental postdocs at QUP Tsukuba on quantum-sensor searches (light dark matter, axions, NV centers, superconducting qubits, TES, SRF cavities for high-frequency GW, antimatter gravity, detectors). Open worldwide; exceptional candidates may be appointed Assistant Professor.",
+ "f": "KEK International Center for Quantum-field Measurement Systems (QUP, WPI)",
+ "fields": [
+  "ppx",
+  "inst",
+  "qp",
+  "amo",
+  "dev"
+ ],
+ "id": "kek-qup-experimental-postdoc-fellows-2027-round",
+ "n": "KEK QUP: QUP Postdoctoral Fellows in Experimental Physics (2027 round)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33354",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33354",
+ "unv": "Known file has an earlier posting with the same title (ajo:32184); this is a new ID (KEK-QUP-PD2026-4) posted 10 Nov 2026",
+ "us": false
+}

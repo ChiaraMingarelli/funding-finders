@@ -1,0 +1,38 @@
+{
+ "a": "2 years; salary not stated",
+ "added": "2026-11-11",
+ "asub": [
+  "cos",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-11-11",
+ "d": "2026-12-23",
+ "dt": "AJO deadline 23 Dec 2026; posting text says applications by 6 Jan 2027",
+ "e": "Two-year IFPU postdoc in Trieste tied to SISSA's Astroparticle and Gravitational Physics group (astroparticle, dark matter/energy, LSS, early Universe, GW astrophysics, gravity); preference for neutral-hydrogen cosmology expertise. No nationality limits stated.",
+ "f": "SISSA Physics Area / IFPU",
+ "fields": [
+  "astro",
+  "grav",
+  "ppt"
+ ],
+ "id": "sissa-ifpu-postdoctoral-fellowship-2027",
+ "n": "SISSA / IFPU Trieste: Postdoctoral IFPU Fellowship",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33399",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33399",
+ "unv": "Two different deadlines given (23 Dec 2026 on AJO vs 6 Jan 2027 in text); start Fall 2027",
+ "us": false
+}

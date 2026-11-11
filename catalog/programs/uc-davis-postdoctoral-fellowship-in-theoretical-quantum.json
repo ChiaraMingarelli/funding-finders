@@ -1,0 +1,32 @@
+{
+ "a": "Competitive salary plus $5,000/yr research funds",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-11-11",
+ "d": "2026-12-01",
+ "dt": "Dec 1, 2026 for full consideration; rolling after",
+ "e": "Two-year fellowship (possible third year) in quantum error correction, mixed-state phases and many-body entanglement; fellows may pursue their own directions. PhD in physics, CS, math or a related field, completed or near completion; start by Sep 1, 2027.",
+ "f": "Simons Targeted Research Group on the Non-Equilibrium Frontier / UC Davis",
+ "fields": [
+  "qp",
+  "cmt"
+ ],
+ "id": "uc-davis-postdoctoral-fellowship-in-theoretical-quantum",
+ "n": "UC Davis: Postdoctoral Fellowship in Theoretical Quantum Science (Isaac Kim, Simons Non-Equilibrium Frontier)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "other:noneq-davis-kim",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.non-eq.com/openings/davis",
+ "us": false
+}

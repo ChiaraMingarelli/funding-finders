@@ -1,0 +1,32 @@
+{
+ "a": "2 years, extendable; salary not stated",
+ "added": "2026-11-11",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-11",
+ "d": "2027-03-05",
+ "dt": "Closing date 5 Mar 2027; review began immediately, until filled",
+ "e": "Two-year postdoc on theory of altermagnetic materials, unconventional magnetism and superconductivity in Constantin Schrade's group; start from November 2026. PhD in physics or related field; no citizenship limits stated.",
+ "f": "LSU Department of Physics & Astronomy",
+ "fields": [
+  "cmt",
+  "mat"
+ ],
+ "id": "lsu-schrade-cmt-altermagnetism-postdoc",
+ "n": "Louisiana State University: Postdoctoral Researcher, Theoretical Condensed Matter Physics (Schrade group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33392",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33392",
+ "us": false
+}
