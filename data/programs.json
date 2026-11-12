@@ -766,9 +766,9 @@
    "ap"
   ],
   "c": "Compute",
-  "checked": "2026-11-09",
-  "d": "2026-11-11",
-  "dt": "Fall 2026 call open; submission period extended to Nov 11, 2026",
+  "checked": "2026-11-12",
+  "d": null,
+  "dt": "Last deadline Nov 11, 2026 (Fall 2026 call, extended); the next call is not posted yet",
   "e": "Academic PIs; calls are topic-specific (e.g., Agentic AI, Build on Trainium).",
   "f": "Amazon",
   "fields": [
@@ -778,7 +778,7 @@
   "n": "Amazon Research Awards",
   "nfit": "Low",
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "stages": [
    "tt",
    "ten"
@@ -5050,6 +5050,40 @@
   "us": false
  },
  {
+  "a": "1+1 years from Jan 1, 2027; EUR 35,650.44 gross in year 1",
+  "added": "2026-11-12",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2026-11-27",
+  "dt": "Email application before Nov 27, 2026 (the Quantiki deadline field says Nov 30)",
+  "e": "Two-year experimental postdoc on room-temperature perovskite quantum-dot and hBN single-photon emitters for reference quantum-photonic chips, funded by the Basque IKUR Quantum Technologies initiative. Requires a PhD in physics or materials science.",
+  "f": "Materials Physics Center (CFM, CSIC-UPV/EHU), Nanomaterials and Spectroscopy Group (Yury Rakovich)",
+  "fields": [
+   "phot",
+   "qp",
+   "mat"
+  ],
+  "id": "cfm-san-sebastian-chiral-single-photon-sources-postdoc",
+  "n": "Materials Physics Center (San Sebastián): Postdoc on chiral single-photon sources and quantum-photonic chips",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-cfm-rakovich-chiral-spe",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://quantiki.org/position/2-years-postdoctoral-researcher-position-development-chiral-single-photon-sources-and",
+  "unv": "No separate host ad found; applications go by email to the CFM. Deadline differs between ad text (Nov 27) and Quantiki field (Nov 30).",
+  "us": false
+ },
+ {
   "a": "$27,000 for one year",
   "added": "2026-10-01",
   "aud": [
@@ -8065,38 +8099,6 @@
    "pd"
   ],
   "u": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/preview/15039/?mode=location",
-  "us": false
- },
- {
-  "a": "Grade UE08, £50,253–£61,759 per year; 24-month fixed term",
-  "added": "2026-10-15",
-  "aud": [
-   "yale",
-   "ng",
-   "ap"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-11",
-  "dt": "Nov 11, 2026, 11:59pm UK time",
-  "e": "Up to three 24-month fellows developing quantum-computing applications in health, materials, finance, energy, AI and cybersecurity with the Quantum Software Lab, NQCC and partners under the UK QATCH programme.",
-  "f": "School of Informatics, University of Edinburgh",
-  "fields": [
-   "qp",
-   "ds"
-  ],
-  "id": "edinburgh-qsl-quantum-innovation-fellows",
-  "n": "University of Edinburgh Quantum Software Lab: Quantum Innovation Fellows (QATCH)",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "other:quantiki-edinburgh-qsl-innovation-fellow",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15038",
   "us": false
  },
  {
@@ -14846,9 +14848,9 @@
    "ast"
   ],
   "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-11",
-  "dt": "Nov 11, 2026, 5:00 pm EST; considered until filled",
+  "checked": "2026-11-12",
+  "d": null,
+  "dt": "Applications were due Nov 11, 2026, 5:00 pm EST; considered until the positions are filled",
   "e": "Theory, simulations, instrumentation or mission design for the Black Hole Explorer (BHEX) space-VLBI mission. Start Sep 1, 2027.",
   "f": "Harvard University, Black Hole Initiative (Michael Johnson, BHEX PI; Peter Galison)",
   "fields": [
@@ -14862,7 +14864,7 @@
   "nom": false,
   "pt": "group",
   "region": "US",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:32741",
   "stages": [
    "pd"
@@ -16975,6 +16977,43 @@
   "us": false
  },
  {
+  "a": "FAPESP postdoctoral fellowship, at least 36 months, extendable by 12 months",
+  "added": "2026-11-12",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2026-12-01",
+  "dt": "Applications received after Dec 1, 2026 will not be considered",
+  "e": "Postdoc on simulations, numerical methods and machine learning for high-energy cosmic rays, neutrinos and gamma rays in the FAPESP project Astroparticle Physics at the Extremes; the group works with GRAND, CTAO, H.E.S.S. and SWGO. Apply by email.",
+  "f": "University of São Paulo, São Carlos Institute of Physics (Rafael Alves Batista)",
+  "fields": [
+   "astro",
+   "ppx"
+  ],
+  "id": "ifsc-usp-sao-carlos-astroparticle-postdoc-apex",
+  "n": "IFSC-USP São Carlos: Postdoc in computational astroparticle physics (APEx)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227098",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3227098",
+  "unv": "Stipend set by FAPESP rates; not stated in the posting.",
+  "us": false
+ },
+ {
   "a": "Several postdocs starting fall 2027 (ERC Starting Grant SymQuaG, PI Dierigl; ATRAE grant, PI Valenzuela)",
   "added": "2026-11-05",
   "aud": [
@@ -17109,6 +17148,40 @@
    "pd"
   ],
   "u": "https://wiki.ligo.org/LAAC/JobPostings#Postdoctoral_and_Tenure_45track_fellowships_at_IGFAE_GW_group",
+  "us": false
+ },
+ {
+  "a": "3 years (Spanish government Juan de la Cierva fellowship)",
+  "added": "2026-11-12",
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-11-12",
+  "d": "2026-11-26",
+  "dt": "Candidate application form Nov 12 to Nov 26, 2026; contact a potential supervisor early",
+  "e": "IGFAE invites early-career researchers to apply with it as host for the 2026 Juan de la Cierva three-year postdoctoral fellowships in particle, nuclear and astroparticle physics. PhD awarded between Jan 1, 2024 and Dec 31, 2026 (extensions possible in justified cases).",
+  "f": "Galician Institute of High Energy Physics (IGFAE), University of Santiago de Compostela",
+  "fields": [
+   "ppx",
+   "ppt",
+   "astro"
+  ],
+  "id": "igfae-juan-de-la-cierva-2026-eoi",
+  "n": "IGFAE (Santiago de Compostela): Juan de la Cierva 2026 postdoctoral fellowships (expressions of interest)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227093",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-juan-cierva-2026/convocatoria",
+  "unv": "Salary amount not checked.",
   "us": false
  },
  {
@@ -18288,6 +18361,37 @@
   "us": false
  },
  {
+  "a": "Two years; start Sep 2027",
+  "added": "2026-11-12",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2026-12-06",
+  "dt": "Dec 6, 2026",
+  "e": "Several two-year postdocs in axion phenomenology, effective field theories, low-energy QCD and particle astrophysics/cosmology, funded by a national project led by Luca Di Luzio. Apply by email.",
+  "f": "INFN Padova, High-Energy Theory Group (Luca Di Luzio)",
+  "fields": [
+   "ppt"
+  ],
+  "id": "infn-padova-theory-particle-postdocs-eoi-2027",
+  "n": "INFN Padova: Postdoctoral positions in theoretical particle physics (expressions of interest)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227092",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3227092",
+  "unv": "Salary not stated.",
+  "us": false
+ },
+ {
   "a": "EUR 36,000/yr gross, 2 years from fall 2027",
   "added": "2026-10-20",
   "aud": [
@@ -19000,6 +19104,37 @@
   "us": false
  },
  {
+  "a": "Two years; salary set by seniority",
+  "added": "2026-11-12",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2026-12-06",
+  "dt": "Dec 6, 2026, 23:59 CET",
+  "e": "Several two-year postdocs in collider phenomenology in the Italian project Collider Pathways to New Physics in the Precision Era, hosted at one of the participating universities or INFN sections. Apply by email, stating preferred host.",
+  "f": "University of Padua, University of Bologna, Sapienza University of Rome and INFN groups",
+  "fields": [
+   "ppt"
+  ],
+  "id": "italy-collider-pathways-pheno-postdocs-eoi-2027",
+  "n": "Padua, Bologna, Rome and INFN: Postdocs in collider phenomenology (Collider Pathways to New Physics)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227086",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3227086",
+  "unv": "Salary amount not stated.",
+  "us": false
+ },
+ {
   "a": "2 years, likely extension to a 3rd",
   "added": "2026-10-20",
   "aud": [
@@ -19424,6 +19559,37 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33060",
+  "us": false
+ },
+ {
+  "a": "Two years, possible third year; start fall 2027",
+  "added": "2026-11-12",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2026-11-29",
+  "dt": "Full consideration for applications received by Nov 29, 2026",
+  "e": "Postdoctoral positions in theoretical nuclear physics (QCD, hadronic and nuclear physics, Electron-Ion Collider) at the JLab Theory Center, starting fall 2027. Requires a PhD in theoretical nuclear or high energy physics.",
+  "f": "Thomas Jefferson National Accelerator Facility (JLab), Theory Center",
+  "fields": [
+   "nut"
+  ],
+  "id": "jlab-theory-center-nuclear-theory-postdocs-2027",
+  "n": "Jefferson Lab Theory Center: Postdoctoral Fellow positions in nuclear theory",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33405",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33405",
+  "unv": "Salary not stated.",
   "us": false
  },
  {
@@ -23479,6 +23645,43 @@
   ],
   "u": "https://aas.org/jobregister/ad/07007ae4",
   "unv": "The AAS Job Register blocks automated access (HTTP 403; not tried again on Nov 9, 2026) and no MPIA host ad for Ref. 430 could be found (MPIA's English job board said on Nov 9, 2026 that no postdoc positions are open there), so the deadline and details were not reconfirmed; search-engine snippets of the AAS ad still give Nov 15, 2026.",
+  "us": false
+ },
+ {
+  "a": "Start fall 2027",
+  "added": "2026-11-12",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2026-12-13",
+  "dt": "Dec 13, 2026",
+  "e": "Postdoctoral appointments in theoretical particle physics, BSM, amplitudes, string theory, astroparticle physics, cosmology and gravitational theories. Apply through the MPP portal.",
+  "f": "Max Planck Institute for Physics, Theory Department",
+  "fields": [
+   "ppt",
+   "astro",
+   "grav"
+  ],
+  "id": "mpp-garching-theory-postdocs-2027",
+  "n": "Max Planck Institute for Physics (Garching): Postdocs in the Theory Department",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227082",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://apply.mpp.mpg.de/TH-2027/",
+  "unv": "Salary and term not stated.",
   "us": false
  },
  {
@@ -33261,6 +33464,37 @@
   "us": false
  },
  {
+  "a": "1 year from Mar 1, 2027, extension possible; salary per Danish collective agreement",
+  "added": "2026-11-12",
+  "aud": [
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2026-12-15",
+  "dt": "Dec 15, 2026, 23:59 CET",
+  "e": "One-year postdoc on hybrid quantum-classical machine learning under realistic hardware constraints in an engineering department. Requires a PhD in computer science, engineering, quantum computing, machine learning or a related field earned within the last six years.",
+  "f": "University of Southern Denmark, SDU Microelectronics (Alberto Marchisio)",
+  "fields": [
+   "qp",
+   "ds"
+  ],
+  "id": "sdu-hardware-aware-quantum-ml-postdoc",
+  "n": "University of Southern Denmark: Postdoc in hardware-aware quantum machine learning",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:sdu-ime-hw-aware-qml-postdoc",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4445",
+  "unv": "The ad mentions screening for critical technologies, so nationality-related screening may apply; salary amount not stated.",
+  "us": false
+ },
+ {
   "a": "Several 2–3 year positions, start Aug 1, 2027 or later; salary not stated",
   "added": "2026-11-07",
   "aud": [
@@ -33504,6 +33738,38 @@
   ],
   "u": "https://university-of-sheffield.contactrh.com/jobs/11046/44549997",
   "unv": "UK visa sponsorship and start date are not stated in the ad.",
+  "us": false
+ },
+ {
+  "a": "Two years, extendable; start spring 2027",
+  "added": "2026-11-12",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2027-01-31",
+  "dt": "Jan 31, 2027",
+  "e": "Postdoc on constructing universal logical gate sets and hardware/algorithm co-design for fault-tolerant quantum computing, co-hosted by the Grans-Samuelsson and Kourtis groups.",
+  "f": "Université de Sherbrooke, Institut quantique (Linnea Grans-Samuelsson, Stefanos Kourtis)",
+  "fields": [
+   "qp"
+  ],
+  "id": "sherbrooke-fault-tolerant-qc-postdoc",
+  "n": "Université de Sherbrooke: Postdoc on fault-tolerance schemes in quantum computing",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "open",
+  "src": "ajo:33390",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33390",
+  "unv": "Salary not stated.",
   "us": false
  },
  {
@@ -35118,6 +35384,37 @@
   "us": false
  },
  {
+  "a": "1-year and 2-year posts, funded by an STFC Consolidated Grant",
+  "added": "2026-11-12",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2027-01-08",
+  "dt": "Jan 8, 2027 (apply separately for each post)",
+  "e": "Two postdoctoral posts on applications of lattice field theory within the TELOS collaboration. Candidates interested in both posts submit two applications.",
+  "f": "Swansea University, Centre for Quantum Fields and Gravity",
+  "fields": [
+   "ppt"
+  ],
+  "id": "swansea-telos-lattice-pdra-positions",
+  "n": "Swansea University: Two lattice field theory postdoctoral research associates (TELOS)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227121",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.swansea.ac.uk/jobs-at-swansea/current-vacancies/details/?opening-id=11482",
+  "unv": "Salary not checked on the Swansea vacancy pages (second post: opening-id=11483).",
+  "us": false
+ },
+ {
   "a": "NASA funding only, no new Swift observing time: up to $1.0M in total for about 20 one-year awards",
   "added": "2026-10-03",
   "asub": [
@@ -35591,34 +35888,6 @@
   "us": false
  },
  {
-  "a": "not listed",
-  "added": "2026-09-30",
-  "aud": [
-   "yale"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-11",
-  "dt": "Nov 11, 2026",
-  "e": "Develop a long-lived-particle trigger for ATLAS at the HL-LHC. Requires a PhD in experimental particle physics.",
-  "f": "Tel Aviv University; PI Yan Benhammou",
-  "fields": [
-   "ppx",
-   "inst"
-  ],
-  "id": "tel-aviv-u-atlas-long-lived-particle-trigger-postdoc",
-  "n": "Tel Aviv U.: ATLAS long-lived particle trigger postdoc",
-  "nom": false,
-  "pt": "group",
-  "s": "open",
-  "src": "inspire:3200072",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://inspirehep.net/jobs/3200072",
-  "us": false
- },
- {
   "a": "2 years + possible 1; salary not stated",
   "added": "2026-11-11",
   "aud": [
@@ -35873,39 +36142,6 @@
   ],
   "u": "https://quantiki.org/position/post-doctoralsenior-researcher-positions-quantum-error-correction-theory-tii-abu-dhabi",
   "unv": "No separate host ad found; details from the PI's Quantiki posting of Oct 15, 2026 (deadline earlier recorded as Apr 1, 2027). Salary figure not stated.",
-  "us": false
- },
- {
-  "a": "Canada Impact+ Research Training Award (postdoctoral level)",
-  "added": "2026-11-05",
-  "aud": [
-   "yale",
-   "ng",
-   "ap"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-11",
-  "dt": "Nov 11, 2026 (TRIUMF seeks a candidate to nominate)",
-  "e": "TRIUMF's Centre for Molecular and Materials Science and Scientific Computing Department seek a postdoctoral-level candidate to nominate for a Canada Impact+ Research Training Award, on linking µSR and β-NMR experiments with analog quantum simulation.",
-  "f": "TRIUMF",
-  "fields": [
-   "cmx",
-   "qp"
-  ],
-  "id": "triumf-canada-impact-plus-musr-quantum-simulation",
-  "n": "TRIUMF: Canada Impact+ Research Training Award nominee (µSR, β-NMR and analog quantum simulation)",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "Canada",
-  "s": "open",
-  "src": "inspire:3221912",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://inspirehep.net/jobs/3221912",
-  "unv": "Eligibility rules of the Canada Impact+ award (citizenship, years since PhD) not checked.",
   "us": false
  },
  {
@@ -37953,6 +38189,43 @@
   "us": false
  },
  {
+  "a": "Three years from fall 2027; Bhaumik Prize Postdoc Fellowships may be awarded",
+  "added": "2026-11-12",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2026-12-10",
+  "dt": "Dec 10, 2026",
+  "e": "Several postdoctoral positions in theoretical particle physics and string theory; experts in gravitational radiation are also welcome. Especially strong candidates may receive a Bhaumik Prize Postdoc Fellowship.",
+  "f": "University of California, Los Angeles, Mani L. Bhaumik Institute for Theoretical Physics",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "ucla-bhaumik-institute-theory-postdocs-2027",
+  "n": "UCLA Mani L. Bhaumik Institute: Postdoctoral positions in theoretical physics",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33412",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33412",
+  "unv": "Salary not stated.",
+  "us": false
+ },
+ {
   "a": "About $75K, may be adjusted by experience; 2-3 years",
   "added": "2026-10-30",
   "aud": [
@@ -38722,6 +38995,43 @@
   ],
   "u": "https://inspirehep.net/jobs/3220789",
   "unv": "The group site (physth.ulb.be) has no job page, so a host ad could not be checked; the mobility requirement is not explained.",
+  "us": false
+ },
+ {
+  "a": "Not stated",
+  "added": "2026-11-12",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2027-01-15",
+  "dt": "Jan 15, 2027 (INSPIRE deadline field)",
+  "e": "One or more postdocs analyzing IceCube Neutrino Observatory data: neutrino source searches, realtime multi-messenger alerts and IceCube-Gen2 development. Requires a PhD in physics, astronomy or astrophysics.",
+  "f": "University of Maryland, College Park, Department of Physics (IceCube group)",
+  "fields": [
+   "astro",
+   "ppx"
+  ],
+  "id": "umd-icecube-particle-astrophysics-postdoc",
+  "n": "University of Maryland: Postdoctoral Research Associate in Experimental Particle Astrophysics (IceCube)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3227141",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3227141",
+  "unv": "Only the INSPIRE listing was found; salary and term not stated, and the deadline is taken from INSPIRE.",
   "us": false
  },
  {
@@ -39681,6 +39991,43 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32373",
   "unv": "Salary and start date not stated in the posting.",
+  "us": false
+ },
+ {
+  "a": "Start Sep 1, 2027",
+  "added": "2026-11-12",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2026-12-15",
+  "dt": "Dec 15, 2026",
+  "e": "Six or more postdocs in formal quantum field theory and string theory, scattering amplitudes, black hole dynamics and gravitational physics, funded by ERC, Swedish Research Council, Olle Engkvist and Wallenberg grants.",
+  "f": "Uppsala University, Department of Physics and Astronomy, Theory Division",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "uppsala-theoretical-physics-postdocs-2027",
+  "n": "Uppsala University: Six or more postdocs in theoretical physics",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33415",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33415",
+  "unv": "Salary and term not stated.",
   "us": false
  },
  {
@@ -41353,6 +41700,41 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3132348",
+  "us": false
+ },
+ {
+  "a": "Two years; salary negotiable",
+  "added": "2026-11-12",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": null,
+  "dt": "No deadline stated; flexible start",
+  "e": "One postdoc in loop quantum gravity, spinfoams, gravitational path integrals and asymptotic safety, with links to black holes, gravitational waves and cosmology. Applicants must be under 35.",
+  "f": "Westlake University, Institute for Theoretical Sciences",
+  "fields": [
+   "grav"
+  ],
+  "id": "westlake-quantum-gravity-group-postdoc",
+  "n": "Westlake University: Postdoc in the Quantum Gravity Group",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "ajo:33413",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33413",
   "us": false
  },
  {

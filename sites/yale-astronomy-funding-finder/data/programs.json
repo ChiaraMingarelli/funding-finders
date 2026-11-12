@@ -4361,9 +4361,9 @@
    "he"
   ],
   "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-11",
-  "dt": "Nov 11, 2026, 5:00 pm EST; considered until filled",
+  "checked": "2026-11-12",
+  "d": null,
+  "dt": "Applications were due Nov 11, 2026, 5:00 pm EST; considered until the positions are filled",
   "e": "Theory, simulations, instrumentation or mission design for the Black Hole Explorer (BHEX) space-VLBI mission. Start Sep 1, 2027.",
   "f": "Harvard University, Black Hole Initiative (Michael Johnson, BHEX PI; Peter Galison)",
   "fields": [
@@ -4377,7 +4377,7 @@
   "nom": false,
   "pt": "group",
   "region": "US",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:32741",
   "stages": [
    "pd"
@@ -5359,6 +5359,37 @@
   "us": false
  },
  {
+  "a": "FAPESP postdoctoral fellowship, at least 36 months, extendable by 12 months",
+  "added": "2026-11-12",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2026-12-01",
+  "dt": "Applications received after Dec 1, 2026 will not be considered",
+  "e": "Postdoc on simulations, numerical methods and machine learning for high-energy cosmic rays, neutrinos and gamma rays in the FAPESP project Astroparticle Physics at the Extremes; the group works with GRAND, CTAO, H.E.S.S. and SWGO. Apply by email.",
+  "f": "University of São Paulo, São Carlos Institute of Physics (Rafael Alves Batista)",
+  "fields": [
+   "astro",
+   "ppx"
+  ],
+  "id": "ifsc-usp-sao-carlos-astroparticle-postdoc-apex",
+  "n": "IFSC-USP São Carlos: Postdoc in computational astroparticle physics (APEx)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227098",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3227098",
+  "unv": "Stipend set by FAPESP rates; not stated in the posting.",
+  "us": false
+ },
+ {
   "added": "2026-10-20",
   "asub": [
    "cos"
@@ -5445,6 +5476,35 @@
    "pd"
   ],
   "u": "https://wiki.ligo.org/LAAC/JobPostings#Postdoctoral_and_Tenure_45track_fellowships_at_IGFAE_GW_group",
+  "us": false
+ },
+ {
+  "a": "3 years (Spanish government Juan de la Cierva fellowship)",
+  "added": "2026-11-12",
+  "c": "Fellowship",
+  "checked": "2026-11-12",
+  "d": "2026-11-26",
+  "dt": "Candidate application form Nov 12 to Nov 26, 2026; contact a potential supervisor early",
+  "e": "IGFAE invites early-career researchers to apply with it as host for the 2026 Juan de la Cierva three-year postdoctoral fellowships in particle, nuclear and astroparticle physics. PhD awarded between Jan 1, 2024 and Dec 31, 2026 (extensions possible in justified cases).",
+  "f": "Galician Institute of High Energy Physics (IGFAE), University of Santiago de Compostela",
+  "fields": [
+   "ppx",
+   "ppt",
+   "astro"
+  ],
+  "id": "igfae-juan-de-la-cierva-2026-eoi",
+  "n": "IGFAE (Santiago de Compostela): Juan de la Cierva 2026 postdoctoral fellowships (expressions of interest)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227093",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-juan-cierva-2026/convocatoria",
+  "unv": "Salary amount not checked.",
   "us": false
  },
  {
@@ -8270,6 +8330,38 @@
   ],
   "u": "https://aas.org/jobregister/ad/07007ae4",
   "unv": "The AAS Job Register blocks automated access (HTTP 403; not tried again on Nov 9, 2026) and no MPIA host ad for Ref. 430 could be found (MPIA's English job board said on Nov 9, 2026 that no postdoc positions are open there), so the deadline and details were not reconfirmed; search-engine snippets of the AAS ad still give Nov 15, 2026.",
+  "us": false
+ },
+ {
+  "a": "Start fall 2027",
+  "added": "2026-11-12",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2026-12-13",
+  "dt": "Dec 13, 2026",
+  "e": "Postdoctoral appointments in theoretical particle physics, BSM, amplitudes, string theory, astroparticle physics, cosmology and gravitational theories. Apply through the MPP portal.",
+  "f": "Max Planck Institute for Physics, Theory Department",
+  "fields": [
+   "ppt",
+   "astro",
+   "grav"
+  ],
+  "id": "mpp-garching-theory-postdocs-2027",
+  "n": "Max Planck Institute for Physics (Garching): Postdocs in the Theory Department",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227082",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://apply.mpp.mpg.de/TH-2027/",
+  "unv": "Salary and term not stated.",
   "us": false
  },
  {
@@ -13408,6 +13500,37 @@
   "us": false
  },
  {
+  "a": "Three years from fall 2027; Bhaumik Prize Postdoc Fellowships may be awarded",
+  "added": "2026-11-12",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2026-12-10",
+  "dt": "Dec 10, 2026",
+  "e": "Several postdoctoral positions in theoretical particle physics and string theory; experts in gravitational radiation are also welcome. Especially strong candidates may receive a Bhaumik Prize Postdoc Fellowship.",
+  "f": "University of California, Los Angeles, Mani L. Bhaumik Institute for Theoretical Physics",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "ucla-bhaumik-institute-theory-postdocs-2027",
+  "n": "UCLA Mani L. Bhaumik Institute: Postdoctoral positions in theoretical physics",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33412",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33412",
+  "unv": "Salary not stated.",
+  "us": false
+ },
+ {
   "a": "2 years, renewable for a third",
   "added": "2026-10-01",
   "asub": [
@@ -13692,6 +13815,37 @@
   "us": false
  },
  {
+  "a": "Not stated",
+  "added": "2026-11-12",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2027-01-15",
+  "dt": "Jan 15, 2027 (INSPIRE deadline field)",
+  "e": "One or more postdocs analyzing IceCube Neutrino Observatory data: neutrino source searches, realtime multi-messenger alerts and IceCube-Gen2 development. Requires a PhD in physics, astronomy or astrophysics.",
+  "f": "University of Maryland, College Park, Department of Physics (IceCube group)",
+  "fields": [
+   "astro",
+   "ppx"
+  ],
+  "id": "umd-icecube-particle-astrophysics-postdoc",
+  "n": "University of Maryland: Postdoctoral Research Associate in Experimental Particle Astrophysics (IceCube)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3227141",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3227141",
+  "unv": "Only the INSPIRE listing was found; salary and term not stated, and the deadline is taken from INSPIRE.",
+  "us": false
+ },
+ {
   "a": "Two years, possibly a third; start fall 2027; salary not stated",
   "added": "2026-10-28",
   "asub": [
@@ -13942,6 +14096,37 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32373",
   "unv": "Salary and start date not stated in the posting.",
+  "us": false
+ },
+ {
+  "a": "Start Sep 1, 2027",
+  "added": "2026-11-12",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2026-12-15",
+  "dt": "Dec 15, 2026",
+  "e": "Six or more postdocs in formal quantum field theory and string theory, scattering amplitudes, black hole dynamics and gravitational physics, funded by ERC, Swedish Research Council, Olle Engkvist and Wallenberg grants.",
+  "f": "Uppsala University, Department of Physics and Astronomy, Theory Division",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "uppsala-theoretical-physics-postdocs-2027",
+  "n": "Uppsala University: Six or more postdocs in theoretical physics",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33415",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33415",
+  "unv": "Salary and term not stated.",
   "us": false
  },
  {
@@ -14535,6 +14720,36 @@
   ],
   "u": "https://centers.weizmann.ac.il/AstroCenter/benoziyo-fellowship",
   "unv": "The AAS ad blocks automated access (HTTP 403). On Nov 2, 2026 the Weizmann Benoziyo Fellowship page still showed the 2025-26 cycle (closed, deadline Jan 15, 2026); on Nov 9, 2026 that page rejected automated requests. The Dec 15, 2026 deadline comes from the AAS listing only and was not reconfirmed.",
+  "us": false
+ },
+ {
+  "a": "Two years; salary negotiable",
+  "added": "2026-11-12",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": null,
+  "dt": "No deadline stated; flexible start",
+  "e": "One postdoc in loop quantum gravity, spinfoams, gravitational path integrals and asymptotic safety, with links to black holes, gravitational waves and cosmology. Applicants must be under 35.",
+  "f": "Westlake University, Institute for Theoretical Sciences",
+  "fields": [
+   "grav"
+  ],
+  "id": "westlake-quantum-gravity-group-postdoc",
+  "n": "Westlake University: Postdoc in the Quantum Gravity Group",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "ajo:33413",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33413",
   "us": false
  },
  {

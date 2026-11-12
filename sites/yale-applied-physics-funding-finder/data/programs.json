@@ -430,9 +430,9 @@
   "a": "Unrestricted gift + AWS credits",
   "added": "2026-09-28",
   "c": "Compute",
-  "checked": "2026-11-09",
-  "d": "2026-11-11",
-  "dt": "Fall 2026 call open; submission period extended to Nov 11, 2026",
+  "checked": "2026-11-12",
+  "d": null,
+  "dt": "Last deadline Nov 11, 2026 (Fall 2026 call, extended); the next call is not posted yet",
   "e": "Academic PIs; calls are topic-specific (e.g., Agentic AI, Build on Trainium).",
   "f": "Amazon",
   "fields": [
@@ -442,7 +442,7 @@
   "n": "Amazon Research Awards",
   "nfit": "Low",
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "stages": [
    "tt",
    "ten"
@@ -2630,6 +2630,35 @@
   "us": false
  },
  {
+  "a": "1+1 years from Jan 1, 2027; EUR 35,650.44 gross in year 1",
+  "added": "2026-11-12",
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2026-11-27",
+  "dt": "Email application before Nov 27, 2026 (the Quantiki deadline field says Nov 30)",
+  "e": "Two-year experimental postdoc on room-temperature perovskite quantum-dot and hBN single-photon emitters for reference quantum-photonic chips, funded by the Basque IKUR Quantum Technologies initiative. Requires a PhD in physics or materials science.",
+  "f": "Materials Physics Center (CFM, CSIC-UPV/EHU), Nanomaterials and Spectroscopy Group (Yury Rakovich)",
+  "fields": [
+   "phot",
+   "qp",
+   "mat"
+  ],
+  "id": "cfm-san-sebastian-chiral-single-photon-sources-postdoc",
+  "n": "Materials Physics Center (San Sebastián): Postdoc on chiral single-photon sources and quantum-photonic chips",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-cfm-rakovich-chiral-spe",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://quantiki.org/position/2-years-postdoctoral-researcher-position-development-chiral-single-photon-sources-and",
+  "unv": "No separate host ad found; applications go by email to the CFM. Deadline differs between ad text (Nov 27) and Quantiki field (Nov 30).",
+  "us": false
+ },
+ {
   "a": "Varies by RFA",
   "added": "2026-09-28",
   "c": "Foundation",
@@ -4174,33 +4203,6 @@
   ],
   "u": "https://www.electrochem.org/travel-grants",
   "unv": "Award amounts and the 251st meeting dates and location were not listed on the travel-grant page",
-  "us": false
- },
- {
-  "a": "Grade UE08, £50,253–£61,759 per year; 24-month fixed term",
-  "added": "2026-10-15",
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-11",
-  "dt": "Nov 11, 2026, 11:59pm UK time",
-  "e": "Up to three 24-month fellows developing quantum-computing applications in health, materials, finance, energy, AI and cybersecurity with the Quantum Software Lab, NQCC and partners under the UK QATCH programme.",
-  "f": "School of Informatics, University of Edinburgh",
-  "fields": [
-   "qp",
-   "ds"
-  ],
-  "id": "edinburgh-qsl-quantum-innovation-fellows",
-  "n": "University of Edinburgh Quantum Software Lab: Quantum Innovation Fellows (QATCH)",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "other:quantiki-edinburgh-qsl-innovation-fellow",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15038",
   "us": false
  },
  {
@@ -13161,6 +13163,34 @@
   "us": false
  },
  {
+  "a": "1 year from Mar 1, 2027, extension possible; salary per Danish collective agreement",
+  "added": "2026-11-12",
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2026-12-15",
+  "dt": "Dec 15, 2026, 23:59 CET",
+  "e": "One-year postdoc on hybrid quantum-classical machine learning under realistic hardware constraints in an engineering department. Requires a PhD in computer science, engineering, quantum computing, machine learning or a related field earned within the last six years.",
+  "f": "University of Southern Denmark, SDU Microelectronics (Alberto Marchisio)",
+  "fields": [
+   "qp",
+   "ds"
+  ],
+  "id": "sdu-hardware-aware-quantum-ml-postdoc",
+  "n": "University of Southern Denmark: Postdoc in hardware-aware quantum machine learning",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:sdu-ime-hw-aware-qml-postdoc",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4445",
+  "unv": "The ad mentions screening for critical technologies, so nationality-related screening may apply; salary amount not stated.",
+  "us": false
+ },
+ {
   "a": "Several 2–3 year positions, start Aug 1, 2027 or later; salary not stated",
   "added": "2026-11-07",
   "c": "Group postdoc",
@@ -13286,6 +13316,33 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32306",
+  "us": false
+ },
+ {
+  "a": "Two years, extendable; start spring 2027",
+  "added": "2026-11-12",
+  "c": "Group postdoc",
+  "checked": "2026-11-12",
+  "d": "2027-01-31",
+  "dt": "Jan 31, 2027",
+  "e": "Postdoc on constructing universal logical gate sets and hardware/algorithm co-design for fault-tolerant quantum computing, co-hosted by the Grans-Samuelsson and Kourtis groups.",
+  "f": "Université de Sherbrooke, Institut quantique (Linnea Grans-Samuelsson, Stefanos Kourtis)",
+  "fields": [
+   "qp"
+  ],
+  "id": "sherbrooke-fault-tolerant-qc-postdoc",
+  "n": "Université de Sherbrooke: Postdoc on fault-tolerance schemes in quantum computing",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "open",
+  "src": "ajo:33390",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33390",
+  "unv": "Salary not stated.",
   "us": false
  },
  {
@@ -14379,34 +14436,6 @@
   ],
   "u": "https://quantiki.org/position/post-doctoralsenior-researcher-positions-quantum-error-correction-theory-tii-abu-dhabi",
   "unv": "No separate host ad found; details from the PI's Quantiki posting of Oct 15, 2026 (deadline earlier recorded as Apr 1, 2027). Salary figure not stated.",
-  "us": false
- },
- {
-  "a": "Canada Impact+ Research Training Award (postdoctoral level)",
-  "added": "2026-11-05",
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-11",
-  "dt": "Nov 11, 2026 (TRIUMF seeks a candidate to nominate)",
-  "e": "TRIUMF's Centre for Molecular and Materials Science and Scientific Computing Department seek a postdoctoral-level candidate to nominate for a Canada Impact+ Research Training Award, on linking µSR and β-NMR experiments with analog quantum simulation.",
-  "f": "TRIUMF",
-  "fields": [
-   "cmx",
-   "qp"
-  ],
-  "id": "triumf-canada-impact-plus-musr-quantum-simulation",
-  "n": "TRIUMF: Canada Impact+ Research Training Award nominee (µSR, β-NMR and analog quantum simulation)",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "Canada",
-  "s": "open",
-  "src": "inspire:3221912",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://inspirehep.net/jobs/3221912",
-  "unv": "Eligibility rules of the Canada Impact+ award (citizenship, years since PhD) not checked.",
   "us": false
  },
  {
