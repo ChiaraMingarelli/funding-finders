@@ -1,0 +1,37 @@
+{
+ "a": "Start fall 2027",
+ "added": "2026-11-12",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-12",
+ "d": "2026-12-13",
+ "dt": "Dec 13, 2026",
+ "e": "Postdoctoral appointments in theoretical particle physics, BSM, amplitudes, string theory, astroparticle physics, cosmology and gravitational theories. Apply through the MPP portal.",
+ "f": "Max Planck Institute for Physics, Theory Department",
+ "fields": [
+  "ppt",
+  "astro",
+  "grav"
+ ],
+ "id": "mpp-garching-theory-postdocs-2027",
+ "n": "Max Planck Institute for Physics (Garching): Postdocs in the Theory Department",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3227082",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://apply.mpp.mpg.de/TH-2027/",
+ "unv": "Salary and term not stated.",
+ "us": false
+}

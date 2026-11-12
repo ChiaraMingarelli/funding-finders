@@ -1,0 +1,31 @@
+{
+ "a": "Two years, possible third year; start fall 2027",
+ "added": "2026-11-12",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-12",
+ "d": "2026-11-29",
+ "dt": "Full consideration for applications received by Nov 29, 2026",
+ "e": "Postdoctoral positions in theoretical nuclear physics (QCD, hadronic and nuclear physics, Electron-Ion Collider) at the JLab Theory Center, starting fall 2027. Requires a PhD in theoretical nuclear or high energy physics.",
+ "f": "Thomas Jefferson National Accelerator Facility (JLab), Theory Center",
+ "fields": [
+  "nut"
+ ],
+ "id": "jlab-theory-center-nuclear-theory-postdocs-2027",
+ "n": "Jefferson Lab Theory Center: Postdoctoral Fellow positions in nuclear theory",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33405",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33405",
+ "unv": "Salary not stated.",
+ "us": false
+}

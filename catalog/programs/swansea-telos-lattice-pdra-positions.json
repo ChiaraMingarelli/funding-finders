@@ -1,0 +1,31 @@
+{
+ "a": "1-year and 2-year posts, funded by an STFC Consolidated Grant",
+ "added": "2026-11-12",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-12",
+ "d": "2027-01-08",
+ "dt": "Jan 8, 2027 (apply separately for each post)",
+ "e": "Two postdoctoral posts on applications of lattice field theory within the TELOS collaboration. Candidates interested in both posts submit two applications.",
+ "f": "Swansea University, Centre for Quantum Fields and Gravity",
+ "fields": [
+  "ppt"
+ ],
+ "id": "swansea-telos-lattice-pdra-positions",
+ "n": "Swansea University: Two lattice field theory postdoctoral research associates (TELOS)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3227121",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.swansea.ac.uk/jobs-at-swansea/current-vacancies/details/?opening-id=11482",
+ "unv": "Salary not checked on the Swansea vacancy pages (second post: opening-id=11483).",
+ "us": false
+}

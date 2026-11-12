@@ -1,0 +1,32 @@
+{
+ "a": "Two years, extendable; start spring 2027",
+ "added": "2026-11-12",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-12",
+ "d": "2027-01-31",
+ "dt": "Jan 31, 2027",
+ "e": "Postdoc on constructing universal logical gate sets and hardware/algorithm co-design for fault-tolerant quantum computing, co-hosted by the Grans-Samuelsson and Kourtis groups.",
+ "f": "Université de Sherbrooke, Institut quantique (Linnea Grans-Samuelsson, Stefanos Kourtis)",
+ "fields": [
+  "qp"
+ ],
+ "id": "sherbrooke-fault-tolerant-qc-postdoc",
+ "n": "Université de Sherbrooke: Postdoc on fault-tolerance schemes in quantum computing",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "Canada",
+ "s": "open",
+ "src": "ajo:33390",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33390",
+ "unv": "Salary not stated.",
+ "us": false
+}

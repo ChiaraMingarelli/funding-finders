@@ -1,0 +1,37 @@
+{
+ "a": "FAPESP postdoctoral fellowship, at least 36 months, extendable by 12 months",
+ "added": "2026-11-12",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-12",
+ "d": "2026-12-01",
+ "dt": "Applications received after Dec 1, 2026 will not be considered",
+ "e": "Postdoc on simulations, numerical methods and machine learning for high-energy cosmic rays, neutrinos and gamma rays in the FAPESP project Astroparticle Physics at the Extremes; the group works with GRAND, CTAO, H.E.S.S. and SWGO. Apply by email.",
+ "f": "University of São Paulo, São Carlos Institute of Physics (Rafael Alves Batista)",
+ "fields": [
+  "astro",
+  "ppx"
+ ],
+ "id": "ifsc-usp-sao-carlos-astroparticle-postdoc-apex",
+ "n": "IFSC-USP São Carlos: Postdoc in computational astroparticle physics (APEx)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3227098",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3227098",
+ "unv": "Stipend set by FAPESP rates; not stated in the posting.",
+ "us": false
+}

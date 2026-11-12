@@ -1,0 +1,34 @@
+{
+ "a": "1+1 years from Jan 1, 2027; EUR 35,650.44 gross in year 1",
+ "added": "2026-11-12",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-12",
+ "d": "2026-11-27",
+ "dt": "Email application before Nov 27, 2026 (the Quantiki deadline field says Nov 30)",
+ "e": "Two-year experimental postdoc on room-temperature perovskite quantum-dot and hBN single-photon emitters for reference quantum-photonic chips, funded by the Basque IKUR Quantum Technologies initiative. Requires a PhD in physics or materials science.",
+ "f": "Materials Physics Center (CFM, CSIC-UPV/EHU), Nanomaterials and Spectroscopy Group (Yury Rakovich)",
+ "fields": [
+  "phot",
+  "qp",
+  "mat"
+ ],
+ "id": "cfm-san-sebastian-chiral-single-photon-sources-postdoc",
+ "n": "Materials Physics Center (San Sebastián): Postdoc on chiral single-photon sources and quantum-photonic chips",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:quantiki-cfm-rakovich-chiral-spe",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://quantiki.org/position/2-years-postdoctoral-researcher-position-development-chiral-single-photon-sources-and",
+ "unv": "No separate host ad found; applications go by email to the CFM. Deadline differs between ad text (Nov 27) and Quantiki field (Nov 30).",
+ "us": false
+}

@@ -1,0 +1,31 @@
+{
+ "a": "Two years; salary set by seniority",
+ "added": "2026-11-12",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-12",
+ "d": "2026-12-06",
+ "dt": "Dec 6, 2026, 23:59 CET",
+ "e": "Several two-year postdocs in collider phenomenology in the Italian project Collider Pathways to New Physics in the Precision Era, hosted at one of the participating universities or INFN sections. Apply by email, stating preferred host.",
+ "f": "University of Padua, University of Bologna, Sapienza University of Rome and INFN groups",
+ "fields": [
+  "ppt"
+ ],
+ "id": "italy-collider-pathways-pheno-postdocs-eoi-2027",
+ "n": "Padua, Bologna, Rome and INFN: Postdocs in collider phenomenology (Collider Pathways to New Physics)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3227086",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3227086",
+ "unv": "Salary amount not stated.",
+ "us": false
+}
