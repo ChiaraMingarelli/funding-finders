@@ -3010,6 +3010,42 @@
   "us": false
  },
  {
+  "a": "Not listed",
+  "added": "2026-11-13",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-13",
+  "d": "2026-12-30",
+  "dt": "Apply via AcademicJobsOnline by Dec 30, 2026",
+  "e": "Two 2-year postdocs (extendable to a third year) on flavor physics, SMEFT/precision probes and particle cosmology (dark matter, axions, phase transitions, gravitational waves), funded by the SNSF; start Fall 2027. Open to PhDs in theoretical particle physics, cosmology or related fields; no citizenship limits stated.",
+  "f": "University of Basel",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "basel-greljo-pd-particle-cosmo-2027",
+  "n": "University of Basel: Two postdocs in theoretical particle physics and cosmology (Greljo group)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227544",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33426",
+  "unv": "Salary figure not stated",
+  "us": false
+ },
+ {
   "a": "$224,000 over 2 years; instrumentation track up to $200,000 extra; optional 3rd year $118,000",
   "added": "2026-10-03",
   "aud": [
@@ -3513,6 +3549,71 @@
   "u": "https://www.bnl.gov/hr/goldhaber/",
   "unv": "2026/2027 call dates not posted as of the Oct 21, 2026 check; bnl.gov could not be read on Oct 26, Nov 2 or Nov 9, 2026 (TLS certificate error, HTTP 503).",
   "us": false
+ },
+ {
+  "a": "$74,050-$90,216/yr",
+  "added": "2026-11-13",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-13",
+  "d": null,
+  "dt": "No deadline stated; posted 6 Nov 2026",
+  "e": "A postdoc using synchrotron coherent x-ray scattering and x-ray photon correlation spectroscopy to study dynamics in strongly correlated quantum materials (charge, spin and orbital order), with the BNL X-ray Scattering Group. Applicants need a PhD in physics, materials science, physical chemistry or a related field and no more than 5 years of postdoc/R&D experience; no citizenship limit is stated, but DOE credentialing is required.",
+  "f": "Brookhaven National Laboratory, Condensed Matter Physics & Materials Science (X-ray Scattering Group)",
+  "fields": [
+   "cmx",
+   "mat"
+  ],
+  "id": "bnl-jr102793-coherent-xray-quantum-materials",
+  "n": "Brookhaven National Laboratory: Research Associate, Coherent X-ray Scattering of Quantum Materials",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:bnl-JR102793",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://bnl.wd1.myworkdayjobs.com/Externa/job/Upton-NY/Research-Associate---Coherent-X-ray-Scattering--Quantum-Materials_JR102793",
+  "unv": "Appointment length not stated.",
+  "us": true
+ },
+ {
+  "a": "$80,800-$84,000/yr",
+  "added": "2026-11-13",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-13",
+  "d": null,
+  "dt": "Review begins 1 Dec 2026; open until filled",
+  "e": "A two-year postdoc (one-year renewal possible) in the Nuclear Theory Group, working with Peter Petreczky and the C2QA quantum center on real-time problems where quantum field theory meets quantum information and quantum computing. Applicants need a PhD in nuclear/particle theory or quantum information science and no more than 5 years of postdoc/R&D experience; no citizenship limit is stated, but DOE credentialing is required.",
+  "f": "Brookhaven National Laboratory, Physics Division (Nuclear Theory Group) and Co-design Center for Quantum Advantage",
+  "fields": [
+   "nut",
+   "qp"
+  ],
+  "id": "bnl-jr102799-qft-qis-postdoc",
+  "n": "Brookhaven National Laboratory: Postdoctoral Research Associate, Quantum Field Theory and Quantum Information (Nuclear Theory / C2QA)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:bnl-JR102799",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://bnl.wd1.myworkdayjobs.com/Externa/job/Upton-NY/Postdoc-Research-Associate_JR102799",
+  "us": true
  },
  {
   "a": "2 years, possible extension to 3; salary not stated",
@@ -10343,9 +10444,9 @@
    "ng"
   ],
   "c": "Faculty job",
-  "checked": "2026-10-31",
-  "d": "2026-11-12",
-  "dt": "Review began Oct 30, 2026; deadline Nov 12; open until filled",
+  "checked": "2026-11-13",
+  "d": null,
+  "dt": "Review began Oct 30, 2026; priority deadline Nov 12 has passed; open until filled",
   "e": "Any area of astronomy/astrophysics, with a research program that involves undergraduates.",
   "f": "Dept. of Physics, McDaniel College",
   "fields": [
@@ -12684,6 +12785,35 @@
   ],
   "u": "https://unmjobs.unm.edu/",
   "unv": "Requisition page on UNMJobs not opened, so the link goes to the portal home; salary not stated. Ad seen on Quantiki (posted 13 Oct 2026). Computer science department, not physics.",
+  "us": false
+ },
+ {
+  "a": "Tenure-track; salary not listed",
+  "added": "2026-11-13",
+  "aud": [
+   "ng"
+  ],
+  "c": "Faculty job",
+  "checked": "2026-11-13",
+  "d": "2027-01-15",
+  "dt": "Email applications by Jan 15, 2027",
+  "e": "Tenure-track faculty post in the USS ATLAS group in Santiago, Chile, building an independent research program within ATLAS and teaching undergraduate engineering courses; start March 2027. International candidates welcome; must be able to teach in Spanish by the second year.",
+  "f": "Universidad San Sebastian",
+  "fields": [
+   "ppx"
+  ],
+  "id": "fj-uss-chile-atlas-tenure-track",
+  "n": "Universidad San Sebastian (Chile): Tenure-track faculty in experimental particle physics (ATLAS)",
+  "nfit": "Low",
+  "nom": false,
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227339",
+  "stages": [
+   "fj"
+  ],
+  "u": "https://inspirehep.net/jobs/3227339",
+  "unv": "Salary and rank title (e.g. assistant) not stated; no host-hosted ad URL found",
   "us": false
  },
  {
@@ -18055,213 +18185,6 @@
   "us": false
  },
  {
-  "a": "2 years; €36,000/yr gross, plus travel to and from Bari",
-  "added": "2026-10-15",
-  "asub": [
-   "he"
-  ],
-  "aud": [
-   "yale",
-   "ng",
-   "ast",
-   "radar"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-12",
-  "dt": "Nov 12, 2026, 23:59 CET (INFN call no. 29216); reference letters by Nov 15",
-  "e": "Two-year postdoc on astrophysical probes of weakly interacting slim particles (axions, dark photons, massive gravitons) in stars, supernovae and neutron stars, including multi-messenger signatures with gamma rays, neutrinos and gravitational waves. Open to non-Italian citizens with a PhD from a foreign institution, and to Italian citizens who have held a position abroad for at least three years.",
-  "f": "INFN, Sezione di Bari",
-  "fields": [
-   "astro",
-   "ppt",
-   "grav"
-  ],
-  "id": "infn-bari-astroparticle-wisp-postdoc",
-  "n": "INFN Bari: Postdoctoral Fellowship in Theoretical Astroparticle Physics (WISPs)",
-  "nfit": "High",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "ajo:33082",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/33082",
-  "us": false
- },
- {
-  "a": "EUR 36,000 gross per year; two years",
-  "added": "2026-10-23",
-  "aud": [
-   "ng",
-   "yale"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-12",
-  "dt": "Apply by Nov 12, 2026 (23:59 CET); reference letters by Nov 15",
-  "e": "One of 16 INFN national theory fellowships; this Bologna topic is next-generation quantum observables for precision collider physics and indirect new-physics searches. Eligible: non-Italian citizens with a PhD from a foreign institution, or Italians abroad for 3+ years; PhD on or after Nov 12, 2018.",
-  "f": "INFN (Istituto Nazionale di Fisica Nucleare), Bologna",
-  "fields": [
-   "ppt"
-  ],
-  "id": "infn-bologna-collider-pheno-postdoc-2027",
-  "n": "INFN Bologna: Postdoc in Collider Phenomenology (INFN Theoretical Physics Fellowship, bando 29216)",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3217509",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://jobs.dsi.infn.it/borseassegni/pdf/getfile.php?filename=29216.pdf",
-  "us": false
- },
- {
-  "a": "2 years, from fall 2027",
-  "added": "2026-10-15",
-  "asub": [
-   "cos"
-  ],
-  "aud": [
-   "yale",
-   "ng",
-   "ast"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-12",
-  "dt": "Nov 12, 2026, 11:59pm CET (INFN call no. 29216, position 2); letters by Nov 15",
-  "e": "Two-year postdoc on string theory in cosmology, gravitational waves and axions, within the INFN theory fellowship program. Open to non-Italian citizens with a foreign PhD and to Italian citizens abroad since Nov 12, 2023; PhD on or after Nov 12, 2018.",
-  "f": "INFN, Sezione di Bologna",
-  "fields": [
-   "ppt",
-   "astro",
-   "grav"
-  ],
-  "id": "infn-bologna-string-cosmology-postdoc",
-  "n": "INFN Bologna: Postdoc in String Cosmology and String Phenomenology",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3214821",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://jobs.dsi.infn.it/dettagli_job.php?id=4701",
-  "us": false
- },
- {
-  "a": "EUR 36,000 gross per year; two years",
-  "added": "2026-10-23",
-  "asub": [
-   "he"
-  ],
-  "aud": [
-   "ast",
-   "ng",
-   "radar",
-   "yale"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-09",
-  "d": "2026-11-12",
-  "dt": "Apply by Nov 12, 2026 (23:59 CET); reference letters by Nov 15",
-  "e": "INFN's annual national call for 20 two-year experimental physics fellowships at INFN sites; the INSPIRE posting is from the Frascati COLD lab (ultralight dark matter, high-frequency gravitational waves, superconducting-qubit sensing). Eligible: non-Italian citizens with a PhD from a foreign institution obtained on or after Nov 12, 2018.",
-  "f": "INFN (Istituto Nazionale di Fisica Nucleare)",
-  "fields": [
-   "ppx",
-   "nux",
-   "grav",
-   "inst"
-  ],
-  "id": "infn-experimental-physics-fellowships-2027",
-  "n": "INFN: 20 Postdoctoral Fellowships in Experimental Physics (bando 29217; e.g. LNF COLD lab, axion and high-frequency GW searches)",
-  "nfit": "High",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3217063",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://jobs.dsi.infn.it/dettagli_job.php?id=4702",
-  "unv": "pt set to prize because applicants choose topic/site from the call annex; whether the program is independent research or project-assigned not confirmed.",
-  "us": false
- },
- {
-  "a": "2 years",
-  "added": "2026-10-15",
-  "asub": [
-   "cos"
-  ],
-  "aud": [
-   "yale",
-   "ng",
-   "ast"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-12",
-  "dt": "Nov 12, 2026 (INFN international fellowship call)",
-  "e": "Two-year postdoc on dynamical dark energy, modified gravity and consistency tests with DES, DESI and Euclid data, using statistical and machine-learning methods. Open to non-Italian citizens with a foreign PhD and to Italian citizens abroad for at least three years.",
-  "f": "INFN, Sezione di Genova / University of Genoa",
-  "fields": [
-   "astro"
-  ],
-  "id": "infn-genova-dark-energy-lss-postdoc",
-  "n": "INFN Genova: Postdoc in Cosmology (dark energy with large-scale structure)",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3214634",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://inspirehep.net/jobs/3214634",
-  "us": false
- },
- {
-  "a": "EUR 36,000/yr gross, 2 years",
-  "added": "2026-10-17",
-  "aud": [
-   "yale",
-   "ng"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-12",
-  "dt": "Nov 12, 2026, 23:59 CET (INFN call 29216, apply via INFN portal); letters by Nov 15",
-  "e": "Two-year postdoc within the INFN 2027/28 fellowship programme on the theory of tetraquarks and other exotic hadrons (Maiani, Pilloni, Polosa, Santopinto). Non-Italians need a PhD from a non-Italian institution, awarded on or after Nov 12, 2018.",
-  "f": "INFN Genova",
-  "fields": [
-   "ppt",
-   "nut"
-  ],
-  "id": "infn-genova-exotic-hadrons-theory-postdoc",
-  "n": "INFN Genova: Postdoctoral Fellowship in Theoretical Physics (exotic hadrons)",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3215693",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://jobs.dsi.infn.it/dettagli_job.php?id=4701",
-  "us": false
- },
- {
   "a": "24 months, renewable for 12; €33,681.30 gross per year, plus a first-year mobility incentive of €4,242.05 for eligible candidates",
   "added": "2026-10-07",
   "asub": [
@@ -18299,68 +18222,6 @@
   "us": false
  },
  {
-  "a": "EUR 36,000/yr gross, 2 years",
-  "added": "2026-10-16",
-  "aud": [
-   "yale",
-   "ng",
-   "ast"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-12",
-  "dt": "12 Nov 2026, 23:59 CET (INFN call 29216)",
-  "e": "Two-year INFN postdoctoral fellowship in the Milano-Bicocca string theory group (INFN network GSS), starting fall 2027; apply via the INFN portal under call 29216. Open to non-Italian citizens with a PhD from a foreign institution, or Italian citizens who have held a position abroad for at least three years; PhD on or after 12 Nov 2018 (PhD needed by 1 Nov 2027).",
-  "f": "INFN / University of Milano-Bicocca",
-  "fields": [
-   "ppt",
-   "grav"
-  ],
-  "id": "infn-milano-bicocca-string-theory-postdoc",
-  "n": "INFN Milano-Bicocca: Postdoc in the String Theory group (gravitational path integrals, quantum gravity, holography)",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3215250",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://jobs.dsi.infn.it/dettagli_job.php?id=4701",
-  "us": false
- },
- {
-  "a": "EUR 36,000/yr gross, 2 years",
-  "added": "2026-10-16",
-  "aud": [
-   "yale",
-   "ng"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-12",
-  "dt": "12 Nov 2026, 23:59 CET (INFN call 29216); letters by 15 Nov",
-  "e": "Two-year INFN fellowship (EPIC project) at Naples on neutrino physics (incl. supernova neutrinos) and hadronic dynamics in heavy-meson decays. Open to non-Italian citizens with a PhD from a foreign institution, or Italian citizens who have held a position abroad for at least three years; PhD on or after 12 Nov 2018 (PhD needed by 1 Nov 2027).",
-  "f": "INFN / University of Naples Federico II",
-  "fields": [
-   "ppt"
-  ],
-  "id": "infn-naples-neutrino-heavy-flavour-postdoc",
-  "n": "INFN / University of Naples: Postdoc in neutrino physics and heavy-flavour phenomenology",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3214978",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://jobs.dsi.infn.it/dettagli_job.php?id=4701",
-  "us": false
- },
- {
   "a": "Two years; start Sep 2027",
   "added": "2026-11-12",
   "aud": [
@@ -18389,68 +18250,6 @@
   ],
   "u": "https://inspirehep.net/jobs/3227092",
   "unv": "Salary not stated.",
-  "us": false
- },
- {
-  "a": "EUR 36,000/yr gross, 2 years from fall 2027",
-  "added": "2026-10-20",
-  "aud": [
-   "yale",
-   "ng",
-   "ast"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-12",
-  "dt": "Nov 12, 2026, 23:59 CET (INFN call 29216; select \"Parma_Exact holography and complexity in Quantum Gravity\")",
-  "e": "Two-year postdoc in the INFN GAST network on nonperturbative gauge and string theory. Open to non-Italian citizens with a PhD from a foreign institution, and to Italian citizens who hold a position abroad and have been abroad for at least three years.",
-  "f": "INFN / University of Parma, QFT, Lattice and String Theory group (Luca Griguolo)",
-  "fields": [
-   "ppt",
-   "grav"
-  ],
-  "id": "infn-parma-holography-quantum-gravity-postdoc",
-  "n": "INFN Parma: Postdoctoral Fellowship in exact holography and quantum gravity",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3215757",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://jobs.dsi.infn.it/dettagli_job.php?id=4701",
-  "us": false
- },
- {
-  "a": "EUR 36,000/yr gross, 2 years",
-  "added": "2026-10-16",
-  "aud": [
-   "yale",
-   "ng"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-12",
-  "dt": "12 Nov 2026, 23:59 CET (INFN call 29216)",
-  "e": "Two-year INFN fellowship at Pavia on precision phenomenology (hadronic corrections to muon g-2, luminosity at future lepton colliders, Drell-Yan/W mass) and Monte Carlo generators. Open to non-Italian citizens with a PhD from a foreign institution, or Italian citizens who have held a position abroad for at least three years; PhD on or after 12 Nov 2018 (PhD needed by 1 Nov 2027).",
-  "f": "INFN Pavia",
-  "fields": [
-   "ppt"
-  ],
-  "id": "infn-pavia-high-energy-phenomenology-postdoc",
-  "n": "INFN Pavia: Postdoc in high-energy phenomenology (precision calculations)",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3214976",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://inspirehep.net/jobs/3214976",
   "us": false
  },
  {
@@ -23258,6 +23057,41 @@
   ],
   "u": "https://www.mitacs.ca/our-programs/globalink-research-internship-students/",
   "unv": "Exact 2028 call dates not posted",
+  "us": false
+ },
+ {
+  "a": "Not listed (covers the position for 2 years plus consumables and travel)",
+  "added": "2026-11-13",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-11-13",
+  "d": "2026-12-14",
+  "dt": "Apply by email (single PDF) by 14 Dec 2026; start autumn 2027 at the earliest",
+  "e": "A two-year independent postdoctoral fellowship in quantum science and technology, experimental or theoretical, hosted in an ML4Q group in Aachen, Berlin, Bochum, Bonn, Cologne, Düsseldorf, Jülich, Paderborn or Siegen; applicants should normally be within four years of the PhD. Current or recent ML4Q group members and people whose PhD supervisor is an ML4Q member cannot apply; no citizenship limit is stated.",
+  "f": "ML4Q Cluster of Excellence (Matter and Light for Quantum Computing), Germany",
+  "fields": [
+   "qp",
+   "cmx",
+   "amo",
+   "dev"
+  ],
+  "id": "ml4q-fellowship-2027",
+  "n": "ML4Q Cluster of Excellence: ML4Q Postdoctoral Fellowship (Call 2027)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "other:ml4q-fellowship-2027",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://ml4q.de/ml4q-fellowships/",
+  "unv": "Salary is not on the official page (an aggregator estimates EUR 49,500-60,500 per year); time zone of the deadline not stated.",
   "us": false
  },
  {
@@ -30940,6 +30774,41 @@
   "us": false
  },
  {
+  "a": "$75,000 stipend (3% raise in year 2) plus $5,000/yr research and travel allowance",
+  "added": "2026-11-13",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-11-13",
+  "d": "2027-01-08",
+  "dt": "Deadline 8 Jan 2027; start Aug-Sep 2027",
+  "e": "A two-year competitive fellowship for an independent research program in quantum information science or engineering, mentored by a faculty member in Ohio State's College of Arts and Sciences; the PhD (physics, ECE, chemistry, materials, CS, math or related) must be conferred on or after 1 Sep 2024 or expected before the start date. Applicants must get a written mentor commitment letter before applying; no citizenship limit is stated.",
+  "f": "The Ohio State University, College of Arts and Sciences / Center for Quantum Information Science and Engineering (CQISE)",
+  "fields": [
+   "qp",
+   "amo",
+   "cmx",
+   "phot",
+   "dev"
+  ],
+  "id": "osu-farinacci-qise-postdoc-2027",
+  "n": "Ohio State University: Farinacci Family Postdoctoral Fellowship in Quantum Information Science and Engineering",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "other:osu-R151630",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar_R151630-2",
+  "us": true
+ },
+ {
   "a": "Research Grade 7, GBP 40,178-48,700/yr; to 31 Oct 2030",
   "added": "2026-11-11",
   "aud": [
@@ -32430,6 +32299,38 @@
    "ten"
   ],
   "u": "https://www.radcliffe.harvard.edu/radcliffe-fellowship/application-information",
+  "us": false
+ },
+ {
+  "a": "GBP 42,688 per year",
+  "added": "2026-11-13",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-13",
+  "d": "2026-12-01",
+  "dt": "Closes Dec 1, 2026",
+  "e": "Two-year fixed-term research associate in RAL's Particle Physics Department working on neutron-veto background mitigation and dark matter search analysis for the DarkSide-20k liquid argon experiment, with optional work on QUEST-DMC. Requires a PhD (or near completion) in particle physics or similar; no citizenship limits stated.",
+  "f": "STFC Rutherford Appleton Laboratory",
+  "fields": [
+   "ppx",
+   "inst"
+  ],
+  "id": "ral-darkside-20k-research-associate",
+  "n": "STFC Rutherford Appleton Laboratory: Research Associate on DarkSide-20k",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227341",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://applytrack.onefixmedia.co.uk/4e3130303030306166666159",
+  "unv": "UK right-to-work/visa sponsorship not stated",
   "us": false
  },
  {
@@ -34619,9 +34520,9 @@
    "ap"
   ],
   "c": "Travel",
-  "checked": "2026-11-09",
-  "d": "2026-11-12",
-  "dt": "Photonics West 2027: closes Nov 12, 2026; Medical Imaging 2027: closes Nov 27, 2026; Smart Structures + NDE 2027: Dec 7, 2026 to Jan 6, 2027; Defense + Security 2027: Jan 5 to Feb 4, 2027",
+  "checked": "2026-11-13",
+  "d": "2026-11-27",
+  "dt": "Photonics West 2027: closed Nov 12, 2026; Medical Imaging 2027: closes Nov 27, 2026; Smart Structures + NDE 2027: Dec 7, 2026 to Jan 6, 2027; Defense + Security 2027: Jan 5 to Feb 4, 2027",
   "e": "Travel grants and registration waivers for SPIE Student Members who are presenting authors of an accepted paper at an SPIE conference and present in person. Students who have completed a PhD are not eligible; one award every two years.",
   "f": "SPIE",
   "fields": [
@@ -40924,6 +40825,42 @@
   "u": "https://www.utrgv.edu/stssi/education/reu/index.htm",
   "unv": "2027 program depends on NSF funding; no dates. The UTRGV page could not be reached on Oct 21, Oct 26, Nov 2 or Nov 9, 2026 (TLS error, HTTP 503, connection failure).",
   "us": true
+ },
+ {
+  "a": "EUR 3,707-5,760 per month gross (Scale 10), 3 years",
+  "added": "2026-11-13",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-13",
+  "d": "2026-12-15",
+  "dt": "Deadline Dec 15, 2026",
+  "e": "Three-year theory postdoc in the NWO-funded OMEN project (Ando, Heijboer) modelling cosmic-ray propagation and multi-messenger neutrino and gamma-ray signatures, with KM3NeT collaboration membership; preferred start Sept 1, 2027. Requires a PhD in physics, astronomy or related field; no citizenship limits stated.",
+  "f": "University of Amsterdam, GRAPPA",
+  "fields": [
+   "astro",
+   "nut"
+  ],
+  "id": "uva-grappa-omen-cosmic-ray-neutrino-pd",
+  "n": "University of Amsterdam (GRAPPA): Postdoc in cosmic-ray and neutrino astrophysics (OMEN/KM3NeT)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227335",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://werkenbij.uva.nl/en/vacancies/postdoctoral-researcher-in-cosmic-ray-and-neutrino-astrophysics-grappa-uva-netherlands-15642",
+  "us": false
  },
  {
   "a": "EUR 3,706-5,760 gross per month (scale 10); 3 years from fall 2027, third year subject to performance and funding",

@@ -2018,6 +2018,61 @@
   "us": false
  },
  {
+  "a": "$74,050-$90,216/yr",
+  "added": "2026-11-13",
+  "c": "Group postdoc",
+  "checked": "2026-11-13",
+  "d": null,
+  "dt": "No deadline stated; posted 6 Nov 2026",
+  "e": "A postdoc using synchrotron coherent x-ray scattering and x-ray photon correlation spectroscopy to study dynamics in strongly correlated quantum materials (charge, spin and orbital order), with the BNL X-ray Scattering Group. Applicants need a PhD in physics, materials science, physical chemistry or a related field and no more than 5 years of postdoc/R&D experience; no citizenship limit is stated, but DOE credentialing is required.",
+  "f": "Brookhaven National Laboratory, Condensed Matter Physics & Materials Science (X-ray Scattering Group)",
+  "fields": [
+   "cmx",
+   "mat"
+  ],
+  "id": "bnl-jr102793-coherent-xray-quantum-materials",
+  "n": "Brookhaven National Laboratory: Research Associate, Coherent X-ray Scattering of Quantum Materials",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:bnl-JR102793",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://bnl.wd1.myworkdayjobs.com/Externa/job/Upton-NY/Research-Associate---Coherent-X-ray-Scattering--Quantum-Materials_JR102793",
+  "unv": "Appointment length not stated.",
+  "us": true
+ },
+ {
+  "a": "$80,800-$84,000/yr",
+  "added": "2026-11-13",
+  "c": "Group postdoc",
+  "checked": "2026-11-13",
+  "d": null,
+  "dt": "Review begins 1 Dec 2026; open until filled",
+  "e": "A two-year postdoc (one-year renewal possible) in the Nuclear Theory Group, working with Peter Petreczky and the C2QA quantum center on real-time problems where quantum field theory meets quantum information and quantum computing. Applicants need a PhD in nuclear/particle theory or quantum information science and no more than 5 years of postdoc/R&D experience; no citizenship limit is stated, but DOE credentialing is required.",
+  "f": "Brookhaven National Laboratory, Physics Division (Nuclear Theory Group) and Co-design Center for Quantum Advantage",
+  "fields": [
+   "nut",
+   "qp"
+  ],
+  "id": "bnl-jr102799-qft-qis-postdoc",
+  "n": "Brookhaven National Laboratory: Postdoctoral Research Associate, Quantum Field Theory and Quantum Information (Nuclear Theory / C2QA)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:bnl-JR102799",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://bnl.wd1.myworkdayjobs.com/Externa/job/Upton-NY/Postdoc-Research-Associate_JR102799",
+  "us": true
+ },
+ {
   "a": "Free dormitory housing and weekday meals; travel support up to $500 for students and postdocs at US universities; $400 registration fee",
   "added": "2026-10-03",
   "c": "Summer program",
@@ -7660,6 +7715,36 @@
   "us": false
  },
  {
+  "a": "Not listed (covers the position for 2 years plus consumables and travel)",
+  "added": "2026-11-13",
+  "c": "Fellowship",
+  "checked": "2026-11-13",
+  "d": "2026-12-14",
+  "dt": "Apply by email (single PDF) by 14 Dec 2026; start autumn 2027 at the earliest",
+  "e": "A two-year independent postdoctoral fellowship in quantum science and technology, experimental or theoretical, hosted in an ML4Q group in Aachen, Berlin, Bochum, Bonn, Cologne, Düsseldorf, Jülich, Paderborn or Siegen; applicants should normally be within four years of the PhD. Current or recent ML4Q group members and people whose PhD supervisor is an ML4Q member cannot apply; no citizenship limit is stated.",
+  "f": "ML4Q Cluster of Excellence (Matter and Light for Quantum Computing), Germany",
+  "fields": [
+   "qp",
+   "cmx",
+   "amo",
+   "dev"
+  ],
+  "id": "ml4q-fellowship-2027",
+  "n": "ML4Q Cluster of Excellence: ML4Q Postdoctoral Fellowship (Call 2027)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "other:ml4q-fellowship-2027",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://ml4q.de/ml4q-fellowships/",
+  "unv": "Salary is not on the official page (an aggregator estimates EUR 49,500-60,500 per year); time zone of the deadline not stated.",
+  "us": false
+ },
+ {
   "a": "Up to $10k serverless GPU credits",
   "added": "2026-09-28",
   "c": "Compute",
@@ -11849,6 +11934,36 @@
   "us": false
  },
  {
+  "a": "$75,000 stipend (3% raise in year 2) plus $5,000/yr research and travel allowance",
+  "added": "2026-11-13",
+  "c": "Fellowship",
+  "checked": "2026-11-13",
+  "d": "2027-01-08",
+  "dt": "Deadline 8 Jan 2027; start Aug-Sep 2027",
+  "e": "A two-year competitive fellowship for an independent research program in quantum information science or engineering, mentored by a faculty member in Ohio State's College of Arts and Sciences; the PhD (physics, ECE, chemistry, materials, CS, math or related) must be conferred on or after 1 Sep 2024 or expected before the start date. Applicants must get a written mentor commitment letter before applying; no citizenship limit is stated.",
+  "f": "The Ohio State University, College of Arts and Sciences / Center for Quantum Information Science and Engineering (CQISE)",
+  "fields": [
+   "qp",
+   "amo",
+   "cmx",
+   "phot",
+   "dev"
+  ],
+  "id": "osu-farinacci-qise-postdoc-2027",
+  "n": "Ohio State University: Farinacci Family Postdoctoral Fellowship in Quantum Information Science and Engineering",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "other:osu-R151630",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar_R151630-2",
+  "us": true
+ },
+ {
   "a": "3-year fixed-term positions (ERC, UKRI and STFC funded), Grade 7, £41,636–£47,779 a year; start by Oct 1, 2027",
   "added": "2026-11-05",
   "c": "Group postdoc",
@@ -13790,9 +13905,9 @@
   "a": "Up to $700 (domestic) or $1,000 (international) for airfare and lodging, and/or a registration fee waiver",
   "added": "2026-10-12",
   "c": "Travel",
-  "checked": "2026-11-09",
-  "d": "2026-11-12",
-  "dt": "Photonics West 2027: closes Nov 12, 2026; Medical Imaging 2027: closes Nov 27, 2026; Smart Structures + NDE 2027: Dec 7, 2026 to Jan 6, 2027; Defense + Security 2027: Jan 5 to Feb 4, 2027",
+  "checked": "2026-11-13",
+  "d": "2026-11-27",
+  "dt": "Photonics West 2027: closed Nov 12, 2026; Medical Imaging 2027: closes Nov 27, 2026; Smart Structures + NDE 2027: Dec 7, 2026 to Jan 6, 2027; Defense + Security 2027: Jan 5 to Feb 4, 2027",
   "e": "Travel grants and registration waivers for SPIE Student Members who are presenting authors of an accepted paper at an SPIE conference and present in person. Students who have completed a PhD are not eligible; one award every two years.",
   "f": "SPIE",
   "fields": [
