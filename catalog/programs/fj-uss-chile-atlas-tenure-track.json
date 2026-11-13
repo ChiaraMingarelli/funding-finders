@@ -1,0 +1,29 @@
+{
+ "a": "Tenure-track; salary not listed",
+ "added": "2026-11-13",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-13",
+ "d": "2027-01-15",
+ "dt": "Email applications by Jan 15, 2027",
+ "e": "Tenure-track faculty post in the USS ATLAS group in Santiago, Chile, building an independent research program within ATLAS and teaching undergraduate engineering courses; start March 2027. International candidates welcome; must be able to teach in Spanish by the second year.",
+ "f": "Universidad San Sebastian",
+ "fields": [
+  "ppx"
+ ],
+ "id": "fj-uss-chile-atlas-tenure-track",
+ "n": "Universidad San Sebastian (Chile): Tenure-track faculty in experimental particle physics (ATLAS)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3227339",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://inspirehep.net/jobs/3227339",
+ "unv": "Salary and rank title (e.g. assistant) not stated; no host-hosted ad URL found",
+ "us": false
+}

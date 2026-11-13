@@ -1,0 +1,32 @@
+{
+ "a": "$80,800-$84,000/yr",
+ "added": "2026-11-13",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-13",
+ "d": null,
+ "dt": "Review begins 1 Dec 2026; open until filled",
+ "e": "A two-year postdoc (one-year renewal possible) in the Nuclear Theory Group, working with Peter Petreczky and the C2QA quantum center on real-time problems where quantum field theory meets quantum information and quantum computing. Applicants need a PhD in nuclear/particle theory or quantum information science and no more than 5 years of postdoc/R&D experience; no citizenship limit is stated, but DOE credentialing is required.",
+ "f": "Brookhaven National Laboratory, Physics Division (Nuclear Theory Group) and Co-design Center for Quantum Advantage",
+ "fields": [
+  "nut",
+  "qp"
+ ],
+ "id": "bnl-jr102799-qft-qis-postdoc",
+ "n": "Brookhaven National Laboratory: Postdoctoral Research Associate, Quantum Field Theory and Quantum Information (Nuclear Theory / C2QA)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:bnl-JR102799",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://bnl.wd1.myworkdayjobs.com/Externa/job/Upton-NY/Postdoc-Research-Associate_JR102799",
+ "us": true
+}

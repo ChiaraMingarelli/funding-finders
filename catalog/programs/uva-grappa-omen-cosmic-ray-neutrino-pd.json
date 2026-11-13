@@ -1,0 +1,36 @@
+{
+ "a": "EUR 3,707-5,760 per month gross (Scale 10), 3 years",
+ "added": "2026-11-13",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-13",
+ "d": "2026-12-15",
+ "dt": "Deadline Dec 15, 2026",
+ "e": "Three-year theory postdoc in the NWO-funded OMEN project (Ando, Heijboer) modelling cosmic-ray propagation and multi-messenger neutrino and gamma-ray signatures, with KM3NeT collaboration membership; preferred start Sept 1, 2027. Requires a PhD in physics, astronomy or related field; no citizenship limits stated.",
+ "f": "University of Amsterdam, GRAPPA",
+ "fields": [
+  "astro",
+  "nut"
+ ],
+ "id": "uva-grappa-omen-cosmic-ray-neutrino-pd",
+ "n": "University of Amsterdam (GRAPPA): Postdoc in cosmic-ray and neutrino astrophysics (OMEN/KM3NeT)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3227335",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://werkenbij.uva.nl/en/vacancies/postdoctoral-researcher-in-cosmic-ray-and-neutrino-astrophysics-grappa-uva-netherlands-15642",
+ "us": false
+}

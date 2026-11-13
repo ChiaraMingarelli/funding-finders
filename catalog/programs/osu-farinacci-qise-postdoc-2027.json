@@ -1,0 +1,35 @@
+{
+ "a": "$75,000 stipend (3% raise in year 2) plus $5,000/yr research and travel allowance",
+ "added": "2026-11-13",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-11-13",
+ "d": "2027-01-08",
+ "dt": "Deadline 8 Jan 2027; start Aug-Sep 2027",
+ "e": "A two-year competitive fellowship for an independent research program in quantum information science or engineering, mentored by a faculty member in Ohio State's College of Arts and Sciences; the PhD (physics, ECE, chemistry, materials, CS, math or related) must be conferred on or after 1 Sep 2024 or expected before the start date. Applicants must get a written mentor commitment letter before applying; no citizenship limit is stated.",
+ "f": "The Ohio State University, College of Arts and Sciences / Center for Quantum Information Science and Engineering (CQISE)",
+ "fields": [
+  "qp",
+  "amo",
+  "cmx",
+  "phot",
+  "dev"
+ ],
+ "id": "osu-farinacci-qise-postdoc-2027",
+ "n": "Ohio State University: Farinacci Family Postdoctoral Fellowship in Quantum Information Science and Engineering",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "other:osu-R151630",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar_R151630-2",
+ "us": true
+}

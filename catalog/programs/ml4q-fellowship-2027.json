@@ -1,0 +1,35 @@
+{
+ "a": "Not listed (covers the position for 2 years plus consumables and travel)",
+ "added": "2026-11-13",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-11-13",
+ "d": "2026-12-14",
+ "dt": "Apply by email (single PDF) by 14 Dec 2026; start autumn 2027 at the earliest",
+ "e": "A two-year independent postdoctoral fellowship in quantum science and technology, experimental or theoretical, hosted in an ML4Q group in Aachen, Berlin, Bochum, Bonn, Cologne, Düsseldorf, Jülich, Paderborn or Siegen; applicants should normally be within four years of the PhD. Current or recent ML4Q group members and people whose PhD supervisor is an ML4Q member cannot apply; no citizenship limit is stated.",
+ "f": "ML4Q Cluster of Excellence (Matter and Light for Quantum Computing), Germany",
+ "fields": [
+  "qp",
+  "cmx",
+  "amo",
+  "dev"
+ ],
+ "id": "ml4q-fellowship-2027",
+ "n": "ML4Q Cluster of Excellence: ML4Q Postdoctoral Fellowship (Call 2027)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "other:ml4q-fellowship-2027",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://ml4q.de/ml4q-fellowships/",
+ "unv": "Salary is not on the official page (an aggregator estimates EUR 49,500-60,500 per year); time zone of the deadline not stated.",
+ "us": false
+}
