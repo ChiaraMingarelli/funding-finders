@@ -1,0 +1,38 @@
+{
+ "a": "2 years, possible third year; salary not stated",
+ "added": "2026-11-14",
+ "asub": [
+  "cos",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-11-14",
+ "d": "2026-12-15",
+ "dt": "Applications received by Dec 15, 2026 (23:59 CET) get full consideration; start Oct 2027",
+ "e": "Fellowships for theorists less than 5 years past the PhD, in collider phenomenology, particle cosmology, axions and light particles, gravitational waves, string theory and mathematical physics. Fellows join the Quantum Universe cluster with the University of Hamburg.",
+ "f": "DESY (Deutsches Elektronen-Synchrotron), Theory Group, Hamburg",
+ "fields": [
+  "ppt",
+  "grav"
+ ],
+ "id": "desy-hamburg-theory-group-fellowship-2027",
+ "n": "DESY Hamburg: Theory Group Fellowship Programme (2027)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "prize",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3228416",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://ias.desy.de/pls/apex/f?p=182:1:0:",
+ "unv": "Salary not stated.",
+ "us": false
+}

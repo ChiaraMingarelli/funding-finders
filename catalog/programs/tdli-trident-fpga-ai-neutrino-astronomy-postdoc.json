@@ -1,0 +1,38 @@
+{
+ "a": "Salary not stated",
+ "added": "2026-11-14",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-14",
+ "d": "2027-02-28",
+ "dt": "Feb 28, 2027 (INSPIRE deadline); apply by email",
+ "e": "Postdoc with Donglian Xu's group developing lightweight AI algorithms on FPGAs for real-time waveform analysis and triggering in TRIDENT, a deep-sea neutrino telescope in the South China Sea, with work on event reconstruction and multimessenger astronomy.",
+ "f": "Tsung-Dao Lee Institute, Shanghai Jiao Tong University",
+ "fields": [
+  "astro",
+  "ppx",
+  "inst"
+ ],
+ "id": "tdli-trident-fpga-ai-neutrino-astronomy-postdoc",
+ "n": "Tsung-Dao Lee Institute (SJTU): Postdoc in FPGA-based AI for Neutrino Astronomy (TRIDENT)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3227787",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3227787",
+ "unv": "Salary and appointment length not stated in the INSPIRE listing; no host ad linked.",
+ "us": false
+}

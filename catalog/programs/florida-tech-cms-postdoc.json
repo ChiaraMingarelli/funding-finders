@@ -1,0 +1,32 @@
+{
+ "a": "Salary not stated",
+ "added": "2026-11-14",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-14",
+ "d": "2026-12-15",
+ "dt": "Dec 15, 2026 (INSPIRE deadline); apply by email to Marcus Hohlmann",
+ "e": "Postdoc on CMS searches for long-lived dark photons and dark Z bosons, plus GEM muon detector construction and silicon tracker quality-control software for the HL-LHC upgrade; a few months a year at CERN.",
+ "f": "Florida Institute of Technology, High Energy Physics Group",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "florida-tech-cms-postdoc",
+ "n": "Florida Institute of Technology: Postdoctoral Research Associate, CMS Experiment",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3228417",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://research.fit.edu/hep/",
+ "unv": "Salary and appointment length not stated.",
+ "us": false
+}

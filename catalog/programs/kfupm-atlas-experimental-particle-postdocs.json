@@ -1,0 +1,32 @@
+{
+ "a": "Salary not stated",
+ "added": "2026-11-14",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-14",
+ "d": "2026-12-15",
+ "dt": "Dec 15, 2026 (INSPIRE deadline)",
+ "e": "Two postdocs in Wasikul Islam's new ATLAS group: one on ITk pixel detector hardware for the HL-LHC, one on ATLAS data analysis and AI/ML methods for searches beyond the Standard Model.",
+ "f": "King Fahd University of Petroleum & Minerals (Physics / IRC-INE)",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "kfupm-atlas-experimental-particle-postdocs",
+ "n": "KFUPM: Two Postdoctoral Positions in Experimental Particle Physics (ATLAS)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3228565",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://ri.kfupm.edu.sa/irc-ine/jobs/job-details/postdoctoral-research-associate-positions-in-experimental-particle-physics-(atlas-experiment-at-cern)",
+ "unv": "Salary and appointment length not stated; host page not opened.",
+ "us": false
+}

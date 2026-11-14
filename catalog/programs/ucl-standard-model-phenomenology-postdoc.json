@@ -1,0 +1,31 @@
+{
+ "a": "UCL Grade 7; 2 years, possible third year",
+ "added": "2026-11-14",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-14",
+ "d": "2027-01-04",
+ "dt": "Jan 4, 2027 (INSPIRE deadline)",
+ "e": "Postdoc working on parton distribution function analyses with Robert Thorne and/or precision Monte Carlo event generators with Keith Hamilton.",
+ "f": "University College London, Department of Physics and Astronomy (HEP group)",
+ "fields": [
+  "ppt"
+ ],
+ "id": "ucl-standard-model-phenomenology-postdoc",
+ "n": "UCL: Postdoctoral Position in Standard Model Phenomenology",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3227948",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.ucl.ac.uk/about/work-at-ucl/search-jobs/details?nPostingId=20446&nPostingTargetId=50048&id=Q1KFK026203F3VBQBLO8M8M07&LG=UK&languageSelect=UK&mask=ext",
+ "unv": "Closing date taken from INSPIRE; UCL posting not opened.",
+ "us": false
+}

@@ -1,0 +1,37 @@
+{
+ "a": "Up to two positions; 2 years, renewable for a third; salary not stated",
+ "added": "2026-11-14",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-14",
+ "d": "2027-01-03",
+ "dt": "Applications received by Jan 3, 2027 get full consideration; start Sep 2027",
+ "e": "Up to two postdocs in numerical relativity, gravitational-wave source modeling and waveforms, parameter estimation and gravitational-wave data analysis, including machine-learning methods. Faculty include Hsin-Yu Chen, Pablo Laguna, Richard Matzner, Deirdre Shoemaker, Jay Wadekar and Aaron Zimmerman.",
+ "f": "University of Texas at Austin, Center for Gravitational Physics",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "ut-austin-cgp-gw-postdoc-fellowships-2027",
+ "n": "UT Austin Center for Gravitational Physics: Postdoctoral Fellowships in Gravitational Wave Physics",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33430",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33430",
+ "unv": "Salary not stated; citizenship limits not stated.",
+ "us": false
+}

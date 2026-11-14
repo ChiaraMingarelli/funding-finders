@@ -7,9 +7,9 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-09",
- "d": "2026-11-13",
- "dt": "Posting end date Nov 13, 2026 (from job-board record)",
+ "checked": "2026-11-14",
+ "d": null,
+ "dt": "Last posting end date Nov 13, 2026; not confirmed whether applications are still accepted",
  "e": "Center-supported postdoc in quantum networking doing self-directed and joint research, co-advised by CQISE faculty in at least two departments. Requires a doctorate in a quantum-related field (math, physics, chemistry, ECE, MSE or CSE) and interdisciplinary research experience; in person in central Ohio.",
  "f": "The Ohio State University, Center for Quantum Information Science and Engineering",
  "fields": [
@@ -21,12 +21,12 @@
  "nom": false,
  "pt": "group",
  "region": "US",
- "s": "open",
+ "s": "watch",
  "src": "other:osu-R160444",
  "stages": [
   "pd"
  ],
  "u": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar---Quantum-Networking_R160444-1",
- "unv": "Close date (Nov 13, 2026) is from the Workday posting record, not from the ad text; no citizenship statement seen.",
+ "unv": "Close date (Nov 13, 2026) is from the Workday posting record, not from the ad text; no citizenship statement seen. On Nov 14, 2026 the Workday job site showed a maintenance page, so it could not be checked whether the posting is still open.",
  "us": false
 }
