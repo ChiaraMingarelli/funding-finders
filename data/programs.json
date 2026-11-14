@@ -6693,6 +6693,44 @@
   "us": false
  },
  {
+  "a": "2 years, possible third year; salary not stated",
+  "added": "2026-11-14",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-11-14",
+  "d": "2026-12-15",
+  "dt": "Applications received by Dec 15, 2026 (23:59 CET) get full consideration; start Oct 2027",
+  "e": "Fellowships for theorists less than 5 years past the PhD, in collider phenomenology, particle cosmology, axions and light particles, gravitational waves, string theory and mathematical physics. Fellows join the Quantum Universe cluster with the University of Hamburg.",
+  "f": "DESY (Deutsches Elektronen-Synchrotron), Theory Group, Hamburg",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "desy-hamburg-theory-group-fellowship-2027",
+  "n": "DESY Hamburg: Theory Group Fellowship Programme (2027)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3228416",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://ias.desy.de/pls/apex/f?p=182:1:0:",
+  "unv": "Salary not stated.",
+  "us": false
+ },
+ {
   "a": "2 years; pay per TV-AVH (amount not stated)",
   "added": "2026-10-21",
   "asub": [
@@ -7706,45 +7744,6 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33173",
-  "us": false
- },
- {
-  "a": "Up to TVöD Bund E13; fixed-term until 30 June 2029",
-  "added": "2026-10-16",
-  "asub": [
-   "inst"
-  ],
-  "aud": [
-   "yale",
-   "ng",
-   "radar",
-   "ast"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-13",
-  "dt": "Apply via online portal by Nov 13, 2026, quoting T02D-26-01",
-  "e": "Experimental postdoc on optical and thermo-mechanical characterization of large silicon mirror substrates for the Einstein Telescope low-frequency interferometer, within the German ET Joint Project D. Requires a PhD in physics, materials/surface science, engineering or a related experimental field; no citizenship limits stated.",
-  "f": "Deutsches Zentrum für Astrophysik (DZA)",
-  "fields": [
-   "grav",
-   "inst",
-   "phot",
-   "mat"
-  ],
-  "id": "dza-postdoc-optical-metrology-einstein-telescope",
-  "n": "German Center for Astrophysics (DZA): Postdoctoral Researcher in Optical Metrology for Einstein Telescope silicon mirrors (T02D-26-01)",
-  "nfit": "High",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "other:lisa-dza-t02d-26-01",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://jobs.deutscheszentrumastrophysik.de/en-GB/jobs/8547185-t02d-26-01-postdoctoral-researcher-f-m-d-optical-metrology",
-  "unv": "Start date beyond 'earliest possible' not stated; the posting lists the site as DZA Görlitz (hybrid).",
   "us": false
  },
  {
@@ -11918,9 +11917,9 @@
    "ng"
   ],
   "c": "Faculty job",
-  "checked": "2026-10-21",
-  "d": "2026-11-13",
-  "dt": "Application deadline Nov 13, 2026; start on or before July 1, 2027",
+  "checked": "2026-11-14",
+  "d": null,
+  "dt": "Last deadline Nov 13, 2026; not confirmed whether applications are still accepted",
   "e": "Tenure-track Assistant Professor in materials science, materials engineering or computational materials research for quantum technologies (e.g. diamond and other quantum-material growth), linked to the Canada Impact+ Research Chair in Scalable Quantum Network Infrastructure. Under the Canada Impact+ Emerging Leaders rules, candidates must be working and living outside Canada when recruited (expatriate Canadians welcome) and be within five years of their first independent research appointment.",
   "f": "University of Calgary, Faculty of Science or Schulich School of Engineering (Chemistry, Computer Science, or Electrical and Software Engineering)",
   "fields": [
@@ -11932,13 +11931,13 @@
   "nfit": "Low",
   "nom": false,
   "region": "Canada",
-  "s": "open",
+  "s": "watch",
   "src": "other:ucalgary-18239560",
   "stages": [
    "fj"
   ],
   "u": "https://careers.ucalgary.ca/jobs/18239560-assistant-professor-materials-interfaces-and-fabrication-for-quantum-technologies-canada-impact-plus-emerging-leader",
-  "unv": "Details taken from the Quantiki copy of the ad; the University of Calgary careers site blocked automated access (HTTP 403 bot check) on Oct 21, Oct 26, Nov 2 and Nov 9, 2026.",
+  "unv": "Details taken from the Quantiki copy of the ad; the University of Calgary careers site blocked automated access (HTTP 403 bot check) on Oct 21, Oct 26, Nov 2 and Nov 9, 2026. On Nov 14, 2026 the careers site again blocked automated access (HTTP 403), so it could not be checked whether the posting is still open.",
   "us": false
  },
  {
@@ -13620,6 +13619,38 @@
   "us": false
  },
  {
+  "a": "Salary not stated",
+  "added": "2026-11-14",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-14",
+  "d": "2026-12-15",
+  "dt": "Dec 15, 2026 (INSPIRE deadline); apply by email to Marcus Hohlmann",
+  "e": "Postdoc on CMS searches for long-lived dark photons and dark Z bosons, plus GEM muon detector construction and silicon tracker quality-control software for the HL-LHC upgrade; a few months a year at CERN.",
+  "f": "Florida Institute of Technology, High Energy Physics Group",
+  "fields": [
+   "ppx",
+   "inst"
+  ],
+  "id": "florida-tech-cms-postdoc",
+  "n": "Florida Institute of Technology: Postdoctoral Research Associate, CMS Experiment",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3228417",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://research.fit.edu/hep/",
+  "unv": "Salary and appointment length not stated.",
+  "us": false
+ },
+ {
   "a": "$2,000 for graduate students; $3,000 for postdocs",
   "added": "2026-09-28",
   "aud": [
@@ -14138,34 +14169,6 @@
   "u": "https://greenbankobservatory.org/events/oct-2026-gbt-training-workshop/",
   "unv": "Student eligibility not explicitly stated",
   "us": false
- },
- {
-  "a": "PhD: at least $16,000/yr stipend + full tuition/fees up to 5 yrs + paid summer internship; MS: $16,000 total + tuition",
-  "added": "2026-10-03",
-  "aud": [
-   "ap"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-13",
-  "dt": "Application due second Friday in November (Nov 13, 2026); must also apply to 3 GEM member universities by Jan 15",
-  "e": "Portable fellowship for MS and PhD study in engineering and science at GEM member universities, paired with paid industry or lab internships. US citizens or permanent residents only.",
-  "f": "National GEM Consortium",
-  "fields": [
-   "all"
-  ],
-  "id": "gem-fellowship-2027",
-  "n": "GEM Fellowship (MS/PhD, engineering & science)",
-  "nom": false,
-  "s": "open",
-  "src": "other:gem",
-  "stages": [
-   "ug",
-   "gr"
-  ],
-  "u": "https://www.gemfellowship.org/gem-fellowship-program/",
-  "unv": "Yale's current GEM membership not confirmed on GEM site (member list is login-only). GEM's application page gives the deadline as the second Friday in November, which is Nov 13, 2026; no time of day is stated. On Nov 9, 2026 gemfellowship.org blocked automated access (Cloudflare check, HTTP 403), so the deadline was not reconfirmed.",
-  "us": true
  },
  {
   "a": "Gemini North and South time from up to 5% of available observing time; requests are typically under 15 hours",
@@ -17768,42 +17771,6 @@
   "us": false
  },
  {
-  "a": "₹58,000/month + 27% HRA (ANRF norms); 11 months, extendable by 6 months",
-  "added": "2026-10-27",
-  "asub": [
-   "cos"
-  ],
-  "aud": [
-   "yale",
-   "ng",
-   "ast"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-13",
-  "dt": "Nov 13, 2026; apply by email; expected joining Nov 30, 2026",
-  "e": "One Research Associate-I post on dark matter phenomenology, astroparticle physics and cosmology in an ANRF-funded project on probing beyond-Standard-Model physics. Open to PhD holders and those who have submitted their thesis.",
-  "f": "Indian Institute of Technology Hyderabad, Department of Physics (Divya Sachdeva); ANRF project",
-  "fields": [
-   "ppt",
-   "astro"
-  ],
-  "id": "iit-hyderabad-astroparticle-ra-postdoc",
-  "n": "IIT Hyderabad: Postdoctoral Research Associate in Astroparticle Physics",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3218543",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://physics.iith.ac.in/assets/Announcements/Advertisement_RA-I_ANRF_PMECRG_IITH.pdf",
-  "unv": "Nationality rules are not stated in the official advertisement.",
-  "us": false
- },
- {
   "a": "$7,000 stipend plus free housing and travel to and from Urbana",
   "added": "2026-11-09",
   "aud": [
@@ -18283,42 +18250,6 @@
   ],
   "u": "https://inspirehep.net/jobs/3219266",
   "unv": "This is a preliminary request for expressions of interest, not a formal call. Eligibility, salary, contract length and the formal deadline are not yet published; 2026-12-14 is the INSPIRE listing deadline.",
-  "us": false
- },
- {
-  "a": "2+1 years; start Fall 2027-Spring 2028; salary not listed",
-  "added": "2026-10-24",
-  "asub": [
-   "he"
-  ],
-  "aud": [
-   "yale",
-   "ng",
-   "radar",
-   "ast"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-13",
-  "dt": "Expressions of interest and reference letters due 13 Nov 2026",
-  "e": "Expression of interest for a postdoc in Elisa Maggio's group testing general relativity with multiband gravitational-wave observations (data analysis, waveform modelling, horizonless compact objects, modified gravity). Requires a PhD (or near completion) in physics, astronomy or astrophysics.",
-  "f": "INFN Roma (Italian Fund for Science FIS Starting Grant Eyes-on-GR)",
-  "fields": [
-   "grav"
-  ],
-  "id": "infn-rome-maggio-gw-tests-gr-postdoc-eoi",
-  "n": "INFN Rome: Postdoc in GW tests of general relativity (Eyes-on-GR, Maggio group) - expression of interest",
-  "nfit": "High",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "other:hyperspace-infn-rome-eyes-on-gr",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://hyperspace.uni-frankfurt.de/2026/10/23/expression-of-interest-for-postdoctoral-position-in-gw-tests-of-general-relativity-rome-italy/",
-  "unv": "This is an expression-of-interest call, not a formal INFN competition; no host-site ad found (submissions via Google Form). Salary and eligibility limits not stated.",
   "us": false
  },
  {
@@ -19944,6 +19875,38 @@
   ],
   "u": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=43000&JobOpeningId=304028&PostingSeq=1",
   "unv": "The KSU ad could not be reopened on Oct 21, Oct 26, Nov 2 or Nov 9, 2026 (TLS certificate error with curl; HTTP 503 via WebFetch); details are from the Oct 12, 2026 check. On Nov 2, 2026 the Inside Higher Ed copy of the listing was marked expired; the host ad's status is unknown.",
+  "us": false
+ },
+ {
+  "a": "Salary not stated",
+  "added": "2026-11-14",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-14",
+  "d": "2026-12-15",
+  "dt": "Dec 15, 2026 (INSPIRE deadline)",
+  "e": "Two postdocs in Wasikul Islam's new ATLAS group: one on ITk pixel detector hardware for the HL-LHC, one on ATLAS data analysis and AI/ML methods for searches beyond the Standard Model.",
+  "f": "King Fahd University of Petroleum & Minerals (Physics / IRC-INE)",
+  "fields": [
+   "ppx",
+   "inst"
+  ],
+  "id": "kfupm-atlas-experimental-particle-postdocs",
+  "n": "KFUPM: Two Postdoctoral Positions in Experimental Particle Physics (ATLAS)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3228565",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://ri.kfupm.edu.sa/irc-ine/jobs/job-details/postdoctoral-research-associate-positions-in-experimental-particle-physics-(atlas-experiment-at-cern)",
+  "unv": "Salary and appointment length not stated; host page not opened.",
   "us": false
  },
  {
@@ -22082,6 +22045,37 @@
   "u": "https://nationalmaglab.org/education/college-students/reu/",
   "unv": "Required class year not stated",
   "us": true
+ },
+ {
+  "a": "TV-L E13",
+  "added": "2026-11-14",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-14",
+  "d": "2026-12-16",
+  "dt": "Dec 16, 2026; later applications considered until the positions are filled",
+  "e": "Several postdocs in the theoretical high energy physics group (particle and astroparticle physics, cosmology, field theory, string theory, mathematical physics), including posts on Matthias Neubert's ERC grant on collider effective field theory.",
+  "f": "Johannes Gutenberg University Mainz, Institute for Physics (THEP group)",
+  "fields": [
+   "ppt"
+  ],
+  "id": "mainz-thep-postdoc-positions-2027",
+  "n": "Mainz University: Postdoctoral positions in theoretical high energy physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227827",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33133",
+  "unv": "Appointment length not stated.",
+  "us": false
  },
  {
   "a": "TV-L E13; 3 years",
@@ -24603,6 +24597,39 @@
   "us": false
  },
  {
+  "a": "2 years (Adiunkt position on an NCN OPUS grant); salary not stated",
+  "added": "2026-11-14",
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-14",
+  "d": "2026-12-03",
+  "dt": "Dec 3, 2026, 12:00 (by email to the PI); start by Jul 1, 2027",
+  "e": "Two-year post with Jerzy Kowalski-Glikman on corner charge algebras in quantum gravity and their representations. Requires a PhD with publications on boundary or edge charges.",
+  "f": "National Centre for Nuclear Research (NCBJ), Warsaw",
+  "fields": [
+   "grav",
+   "ppt"
+  ],
+  "id": "ncbj-warsaw-quantum-gravity-corner-postdoc",
+  "n": "NCBJ Warsaw: Postdoc in quantum gravity (Quantum Gravity in a Corner)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227866",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.ncbj.gov.pl/en/node/2816",
+  "unv": "Salary not stated.",
+  "us": false
+ },
+ {
   "a": "Under $500K direct per year; up to 5 years",
   "added": "2026-10-03",
   "aud": [
@@ -24925,15 +24952,15 @@
  },
  {
   "a": "Magnet time free of charge",
-  "added": "2026-10-12",
+  "added": "2026-11-14",
   "aud": [
    "yale",
    "ap"
   ],
   "c": "Instrumentation",
-  "checked": "2026-11-09",
-  "d": "2026-11-13",
-  "dt": "Spring 2027 magnet time (Jan 18 to May 16, 2027) requests due Fri Nov 13, 2026; Summer 2027 due Mar 12, 2027; Fall 2027 due Jul 16, 2027",
+  "checked": "2026-11-14",
+  "d": "2027-03-12",
+  "dt": "Summer 2027 magnet time (May 17 to Sep 19, 2027) requests due Fri Mar 12, 2027; Fall 2027 due Jul 16, 2027",
   "e": "Peer-reviewed user time in high-field DC (resistive, hybrid, superconducting) and pulsed magnets, for example for transport, optical and thermodynamic measurements on quantum materials. A proposal is needed for every facility and stays valid for three years; DC Field and Pulsed Field also require a prior-results report.",
   "f": "National High Magnetic Field Laboratory (NSF / State of Florida)",
   "fields": [
@@ -24941,12 +24968,12 @@
    "mat",
    "inst"
   ],
-  "id": "nhmfl-dc-pulsed-field-magnet-time-spring-2027",
-  "n": "National MagLab DC Field / Pulsed Field magnet time (Spring 2027)",
+  "id": "nhmfl-dc-pulsed-field-magnet-time-summer-2027",
+  "n": "National MagLab DC Field / Pulsed Field magnet time (Summer 2027)",
   "nom": false,
   "pt": "other",
   "s": "open",
-  "src": "other:nhmfl-dc-pff-2027",
+  "src": "other:nhmfl-dc-pff-2027-summer",
   "stages": [
    "tt",
    "ten",
@@ -24954,7 +24981,7 @@
    "gr"
   ],
   "u": "https://nationalmaglab.org/user-facilities/dc-field/",
-  "unv": "A search summary reported that the water-cooled resistive and hybrid DC magnets are shut down from mid-November 2026 through April 2027 for maintenance; the DC Field page did not mention this on Nov 2, 2026. Eligibility of non-US users not checked"
+  "unv": "Eligibility of non-US users not checked."
  },
  {
   "a": "1-year appointment, renewable up to 2 more years",
@@ -30750,9 +30777,9 @@
    "ap"
   ],
   "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-13",
-  "dt": "Posting end date Nov 13, 2026 (from job-board record)",
+  "checked": "2026-11-14",
+  "d": null,
+  "dt": "Last posting end date Nov 13, 2026; not confirmed whether applications are still accepted",
   "e": "Center-supported postdoc in quantum networking doing self-directed and joint research, co-advised by CQISE faculty in at least two departments. Requires a doctorate in a quantum-related field (math, physics, chemistry, ECE, MSE or CSE) and interdisciplinary research experience; in person in central Ohio.",
   "f": "The Ohio State University, Center for Quantum Information Science and Engineering",
   "fields": [
@@ -30764,13 +30791,13 @@
   "nom": false,
   "pt": "group",
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "src": "other:osu-R160444",
   "stages": [
    "pd"
   ],
   "u": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar---Quantum-Networking_R160444-1",
-  "unv": "Close date (Nov 13, 2026) is from the Workday posting record, not from the ad text; no citizenship statement seen.",
+  "unv": "Close date (Nov 13, 2026) is from the Workday posting record, not from the ad text; no citizenship statement seen. On Nov 14, 2026 the Workday job site showed a maintenance page, so it could not be checked whether the posting is still open.",
   "us": false
  },
  {
@@ -34891,37 +34918,6 @@
   "us": false
  },
  {
-  "a": "Full-time scholarship for two years",
-  "added": "2026-10-15",
-  "aud": [
-   "yale",
-   "ng"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-13",
-  "dt": "Nov 13, 2026",
-  "e": "Postdoc in the ALPHA collaboration searching for dark-matter axions with wire-array metamaterial resonators: designing and testing microwave cavities in a dilution refrigerator and building the analysis framework.",
-  "f": "Department of Physics, Stockholm University",
-  "fields": [
-   "ppx",
-   "inst"
-  ],
-  "id": "stockholm-u-axion-experiment-postdoc-alpha",
-  "n": "Stockholm University: Postdoctoral Fellow in Axion Search Experiment (ALPHA)",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3214619",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.su.se/english/divisions/department-of-physics/about-the-department/work-with-us/postdoctoral-fellow-in-axion-search-experiment",
-  "us": false
- },
- {
   "a": "Not stated",
   "added": "2026-11-11",
   "aud": [
@@ -35754,6 +35750,44 @@
   "us": false
  },
  {
+  "a": "Salary not stated",
+  "added": "2026-11-14",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-14",
+  "d": "2027-02-28",
+  "dt": "Feb 28, 2027 (INSPIRE deadline); apply by email",
+  "e": "Postdoc with Donglian Xu's group developing lightweight AI algorithms on FPGAs for real-time waveform analysis and triggering in TRIDENT, a deep-sea neutrino telescope in the South China Sea, with work on event reconstruction and multimessenger astronomy.",
+  "f": "Tsung-Dao Lee Institute, Shanghai Jiao Tong University",
+  "fields": [
+   "astro",
+   "ppx",
+   "inst"
+  ],
+  "id": "tdli-trident-fpga-ai-neutrino-astronomy-postdoc",
+  "n": "Tsung-Dao Lee Institute (SJTU): Postdoc in FPGA-based AI for Neutrino Astronomy (TRIDENT)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227787",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3227787",
+  "unv": "Salary and appointment length not stated in the INSPIRE listing; no host ad linked.",
+  "us": false
+ },
+ {
   "added": "2026-10-22",
   "asub": [
    "cos"
@@ -36396,39 +36430,6 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33263",
   "unv": "Salary and appointment length not stated.",
-  "us": false
- },
- {
-  "a": "3 years; EUR 70,200 gross per year, travel funds",
-  "added": "2026-10-20",
-  "aud": [
-   "yale",
-   "ng",
-   "ast"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-13",
-  "dt": "Nov 13, 2026; start from Feb 1, 2027",
-  "e": "FWF-funded postdoc on matter-gravity interactions in causal dynamical triangulations using numerical simulations. No citizenship restriction stated.",
-  "f": "University of Graz, Theoretical Particle Physics (Axel Maas)",
-  "fields": [
-   "ppt",
-   "grav"
-  ],
-  "id": "u-graz-cdt-quantum-gravity-postdoc",
-  "n": "University of Graz: Postdoc in quantum gravity (CDT simulations)",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3215787",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://inspirehep.net/jobs/3215787",
-  "unv": "No host-site ad link given on INSPIRE; application route not confirmed on the university site.",
   "us": false
  },
  {
@@ -38087,6 +38088,37 @@
   ],
   "u": "https://aas.org/jobregister/ad/57813d20",
   "unv": "Deadline and salary confirmed on the jobs.ac.uk copy of the UCL advert (ref. B04-07866) on Nov 9, 2026; the AAS Job Register blocks automated access (HTTP 403).",
+  "us": false
+ },
+ {
+  "a": "UCL Grade 7; 2 years, possible third year",
+  "added": "2026-11-14",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-14",
+  "d": "2027-01-04",
+  "dt": "Jan 4, 2027 (INSPIRE deadline)",
+  "e": "Postdoc working on parton distribution function analyses with Robert Thorne and/or precision Monte Carlo event generators with Keith Hamilton.",
+  "f": "University College London, Department of Physics and Astronomy (HEP group)",
+  "fields": [
+   "ppt"
+  ],
+  "id": "ucl-standard-model-phenomenology-postdoc",
+  "n": "UCL: Postdoctoral Position in Standard Model Phenomenology",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227948",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.ucl.ac.uk/about/work-at-ucl/search-jobs/details?nPostingId=20446&nPostingTargetId=50048&id=Q1KFK026203F3VBQBLO8M8M07&LG=UK&languageSelect=UK&mask=ext",
+  "unv": "Closing date taken from INSPIRE; UCL posting not opened.",
   "us": false
  },
  {
@@ -40407,6 +40439,43 @@
   "u": "https://mrsec.utexas.edu/education-outreach/research-experience-undergraduates",
   "unv": "The page heading says 2027 but some body text still says 2026; dates are stated as anticipated",
   "us": true
+ },
+ {
+  "a": "Up to two positions; 2 years, renewable for a third; salary not stated",
+  "added": "2026-11-14",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-14",
+  "d": "2027-01-03",
+  "dt": "Applications received by Jan 3, 2027 get full consideration; start Sep 2027",
+  "e": "Up to two postdocs in numerical relativity, gravitational-wave source modeling and waveforms, parameter estimation and gravitational-wave data analysis, including machine-learning methods. Faculty include Hsin-Yu Chen, Pablo Laguna, Richard Matzner, Deirdre Shoemaker, Jay Wadekar and Aaron Zimmerman.",
+  "f": "University of Texas at Austin, Center for Gravitational Physics",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "ut-austin-cgp-gw-postdoc-fellowships-2027",
+  "n": "UT Austin Center for Gravitational Physics: Postdoctoral Fellowships in Gravitational Wave Physics",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33430",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33430",
+  "unv": "Salary not stated; citizenship limits not stated.",
+  "us": false
  },
  {
   "a": "$80,000+ depending on qualifications",

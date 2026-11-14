@@ -4625,31 +4625,6 @@
   }
  },
  {
-  "a": "PhD: at least $16,000/yr stipend + full tuition/fees up to 5 yrs + paid summer internship; MS: $16,000 total + tuition",
-  "added": "2026-10-03",
-  "c": "Fellowship",
-  "checked": "2026-11-02",
-  "d": "2026-11-13",
-  "dt": "Application due second Friday in November (Nov 13, 2026); must also apply to 3 GEM member universities by Jan 15",
-  "e": "Portable fellowship for MS and PhD study in engineering and science at GEM member universities, paired with paid industry or lab internships. US citizens or permanent residents only.",
-  "f": "National GEM Consortium",
-  "fields": [
-   "all"
-  ],
-  "id": "gem-fellowship-2027",
-  "n": "GEM Fellowship (MS/PhD, engineering & science)",
-  "nom": false,
-  "s": "open",
-  "src": "other:gem",
-  "stages": [
-   "ug",
-   "gr"
-  ],
-  "u": "https://www.gemfellowship.org/gem-fellowship-program/",
-  "unv": "Yale's current GEM membership not confirmed on GEM site (member list is login-only). GEM's application page gives the deadline as the second Friday in November, which is Nov 13, 2026; no time of day is stated. On Nov 9, 2026 gemfellowship.org blocked automated access (Cloudflare check, HTTP 403), so the deadline was not reconfirmed.",
-  "us": true
- },
- {
   "a": "Two years, extension possible; SNSF-funded; start Fall 2027 (negotiable); salary not listed",
   "added": "2026-10-12",
   "c": "Group postdoc",
@@ -8319,11 +8294,11 @@
  },
  {
   "a": "Magnet time free of charge",
-  "added": "2026-10-12",
+  "added": "2026-11-14",
   "c": "Instrumentation",
-  "checked": "2026-11-09",
-  "d": "2026-11-13",
-  "dt": "Spring 2027 magnet time (Jan 18 to May 16, 2027) requests due Fri Nov 13, 2026; Summer 2027 due Mar 12, 2027; Fall 2027 due Jul 16, 2027",
+  "checked": "2026-11-14",
+  "d": "2027-03-12",
+  "dt": "Summer 2027 magnet time (May 17 to Sep 19, 2027) requests due Fri Mar 12, 2027; Fall 2027 due Jul 16, 2027",
   "e": "Peer-reviewed user time in high-field DC (resistive, hybrid, superconducting) and pulsed magnets, for example for transport, optical and thermodynamic measurements on quantum materials. A proposal is needed for every facility and stays valid for three years; DC Field and Pulsed Field also require a prior-results report.",
   "f": "National High Magnetic Field Laboratory (NSF / State of Florida)",
   "fields": [
@@ -8331,12 +8306,12 @@
    "mat",
    "inst"
   ],
-  "id": "nhmfl-dc-pulsed-field-magnet-time-spring-2027",
-  "n": "National MagLab DC Field / Pulsed Field magnet time (Spring 2027)",
+  "id": "nhmfl-dc-pulsed-field-magnet-time-summer-2027",
+  "n": "National MagLab DC Field / Pulsed Field magnet time (Summer 2027)",
   "nom": false,
   "pt": "other",
   "s": "open",
-  "src": "other:nhmfl-dc-pff-2027",
+  "src": "other:nhmfl-dc-pff-2027-summer",
   "stages": [
    "tt",
    "ten",
@@ -8344,7 +8319,7 @@
    "gr"
   ],
   "u": "https://nationalmaglab.org/user-facilities/dc-field/",
-  "unv": "A search summary reported that the water-cooled resistive and hybrid DC magnets are shut down from mid-November 2026 through April 2027 for maintenance; the DC Field page did not mention this on Nov 2, 2026. Eligibility of non-US users not checked"
+  "unv": "Eligibility of non-US users not checked."
  },
  {
   "a": "1-year appointment, renewable up to 2 more years",
@@ -11910,9 +11885,9 @@
   "a": "$65,000 target; 12 months, renewable up to 3 years",
   "added": "2026-10-16",
   "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-13",
-  "dt": "Posting end date Nov 13, 2026 (from job-board record)",
+  "checked": "2026-11-14",
+  "d": null,
+  "dt": "Last posting end date Nov 13, 2026; not confirmed whether applications are still accepted",
   "e": "Center-supported postdoc in quantum networking doing self-directed and joint research, co-advised by CQISE faculty in at least two departments. Requires a doctorate in a quantum-related field (math, physics, chemistry, ECE, MSE or CSE) and interdisciplinary research experience; in person in central Ohio.",
   "f": "The Ohio State University, Center for Quantum Information Science and Engineering",
   "fields": [
@@ -11924,13 +11899,13 @@
   "nom": false,
   "pt": "group",
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "src": "other:osu-R160444",
   "stages": [
    "pd"
   ],
   "u": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar---Quantum-Networking_R160444-1",
-  "unv": "Close date (Nov 13, 2026) is from the Workday posting record, not from the ad text; no citizenship statement seen.",
+  "unv": "Close date (Nov 13, 2026) is from the Workday posting record, not from the ad text; no citizenship statement seen. On Nov 14, 2026 the Workday job site showed a maintenance page, so it could not be checked whether the posting is still open.",
   "us": false
  },
  {

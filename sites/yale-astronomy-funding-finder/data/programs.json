@@ -2709,6 +2709,38 @@
   "us": false
  },
  {
+  "a": "2 years, possible third year; salary not stated",
+  "added": "2026-11-14",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-11-14",
+  "d": "2026-12-15",
+  "dt": "Applications received by Dec 15, 2026 (23:59 CET) get full consideration; start Oct 2027",
+  "e": "Fellowships for theorists less than 5 years past the PhD, in collider phenomenology, particle cosmology, axions and light particles, gravitational waves, string theory and mathematical physics. Fellows join the Quantum Universe cluster with the University of Hamburg.",
+  "f": "DESY (Deutsches Elektronen-Synchrotron), Theory Group, Hamburg",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "desy-hamburg-theory-group-fellowship-2027",
+  "n": "DESY Hamburg: Theory Group Fellowship Programme (2027)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3228416",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://ias.desy.de/pls/apex/f?p=182:1:0:",
+  "unv": "Salary not stated.",
+  "us": false
+ },
+ {
   "a": "2 years; pay per TV-AVH (amount not stated)",
   "added": "2026-10-21",
   "asub": [
@@ -3055,39 +3087,6 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33173",
-  "us": false
- },
- {
-  "a": "Up to TVöD Bund E13; fixed-term until 30 June 2029",
-  "added": "2026-10-16",
-  "asub": [
-   "inst"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-13",
-  "dt": "Apply via online portal by Nov 13, 2026, quoting T02D-26-01",
-  "e": "Experimental postdoc on optical and thermo-mechanical characterization of large silicon mirror substrates for the Einstein Telescope low-frequency interferometer, within the German ET Joint Project D. Requires a PhD in physics, materials/surface science, engineering or a related experimental field; no citizenship limits stated.",
-  "f": "Deutsches Zentrum für Astrophysik (DZA)",
-  "fields": [
-   "grav",
-   "inst",
-   "phot",
-   "mat"
-  ],
-  "id": "dza-postdoc-optical-metrology-einstein-telescope",
-  "n": "German Center for Astrophysics (DZA): Postdoctoral Researcher in Optical Metrology for Einstein Telescope silicon mirrors (T02D-26-01)",
-  "nfit": "High",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "other:lisa-dza-t02d-26-01",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://jobs.deutscheszentrumastrophysik.de/en-GB/jobs/8547185-t02d-26-01-postdoctoral-researcher-f-m-d-optical-metrology",
-  "unv": "Start date beyond 'earliest possible' not stated; the posting lists the site as DZA Görlitz (hybrid).",
   "us": false
  },
  {
@@ -5728,37 +5727,6 @@
   "us": false
  },
  {
-  "a": "₹58,000/month + 27% HRA (ANRF norms); 11 months, extendable by 6 months",
-  "added": "2026-10-27",
-  "asub": [
-   "cos"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-13",
-  "dt": "Nov 13, 2026; apply by email; expected joining Nov 30, 2026",
-  "e": "One Research Associate-I post on dark matter phenomenology, astroparticle physics and cosmology in an ANRF-funded project on probing beyond-Standard-Model physics. Open to PhD holders and those who have submitted their thesis.",
-  "f": "Indian Institute of Technology Hyderabad, Department of Physics (Divya Sachdeva); ANRF project",
-  "fields": [
-   "ppt",
-   "astro"
-  ],
-  "id": "iit-hyderabad-astroparticle-ra-postdoc",
-  "n": "IIT Hyderabad: Postdoctoral Research Associate in Astroparticle Physics",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3218543",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://physics.iith.ac.in/assets/Announcements/Advertisement_RA-I_ANRF_PMECRG_IITH.pdf",
-  "unv": "Nationality rules are not stated in the official advertisement.",
-  "us": false
- },
- {
   "a": "3-year funded PhD research contracts with benefits + conference/training support",
   "added": "2026-10-01",
   "asub": [
@@ -5874,36 +5842,6 @@
    "pd"
   ],
   "u": "https://jobs.dsi.infn.it/dettagli_job.php?id=4679",
-  "us": false
- },
- {
-  "a": "2+1 years; start Fall 2027-Spring 2028; salary not listed",
-  "added": "2026-10-24",
-  "asub": [
-   "he"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-13",
-  "dt": "Expressions of interest and reference letters due 13 Nov 2026",
-  "e": "Expression of interest for a postdoc in Elisa Maggio's group testing general relativity with multiband gravitational-wave observations (data analysis, waveform modelling, horizonless compact objects, modified gravity). Requires a PhD (or near completion) in physics, astronomy or astrophysics.",
-  "f": "INFN Roma (Italian Fund for Science FIS Starting Grant Eyes-on-GR)",
-  "fields": [
-   "grav"
-  ],
-  "id": "infn-rome-maggio-gw-tests-gr-postdoc-eoi",
-  "n": "INFN Rome: Postdoc in GW tests of general relativity (Eyes-on-GR, Maggio group) - expression of interest",
-  "nfit": "High",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "other:hyperspace-infn-rome-eyes-on-gr",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://hyperspace.uni-frankfurt.de/2026/10/23/expression-of-interest-for-postdoctoral-position-in-gw-tests-of-general-relativity-rome-italy/",
-  "unv": "This is an expression-of-interest call, not a formal INFN competition; no host-site ad found (submissions via Google Form). Salary and eligibility limits not stated.",
   "us": false
  },
  {
@@ -8872,6 +8810,34 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/fellowship/33130",
+  "us": false
+ },
+ {
+  "a": "2 years (Adiunkt position on an NCN OPUS grant); salary not stated",
+  "added": "2026-11-14",
+  "c": "Group postdoc",
+  "checked": "2026-11-14",
+  "d": "2026-12-03",
+  "dt": "Dec 3, 2026, 12:00 (by email to the PI); start by Jul 1, 2027",
+  "e": "Two-year post with Jerzy Kowalski-Glikman on corner charge algebras in quantum gravity and their representations. Requires a PhD with publications on boundary or edge charges.",
+  "f": "National Centre for Nuclear Research (NCBJ), Warsaw",
+  "fields": [
+   "grav",
+   "ppt"
+  ],
+  "id": "ncbj-warsaw-quantum-gravity-corner-postdoc",
+  "n": "NCBJ Warsaw: Postdoc in quantum gravity (Quantum Gravity in a Corner)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227866",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.ncbj.gov.pl/en/node/2816",
+  "unv": "Salary not stated.",
   "us": false
  },
  {
@@ -12526,6 +12492,38 @@
   "us": false
  },
  {
+  "a": "Salary not stated",
+  "added": "2026-11-14",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-14",
+  "d": "2027-02-28",
+  "dt": "Feb 28, 2027 (INSPIRE deadline); apply by email",
+  "e": "Postdoc with Donglian Xu's group developing lightweight AI algorithms on FPGAs for real-time waveform analysis and triggering in TRIDENT, a deep-sea neutrino telescope in the South China Sea, with work on event reconstruction and multimessenger astronomy.",
+  "f": "Tsung-Dao Lee Institute, Shanghai Jiao Tong University",
+  "fields": [
+   "astro",
+   "ppx",
+   "inst"
+  ],
+  "id": "tdli-trident-fpga-ai-neutrino-astronomy-postdoc",
+  "n": "Tsung-Dao Lee Institute (SJTU): Postdoc in FPGA-based AI for Neutrino Astronomy (TRIDENT)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3227787",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3227787",
+  "unv": "Salary and appointment length not stated in the INSPIRE listing; no host ad linked.",
+  "us": false
+ },
+ {
   "added": "2026-10-22",
   "asub": [
    "cos"
@@ -12731,34 +12729,6 @@
   ],
   "u": "https://aas.org/jobregister/ad/5fa2601e",
   "unv": "AAS page blocked automated access (HTTP 403) on Oct 7, Oct 21, Nov 2 and Nov 9, 2026, and the Tsinghua astronomy department's postdoc page shows no ad text; deadline confirmed from search-indexed copies of the ad (Oct 7 and Nov 9, 2026), not from the ad itself.",
-  "us": false
- },
- {
-  "a": "3 years; EUR 70,200 gross per year, travel funds",
-  "added": "2026-10-20",
-  "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-13",
-  "dt": "Nov 13, 2026; start from Feb 1, 2027",
-  "e": "FWF-funded postdoc on matter-gravity interactions in causal dynamical triangulations using numerical simulations. No citizenship restriction stated.",
-  "f": "University of Graz, Theoretical Particle Physics (Axel Maas)",
-  "fields": [
-   "ppt",
-   "grav"
-  ],
-  "id": "u-graz-cdt-quantum-gravity-postdoc",
-  "n": "University of Graz: Postdoc in quantum gravity (CDT simulations)",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3215787",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://inspirehep.net/jobs/3215787",
-  "unv": "No host-site ad link given on INSPIRE; application route not confirmed on the university site.",
   "us": false
  },
  {
@@ -14107,6 +14077,37 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/29470",
+  "us": false
+ },
+ {
+  "a": "Up to two positions; 2 years, renewable for a third; salary not stated",
+  "added": "2026-11-14",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-14",
+  "d": "2027-01-03",
+  "dt": "Applications received by Jan 3, 2027 get full consideration; start Sep 2027",
+  "e": "Up to two postdocs in numerical relativity, gravitational-wave source modeling and waveforms, parameter estimation and gravitational-wave data analysis, including machine-learning methods. Faculty include Hsin-Yu Chen, Pablo Laguna, Richard Matzner, Deirdre Shoemaker, Jay Wadekar and Aaron Zimmerman.",
+  "f": "University of Texas at Austin, Center for Gravitational Physics",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "ut-austin-cgp-gw-postdoc-fellowships-2027",
+  "n": "UT Austin Center for Gravitational Physics: Postdoctoral Fellowships in Gravitational Wave Physics",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33430",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33430",
+  "unv": "Salary not stated; citizenship limits not stated.",
   "us": false
  },
  {
