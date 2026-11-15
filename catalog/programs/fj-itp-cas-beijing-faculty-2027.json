@@ -1,0 +1,36 @@
+{
+ "a": "Tenure-track associate professor (via the Overseas Excellent Young Scientists Fund or CAS talents program) or fixed-term (3–5 year) associate professor; salary not stated",
+ "added": "2026-11-15",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-15",
+ "d": "2026-12-31",
+ "dt": "Applications by email by Dec 31, 2026",
+ "e": "Faculty positions in theoretical physics, including particle and nuclear theory, quantum field theory, gravitational theory, cosmology and gravitational-wave physics, condensed matter, statistical and biophysics, quantum optics and quantum computing. Tenure-track routes require birth on or after Jan 1, 1987 and at least three years of research after the PhD at an overseas institution; the fixed-term route requires age under 38.",
+ "f": "Institute of Theoretical Physics, Chinese Academy of Sciences",
+ "fields": [
+  "ppt",
+  "nut",
+  "grav",
+  "astro",
+  "cmt",
+  "qp",
+  "amo",
+  "bio"
+ ],
+ "id": "fj-itp-cas-beijing-faculty-2027",
+ "n": "ITP-CAS Beijing: Faculty Positions Available in 2027 (tenure-track and fixed-term associate professors)",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3227300",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://inspirehep.net/jobs/3227300",
+ "unv": "Details taken from the INSPIRE listing; the institute's own announcement was not read. Applications go by email to the institute's recruitment office.",
+ "us": false
+}

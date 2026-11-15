@@ -1,0 +1,38 @@
+{
+ "a": "Project Researcher: salary comparable to a JSPS postdoctoral fellow, up to 3 years; Project Assistant Professor: higher, based on experience, up to 5 years",
+ "added": "2026-11-15",
+ "asub": [
+  "cos",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-15",
+ "d": "2027-01-04",
+ "dt": "Applications must arrive by Jan 4, 2027; start on or after Apr 1, 2027",
+ "e": "A few fixed-term research positions in cosmology, gravitational theory, gravitational-wave experiment and data analysis, and multi-messenger astronomy. Applicants must hold a PhD by the start date and may apply to both tracks; no citizenship limit stated.",
+ "f": "Research Center for the Early Universe (RESCEU), Graduate School of Science, University of Tokyo",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "utokyo-resceu-project-researchers-2027",
+ "n": "University of Tokyo RESCEU: Project Researcher and Project Assistant Professor (fixed-term)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:resceu-utokyo-2027",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.s.u-tokyo.ac.jp/en/recruit/?id=2021",
+ "unv": "Exact salary figures not stated. The ad mentions Japanese export-control screening for applicants under the control of a foreign government or institution.",
+ "us": false
+}

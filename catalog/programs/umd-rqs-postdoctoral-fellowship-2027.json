@@ -1,0 +1,34 @@
+{
+ "a": "Salary and benefits plus a small research stipend (amounts not stated); 2 years, possible 3rd",
+ "added": "2026-11-15",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-11-15",
+ "d": "2026-12-10",
+ "dt": "Best consideration Dec 10, 2026; applications may be considered until filled",
+ "e": "Postdoctoral fellowship in experimental or theoretical quantum simulation, working with one or more senior investigators across the RQS member universities. No citizenship limit stated.",
+ "f": "NSF Quantum Leap Challenge Institute for Robust Quantum Simulation (RQS), led by the University of Maryland",
+ "fields": [
+  "qp",
+  "amo",
+  "cmt",
+  "cmx"
+ ],
+ "id": "umd-rqs-postdoctoral-fellowship-2027",
+ "n": "University of Maryland: RQS Postdoctoral Fellowship (quantum simulation)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33408",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33408",
+ "unv": "Salary amount not stated.",
+ "us": false
+}

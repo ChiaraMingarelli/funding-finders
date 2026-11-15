@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-10-26",
- "d": "2026-11-14",
- "dt": "Applications must arrive by Nov 14, 2026 (Advt. IOP/Recruit/08/2026)",
+ "checked": "2026-11-15",
+ "d": null,
+ "dt": "Last deadline Nov 14, 2026 (Advt. IOP/Recruit/08/2026); INSPIRE lists the posting as closed",
  "e": "Faculty posts in formal theory, astroparticle physics and cosmology, or experimental high-energy and heavy-ion physics. Open to Indian nationals only, with a PhD and at least 2 years (Assistant Professor) or 5 years (Reader) of postdoc or teaching experience.",
  "f": "Institute of Physics, Bhubaneswar (DAE, Govt. of India)",
  "fields": [
@@ -21,12 +21,12 @@
  "nfit": "Medium",
  "nom": false,
  "region": "International",
- "s": "open",
+ "s": "watch",
  "src": "inspire:3211733",
  "stages": [
   "fj"
  ],
  "u": "https://www.iopb.res.in/job_opening/hep-faculty-advertisement/",
- "unv": "Details taken from the INSPIRE description; the host's application form was not read. iopb.res.in could not be reached on Oct 21, Nov 2 or Nov 9, 2026 (connection failed); INSPIRE still lists the post as open to Nov 14, 2026.",
+ "unv": "Details taken from the INSPIRE description; the host's application form was not read. iopb.res.in could not be reached on Oct 21, Nov 2 or Nov 9, 2026 (connection failed); INSPIRE still lists the post as open to Nov 14, 2026. The IOP Bhubaneswar ad could not be reached on Nov 15, 2026 (TLS error), so it is not confirmed whether applications are still accepted.",
  "us": false
 }

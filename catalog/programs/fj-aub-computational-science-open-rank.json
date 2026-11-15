@@ -1,0 +1,29 @@
+{
+ "a": "Open rank, tenure-track (salary not stated)",
+ "added": "2026-11-15",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-15",
+ "d": "2027-01-15",
+ "dt": "All materials due Jan 15, 2027",
+ "e": "Tenure-track open-rank faculty post in computational science (large-scale simulation, inverse problems, scientific machine learning, uncertainty quantification, network dynamics); PhD in computational science, applied mathematics, computer science, physics or a related field. No citizenship limit stated.",
+ "f": "American University of Beirut, School of Computing and Data Sciences",
+ "fields": [
+  "ds"
+ ],
+ "id": "fj-aub-computational-science-open-rank",
+ "n": "American University of Beirut: Tenure-Track Open-Rank Position in Computational Science",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33416",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33416",
+ "unv": "Salary not stated; applications go through an external link.",
+ "us": false
+}

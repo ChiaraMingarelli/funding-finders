@@ -1,0 +1,32 @@
+{
+ "a": "Open rank (salary not stated)",
+ "added": "2026-11-15",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-15",
+ "d": "2027-01-15",
+ "dt": "Best consideration Jan 15, 2027",
+ "e": "Search for a new JQI Fellow to lead an independent research group, mainly in experimental quantum physics (AMO, condensed matter, photonics, quantum information, sensing); preferred start August 2027. Requires a PhD in physics or a related field; no citizenship limit stated.",
+ "f": "Joint Quantum Institute (University of Maryland, NIST and Laboratory for Physical Sciences)",
+ "fields": [
+  "amo",
+  "cmx",
+  "qp",
+  "phot"
+ ],
+ "id": "fj-umd-jqi-fellow-2027",
+ "n": "University of Maryland: Joint Quantum Institute Fellow (open rank)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33410",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33410",
+ "unv": "Tenure status and salary not stated; whether the appointment is with UMD, NIST or LPS was not confirmed.",
+ "us": false
+}
