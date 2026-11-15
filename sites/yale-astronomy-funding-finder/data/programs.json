@@ -5907,6 +5907,38 @@
   "us": false
  },
  {
+  "a": "Salary not stated; 2 years, possible extension; start Aug or Sep 2027",
+  "added": "2026-11-15",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-15",
+  "d": "2026-12-15",
+  "dt": "Expressions of interest due Dec 15, 2026; screening from December until filled",
+  "e": "Expression of interest for about 8 postdocs (about 2 per site at IPhT Saclay, Sapienza Rome, DAMTP Cambridge and UIUC) on black-hole microstate geometries, numerical relativity and gravitational-wave and EHT signatures; applicants may state a preferred host. Cambridge positions need a separate application; no citizenship limit stated.",
+  "f": "CEA-Saclay Institut de Physique Théorique, with Sapienza Rome, DAMTP Cambridge and UIUC (MicroBH network, Templeton-funded)",
+  "fields": [
+   "grav",
+   "ppt",
+   "astro"
+  ],
+  "id": "ipht-saclay-microbh-postdocs-2027",
+  "n": "CEA-Saclay IPhT: Postdocs in the MicroBH network (black-hole microstates, numerical relativity, GW signatures)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33404",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33404",
+  "unv": "Salary not stated; how hiring is split across sites was not verified.",
+  "us": false
+ },
+ {
   "a": "Free registration in 2026",
   "added": "2026-09-29",
   "asub": [
@@ -14202,6 +14234,38 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32699",
+  "us": false
+ },
+ {
+  "a": "Project Researcher: salary comparable to a JSPS postdoctoral fellow, up to 3 years; Project Assistant Professor: higher, based on experience, up to 5 years",
+  "added": "2026-11-15",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-15",
+  "d": "2027-01-04",
+  "dt": "Applications must arrive by Jan 4, 2027; start on or after Apr 1, 2027",
+  "e": "A few fixed-term research positions in cosmology, gravitational theory, gravitational-wave experiment and data analysis, and multi-messenger astronomy. Applicants must hold a PhD by the start date and may apply to both tracks; no citizenship limit stated.",
+  "f": "Research Center for the Early Universe (RESCEU), Graduate School of Science, University of Tokyo",
+  "fields": [
+   "astro",
+   "grav"
+  ],
+  "id": "utokyo-resceu-project-researchers-2027",
+  "n": "University of Tokyo RESCEU: Project Researcher and Project Assistant Professor (fixed-term)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:resceu-utokyo-2027",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.s.u-tokyo.ac.jp/en/recruit/?id=2021",
+  "unv": "Exact salary figures not stated. The ad mentions Japanese export-control screening for applicants under the control of a foreign government or institution.",
   "us": false
  },
  {

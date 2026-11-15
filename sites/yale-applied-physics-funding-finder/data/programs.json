@@ -2848,6 +2848,36 @@
   "us": false
  },
  {
+  "a": "Salary not stated; includes travel and research funds; 1 year, renewable for up to 2 more",
+  "added": "2026-11-15",
+  "c": "Group postdoc",
+  "checked": "2026-11-15",
+  "d": null,
+  "dt": "Review began immediately and continues until filled; start between May 1 and Sep 1, 2027",
+  "e": "Postdoc in experimental or theoretical physics in the research areas of the New York Max Planck Center for Nonequilibrium Quantum Physics; applicants name a Columbia physics faculty member in the Center as sponsor. Preference for PhDs from 2026, open to PhDs from 2025 on; no citizenship limit stated.",
+  "f": "Columbia University, Department of Physics (New York Max Planck Center for Nonequilibrium Quantum Physics)",
+  "fields": [
+   "cmx",
+   "cmt",
+   "amo",
+   "qp"
+  ],
+  "id": "columbia-max-planck-postdoc-2027",
+  "n": "Columbia University: 2027 Max Planck Postdoctoral Research Scientist",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "ajo:33420",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33420",
+  "unv": "Salary not stated. Applications go through Columbia's Interfolio page, not AJO.",
+  "us": false
+ },
+ {
   "a": "1 year, extendible up to 2 more",
   "added": "2026-09-30",
   "asub": [
@@ -15369,6 +15399,36 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32926",
+  "us": false
+ },
+ {
+  "a": "Salary and benefits plus a small research stipend (amounts not stated); 2 years, possible 3rd",
+  "added": "2026-11-15",
+  "c": "Fellowship",
+  "checked": "2026-11-15",
+  "d": "2026-12-10",
+  "dt": "Best consideration Dec 10, 2026; applications may be considered until filled",
+  "e": "Postdoctoral fellowship in experimental or theoretical quantum simulation, working with one or more senior investigators across the RQS member universities. No citizenship limit stated.",
+  "f": "NSF Quantum Leap Challenge Institute for Robust Quantum Simulation (RQS), led by the University of Maryland",
+  "fields": [
+   "qp",
+   "amo",
+   "cmt",
+   "cmx"
+  ],
+  "id": "umd-rqs-postdoctoral-fellowship-2027",
+  "n": "University of Maryland: RQS Postdoctoral Fellowship (quantum simulation)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33408",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33408",
+  "unv": "Salary amount not stated.",
   "us": false
  },
  {

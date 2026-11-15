@@ -2178,6 +2178,29 @@
   ]
  },
  {
+  "id": "columbia-max-planck-postdoc-2027",
+  "n": "Columbia University: 2027 Max Planck Postdoctoral Research Scientist",
+  "f": "Columbia University, Department of Physics (New York Max Planck Center for Nonequilibrium Quantum Physics)",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Review began immediately and continues until filled; start between May 1 and Sep 1, 2027",
+  "a": "Salary not stated; includes travel and research funds; 1 year, renewable for up to 2 more",
+  "e": "Postdoc in experimental or theoretical physics in the research areas of the New York Max Planck Center for Nonequilibrium Quantum Physics; applicants name a Columbia physics faculty member in the Center as sponsor. Preference for PhDs from 2026, open to PhDs from 2025 on; no citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33420",
+  "unv": "Salary not stated. Applications go through Columbia's Interfolio page, not AJO.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-15",
+  "added": "2026-11-15",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
   "id": "columbia-nevis-atlas-postdoc",
   "n": "Columbia University (Nevis Labs): ATLAS Postdoctoral Research Scientist",
   "f": "Columbia University",
@@ -3229,6 +3252,28 @@
   "d": null
  },
  {
+  "id": "fj-aub-computational-science-open-rank",
+  "n": "American University of Beirut: Tenure-Track Open-Rank Position in Computational Science",
+  "f": "American University of Beirut, School of Computing and Data Sciences",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2027-01-15",
+  "dt": "All materials due Jan 15, 2027",
+  "a": "Open rank, tenure-track (salary not stated)",
+  "e": "Tenure-track open-rank faculty post in computational science (large-scale simulation, inverse problems, scientific machine learning, uncertainty quantification, network dynamics); PhD in computational science, applied mathematics, computer science, physics or a related field. No citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33416",
+  "unv": "Salary not stated; applications go through an external link.",
+  "us": false,
+  "nom": false,
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-15",
+  "added": "2026-11-15",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
   "id": "fj-bates-college-asst-prof-of-physics-all-subfields-incl",
   "n": "Bates College: Asst Prof of Physics (all subfields incl. astronomy)",
   "f": "Dept. of Physics & Astronomy, Bates College",
@@ -3989,19 +4034,41 @@
   "n": "Institute of Physics Bhubaneswar: Assistant Professor (E) / Reader (F) in High Energy Physics",
   "f": "Institute of Physics, Bhubaneswar (DAE, Govt. of India)",
   "c": "Faculty job",
-  "s": "open",
-  "d": "2026-11-14",
-  "dt": "Applications must arrive by Nov 14, 2026 (Advt. IOP/Recruit/08/2026)",
+  "s": "watch",
+  "dt": "Last deadline Nov 14, 2026 (Advt. IOP/Recruit/08/2026); INSPIRE lists the posting as closed",
   "a": "Assistant Professor (E) / Reader (F); Pay Level 12/13 (7th CPC)",
   "e": "Faculty posts in formal theory, astroparticle physics and cosmology, or experimental high-energy and heavy-ion physics. Open to Indian nationals only, with a PhD and at least 2 years (Assistant Professor) or 5 years (Reader) of postdoc or teaching experience.",
   "u": "https://www.iopb.res.in/job_opening/hep-faculty-advertisement/",
-  "unv": "Details taken from the INSPIRE description; the host's application form was not read. iopb.res.in could not be reached on Oct 21, Nov 2 or Nov 9, 2026 (connection failed); INSPIRE still lists the post as open to Nov 14, 2026.",
+  "unv": "Details taken from the INSPIRE description; the host's application form was not read. iopb.res.in could not be reached on Oct 21, Nov 2 or Nov 9, 2026 (connection failed); INSPIRE still lists the post as open to Nov 14, 2026. The IOP Bhubaneswar ad could not be reached on Nov 15, 2026 (TLS error), so it is not confirmed whether applications are still accepted.",
   "us": false,
   "nom": false,
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-10-26",
+  "checked": "2026-11-15",
   "added": "2026-10-10",
+  "stages": [
+   "fj"
+  ],
+  "d": null
+ },
+ {
+  "id": "fj-itp-cas-beijing-faculty-2027",
+  "n": "ITP-CAS Beijing: Faculty Positions Available in 2027 (tenure-track and fixed-term associate professors)",
+  "f": "Institute of Theoretical Physics, Chinese Academy of Sciences",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-12-31",
+  "dt": "Applications by email by Dec 31, 2026",
+  "a": "Tenure-track associate professor (via the Overseas Excellent Young Scientists Fund or CAS talents program) or fixed-term (3–5 year) associate professor; salary not stated",
+  "e": "Faculty positions in theoretical physics, including particle and nuclear theory, quantum field theory, gravitational theory, cosmology and gravitational-wave physics, condensed matter, statistical and biophysics, quantum optics and quantum computing. Tenure-track routes require birth on or after Jan 1, 1987 and at least three years of research after the PhD at an overseas institution; the fixed-term route requires age under 38.",
+  "u": "https://inspirehep.net/jobs/3227300",
+  "unv": "Details taken from the INSPIRE listing; the institute's own announcement was not read. Applications go by email to the institute's recruitment office.",
+  "us": false,
+  "nom": false,
+  "region": "International",
+  "nfit": "High",
+  "checked": "2026-11-15",
+  "added": "2026-11-15",
   "stages": [
    "fj"
   ]
@@ -5567,6 +5634,28 @@
   "nfit": "Low",
   "checked": "2026-11-09",
   "added": "2026-10-31",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
+  "id": "fj-umd-jqi-fellow-2027",
+  "n": "University of Maryland: Joint Quantum Institute Fellow (open rank)",
+  "f": "Joint Quantum Institute (University of Maryland, NIST and Laboratory for Physical Sciences)",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2027-01-15",
+  "dt": "Best consideration Jan 15, 2027",
+  "a": "Open rank (salary not stated)",
+  "e": "Search for a new JQI Fellow to lead an independent research group, mainly in experimental quantum physics (AMO, condensed matter, photonics, quantum information, sensing); preferred start August 2027. Requires a PhD in physics or a related field; no citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33410",
+  "unv": "Tenure status and salary not stated; whether the appointment is with UMD, NIST or LPS was not confirmed.",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-15",
+  "added": "2026-11-15",
   "stages": [
    "fj"
   ]
@@ -8408,6 +8497,29 @@
   "nfit": "Low",
   "checked": "2026-11-09",
   "added": "2026-10-30",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "ipht-saclay-microbh-postdocs-2027",
+  "n": "CEA-Saclay IPhT: Postdocs in the MicroBH network (black-hole microstates, numerical relativity, GW signatures)",
+  "f": "CEA-Saclay Institut de Physique Théorique, with Sapienza Rome, DAMTP Cambridge and UIUC (MicroBH network, Templeton-funded)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-15",
+  "dt": "Expressions of interest due Dec 15, 2026; screening from December until filled",
+  "a": "Salary not stated; 2 years, possible extension; start Aug or Sep 2027",
+  "e": "Expression of interest for about 8 postdocs (about 2 per site at IPhT Saclay, Sapienza Rome, DAMTP Cambridge and UIUC) on black-hole microstate geometries, numerical relativity and gravitational-wave and EHT signatures; applicants may state a preferred host. Cambridge positions need a separate application; no citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33404",
+  "unv": "Salary not stated; how hiring is split across sites was not verified.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "High",
+  "checked": "2026-11-15",
+  "added": "2026-11-15",
   "stages": [
    "pd"
   ]
@@ -16272,6 +16384,29 @@
   "nfit": "Low",
   "checked": "2026-11-09",
   "added": "2026-10-27",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "utokyo-resceu-project-researchers-2027",
+  "n": "University of Tokyo RESCEU: Project Researcher and Project Assistant Professor (fixed-term)",
+  "f": "Research Center for the Early Universe (RESCEU), Graduate School of Science, University of Tokyo",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-04",
+  "dt": "Applications must arrive by Jan 4, 2027; start on or after Apr 1, 2027",
+  "a": "Project Researcher: salary comparable to a JSPS postdoctoral fellow, up to 3 years; Project Assistant Professor: higher, based on experience, up to 5 years",
+  "e": "A few fixed-term research positions in cosmology, gravitational theory, gravitational-wave experiment and data analysis, and multi-messenger astronomy. Applicants must hold a PhD by the start date and may apply to both tracks; no citizenship limit stated.",
+  "u": "https://www.s.u-tokyo.ac.jp/en/recruit/?id=2021",
+  "unv": "Exact salary figures not stated. The ad mentions Japanese export-control screening for applicants under the control of a foreign government or institution.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "High",
+  "checked": "2026-11-15",
+  "added": "2026-11-15",
   "stages": [
    "pd"
   ]
