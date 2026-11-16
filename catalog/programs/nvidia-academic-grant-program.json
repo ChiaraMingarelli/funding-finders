@@ -1,0 +1,33 @@
+{
+ "a": "Up to 30,000 NVIDIA H100 80GB GPU-hours, or up to eight RTX PRO 6000 GPUs (Simulation and Modeling call)",
+ "added": "2026-11-16",
+ "aud": [
+  "yale",
+  "radar",
+  "ap",
+  "ast"
+ ],
+ "c": "Compute",
+ "checked": "2026-11-16",
+ "d": null,
+ "dt": "Apply through the program portal; no deadline is posted on the program page, and timing is set in each call for proposals",
+ "e": "Competitive awards of GPU time or hardware for academic projects in simulation and modeling (scientific simulation, physics-informed machine learning), AI training and model development, and AI inference and systems software. Applicants must be full-time faculty at a PhD-granting institution, worldwide, and projects must use NVIDIA pretrained models or software distributions.",
+ "f": "NVIDIA",
+ "fields": [
+  "ds",
+  "all"
+ ],
+ "id": "nvidia-academic-grant-program",
+ "n": "NVIDIA Academic Grant Program (GPU hours and hardware)",
+ "nfit": "Low",
+ "nom": false,
+ "s": "rolling",
+ "src": "other:nvidia-academic-grant",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
+ "unv": "Submission windows are not stated on the program page; third-party listings describe quarterly review windows.",
+ "us": false
+}

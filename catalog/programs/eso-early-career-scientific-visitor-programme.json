@@ -1,0 +1,32 @@
+{
+ "a": "Monthly allowance for living expenses (status of Unpaid Associate); ESO generally provides a furnished apartment in Garching",
+ "added": "2026-11-16",
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Travel",
+ "checked": "2026-11-16",
+ "d": "2027-02-15",
+ "dt": "Feb 15, 2027 for visits starting from Jun 1, 2027; later deadlines May 15, Aug 1 and Nov 1",
+ "e": "Funds one-to-four-month research visits to ESO headquarters in Garching for PhD students in astronomy and postdocs up to three years from the PhD, who must hold an affiliation and contract for the whole visit. Any nationality may apply, with preference for nationals of ESO member states and Chile; applicants first arrange a host among ESO staff or fellows.",
+ "f": "European Southern Observatory (ESO), Office for Science Garching",
+ "fields": [
+  "astro"
+ ],
+ "id": "eso-early-career-scientific-visitor-programme",
+ "n": "ESO Early-Career Scientific Visitor Programme (Garching)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "other",
+ "region": "International",
+ "s": "open",
+ "src": "other:eso-ecs-visitor",
+ "stages": [
+  "gr",
+  "pd"
+ ],
+ "u": "https://www.eso.org/sci/activities/garching/personnelvisitors/Policy_Early-Career_Scientific_Visitors_Garching.html",
+ "unv": "The allowance amount is not stated on the page.",
+ "us": false
+}

@@ -1,0 +1,32 @@
+{
+ "a": "Participant fee €630 including accommodation and meals; a limited number of grants cover the fee (not travel)",
+ "added": "2026-11-16",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-11-16",
+ "d": "2027-01-03",
+ "dt": "Register by Jan 3, 2027; acceptance notices in early February; school Mar 14-19, 2027",
+ "e": "One-week Les Houches school and workshop (about 50 participants) on non-equilibrium dynamics of one- and two-dimensional quantum fluids on atomic and photonic platforms, with tutorials and invited seminars. Preference goes to applicants who submit a poster abstract and attend the whole school; fee grants are requested by emailing the organizers with a motivation letter.",
+ "f": "Les Houches School of Physics",
+ "fields": [
+  "amo",
+  "cmt",
+  "phot"
+ ],
+ "id": "les-houches-2027-low-dimensional-quantum-fluids",
+ "n": "Les Houches 2027: Out-of-Equilibrium Physics in Low-Dimensional Quantum Fluids",
+ "nom": false,
+ "pt": "other",
+ "s": "open",
+ "src": "other:leshouches-dyn1d-2027",
+ "stages": [
+  "gr",
+  "pd"
+ ],
+ "u": "https://dyn1d-houches.sciencesconf.org/",
+ "unv": "Eligible career stages are not stated (the page targets tutorials plus posters); stages gr and pd are assumed from the format. Number of fee grants not stated.",
+ "us": false
+}

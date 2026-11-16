@@ -1,0 +1,30 @@
+{
+ "a": "USD $1,000, framed certificate, meeting registration and up to USD $1,000 toward travel",
+ "added": "2026-11-16",
+ "aud": [
+  "ap"
+ ],
+ "c": "Prize",
+ "checked": "2026-11-16",
+ "d": "2027-01-15",
+ "dt": "Nomination period Oct 15 - Jan 15, annually; this cycle closes Jan 15, 2027; presented at the ECS fall meeting",
+ "e": "Recognizes early-career researchers and engineers (no more than 10 years since final degree or start of professional work) who have contributed to corrosion science and technology. Nominees need at least two consecutive years of ECS Corrosion Division membership and a paper in an ECS journal; no citizenship limits stated.",
+ "f": "The Electrochemical Society, Corrosion Division",
+ "fields": [
+  "mat",
+  "energy"
+ ],
+ "id": "ecs-corrosion-division-early-career-award",
+ "n": "ECS Corrosion Division Early-Career Award",
+ "nom": false,
+ "pt": "other",
+ "s": "open",
+ "src": "other:ecs-corrosion-early-career-award",
+ "stages": [
+  "tt",
+  "pd"
+ ],
+ "u": "https://www.electrochem.org/corrosion-division-early-career-award/",
+ "unv": "The page gives the annual Oct 15 - Jan 15 window; the 2027 closing date is taken from that annual window.",
+ "us": false
+}

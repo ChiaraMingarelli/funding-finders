@@ -1,0 +1,31 @@
+{
+ "a": "Up to $150,000 direct costs for joint Yale-UConn teams, or up to $75,000 for single-institution teams; performance period Jan 11 - Dec 31, 2027",
+ "added": "2026-11-16",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Yale internal",
+ "checked": "2026-11-16",
+ "d": "2026-11-30",
+ "dt": "Full proposals due Nov 30, 2026 at 12 noon via the QuantumCT submission portal; results expected the week of Jan 11, 2027",
+ "e": "Pilot grants funded by the NSF Engine award to QuantumCT for use-inspired quantum sensing research: magnetic-aided inertial navigation, Rydberg-atom RF detection, quantum-enabled distributed sensing, and quantum processes in biological systems. Projects must be led by tenure-track or tenured Yale or UConn faculty and include an unfunded industry partner; joint Yale-UConn teams are preferred.",
+ "f": "QuantumCT (NSF Regional Innovation Engine, Yale and UConn)",
+ "fields": [
+  "qp",
+  "amo",
+  "inst",
+  "bio"
+ ],
+ "id": "quantumct-use-inspired-pilot-grants-quantum-sensing-2026",
+ "n": "QuantumCT Use-Inspired Research Pilot Grants: Quantum Sensing (Fall 2026)",
+ "nom": false,
+ "s": "open",
+ "src": "other:quantumct-pilot-quantum-sensing-2026",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://www.quantumct.org/quantum-ct-use-inspired-research-pilot-grants-rfp-quantum-sensing/",
+ "us": false
+}

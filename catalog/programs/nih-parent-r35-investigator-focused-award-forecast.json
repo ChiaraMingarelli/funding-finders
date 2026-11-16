@@ -1,0 +1,35 @@
+{
+ "a": "Not specified in the forecast",
+ "added": "2026-11-16",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-11-16",
+ "d": null,
+ "dt": "Forecast posted Jul 30, 2026; est. NOFO post May 27, 2027; est. due Oct 4, 2027; est. award Jul 1, 2028",
+ "e": "NIH plans a trans-NIH parent R35 that funds an investigator's whole research program within an institute's mission, rather than a single project, at any career stage including Early Stage Investigators. US universities may apply; the forecast is expected to be the investigator's main funding from the awarding institute.",
+ "f": "NIH (multiple institutes and centers)",
+ "fields": [
+  "bio"
+ ],
+ "id": "nih-parent-r35-investigator-focused-award-forecast",
+ "n": "NIH Parent R35 Investigator-Focused Award (PAR-28-037) - forecast",
+ "nofo": [
+  {
+   "opp": "PAR-28-037",
+   "u": "https://simpler.grants.gov/opportunity/6ca421f6-5577-4c78-a736-cf2c3b6bfe72"
+  }
+ ],
+ "nom": false,
+ "s": "watch",
+ "src": "grants:PAR-28-037",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/6ca421f6-5577-4c78-a736-cf2c3b6bfe72",
+ "unv": "Forecast only: award size, budget limits and which institutes take part are not given yet.",
+ "us": false
+}

@@ -1,0 +1,34 @@
+{
+ "a": "No registration fee; limited funds for travel and local expenses",
+ "added": "2026-11-16",
+ "asub": [
+  "star",
+  "galac"
+ ],
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Training",
+ "checked": "2026-11-16",
+ "d": "2027-04-06",
+ "dt": "Application deadline Apr 6, 2027; the online application form is listed as opening soon",
+ "e": "One-week school (July 5-9, 2027, São Paulo, Brazil) introducing stellar evolution, stellar dynamics and observational astronomy, held before the MODEST-27 conference (July 12-16). Aimed mainly at advanced undergraduate, Master's and PhD students; the page states no nationality limits.",
+ "f": "ICTP South American Institute for Fundamental Research (ICTP-SAIFR)",
+ "fields": [
+  "astro"
+ ],
+ "id": "modest-27-school-ictp-saifr-2027",
+ "n": "MODEST-27 School on stellar evolution and stellar dynamics (ICTP-SAIFR, July 2027)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "other:modest27-school",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://www.ictp-saifr.org/modests2027/",
+ "unv": "The application form is not open yet; the page does not say how much travel support is available or who qualifies for it."
+}

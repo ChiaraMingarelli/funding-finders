@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Summer program",
- "checked": "2026-10-01",
- "d": null,
- "dt": "Applications for summer 2027 open at the end of 2026",
+ "checked": "2026-11-16",
+ "d": "2027-01-17",
+ "dt": "Apply by Jan 17, 2027 (23:59) via Academic Jobs Online #33186; summer school Jun 14-25, 2027; PSI Start internship between May 3 and Aug 20, 2027",
  "e": "For undergraduates planning to start a physics graduate program in 2027 or later; nationality limits not stated. Theory-focused, but useful for GW and cosmology theory.",
  "f": "Perimeter Institute",
  "fields": [
@@ -19,12 +19,12 @@
  "nfit": "Medium",
  "nom": false,
  "region": "Canada",
- "s": "watch",
+ "s": "open",
  "src": "other:perimeter",
  "stages": [
   "ug"
  ],
  "u": "https://perimeterinstitute.ca/undergraduate-summer-programs",
- "unv": "Official page returned 403 on Oct 7, Oct 21, Oct 26, Nov 2, Nov 9 and Nov 16, 2026. A Nov 16 search summary (not confirmed on the page) reports that 2027 applications open in mid-December 2026 with a Jan 17, 2027 deadline; international eligibility not explicitly stated.",
+ "unv": "Perimeter page returned HTTP 403 on Nov 16, 2026; dates confirmed on the AJO posting #33186. Internship pay amount and international eligibility are not stated.",
  "us": false
 }

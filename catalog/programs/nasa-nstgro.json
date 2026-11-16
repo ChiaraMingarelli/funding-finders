@@ -19,6 +19,12 @@
  ],
  "id": "nasa-nstgro",
  "n": "NASA Space Technology Graduate Research Opportunities (NSTGRO)",
+ "nofo": [
+  {
+   "opp": "NNH26ZTR001N-26NSTGRO-B4",
+   "u": "https://simpler.grants.gov/opportunity/6863a14d-24f8-4e59-a77b-8a4bc88aa94a"
+  }
+ ],
  "nom": false,
  "s": "watch",
  "src": "other:nasa-nstgro",

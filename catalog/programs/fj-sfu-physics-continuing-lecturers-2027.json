@@ -1,0 +1,31 @@
+{
+ "a": "Lecturer rank; estimated CAD 98,340-114,241 plus benefits; start July 15, 2027",
+ "added": "2026-11-16",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-16",
+ "d": "2026-12-01",
+ "dt": "Full consideration for applications received by Dec 1, 2026; later applications may be reviewed if the positions are still open",
+ "e": "Two full-time continuing teaching-faculty posts (rank of Lecturer, with promotion to Senior Lecturer and University Lecturer), mainly teaching about six courses a year plus curriculum development and service; one post asks for the ability to teach introductory astrophysics. PhD in physics or a closely related field required; apply by email to the Physics Chair's office; Canadian citizens and permanent residents are given priority.",
+ "f": "Simon Fraser University, Department of Physics",
+ "fields": [
+  "astro",
+  "cmx",
+  "cmt"
+ ],
+ "id": "fj-sfu-physics-continuing-lecturers-2027",
+ "n": "Simon Fraser University: Lecturer (continuing teaching faculty), Department of Physics (two posts)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "Canada",
+ "s": "open",
+ "src": "other:sfu-physics-lecturers-2027",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://www.sfu.ca/physics/about-us/employment.html",
+ "unv": "Teaching-focused continuing appointment, not a research tenure-track post.",
+ "us": false
+}

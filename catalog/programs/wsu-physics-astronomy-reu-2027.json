@@ -1,0 +1,42 @@
+{
+ "a": "$7,000 stipend plus travel and housing; includes a paid day trip to LIGO Hanford and PNNL",
+ "added": "2026-11-16",
+ "asub": [
+  "he",
+  "xgal",
+  "galac"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-11-16",
+ "d": "2027-02-07",
+ "dt": "Applications accepted until Sun Feb 7, 2027",
+ "e": "Ten-week summer research in Pullman on the theme of waves: shock waves, cold atoms and quantum wavefunctions, photons in materials, and astrophysics projects including gravitational-wave source simulations, black holes in dwarf galaxies and Milky Way data mining. For undergraduates; NSF-funded.",
+ "f": "Washington State University, Department of Physics and Astronomy (NSF REU site)",
+ "fields": [
+  "astro",
+  "grav",
+  "amo",
+  "cmx",
+  "mat",
+  "phot"
+ ],
+ "id": "wsu-physics-astronomy-reu-2027",
+ "n": "Washington State University Physics and Astronomy REU (Summer 2027)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:wsu-reu",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://physics.wsu.edu/reu/",
+ "unv": "The page does not state citizenship rules (NSF REU sites usually require US citizenship or permanent residency) or the exact 2027 program dates.",
+ "us": false
+}

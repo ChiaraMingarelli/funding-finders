@@ -1,0 +1,35 @@
+{
+ "a": "$7,000 stipend, university housing, travel to Salt Lake City, plus a $1,000 post-REU conference travel allowance",
+ "added": "2026-11-16",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-11-16",
+ "d": "2027-02-01",
+ "dt": "Applications open Nov 9, 2026 in NSF ETAP; due Feb 1, 2027, 11:59 pm EST",
+ "e": "NSF-funded 10-week summer research program (May 27 to July 31, 2027) in astronomy, astroparticle physics (cosmic rays, gamma rays, neutrinos), biophysics, condensed matter, particle physics and physics education research. Open to current undergraduates without a bachelor's degree by the start; US citizens, US nationals or permanent residents only.",
+ "f": "University of Utah, Department of Physics & Astronomy",
+ "fields": [
+  "astro",
+  "ppx",
+  "cmx",
+  "cmt",
+  "bio"
+ ],
+ "id": "utah-physics-astronomy-reu-2027",
+ "n": "University of Utah Physics & Astronomy REU (Summer 2027)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:utah-physics-reu-2027",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.physics.utah.edu/reu-opportunities/",
+ "us": true
+}
