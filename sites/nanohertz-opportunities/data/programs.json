@@ -1172,6 +1172,26 @@
   "d": null
  },
  {
+  "id": "bnl-ozaki-exchange-program-2027",
+  "n": "Brookhaven National Laboratory: Ozaki Exchange Program (2027)",
+  "f": "Brookhaven National Laboratory, Physics Division",
+  "c": "Fellowship",
+  "s": "open",
+  "d": "2026-12-18",
+  "dt": "Application window Nov 2 to Dec 18, 2026 (via Academic Jobs Online)",
+  "a": "Covers travel and living expenses in Japan (travel, housing and per diem under DOE guidelines); no stipend amount stated",
+  "e": "Supports US physics PhD students (typically in their 2nd or 3rd year) doing high-energy physics or accelerator research in Japan at KEK, including J-PARC, or at high-energy physics groups at Japanese universities. Applicants name a mentor from the host group.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33239",
+  "unv": "The page does not state citizenship requirements; its summary field also says 'Appl Deadline: none' while the schedule gives Dec 18, 2026.",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-16",
+  "added": "2026-11-16",
+  "stages": [
+   "gr"
+  ]
+ },
+ {
   "id": "bonn-duhr-theoretical-particle-physics-postdoc",
   "n": "University of Bonn: Postdoc in theoretical particle physics (Duhr group)",
   "f": "University of Bonn",
@@ -2741,6 +2761,30 @@
    "pd"
   ],
   "d": null
+ },
+ {
+  "id": "eso-early-career-scientific-visitor-programme",
+  "n": "ESO Early-Career Scientific Visitor Programme (Garching)",
+  "f": "European Southern Observatory (ESO), Office for Science Garching",
+  "c": "Travel",
+  "s": "open",
+  "d": "2027-02-15",
+  "dt": "Feb 15, 2027 for visits starting from Jun 1, 2027; later deadlines May 15, Aug 1 and Nov 1",
+  "a": "Monthly allowance for living expenses (status of Unpaid Associate); ESO generally provides a furnished apartment in Garching",
+  "e": "Funds one-to-four-month research visits to ESO headquarters in Garching for PhD students in astronomy and postdocs up to three years from the PhD, who must hold an affiliation and contract for the whole visit. Any nationality may apply, with preference for nationals of ESO member states and Chile; applicants first arrange a host among ESO staff or fellows.",
+  "u": "https://www.eso.org/sci/activities/garching/personnelvisitors/Policy_Early-Career_Scientific_Visitors_Garching.html",
+  "unv": "The allowance amount is not stated on the page.",
+  "us": false,
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-11-16",
+  "added": "2026-11-16",
+  "stages": [
+   "gr",
+   "pd"
+  ]
  },
  {
   "id": "eso-studentship-programme",
@@ -4667,6 +4711,28 @@
    "fj"
   ],
   "d": null
+ },
+ {
+  "id": "fj-sfu-physics-continuing-lecturers-2027",
+  "n": "Simon Fraser University: Lecturer (continuing teaching faculty), Department of Physics (two posts)",
+  "f": "Simon Fraser University, Department of Physics",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-12-01",
+  "dt": "Full consideration for applications received by Dec 1, 2026; later applications may be reviewed if the positions are still open",
+  "a": "Lecturer rank; estimated CAD 98,340-114,241 plus benefits; start July 15, 2027",
+  "e": "Two full-time continuing teaching-faculty posts (rank of Lecturer, with promotion to Senior Lecturer and University Lecturer), mainly teaching about six courses a year plus curriculum development and service; one post asks for the ability to teach introductory astrophysics. PhD in physics or a closely related field required; apply by email to the Physics Chair's office; Canadian citizens and permanent residents are given priority.",
+  "u": "https://www.sfu.ca/physics/about-us/employment.html",
+  "unv": "Teaching-focused continuing appointment, not a research tenure-track post.",
+  "us": false,
+  "nom": false,
+  "region": "Canada",
+  "nfit": "Low",
+  "checked": "2026-11-16",
+  "added": "2026-11-16",
+  "stages": [
+   "fj"
+  ]
  },
  {
   "id": "fj-shanghai-jiao-tong-tdli-astronomy-tt-fellows-in-astro",
@@ -10083,6 +10149,28 @@
   ]
  },
  {
+  "id": "modest-27-school-ictp-saifr-2027",
+  "n": "MODEST-27 School on stellar evolution and stellar dynamics (ICTP-SAIFR, July 2027)",
+  "f": "ICTP South American Institute for Fundamental Research (ICTP-SAIFR)",
+  "c": "Training",
+  "s": "open",
+  "d": "2027-04-06",
+  "dt": "Application deadline Apr 6, 2027; the online application form is listed as opening soon",
+  "a": "No registration fee; limited funds for travel and local expenses",
+  "e": "One-week school (July 5-9, 2027, São Paulo, Brazil) introducing stellar evolution, stellar dynamics and observational astronomy, held before the MODEST-27 conference (July 12-16). Aimed mainly at advanced undergraduate, Master's and PhD students; the page states no nationality limits.",
+  "u": "https://www.ictp-saifr.org/modests2027/",
+  "unv": "The application form is not open yet; the page does not say how much travel support is available or who qualifies for it.",
+  "nom": false,
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-11-16",
+  "added": "2026-11-16",
+  "stages": [
+   "ug",
+   "gr"
+  ]
+ },
+ {
   "id": "monash-ozgrav-gw-discovery-research-fellows",
   "n": "Monash University: Research Fellow, Gravitational Wave Discovery (OzGrav)",
   "f": "Monash University / OzGrav ARC Centre of Excellence",
@@ -12051,22 +12139,22 @@
   "n": "Perimeter PSI Start (Undergrad Summer School + Research Internship)",
   "f": "Perimeter Institute",
   "c": "Summer program",
-  "s": "watch",
-  "dt": "Applications for summer 2027 open at the end of 2026",
+  "s": "open",
+  "d": "2027-01-17",
+  "dt": "Apply by Jan 17, 2027 (23:59) via Academic Jobs Online #33186; summer school Jun 14-25, 2027; PSI Start internship between May 3 and Aug 20, 2027",
   "a": "Summer school: travel, accommodation and food provided, no fee; internship is paid (up to 15 weeks)",
   "e": "For undergraduates planning to start a physics graduate program in 2027 or later; nationality limits not stated. Theory-focused, but useful for GW and cosmology theory.",
   "u": "https://perimeterinstitute.ca/undergraduate-summer-programs",
-  "unv": "Official page returned 403 on Oct 7, Oct 21, Oct 26, Nov 2, Nov 9 and Nov 16, 2026. A Nov 16 search summary (not confirmed on the page) reports that 2027 applications open in mid-December 2026 with a Jan 17, 2027 deadline; international eligibility not explicitly stated.",
+  "unv": "Perimeter page returned HTTP 403 on Nov 16, 2026; dates confirmed on the AJO posting #33186. Internship pay amount and international eligibility are not stated.",
   "us": false,
   "nom": false,
   "region": "Canada",
   "nfit": "Medium",
-  "checked": "2026-10-01",
+  "checked": "2026-11-16",
   "added": "2026-10-01",
   "stages": [
    "ug"
-  ],
-  "d": null
+  ]
  },
  {
   "id": "perimeter-scholars-international-psi-master-s",
@@ -12379,6 +12467,28 @@
   "nfit": "Low",
   "checked": "2026-11-16",
   "added": "2026-11-05",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "qmul-postdoc-worldline-qft-gravitational-waves",
+  "n": "Queen Mary University of London: Postdoc in QFT and Gravitational Waves (Worldline QFT)",
+  "f": "Queen Mary University of London, Centre for Geometry, Analysis and Gravitation (Gustav Mogull)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-18",
+  "dt": "Dec 18, 2026, 23:55 UK time; apply on AJO and also on QMUL's own jobs site",
+  "a": "£39,187–£52,790 per year; 1 year with likely extension to a second year",
+  "e": "Theory postdoc funded by Mogull's Royal Society URF 'Gravitational Waves from Worldline Quantum Field Theory': WQFT, bound binaries and gravitational waveform modelling. Needs a PhD in theoretical physics with QFT, EFT and two-body problem background; no citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33276",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "High",
+  "checked": "2026-11-16",
+  "added": "2026-11-16",
   "stages": [
    "pd"
   ]
@@ -15694,6 +15804,27 @@
   ]
  },
  {
+  "id": "utah-physics-astronomy-reu-2027",
+  "n": "University of Utah Physics & Astronomy REU (Summer 2027)",
+  "f": "University of Utah, Department of Physics & Astronomy",
+  "c": "Summer program",
+  "s": "open",
+  "d": "2027-02-01",
+  "dt": "Applications open Nov 9, 2026 in NSF ETAP; due Feb 1, 2027, 11:59 pm EST",
+  "a": "$7,000 stipend, university housing, travel to Salt Lake City, plus a $1,000 post-REU conference travel allowance",
+  "e": "NSF-funded 10-week summer research program (May 27 to July 31, 2027) in astronomy, astroparticle physics (cosmic rays, gamma rays, neutrinos), biophysics, condensed matter, particle physics and physics education research. Open to current undergraduates without a bachelor's degree by the start; US citizens, US nationals or permanent residents only.",
+  "u": "https://www.physics.utah.edu/reu-opportunities/",
+  "us": true,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-16",
+  "added": "2026-11-16",
+  "stages": [
+   "ug"
+  ]
+ },
+ {
   "id": "utk-bigaran-particle-pheno-postdoc",
   "n": "University of Tennessee, Knoxville: Postdoc in theoretical particle physics and phenomenology (Bigaran group)",
   "f": "University of Tennessee, Knoxville, Department of Physics and Astronomy",
@@ -16322,6 +16453,28 @@
   "added": "2026-11-06",
   "stages": [
    "pd"
+  ]
+ },
+ {
+  "id": "wsu-physics-astronomy-reu-2027",
+  "n": "Washington State University Physics and Astronomy REU (Summer 2027)",
+  "f": "Washington State University, Department of Physics and Astronomy (NSF REU site)",
+  "c": "Summer program",
+  "s": "open",
+  "d": "2027-02-07",
+  "dt": "Applications accepted until Sun Feb 7, 2027",
+  "a": "$7,000 stipend plus travel and housing; includes a paid day trip to LIGO Hanford and PNNL",
+  "e": "Ten-week summer research in Pullman on the theme of waves: shock waves, cold atoms and quantum wavefunctions, photons in materials, and astrophysics projects including gravitational-wave source simulations, black holes in dwarf galaxies and Milky Way data mining. For undergraduates; NSF-funded.",
+  "u": "https://physics.wsu.edu/reu/",
+  "unv": "The page does not state citizenship rules (NSF REU sites usually require US citizenship or permanent residency) or the exact 2027 program dates.",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-11-16",
+  "added": "2026-11-16",
+  "stages": [
+   "ug"
   ]
  },
  {

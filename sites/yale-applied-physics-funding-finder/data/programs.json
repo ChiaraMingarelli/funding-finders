@@ -3929,6 +3929,60 @@
   "us": false
  },
  {
+  "a": "USD $1,000, framed certificate, meeting registration and up to USD $1,000 toward travel",
+  "added": "2026-11-16",
+  "c": "Prize",
+  "checked": "2026-11-16",
+  "d": "2027-01-15",
+  "dt": "Nomination period Oct 15 - Jan 15, annually; this cycle closes Jan 15, 2027; presented at the ECS fall meeting",
+  "e": "Recognizes early-career researchers and engineers (no more than 10 years since final degree or start of professional work) who have contributed to corrosion science and technology. Nominees need at least two consecutive years of ECS Corrosion Division membership and a paper in an ECS journal; no citizenship limits stated.",
+  "f": "The Electrochemical Society, Corrosion Division",
+  "fields": [
+   "mat",
+   "energy"
+  ],
+  "id": "ecs-corrosion-division-early-career-award",
+  "n": "ECS Corrosion Division Early-Career Award",
+  "nom": false,
+  "pt": "other",
+  "s": "open",
+  "src": "other:ecs-corrosion-early-career-award",
+  "stages": [
+   "tt",
+   "pd"
+  ],
+  "u": "https://www.electrochem.org/corrosion-division-early-career-award/",
+  "unv": "The page gives the annual Oct 15 - Jan 15 window; the 2027 closing date is taken from that annual window.",
+  "us": false
+ },
+ {
+  "a": "USD $1,000 and framed certificate; up to USD $1,000 toward travel to the ECS fall meeting",
+  "added": "2026-11-16",
+  "c": "Prize",
+  "checked": "2026-11-16",
+  "d": "2027-01-15",
+  "dt": "Nomination period Oct 15 - Jan 15, annually; this cycle closes Jan 15, 2027; presented at the ECS fall meeting",
+  "e": "Recognizes outstanding MS or PhD research in corrosion science or engineering by people who completed their graduate degree within two years before the nomination deadline. Nomination package includes a nomination letter, a 2-3 page research summary and the academic record; no citizenship limits stated.",
+  "f": "The Electrochemical Society, Corrosion Division",
+  "fields": [
+   "mat",
+   "energy"
+  ],
+  "id": "ecs-corrosion-morris-cohen-graduate-student-award",
+  "n": "ECS Corrosion Division Morris Cohen Graduate Student Award",
+  "nom": false,
+  "pt": "other",
+  "s": "open",
+  "src": "other:ecs-morris-cohen-award",
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "u": "https://www.electrochem.org/morris-cohen-award",
+  "unv": "The page gives the annual Oct 15 - Jan 15 window; the 2027 closing date is taken from that annual window.",
+  "us": false
+ },
+ {
   "a": "$1,000, scroll and complimentary meeting registration",
   "added": "2026-10-26",
   "c": "Prize",
@@ -6628,6 +6682,34 @@
   "us": false
  },
  {
+  "a": "Participant fee €630 including accommodation and meals; a limited number of grants cover the fee (not travel)",
+  "added": "2026-11-16",
+  "c": "Summer program",
+  "checked": "2026-11-16",
+  "d": "2027-01-03",
+  "dt": "Register by Jan 3, 2027; acceptance notices in early February; school Mar 14-19, 2027",
+  "e": "One-week Les Houches school and workshop (about 50 participants) on non-equilibrium dynamics of one- and two-dimensional quantum fluids on atomic and photonic platforms, with tutorials and invited seminars. Preference goes to applicants who submit a poster abstract and attend the whole school; fee grants are requested by emailing the organizers with a motivation letter.",
+  "f": "Les Houches School of Physics",
+  "fields": [
+   "amo",
+   "cmt",
+   "phot"
+  ],
+  "id": "les-houches-2027-low-dimensional-quantum-fluids",
+  "n": "Les Houches 2027: Out-of-Equilibrium Physics in Low-Dimensional Quantum Fluids",
+  "nom": false,
+  "pt": "other",
+  "s": "open",
+  "src": "other:leshouches-dyn1d-2027",
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "u": "https://dyn1d-houches.sciencesconf.org/",
+  "unv": "Eligible career stages are not stated (the page targets tutorials plus posters); stages gr and pd are assumed from the format. Number of fee grants not stated.",
+  "us": false
+ },
+ {
   "a": "School fee €550 (tax included), covering accommodation, meals and hosting; travel not included",
   "added": "2026-11-02",
   "c": "Summer program",
@@ -7630,6 +7712,12 @@
   ],
   "id": "nasa-nstgro",
   "n": "NASA Space Technology Graduate Research Opportunities (NSTGRO)",
+  "nofo": [
+   {
+    "opp": "NNH26ZTR001N-26NSTGRO-B4",
+    "u": "https://simpler.grants.gov/opportunity/6863a14d-24f8-4e59-a77b-8a4bc88aa94a"
+   }
+  ],
   "nom": false,
   "s": "watch",
   "src": "other:nasa-nstgro",
@@ -8421,7 +8509,7 @@
   "c": "Federal grant",
   "checked": "2026-11-16",
   "d": null,
-  "dt": "Last deadline Aug 17, 2026 (RFA-RM-27-002); the next call is not posted yet, expected around August 2027",
+  "dt": "Forecast on grants.gov as RFA-RM-28-002: posting expected about Mar 15, 2027, applications due about Aug 19, 2027 (estimated dates)",
   "e": "NIH-defined ESI within 10 years of terminal degree, holding an independent position at a US institution by Sept 1 of the award year. Single PI, one application per person.",
   "f": "NIH Common Fund",
   "fields": [
@@ -8431,6 +8519,12 @@
   ],
   "id": "nih-director-s-new-innovator-award-dp2",
   "n": "NIH Director's New Innovator Award (DP2)",
+  "nofo": [
+   {
+    "opp": "RFA-RM-28-002",
+    "u": "https://simpler.grants.gov/opportunity/469a39ab-1b4c-471e-b612-5e979f656f27"
+   }
+  ],
   "nom": false,
   "s": "watch",
   "stages": [
@@ -8618,6 +8712,37 @@
    "ten"
   ],
   "u": "https://grants.nih.gov/grants/guide/pa-files/PA-25-301.html",
+  "us": false
+ },
+ {
+  "a": "Not specified in the forecast",
+  "added": "2026-11-16",
+  "c": "Federal grant",
+  "checked": "2026-11-16",
+  "d": null,
+  "dt": "Forecast posted Jul 30, 2026; est. NOFO post May 27, 2027; est. due Oct 4, 2027; est. award Jul 1, 2028",
+  "e": "NIH plans a trans-NIH parent R35 that funds an investigator's whole research program within an institute's mission, rather than a single project, at any career stage including Early Stage Investigators. US universities may apply; the forecast is expected to be the investigator's main funding from the awarding institute.",
+  "f": "NIH (multiple institutes and centers)",
+  "fields": [
+   "bio"
+  ],
+  "id": "nih-parent-r35-investigator-focused-award-forecast",
+  "n": "NIH Parent R35 Investigator-Focused Award (PAR-28-037) - forecast",
+  "nofo": [
+   {
+    "opp": "PAR-28-037",
+    "u": "https://simpler.grants.gov/opportunity/6ca421f6-5577-4c78-a736-cf2c3b6bfe72"
+   }
+  ],
+  "nom": false,
+  "s": "watch",
+  "src": "grants:PAR-28-037",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://simpler.grants.gov/opportunity/6ca421f6-5577-4c78-a736-cf2c3b6bfe72",
+  "unv": "Forecast only: award size, budget limits and which institutes take part are not given yet.",
   "us": false
  },
  {
@@ -10746,6 +10871,33 @@
   "us": false
  },
  {
+  "a": "Up to 30,000 NVIDIA H100 80GB GPU-hours, or up to eight RTX PRO 6000 GPUs (Simulation and Modeling call)",
+  "added": "2026-11-16",
+  "c": "Compute",
+  "checked": "2026-11-16",
+  "d": null,
+  "dt": "Apply through the program portal; no deadline is posted on the program page, and timing is set in each call for proposals",
+  "e": "Competitive awards of GPU time or hardware for academic projects in simulation and modeling (scientific simulation, physics-informed machine learning), AI training and model development, and AI inference and systems software. Applicants must be full-time faculty at a PhD-granting institution, worldwide, and projects must use NVIDIA pretrained models or software distributions.",
+  "f": "NVIDIA",
+  "fields": [
+   "ds",
+   "all"
+  ],
+  "id": "nvidia-academic-grant-program",
+  "n": "NVIDIA Academic Grant Program (GPU hours and hardware)",
+  "nfit": "Low",
+  "nom": false,
+  "s": "rolling",
+  "src": "other:nvidia-academic-grant",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
+  "unv": "Submission windows are not stated on the program page; third-party listings describe quarterly review windows.",
+  "us": false
+ },
+ {
   "a": "3 years; base salary $62,500-$90,000 plus annual research and travel allowance",
   "added": "2026-10-20",
   "c": "Fellowship",
@@ -12125,6 +12277,33 @@
   ],
   "u": "https://www.quadfellowship.org/apply",
   "unv": "Next deadline and amount not posted; the apply page still shows old text (a June 30, 2022 deadline) as of Nov 16, 2026.",
+  "us": false
+ },
+ {
+  "a": "Up to $150,000 direct costs for joint Yale-UConn teams, or up to $75,000 for single-institution teams; performance period Jan 11 - Dec 31, 2027",
+  "added": "2026-11-16",
+  "c": "Yale internal",
+  "checked": "2026-11-16",
+  "d": "2026-11-30",
+  "dt": "Full proposals due Nov 30, 2026 at 12 noon via the QuantumCT submission portal; results expected the week of Jan 11, 2027",
+  "e": "Pilot grants funded by the NSF Engine award to QuantumCT for use-inspired quantum sensing research: magnetic-aided inertial navigation, Rydberg-atom RF detection, quantum-enabled distributed sensing, and quantum processes in biological systems. Projects must be led by tenure-track or tenured Yale or UConn faculty and include an unfunded industry partner; joint Yale-UConn teams are preferred.",
+  "f": "QuantumCT (NSF Regional Innovation Engine, Yale and UConn)",
+  "fields": [
+   "qp",
+   "amo",
+   "inst",
+   "bio"
+  ],
+  "id": "quantumct-use-inspired-pilot-grants-quantum-sensing-2026",
+  "n": "QuantumCT Use-Inspired Research Pilot Grants: Quantum Sensing (Fall 2026)",
+  "nom": false,
+  "s": "open",
+  "src": "other:quantumct-pilot-quantum-sensing-2026",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://www.quantumct.org/quantum-ct-use-inspired-research-pilot-grants-rfp-quantum-sensing/",
   "us": false
  },
  {
@@ -15605,6 +15784,35 @@
   "unv": "Salary amount and citizenship rules not stated"
  },
  {
+  "a": "$7,000 stipend, university housing, travel to Salt Lake City, plus a $1,000 post-REU conference travel allowance",
+  "added": "2026-11-16",
+  "c": "Summer program",
+  "checked": "2026-11-16",
+  "d": "2027-02-01",
+  "dt": "Applications open Nov 9, 2026 in NSF ETAP; due Feb 1, 2027, 11:59 pm EST",
+  "e": "NSF-funded 10-week summer research program (May 27 to July 31, 2027) in astronomy, astroparticle physics (cosmic rays, gamma rays, neutrinos), biophysics, condensed matter, particle physics and physics education research. Open to current undergraduates without a bachelor's degree by the start; US citizens, US nationals or permanent residents only.",
+  "f": "University of Utah, Department of Physics & Astronomy",
+  "fields": [
+   "astro",
+   "ppx",
+   "cmx",
+   "cmt",
+   "bio"
+  ],
+  "id": "utah-physics-astronomy-reu-2027",
+  "n": "University of Utah Physics & Astronomy REU (Summer 2027)",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:utah-physics-reu-2027",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://www.physics.utah.edu/reu-opportunities/",
+  "us": true
+ },
+ {
   "a": "$65,000–$70,000 anticipated hiring range",
   "added": "2026-10-27",
   "c": "Group postdoc",
@@ -15885,6 +16093,42 @@
    "pd"
   ],
   "u": "https://www.wmi.badw.de/career",
+  "us": false
+ },
+ {
+  "a": "$7,000 stipend plus travel and housing; includes a paid day trip to LIGO Hanford and PNNL",
+  "added": "2026-11-16",
+  "asub": [
+   "he",
+   "xgal",
+   "galac"
+  ],
+  "c": "Summer program",
+  "checked": "2026-11-16",
+  "d": "2027-02-07",
+  "dt": "Applications accepted until Sun Feb 7, 2027",
+  "e": "Ten-week summer research in Pullman on the theme of waves: shock waves, cold atoms and quantum wavefunctions, photons in materials, and astrophysics projects including gravitational-wave source simulations, black holes in dwarf galaxies and Milky Way data mining. For undergraduates; NSF-funded.",
+  "f": "Washington State University, Department of Physics and Astronomy (NSF REU site)",
+  "fields": [
+   "astro",
+   "grav",
+   "amo",
+   "cmx",
+   "mat",
+   "phot"
+  ],
+  "id": "wsu-physics-astronomy-reu-2027",
+  "n": "Washington State University Physics and Astronomy REU (Summer 2027)",
+  "nfit": "Medium",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:wsu-reu",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://physics.wsu.edu/reu/",
+  "unv": "The page does not state citizenship rules (NSF REU sites usually require US citizenship or permanent residency) or the exact 2027 program dates.",
   "us": false
  },
  {

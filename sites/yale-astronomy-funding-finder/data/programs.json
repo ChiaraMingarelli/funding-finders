@@ -3110,6 +3110,34 @@
   "us": false
  },
  {
+  "a": "Monthly allowance for living expenses (status of Unpaid Associate); ESO generally provides a furnished apartment in Garching",
+  "added": "2026-11-16",
+  "c": "Travel",
+  "checked": "2026-11-16",
+  "d": "2027-02-15",
+  "dt": "Feb 15, 2027 for visits starting from Jun 1, 2027; later deadlines May 15, Aug 1 and Nov 1",
+  "e": "Funds one-to-four-month research visits to ESO headquarters in Garching for PhD students in astronomy and postdocs up to three years from the PhD, who must hold an affiliation and contract for the whole visit. Any nationality may apply, with preference for nationals of ESO member states and Chile; applicants first arrange a host among ESO staff or fellows.",
+  "f": "European Southern Observatory (ESO), Office for Science Garching",
+  "fields": [
+   "astro"
+  ],
+  "id": "eso-early-career-scientific-visitor-programme",
+  "n": "ESO Early-Career Scientific Visitor Programme (Garching)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "open",
+  "src": "other:eso-ecs-visitor",
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "u": "https://www.eso.org/sci/activities/garching/personnelvisitors/Policy_Early-Career_Scientific_Visitors_Garching.html",
+  "unv": "The allowance amount is not stated on the page.",
+  "us": false
+ },
+ {
   "a": "Small, quick-turnaround programs on ESO telescopes",
   "added": "2026-10-03",
   "asub": [],
@@ -7529,6 +7557,36 @@
   "us": false
  },
  {
+  "a": "No registration fee; limited funds for travel and local expenses",
+  "added": "2026-11-16",
+  "asub": [
+   "star",
+   "galac"
+  ],
+  "c": "Training",
+  "checked": "2026-11-16",
+  "d": "2027-04-06",
+  "dt": "Application deadline Apr 6, 2027; the online application form is listed as opening soon",
+  "e": "One-week school (July 5-9, 2027, São Paulo, Brazil) introducing stellar evolution, stellar dynamics and observational astronomy, held before the MODEST-27 conference (July 12-16). Aimed mainly at advanced undergraduate, Master's and PhD students; the page states no nationality limits.",
+  "f": "ICTP South American Institute for Fundamental Research (ICTP-SAIFR)",
+  "fields": [
+   "astro"
+  ],
+  "id": "modest-27-school-ictp-saifr-2027",
+  "n": "MODEST-27 School on stellar evolution and stellar dynamics (ICTP-SAIFR, July 2027)",
+  "nfit": "Medium",
+  "nom": false,
+  "region": "International",
+  "s": "open",
+  "src": "other:modest27-school",
+  "stages": [
+   "ug",
+   "gr"
+  ],
+  "u": "https://www.ictp-saifr.org/modests2027/",
+  "unv": "The application form is not open yet; the page does not say how much travel support is available or who qualifies for it."
+ },
+ {
   "a": "AUD $86,195-$116,981 pa, Level A, plus 17% superannuation; 3-year fixed term; 2 positions",
   "added": "2026-10-24",
   "asub": [
@@ -9884,6 +9942,33 @@
   "us": false
  },
  {
+  "a": "Up to 30,000 NVIDIA H100 80GB GPU-hours, or up to eight RTX PRO 6000 GPUs (Simulation and Modeling call)",
+  "added": "2026-11-16",
+  "c": "Compute",
+  "checked": "2026-11-16",
+  "d": null,
+  "dt": "Apply through the program portal; no deadline is posted on the program page, and timing is set in each call for proposals",
+  "e": "Competitive awards of GPU time or hardware for academic projects in simulation and modeling (scientific simulation, physics-informed machine learning), AI training and model development, and AI inference and systems software. Applicants must be full-time faculty at a PhD-granting institution, worldwide, and projects must use NVIDIA pretrained models or software distributions.",
+  "f": "NVIDIA",
+  "fields": [
+   "ds",
+   "all"
+  ],
+  "id": "nvidia-academic-grant-program",
+  "n": "NVIDIA Academic Grant Program (GPU hours and hardware)",
+  "nfit": "Low",
+  "nom": false,
+  "s": "rolling",
+  "src": "other:nvidia-academic-grant",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
+  "unv": "Submission windows are not stated on the program page; third-party listings describe quarterly review windows.",
+  "us": false
+ },
+ {
   "a": "€48k gross/yr + €5k/yr environment; 2 years",
   "added": "2026-09-30",
   "c": "Fellowship",
@@ -10603,6 +10688,36 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3171411",
+  "us": false
+ },
+ {
+  "a": "£39,187–£52,790 per year; 1 year with likely extension to a second year",
+  "added": "2026-11-16",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-16",
+  "d": "2026-12-18",
+  "dt": "Dec 18, 2026, 23:55 UK time; apply on AJO and also on QMUL's own jobs site",
+  "e": "Theory postdoc funded by Mogull's Royal Society URF 'Gravitational Waves from Worldline Quantum Field Theory': WQFT, bound binaries and gravitational waveform modelling. Needs a PhD in theoretical physics with QFT, EFT and two-body problem background; no citizenship limit stated.",
+  "f": "Queen Mary University of London, Centre for Geometry, Analysis and Gravitation (Gustav Mogull)",
+  "fields": [
+   "grav",
+   "ppt"
+  ],
+  "id": "qmul-postdoc-worldline-qft-gravitational-waves",
+  "n": "Queen Mary University of London: Postdoc in QFT and Gravitational Waves (Worldline QFT)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33276",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33276",
   "us": false
  },
  {
@@ -13649,6 +13764,35 @@
   "us": false
  },
  {
+  "a": "$7,000 stipend, university housing, travel to Salt Lake City, plus a $1,000 post-REU conference travel allowance",
+  "added": "2026-11-16",
+  "c": "Summer program",
+  "checked": "2026-11-16",
+  "d": "2027-02-01",
+  "dt": "Applications open Nov 9, 2026 in NSF ETAP; due Feb 1, 2027, 11:59 pm EST",
+  "e": "NSF-funded 10-week summer research program (May 27 to July 31, 2027) in astronomy, astroparticle physics (cosmic rays, gamma rays, neutrinos), biophysics, condensed matter, particle physics and physics education research. Open to current undergraduates without a bachelor's degree by the start; US citizens, US nationals or permanent residents only.",
+  "f": "University of Utah, Department of Physics & Astronomy",
+  "fields": [
+   "astro",
+   "ppx",
+   "cmx",
+   "cmt",
+   "bio"
+  ],
+  "id": "utah-physics-astronomy-reu-2027",
+  "n": "University of Utah Physics & Astronomy REU (Summer 2027)",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:utah-physics-reu-2027",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://www.physics.utah.edu/reu-opportunities/",
+  "us": true
+ },
+ {
   "a": "Project Researcher: salary comparable to a JSPS postdoctoral fellow, up to 3 years; Project Assistant Professor: higher, based on experience, up to 5 years",
   "added": "2026-11-15",
   "asub": [
@@ -14176,6 +14320,42 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33293",
   "unv": "Salary not stated. Also listed on INSPIRE (3220787).",
+  "us": false
+ },
+ {
+  "a": "$7,000 stipend plus travel and housing; includes a paid day trip to LIGO Hanford and PNNL",
+  "added": "2026-11-16",
+  "asub": [
+   "he",
+   "xgal",
+   "galac"
+  ],
+  "c": "Summer program",
+  "checked": "2026-11-16",
+  "d": "2027-02-07",
+  "dt": "Applications accepted until Sun Feb 7, 2027",
+  "e": "Ten-week summer research in Pullman on the theme of waves: shock waves, cold atoms and quantum wavefunctions, photons in materials, and astrophysics projects including gravitational-wave source simulations, black holes in dwarf galaxies and Milky Way data mining. For undergraduates; NSF-funded.",
+  "f": "Washington State University, Department of Physics and Astronomy (NSF REU site)",
+  "fields": [
+   "astro",
+   "grav",
+   "amo",
+   "cmx",
+   "mat",
+   "phot"
+  ],
+  "id": "wsu-physics-astronomy-reu-2027",
+  "n": "Washington State University Physics and Astronomy REU (Summer 2027)",
+  "nfit": "Medium",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:wsu-reu",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://physics.wsu.edu/reu/",
+  "unv": "The page does not state citizenship rules (NSF REU sites usually require US citizenship or permanent residency) or the exact 2027 program dates.",
   "us": false
  },
  {
