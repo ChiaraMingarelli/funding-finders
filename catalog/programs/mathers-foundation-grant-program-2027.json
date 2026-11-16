@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Foundation",
- "checked": "2026-11-02",
+ "checked": "2026-11-16",
  "d": "2027-02-11",
  "dt": "Yale must nominate by Jan 28, 2027; LOI due Feb 11, 2027; invited full proposals Apr 15, 2027.",
  "e": "Basic biomedical research (e.g. structural biology, cellular physiology, genetics, neuroscience); relevant to biophysics. Each institution may nominate up to 3 LOIs.",
@@ -24,7 +24,6 @@
   "ten"
  ],
  "u": "https://mathersfoundation.org/how-to-apply/",
- "unv": "mathersfoundation.org returned HTTP 403 on Nov 9, 2026; dates are from the Nov 2, 2026 check.",
  "us": false,
  "yale": {
   "d": "2026-10-19",

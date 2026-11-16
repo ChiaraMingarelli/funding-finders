@@ -8,7 +8,7 @@
   "ast"
  ],
  "c": "Compute",
- "checked": "2026-11-09",
+ "checked": "2026-11-16",
  "d": "2027-01-31",
  "dt": "Window Dec 15, 2026 to Jan 31, 2027",
  "e": "US researchers needing large allocations; full proposal reviewed by panel.",
@@ -27,5 +27,6 @@
   "ten"
  ],
  "u": "https://allocations.access-ci.org/",
+ "unv": "The Dec 15, 2026 to Jan 31, 2027 window was not re-confirmed on Nov 16, 2026: the allocations site says only that Maximize requests are accepted semi-annually, and no announcement of this window was found.",
  "us": false
 }

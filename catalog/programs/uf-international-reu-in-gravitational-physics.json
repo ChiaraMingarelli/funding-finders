@@ -11,10 +11,10 @@
   "ast"
  ],
  "c": "Summer program",
- "checked": "2026-10-12",
+ "checked": "2026-11-16",
  "d": null,
- "dt": "Historically ~Jan 12",
- "e": "Confirm the program is running in 2027.",
+ "dt": "Summer 2027: full consideration for complete applications by January 12 (the page gives no year); applications through NSF ETAP, whose portal opens in November 2026; review may continue until positions are filled",
+ "e": "NSF-funded 9-10 week summer research placements for undergraduates in gravitational physics labs in Europe and Australasia. Open only to US residents.",
  "f": "NSF / U Florida",
  "fields": [
   "grav"
@@ -24,11 +24,11 @@
  "nfit": "High",
  "nom": false,
  "region": "US",
- "s": "watch",
+ "s": "open",
  "stages": [
   "ug"
  ],
  "u": "https://ireu.phys.ufl.edu/",
- "unv": "2027 status. Program site unreachable on Oct 21, Oct 26, Nov 2 and Nov 9, 2026 (TLS/connection failure, HTTP 503).",
+ "unv": "The application page gives the full-consideration date as January 12th without a year, so no deadline date is set; the ETAP portal link was not yet posted on Nov 16, 2026.",
  "us": false
 }

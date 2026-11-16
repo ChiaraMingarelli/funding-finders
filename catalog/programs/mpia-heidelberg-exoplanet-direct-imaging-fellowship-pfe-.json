@@ -11,8 +11,8 @@
  ],
  "c": "Fellowship",
  "checked": "2026-09-30",
- "d": "2026-11-15",
- "dt": "Nov 15, 2026",
+ "d": null,
+ "dt": "Last deadline Nov 15, 2026; the AAS Job Register page could not be reached to confirm whether the ad is still open",
  "e": "Independent exoplanet research plus Roman coronagraph, SPHERE+ and ELT/METIS/PCS direct-imaging projects. Requires a PhD in astronomy or a related field.",
  "f": "Max Planck Institute for Astronomy, Planet Formation & Exoplanets; contact Myriam Benisty",
  "fields": [
@@ -24,12 +24,12 @@
  "nom": false,
  "pt": "prize",
  "region": "International",
- "s": "open",
+ "s": "watch",
  "src": "aas:87a62a5a",
  "stages": [
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/87a62a5a",
- "unv": "The AAS Job Register blocked automated access (HTTP 403) on Oct 21, Oct 26, Nov 2 and Nov 9, 2026, and no MPIA host ad for Ref. 431 could be found (the MPIA jobs pages tried returned 404), so the deadline and details were not reconfirmed.",
+ "unv": "The AAS Job Register blocked automated access (HTTP 403, again on Nov 16, 2026) and the MPIA host ad links found by search return HTTP 404, so it is unknown whether applications are still accepted after the Nov 15, 2026 deadline.",
  "us": false
 }

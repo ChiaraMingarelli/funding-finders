@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-09",
- "d": "2026-11-15",
- "dt": "2026/11/15 23:59:59 (time zone not stated on page)",
+ "checked": "2026-11-16",
+ "d": null,
+ "dt": "Full consideration by Nov 15, 2026; AJO listing open until Dec 31, 2026",
  "e": "Quantum simulation/sensing and AI/ML for nuclear, high-energy physics and cosmology. Strong analytical and numerical skills; start Jan-Oct 2027.",
  "f": "University of Maryland, Maryland Center for Fundamental Physics & QuICS (Zohreh Davoudi)",
  "fields": [
@@ -21,7 +21,7 @@
  "n": "University of Maryland: Postdoc at QIS / AI / Fundamental Physics interface",
  "nom": false,
  "pt": "group",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:32822",
  "stages": [
   "pd"

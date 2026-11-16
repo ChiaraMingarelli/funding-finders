@@ -12,9 +12,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-11-09",
- "d": "2026-11-15",
- "dt": "2026/11/15 23:59:59 (time zone not stated); the AJO ad says the position stays open until filled",
+ "checked": "2026-11-16",
+ "d": null,
+ "dt": "Applications were due Nov 15, 2026 (AJO; time zone not stated); the AJO ad says the position stays open until filled",
  "e": "Cosmology: supernovae, galaxy clustering, weak lensing, CMB, theory and AI for cosmology (Roman, Rubin, DESI, LS4). Start Summer/Fall 2027.",
  "f": "University of California, Berkeley, Physics - Berkeley Center for Cosmological Physics (BCCP)",
  "fields": [
@@ -27,7 +27,7 @@
  "nom": false,
  "pt": "prize",
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:32646",
  "stages": [
   "pd"

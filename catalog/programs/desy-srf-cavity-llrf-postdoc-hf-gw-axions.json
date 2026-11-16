@@ -1,5 +1,5 @@
 {
- "a": "2 years; pay per TV-AVH (amount not stated)",
+ "a": "2 years; TV-AVH pay up to group 13 (amount not stated)",
  "added": "2026-10-21",
  "asub": [
   "inst",
@@ -12,7 +12,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-09",
+ "checked": "2026-11-16",
  "d": null,
  "dt": "DESY lists the deadline as open (ID FHPO012/2026); INSPIRE shows Oct 20, 2027.",
  "e": "Two-year postdoc in Hamburg developing the low-level RF control system and carrier-suppression interferometry for superconducting RF cavities that search for kHz-MHz gravitational waves and dark-matter axions. Requires a PhD in electrical engineering or equivalent experience in low-noise RF electronics; no citizenship limit is stated.",
@@ -34,6 +34,6 @@
   "pd"
  ],
  "u": "https://v22.desy.de/e67416/records327161/index_eng.html",
- "unv": "Salary amount not stated (TV-AVH scale). No closing date on the DESY ad; the INSPIRE deadline field (Oct 20, 2027) looks like a placeholder.",
+ "unv": "Salary amount not stated (TV-AVH scale, up to group 13). No closing date on the DESY ad; the INSPIRE deadline field (Oct 20, 2027) looks like a placeholder.",
  "us": false
 }

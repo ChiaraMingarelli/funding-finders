@@ -12,8 +12,8 @@
  ],
  "c": "Group postdoc",
  "checked": "2026-09-30",
- "d": "2026-11-15",
- "dt": "Nov 15, 2026",
+ "d": null,
+ "dt": "Last deadline Nov 15, 2026; the AAS Job Register page could not be reached to confirm whether the ad is still open",
  "e": "Scalable, energy-efficient signal processing for SKA (imaging, GPU optimization). Requires a PhD with Python/HPC skills.",
  "f": "Laboratoire de Physique de l'ENS, ISM group; contact Antoine Marchal",
  "fields": [
@@ -27,12 +27,12 @@
  "nom": false,
  "pt": "group",
  "region": "International",
- "s": "open",
+ "s": "watch",
  "src": "aas:c4281ec5",
  "stages": [
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/c4281ec5",
- "unv": "The AAS Job Register blocked automated access (HTTP 403) again on Oct 21, Oct 26, Nov 2 and Nov 9, 2026, and no copy of the ad on the host's own site was found, so the deadline and details were not reconfirmed on the ad itself; a web search on Nov 9, 2026 still showed the Nov 15, 2026 deadline.",
+ "unv": "The AAS Job Register blocked automated access (HTTP 403, again on Nov 16, 2026) and no copy of the ad on the host's own site was found, so it is unknown whether applications are still accepted after the Nov 15, 2026 deadline.",
  "us": false
 }

@@ -1,5 +1,5 @@
 {
- "a": "Full-time (100%) postdoc position; salary not stated in the listing",
+ "a": "Full-time (100%) postdoc; TV-L E13/E14 depending on experience; initial two-year contract with intended extension",
  "added": "2026-11-06",
  "aud": [
   "yale",
@@ -7,9 +7,9 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-09",
+ "checked": "2026-11-16",
  "d": "2026-12-01",
- "dt": "Deadline Dec 1, 2026 (INSPIRE listing)",
+ "dt": "Apply by Dec 1, 2026; applications considered until all positions are filled",
  "e": "Experimental postdoc building superconducting-qubit quantum computers: novel qubits such as fluxonium, long-range couplers, error-correction codes, fabrication and readout. Open to applicants with a PhD in a related field; no citizenship limit stated.",
  "f": "Walther-Meißner-Institute, Bavarian Academy of Sciences and Humanities (Munich Quantum Valley)",
  "fields": [
@@ -28,6 +28,5 @@
   "pd"
  ],
  "u": "https://www.wmi.badw.de/career",
- "unv": "Deadline from the INSPIRE listing; the WMI career page lists the position but the deadline was not confirmed there.",
  "us": false
 }

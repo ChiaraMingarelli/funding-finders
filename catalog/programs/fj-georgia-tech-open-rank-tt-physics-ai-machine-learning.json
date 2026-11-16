@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-11-09",
- "d": "2026-11-15",
- "dt": "Full consideration by Nov 15, 2026; search continues until the position is filled (AJO)",
+ "checked": "2026-11-16",
+ "d": null,
+ "dt": "Full consideration date Nov 15, 2026 has passed; the search continues until the position is filled",
  "e": "Machine-learning methods applied to physics; astrophysics is one of the named target areas.",
  "f": "School of Physics, Georgia Institute of Technology",
  "fields": [
@@ -18,7 +18,7 @@
  "nfit": "Medium",
  "nom": false,
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:32479",
  "stages": [
   "fj"

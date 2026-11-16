@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-11-09",
- "d": "2026-11-15",
- "dt": "Apply by Nov 15, 2026 (via Interfolio); review continues until filled",
+ "checked": "2026-11-16",
+ "d": null,
+ "dt": "Review began Nov 15, 2026 (full-consideration date); continues until the position is filled (apply via Interfolio)",
  "e": "Tenure-track assistant professor from July 1, 2027 in biophysics and/or materials science, with interest in biophotonics, biomaterials, bioelectronics or AI-focused research. No citizenship restriction stated.",
  "f": "Wake Forest University",
  "fields": [
@@ -20,7 +20,7 @@
  "nfit": "Low",
  "nom": false,
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:33007",
  "stages": [
   "fj"

@@ -8,8 +8,8 @@
  ],
  "c": "Fellowship",
  "checked": "2026-10-30",
- "d": "2026-11-15",
- "dt": "Nov 15, 2026 (INSPIRE)",
+ "d": null,
+ "dt": "Last deadline Nov 15, 2026 (INSPIRE); not confirmed whether applications are still accepted.",
  "e": "Short visiting positions at the postdoctoral level in theoretical physics (particle physics, quantum information, string theory, statistical and condensed matter physics). Open to Brazilian and international researchers with a PhD or a completed doctoral program.",
  "f": "International Institute of Physics, Universidade Federal do Rio Grande do Norte (FINEP/FAPERN project)",
  "fields": [
@@ -23,12 +23,12 @@
  "nom": false,
  "pt": "other",
  "region": "International",
- "s": "open",
+ "s": "watch",
  "src": "inspire:3219982",
  "stages": [
   "pd"
  ],
  "u": "https://www.iip.ufrn.br/en/researchers-opportunities/call-for-short-postdoc-positions-2026",
- "unv": "Stipend amount not listed. On Nov 2 and Nov 9, 2026 the official IIP page loaded without the call text (rendered by script); the INSPIRE copy of the call (still open on Nov 9) lists the Nov 15 deadline.",
+ "unv": "Stipend amount not listed. On Nov 16, 2026 the official IIP page again loaded without the call text (page error); INSPIRE 3219982 now lists the call as closed (deadline Nov 15, 2026) with no until-filled wording, so it is likely a delete once the host ad can be read.",
  "us": false
 }

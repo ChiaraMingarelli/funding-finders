@@ -11,8 +11,8 @@
  ],
  "c": "Fellowship",
  "checked": "2026-10-12",
- "d": "2026-11-15",
- "dt": "Deadline 15 Nov 2026",
+ "d": null,
+ "dt": "Last deadline Nov 15, 2026; no later deadline could be confirmed",
  "e": "Four independent fellowships in Teruel, Spain, tied to J-PAS, J-PLUS, J-VAR and/or ARRAKIHS, with dual supervision and secondments. Open to all nationalities, but the MSCA mobility rule applies (no more than 12 of the last 36 months in Spain).",
  "f": "Centro de Estudios de Física del Cosmos de Aragón (CEFCA)",
  "fields": [
@@ -24,12 +24,12 @@
  "nom": false,
  "pt": "prize",
  "region": "International",
- "s": "open",
+ "s": "watch",
  "src": "aas:c502bea9",
  "stages": [
   "pd"
  ],
  "u": "https://jtrain.cefca.es/",
- "unv": "On Oct 12, Oct 21, Oct 26, Nov 2 and Nov 9, 2026 jtrain.cefca.es failed (TLS certificate error / HTTP 503 / connection reset) and the AAS ad returned 403; the deadline (15/11/2026) and terms were confirmed on the Sociedad Española de Astronomía job board listing.",
+ "unv": "On Oct 12, Oct 21, Oct 26, Nov 2, Nov 9 and Nov 16, 2026 jtrain.cefca.es failed (TLS certificate error / HTTP 503 / connection reset) and the AAS ad returned 403; the Nov 15, 2026 deadline and terms were confirmed earlier on the Sociedad Española de Astronomía job board listing. Whether the call is still accepting applications could not be checked.",
  "us": false
 }

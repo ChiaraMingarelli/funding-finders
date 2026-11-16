@@ -1,0 +1,37 @@
+{
+ "a": "Postdoc starting fall 2027",
+ "added": "2026-11-16",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-16",
+ "d": "2026-12-16",
+ "dt": "Apply by Dec 16, 2026 (11:59 PM CET) via the Joint European Postdoc Application (AJO 32558), naming APC Paris; start Sep 2027",
+ "e": "Postdoc in the APC theory group on gauge/gravity duality and its applications to QCD and neutron stars (contacts F. Nitti, E. Kiritsis). Requires a PhD in theoretical physics; apply through the joint European application and indicate a preference for APC; no citizenship limit stated.",
+ "f": "APC (AstroParticule et Cosmologie) Theory Group, Paris",
+ "fields": [
+  "ppt",
+  "grav"
+ ],
+ "id": "apc-paris-holography-qcd-neutron-stars-postdoc-2027",
+ "n": "APC Paris: Postdoc in theoretical high-energy physics, gravity and string theory (holography, QCD and neutron stars)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3222663",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3222663",
+ "unv": "Salary and appointment length are not stated in the posting; the INSPIRE text says Dec 16 2027, but the INSPIRE deadline field and the AJO joint application give Dec 16, 2026.",
+ "us": false
+}

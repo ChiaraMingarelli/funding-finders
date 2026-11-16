@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-11-09",
- "d": "2026-11-15",
- "dt": "2026/11/15 23:59:59 (time zone not stated on page); review begins Nov 15",
+ "checked": "2026-11-16",
+ "d": null,
+ "dt": "Deadline was Nov 15, 2026 (review began that day); AJO is still accepting applications (listed until Mar 18, 2027)",
  "e": "Independent postdoctoral fellowship in quantum information science; applicants identify at least one Caltech faculty host. PhD by start (Sep 1, 2027); current postdocs eligible.",
  "f": "Caltech, Division of Physics, Mathematics & Astronomy (also open to EAS and CCE)",
  "fields": [
@@ -18,11 +18,12 @@
  "n": "Caltech: AWS Quantum Fellowships",
  "nom": false,
  "pt": "prize",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:32774",
  "stages": [
   "pd"
  ],
  "u": "https://academicjobsonline.org/ajo/jobs/32774",
+ "unv": "The ad calls Nov 15, 2026 the application deadline but AJO still shows the posting as open with no closed notice; how long late applications are considered is not stated.",
  "us": false
 }

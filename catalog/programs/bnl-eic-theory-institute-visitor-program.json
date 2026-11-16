@@ -2,7 +2,7 @@
  "a": "Can cover local expenses, transport and domestic/international airfare, depending on need and funds.",
  "added": "2026-09-28",
  "c": "Visiting program",
- "checked": "2026-10-21",
+ "checked": "2026-11-16",
  "d": null,
  "dt": "Short and mid-term visit applications considered on a rolling basis. Long-term Scholars-in-Residence need a current faculty or staff affiliation.",
  "e": "Faculty, postdocs and grad students working on EIC physics. International visitors must meet BNL access requirements.",
@@ -23,6 +23,5 @@
   "gr"
  ],
  "u": "https://www.bnl.gov/eic-theory/",
- "unv": "bnl.gov could not be read on Oct 26, Nov 2 or Nov 9, 2026 (TLS certificate error with curl, HTTP 503 with a second fetcher); details are from the Oct 21, 2026 check.",
  "us": false
 }

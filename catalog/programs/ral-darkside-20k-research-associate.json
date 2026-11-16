@@ -1,15 +1,15 @@
 {
- "a": "GBP 42,688 per year",
+ "a": "GBP 42,688 per year; 2-year fixed term",
  "added": "2026-11-13",
  "aud": [
   "yale",
   "ng"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-13",
+ "checked": "2026-11-16",
  "d": "2026-12-01",
  "dt": "Closes Dec 1, 2026",
- "e": "Two-year fixed-term research associate in RAL's Particle Physics Department working on neutron-veto background mitigation and dark matter search analysis for the DarkSide-20k liquid argon experiment, with optional work on QUEST-DMC. Requires a PhD (or near completion) in particle physics or similar; no citizenship limits stated.",
+ "e": "Two-year fixed-term research associate in RAL's Particle Physics Department working on neutron-veto background mitigation and dark matter search analysis for the DarkSide-20k liquid argon experiment, with optional work on QUEST-DMC. Requires a PhD (or near completion) in particle physics or similar; no citizenship limits stated, and the ad says applicants who need UK visa sponsorship pay the Home Office costs themselves.",
  "f": "STFC Rutherford Appleton Laboratory",
  "fields": [
   "ppx",
@@ -27,6 +27,5 @@
   "pd"
  ],
  "u": "https://applytrack.onefixmedia.co.uk/4e3130303030306166666159",
- "unv": "UK right-to-work/visa sponsorship not stated",
  "us": false
 }

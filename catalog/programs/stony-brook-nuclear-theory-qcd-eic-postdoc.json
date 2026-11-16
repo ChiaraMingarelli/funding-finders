@@ -1,14 +1,14 @@
 {
- "a": "Not stated",
+ "a": "$61,000-$72,000; one-year appointment, renewable for a second year subject to funding",
  "added": "2026-11-11",
  "aud": [
   "yale",
   "ng"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-11",
- "d": "2026-12-07",
- "dt": "Dec 7, 2026 (per INSPIRE listing)",
+ "checked": "2026-11-16",
+ "d": "2026-12-10",
+ "dt": "Stony Brook posting closes Dec 10, 2026, 11:59 pm (INSPIRE gave Dec 7); start Jan 1, 2027",
  "e": "Postdoc in theoretical nuclear physics with emphasis on QCD, hadron structure and Electron-Ion Collider physics (nonperturbative QCD, hadron tomography, high-energy scattering). No citizenship limit stated in the listing.",
  "f": "Stony Brook University Nuclear Theory Group",
  "fields": [
@@ -26,6 +26,6 @@
   "pd"
  ],
  "u": "https://stonybrooku.taleo.net/careersection/2/jobdetail.ftl?job=2604198",
- "unv": "Taleo posting page is JavaScript-rendered; deadline, salary and term taken from INSPIRE only.",
+ "unv": "INSPIRE marked its listing closed on Nov 11, 2026, but the Stony Brook Taleo posting (job 2604198) is still live with an unposting date of Dec 10, 2026.",
  "us": false
 }

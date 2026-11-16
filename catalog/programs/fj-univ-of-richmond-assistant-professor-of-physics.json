@@ -7,7 +7,7 @@
  "c": "Faculty job",
  "checked": "2026-10-12",
  "d": null,
- "dt": "Review began Oct 1, 2026; open until filled",
+ "dt": "Review began Oct 1, 2026; open until filled (job-board copies closed Oct 6, 2026)",
  "e": "All subfields of physics and applied physics, theory or experiment. Start 2027-28.",
  "f": "Dept. of Physics, University of Richmond",
  "fields": [
@@ -18,12 +18,12 @@
  "nfit": "Low",
  "nom": false,
  "region": "US",
- "s": "rolling",
+ "s": "watch",
  "src": "other:physicstoday-41980238",
  "stages": [
   "fj"
  ],
  "u": "https://jobs.richmond.edu",
- "unv": "jobs.richmond.edu could not be reached on Oct 12, 21, 26, Nov 2 or Nov 9, 2026 (TLS error / HTTP 503); the AAS copy returns 403. The Inside Higher Ed copy (review from Oct 1, open until filled) is marked expired by the job board. Not reconfirmed that the post is still open.",
+ "unv": "jobs.richmond.edu could not be reached on Oct 12, 21, 26, Nov 2, Nov 9 or Nov 16, 2026 (TLS error / HTTP 503). The Physics Today copy says the job is no longer available (closed Oct 6, 2026), and the Inside Higher Ed copy is marked expired. Not confirmed whether the post is still open on the university site.",
  "us": false
 }

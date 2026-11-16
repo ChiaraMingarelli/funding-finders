@@ -13,8 +13,8 @@
  ],
  "c": "Fellowship",
  "checked": "2026-09-30",
- "d": "2026-11-15",
- "dt": "Nov 15, 2026",
+ "d": null,
+ "dt": "Last deadline Nov 15, 2026; the AAS Job Register page could not be reached to confirm whether the ad is still open",
  "e": "Star formation science within the PFE program. PhD in astronomy, physics, chemistry or related.",
  "f": "Max Planck Institute for Astronomy, Planet Formation & Exoplanets; contact Henrik Beuther",
  "fields": [
@@ -26,12 +26,12 @@
  "nom": false,
  "pt": "prize",
  "region": "International",
- "s": "open",
+ "s": "watch",
  "src": "aas:07007ae4",
  "stages": [
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/07007ae4",
- "unv": "The AAS Job Register blocks automated access (HTTP 403; not tried again on Nov 9, 2026) and no MPIA host ad for Ref. 430 could be found (MPIA's English job board said on Nov 9, 2026 that no postdoc positions are open there), so the deadline and details were not reconfirmed; search-engine snippets of the AAS ad still give Nov 15, 2026.",
+ "unv": "The AAS Job Register blocked automated access (HTTP 403, again on Nov 16, 2026) and no MPIA host ad for Ref. 430 was found, so it is unknown whether applications are still accepted after the Nov 15, 2026 deadline.",
  "us": false
 }

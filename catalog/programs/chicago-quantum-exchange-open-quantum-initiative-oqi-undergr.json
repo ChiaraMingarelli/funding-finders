@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Summer program",
- "checked": "2026-11-09",
- "d": null,
- "dt": "2026 applications closed. 2027 dates not yet posted (typically a winter deadline). Hosts: UChicago, Argonne, Fermilab, UIUC, Purdue, UW–Madison, Northwestern, Ohio State.",
+ "checked": "2026-11-16",
+ "d": "2027-01-26",
+ "dt": "2027 cohort applications open until Jan 26, 2027. Hosts: UChicago, Argonne, Fermilab, UIUC, Purdue, UW–Madison, Northwestern, Ohio State.",
  "e": "Undergrads at accredited US institutions who have finished freshman year and at least 4 STEM courses. No prior research needed. No citizenship requirement stated.",
  "f": "Chicago Quantum Exchange",
  "fields": [
@@ -19,11 +19,11 @@
  "id": "chicago-quantum-exchange-open-quantum-initiative-oqi-undergr",
  "n": "Chicago Quantum Exchange – Open Quantum Initiative (OQI) Undergraduate Fellowship",
  "nom": false,
- "s": "watch",
+ "s": "open",
  "stages": [
   "ug"
  ],
  "u": "https://chicagoquantum.org/oqi-undergraduate-fellowship",
- "unv": "2027 deadline not posted.",
+ "unv": "Some host placement dates (Ohio State, Argonne, UIUC) are listed as TBA.",
  "us": false
 }

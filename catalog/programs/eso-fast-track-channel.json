@@ -6,9 +6,9 @@
   "ast"
  ],
  "c": "Observing time",
- "checked": "2026-11-09",
+ "checked": "2026-11-16",
  "d": null,
- "dt": "Closed; ESO says FTC 117B will be released in late 2026",
+ "dt": "Closed; ESO says FTC 117B will be released on Nov 18, 2026",
  "e": "ESO's quick channel for small programs, with staggered deadlines. Open to scientists worldwide.",
  "f": "European Southern Observatory",
  "fields": [
@@ -27,6 +27,6 @@
   "pd"
  ],
  "u": "https://www.eso.org/sci/observing/phase1/fast-track-channel.html",
- "unv": "FTC 117B release date and deadline are not posted; ESO says only that it will be released in late 2026.",
+ "unv": "FTC 117B deadlines are not posted yet; ESO says only that the call will be released on Nov 18, 2026.",
  "us": false
 }

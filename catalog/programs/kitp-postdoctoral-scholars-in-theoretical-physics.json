@@ -12,9 +12,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-11-09",
- "d": "2026-11-15",
- "dt": "Due Nov 15, 2026 for primary consideration; start Sep 1, 2027 (AJO #32412).",
+ "checked": "2026-11-16",
+ "d": null,
+ "dt": "Last deadline Nov 15, 2026 (for primary consideration; positions start Sep 1, 2027); the next cycle is not posted yet.",
  "e": "Theoretical physicists (condensed matter and quantum included).",
  "f": "Kavli Institute for Theoretical Physics, UCSB",
  "fields": [
@@ -33,10 +33,11 @@
  "nom": false,
  "pt": "prize",
  "region": "US",
- "s": "open",
+ "s": "watch",
  "stages": [
   "pd"
  ],
  "u": "https://www.kitp.ucsb.edu/about-us/careers/postdoctoral-scholars-in-theoretical-physics",
+ "unv": "The KITP page does not say whether applications after Nov 15, 2026 are still considered.",
  "us": false
 }

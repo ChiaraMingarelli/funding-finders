@@ -8,9 +8,9 @@
   "ast"
  ],
  "c": "Fellowship",
- "checked": "2026-11-11",
- "d": "2026-11-15",
- "dt": "Deadline Nov 15, 2026; start July 1, 2027",
+ "checked": "2026-11-16",
+ "d": null,
+ "dt": "Last deadline Nov 15, 2026 (fellowships starting July 1, 2027); the next cycle is not posted yet",
  "e": "Three-year prize fellowship. Fellows propose their own research in any department area: nuclear/particle, condensed matter, quantum information, biophysics or astrophysics. Current WashU Physics employees are not eligible.",
  "f": "WashU Department of Physics",
  "fields": [
@@ -27,11 +27,12 @@
  "nom": false,
  "pt": "prize",
  "region": "US",
- "s": "open",
+ "s": "watch",
  "src": "other:wustl-JR96997-jaynes",
  "stages": [
   "pd"
  ],
  "u": "https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Danforth-Campus/Edwin-Thompson-Jaynes-Postdoctoral-Fellow-in-Physics_JR96997",
+ "unv": "The Workday posting (checked Nov 16, 2026) still gives the Nov 15, 2026 deadline and no later date.",
  "us": false
 }

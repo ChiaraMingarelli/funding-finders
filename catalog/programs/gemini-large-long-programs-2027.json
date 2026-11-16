@@ -27,6 +27,6 @@
   "pd"
  ],
  "u": "https://www.gemini.edu/observing/phase-i/llp",
- "unv": "The 2027 LLP call has not been issued, so the 2027 dates are unconfirmed. The page does not say whether postdocs or graduate students may be PI. The row lists tt, ten and pd because the only PI rule given is about the institution (PIs must be based in a participating partner country, currently the US and Canada).",
+ "unv": "The 2027 LLP call has not been issued, so the 2027 dates are unconfirmed. The page does not say whether postdocs or graduate students may be PI. The row lists tt, ten and pd because the only PI rule given is about the institution (PIs must be based in a participating partner country, currently the US and Canada). gemini.edu returned HTTP 403 to automated requests on Nov 16, 2026, so this row was not rechecked; values are from the Nov 9, 2026 check.",
  "us": false
 }

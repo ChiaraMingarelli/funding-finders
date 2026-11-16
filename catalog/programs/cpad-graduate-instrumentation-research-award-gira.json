@@ -1,12 +1,12 @@
 {
- "a": "$45K per year stipend plus up to $65K in total tuition supplement. Up to 2 years.",
+ "a": "$45,000 per year stipend; tuition supplement set case by case, capped at $65,000 total including the stipend. Renewable for two years in total (a third only in exceptional cases).",
  "added": "2026-09-28",
  "aud": [
   "yale",
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-11-02",
+ "checked": "2026-11-16",
  "d": null,
  "dt": "Last deadline Aug 15, 2026 (2026 cycle, AJO #32124); the next cycle is not posted yet, expected around summer 2027.",
  "e": "Students in a US physics PhD program (no citizenship requirement), usually in year 2-3, doing HEP instrumentation research mainly in the US. A Yale student won in 2023.",
@@ -23,6 +23,6 @@
   "gr"
  ],
  "u": "https://cpad-dpf.org/?page_id=285",
- "unv": "cpad-dpf.org blocked automated access (\"Just a moment\" check / HTTP 403) on Nov 2 and Nov 9, 2026; the page was last read on Nov 2, 2026, when it still showed the Aug 15, 2026 deadline and no next cycle.",
+ "unv": "The page (read Nov 16, 2026) still shows the Aug 15, 2026 deadline and says the next application opening is imminent, with no new date.",
  "us": false
 }
