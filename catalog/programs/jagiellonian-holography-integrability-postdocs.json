@@ -1,0 +1,30 @@
+{
+ "a": "2 years from Oct 1, 2027; about 8,800 PLN/month before taxes",
+ "added": "2026-11-17",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-17",
+ "d": "2026-12-20",
+ "dt": "Due Dec 20, 2026 (incl. 2-3 letters), by email",
+ "e": "Two 2-year postdocs on the NCN project \"From thermal to quantum holography and back again\" (R. Janik) in Krakow. Apply by email with CV, publications and research statement; no citizenship restriction stated.",
+ "f": "Jagiellonian University",
+ "fields": [
+  "ppt"
+ ],
+ "id": "jagiellonian-holography-integrability-postdocs",
+ "n": "Jagiellonian University: Two postdocs in string theory, AdS/CFT and integrability (Janik NCN project)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3228869",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3228869",
+ "us": false
+}

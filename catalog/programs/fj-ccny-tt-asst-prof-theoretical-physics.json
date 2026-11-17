@@ -1,0 +1,31 @@
+{
+ "a": "Tenure-track Assistant Professor; salary range $105,588-$114,091",
+ "added": "2026-11-17",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-17",
+ "d": "2027-01-12",
+ "dt": "Closing date Jan 12, 2027 (apply via CUNYfirst, Job ID 33140)",
+ "e": "Tenure-track assistant professorship in theoretical physics (high energy physics, quantum information, QFT links to condensed matter) starting Fall 2027. Requires a PhD in physics or a related field; no citizenship restriction stated.",
+ "f": "City College of New York (CUNY)",
+ "fields": [
+  "ppt",
+  "qp",
+  "cmt"
+ ],
+ "id": "fj-ccny-tt-asst-prof-theoretical-physics",
+ "n": "City College of New York (CUNY): Tenure-track Assistant Professor in Physics (theoretical: HEP / quantum information)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3228590",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://cuny.jobs/new-york-ny/assistant-professor-physics-tenure-track/D3FCCE5AE47849AD9CC54725DAEA3985/job/",
+ "unv": "CUNY ad page is JS-rendered; details taken from the INSPIRE posting",
+ "us": false
+}

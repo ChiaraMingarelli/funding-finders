@@ -1,0 +1,30 @@
+{
+ "a": "Up to 2 years from Sept 2027; salary not listed",
+ "added": "2026-11-17",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-17",
+ "d": "2027-01-08",
+ "dt": "Full consideration by Jan 8, 2027; then until filled",
+ "e": "Project-funded postdoc in particle theory and phenomenology at the UAM Department of Theoretical Physics, starting September 2027. Requires a PhD by the start date; no citizenship restriction stated.",
+ "f": "Universidad Autonoma de Madrid",
+ "fields": [
+  "ppt"
+ ],
+ "id": "uam-particle-theory-phenomenology-postdoc-2027",
+ "n": "Universidad Autonoma de Madrid (DFT/IFT): Postdoc in particle physics theory and phenomenology",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3228911",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://calls.ift.uam-csic.es/convocatoria/Njc=",
+ "us": false
+}

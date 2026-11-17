@@ -1,0 +1,37 @@
+{
+ "a": "Up to 4 openings; 'Senior Researcher' title (effectively postdoc); term extendable once, total contract not over 5 years; salary per IBS rules (not listed)",
+ "added": "2026-11-17",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-17",
+ "d": "2026-12-27",
+ "dt": "Dec 27, 2026 (full consideration, incl. letters)",
+ "e": "Postdoc-level research positions in theoretical cosmology, gravity, astroparticle physics and related areas (e.g., dark matter, neutrinos, observational cosmology) at IBS CTPU-CGA in Daejeon, Korea, preferably starting Oct 1, 2027. Open to PhDs (degree required by Dec 16, 2027), including fresh PhDs; no nationality restriction stated.",
+ "f": "Institute for Basic Science, Center for Theoretical Physics of the Universe (CTPU-CGA)",
+ "fields": [
+  "astro",
+  "grav",
+  "ppt"
+ ],
+ "id": "ibs-ctpu-cga-senior-researcher-cosmology-2027",
+ "n": "IBS CTPU-CGA: Senior Researcher (postdoc-level) in Theoretical Cosmology, Gravity and Astroparticle Physics",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33382",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33382",
+ "unv": "Initial contract length and salary not stated; separate from the CTPU-CGA YSF postdoc (ajo:33244) already in catalog",
+ "us": false
+}

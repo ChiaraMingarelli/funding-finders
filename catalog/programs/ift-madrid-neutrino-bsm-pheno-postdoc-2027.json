@@ -1,0 +1,32 @@
+{
+ "a": "2-year position with travel funds; salary not listed",
+ "added": "2026-11-17",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-17",
+ "d": "2027-01-08",
+ "dt": "Due Jan 8, 2027 (INSPIRE deadline)",
+ "e": "Two-year postdoc with the IFT/UAM neutrino and BSM groups (with visits to the U. Barcelona group), starting Fall 2027. Requires a PhD by the start; no citizenship restriction stated.",
+ "f": "Instituto de Fisica Teorica (IFT UAM-CSIC)",
+ "fields": [
+  "ppt",
+  "nut"
+ ],
+ "id": "ift-madrid-neutrino-bsm-pheno-postdoc-2027",
+ "n": "IFT Madrid / UAM / U. Barcelona: Postdoc in Neutrino and BSM Phenomenology",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3228866",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://calls.ift.uam-csic.es/convocatoria/NjY=",
+ "unv": "Deadline taken from INSPIRE; not confirmed on IFT call page",
+ "us": false
+}

@@ -1,0 +1,37 @@
+{
+ "a": "Typical salary $67,500; 2-3 year appointment",
+ "added": "2026-11-17",
+ "asub": [
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-17",
+ "d": "2026-12-01",
+ "dt": "Application deadline 1 December 2026 (per AAS Job Register listing)",
+ "e": "NRAO has two postdoctoral fellowships supporting ngVLA design and development: up to 50% of time on the ngVLA Science Support IPT and the rest on the fellow's own research. Work is in person. Citizenship limits were not seen.",
+ "f": "National Radio Astronomy Observatory (AUI)",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "nrao-ngvla-postdoctoral-fellows",
+ "n": "NRAO: ngVLA Postdoctoral Fellows",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "aas:98271d30",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aas.org/jobregister/ad/98271d30",
+ "unv": "The AAS ad returned 403, so details (deadline, salary, term) come from search-engine snippets of the AAS listing. The posting date, NRAO's own careers link and eligibility are unverified.",
+ "us": false
+}

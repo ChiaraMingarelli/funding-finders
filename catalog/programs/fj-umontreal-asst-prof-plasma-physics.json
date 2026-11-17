@@ -1,0 +1,29 @@
+{
+ "a": "Assistant Professor (tenure-track); salary not listed",
+ "added": "2026-11-17",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-17",
+ "d": "2027-01-05",
+ "dt": "Closing date 5 January 2027 (FAS listing; posting no. 532352)",
+ "e": "The Department of Physics, Faculty of Arts and Sciences, seeks a tenure-track Assistant Professor in plasma physics, with a faculty-wide start date of June 1, 2027. Open to PhD holders in the field; citizenship rules not stated in the ad seen.",
+ "f": "Université de Montréal",
+ "fields": [
+  "energy"
+ ],
+ "id": "fj-umontreal-asst-prof-plasma-physics",
+ "n": "Université de Montréal: Assistant Professor of Plasma Physics (tenure-track)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "Canada",
+ "s": "open",
+ "src": "other:umontreal-532352",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://fas.umontreal.ca/public/FAS/fas/Documents/1-faculte_services/poste-professeur/532352_affiche.pdf",
+ "unv": "The full ad text (requirements, salary, French-language expectations) is in the UdeM PeopleSoft portal, which returned 403. The deadline comes from the FAS 'Postes de professeurs' table and the start date from the faculty's Nature Careers ad. Plasma physics was mapped to field code 'energy'.",
+ "us": false
+}
