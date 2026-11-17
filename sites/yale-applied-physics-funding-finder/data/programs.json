@@ -586,33 +586,6 @@
   "us": false
  },
  {
-  "a": "Up to $400 per awardee",
-  "added": "2026-10-21",
-  "c": "Travel",
-  "checked": "2026-11-16",
-  "d": "2026-11-16",
-  "dt": "Apply by Nov 16, 2026; advisor letter required for students and postdocs; recipients announced by the third week of January 2027",
-  "e": "Travel support to the 2027 APS Global Physics Summit for DBIO members (undergraduates, graduate students, postdocs and faculty) who are first or corresponding author or presenter of a talk or poster in DBIO-sponsored sessions. Past recipients are not eligible.",
-  "f": "APS Division of Biological Physics",
-  "fields": [
-   "bio"
-  ],
-  "id": "aps-dbio-travel-awards-gps2027",
-  "n": "APS DBIO Travel Awards (2027 Global Physics Summit)",
-  "nom": false,
-  "pt": "other",
-  "s": "open",
-  "src": "other:aps-dbio-travel",
-  "stages": [
-   "ug",
-   "gr",
-   "pd",
-   "tt"
-  ],
-  "u": "https://engage.aps.org/dbio/honors/travel-grants",
-  "us": false
- },
- {
   "a": "Up to $800 travel reimbursement",
   "added": "2026-10-03",
   "c": "Travel",
@@ -3432,8 +3405,8 @@
   "added": "2026-09-28",
   "c": "Federal grant",
   "checked": "2026-11-16",
-  "d": "2026-11-16",
-  "dt": "FY2027 nuclear physics comparative review: applications due Nov 16, 2026, for full consideration. FY2028 HENP comparative review: pre-applications encouraged by Jul 29, 2027; applications due Sep 2, 2027 (panels November 2027). Both under the FY2027 Open Call, DE-FOA-0003665.",
+  "d": "2027-09-02",
+  "dt": "FY2027 nuclear physics comparative review: applications were due Nov 16, 2026. FY2028 HENP comparative review: pre-applications encouraged by Jul 29, 2027; applications due Sep 2, 2027 (panels November 2027). Both under the FY2027 Open Call, DE-FOA-0003665.",
   "e": "University PIs across Medium Energy, Heavy Ion, Nuclear Structure/Astrophysics, Fundamental Symmetries, Theory, Data, Computing, AI/ML, QIS and Detector R&D. Narrative limit is 20 pages; a student tracking table and annual measurable objectives are required.",
   "f": "DOE Office of Science - Nuclear Physics",
   "fields": [
@@ -7411,62 +7384,6 @@
   "us": false
  },
  {
-  "a": "$73,000-$90,000 (12-month appointment)",
-  "added": "2026-09-30",
-  "asub": [
-   "cos",
-   "he"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-16",
-  "d": "2026-11-16",
-  "dt": "Nov 16, 2026, 11:59 pm ET",
-  "e": "Particle physics, quantum gravity, cosmology, QFT, strings, astroparticle, phenomenology and quantum information theory. Three letters; start Sep 1, 2027.",
-  "f": "MIT Center for Theoretical Physics - a Leinweber Institute (particle-theory faculty incl. Harlow, Liu, Slatyer, Thaler, Shao, Engelhardt, Ivanov)",
-  "fields": [
-   "ppt",
-   "grav",
-   "qp"
-  ],
-  "id": "mit-ctp-postdoc-in-high-energy-theory",
-  "n": "MIT CTP: Postdoc in High Energy Theory",
-  "nfit": "High",
-  "nom": false,
-  "pt": "group",
-  "region": "US",
-  "s": "open",
-  "src": "ajo:32743",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32743",
-  "us": false
- },
- {
-  "a": "$73,000-$90,000 (12-month appointment)",
-  "added": "2026-09-30",
-  "c": "Group postdoc",
-  "checked": "2026-11-16",
-  "d": "2026-11-16",
-  "dt": "Nov 16, 2026, 11:59 pm ET",
-  "e": "All areas of quantum information science and quantum computing. CV, research statement, 3 letters; start Sep 1, 2027.",
-  "f": "MIT Center for Theoretical Physics - a Leinweber Institute (Soonwon Choi, Isaac Chuang, Edward Farhi, Aram Harrow, Peter Shor, Seth Lloyd, Anand Natarajan, Harry Zhou)",
-  "fields": [
-   "qp"
-  ],
-  "id": "mit-ctp-postdoc-in-quantum-information-science-computing",
-  "n": "MIT CTP: Postdoc in Quantum Information Science/Computing",
-  "nom": false,
-  "pt": "group",
-  "s": "open",
-  "src": "ajo:32745",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32745",
-  "us": false
- },
- {
   "a": "Not listed (covers the position for 2 years plus consumables and travel)",
   "added": "2026-11-13",
   "c": "Fellowship",
@@ -7947,8 +7864,8 @@
   "added": "2026-10-26",
   "c": "Federal grant",
   "checked": "2026-11-16",
-  "d": "2026-11-16",
-  "dt": "Next due date Nov 16, 2026; later dates May 17, 2027 and Nov 15, 2027 (NOFO expires Nov 16, 2027)",
+  "d": "2027-05-17",
+  "dt": "Next due date May 17, 2027; later date Nov 15, 2027 (NOFO expires Nov 16, 2027)",
   "e": "Funds advanced preclinical research to bring nanoparticle- and nanodevice-based cancer diagnostics and therapies closer to clinical development. Foreign organizations cannot apply; there is no citizenship limit for PIs.",
   "f": "NIH NCI",
   "fields": [
@@ -13809,33 +13726,6 @@
   "us": false
  },
  {
-  "a": "3 years",
-  "added": "2026-09-30",
-  "c": "Fellowship",
-  "checked": "2026-11-16",
-  "d": "2026-11-16",
-  "dt": "Nov 16, 2026, 23:59 (AJO); applications before Oct 16 received full consideration",
-  "e": "Fellowship across quantum algorithms, computing, information, materials, optics and sensing; at least four awards. PhD before start (~Autumn 2027).",
-  "f": "Stanford University, Q-FARM (Stanford-SLAC Quantum Initiative)",
-  "fields": [
-   "qp",
-   "cmx",
-   "cmt",
-   "amo"
-  ],
-  "id": "stanford-q-farm-bloch-fellowship-in-quantum-science-engi",
-  "n": "Stanford Q-FARM: Bloch Fellowship in Quantum Science & Engineering",
-  "nom": false,
-  "pt": "prize",
-  "s": "open",
-  "src": "ajo:32497",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32497",
-  "us": false
- },
- {
   "a": "$2,500 stipend plus room, board and SCIE 1010 tuition",
   "added": "2026-09-28",
   "c": "Yale internal",
@@ -13890,7 +13780,7 @@
   "added": "2026-10-03",
   "c": "Group postdoc",
   "checked": "2026-11-16",
-  "d": "2026-11-16",
+  "d": null,
   "dt": "Review begins Nov 16, 2026 (AJO deadline) and continues until the positions are filled",
   "e": "Theory postdocs in topological phases on quantum devices, quantum error correction and fault tolerance, non-equilibrium dynamics and generalized symmetries; strong applicants may be considered for a Simons Targeted Research Group fellowship.",
   "f": "Stony Brook University, C.N. Yang Institute for Theoretical Physics",
@@ -13902,7 +13792,7 @@
   "n": "Stony Brook YITP: Postdocs incl. Topological Matter, QEC and Quantum Dynamics",
   "nom": false,
   "pt": "group",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:32928",
   "stages": [
    "pd"

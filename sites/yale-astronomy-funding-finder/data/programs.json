@@ -1540,6 +1540,37 @@
   "us": true
  },
  {
+  "a": "£38,448–£46,970; 2 years in the first instance, possible extension",
+  "added": "2026-11-17",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-17",
+  "d": "2026-12-15",
+  "dt": "Closing date 15 December 2026 (ref LE51646); separate from the MicroBH AJO expression of interest",
+  "e": "This postdoc is in Jorge Santos's group, part of the John Templeton Foundation MicroBH network (with IPhT, Sapienza and UIUC), working on black-hole microstate geometries, numerical relativity and GW signatures, starting Aug/Sep 2027. It is open to PhDs in physics or related fields, and the hire must be eligible to live and work in the UK.",
+  "f": "University of Cambridge (DAMTP)",
+  "fields": [
+   "grav",
+   "ppt"
+  ],
+  "id": "cambridge-damtp-microbh-black-hole-ra",
+  "n": "University of Cambridge DAMTP: Research Associate in Black Hole Physics (MicroBH, Templeton-funded)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:cam-LE51646",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.jobs.cam.ac.uk/job/57723/",
+  "unv": "Visa sponsorship is not stated.",
+  "us": false
+ },
+ {
   "a": "$70,000/yr for 24 months",
   "added": "2026-09-29",
   "c": "Fellowship",
@@ -2018,8 +2049,8 @@
   ],
   "c": "Fellowship",
   "checked": "2026-11-16",
-  "d": "2026-11-16",
-  "dt": "11:59 pm",
+  "d": null,
+  "dt": "Full consideration by Nov 16, 2026; later applications considered until all positions are filled",
   "e": "PhD before the Sep 2027 start.",
   "f": "Northwestern",
   "fields": [
@@ -2032,7 +2063,7 @@
   "nom": false,
   "pt": "prize",
   "region": "US",
-  "s": "open",
+  "s": "rolling",
   "stages": [
    "pd"
   ],
@@ -4228,36 +4259,6 @@
   "us": false
  },
  {
-  "a": "3 years",
-  "added": "2026-09-30",
-  "asub": [
-   "he"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-16",
-  "d": "2026-11-16",
-  "dt": "Nov 16, 2026, 5:00 pm EST; apply via Harvard portal",
-  "e": "Interdisciplinary black-hole research: information paradox, spacetime stability, GRMHD simulations, TDEs, gravitational waves, EHT, plus philosophy/history. Ideal start Sep 1, 2027.",
-  "f": "Harvard University, Black Hole Initiative (Peter Galison; Ramesh Narayan, Andy Strominger, Abraham Loeb, Sheperd Doeleman, Michael Johnson)",
-  "fields": [
-   "astro",
-   "grav"
-  ],
-  "id": "harvard-black-hole-initiative-postdoctoral-fellowship",
-  "n": "Harvard: Black Hole Initiative Postdoctoral Fellowship",
-  "nfit": "High",
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "ajo:32754",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32754",
-  "us": false
- },
- {
   "a": "$87.5k–89.5k, 1 yr renewable to 3",
   "added": "2026-09-29",
   "asub": [
@@ -4828,6 +4829,38 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33244",
   "unv": "Salary not stated in the ad; no nationality limit stated (general IBS/State Public Officials Act eligibility rules apply).",
+  "us": false
+ },
+ {
+  "a": "Up to 4 openings; 'Senior Researcher' title (effectively postdoc); term extendable once, total contract not over 5 years; salary per IBS rules (not listed)",
+  "added": "2026-11-17",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-17",
+  "d": "2026-12-27",
+  "dt": "Dec 27, 2026 (full consideration, incl. letters)",
+  "e": "Postdoc-level research positions in theoretical cosmology, gravity, astroparticle physics and related areas (e.g., dark matter, neutrinos, observational cosmology) at IBS CTPU-CGA in Daejeon, Korea, preferably starting Oct 1, 2027. Open to PhDs (degree required by Dec 16, 2027), including fresh PhDs; no nationality restriction stated.",
+  "f": "Institute for Basic Science, Center for Theoretical Physics of the Universe (CTPU-CGA)",
+  "fields": [
+   "astro",
+   "grav",
+   "ppt"
+  ],
+  "id": "ibs-ctpu-cga-senior-researcher-cosmology-2027",
+  "n": "IBS CTPU-CGA: Senior Researcher (postdoc-level) in Theoretical Cosmology, Gravity and Astroparticle Physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33382",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33382",
+  "unv": "Initial contract length and salary not stated; separate from the CTPU-CGA YSF postdoc (ajo:33244) already in catalog",
   "us": false
  },
  {
@@ -7226,38 +7259,6 @@
   "us": false
  },
  {
-  "a": "$73,000-$90,000 (12-month appointment)",
-  "added": "2026-09-30",
-  "asub": [
-   "cos",
-   "he"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-16",
-  "d": "2026-11-16",
-  "dt": "Nov 16, 2026, 11:59 pm ET",
-  "e": "Particle physics, quantum gravity, cosmology, QFT, strings, astroparticle, phenomenology and quantum information theory. Three letters; start Sep 1, 2027.",
-  "f": "MIT Center for Theoretical Physics - a Leinweber Institute (particle-theory faculty incl. Harlow, Liu, Slatyer, Thaler, Shao, Engelhardt, Ivanov)",
-  "fields": [
-   "ppt",
-   "grav",
-   "qp"
-  ],
-  "id": "mit-ctp-postdoc-in-high-energy-theory",
-  "n": "MIT CTP: Postdoc in High Energy Theory",
-  "nfit": "High",
-  "nom": false,
-  "pt": "group",
-  "region": "US",
-  "s": "open",
-  "src": "ajo:32743",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32743",
-  "us": false
- },
- {
   "a": "3 years (third year contingent on progress and funding)",
   "added": "2026-11-10",
   "asub": [
@@ -9032,6 +9033,37 @@
   "us": false
  },
  {
+  "a": "Typical salary $67,500; 2-3 year appointment",
+  "added": "2026-11-17",
+  "asub": [
+   "inst"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-17",
+  "d": "2026-12-01",
+  "dt": "Application deadline 1 December 2026 (per AAS Job Register listing)",
+  "e": "NRAO has two postdoctoral fellowships supporting ngVLA design and development: up to 50% of time on the ngVLA Science Support IPT and the rest on the fellow's own research. Work is in person. Citizenship limits were not seen.",
+  "f": "National Radio Astronomy Observatory (AUI)",
+  "fields": [
+   "astro",
+   "inst"
+  ],
+  "id": "nrao-ngvla-postdoctoral-fellows",
+  "n": "NRAO: ngVLA Postdoctoral Fellows",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "aas:98271d30",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://aas.org/jobregister/ad/98271d30",
+  "unv": "The AAS ad returned 403, so details (deadline, salary, term) come from search-engine snippets of the AAS listing. The posting date, NRAO's own careers link and eligibility are unverified.",
+  "us": false
+ },
+ {
   "a": "Stipend up to 1 year + moving allowance + funded AAS meeting attendance",
   "added": "2026-10-01",
   "asub": [
@@ -9969,33 +10001,6 @@
   "us": false
  },
  {
-  "a": "€48k gross/yr + €5k/yr environment; 2 years",
-  "added": "2026-09-30",
-  "c": "Fellowship",
-  "checked": "2026-11-16",
-  "d": "2026-11-16",
-  "dt": "Nov 16, 2026, noon (TZ not stated)",
-  "e": "Two-year contract, starting Oct 1, 2027, for an independent research program in Earth and Universe sciences at OCA, Nice. Open to all applicants who have defended their PhD before applying and whose PhD and postdoc were outside OCA; an OCA scientific host submits the application.",
-  "f": "Observatoire de la Côte d'Azur, Nice; contacts Muriel Billerey, Mathias Schultheis",
-  "fields": [
-   "astro",
-   "grav"
-  ],
-  "id": "observatoire-de-la-c-te-d-azur-poincar-early-career-fell",
-  "n": "Observatoire de la Côte d'Azur: Poincaré early-career fellowship",
-  "nfit": "High",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "aas:6076de03",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.oca.eu/fr/programme-jeunes-chercheurs",
-  "us": false
- },
- {
   "a": "$67,000/yr + $10,000/yr research + $3,000 relocation; 3 years",
   "added": "2026-09-30",
   "asub": [
@@ -10294,33 +10299,6 @@
   }
  },
  {
-  "a": "",
-  "added": "2026-10-07",
-  "c": "Fellowship",
-  "checked": "2026-11-16",
-  "d": "2026-11-16",
-  "dt": "Nov 16, 2026 (letters by same date)",
-  "e": "2-year (renewable to 3) fellowships for independent research in any area of astrophysics, with special consideration for strong AI backgrounds; applicants list possible KIAA/DoA advisors. Any nationality; preferred start May/Sep/Dec 2027.",
-  "f": "Peking University, Kavli Institute for Astronomy and Astrophysics",
-  "fields": [
-   "astro"
-  ],
-  "id": "peking-university-kiaa-kiaa-fellowships",
-  "n": "Peking University KIAA: KIAA Fellowships",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "ajo:32986",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32986",
-  "unv": "Distinct from the known 'KIAA Boya Fellowship' row; KIAA fellows get some preference for Boya selection.",
-  "us": false
- },
- {
   "a": "Term position; length set at interview; salary not stated",
   "added": "2026-10-28",
   "asub": [
@@ -10441,37 +10419,6 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33039",
   "unv": "Separate from the Langley Senior Postdoctoral Fellow posting (ajo:32976).",
-  "us": false
- },
- {
-  "a": "Two years, renewable for up to two more; start flexible in 2027; salary not listed",
-  "added": "2026-10-12",
-  "asub": [
-   "exo",
-   "ism"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-16",
-  "d": "2026-11-16",
-  "dt": "Nov 16, 2026 (application and letters)",
-  "e": "Independent postdoctoral fellowship in protoplanetary disks and planet formation (theory, simulation, machine learning or observation), collaborating with KIAA faculty (Dong, Herczeg, Long, Wang). Preference for applicants within three years of the PhD; any nationality; applicants are also considered for KIAA Fellowships.",
-  "f": "Kavli Institute for Astronomy and Astrophysics, Peking University",
-  "fields": [
-   "astro"
-  ],
-  "id": "pku-kiaa-planet-formation-fellowship-2027",
-  "n": "Peking University KIAA: Planet Formation Fellowship",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "ajo:33028",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/33028",
-  "unv": "Salary not stated in the posting",
   "us": false
  },
  {
@@ -12951,8 +12898,8 @@
   ],
   "c": "Group postdoc",
   "checked": "2026-11-08",
-  "d": "2026-11-16",
-  "dt": "Full consideration for applications complete by Nov 15, 2026; listed deadline Nov 16, 2026 (not confirmed)",
+  "d": null,
+  "dt": "Last listed deadline Nov 16, 2026 (full consideration by Nov 15, 2026); status after the deadline not confirmed",
   "e": "Three-year fellowship at UC Observatories in Santa Cruz, with two-thirds of time supporting instrumentation projects for Lick, Keck and Gemini (e.g. adaptive optics, wavefront sensing, data pipelines) and one-third for independent research. UC Santa Cruz sponsors employment visas for academic appointees.",
   "f": "University of California Observatories, UC Santa Cruz",
   "fields": [
@@ -12965,13 +12912,13 @@
   "nom": false,
   "pt": "group",
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "src": "aas:9d513651",
   "stages": [
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/9d513651",
-  "unv": "AAS Job Register blocks automated access; no host ad found on UCSC Recruit's open-positions list on Nov 9, 2026, and ucolick.org returned HTTP 503. All details from search-engine snippets; deadline, salary, posting date and start date (no later than Oct 1, 2027) not confirmed on the ad itself.",
+  "unv": "AAS Job Register blocks automated access; no host ad found on UCSC Recruit's open-positions list on Nov 9, 2026, and ucolick.org returned HTTP 503. All details from search-engine snippets; deadline, salary, posting date and start date (no later than Oct 1, 2027) not confirmed on the ad itself. On Nov 17, 2026 the AAS ad again returned HTTP 403 and no host ad was found, so whether it is still open could not be checked.",
   "us": false
  },
  {
