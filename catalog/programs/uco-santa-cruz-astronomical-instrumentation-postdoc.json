@@ -11,8 +11,8 @@
  ],
  "c": "Group postdoc",
  "checked": "2026-11-08",
- "d": "2026-11-16",
- "dt": "Full consideration for applications complete by Nov 15, 2026; listed deadline Nov 16, 2026 (not confirmed)",
+ "d": null,
+ "dt": "Last listed deadline Nov 16, 2026 (full consideration by Nov 15, 2026); status after the deadline not confirmed",
  "e": "Three-year fellowship at UC Observatories in Santa Cruz, with two-thirds of time supporting instrumentation projects for Lick, Keck and Gemini (e.g. adaptive optics, wavefront sensing, data pipelines) and one-third for independent research. UC Santa Cruz sponsors employment visas for academic appointees.",
  "f": "University of California Observatories, UC Santa Cruz",
  "fields": [
@@ -25,12 +25,12 @@
  "nom": false,
  "pt": "group",
  "region": "US",
- "s": "open",
+ "s": "watch",
  "src": "aas:9d513651",
  "stages": [
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/9d513651",
- "unv": "AAS Job Register blocks automated access; no host ad found on UCSC Recruit's open-positions list on Nov 9, 2026, and ucolick.org returned HTTP 503. All details from search-engine snippets; deadline, salary, posting date and start date (no later than Oct 1, 2027) not confirmed on the ad itself.",
+ "unv": "AAS Job Register blocks automated access; no host ad found on UCSC Recruit's open-positions list on Nov 9, 2026, and ucolick.org returned HTTP 503. All details from search-engine snippets; deadline, salary, posting date and start date (no later than Oct 1, 2027) not confirmed on the ad itself. On Nov 17, 2026 the AAS ad again returned HTTP 403 and no host ad was found, so whether it is still open could not be checked.",
  "us": false
 }

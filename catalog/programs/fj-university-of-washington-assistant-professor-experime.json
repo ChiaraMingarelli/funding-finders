@@ -6,8 +6,8 @@
  ],
  "c": "Faculty job",
  "checked": "2026-11-16",
- "d": "2026-11-16",
- "dt": "Nov 16, 2026 priority; open until filled",
+ "d": null,
+ "dt": "Priority date Nov 16, 2026; open until filled (apply via Interfolio)",
  "e": "Tenure-track experimental AMO physics, expanding neutral-atom and trapped-ion efforts; links to the Thouless Institute and InQubator for Quantum Simulation. PhD required by start (Autumn 2027); apply via Interfolio.",
  "f": "University of Washington, Department of Physics",
  "fields": [
@@ -19,7 +19,7 @@
  "nfit": "Low",
  "nom": false,
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:32929",
  "stages": [
   "fj"
