@@ -1,0 +1,32 @@
+{
+ "a": "",
+ "added": "2026-11-18",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-18",
+ "d": "2026-12-18",
+ "dt": "Dec 18, 2026 for full consideration",
+ "e": "Nine-month postdoc (start between Feb 1, 2027 and Jan 1, 2028) in Piotr Kucharski's project on knots, 3-manifolds, quivers, string theory and deep learning. PhD in mathematics, physics, computer science or a related field required.",
+ "f": "University of Warsaw, Institute of Mathematics",
+ "fields": [
+  "ppt",
+  "ds"
+ ],
+ "id": "warsaw-short-postdoc-quantum-topology-deep-learning",
+ "n": "University of Warsaw: Short postdoc in quantum topology and deep learning",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3229761",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3229761",
+ "unv": "Salary not stated.",
+ "us": false
+}

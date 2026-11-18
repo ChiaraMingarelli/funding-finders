@@ -1,0 +1,32 @@
+{
+ "a": "",
+ "added": "2026-11-18",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-18",
+ "d": "2027-01-11",
+ "dt": "Jan 11, 2027 initial deadline; late applications considered until filled",
+ "e": "Two experimental postdocs on DUNE and T2K (hardware, software and analysis). PhD in experimental particle physics or a related field required; no citizenship limit stated.",
+ "f": "Stony Brook University, Physics and Astronomy",
+ "fields": [
+  "ppx",
+  "nux"
+ ],
+ "id": "stony-brook-postdocs-neutrino-nucleon-decay-dune-t2k",
+ "n": "Stony Brook University: Two Postdoctoral Research Associates, Neutrino and Nucleon Decay Group (DUNE/T2K)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3229305",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3229305",
+ "unv": "Salary not stated; the university job-portal links (postings 2604226 and 2603457) were not found.",
+ "us": false
+}

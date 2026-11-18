@@ -1,0 +1,32 @@
+{
+ "a": "Postdoctoral Research Associate",
+ "added": "2026-11-18",
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-11-18",
+ "d": "2026-12-15",
+ "dt": "Dec 15, 2026; apply through UA requisition 27527 and AJO",
+ "e": "Two independent fellowships with one application: the Strittmatter Fellowship (any area of astronomy) and a theory/computation fellowship, with PI access to Steward Observatory facilities; start Aug-Dec 2027. No citizenship limit stated.",
+ "f": "University of Arizona, Department of Astronomy / Steward Observatory",
+ "fields": [
+  "astro"
+ ],
+ "id": "arizona-strittmatter-and-theory-prize-fellowships-2027",
+ "n": "University of Arizona Steward Observatory: Strittmatter Fellowship and Prize Fellowship in Theoretical & Computational Astrophysics",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33361",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33361",
+ "unv": "Salary not stated.",
+ "us": false
+}

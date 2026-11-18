@@ -1,0 +1,31 @@
+{
+ "a": "Assistant or Associate Professor (up to 12 positions over 2-3 years)",
+ "added": "2026-11-18",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-18",
+ "d": "2027-01-10",
+ "dt": "Priority review begins Jan 10, 2027",
+ "e": "University-wide search in quantum communication, computing, simulation, devices and sensors, with a home department and Quantum Institute affiliation; first appointments fall 2027. No citizenship limit stated.",
+ "f": "Stony Brook University, Quantum Institute",
+ "fields": [
+  "qp",
+  "dev",
+  "phot"
+ ],
+ "id": "fj-stony-brook-quantum-information-science-engineering",
+ "n": "Stony Brook University: Assistant or Associate Professor in Quantum Information Science and Engineering",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33445",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://apply.interfolio.com/196766",
+ "unv": "Interfolio ad not opened; tenure-track status not stated explicitly.",
+ "us": false
+}

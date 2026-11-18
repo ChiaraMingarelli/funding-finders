@@ -1,0 +1,32 @@
+{
+ "a": "$70,000-$75,000",
+ "added": "2026-11-18",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-18",
+ "d": "2026-12-31",
+ "dt": "Dec 31, 2026; applications reviewed as received until filled",
+ "e": "Two-year postdoc in Veronica Bindi's group on a NASA-funded project developing neutron and gamma-ray detection instruments for planetary exploration. PhD in physics, nuclear or astroparticle physics, or nuclear engineering required.",
+ "f": "University of Hawaii at Manoa, Department of Physics & Astronomy",
+ "fields": [
+  "inst",
+  "nux"
+ ],
+ "id": "hawaii-postdoc-space-radiation-instrumentation",
+ "n": "University of Hawaii: Postdoc in Space Radiation Instrumentation",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3229806",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3229806",
+ "unv": "Citizenship or export-control limits not stated; the date comes from INSPIRE's deadline field.",
+ "us": false
+}

@@ -1,0 +1,32 @@
+{
+ "a": "Tenure-track Assistant Professor",
+ "added": "2026-11-18",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-18",
+ "d": "2027-02-28",
+ "dt": "Review begins Dec 14, 2026; AJO end date Feb 28, 2027",
+ "e": "Tenure-track post in experimental condensed matter or AMO physics, including quantum materials, quantum technologies, ultrafast and low-temperature physics (job ID 4557).",
+ "f": "University of Alberta, Department of Physics",
+ "fields": [
+  "cmx",
+  "amo",
+  "mat",
+  "qp"
+ ],
+ "id": "fj-alberta-assistant-professor-experimental-quantum-matter",
+ "n": "University of Alberta: Assistant Professor in Experimental Quantum Matter",
+ "nfit": "Low",
+ "nom": false,
+ "region": "Canada",
+ "s": "open",
+ "src": "ajo:33468",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://iaejup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/UOA-Careers/job/4557",
+ "unv": "Official ad not opened; any Canadian-priority wording not checked.",
+ "us": false
+}

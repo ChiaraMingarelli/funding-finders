@@ -1,0 +1,35 @@
+{
+ "a": "Grade 7 (RA) or Grade 8 (SRA); fixed term 3 years",
+ "added": "2026-11-18",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-18",
+ "d": "2026-12-22",
+ "dt": "Dec 22, 2026 (ref. LE51639); references by Dec 29",
+ "e": "ERC-funded cosmology postdoc in Blake Sherwin's group (CMB lensing, kSZ, large-scale structure), starting Oct 1, 2027. Open to those with or about to receive a PhD; no nationality limit stated.",
+ "f": "University of Cambridge, DAMTP",
+ "fields": [
+  "astro"
+ ],
+ "id": "cambridge-damtp-erc-research-associate-cosmology",
+ "n": "University of Cambridge DAMTP: ERC-funded Research Associate in Cosmology",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33450",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.jobs.cam.ac.uk/job/57715",
+ "unv": "Salary figures not checked on the Cambridge page.",
+ "us": false
+}

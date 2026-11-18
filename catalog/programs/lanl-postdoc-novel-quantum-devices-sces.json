@@ -1,0 +1,35 @@
+{
+ "a": "",
+ "added": "2026-11-18",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-18",
+ "d": null,
+ "dt": "No deadline given; AJO listing ends Jan 11, 2027",
+ "e": "Postdocs fabricating and measuring quantum-coherent devices (superconducting resonators, kinetic-inductance detectors) from f-electron intermetallic thin films at dilution-refrigerator temperatures. Requires a PhD within the past five years (IRC146510).",
+ "f": "Los Alamos National Laboratory",
+ "fields": [
+  "cmx",
+  "dev",
+  "mat",
+  "qp"
+ ],
+ "id": "lanl-postdoc-novel-quantum-devices-sces",
+ "n": "Los Alamos National Laboratory: Postdoc in fabrication and measurement of novel quantum devices",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "ajo:33411",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://lanl.jobs/search/jobdetails/postdoctoral-research-associate-on-fabrication-and-measurement-of-novel-quantum-devices-and-phenomena/761be4ad-329a-43cc-a0d3-d189216486e1",
+ "unv": "Salary and any citizenship or clearance requirement not checked.",
+ "us": false
+}

@@ -1,0 +1,33 @@
+{
+ "a": "1-year term, renewable",
+ "added": "2026-11-18",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-18",
+ "d": "2026-12-01",
+ "dt": "Review begins Dec 1, 2026 and continues until filled",
+ "e": "Postdoc on a quantum many-body theory project in Masaki Oshikawa's group (field theory, mathematical and numerical methods, quantum information and condensed matter). No citizenship limit stated.",
+ "f": "Ohio State University, Department of Physics",
+ "fields": [
+  "cmt",
+  "qp"
+ ],
+ "id": "ohio-state-postdoc-quantum-many-body-theory",
+ "n": "Ohio State University: Postdoctoral Scholar in quantum many-body theory (Oshikawa group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33467",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33467",
+ "unv": "Salary not stated.",
+ "us": false
+}

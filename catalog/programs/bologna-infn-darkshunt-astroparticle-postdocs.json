@@ -1,0 +1,37 @@
+{
+ "a": "",
+ "added": "2026-11-18",
+ "asub": [
+  "he",
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-18",
+ "d": "2027-01-06",
+ "dt": "Jan 6, 2027",
+ "e": "Several two-year (+1) postdocs in the astroparticle theory group under the ERC grant DarkSHunt (PI Silvia Pascoli). Expressions of interest go by email as described in the ad; no citizenship limit stated.",
+ "f": "University of Bologna and INFN Bologna",
+ "fields": [
+  "ppt",
+  "astro"
+ ],
+ "id": "bologna-infn-darkshunt-astroparticle-postdocs",
+ "n": "University of Bologna / INFN: Postdocs in theoretical astroparticle physics (ERC DarkSHunt)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3229578",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3229578",
+ "unv": "The date comes from INSPIRE's deadline field; the ad text gives no date. Salary not stated.",
+ "us": false
+}
