@@ -788,6 +788,33 @@
   "us": false
  },
  {
+  "a": "Postdoctoral Research Associate",
+  "added": "2026-11-18",
+  "c": "Fellowship",
+  "checked": "2026-11-18",
+  "d": "2026-12-15",
+  "dt": "Dec 15, 2026; apply through UA requisition 27527 and AJO",
+  "e": "Two independent fellowships with one application: the Strittmatter Fellowship (any area of astronomy) and a theory/computation fellowship, with PI access to Steward Observatory facilities; start Aug-Dec 2027. No citizenship limit stated.",
+  "f": "University of Arizona, Department of Astronomy / Steward Observatory",
+  "fields": [
+   "astro"
+  ],
+  "id": "arizona-strittmatter-and-theory-prize-fellowships-2027",
+  "n": "University of Arizona Steward Observatory: Strittmatter Fellowship and Prize Fellowship in Theoretical & Computational Astrophysics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33361",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33361",
+  "unv": "Salary not stated.",
+  "us": false
+ },
+ {
   "a": "Residency; limited financial support",
   "added": "2026-09-29",
   "c": "Visiting program",
@@ -1301,6 +1328,38 @@
   }
  },
  {
+  "a": "",
+  "added": "2026-11-18",
+  "asub": [
+   "he",
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2027-01-06",
+  "dt": "Jan 6, 2027",
+  "e": "Several two-year (+1) postdocs in the astroparticle theory group under the ERC grant DarkSHunt (PI Silvia Pascoli). Expressions of interest go by email as described in the ad; no citizenship limit stated.",
+  "f": "University of Bologna and INFN Bologna",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "bologna-infn-darkshunt-astroparticle-postdocs",
+  "n": "University of Bologna / INFN: Postdocs in theoretical astroparticle physics (ERC DarkSHunt)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3229578",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3229578",
+  "unv": "The date comes from INSPIRE's deadline field; the ad text gives no date. Salary not stated.",
+  "us": false
+ },
+ {
   "a": "US site 2026: $12,538 (travel reimbursed)",
   "added": "2026-10-01",
   "asub": [
@@ -1538,6 +1597,36 @@
   "u": "https://sfp.caltech.edu/undergraduate-research/programs/wavefellows",
   "unv": "The application page gives the deadline as January 8 without a year; it is the deadline for the 2027 program (June 14 to August 20, 2027). It previously gave January 9.",
   "us": true
+ },
+ {
+  "a": "Grade 7 (RA) or Grade 8 (SRA); fixed term 3 years",
+  "added": "2026-11-18",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2026-12-22",
+  "dt": "Dec 22, 2026 (ref. LE51639); references by Dec 29",
+  "e": "ERC-funded cosmology postdoc in Blake Sherwin's group (CMB lensing, kSZ, large-scale structure), starting Oct 1, 2027. Open to those with or about to receive a PhD; no nationality limit stated.",
+  "f": "University of Cambridge, DAMTP",
+  "fields": [
+   "astro"
+  ],
+  "id": "cambridge-damtp-erc-research-associate-cosmology",
+  "n": "University of Cambridge DAMTP: ERC-funded Research Associate in Cosmology",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33450",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.jobs.cam.ac.uk/job/57715",
+  "unv": "Salary figures not checked on the Cambridge page.",
+  "us": false
  },
  {
   "a": "£38,448–£46,970; 2 years in the first instance, possible extension",
@@ -4256,6 +4345,37 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32741",
+  "us": false
+ },
+ {
+  "a": "Postdoctoral Fellow; 2 years plus a possible third",
+  "added": "2026-11-18",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2026-12-10",
+  "dt": "Full consideration for materials received by Dec 10, 2026",
+  "e": "Postdoc in high-energy theory within Harvard's GRASP initiative, starting as early as August 2027. No citizenship limit stated.",
+  "f": "Harvard University, Department of Physics",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "harvard-grasp-postdoctoral-fellow-2027",
+  "n": "Harvard University: Postdoctoral Fellow, GRASP (Gravity, Spacetime, and Particle Physics) Initiative",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33457",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33457",
+  "unv": "Salary not stated. Separate AJO ad from the Harvard high-energy theory postdoc.",
   "us": false
  },
  {
@@ -7708,39 +7828,6 @@
   "us": false
  },
  {
-  "a": "TVöD E14; 4 years (prize fellowship)",
-  "added": "2026-09-30",
-  "asub": [
-   "cos",
-   "xgal",
-   "galac",
-   "star"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-09-30",
-  "d": "2026-11-17",
-  "dt": "Nov 17, 2026",
-  "e": "Galaxy evolution from Milky Way stars to high-z quasars. Requires a PhD in astronomy or a related field.",
-  "f": "Max Planck Institute for Astronomy, Galaxies and Cosmology dept.; search chair Maria Bergemann",
-  "fields": [
-   "astro"
-  ],
-  "id": "mpia-heidelberg-galaxies-cosmology-prize-fellowship-and-",
-  "n": "MPIA Heidelberg: Galaxies & Cosmology prize fellowship and postdocs",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "aas:1d7c9bc2",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://aas.org/jobregister/ad/1d7c9bc2",
-  "unv": "The AAS Job Register blocks automated access (HTTP 403), and no MPIA host ad could be opened on Nov 9, 2026 (MPIA job links found by search returned 404), so the details were not reconfirmed; a search-engine snippet of the AAS ad (ref. 432, six positions) still gives Nov 17, 2026.",
-  "us": false
- },
- {
   "a": "TVöD E14; 3 years",
   "added": "2026-09-30",
   "asub": [
@@ -10297,6 +10384,37 @@
    "u": "https://research.yale.edu/funding-opportunities-newsletter-archive",
    "unv": "Jan 26, 2026 is confirmed from the Jan 21, 2026 newsletter. The next cycle's date is unconfirmed."
   }
+ },
+ {
+  "a": "Salary plus research fund; nominally 3 years",
+  "added": "2026-11-18",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2026-12-15",
+  "dt": "Priority consideration by Dec 15, 2026; considered until filled",
+  "e": "One or more postdocs with Mark Devlin and Mathew Madhavacheril on Simons Observatory data analysis, map-making, simulations and instrumentation, starting fall 2027. No citizenship limit stated.",
+  "f": "University of Pennsylvania, Department of Physics and Astronomy",
+  "fields": [
+   "astro",
+   "inst"
+  ],
+  "id": "penn-postdoc-simons-observatory-2027",
+  "n": "University of Pennsylvania: Postdoctoral Researcher, Simons Observatory",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33456",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33456",
+  "unv": "Salary amount not stated.",
+  "us": false
  },
  {
   "a": "Term position; length set at interview; salary not stated",
@@ -12985,6 +13103,38 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33190",
   "unv": "Salary not stated.",
+  "us": false
+ },
+ {
+  "a": "Estimated $71,491-$79,727 (UC postdoc scale)",
+  "added": "2026-11-18",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2026-12-15",
+  "dt": "Dec 15, 2026 for full consideration; later applications considered if unfilled",
+  "e": "Postdoc in the SCIPP theory group on particle and astroparticle phenomenology, cosmology, quantum aspects of black holes, AdS/CFT and formal QFT; minimum two years, preferred start Sep 1, 2027. PhD required at appointment; no citizenship limit stated.",
+  "f": "University of California, Santa Cruz (Santa Cruz Institute for Particle Physics)",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "ucsc-scipp-postdoc-high-energy-theory-2027",
+  "n": "UC Santa Cruz SCIPP: Postdoctoral Scholar in High-Energy Theoretical Physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3229765",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33448",
+  "unv": "Also listed on AJO as job 33448.",
   "us": false
  },
  {

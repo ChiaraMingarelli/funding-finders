@@ -508,6 +508,39 @@
   "us": false
  },
  {
+  "a": "CAD $70,000/year plus benefits; 2 years plus a possible third",
+  "added": "2026-11-18",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2027-02-01",
+  "dt": "Review after Dec 1, 2026, until filled; AJO deadline Feb 1, 2027",
+  "e": "Postdoc in condensed matter theory with the Alberta CMT faculty, starting fall 2027 or earlier. Requires a PhD in theoretical condensed matter within the last five years; no citizenship limit stated.",
+  "f": "University of Alberta, Department of Physics (Quantum Horizons Alberta)",
+  "fields": [
+   "cmt",
+   "qp"
+  ],
+  "id": "alberta-quantum-horizons-postdoc-condensed-matter-theory",
+  "n": "University of Alberta: Quantum Horizons Alberta Postdoctoral Fellowship in condensed matter theory",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "open",
+  "src": "ajo:33469",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33469",
+  "unv": "Not found on the Alberta HR site.",
+  "us": false
+ },
+ {
   "a": "Short (typically 3-6 month) allocations on Aurora, Polaris and other ALCF systems; size depends on readiness to scale",
   "added": "2026-10-21",
   "aud": [
@@ -2080,6 +2113,38 @@
   "us": false
  },
  {
+  "a": "Postdoctoral Research Associate",
+  "added": "2026-11-18",
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-11-18",
+  "d": "2026-12-15",
+  "dt": "Dec 15, 2026; apply through UA requisition 27527 and AJO",
+  "e": "Two independent fellowships with one application: the Strittmatter Fellowship (any area of astronomy) and a theory/computation fellowship, with PI access to Steward Observatory facilities; start Aug-Dec 2027. No citizenship limit stated.",
+  "f": "University of Arizona, Department of Astronomy / Steward Observatory",
+  "fields": [
+   "astro"
+  ],
+  "id": "arizona-strittmatter-and-theory-prize-fellowships-2027",
+  "n": "University of Arizona Steward Observatory: Strittmatter Fellowship and Prize Fellowship in Theoretical & Computational Astrophysics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33361",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33361",
+  "unv": "Salary not stated.",
+  "us": false
+ },
+ {
   "a": "Varies; STIR ≤$60K; typical core grants ~3 years",
   "added": "2026-09-28",
   "aud": [
@@ -3079,6 +3144,43 @@
   "unv": "The page does not state citizenship requirements; its summary field also says 'Appl Deadline: none' while the schedule gives Dec 18, 2026."
  },
  {
+  "a": "",
+  "added": "2026-11-18",
+  "asub": [
+   "he",
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2027-01-06",
+  "dt": "Jan 6, 2027",
+  "e": "Several two-year (+1) postdocs in the astroparticle theory group under the ERC grant DarkSHunt (PI Silvia Pascoli). Expressions of interest go by email as described in the ad; no citizenship limit stated.",
+  "f": "University of Bologna and INFN Bologna",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "bologna-infn-darkshunt-astroparticle-postdocs",
+  "n": "University of Bologna / INFN: Postdocs in theoretical astroparticle physics (ERC DarkSHunt)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3229578",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3229578",
+  "unv": "The date comes from INSPIRE's deadline field; the ad text gives no date. Salary not stated.",
+  "us": false
+ },
+ {
   "a": "2 years, possible extension to 3; salary not stated",
   "added": "2026-11-07",
   "aud": [
@@ -3606,6 +3708,41 @@
   "u": "https://sfp.caltech.edu/undergraduate-research/programs/wavefellows",
   "unv": "The application page gives the deadline as January 8 without a year; it is the deadline for the 2027 program (June 14 to August 20, 2027). It previously gave January 9.",
   "us": true
+ },
+ {
+  "a": "Grade 7 (RA) or Grade 8 (SRA); fixed term 3 years",
+  "added": "2026-11-18",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2026-12-22",
+  "dt": "Dec 22, 2026 (ref. LE51639); references by Dec 29",
+  "e": "ERC-funded cosmology postdoc in Blake Sherwin's group (CMB lensing, kSZ, large-scale structure), starting Oct 1, 2027. Open to those with or about to receive a PhD; no nationality limit stated.",
+  "f": "University of Cambridge, DAMTP",
+  "fields": [
+   "astro"
+  ],
+  "id": "cambridge-damtp-erc-research-associate-cosmology",
+  "n": "University of Cambridge DAMTP: ERC-funded Research Associate in Cosmology",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33450",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.jobs.cam.ac.uk/job/57715",
+  "unv": "Salary figures not checked on the Cambridge page.",
+  "us": false
  },
  {
   "a": "£38,448–£46,970; 2 years in the first instance, possible extension",
@@ -5310,6 +5447,38 @@
   "unv": "Salary not stated. Ad posted May 2026; the AJO listing still shows it as open until filled, but whether it has been filled could not be confirmed. Applications go by email to Prof. Raschke."
  },
  {
+  "a": "Initial 2 years",
+  "added": "2026-11-18",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2027-02-28",
+  "dt": "Review starts Dec 26, 2026 and continues until filled; AJO deadline Feb 28, 2027",
+  "e": "Several postdocs in QFT/EFT and amplitudes, hadron structure, hot and dense QCD, AI applications and dark matter, starting summer or fall 2027. Requires a PhD within the past five years; no nationality limit stated.",
+  "f": "The Chinese University of Hong Kong, Shenzhen",
+  "fields": [
+   "ppt",
+   "nut"
+  ],
+  "id": "cuhk-shenzhen-postdocs-particle-nuclear-physics",
+  "n": "CUHK-Shenzhen: Postdocs in high-energy particle and nuclear physics",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33438",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33438",
+  "unv": "Salary not stated.",
+  "us": false
+ },
+ {
   "a": "$55,000–$62,652 base",
   "added": "2026-11-01",
   "aud": [
@@ -5445,6 +5614,37 @@
   ],
   "u": "https://www.darpa.mil/work-with-us/communities/academia/young-faculty-award",
   "unv": "Not confirmed whether a full proposal may be submitted without an executive summary submitted by Nov 5, 2026; check the research announcement.",
+  "us": false
+ },
+ {
+  "a": "German public-service scale (amount not stated)",
+  "added": "2026-11-18",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2026-12-15",
+  "dt": "Dec 15, 2026 for full consideration",
+  "e": "Two-year postdoc on the ERC Starting Grant TOPMASS (Aditya Pathak), on precision jet substructure and collider QCD, starting fall 2027. PhD in theoretical physics required by appointment; no citizenship limit stated.",
+  "f": "DESY Theory Group, Hamburg",
+  "fields": [
+   "ppt"
+  ],
+  "id": "desy-erc-topmass-postdoc-collider-theory",
+  "n": "DESY Hamburg: ERC-funded postdoc in precision collider physics theory (TOPMASS)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3229738",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3229738",
+  "unv": "Exact salary not stated.",
   "us": false
  },
  {
@@ -7897,6 +8097,42 @@
   "us": false
  },
  {
+  "a": "Postdoctoral Fellow; 2 years plus a possible third",
+  "added": "2026-11-18",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2026-12-10",
+  "dt": "Full consideration for materials received by Dec 10, 2026",
+  "e": "Postdoc in high-energy theory within Harvard's GRASP initiative, starting as early as August 2027. No citizenship limit stated.",
+  "f": "Harvard University, Department of Physics",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "harvard-grasp-postdoctoral-fellow-2027",
+  "n": "Harvard University: Postdoctoral Fellow, GRASP (Gravity, Spacetime, and Particle Physics) Initiative",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33457",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33457",
+  "unv": "Salary not stated. Separate AJO ad from the Harvard high-energy theory postdoc.",
+  "us": false
+ },
+ {
   "a": "$67,600–80,000/yr; one year, renewable to three; start Sep 1, 2027",
   "added": "2026-10-29",
   "aud": [
@@ -8277,6 +8513,38 @@
   ],
   "u": "https://socfell.fas.harvard.edu/nomination-procedure",
   "unv": "Official page blocks automated access (HTTP 403), still on Nov 16, 2026; dates from a search summary of the official site.",
+  "us": false
+ },
+ {
+  "a": "$70,000-$75,000",
+  "added": "2026-11-18",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2026-12-31",
+  "dt": "Dec 31, 2026; applications reviewed as received until filled",
+  "e": "Two-year postdoc in Veronica Bindi's group on a NASA-funded project developing neutron and gamma-ray detection instruments for planetary exploration. PhD in physics, nuclear or astroparticle physics, or nuclear engineering required.",
+  "f": "University of Hawaii at Manoa, Department of Physics & Astronomy",
+  "fields": [
+   "inst",
+   "nux"
+  ],
+  "id": "hawaii-postdoc-space-radiation-instrumentation",
+  "n": "University of Hawaii: Postdoc in Space Radiation Instrumentation",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3229806",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3229806",
+  "unv": "Citizenship or export-control limits not stated; the date comes from INSPIRE's deadline field.",
   "us": false
  },
  {
@@ -12627,6 +12895,41 @@
   "us": false
  },
  {
+  "a": "",
+  "added": "2026-11-18",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": null,
+  "dt": "No deadline given; AJO listing ends Jan 11, 2027",
+  "e": "Postdocs fabricating and measuring quantum-coherent devices (superconducting resonators, kinetic-inductance detectors) from f-electron intermetallic thin films at dilution-refrigerator temperatures. Requires a PhD within the past five years (IRC146510).",
+  "f": "Los Alamos National Laboratory",
+  "fields": [
+   "cmx",
+   "dev",
+   "mat",
+   "qp"
+  ],
+  "id": "lanl-postdoc-novel-quantum-devices-sces",
+  "n": "Los Alamos National Laboratory: Postdoc in fabrication and measurement of novel quantum devices",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "ajo:33411",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://lanl.jobs/search/jobdetails/postdoctoral-research-associate-on-fabrication-and-measurement-of-novel-quantum-devices-and-phenomena/761be4ad-329a-43cc-a0d3-d189216486e1",
+  "unv": "Salary and any citizenship or clearance requirement not checked.",
+  "us": false
+ },
+ {
   "a": "$10,000-$20,000 by academic rank; 10 weeks",
   "added": "2026-10-03",
   "aud": [
@@ -14823,44 +15126,6 @@
   ],
   "u": "https://aas.org/jobregister/ad/87a62a5a",
   "unv": "The AAS Job Register blocked automated access (HTTP 403, again on Nov 16, 2026) and the MPIA host ad links found by search return HTTP 404, so it is unknown whether applications are still accepted after the Nov 15, 2026 deadline.",
-  "us": false
- },
- {
-  "a": "TVöD E14; 4 years (prize fellowship)",
-  "added": "2026-09-30",
-  "asub": [
-   "cos",
-   "xgal",
-   "galac",
-   "star"
-  ],
-  "aud": [
-   "yale",
-   "ng",
-   "ast"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-09-30",
-  "d": "2026-11-17",
-  "dt": "Nov 17, 2026",
-  "e": "Galaxy evolution from Milky Way stars to high-z quasars. Requires a PhD in astronomy or a related field.",
-  "f": "Max Planck Institute for Astronomy, Galaxies and Cosmology dept.; search chair Maria Bergemann",
-  "fields": [
-   "astro"
-  ],
-  "id": "mpia-heidelberg-galaxies-cosmology-prize-fellowship-and-",
-  "n": "MPIA Heidelberg: Galaxies & Cosmology prize fellowship and postdocs",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "aas:1d7c9bc2",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://aas.org/jobregister/ad/1d7c9bc2",
-  "unv": "The AAS Job Register blocks automated access (HTTP 403), and no MPIA host ad could be opened on Nov 9, 2026 (MPIA job links found by search returned 404), so the details were not reconfirmed; a search-engine snippet of the AAS ad (ref. 432, six positions) still gives Nov 17, 2026.",
   "us": false
  },
  {
@@ -19483,6 +19748,39 @@
   "us": false
  },
  {
+  "a": "1-year term, renewable",
+  "added": "2026-11-18",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2026-12-01",
+  "dt": "Review begins Dec 1, 2026 and continues until filled",
+  "e": "Postdoc on a quantum many-body theory project in Masaki Oshikawa's group (field theory, mathematical and numerical methods, quantum information and condensed matter). No citizenship limit stated.",
+  "f": "Ohio State University, Department of Physics",
+  "fields": [
+   "cmt",
+   "qp"
+  ],
+  "id": "ohio-state-postdoc-quantum-many-body-theory",
+  "n": "Ohio State University: Postdoctoral Scholar in quantum many-body theory (Oshikawa group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33467",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33467",
+  "unv": "Salary not stated.",
+  "us": false
+ },
+ {
   "a": "Minimum $62,232 plus $5,000/yr research funds",
   "added": "2026-10-17",
   "aud": [
@@ -20545,6 +20843,42 @@
   ],
   "u": "https://inspirehep.net/jobs/3160199",
   "unv": "INSPIRE now marks the listing closed (automatic at its Sep 30, 2026 deadline field); the ad text still says applications are accepted until the position is filled.",
+  "us": false
+ },
+ {
+  "a": "Salary plus research fund; nominally 3 years",
+  "added": "2026-11-18",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2026-12-15",
+  "dt": "Priority consideration by Dec 15, 2026; considered until filled",
+  "e": "One or more postdocs with Mark Devlin and Mathew Madhavacheril on Simons Observatory data analysis, map-making, simulations and instrumentation, starting fall 2027. No citizenship limit stated.",
+  "f": "University of Pennsylvania, Department of Physics and Astronomy",
+  "fields": [
+   "astro",
+   "inst"
+  ],
+  "id": "penn-postdoc-simons-observatory-2027",
+  "n": "University of Pennsylvania: Postdoctoral Researcher, Simons Observatory",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33456",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33456",
+  "unv": "Salary amount not stated.",
   "us": false
  },
  {
@@ -22946,6 +23280,39 @@
   "us": false
  },
  {
+  "a": "",
+  "added": "2026-11-18",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2027-01-06",
+  "dt": "Jan 6, 2027",
+  "e": "Three 2-year postdocs (two ERC-funded and renewable) in integrable models, many-body entanglement and non-equilibrium statistical physics, starting autumn 2027. No nationality limit stated.",
+  "f": "SISSA Trieste, Physics Area",
+  "fields": [
+   "cmt",
+   "qp"
+  ],
+  "id": "sissa-postdocs-statistical-physics-calabrese",
+  "n": "SISSA: Postdoctoral positions in statistical physics (Calabrese group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33440",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33440",
+  "unv": "Salary not stated.",
+  "us": false
+ },
+ {
   "a": "2 years with possible third, or 3 years; from fall 2027; salary not stated",
   "added": "2026-10-30",
   "aud": [
@@ -23633,6 +24000,38 @@
   "u": "https://www.stonybrook.edu/commcms/physics-reu/_includes/apply.php",
   "unv": "The apply page still says it is not currently accepting applications, while giving the Summer 2027 dates; it no longer states a stipend, so the $6,500 figure may be from an earlier year.",
   "us": true
+ },
+ {
+  "a": "",
+  "added": "2026-11-18",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2027-01-11",
+  "dt": "Jan 11, 2027 initial deadline; late applications considered until filled",
+  "e": "Two experimental postdocs on DUNE and T2K (hardware, software and analysis). PhD in experimental particle physics or a related field required; no citizenship limit stated.",
+  "f": "Stony Brook University, Physics and Astronomy",
+  "fields": [
+   "ppx",
+   "nux"
+  ],
+  "id": "stony-brook-postdocs-neutrino-nucleon-decay-dune-t2k",
+  "n": "Stony Brook University: Two Postdoctoral Research Associates, Neutrino and Nucleon Decay Group (DUNE/T2K)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3229305",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3229305",
+  "unv": "Salary not stated; the university job-portal links (postings 2604226 and 2603457) were not found.",
+  "us": false
  },
  {
   "a": "$81,000/yr, plus $5,000/yr research fund and $2,000 moving allowance",
@@ -24347,6 +24746,37 @@
   ],
   "u": "https://inspirehep.net/jobs/3227787",
   "unv": "Salary and appointment length not stated in the INSPIRE listing; no host ad linked.",
+  "us": false
+ },
+ {
+  "a": "",
+  "added": "2026-11-18",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2027-01-08",
+  "dt": "Jan 8, 2027",
+  "e": "One or more 2+1-year postdocs in theoretical particle physics (BSM, LHC, amplitudes, flavor, dark matter, quantum sensing, low-energy probes) starting September 2027, with Itay Bloch, Yael Shadmi and Yotam Soreq. Apply via AJO; no citizenship limit stated.",
+  "f": "Technion - Israel Institute of Technology, Physics",
+  "fields": [
+   "ppt"
+  ],
+  "id": "technion-postdoc-theoretical-particle-physics-2027",
+  "n": "Technion: Postdoctoral Research Associate in theoretical particle physics",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33439",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33439",
+  "unv": "Salary amount not stated.",
   "us": false
  },
  {
@@ -26738,6 +27168,43 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33190",
   "unv": "Salary not stated.",
+  "us": false
+ },
+ {
+  "a": "Estimated $71,491-$79,727 (UC postdoc scale)",
+  "added": "2026-11-18",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2026-12-15",
+  "dt": "Dec 15, 2026 for full consideration; later applications considered if unfilled",
+  "e": "Postdoc in the SCIPP theory group on particle and astroparticle phenomenology, cosmology, quantum aspects of black holes, AdS/CFT and formal QFT; minimum two years, preferred start Sep 1, 2027. PhD required at appointment; no citizenship limit stated.",
+  "f": "University of California, Santa Cruz (Santa Cruz Institute for Particle Physics)",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "ucsc-scipp-postdoc-high-energy-theory-2027",
+  "n": "UC Santa Cruz SCIPP: Postdoctoral Scholar in High-Energy Theoretical Physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3229765",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33448",
+  "unv": "Also listed on AJO as job 33448.",
   "us": false
  },
  {
@@ -29759,6 +30226,38 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32711",
+  "us": false
+ },
+ {
+  "a": "",
+  "added": "2026-11-18",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2026-12-18",
+  "dt": "Dec 18, 2026 for full consideration",
+  "e": "Nine-month postdoc (start between Feb 1, 2027 and Jan 1, 2028) in Piotr Kucharski's project on knots, 3-manifolds, quivers, string theory and deep learning. PhD in mathematics, physics, computer science or a related field required.",
+  "f": "University of Warsaw, Institute of Mathematics",
+  "fields": [
+   "ppt",
+   "ds"
+  ],
+  "id": "warsaw-short-postdoc-quantum-topology-deep-learning",
+  "n": "University of Warsaw: Short postdoc in quantum topology and deep learning",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3229761",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3229761",
+  "unv": "Salary not stated.",
   "us": false
  },
  {

@@ -400,6 +400,34 @@
   "us": false
  },
  {
+  "a": "CAD $70,000/year plus benefits; 2 years plus a possible third",
+  "added": "2026-11-18",
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2027-02-01",
+  "dt": "Review after Dec 1, 2026, until filled; AJO deadline Feb 1, 2027",
+  "e": "Postdoc in condensed matter theory with the Alberta CMT faculty, starting fall 2027 or earlier. Requires a PhD in theoretical condensed matter within the last five years; no citizenship limit stated.",
+  "f": "University of Alberta, Department of Physics (Quantum Horizons Alberta)",
+  "fields": [
+   "cmt",
+   "qp"
+  ],
+  "id": "alberta-quantum-horizons-postdoc-condensed-matter-theory",
+  "n": "University of Alberta: Quantum Horizons Alberta Postdoctoral Fellowship in condensed matter theory",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "open",
+  "src": "ajo:33469",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33469",
+  "unv": "Not found on the Alberta HR site.",
+  "us": false
+ },
+ {
   "a": "Short (typically 3-6 month) allocations on Aurora, Polaris and other ALCF systems; size depends on readiness to scale",
   "added": "2026-10-21",
   "c": "Compute",
@@ -6343,6 +6371,36 @@
   "us": false
  },
  {
+  "a": "",
+  "added": "2026-11-18",
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": null,
+  "dt": "No deadline given; AJO listing ends Jan 11, 2027",
+  "e": "Postdocs fabricating and measuring quantum-coherent devices (superconducting resonators, kinetic-inductance detectors) from f-electron intermetallic thin films at dilution-refrigerator temperatures. Requires a PhD within the past five years (IRC146510).",
+  "f": "Los Alamos National Laboratory",
+  "fields": [
+   "cmx",
+   "dev",
+   "mat",
+   "qp"
+  ],
+  "id": "lanl-postdoc-novel-quantum-devices-sces",
+  "n": "Los Alamos National Laboratory: Postdoc in fabrication and measurement of novel quantum devices",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "ajo:33411",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://lanl.jobs/search/jobdetails/postdoctoral-research-associate-on-fabrication-and-measurement-of-novel-quantum-devices-and-phenomena/761be4ad-329a-43cc-a0d3-d189216486e1",
+  "unv": "Salary and any citizenship or clearance requirement not checked.",
+  "us": false
+ },
+ {
   "a": "$10,000-$20,000 by academic rank; 10 weeks",
   "added": "2026-10-03",
   "c": "Summer program",
@@ -8365,8 +8423,8 @@
   "added": "2026-11-02",
   "c": "Federal grant",
   "checked": "2026-11-16",
-  "d": "2026-11-17",
-  "dt": "Standard due dates Nov 17, 2026; Jan 26, May 26 and Sep 27, 2027; continuing through Sep 2029 (NOFO expires Sep 27, 2029)",
+  "d": "2027-01-26",
+  "dt": "Standard due dates Jan 26, May 26 and Sep 27, 2027; continuing through Sep 2029 (NOFO expires Sep 27, 2029)",
   "e": "Supports integrated teams of three to six PDs/PIs working on a single ambitious research goal in biomedical science that individual efforts could not reach. US institutions apply; foreign subawards are not allowed.",
   "f": "NIH (NIGMS lead, with NEI, NHGRI, NIA, NIAID, NINDS and other institutes)",
   "fields": [
@@ -10569,7 +10627,7 @@
   "added": "2026-10-03",
   "c": "Federal grant",
   "checked": "2026-11-16",
-  "d": "2026-11-17",
+  "d": "2027-05-18",
   "dt": "TTP-T and TTP-P: third Tuesday of Nov and May; TTP-E accepted anytime",
   "e": "Supports use-inspired and translational research that moves university results toward practice with partners (successor to PFI-style awards). US colleges and universities and US non-profit research organizations may submit; TTP-E requires an active eligible NSF research award and program officer approval. No citizenship restriction.",
   "f": "NSF TIP",
@@ -10871,6 +10929,34 @@
   ],
   "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Quantum-Optics-and-Bioimaging-TN-37830/1434745800/",
   "unv": "ORNL jobs site unreachable on Oct 21, Oct 26, Nov 2, Nov 9 and Nov 16, 2026 (TLS error / HTTP 503 / connection failure), so the posting was not rechecked.",
+  "us": false
+ },
+ {
+  "a": "1-year term, renewable",
+  "added": "2026-11-18",
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2026-12-01",
+  "dt": "Review begins Dec 1, 2026 and continues until filled",
+  "e": "Postdoc on a quantum many-body theory project in Masaki Oshikawa's group (field theory, mathematical and numerical methods, quantum information and condensed matter). No citizenship limit stated.",
+  "f": "Ohio State University, Department of Physics",
+  "fields": [
+   "cmt",
+   "qp"
+  ],
+  "id": "ohio-state-postdoc-quantum-many-body-theory",
+  "n": "Ohio State University: Postdoctoral Scholar in quantum many-body theory (Oshikawa group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33467",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33467",
+  "unv": "Salary not stated.",
   "us": false
  },
  {
@@ -13354,6 +13440,34 @@
    "ten"
   ],
   "u": "https://www.simonsfoundation.org/funding/targeted-grants-in-mps/",
+  "us": false
+ },
+ {
+  "a": "",
+  "added": "2026-11-18",
+  "c": "Group postdoc",
+  "checked": "2026-11-18",
+  "d": "2027-01-06",
+  "dt": "Jan 6, 2027",
+  "e": "Three 2-year postdocs (two ERC-funded and renewable) in integrable models, many-body entanglement and non-equilibrium statistical physics, starting autumn 2027. No nationality limit stated.",
+  "f": "SISSA Trieste, Physics Area",
+  "fields": [
+   "cmt",
+   "qp"
+  ],
+  "id": "sissa-postdocs-statistical-physics-calabrese",
+  "n": "SISSA: Postdoctoral positions in statistical physics (Calabrese group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33440",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33440",
+  "unv": "Salary not stated.",
   "us": false
  },
  {
