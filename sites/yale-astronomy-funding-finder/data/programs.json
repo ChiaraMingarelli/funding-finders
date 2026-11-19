@@ -6148,36 +6148,6 @@
   "us": false
  },
  {
-  "a": "$74,000-$82,000",
-  "added": "2026-10-22",
-  "asub": [
-   "xgal",
-   "ism"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-16",
-  "d": "2026-11-18",
-  "dt": "Deadline 2026-11-18 (AJO)",
-  "e": "Two-year postdoc using the ALMA KILOGAS survey plus MaNGA/SAMI IFS data to study star-formation histories and gas in nearby galaxies, with Rowlands (STScI) and French (UIUC); start June-October 2027. Requires PhD in astronomy/physics and IFS analysis experience.",
-  "f": "Johns Hopkins University, Physics and Astronomy (with STScI and UIUC)",
-  "fields": [
-   "astro"
-  ],
-  "id": "jhu-kilogas-star-formation-postdoc",
-  "n": "Johns Hopkins: Postdoc in star formation and gas evolution in nearby galaxies (KILOGAS)",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "US",
-  "s": "open",
-  "src": "ajo:33184",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/33184",
-  "us": false
- },
- {
   "a": "$63,480–$75,000 salary; 1-year appointment renewable up to 3 years",
   "added": "2026-10-14",
   "c": "Fellowship",

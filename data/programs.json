@@ -459,45 +459,6 @@
   "us": false
  },
  {
-  "a": "Up to $150,000 per year for 3 years per US PI; about 8 awards ($1.2M per year total for US projects)",
-  "added": "2026-11-02",
-  "aud": [
-   "yale",
-   "ap"
-  ],
-  "c": "Federal grant",
-  "checked": "2026-11-16",
-  "d": "2026-11-18",
-  "dt": "Joint 3-page pre-proposal (white paper) due Nov 18, 2026 by email to AFOSR and via the NSTC system; invited full proposals due Feb 19, 2027",
-  "e": "Joint US-Taiwan basic research on AI-driven materials discovery, materials and nanostructures for energy-efficient electronic, photonic and quantum information technologies, and quantum geometry in solids. Each pre-proposal pairs a US PI and a Taiwan PI; the US PI must be a US citizen, national or permanent resident in a permanent or tenure-track position at a US university.",
-  "f": "Air Force Office of Scientific Research (AFOSR/AOARD) and Taiwan NSTC",
-  "fields": [
-   "cmx",
-   "cmt",
-   "mat",
-   "dev",
-   "phot",
-   "qp"
-  ],
-  "id": "afosr-taiwan-nstc-materials-nanostructures-2027",
-  "n": "AFOSR-Taiwan NSTC Frontiers in Materials and Nanostructures (2027-2030)",
-  "nofo": [
-   {
-    "opp": "FA955027S0002",
-    "u": "https://simpler.grants.gov/opportunity/d08645c9-6162-453f-84dc-92d4614dc711"
-   }
-  ],
-  "nom": false,
-  "s": "open",
-  "src": "grants:FA955027S0002",
-  "stages": [
-   "tt",
-   "ten"
-  ],
-  "u": "https://simpler.grants.gov/opportunity/d08645c9-6162-453f-84dc-92d4614dc711",
-  "us": true
- },
- {
   "a": "Up to $150K/yr for 3 years ($450K); ~37 awards plus 3 LPS-funded QIS YIPs",
   "added": "2026-09-28",
   "aud": [
@@ -5319,9 +5280,9 @@
    "ap"
   ],
   "c": "Instrumentation",
-  "checked": "2026-11-16",
-  "d": "2026-11-18",
-  "dt": "Proposals due Nov 18, 2026; beam time requests due Dec 2, 2026; run Jan 27 – Mar 30, 2027",
+  "checked": "2026-11-19",
+  "d": "2026-12-02",
+  "dt": "Proposals were due Nov 18, 2026; beam time requests for active proposals due Dec 2, 2026; run Jan 27 – Mar 30, 2027",
   "e": "Peer-reviewed x-ray beamtime at the Cornell synchrotron for materials, structural biology and other research, submitted through BeamPASS; a proposal stays active for two years. Open to outside research groups, with in-person, remote or mail-in access.",
   "f": "Cornell High Energy Synchrotron Source (NSF, AFRL and NIH partner program)",
   "fields": [
@@ -11180,9 +11141,9 @@
    "ng"
   ],
   "c": "Faculty job",
-  "checked": "2026-11-16",
-  "d": "2026-11-18",
-  "dt": "Review begins Nov 18, 2026 and continues until the position is filled; apply via Interfolio",
+  "checked": "2026-11-19",
+  "d": null,
+  "dt": "Review began Nov 18, 2026 and continues until the position is filled; apply via Interfolio",
   "e": "Tenure-track assistant professor in theoretical AMO physics tied to OU's Center for Quantum Research and Technology. PhD plus postdoctoral experience required; no citizenship limit stated.",
   "f": "University of Oklahoma",
   "fields": [
@@ -11193,7 +11154,7 @@
   "nfit": "Low",
   "nom": false,
   "region": "US",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:32714",
   "stages": [
    "fj"
@@ -12266,9 +12227,9 @@
    "ng"
   ],
   "c": "Faculty job",
-  "checked": "2026-11-16",
-  "d": "2026-11-18",
-  "dt": "Full consideration by Nov 18, 2026; accepted until Jun 30, 2027; opened Sep 16, 2026",
+  "checked": "2026-11-19",
+  "d": "2027-06-30",
+  "dt": "Full consideration by Nov 18, 2026; applications accepted until Jun 30, 2027; opened Sep 16, 2026",
   "e": "Tenure-track Assistant Professor in quantum science with an emphasis on atomic, molecular and optical physics, part of UCSB's Quantum Hiring Initiative; start July 1, 2027 or later. Applicants must have completed all PhD requirements except the dissertation; no citizenship restriction stated.",
   "f": "University of California, Santa Barbara",
   "fields": [
@@ -19224,41 +19185,6 @@
   ],
   "u": "https://www.jccfund.org/eligibilty-criteria/",
   "unv": "Stipend amount not stated on the pages checked",
-  "us": false
- },
- {
-  "a": "$74,000-$82,000",
-  "added": "2026-10-22",
-  "asub": [
-   "xgal",
-   "ism"
-  ],
-  "aud": [
-   "yale",
-   "ng",
-   "ast"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-16",
-  "d": "2026-11-18",
-  "dt": "Deadline 2026-11-18 (AJO)",
-  "e": "Two-year postdoc using the ALMA KILOGAS survey plus MaNGA/SAMI IFS data to study star-formation histories and gas in nearby galaxies, with Rowlands (STScI) and French (UIUC); start June-October 2027. Requires PhD in astronomy/physics and IFS analysis experience.",
-  "f": "Johns Hopkins University, Physics and Astronomy (with STScI and UIUC)",
-  "fields": [
-   "astro"
-  ],
-  "id": "jhu-kilogas-star-formation-postdoc",
-  "n": "Johns Hopkins: Postdoc in star formation and gas evolution in nearby galaxies (KILOGAS)",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "US",
-  "s": "open",
-  "src": "ajo:33184",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/33184",
   "us": false
  },
  {

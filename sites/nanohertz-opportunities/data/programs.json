@@ -4774,9 +4774,8 @@
   "n": "University of Oklahoma: Assistant Professor, Theoretical AMO Physics",
   "f": "University of Oklahoma",
   "c": "Faculty job",
-  "s": "open",
-  "d": "2026-11-18",
-  "dt": "Review begins Nov 18, 2026 and continues until the position is filled; apply via Interfolio",
+  "s": "rolling",
+  "dt": "Review began Nov 18, 2026 and continues until the position is filled; apply via Interfolio",
   "a": "Assistant Professor; start Aug 2027; salary not listed",
   "e": "Tenure-track assistant professor in theoretical AMO physics tied to OU's Center for Quantum Research and Technology. PhD plus postdoctoral experience required; no citizenship limit stated.",
   "u": "https://academicjobsonline.org/ajo/jobs/32714",
@@ -4784,11 +4783,12 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-11-16",
+  "checked": "2026-11-19",
   "added": "2026-10-02",
   "stages": [
    "fj"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "fj-oklahoma-asst-assoc-prof-exp-hep",
@@ -5570,8 +5570,8 @@
   "f": "University of California, Santa Barbara",
   "c": "Faculty job",
   "s": "open",
-  "d": "2026-11-18",
-  "dt": "Full consideration by Nov 18, 2026; accepted until Jun 30, 2027; opened Sep 16, 2026",
+  "d": "2027-06-30",
+  "dt": "Full consideration by Nov 18, 2026; applications accepted until Jun 30, 2027; opened Sep 16, 2026",
   "a": "$100,000–$160,000",
   "e": "Tenure-track Assistant Professor in quantum science with an emphasis on atomic, molecular and optical physics, part of UCSB's Quantum Hiring Initiative; start July 1, 2027 or later. Applicants must have completed all PhD requirements except the dissertation; no citizenship restriction stated.",
   "u": "https://recruit.ap.ucsb.edu/JPF03135",
@@ -5579,7 +5579,7 @@
   "nom": false,
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-11-16",
+  "checked": "2026-11-19",
   "added": "2026-10-09",
   "stages": [
    "fj"
@@ -8858,28 +8858,6 @@
   "nfit": "Low",
   "checked": "2026-11-17",
   "added": "2026-11-17",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "jhu-kilogas-star-formation-postdoc",
-  "n": "Johns Hopkins: Postdoc in star formation and gas evolution in nearby galaxies (KILOGAS)",
-  "f": "Johns Hopkins University, Physics and Astronomy (with STScI and UIUC)",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-11-18",
-  "dt": "Deadline 2026-11-18 (AJO)",
-  "a": "$74,000-$82,000",
-  "e": "Two-year postdoc using the ALMA KILOGAS survey plus MaNGA/SAMI IFS data to study star-formation histories and gas in nearby galaxies, with Rowlands (STScI) and French (UIUC); start June-October 2027. Requires PhD in astronomy/physics and IFS analysis experience.",
-  "u": "https://academicjobsonline.org/ajo/jobs/33184",
-  "us": false,
-  "nom": false,
-  "pt": "group",
-  "region": "US",
-  "nfit": "Medium",
-  "checked": "2026-11-16",
-  "added": "2026-10-22",
   "stages": [
    "pd"
   ]
