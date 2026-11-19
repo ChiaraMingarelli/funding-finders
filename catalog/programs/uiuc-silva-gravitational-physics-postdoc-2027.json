@@ -1,0 +1,37 @@
+{
+ "a": "not stated; benefits-eligible; 2-year term, possible third year",
+ "added": "2026-11-19",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-19",
+ "d": "2026-12-18",
+ "dt": "Applications and all reference letters due Dec 18, 2026 for full consideration (portal shows 12/19/2026 12:00a)",
+ "e": "Postdoc in Prof. Silva's group on black-hole and stellar perturbation theory, neutron-star pulse-profile modeling, tests of GR and GW-source modeling; PhD in physics, astronomy or related field required before the Aug 15, 2027 start. No citizenship limit stated.",
+ "f": "University of Illinois Urbana-Champaign, Department of Physics, Illinois Relativity Group (Hector O. Silva)",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "uiuc-silva-gravitational-physics-postdoc-2027",
+ "n": "University of Illinois Urbana-Champaign: Postdoc in Theoretical Gravitational Physics (Silva group)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "other:uiuc-silva-grav-postdoc-2027",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://my.physics.illinois.edu/join",
+ "unv": "Salary not stated; ad notes the university must comply with federal export-control laws.",
+ "us": false
+}

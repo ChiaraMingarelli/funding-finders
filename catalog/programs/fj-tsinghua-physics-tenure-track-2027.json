@@ -1,0 +1,33 @@
+{
+ "a": "Tenure-track assistant or associate professor; salary not stated",
+ "added": "2026-11-19",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-19",
+ "d": "2027-01-15",
+ "dt": "Priority to submissions before 2027-01-15; listed deadline 2027-10-31",
+ "e": "Tenure-track assistant/associate professor posts in physics; priority areas are quantum-materials characterization, hybrid quantum systems and precision measurement, and hadron structure, with other CM, AMO, particle and nuclear areas considered. Applicants need a PhD and generally two years of postdoc experience; apply by email to hr.phys@mail.tsinghua.edu.cn. No citizenship limit stated.",
+ "f": "Tsinghua University, Department of Physics",
+ "fields": [
+  "cmx",
+  "amo",
+  "qp",
+  "nux",
+  "ppx"
+ ],
+ "id": "fj-tsinghua-physics-tenure-track-2027",
+ "n": "Tsinghua University: Tenure-Track Faculty Positions, Department of Physics",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33485",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33485",
+ "unv": "Salary not stated; applications by email, not through AJO.",
+ "us": false
+}

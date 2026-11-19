@@ -1,0 +1,36 @@
+{
+ "a": "not stated",
+ "added": "2026-11-19",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-19",
+ "d": "2027-02-20",
+ "dt": "Deadline 2027-02-20",
+ "e": "Postdocs in hep-ph and hep-th (dark matter, BSM model building, scattering amplitudes, generalized symmetries, general relativity, AI for physics); some gr-qc applicants encouraged. No citizenship limit stated.",
+ "f": "Hebrew University of Jerusalem, Racah Institute of Physics, Particle Theory group (Hochberg, Kuflik, Telem)",
+ "fields": [
+  "ppt",
+  "grav"
+ ],
+ "id": "huji-particle-theory-postdoc-2027",
+ "n": "Hebrew University of Jerusalem: Postdoctoral researchers in particle theory (hep-ph/hep-th)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33471",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33471",
+ "unv": "Salary and appointment length not stated.",
+ "us": false
+}

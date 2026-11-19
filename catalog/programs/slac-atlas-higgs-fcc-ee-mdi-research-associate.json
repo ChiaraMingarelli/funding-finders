@@ -1,0 +1,32 @@
+{
+ "a": "not stated",
+ "added": "2026-11-19",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-19",
+ "d": "2027-01-05",
+ "dt": "Deadline 2027-01-05",
+ "e": "Experimental research associate working on ATLAS Higgs analyses and FCC-ee machine-detector interface simulations, on site at SLAC; two-year initial term. Recent PhD in experimental particle physics required; no citizenship limit stated, but foreign nationals need a DOE site-specific background determination.",
+ "f": "Stanford University / SLAC National Accelerator Laboratory, Fundamental Physics Directorate (Caterina Vernieri)",
+ "fields": [
+  "ppx",
+  "inst"
+ ],
+ "id": "slac-atlas-higgs-fcc-ee-mdi-research-associate",
+ "n": "SLAC: Research Associate in ATLAS Higgs Physics and FCC-ee Machine-Detector Interface",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33481",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33481",
+ "unv": "Salary not stated.",
+ "us": false
+}

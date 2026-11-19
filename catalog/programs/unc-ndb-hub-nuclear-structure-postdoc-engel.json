@@ -1,0 +1,31 @@
+{
+ "a": "not stated (hiring range dependent on qualifications); two-year appointment",
+ "added": "2026-11-19",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-19",
+ "d": "2026-12-15",
+ "dt": "Full consideration by Dec 15, 2026; UNC posting closes Feb 1, 2027",
+ "e": "Postdoc in the NSF @NDB theory hub supervised by Jonathan Engel, computing nuclear matrix elements for neutrinoless double-beta decay with controlled uncertainties, starting September 2027; requires a PhD in physics or related area with nuclear-structure theory experience. No citizenship limit stated.",
+ "f": "University of North Carolina at Chapel Hill (NSF @NDB Focused Research Hub)",
+ "fields": [
+  "nut"
+ ],
+ "id": "unc-ndb-hub-nuclear-structure-postdoc-engel",
+ "n": "UNC Chapel Hill: @NDB Hub Postdoctoral Research Fellow in Nuclear Structure Theory (Engel)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3229775",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://unc.peopleadmin.com/postings/326319",
+ "unv": "INSPIRE text says 'by Dec 15, 2023' (apparent typo); INSPIRE deadline field gives 2026-12-15 and the UNC posting lists application deadline 02/01/2027. Distinct from the existing Nicholson-supervised @NDB row (inspire:3211335).",
+ "us": false
+}

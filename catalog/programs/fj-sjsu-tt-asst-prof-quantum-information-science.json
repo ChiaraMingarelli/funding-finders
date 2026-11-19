@@ -1,0 +1,29 @@
+{
+ "a": "Assistant Professor; anticipated academic-year salary $105,000-$108,000",
+ "added": "2026-11-19",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-19",
+ "d": "2026-11-22",
+ "dt": "Application deadline Nov 22, 2026; applications accepted until filled or closed",
+ "e": "Tenure-track assistant professorship in quantum information science starting August 2027, teaching undergraduate and MS courses and building a student-involved, externally funded research program; requires a doctorate in physics or a related field with QIS research experience. Employment is contingent on US residence and proof of eligibility to work in the US; no citizenship limit stated.",
+ "f": "San José State University, Department of Physics and Astronomy",
+ "fields": [
+  "qp"
+ ],
+ "id": "fj-sjsu-tt-asst-prof-quantum-information-science",
+ "n": "San José State University: Tenure-Track Assistant Professor of Physics and Astronomy (Quantum Information Science)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3230570",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://jobs.sjsu.edu/sj/en-us/job/561830",
+ "unv": "SJSU job site returned an empty response to automated fetch; details taken from the INSPIRE copy of the ad (host ad advertised Sep 8, 2026; listed 'Applications close: Open Until Filled').",
+ "us": false
+}
