@@ -4669,6 +4669,37 @@
   "us": false
  },
  {
+  "a": "not stated",
+  "added": "2026-11-19",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-19",
+  "d": "2027-02-20",
+  "dt": "Deadline 2027-02-20",
+  "e": "Postdocs in hep-ph and hep-th (dark matter, BSM model building, scattering amplitudes, generalized symmetries, general relativity, AI for physics); some gr-qc applicants encouraged. No citizenship limit stated.",
+  "f": "Hebrew University of Jerusalem, Racah Institute of Physics, Particle Theory group (Hochberg, Kuflik, Telem)",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "huji-particle-theory-postdoc-2027",
+  "n": "Hebrew University of Jerusalem: Postdoctoral researchers in particle theory (hep-ph/hep-th)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33471",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33471",
+  "unv": "Salary and appointment length not stated.",
+  "us": false
+ },
+ {
   "a": "€80,000 award; research stays of up to 12 months in Germany possible",
   "added": "2026-09-28",
   "c": "Prize",
@@ -6717,6 +6748,39 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32896",
+  "us": false
+ },
+ {
+  "a": "$6,845-7,145 per month (expected start at or above $6,643/month)",
+  "added": "2026-11-19",
+  "asub": [
+   "cos",
+   "xgal",
+   "inst"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-19",
+  "d": "2026-12-14",
+  "dt": "Full consideration by end of 2026-12-14",
+  "e": "Multiple postdocs on DESI data operations (spectroscopic pipeline, QA, imaging for Run 2) and/or characterization and commissioning of new CCD detectors for the DESI Run 2 upgrade, with time reserved for own DESI science; two-year appointment. Applicants need a recent PhD and under 3 years of paid postdoc experience; no citizenship limit stated.",
+  "f": "Lawrence Berkeley National Laboratory, Physics Division",
+  "fields": [
+   "astro",
+   "ppx",
+   "inst"
+  ],
+  "id": "lbnl-desi-operations-postdoc",
+  "n": "Berkeley Lab Physics: DESI Operations Postdoctoral Scholars",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33479",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33479",
   "us": false
  },
  {
@@ -13197,6 +13261,37 @@
   ],
   "u": "https://ireu.phys.ufl.edu/",
   "unv": "The application page gives the full-consideration date as January 12th without a year, so no deadline date is set; the ETAP portal link was not yet posted on Nov 16, 2026.",
+  "us": false
+ },
+ {
+  "a": "not stated; benefits-eligible; 2-year term, possible third year",
+  "added": "2026-11-19",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-19",
+  "d": "2026-12-18",
+  "dt": "Applications and all reference letters due Dec 18, 2026 for full consideration (portal shows 12/19/2026 12:00a)",
+  "e": "Postdoc in Prof. Silva's group on black-hole and stellar perturbation theory, neutron-star pulse-profile modeling, tests of GR and GW-source modeling; PhD in physics, astronomy or related field required before the Aug 15, 2027 start. No citizenship limit stated.",
+  "f": "University of Illinois Urbana-Champaign, Department of Physics, Illinois Relativity Group (Hector O. Silva)",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "uiuc-silva-gravitational-physics-postdoc-2027",
+  "n": "University of Illinois Urbana-Champaign: Postdoc in Theoretical Gravitational Physics (Silva group)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:uiuc-silva-grav-postdoc-2027",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://my.physics.illinois.edu/join",
+  "unv": "Salary not stated; ad notes the university must comply with federal export-control laws.",
   "us": false
  },
  {

@@ -6001,6 +6001,35 @@
   "us": false
  },
  {
+  "a": "TV-L E13, full time, at least 2 years",
+  "added": "2026-11-19",
+  "c": "Group postdoc",
+  "checked": "2026-11-19",
+  "d": "2026-12-18",
+  "dt": "Application deadline Dec 18, 2026; applications considered until filled",
+  "e": "Theory postdoc on numerical and quantum simulation of bosonic many-body dynamics, certification of many-body states and entanglement detection; requires PhD in theoretical physics, includes some teaching and student co-supervision. No citizenship limit stated.",
+  "f": "Friedrich Schiller University Jena, Quantum Information and Quantum Simulation group (Martin Gärttner)",
+  "fields": [
+   "qp",
+   "amo",
+   "cmt"
+  ],
+  "id": "jena-gaerttner-qis-many-body-postdoc",
+  "n": "Friedrich Schiller University Jena: Postdoc in Quantum Information Science and Quantum Many-Body Dynamics (Gärttner group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-jena-gaerttner-qis",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://quantiki.org/position/postdoc-quantum-information-science-and-quantum-many-body-dynamics-jena-university-germany",
+  "unv": "Host university's own ad not located; details from the Quantiki posting by the PI (Nov 18, 2026).",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-09-30",
   "c": "Group postdoc",

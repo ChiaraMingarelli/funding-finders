@@ -8986,6 +8986,42 @@
   "us": false
  },
  {
+  "a": "not stated",
+  "added": "2026-11-19",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-19",
+  "d": "2027-02-20",
+  "dt": "Deadline 2027-02-20",
+  "e": "Postdocs in hep-ph and hep-th (dark matter, BSM model building, scattering amplitudes, generalized symmetries, general relativity, AI for physics); some gr-qc applicants encouraged. No citizenship limit stated.",
+  "f": "Hebrew University of Jerusalem, Racah Institute of Physics, Particle Theory group (Hochberg, Kuflik, Telem)",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "huji-particle-theory-postdoc-2027",
+  "n": "Hebrew University of Jerusalem: Postdoctoral researchers in particle theory (hep-ph/hep-th)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33471",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33471",
+  "unv": "Salary and appointment length not stated.",
+  "us": false
+ },
+ {
   "a": "€80,000 award; research stays of up to 12 months in Germany possible",
   "added": "2026-09-28",
   "aud": [
@@ -11681,6 +11717,40 @@
   "us": false
  },
  {
+  "a": "TV-L E13, full time, at least 2 years",
+  "added": "2026-11-19",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-19",
+  "d": "2026-12-18",
+  "dt": "Application deadline Dec 18, 2026; applications considered until filled",
+  "e": "Theory postdoc on numerical and quantum simulation of bosonic many-body dynamics, certification of many-body states and entanglement detection; requires PhD in theoretical physics, includes some teaching and student co-supervision. No citizenship limit stated.",
+  "f": "Friedrich Schiller University Jena, Quantum Information and Quantum Simulation group (Martin Gärttner)",
+  "fields": [
+   "qp",
+   "amo",
+   "cmt"
+  ],
+  "id": "jena-gaerttner-qis-many-body-postdoc",
+  "n": "Friedrich Schiller University Jena: Postdoc in Quantum Information Science and Quantum Many-Body Dynamics (Gärttner group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-jena-gaerttner-qis",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://quantiki.org/position/postdoc-quantum-information-science-and-quantum-many-body-dynamics-jena-university-germany",
+  "unv": "Host university's own ad not located; details from the Quantiki posting by the PI (Nov 18, 2026).",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-09-30",
   "aud": [
@@ -13022,6 +13092,44 @@
   "us": false
  },
  {
+  "a": "$6,845-7,145 per month (expected start at or above $6,643/month)",
+  "added": "2026-11-19",
+  "asub": [
+   "cos",
+   "xgal",
+   "inst"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-19",
+  "d": "2026-12-14",
+  "dt": "Full consideration by end of 2026-12-14",
+  "e": "Multiple postdocs on DESI data operations (spectroscopic pipeline, QA, imaging for Run 2) and/or characterization and commissioning of new CCD detectors for the DESI Run 2 upgrade, with time reserved for own DESI science; two-year appointment. Applicants need a recent PhD and under 3 years of paid postdoc experience; no citizenship limit stated.",
+  "f": "Lawrence Berkeley National Laboratory, Physics Division",
+  "fields": [
+   "astro",
+   "ppx",
+   "inst"
+  ],
+  "id": "lbnl-desi-operations-postdoc",
+  "n": "Berkeley Lab Physics: DESI Operations Postdoctoral Scholars",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33479",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33479",
+  "us": false
+ },
+ {
   "a": "$6,643–7,145/month; 2 years, renewable",
   "added": "2026-09-30",
   "c": "Group postdoc",
@@ -13113,6 +13221,37 @@
   ],
   "u": "https://jobs.lbl.gov/jobs/hoffman-distinguished-postdoctoral-fellow-%E2%80%94-nuclear-nonproliferation-7632",
   "us": true
+ },
+ {
+  "a": "$6,643-7,145 per month (2026 rates)",
+  "added": "2026-11-19",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-19",
+  "d": "2026-12-06",
+  "dt": "Full consideration with letters by 2026-12-06",
+  "e": "Postdoc in theoretical nuclear or particle physics (hot and dense matter, QCD structure of nucleons and nuclei, hadron spectroscopy, many-body physics, fundamental symmetries; includes lattice QCD) starting fall 2027; two years, renewable up to one more. Applicants may have up to 3-4 years of paid postdoc experience; no citizenship limit stated.",
+  "f": "Lawrence Berkeley National Laboratory, Nuclear Science Division, Nuclear Theory Group (André Walker-Loud contact)",
+  "fields": [
+   "nut",
+   "ppt"
+  ],
+  "id": "lbnl-nuclear-theory-postdoc-2027",
+  "n": "Berkeley Lab Nuclear Science: Postdoctoral Scholar, Nuclear Theory Group",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33478",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33478",
+  "us": false
  },
  {
   "a": "3 years, renewable for 2 more. $6,777-$7,145 per month (union scale) plus a $10K per year research supplement.",
@@ -19543,6 +19682,38 @@
   "us": false
  },
  {
+  "a": "not stated (travel support USD 5,000-7,000 per year)",
+  "added": "2026-11-19",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-19",
+  "d": "2027-01-04",
+  "dt": "Review begins 2027-01-04; continues until filled",
+  "e": "Two postdoc positions working with C.-J. David Lin on hadron structure or tensor networks and quantum computing, starting 1 August 2027; one year, extendable up to three. No citizenship limit stated.",
+  "f": "National Yang Ming Chiao Tung University, Institute of Physics, Lattice Field Theory Research Group (C.-J. David Lin)",
+  "fields": [
+   "nut",
+   "ppt"
+  ],
+  "id": "nycu-lattice-field-theory-postdoc",
+  "n": "National Yang Ming Chiao Tung University: Postdoctoral research fellow, Lattice Field Theory group",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33487",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33487",
+  "unv": "Salary not stated.",
+  "us": false
+ },
+ {
   "a": "3 years; base salary $62,500-$90,000 plus annual research and travel allowance",
   "added": "2026-10-20",
   "aud": [
@@ -23339,6 +23510,38 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33299",
   "unv": "Salary and start date not stated.",
+  "us": false
+ },
+ {
+  "a": "not stated",
+  "added": "2026-11-19",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-19",
+  "d": "2027-01-05",
+  "dt": "Deadline 2027-01-05",
+  "e": "Experimental research associate working on ATLAS Higgs analyses and FCC-ee machine-detector interface simulations, on site at SLAC; two-year initial term. Recent PhD in experimental particle physics required; no citizenship limit stated, but foreign nationals need a DOE site-specific background determination.",
+  "f": "Stanford University / SLAC National Accelerator Laboratory, Fundamental Physics Directorate (Caterina Vernieri)",
+  "fields": [
+   "ppx",
+   "inst"
+  ],
+  "id": "slac-atlas-higgs-fcc-ee-mdi-research-associate",
+  "n": "SLAC: Research Associate in ATLAS Higgs Physics and FCC-ee Machine-Detector Interface",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33481",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33481",
+  "unv": "Salary not stated.",
   "us": false
  },
  {
@@ -27557,6 +27760,43 @@
   "us": false
  },
  {
+  "a": "not stated; benefits-eligible; 2-year term, possible third year",
+  "added": "2026-11-19",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-19",
+  "d": "2026-12-18",
+  "dt": "Applications and all reference letters due Dec 18, 2026 for full consideration (portal shows 12/19/2026 12:00a)",
+  "e": "Postdoc in Prof. Silva's group on black-hole and stellar perturbation theory, neutron-star pulse-profile modeling, tests of GR and GW-source modeling; PhD in physics, astronomy or related field required before the Aug 15, 2027 start. No citizenship limit stated.",
+  "f": "University of Illinois Urbana-Champaign, Department of Physics, Illinois Relativity Group (Hector O. Silva)",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "uiuc-silva-gravitational-physics-postdoc-2027",
+  "n": "University of Illinois Urbana-Champaign: Postdoc in Theoretical Gravitational Physics (Silva group)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:uiuc-silva-grav-postdoc-2027",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://my.physics.illinois.edu/join",
+  "unv": "Salary not stated; ad notes the university must comply with federal export-control laws.",
+  "us": false
+ },
+ {
   "a": "2-year fellowship, possible 3rd year; travel funds; start Aug 2027; salary not listed",
   "added": "2026-10-02",
   "asub": [
@@ -27997,6 +28237,37 @@
    "pd"
   ],
   "u": "https://unc.peopleadmin.com/postings/325916",
+  "us": false
+ },
+ {
+  "a": "not stated (hiring range dependent on qualifications); two-year appointment",
+  "added": "2026-11-19",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-19",
+  "d": "2026-12-15",
+  "dt": "Full consideration by Dec 15, 2026; UNC posting closes Feb 1, 2027",
+  "e": "Postdoc in the NSF @NDB theory hub supervised by Jonathan Engel, computing nuclear matrix elements for neutrinoless double-beta decay with controlled uncertainties, starting September 2027; requires a PhD in physics or related area with nuclear-structure theory experience. No citizenship limit stated.",
+  "f": "University of North Carolina at Chapel Hill (NSF @NDB Focused Research Hub)",
+  "fields": [
+   "nut"
+  ],
+  "id": "unc-ndb-hub-nuclear-structure-postdoc-engel",
+  "n": "UNC Chapel Hill: @NDB Hub Postdoctoral Research Fellow in Nuclear Structure Theory (Engel)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "inspire:3229775",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://unc.peopleadmin.com/postings/326319",
+  "unv": "INSPIRE text says 'by Dec 15, 2023' (apparent typo); INSPIRE deadline field gives 2026-12-15 and the UNC posting lists application deadline 02/01/2027. Distinct from the existing Nicholson-supervised @NDB row (inspire:3211335).",
   "us": false
  },
  {

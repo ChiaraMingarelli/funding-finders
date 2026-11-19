@@ -5007,6 +5007,28 @@
   "d": null
  },
  {
+  "id": "fj-sjsu-tt-asst-prof-quantum-information-science",
+  "n": "San José State University: Tenure-Track Assistant Professor of Physics and Astronomy (Quantum Information Science)",
+  "f": "San José State University, Department of Physics and Astronomy",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-11-22",
+  "dt": "Application deadline Nov 22, 2026; applications accepted until filled or closed",
+  "a": "Assistant Professor; anticipated academic-year salary $105,000-$108,000",
+  "e": "Tenure-track assistant professorship in quantum information science starting August 2027, teaching undergraduate and MS courses and building a student-involved, externally funded research program; requires a doctorate in physics or a related field with QIS research experience. Employment is contingent on US residence and proof of eligibility to work in the US; no citizenship limit stated.",
+  "u": "https://jobs.sjsu.edu/sj/en-us/job/561830",
+  "unv": "SJSU job site returned an empty response to automated fetch; details taken from the INSPIRE copy of the ad (host ad advertised Sep 8, 2026; listed 'Applications close: Open Until Filled').",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-19",
+  "added": "2026-11-19",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
   "id": "fj-sjtu-ins-soft-matter-biophysics-quantum",
   "n": "Shanghai Jiao Tong University INS: Tenure-track/tenured faculty in soft matter, biophysics, quantum computing and plasma physics",
   "f": "Shanghai Jiao Tong University, Institute of Natural Sciences",
@@ -5260,6 +5282,28 @@
   "nfit": "Medium",
   "checked": "2026-11-17",
   "added": "2026-11-17",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
+  "id": "fj-tsinghua-physics-tenure-track-2027",
+  "n": "Tsinghua University: Tenure-Track Faculty Positions, Department of Physics",
+  "f": "Tsinghua University, Department of Physics",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2027-01-15",
+  "dt": "Priority to submissions before 2027-01-15; listed deadline 2027-10-31",
+  "a": "Tenure-track assistant or associate professor; salary not stated",
+  "e": "Tenure-track assistant/associate professor posts in physics; priority areas are quantum-materials characterization, hybrid quantum systems and precision measurement, and hadron structure, with other CM, AMO, particle and nuclear areas considered. Applicants need a PhD and generally two years of postdoc experience; apply by email to hr.phys@mail.tsinghua.edu.cn. No citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33485",
+  "unv": "Salary not stated; applications by email, not through AJO.",
+  "us": false,
+  "nom": false,
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-19",
+  "added": "2026-11-19",
   "stages": [
    "fj"
   ]
@@ -5542,6 +5586,28 @@
    "fj"
   ],
   "d": null
+ },
+ {
+  "id": "fj-uchicago-experimental-physics-fermilab",
+  "n": "UChicago: Assistant/Associate Professor, Experimental Physics (Fermilab-aligned)",
+  "f": "University of Chicago, Department of Physics",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-12-18",
+  "dt": "Review begins 2026-12-18; open until filled",
+  "a": "Tenure-track assistant or tenured associate professor; salary not stated on AJO",
+  "e": "Faculty post open to all experimental physics subfields, with preference for research aligned with Fermilab (collider, neutrino, muon, dark matter/particle astrophysics/cosmology, QIS sensing, AI/ML instrumentation, accelerator R&D) and a joint Fermilab appointment. Assistant applicants need two years of postdoc research; apply via Interfolio; no citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33475",
+  "unv": "Base pay range referenced but not shown in the AJO text.",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-19",
+  "added": "2026-11-19",
+  "stages": [
+   "fj"
+  ]
  },
  {
   "id": "fj-uci-ap-observational-astronomy",
@@ -7393,6 +7459,29 @@
   "d": null
  },
  {
+  "id": "huji-particle-theory-postdoc-2027",
+  "n": "Hebrew University of Jerusalem: Postdoctoral researchers in particle theory (hep-ph/hep-th)",
+  "f": "Hebrew University of Jerusalem, Racah Institute of Physics, Particle Theory group (Hochberg, Kuflik, Telem)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-02-20",
+  "dt": "Deadline 2027-02-20",
+  "a": "not stated",
+  "e": "Postdocs in hep-ph and hep-th (dark matter, BSM model building, scattering amplitudes, generalized symmetries, general relativity, AI for physics); some gr-qc applicants encouraged. No citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33471",
+  "unv": "Salary and appointment length not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-19",
+  "added": "2026-11-19",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "humboldt-research-fellowship-for-postdocs",
   "n": "Humboldt Research Fellowship for Postdocs",
   "f": "Alexander von Humboldt Foundation",
@@ -8863,6 +8952,29 @@
   ]
  },
  {
+  "id": "jena-gaerttner-qis-many-body-postdoc",
+  "n": "Friedrich Schiller University Jena: Postdoc in Quantum Information Science and Quantum Many-Body Dynamics (Gärttner group)",
+  "f": "Friedrich Schiller University Jena, Quantum Information and Quantum Simulation group (Martin Gärttner)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-18",
+  "dt": "Application deadline Dec 18, 2026; applications considered until filled",
+  "a": "TV-L E13, full time, at least 2 years",
+  "e": "Theory postdoc on numerical and quantum simulation of bosonic many-body dynamics, certification of many-body states and entanglement detection; requires PhD in theoretical physics, includes some teaching and student co-supervision. No citizenship limit stated.",
+  "u": "https://quantiki.org/position/postdoc-quantum-information-science-and-quantum-many-body-dynamics-jena-university-germany",
+  "unv": "Host university's own ad not located; details from the Quantiki posting by the PI (Nov 18, 2026).",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-19",
+  "added": "2026-11-19",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "jhu-postdoctoral-fellowship-physics-astronomy-2027",
   "n": "Johns Hopkins: Postdoctoral Fellowship in Physics and Astronomy (department-wide, incl. condensed matter & AMO)",
   "f": "Johns Hopkins University, William H. Miller III Department of Physics and Astronomy",
@@ -9538,6 +9650,28 @@
   "d": null
  },
  {
+  "id": "lbnl-desi-operations-postdoc",
+  "n": "Berkeley Lab Physics: DESI Operations Postdoctoral Scholars",
+  "f": "Lawrence Berkeley National Laboratory, Physics Division",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-14",
+  "dt": "Full consideration by end of 2026-12-14",
+  "a": "$6,845-7,145 per month (expected start at or above $6,643/month)",
+  "e": "Multiple postdocs on DESI data operations (spectroscopic pipeline, QA, imaging for Run 2) and/or characterization and commissioning of new CCD detectors for the DESI Run 2 upgrade, with time reserved for own DESI science; two-year appointment. Applicants need a recent PhD and under 3 years of paid postdoc experience; no citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33479",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-11-19",
+  "added": "2026-11-19",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "lbnl-foundry-xray-quantum-materials-theory-postdoc",
   "n": "Berkeley Lab Molecular Foundry: Postdoctoral Researcher, Applied Mathematics and Computational Physics (X-ray interactions with quantum materials)",
   "f": "Lawrence Berkeley National Laboratory",
@@ -9578,6 +9712,28 @@
   "nfit": "Low",
   "checked": "2026-11-16",
   "added": "2026-10-08",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "lbnl-nuclear-theory-postdoc-2027",
+  "n": "Berkeley Lab Nuclear Science: Postdoctoral Scholar, Nuclear Theory Group",
+  "f": "Lawrence Berkeley National Laboratory, Nuclear Science Division, Nuclear Theory Group (André Walker-Loud contact)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-06",
+  "dt": "Full consideration with letters by 2026-12-06",
+  "a": "$6,643-7,145 per month (2026 rates)",
+  "e": "Postdoc in theoretical nuclear or particle physics (hot and dense matter, QCD structure of nucleons and nuclei, hadron spectroscopy, many-body physics, fundamental symmetries; includes lattice QCD) starting fall 2027; two years, renewable up to one more. Applicants may have up to 3-4 years of paid postdoc experience; no citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33478",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-19",
+  "added": "2026-11-19",
   "stages": [
    "pd"
   ]
@@ -11870,6 +12026,29 @@
   ]
  },
  {
+  "id": "nycu-lattice-field-theory-postdoc",
+  "n": "National Yang Ming Chiao Tung University: Postdoctoral research fellow, Lattice Field Theory group",
+  "f": "National Yang Ming Chiao Tung University, Institute of Physics, Lattice Field Theory Research Group (C.-J. David Lin)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-04",
+  "dt": "Review begins 2027-01-04; continues until filled",
+  "a": "not stated (travel support USD 5,000-7,000 per year)",
+  "e": "Two postdoc positions working with C.-J. David Lin on hadron structure or tensor networks and quantum computing, starting 1 August 2027; one year, extendable up to three. No citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33487",
+  "unv": "Salary not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-19",
+  "added": "2026-11-19",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "nyu-feinberg-postdoctoral-prize-fellowship",
   "n": "NYU Carl Feinberg Institute: Feinberg Postdoctoral Prize Fellowship",
   "f": "New York University, Carl Feinberg Institute for Theoretical Physics",
@@ -13603,6 +13782,29 @@
   "nfit": "Medium",
   "checked": "2026-11-16",
   "added": "2026-11-02",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "slac-atlas-higgs-fcc-ee-mdi-research-associate",
+  "n": "SLAC: Research Associate in ATLAS Higgs Physics and FCC-ee Machine-Detector Interface",
+  "f": "Stanford University / SLAC National Accelerator Laboratory, Fundamental Physics Directorate (Caterina Vernieri)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-05",
+  "dt": "Deadline 2027-01-05",
+  "a": "not stated",
+  "e": "Experimental research associate working on ATLAS Higgs analyses and FCC-ee machine-detector interface simulations, on site at SLAC; two-year initial term. Recent PhD in experimental particle physics required; no citizenship limit stated, but foreign nationals need a DOE site-specific background determination.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33481",
+  "unv": "Salary not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-19",
+  "added": "2026-11-19",
   "stages": [
    "pd"
   ]
@@ -15741,6 +15943,29 @@
   "d": null
  },
  {
+  "id": "uiuc-silva-gravitational-physics-postdoc-2027",
+  "n": "University of Illinois Urbana-Champaign: Postdoc in Theoretical Gravitational Physics (Silva group)",
+  "f": "University of Illinois Urbana-Champaign, Department of Physics, Illinois Relativity Group (Hector O. Silva)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-18",
+  "dt": "Applications and all reference letters due Dec 18, 2026 for full consideration (portal shows 12/19/2026 12:00a)",
+  "a": "not stated; benefits-eligible; 2-year term, possible third year",
+  "e": "Postdoc in Prof. Silva's group on black-hole and stellar perturbation theory, neutron-star pulse-profile modeling, tests of GR and GW-source modeling; PhD in physics, astronomy or related field required before the Aug 15, 2027 start. No citizenship limit stated.",
+  "u": "https://my.physics.illinois.edu/join",
+  "unv": "Salary not stated; ad notes the university must comply with federal export-control laws.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "High",
+  "checked": "2026-11-19",
+  "added": "2026-11-19",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "uiuc-simons-bhsg-postdoc-fellowship",
   "n": "Simons Collaboration on Black Holes and Strong Gravity: Postdoctoral Research Fellowships",
   "f": "University of Illinois Urbana-Champaign / Simons Foundation",
@@ -15894,6 +16119,29 @@
   "nfit": "Medium",
   "checked": "2026-11-16",
   "added": "2026-11-07",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "unc-ndb-hub-nuclear-structure-postdoc-engel",
+  "n": "UNC Chapel Hill: @NDB Hub Postdoctoral Research Fellow in Nuclear Structure Theory (Engel)",
+  "f": "University of North Carolina at Chapel Hill (NSF @NDB Focused Research Hub)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-15",
+  "dt": "Full consideration by Dec 15, 2026; UNC posting closes Feb 1, 2027",
+  "a": "not stated (hiring range dependent on qualifications); two-year appointment",
+  "e": "Postdoc in the NSF @NDB theory hub supervised by Jonathan Engel, computing nuclear matrix elements for neutrinoless double-beta decay with controlled uncertainties, starting September 2027; requires a PhD in physics or related area with nuclear-structure theory experience. No citizenship limit stated.",
+  "u": "https://unc.peopleadmin.com/postings/326319",
+  "unv": "INSPIRE text says 'by Dec 15, 2023' (apparent typo); INSPIRE deadline field gives 2026-12-15 and the UNC posting lists application deadline 02/01/2027. Distinct from the existing Nicholson-supervised @NDB row (inspire:3211335).",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-19",
+  "added": "2026-11-19",
   "stages": [
    "pd"
   ]
