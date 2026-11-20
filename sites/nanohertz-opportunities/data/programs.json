@@ -1260,6 +1260,29 @@
   ]
  },
  {
+  "id": "bologna-infn-theory-postdoc-eoi-2027",
+  "n": "University of Bologna / INFN: Postdoc in Theoretical Physics (expressions of interest)",
+  "f": "University of Bologna / INFN Bologna",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-13",
+  "dt": "Expressions of interest and letters due 13 Dec 2026 (INSPIRE)",
+  "a": "2 years, starting Fall 2027",
+  "e": "Two-year postdoc in the joint DIFA–INFN theory group (integrability, gauge/gravity, classical and quantum gravity, black holes, theoretical cosmology, worldline methods). Open only to candidates who obtained their Master's degree after March 2021; applications by email.",
+  "u": "https://inspirehep.net/jobs/3231008",
+  "unv": "No host ad URL; deadline and details from INSPIRE only. Salary not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-11-20",
+  "added": "2026-11-20",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "bonn-duhr-theoretical-particle-physics-postdoc",
   "n": "University of Bonn: Postdoc in theoretical particle physics (Duhr group)",
   "f": "University of Bonn",
@@ -2225,6 +2248,29 @@
   ]
  },
  {
+  "id": "columbia-lattice-qcd-postdoc-2027",
+  "n": "Columbia University: Lattice QCD postdoctoral position",
+  "f": "Columbia University, Department of Physics",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-15",
+  "dt": "Applications and letters due Dec 15, 2026",
+  "a": "One-year position starting Sept 2027, renewal expected for a second and likely third year",
+  "e": "Postdoc in Columbia's lattice QCD group funded by a DOE Genesis grant, partly on AI-based algorithms to reduce critical slowing down in gauge configuration generation. No citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33491",
+  "unv": "Salary not stated",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-20",
+  "added": "2026-11-20",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "columbia-max-planck-postdoc-2027",
   "n": "Columbia University: 2027 Max Planck Postdoctoral Research Scientist",
   "f": "Columbia University, Department of Physics (New York Max Planck Center for Nonequilibrium Quantum Physics)",
@@ -2716,6 +2762,29 @@
   "nfit": "Medium",
   "checked": "2026-11-16",
   "added": "2026-10-21",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "durham-particle-theory-postdocs-2027",
+  "n": "Durham University: Postdocs in particle theory (three positions)",
+  "f": "Durham University",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-16",
+  "dt": "Apply via European postdoc AJO system by 16 Dec 2026 and Durham HR portal by 11 Jan 2027",
+  "a": "One 3-year and two 2-year positions, starting October 2027",
+  "e": "Three postdocs in the Mathematical and Theoretical Physics group (symmetry/anomalies/phases of matter; strings and holography; amplitudes and correlators). No citizenship restriction is stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/32558",
+  "unv": "Durham Taleo ad (job 26001379) not opened; salary not stated in INSPIRE text.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-20",
+  "added": "2026-11-20",
   "stages": [
    "pd"
   ]
@@ -4213,6 +4282,28 @@
   "d": null
  },
  {
+  "id": "fj-jhu-asst-prof-astronomy-astrophysics-2027",
+  "n": "Johns Hopkins University: Assistant Professor in Astronomy and Astrophysics",
+  "f": "Johns Hopkins University (William H. Miller III Department of Physics and Astronomy)",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-12-16",
+  "dt": "Review begins Dec 16, 2026 and continues until filled",
+  "a": "Assistant Professor",
+  "e": "Johns Hopkins seeks an assistant professor in any area of astrophysics (observation, theory, computation and/or instrumentation), with teaching and advising duties.",
+  "u": "https://aas.org/jobregister/ad/e39262d4",
+  "unv": "Taken from the Hyperspace@GU copy; the AAS ad and the JHU site returned 403 (bot check), so tenure-track status, salary, citizenship terms and the application portal are not verified.",
+  "us": false,
+  "nom": false,
+  "region": "US",
+  "nfit": "Medium",
+  "checked": "2026-11-20",
+  "added": "2026-11-20",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
   "id": "fj-kcl-lecturer-disordered-systems-maths",
   "n": "King's College London: Lecturer in Disordered Systems (Department of Mathematics)",
   "f": "King's College London",
@@ -4229,6 +4320,28 @@
   "nfit": "Low",
   "checked": "2026-11-16",
   "added": "2026-11-11",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
+  "id": "fj-kcl-lecturer-theoretical-physics-2027",
+  "n": "King's College London: Lecturer in Theoretical Physics",
+  "f": "King's College London",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2027-01-03",
+  "dt": "Closing date 3 January 2027",
+  "a": "Lecturer, indefinite contract; £54,923–£64,515 per annum incl. London Weighting; start 1 September 2027",
+  "e": "Permanent lectureship in the Theoretical Physics Group (gravity, field theory, string theory) of the Department of Mathematics at King's College London. Open to PhD holders in theoretical physics; no citizenship restriction is stated.",
+  "u": "https://www.kcl.ac.uk/jobs/163467-lecturer-in-theoretical-physics",
+  "unv": "Visa sponsorship not stated in the ad.",
+  "us": false,
+  "nom": false,
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-20",
+  "added": "2026-11-20",
   "stages": [
    "fj"
   ]
@@ -4336,6 +4449,28 @@
   "nfit": "Medium",
   "checked": "2026-11-16",
   "added": "2026-10-01",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
+  "id": "fj-leiden-asst-prof-astronomy-2027",
+  "n": "Leiden Observatory: Assistant Professor in Astronomy",
+  "f": "Leiden University (Leiden Observatory)",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-12-13",
+  "dt": "Apply by Dec 13, 2026; reference letters due by the same date",
+  "a": "Assistant Professor (Universitair Docent), 1.0 fte; EUR 4,925-7,573 gross per month (scale 11-12); initial one-year contract, intended to become permanent after satisfactory performance",
+  "e": "Leiden Observatory seeks one or more assistant professors from any area of astronomy and astrophysics, including observation, theory, computation and instrumentation; compact objects and gravitational-wave astrophysics are among the areas named. No citizenship limit is stated; staff are expected to learn Dutch within a few years.",
+  "u": "https://careers.universiteitleiden.nl/job/Leiden-Assistant-Professor-position-in-Astronomy-at-Leiden-Observatory/16948-en_US/",
+  "unv": "Start date to be agreed; the ad has no posting date.",
+  "us": false,
+  "nom": false,
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-11-20",
+  "added": "2026-11-20",
   "stages": [
    "fj"
   ]
@@ -10828,6 +10963,29 @@
   ]
  },
  {
+  "id": "msu-frib-nuclear-dft-theory-postdoc",
+  "n": "Michigan State University: Postdoctoral Scholar in nuclear density functional theory",
+  "f": "Michigan State University (FRIB)",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Review begins 21 Dec 2026, continues until filled (INSPIRE lists 31 Jan 2027)",
+  "a": "Fixed-term postdoctoral scholar",
+  "e": "Fixed-term postdoc at MSU/FRIB (contact W. Nazarewicz) developing nuclear density functional theory, fission and emulators for uncertainty quantification. Requires a PhD in nuclear physics or related field and ability to work with export-controlled technologies.",
+  "u": "https://careers.msu.edu/jobs/postdoctoral-scholar-fixed-term-east-lansing-michigan-united-states-c3bd536b-c7db-487f-be9b-a42023b033ce",
+  "unv": "MSU careers page returned an empty 202 response (likely bot check); details from INSPIRE text. Salary not stated; the export-control requirement may limit some foreign nationals.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-20",
+  "added": "2026-11-20",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
   "id": "msu-nuclear-theory-transport-ml-postdoc",
   "n": "Michigan State University: Postdoctoral Scholar in Nuclear Theory (transport models and AI/ML)",
   "f": "Michigan State University",
@@ -11227,6 +11385,29 @@
   "nfit": "Low",
   "checked": "2026-11-16",
   "added": "2026-10-15",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "ncbj-warsaw-qgp-attractors-theory-postdoc",
+  "n": "NCBJ Warsaw: Postdoctoral Research Associate in theoretical physics (quark-gluon plasma dynamics)",
+  "f": "National Centre for Nuclear Research (NCBJ), Warsaw",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-29",
+  "dt": "Deadline 29 Dec 2026 (INSPIRE)",
+  "a": "2 years, funded by National Science Centre (NCN), Poland",
+  "e": "Two-year postdoc (PI Michał Spaliński) on out-of-equilibrium dynamics of quark-gluon plasma, including attractors, using QFT, kinetic theory or AdS/CFT. Applicants need a PhD before signing; no citizenship restriction is stated.",
+  "u": "https://inspirehep.net/jobs/3230926",
+  "unv": "No host ad URL; deadline and details from INSPIRE only. Salary not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-20",
+  "added": "2026-11-20",
   "stages": [
    "pd"
   ]
@@ -13313,6 +13494,29 @@
   ]
  },
  {
+  "id": "rutgers-nhetc-hep-theory-postdoc-2027",
+  "n": "Rutgers University (NHETC): Post-Doctoral Research Associate in theoretical high energy physics",
+  "f": "Rutgers, The State University of New Jersey, New High Energy Theory Center",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-31",
+  "dt": "Apply by Dec 31, 2026 (AJO); a separate Rutgers ROCS application is also required (not live yet)",
+  "a": "Three-year term starting Sept 1, 2027 or later",
+  "e": "Postdoctoral associate positions (one or more) in hep-th/hep-ph with the NHETC theory group. PhD required by start date; no citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33489",
+  "unv": "Salary not stated; ROCS posting not yet live",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-20",
+  "added": "2026-11-20",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "sandia-697934-quantum-photonics-pd",
   "n": "Sandia National Laboratories: Postdoctoral Appointee, Quantum Photonics, Onsite",
   "f": "Sandia National Laboratories, Photonic Microsystems Technologies Department",
@@ -14254,6 +14458,29 @@
   "nfit": "Low",
   "checked": "2026-11-16",
   "added": "2026-10-24",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "tarapaca-nova-dune-neutrino-postdoc",
+  "n": "University of Tarapacá: Postdoc in long-baseline neutrino experiments (NOvA/DUNE)",
+  "f": "University of Tarapacá (Chile)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-20",
+  "dt": "Deadline 20 Dec 2026 (INSPIRE)",
+  "a": "If FONDECYT postdoctoral grant awarded: about 2,200,000 CLP per month from ~spring 2028; UTA salary before that set at interview",
+  "e": "Experimental neutrino postdoc on NOvA and DUNE, based in Santiago, Chile, with travel to CERN/Fermilab; candidate is expected to apply for an ANID FONDECYT postdoctoral grant in spring 2027. Requires a PhD in experimental HEP defended no earlier than 1 Jan 2026 (or by Dec 2026); no citizenship restriction is stated.",
+  "u": "https://inspirehep.net/jobs/3230944",
+  "unv": "No host ad URL; deadline and details from INSPIRE only.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-20",
+  "added": "2026-11-20",
   "stages": [
    "pd"
   ]
@@ -16839,6 +17066,29 @@
   "nfit": "Low",
   "checked": "2026-11-16",
   "added": "2026-10-29",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "vanderbilt-high-energy-nuclear-theory-postdoc",
+  "n": "Vanderbilt University: Postdoctoral Position in High-Energy Nuclear Theory",
+  "f": "Vanderbilt University, Physics & Astronomy",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-16",
+  "dt": "Review begins Dec 16, 2026; continues until filled",
+  "a": "Two years (initial one-year contract, renewal anticipated); research funds available",
+  "e": "Postdoc with Prof. Jean-Francois Paquet on theory of QCD matter in heavy-ion collisions, relativistic hydrodynamics and statistical/computational modeling. No citizenship restriction stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33490",
+  "unv": "Salary not stated",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-20",
+  "added": "2026-11-20",
   "stages": [
    "pd"
   ]

@@ -1360,6 +1360,39 @@
   "us": false
  },
  {
+  "a": "2 years, starting Fall 2027",
+  "added": "2026-11-20",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-20",
+  "d": "2026-12-13",
+  "dt": "Expressions of interest and letters due 13 Dec 2026 (INSPIRE)",
+  "e": "Two-year postdoc in the joint DIFA–INFN theory group (integrability, gauge/gravity, classical and quantum gravity, black holes, theoretical cosmology, worldline methods). Open only to candidates who obtained their Master's degree after March 2021; applications by email.",
+  "f": "University of Bologna / INFN Bologna",
+  "fields": [
+   "ppt",
+   "grav",
+   "astro"
+  ],
+  "id": "bologna-infn-theory-postdoc-eoi-2027",
+  "n": "University of Bologna / INFN: Postdoc in Theoretical Physics (expressions of interest)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3231008",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3231008",
+  "unv": "No host ad URL; deadline and details from INSPIRE only. Salary not stated.",
+  "us": false
+ },
+ {
   "a": "US site 2026: $12,538 (travel reimbursed)",
   "added": "2026-10-01",
   "asub": [

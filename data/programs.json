@@ -3586,6 +3586,44 @@
   "us": false
  },
  {
+  "a": "2 years, starting Fall 2027",
+  "added": "2026-11-20",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-20",
+  "d": "2026-12-13",
+  "dt": "Expressions of interest and letters due 13 Dec 2026 (INSPIRE)",
+  "e": "Two-year postdoc in the joint DIFA–INFN theory group (integrability, gauge/gravity, classical and quantum gravity, black holes, theoretical cosmology, worldline methods). Open only to candidates who obtained their Master's degree after March 2021; applications by email.",
+  "f": "University of Bologna / INFN Bologna",
+  "fields": [
+   "ppt",
+   "grav",
+   "astro"
+  ],
+  "id": "bologna-infn-theory-postdoc-eoi-2027",
+  "n": "University of Bologna / INFN: Postdoc in Theoretical Physics (expressions of interest)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3231008",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3231008",
+  "unv": "No host ad URL; deadline and details from INSPIRE only. Salary not stated.",
+  "us": false
+ },
+ {
   "a": "2 years, possible extension to 3; salary not stated",
   "added": "2026-11-07",
   "aud": [
@@ -5751,6 +5789,38 @@
   "us": false
  },
  {
+  "a": "One-year position starting Sept 2027, renewal expected for a second and likely third year",
+  "added": "2026-11-20",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-20",
+  "d": "2026-12-15",
+  "dt": "Applications and letters due Dec 15, 2026",
+  "e": "Postdoc in Columbia's lattice QCD group funded by a DOE Genesis grant, partly on AI-based algorithms to reduce critical slowing down in gauge configuration generation. No citizenship restriction stated.",
+  "f": "Columbia University, Department of Physics",
+  "fields": [
+   "ppt",
+   "ds"
+  ],
+  "id": "columbia-lattice-qcd-postdoc-2027",
+  "n": "Columbia University: Lattice QCD postdoctoral position",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33491",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33491",
+  "unv": "Salary not stated",
+  "us": false
+ },
+ {
   "a": "Salary not stated; includes travel and research funds; 1 year, renewable for up to 2 more",
   "added": "2026-11-15",
   "aud": [
@@ -7688,6 +7758,37 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33173",
+  "us": false
+ },
+ {
+  "a": "One 3-year and two 2-year positions, starting October 2027",
+  "added": "2026-11-20",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-20",
+  "d": "2026-12-16",
+  "dt": "Apply via European postdoc AJO system by 16 Dec 2026 and Durham HR portal by 11 Jan 2027",
+  "e": "Three postdocs in the Mathematical and Theoretical Physics group (symmetry/anomalies/phases of matter; strings and holography; amplitudes and correlators). No citizenship restriction is stated.",
+  "f": "Durham University",
+  "fields": [
+   "ppt"
+  ],
+  "id": "durham-particle-theory-postdocs-2027",
+  "n": "Durham University: Postdocs in particle theory (three positions)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3229810",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32558",
+  "unv": "Durham Taleo ad (job 26001379) not opened; salary not stated in INSPIRE text.",
   "us": false
  },
  {
@@ -10369,6 +10470,35 @@
   "us": false
  },
  {
+  "a": "Assistant Professor",
+  "added": "2026-11-20",
+  "aud": [
+   "ng"
+  ],
+  "c": "Faculty job",
+  "checked": "2026-11-20",
+  "d": "2026-12-16",
+  "dt": "Review begins Dec 16, 2026 and continues until filled",
+  "e": "Johns Hopkins seeks an assistant professor in any area of astrophysics (observation, theory, computation and/or instrumentation), with teaching and advising duties.",
+  "f": "Johns Hopkins University (William H. Miller III Department of Physics and Astronomy)",
+  "fields": [
+   "astro"
+  ],
+  "id": "fj-jhu-asst-prof-astronomy-astrophysics-2027",
+  "n": "Johns Hopkins University: Assistant Professor in Astronomy and Astrophysics",
+  "nfit": "Medium",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "aas:e39262d4",
+  "stages": [
+   "fj"
+  ],
+  "u": "https://aas.org/jobregister/ad/e39262d4",
+  "unv": "Taken from the Hyperspace@GU copy; the AAS ad and the JHU site returned 403 (bot check), so tenure-track status, salary, citizenship terms and the application portal are not verified.",
+  "us": false
+ },
+ {
   "a": "GBP 54,923-64,515 per year incl. London Weighting; indefinite contract",
   "added": "2026-11-11",
   "aud": [
@@ -10395,6 +10525,36 @@
    "fj"
   ],
   "u": "https://my.corehr.com/pls/coreportal_kclp/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=I&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=163085",
+  "us": false
+ },
+ {
+  "a": "Lecturer, indefinite contract; £54,923–£64,515 per annum incl. London Weighting; start 1 September 2027",
+  "added": "2026-11-20",
+  "aud": [
+   "ng"
+  ],
+  "c": "Faculty job",
+  "checked": "2026-11-20",
+  "d": "2027-01-03",
+  "dt": "Closing date 3 January 2027",
+  "e": "Permanent lectureship in the Theoretical Physics Group (gravity, field theory, string theory) of the Department of Mathematics at King's College London. Open to PhD holders in theoretical physics; no citizenship restriction is stated.",
+  "f": "King's College London",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "fj-kcl-lecturer-theoretical-physics-2027",
+  "n": "King's College London: Lecturer in Theoretical Physics",
+  "nfit": "Low",
+  "nom": false,
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3230595",
+  "stages": [
+   "fj"
+  ],
+  "u": "https://www.kcl.ac.uk/jobs/163467-lecturer-in-theoretical-physics",
+  "unv": "Visa sponsorship not stated in the ad.",
   "us": false
  },
  {
@@ -10540,6 +10700,36 @@
   ],
   "u": "https://apply.interfolio.com/193844",
   "unv": "Checked on Nov 16, 2026 against the Inside Higher Ed copy of Lehigh's ad; the Interfolio page needs JavaScript and the AAS listing blocks automated access.",
+  "us": false
+ },
+ {
+  "a": "Assistant Professor (Universitair Docent), 1.0 fte; EUR 4,925-7,573 gross per month (scale 11-12); initial one-year contract, intended to become permanent after satisfactory performance",
+  "added": "2026-11-20",
+  "aud": [
+   "ng"
+  ],
+  "c": "Faculty job",
+  "checked": "2026-11-20",
+  "d": "2026-12-13",
+  "dt": "Apply by Dec 13, 2026; reference letters due by the same date",
+  "e": "Leiden Observatory seeks one or more assistant professors from any area of astronomy and astrophysics, including observation, theory, computation and instrumentation; compact objects and gravitational-wave astrophysics are among the areas named. No citizenship limit is stated; staff are expected to learn Dutch within a few years.",
+  "f": "Leiden University (Leiden Observatory)",
+  "fields": [
+   "astro",
+   "inst"
+  ],
+  "id": "fj-leiden-asst-prof-astronomy-2027",
+  "n": "Leiden Observatory: Assistant Professor in Astronomy",
+  "nfit": "Medium",
+  "nom": false,
+  "region": "International",
+  "s": "open",
+  "src": "other:leiden-16948",
+  "stages": [
+   "fj"
+  ],
+  "u": "https://careers.universiteitleiden.nl/job/Leiden-Assistant-Professor-position-in-Astronomy-at-Leiden-Observatory/16948-en_US/",
+  "unv": "Start date to be agreed; the ad has no posting date.",
   "us": false
  },
  {
@@ -23485,6 +23675,37 @@
   "us": false
  },
  {
+  "a": "Fixed-term postdoctoral scholar",
+  "added": "2026-11-20",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-20",
+  "d": null,
+  "dt": "Review begins 21 Dec 2026, continues until filled (INSPIRE lists 31 Jan 2027)",
+  "e": "Fixed-term postdoc at MSU/FRIB (contact W. Nazarewicz) developing nuclear density functional theory, fission and emulators for uncertainty quantification. Requires a PhD in nuclear physics or related field and ability to work with export-controlled technologies.",
+  "f": "Michigan State University (FRIB)",
+  "fields": [
+   "nut"
+  ],
+  "id": "msu-frib-nuclear-dft-theory-postdoc",
+  "n": "Michigan State University: Postdoctoral Scholar in nuclear density functional theory",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "inspire:3230975",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://careers.msu.edu/jobs/postdoctoral-scholar-fixed-term-east-lansing-michigan-united-states-c3bd536b-c7db-487f-be9b-a42023b033ce",
+  "unv": "MSU careers page returned an empty 202 response (likely bot check); details from INSPIRE text. Salary not stated; the export-control requirement may limit some foreign nationals.",
+  "us": false
+ },
+ {
   "a": "Fixed-term postdoc in the FRIB Nuclear Theory Group; salary commensurate with experience",
   "added": "2026-11-05",
   "aud": [
@@ -24545,6 +24766,38 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3214626",
+  "us": false
+ },
+ {
+  "a": "2 years, funded by National Science Centre (NCN), Poland",
+  "added": "2026-11-20",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-20",
+  "d": "2026-12-29",
+  "dt": "Deadline 29 Dec 2026 (INSPIRE)",
+  "e": "Two-year postdoc (PI Michał Spaliński) on out-of-equilibrium dynamics of quark-gluon plasma, including attractors, using QFT, kinetic theory or AdS/CFT. Applicants need a PhD before signing; no citizenship restriction is stated.",
+  "f": "National Centre for Nuclear Research (NCBJ), Warsaw",
+  "fields": [
+   "nut",
+   "ppt"
+  ],
+  "id": "ncbj-warsaw-qgp-attractors-theory-postdoc",
+  "n": "NCBJ Warsaw: Postdoctoral Research Associate in theoretical physics (quark-gluon plasma dynamics)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3230926",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3230926",
+  "unv": "No host ad URL; deadline and details from INSPIRE only. Salary not stated.",
   "us": false
  },
  {
@@ -32780,6 +33033,37 @@
   "us": false
  },
  {
+  "a": "Three-year term starting Sept 1, 2027 or later",
+  "added": "2026-11-20",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-20",
+  "d": "2026-12-31",
+  "dt": "Apply by Dec 31, 2026 (AJO); a separate Rutgers ROCS application is also required (not live yet)",
+  "e": "Postdoctoral associate positions (one or more) in hep-th/hep-ph with the NHETC theory group. PhD required by start date; no citizenship restriction stated.",
+  "f": "Rutgers, The State University of New Jersey, New High Energy Theory Center",
+  "fields": [
+   "ppt"
+  ],
+  "id": "rutgers-nhetc-hep-theory-postdoc-2027",
+  "n": "Rutgers University (NHETC): Post-Doctoral Research Associate in theoretical high energy physics",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33489",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33489",
+  "unv": "Salary not stated; ROCS posting not yet live",
+  "us": false
+ },
+ {
   "a": "Observing time on SAAO's telescopes at Sutherland, applied for through the SAAO observer portal. SALT (partner-only) is not included. IRSF time is limited to researchers at South African or Japanese institutions. No funding.",
   "added": "2026-10-03",
   "asub": [],
@@ -35509,6 +35793,37 @@
    "pd"
   ],
   "u": "https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Postdoctoral-Research-Associate_R-098225-1",
+  "us": false
+ },
+ {
+  "a": "If FONDECYT postdoctoral grant awarded: about 2,200,000 CLP per month from ~spring 2028; UTA salary before that set at interview",
+  "added": "2026-11-20",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-20",
+  "d": "2026-12-20",
+  "dt": "Deadline 20 Dec 2026 (INSPIRE)",
+  "e": "Experimental neutrino postdoc on NOvA and DUNE, based in Santiago, Chile, with travel to CERN/Fermilab; candidate is expected to apply for an ANID FONDECYT postdoctoral grant in spring 2027. Requires a PhD in experimental HEP defended no earlier than 1 Jan 2026 (or by Dec 2026); no citizenship restriction is stated.",
+  "f": "University of Tarapacá (Chile)",
+  "fields": [
+   "ppx"
+  ],
+  "id": "tarapaca-nova-dune-neutrino-postdoc",
+  "n": "University of Tarapacá: Postdoc in long-baseline neutrino experiments (NOvA/DUNE)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3230944",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3230944",
+  "unv": "No host ad URL; deadline and details from INSPIRE only.",
   "us": false
  },
  {
@@ -41316,6 +41631,37 @@
    "t": "Yale limited submission: internal application due Oct 5, 2026 on InfoReady.",
    "u": "https://yale.infoready4.com/"
   }
+ },
+ {
+  "a": "Two years (initial one-year contract, renewal anticipated); research funds available",
+  "added": "2026-11-20",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-20",
+  "d": "2026-12-16",
+  "dt": "Review begins Dec 16, 2026; continues until filled",
+  "e": "Postdoc with Prof. Jean-Francois Paquet on theory of QCD matter in heavy-ion collisions, relativistic hydrodynamics and statistical/computational modeling. No citizenship restriction stated.",
+  "f": "Vanderbilt University, Physics & Astronomy",
+  "fields": [
+   "nut"
+  ],
+  "id": "vanderbilt-high-energy-nuclear-theory-postdoc",
+  "n": "Vanderbilt University: Postdoctoral Position in High-Energy Nuclear Theory",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33490",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33490",
+  "unv": "Salary not stated",
+  "us": false
  },
  {
   "a": "not listed; 1 year, renewable up to 2 more",
