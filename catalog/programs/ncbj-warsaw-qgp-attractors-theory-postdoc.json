@@ -1,0 +1,32 @@
+{
+ "a": "2 years, funded by National Science Centre (NCN), Poland",
+ "added": "2026-11-20",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-20",
+ "d": "2026-12-29",
+ "dt": "Deadline 29 Dec 2026 (INSPIRE)",
+ "e": "Two-year postdoc (PI Michał Spaliński) on out-of-equilibrium dynamics of quark-gluon plasma, including attractors, using QFT, kinetic theory or AdS/CFT. Applicants need a PhD before signing; no citizenship restriction is stated.",
+ "f": "National Centre for Nuclear Research (NCBJ), Warsaw",
+ "fields": [
+  "nut",
+  "ppt"
+ ],
+ "id": "ncbj-warsaw-qgp-attractors-theory-postdoc",
+ "n": "NCBJ Warsaw: Postdoctoral Research Associate in theoretical physics (quark-gluon plasma dynamics)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3230926",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3230926",
+ "unv": "No host ad URL; deadline and details from INSPIRE only. Salary not stated.",
+ "us": false
+}

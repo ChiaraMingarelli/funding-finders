@@ -1,0 +1,32 @@
+{
+ "a": "One-year position starting Sept 2027, renewal expected for a second and likely third year",
+ "added": "2026-11-20",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-20",
+ "d": "2026-12-15",
+ "dt": "Applications and letters due Dec 15, 2026",
+ "e": "Postdoc in Columbia's lattice QCD group funded by a DOE Genesis grant, partly on AI-based algorithms to reduce critical slowing down in gauge configuration generation. No citizenship restriction stated.",
+ "f": "Columbia University, Department of Physics",
+ "fields": [
+  "ppt",
+  "ds"
+ ],
+ "id": "columbia-lattice-qcd-postdoc-2027",
+ "n": "Columbia University: Lattice QCD postdoctoral position",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33491",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33491",
+ "unv": "Salary not stated",
+ "us": false
+}

@@ -1,0 +1,31 @@
+{
+ "a": "Fixed-term postdoctoral scholar",
+ "added": "2026-11-20",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-20",
+ "d": null,
+ "dt": "Review begins 21 Dec 2026, continues until filled (INSPIRE lists 31 Jan 2027)",
+ "e": "Fixed-term postdoc at MSU/FRIB (contact W. Nazarewicz) developing nuclear density functional theory, fission and emulators for uncertainty quantification. Requires a PhD in nuclear physics or related field and ability to work with export-controlled technologies.",
+ "f": "Michigan State University (FRIB)",
+ "fields": [
+  "nut"
+ ],
+ "id": "msu-frib-nuclear-dft-theory-postdoc",
+ "n": "Michigan State University: Postdoctoral Scholar in nuclear density functional theory",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "inspire:3230975",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://careers.msu.edu/jobs/postdoctoral-scholar-fixed-term-east-lansing-michigan-united-states-c3bd536b-c7db-487f-be9b-a42023b033ce",
+ "unv": "MSU careers page returned an empty 202 response (likely bot check); details from INSPIRE text. Salary not stated; the export-control requirement may limit some foreign nationals.",
+ "us": false
+}

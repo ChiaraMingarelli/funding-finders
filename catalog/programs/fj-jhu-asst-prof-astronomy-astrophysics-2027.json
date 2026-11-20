@@ -1,0 +1,29 @@
+{
+ "a": "Assistant Professor",
+ "added": "2026-11-20",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-20",
+ "d": "2026-12-16",
+ "dt": "Review begins Dec 16, 2026 and continues until filled",
+ "e": "Johns Hopkins seeks an assistant professor in any area of astrophysics (observation, theory, computation and/or instrumentation), with teaching and advising duties.",
+ "f": "Johns Hopkins University (William H. Miller III Department of Physics and Astronomy)",
+ "fields": [
+  "astro"
+ ],
+ "id": "fj-jhu-asst-prof-astronomy-astrophysics-2027",
+ "n": "Johns Hopkins University: Assistant Professor in Astronomy and Astrophysics",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "aas:e39262d4",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://aas.org/jobregister/ad/e39262d4",
+ "unv": "Taken from the Hyperspace@GU copy; the AAS ad and the JHU site returned 403 (bot check), so tenure-track status, salary, citizenship terms and the application portal are not verified.",
+ "us": false
+}
