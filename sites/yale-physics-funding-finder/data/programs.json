@@ -2646,9 +2646,9 @@
    "ap"
   ],
   "c": "Group postdoc",
-  "checked": "2026-11-16",
-  "d": "2026-11-19",
-  "dt": "Deadline Nov 19, 2026 (AJO); review begins Nov 19 and continues until the position is filled",
+  "checked": "2026-11-20",
+  "d": null,
+  "dt": "AJO deadline was Nov 19, 2026; review began Nov 19 and continues until the position is filled",
   "e": "Theory postdocs in quantum condensed matter, statistical, many-body and soft matter physics, free to work with all CMTC faculty (Altman, Lake, Ledwith, Lee, Moore, Zaletel). PhD in physics by the start date; no citizenship limit stated.",
   "f": "UC Berkeley, Department of Physics / Condensed Matter Theory Center",
   "fields": [
@@ -2661,7 +2661,7 @@
   "nom": false,
   "pt": "group",
   "region": "US",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:33355",
   "stages": [
    "pd"
@@ -2754,9 +2754,9 @@
    "ap"
   ],
   "c": "Fellowship",
-  "checked": "2026-11-16",
-  "d": "2026-11-19",
-  "dt": "AJO deadline Nov 19, 2026; review began Nov 15 and continues until the position is filled",
+  "checked": "2026-11-20",
+  "d": null,
+  "dt": "AJO deadline was Nov 19, 2026; review began Nov 15 and continues until the position is filled",
   "e": "Named EPiQS-funded postdoc in theoretical condensed matter physics; fellows may collaborate with all CMTC faculty. Applicants are also considered for the CMTC postdoc. PhD in physics by the start date; no citizenship limit stated.",
   "f": "UC Berkeley, Department of Physics / Condensed Matter Theory Center (Moore Foundation EPiQS)",
   "fields": [
@@ -2769,7 +2769,7 @@
   "nom": false,
   "pt": "prize",
   "region": "US",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:33353",
   "stages": [
    "pd"
@@ -10837,37 +10837,6 @@
   "us": false
  },
  {
-  "a": "24 months, possibly extendable; €28,761.73 gross per year, plus a first-year mobility incentive of €4,242.05 for eligible candidates",
-  "added": "2026-10-21",
-  "aud": [
-   "yale",
-   "ng"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-16",
-  "d": "2026-11-19",
-  "dt": "Nov 19, 2026 (INFN call no. 29234, Torino)",
-  "e": "Postdoc at INFN Torino developing, building and testing a demonstrator 4D tracker based on resistive LGAD silicon sensors and their readout electronics, including lab tests, test beams and performance analysis. Open to Italian and foreign citizens with a PhD in physics or an equivalent foreign degree; apply through the INFN recruitment portal.",
-  "f": "INFN, Sezione di Torino",
-  "fields": [
-   "ppx",
-   "inst"
-  ],
-  "id": "infn-4d-tracking-resistive-silicon-postdoc",
-  "n": "INFN: Postdoc on a 4D tracking system with resistive silicon detectors (RSD) and readout electronics",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3216517",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://jobs.dsi.infn.it/dettagli_job.php?id=4718",
-  "us": false
- },
- {
   "a": "Two years; start Sep 2027",
   "added": "2026-11-12",
   "aud": [
@@ -14383,36 +14352,6 @@
   ],
   "u": "https://inspirehep.net/jobs/3194860",
   "unv": "The INSPIRE listing is closed (deadline field Oct 11, 2026); the ad says review continues until the position is filled.",
-  "us": false
- },
- {
-  "a": "£38,448-£46,970 per annum; fixed term 36 months from Jan 1, 2027 or shortly after",
-  "added": "2026-10-23",
-  "aud": [
-   "ng",
-   "yale"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-16",
-  "d": "2026-11-19",
-  "dt": "Closes Nov 19, 2026 (midnight UK); letters due two days after",
-  "e": "Leverhulme-funded postdoc on ATLAS studying joint polarisation of vector-boson-scattering weak boson pairs in the semileptonic channel, including new jet reconstruction/tagging algorithms. Open to PhD particle physicists; no citizenship restriction stated.",
-  "f": "University of Manchester, Department of Physics & Astronomy (Leverhulme Trust funded)",
-  "fields": [
-   "ppx"
-  ],
-  "id": "manchester-atlas-vbs-polarisation-ra",
-  "n": "University of Manchester: Research Associate in Particle Physics on ATLAS",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3217890",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=46288",
   "us": false
  },
  {
@@ -18393,9 +18332,9 @@
    "ap"
   ],
   "c": "Federal grant",
-  "checked": "2026-11-16",
-  "d": "2026-11-19",
-  "dt": "Required two-page concept outline by email to EFRI2027-2028@nsf.gov by Nov 19, 2026, 5 pm local time; full proposals, by program officer invitation only, due Feb 11, 2027, 5 pm local time. FY 2028 cycle: outline by Nov 16, 2027, full proposal by Feb 10, 2028.",
+  "checked": "2026-11-20",
+  "d": "2027-11-16",
+  "dt": "FY 2028 cycle: required concept outline by Nov 16, 2027, full proposal (by invitation) by Feb 10, 2028. The FY 2027 outline deadline (Nov 19, 2026) has passed; invited FY 2027 full proposals are due Feb 11, 2027.",
   "e": "Funds research on computing with waves (photonic, acoustic and other platforms, including nonlinear and quantum approaches; spin-wave computing is out of scope) through 2-year exploratory EAGER grants and 4-year grants to teams of three or more investigators. US universities and non-profits may apply; at a university the lead PI must be full-time tenured or tenure-track faculty, the PI or a co-PI must hold a tenured or tenure-track post in an engineering college or department, each person may be on only one proposal per fiscal year, and there is no citizenship restriction.",
   "f": "NSF",
   "fields": [
