@@ -7,9 +7,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-11-16",
- "d": "2026-11-19",
- "dt": "AJO deadline Nov 19, 2026; review began Nov 15 and continues until the position is filled",
+ "checked": "2026-11-20",
+ "d": null,
+ "dt": "AJO deadline was Nov 19, 2026; review began Nov 15 and continues until the position is filled",
  "e": "Named EPiQS-funded postdoc in theoretical condensed matter physics; fellows may collaborate with all CMTC faculty. Applicants are also considered for the CMTC postdoc. PhD in physics by the start date; no citizenship limit stated.",
  "f": "UC Berkeley, Department of Physics / Condensed Matter Theory Center (Moore Foundation EPiQS)",
  "fields": [
@@ -22,7 +22,7 @@
  "nom": false,
  "pt": "prize",
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:33353",
  "stages": [
   "pd"
