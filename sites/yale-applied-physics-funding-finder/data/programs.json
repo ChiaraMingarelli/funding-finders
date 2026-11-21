@@ -2876,31 +2876,6 @@
   "us": false
  },
  {
-  "a": "$60,000–$70,000/yr; start July 2027",
-  "added": "2026-10-03",
-  "c": "Group postdoc",
-  "checked": "2026-11-16",
-  "d": "2026-11-20",
-  "dt": "Full consideration by Nov 15, 2026; posting open until Nov 20, 2026; apply through CU Boulder Jobs",
-  "e": "Postdoc in condensed matter theory and many-body quantum information with the Boulder many-body quantum theory faculty (links to JILA and the Center for Theory of Quantum Matter).",
-  "f": "University of Colorado Boulder, Department of Physics (condensed matter theory)",
-  "fields": [
-   "cmt",
-   "qp"
-  ],
-  "id": "cu-boulder-cmt-qi-postdoc-2027",
-  "n": "CU Boulder: Postdoc in Quantum Condensed Matter Theory & Many-Body Quantum Information",
-  "nom": false,
-  "pt": "group",
-  "s": "open",
-  "src": "ajo:32933",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32933",
-  "us": false
- },
- {
   "a": "Postdoctoral position; salary not stated",
   "added": "2026-10-21",
   "c": "Group postdoc",
@@ -4209,38 +4184,6 @@
    "pd"
   ],
   "u": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Quantum-Postdoctoral-Researcher-for-3D-Cavity-Quantum-Hardware_R_009642",
-  "us": false
- },
- {
-  "a": "3-year postdoctoral appointment",
-  "added": "2026-09-29",
-  "asub": [
-   "cos"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-16",
-  "d": "2026-11-20",
-  "dt": "Nov 20, 2026, 11:59 pm ET (including letters); for appointments starting fall 2027",
-  "e": "Recent PhDs in particle theory, cosmology or quantum theory.",
-  "f": "Fermilab",
-  "fields": [
-   "ppt",
-   "astro",
-   "qp"
-  ],
-  "id": "fermilab-theory-division-research-associate",
-  "n": "Fermilab Theory Division Research Associate",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "ajo:32971",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32971",
-  "unv": "Salary not stated in the ad",
   "us": false
  },
  {
@@ -5831,35 +5774,6 @@
   ],
   "u": "https://jobs.inria.fr/public/classic/en/offres/2026-10243",
   "unv": "Salary not stated on the posting.",
-  "us": false
- },
- {
-  "a": "2 years; gross salary from EUR 3,040/month depending on experience",
-  "added": "2026-10-20",
-  "c": "Group postdoc",
-  "checked": "2026-11-16",
-  "d": "2026-11-20",
-  "dt": "Nov 20, 2026; flexible start",
-  "e": "Experimental postdoc developing the optomechanical part of a microwave-to-optical quantum transducer, with MPQ and CEA-Leti under the French Quantum Plan. Experience with optical measurements (nanophotonics or optomechanics) required; no citizenship restriction stated.",
-  "f": "Institut Néel, CNRS Grenoble, Superconducting Quantum Circuits group (Julien Renard, Jérémie Viennot)",
-  "fields": [
-   "qp",
-   "cmx",
-   "phot"
-  ],
-  "id": "institut-neel-microwave-optics-transduction-postdoc",
-  "n": "Institut Néel (CNRS Grenoble): Postdoc in quantum microwave-to-optics conversion",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "other:quantiki-neel-viennot-m2o",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://quantiki.org/position/postdoc-quantum-microwave-optics-conversion-cnrs",
-  "unv": "No official CNRS job-portal ad found; contact is by email to the PIs.",
   "us": false
  },
  {
@@ -15006,9 +14920,9 @@
   "a": "Supplemental financial award (amount not listed); up to two years",
   "added": "2026-10-13",
   "c": "Fellowship",
-  "checked": "2026-11-16",
-  "d": "2026-11-20",
-  "dt": "Applications, nomination letter and recommendation letters due Nov 20, 2026",
+  "checked": "2026-11-21",
+  "d": null,
+  "dt": "Last deadline Nov 20, 2026; the next cycle is not posted yet",
   "e": "Supplemental fellowship award for quantum-science postdocs who hold, or will start within a year, a postdoc appointment with a UIUC faculty member; requires a nomination letter from the sponsoring IQUIST PI and PhD within the last 5 years. Citizenship limits not stated.",
   "f": "University of Illinois Urbana-Champaign, Illinois Quantum Information Science and Technology Center (IQUIST)",
   "fields": [
@@ -15023,7 +14937,7 @@
   "nom": true,
   "pt": "prize",
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "src": "other:uiuc-iquist-postdoc-scholars",
   "stages": [
    "pd"
@@ -15814,9 +15728,9 @@
   "a": "$65,000–$70,000 anticipated hiring range",
   "added": "2026-10-27",
   "c": "Group postdoc",
-  "checked": "2026-11-16",
-  "d": "2026-11-20",
-  "dt": "Nov 20, 2026; review begins immediately and continues until filled",
+  "checked": "2026-11-21",
+  "d": null,
+  "dt": "Initial deadline Nov 20, 2026; review continues until the position is filled",
   "e": "Postdoc in the new CAMM MRSEC growing epitaxial quantum materials by molecular beam epitaxy with AI-guided synthesis, plus STM/STS, photoemission and transport measurements. Requires a PhD in physics or a related field and MBE experience.",
   "f": "University of Tennessee Knoxville, Department of Physics & Astronomy; Center for Advanced Materials and Manufacturing (NSF MRSEC)",
   "fields": [
@@ -15829,7 +15743,7 @@
   "nom": false,
   "pt": "group",
   "region": "US",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:33235",
   "stages": [
    "pd"

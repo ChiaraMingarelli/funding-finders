@@ -411,9 +411,8 @@
   "n": "Argonne National Laboratory: Postdoctoral Fellow in Nuclear Theory",
   "f": "Argonne National Laboratory, Physics Division Theory Group (Ian Cloët)",
   "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-11-20",
-  "dt": "Applications received by Nov 20, 2026 get fullest consideration (requisition #423584)",
+  "s": "rolling",
+  "dt": "Applications received by Nov 20, 2026 got fullest consideration; the Argonne ad (requisition #423584) is still posted and accepting applications",
   "a": "2 years, possible 3rd",
   "e": "Postdocs in QCD/hadron physics and nuclear structure and reactions, with emphasis on AI and quantum information science. PhD in theoretical physics required by the start, with no more than 5 years of postdoctoral experience.",
   "u": "https://inspirehep.net/jobs/3216123",
@@ -423,11 +422,12 @@
   "pt": "group",
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-11-16",
+  "checked": "2026-11-21",
   "added": "2026-10-20",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "argonne-postdoc-characterizing-high-pressure-melts-with",
@@ -1049,28 +1049,6 @@
   "dt": "Apply by Nov 21, 2026",
   "e": "Several postdoctoral fellows from Fall 2027 in theoretical physics (cosmology, phenomenology, QFT, quantum gravity, quantum information theory, strings), 2-3 years, extendable in exceptional cases up to 5. No citizenship restriction stated.",
   "u": "https://academicjobsonline.org/ajo/jobs/33012",
-  "unv": "Salary not stated (\"competitive\").",
-  "us": false,
-  "nom": false,
-  "pt": "group",
-  "region": "US",
-  "nfit": "Medium",
-  "checked": "2026-11-16",
-  "added": "2026-10-09",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "berkeley-litp-simons-axions-postdoc-2027",
-  "n": "UC Berkeley LITP: Postdoctoral Researcher, Simons Working Group on Axions",
-  "f": "University of California, Berkeley",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-11-20",
-  "dt": "Apply by Nov 20, 2026",
-  "e": "Postdoc up to 3 years from Fall 2027 with Benjamin Safdi in the Simons Working Group on Axions (astrophysical probes of axions: supernova simulations, black hole superradiance, cosmological simulations), with travel funds. No citizenship restriction stated.",
-  "u": "https://academicjobsonline.org/ajo/jobs/33011",
   "unv": "Salary not stated (\"competitive\").",
   "us": false,
   "nom": false,
@@ -2137,9 +2115,8 @@
   "n": "CNRS LAPTh: Postdoc in Theoretical Cosmology (dark matter & neutrinos with LSS)",
   "f": "CNRS, LAPTh Annecy, Astroparticle and Cosmology group (Azadeh Moradinezhad; co-lead Julien Lesgourgues, RWTH Aachen)",
   "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-11-20",
-  "dt": "2026/11/20 23:59:59 (time zone not stated on page) for full consideration; the position remains open until filled",
+  "s": "rolling",
+  "dt": "Full consideration for applications by Nov 20, 2026; the position remains open until filled",
   "a": "CNRS salary scale; 2 years",
   "e": "Probing dark matter and cosmic neutrinos with large-scale structure: perturbative bias modeling, N-body simulations, galaxy-survey analysis. Python and C required; start Oct 1, 2027.",
   "u": "https://academicjobsonline.org/ajo/jobs/32772",
@@ -2148,20 +2125,20 @@
   "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-11-16",
+  "checked": "2026-11-21",
   "added": "2026-09-30",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "cnrs-lapth-two-postdocs-in-simulation-based-inference-ls",
   "n": "CNRS LAPTh: Two Postdocs in Simulation-Based Inference (LSS & gamma rays)",
   "f": "CNRS, LAPTh Annecy, Astroparticle and Cosmology group (Francesca Calore, Azadeh Moradinezhad)",
   "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-11-20",
-  "dt": "2026/11/20 23:59:59 (time zone not stated on page)",
+  "s": "rolling",
+  "dt": "Full consideration for applications by Nov 20, 2026; the positions remain open until filled",
   "a": "USMB salary scale; one 2-year and one 3-year position",
   "e": "Joint simulation-based inference for large-scale structure and high-energy (gamma-ray) astrophysics. Strong programming and ML/SBI skills; start Oct 1, 2027.",
   "u": "https://academicjobsonline.org/ajo/jobs/32695",
@@ -2170,11 +2147,12 @@
   "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-11-16",
+  "checked": "2026-11-21",
   "added": "2026-09-30",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "code-astro-software-engineering-workshop",
@@ -3195,29 +3173,6 @@
    "pd"
   ],
   "d": null
- },
- {
-  "id": "fermilab-theory-division-research-associate",
-  "n": "Fermilab Theory Division Research Associate",
-  "f": "Fermilab",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-11-20",
-  "dt": "Nov 20, 2026, 11:59 pm ET (including letters); for appointments starting fall 2027",
-  "a": "3-year postdoctoral appointment",
-  "e": "Recent PhDs in particle theory, cosmology or quantum theory.",
-  "u": "https://academicjobsonline.org/ajo/jobs/32971",
-  "unv": "Salary not stated in the ad",
-  "us": false,
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "nfit": "Medium",
-  "checked": "2026-11-16",
-  "added": "2026-09-29",
-  "stages": [
-   "pd"
-  ]
  },
  {
   "id": "fermilab-wilson-fellowship-2027",
@@ -9722,8 +9677,7 @@
   "n": "CNRS LAPTh: Postdoc in Astroparticle Theory (Simons Working Group on Axions)",
   "f": "CNRS LAPTh (Annecy) / Simons Foundation",
   "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-11-20",
+  "s": "rolling",
   "dt": "Full consideration by Nov 20, 2026; open until filled",
   "a": "2 years, possibly 3; CNRS salary scale; start Oct 2027",
   "e": "Postdoc in axion phenomenology in dense astrophysical environments (supernovae, neutron stars, mergers), with emphasis on gamma-ray, gravitational-wave and multi-messenger signatures, in F. Calore's group. Open to PhDs in astrophysics, cosmology or related fields; no citizenship limit stated.",
@@ -9733,11 +9687,12 @@
   "pt": "group",
   "region": "International",
   "nfit": "Medium",
-  "checked": "2026-11-16",
+  "checked": "2026-11-21",
   "added": "2026-10-02",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "lbnl-als-soft-xray-reflectometry-postdoc-7581",
@@ -15120,8 +15075,8 @@
   "f": "University of Alberta, Department of Physics and Theoretical Physics Institute",
   "c": "Fellowship",
   "s": "open",
-  "d": "2026-11-20",
-  "dt": "Full consideration by Nov 20, 2026; applications accepted until Dec 1, 2026; first-round offers in January",
+  "d": "2026-12-01",
+  "dt": "Full consideration was by Nov 20, 2026; applications accepted until Dec 1, 2026; first-round offers in January",
   "a": "2 years, extendable to 3 subject to funding; salary not stated",
   "e": "McDonald Institute Theory Fellowship in theoretical astroparticle physics and dark matter phenomenology with Nassim Bozorgnia, starting fall 2027; top applicants go to the McDonald Institute theory evaluation committee. No citizenship limit is stated.",
   "u": "https://iaejup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/UOA-Careers/job/4570",
@@ -15131,7 +15086,7 @@
   "pt": "prize",
   "region": "Canada",
   "nfit": "Medium",
-  "checked": "2026-11-16",
+  "checked": "2026-11-21",
   "added": "2026-11-03",
   "stages": [
    "pd"
@@ -16063,9 +16018,8 @@
   "n": "UIUC IQUIST: Postdoctoral Scholars Program",
   "f": "University of Illinois Urbana-Champaign, Illinois Quantum Information Science and Technology Center (IQUIST)",
   "c": "Fellowship",
-  "s": "open",
-  "d": "2026-11-20",
-  "dt": "Applications, nomination letter and recommendation letters due Nov 20, 2026",
+  "s": "watch",
+  "dt": "Last deadline Nov 20, 2026; the next cycle is not posted yet",
   "a": "Supplemental financial award (amount not listed); up to two years",
   "e": "Supplemental fellowship award for quantum-science postdocs who hold, or will start within a year, a postdoc appointment with a UIUC faculty member; requires a nomination letter from the sponsoring IQUIST PI and PhD within the last 5 years. Citizenship limits not stated.",
   "u": "https://iquist.illinois.edu/about/employment/postdoctoral-scholars",
@@ -16075,11 +16029,12 @@
   "pt": "prize",
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-11-16",
+  "checked": "2026-11-21",
   "added": "2026-10-13",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "uiuc-postdoc-atlas-hep-ai-qi-neubauer",
@@ -16805,9 +16760,8 @@
   "n": "University of Tennessee Knoxville: Postdoctoral Research Associate, Low-Dimensional Quantum Materials (CAMM MRSEC)",
   "f": "University of Tennessee Knoxville, Department of Physics & Astronomy; Center for Advanced Materials and Manufacturing (NSF MRSEC)",
   "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-11-20",
-  "dt": "Nov 20, 2026; review begins immediately and continues until filled",
+  "s": "rolling",
+  "dt": "Initial deadline Nov 20, 2026; review continues until the position is filled",
   "a": "$65,000–$70,000 anticipated hiring range",
   "e": "Postdoc in the new CAMM MRSEC growing epitaxial quantum materials by molecular beam epitaxy with AI-guided synthesis, plus STM/STS, photoemission and transport measurements. Requires a PhD in physics or a related field and MBE experience.",
   "u": "https://academicjobsonline.org/ajo/jobs/33235",
@@ -16817,11 +16771,12 @@
   "pt": "group",
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-11-16",
+  "checked": "2026-11-21",
   "added": "2026-10-27",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "utokyo-resceu-project-researchers-2027",
