@@ -7,9 +7,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-11-16",
- "d": "2026-11-20",
- "dt": "Applications, nomination letter and recommendation letters due Nov 20, 2026",
+ "checked": "2026-11-21",
+ "d": null,
+ "dt": "Last deadline Nov 20, 2026; the next cycle is not posted yet",
  "e": "Supplemental fellowship award for quantum-science postdocs who hold, or will start within a year, a postdoc appointment with a UIUC faculty member; requires a nomination letter from the sponsoring IQUIST PI and PhD within the last 5 years. Citizenship limits not stated.",
  "f": "University of Illinois Urbana-Champaign, Illinois Quantum Information Science and Technology Center (IQUIST)",
  "fields": [
@@ -24,7 +24,7 @@
  "nom": true,
  "pt": "prize",
  "region": "US",
- "s": "open",
+ "s": "watch",
  "src": "other:uiuc-iquist-postdoc-scholars",
  "stages": [
   "pd"
