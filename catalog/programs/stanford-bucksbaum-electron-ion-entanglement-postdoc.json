@@ -1,0 +1,33 @@
+{
+ "a": "$80,000-$90,000",
+ "added": "2026-11-21",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-21",
+ "d": null,
+ "dt": "No deadline stated; start ASAP",
+ "e": "NSF-funded postdoc on electron-ion entanglement in strong-field photoionization of small molecules using bright squeezed light and coincidence detection, in a US-UK collaboration. Requires a PhD in physics, chemistry or optical sciences with hands-on intense ultrafast laser experience; apply by email.",
+ "f": "Stanford University, PULSE Institute (Philip Bucksbaum), with University of Arizona (Mohammed Hassan)",
+ "fields": [
+  "amo",
+  "phot"
+ ],
+ "id": "stanford-bucksbaum-electron-ion-entanglement-postdoc",
+ "n": "Stanford University: Postdoc in Electron-Ion Entanglement in Strong-Field Photoionization (Bucksbaum, PULSE)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:stanford-bucksbaum-pd",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-philip-bucksbaum",
+ "unv": "Posted Sep 21, 2026 (older than the sweep window, but not in catalog).",
+ "us": false
+}

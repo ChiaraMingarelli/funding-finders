@@ -1,0 +1,37 @@
+{
+ "a": "Not stated; up to three years",
+ "added": "2026-11-21",
+ "asub": [
+  "cos",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-21",
+ "d": "2027-01-10",
+ "dt": "Apply by January 10, 2027 via AJO e-delivery",
+ "e": "Two postdocs from Sept/Oct 2027 on probes of dark matter, including gravitational waves from dark-sector phase transitions, meson decays, colliders and relativistic dark matter. Requires a PhD in theoretical particle physics or a related field; no citizenship limit stated.",
+ "f": "Charles University, Institute of Particle and Nuclear Physics (PRIMUS project, Helena Kolesova)",
+ "fields": [
+  "ppt",
+  "grav"
+ ],
+ "id": "charles-u-prague-dark-matter-pheno-postdocs-2027",
+ "n": "Charles University (Prague): Postdocs in theoretical particle physics and dark matter phenomenology",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3231488",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/edelivery/6447",
+ "unv": "Salary not stated in the INSPIRE text.",
+ "us": false
+}

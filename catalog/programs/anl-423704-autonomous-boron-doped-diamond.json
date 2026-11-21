@@ -1,0 +1,34 @@
+{
+ "a": "$72,879-$121,465 expected hiring range",
+ "added": "2026-11-21",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-21",
+ "d": null,
+ "dt": "No deadline stated",
+ "e": "Two-year postdoc building a closed-loop autonomous CVD synthesis testbed for single-crystal boron-doped diamond in the Argonne Quantum Foundry, combining robotic hardware with Bayesian optimization and active learning. Open to recent PhDs in materials science, physics, chemical engineering, computer science or related fields; DOE access authorization may be required.",
+ "f": "Argonne National Laboratory, Materials Science Division and Q-NEXT (Argonne Quantum Foundry)",
+ "fields": [
+  "mat",
+  "qp",
+  "ds"
+ ],
+ "id": "anl-423704-autonomous-boron-doped-diamond",
+ "n": "Argonne National Laboratory: Postdoctoral Appointee, Autonomous Discovery of Boron-Doped Diamond",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:anl-423704-boron-doped-diamond",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Autonomous-Discovery-Boron-Doped-Diamond_423704",
+ "unv": "Posted Nov 16, 2026 per Workday.",
+ "us": false
+}

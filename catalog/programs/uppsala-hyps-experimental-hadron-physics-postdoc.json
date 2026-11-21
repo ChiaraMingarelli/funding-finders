@@ -1,0 +1,31 @@
+{
+ "a": "Not stated",
+ "added": "2026-11-21",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-21",
+ "d": "2027-01-15",
+ "dt": "Apply by January 15, 2027 via Uppsala recruitment system",
+ "e": "Postdoc on hyperon-nucleon interaction experiments with the HYPS collaboration at SPring-8 (Japan), including a two-month on-site visit in 2027 and data analysis in Uppsala. Requires a physics PhD, preferably within three years of the deadline, with hadron physics and data analysis background; no citizenship limit stated.",
+ "f": "Uppsala University, Department of Physics and Astronomy, Nuclear Physics Division (Karin Schonning)",
+ "fields": [
+  "nux"
+ ],
+ "id": "uppsala-hyps-experimental-hadron-physics-postdoc",
+ "n": "Uppsala University: Postdoc in experimental hadron physics (HYPS at SPring-8)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3231475",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=990674",
+ "unv": "Salary and appointment length not stated in the INSPIRE text; host page not opened.",
+ "us": false
+}

@@ -1,0 +1,34 @@
+{
+ "a": "GBP 40,178-48,700 (Grade 7)",
+ "added": "2026-11-21",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-21",
+ "d": "2026-11-30",
+ "dt": "Closing midday (UK) Nov 30, 2026",
+ "e": "Moore Foundation-funded senior postdoc building a quantum-optical platform (single-photon detection, photon correlations, tunable microcavities) to study non-classical light-matter interactions in fluorescent proteins in living bacteria. Open to PhDs in experimental physics, photonics or physical chemistry; international applicants welcome.",
+ "f": "University of Oxford, Department of Physics (Tristan Farrow; Sonia Contera)",
+ "fields": [
+  "amo",
+  "phot",
+  "bio"
+ ],
+ "id": "oxford-senior-pdra-quantum-optics-biophysics",
+ "n": "University of Oxford: Senior Postdoctoral Research Assistant in Experimental Quantum Optics and Quantum Biophysics",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:oxford-189888",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=189888",
+ "unv": "Posting date not seen.",
+ "us": false
+}

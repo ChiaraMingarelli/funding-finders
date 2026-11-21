@@ -1,0 +1,31 @@
+{
+ "a": "TV-L E13 (100%); two years initially",
+ "added": "2026-11-21",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-21",
+ "d": "2026-12-13",
+ "dt": "Preference for applications by December 13, 2026; open until filled",
+ "e": "ERC Starting Grant postdoc on precision QCD (parton showers, resummation, higher-order and multi-loop calculations) with development of the APOLLO shower in PYTHIA, start autumn 2027. Requires a PhD in particle physics by the start date; no citizenship limit stated.",
+ "f": "TU Dortmund University, High-Energy Theory group (Christian Preuss)",
+ "fields": [
+  "ppt"
+ ],
+ "id": "tu-dortmund-erc-prometheus-pqcd-postdoc",
+ "n": "TU Dortmund: ERC-funded postdoc in perturbative QCD and collider phenomenology (PROMETHEUS)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3231477",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3231477",
+ "unv": "No host ad URL; INSPIRE listing used. Ad says the department 'expects to open' the position. Apply by email to preuss@cern.ch.",
+ "us": false
+}

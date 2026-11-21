@@ -1,0 +1,37 @@
+{
+ "a": "$71,491-$85,736 (UC postdoc scale)",
+ "added": "2026-11-21",
+ "asub": [
+  "exo",
+  "inst"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-21",
+ "d": "2026-11-29",
+ "dt": "Next review Nov 29, 2026 (full consideration); final date Dec 14, 2026",
+ "e": "Two-year postdoc in high-contrast imaging of exoplanets: adaptive optics, wavefront sensing and control, coronagraphy, and technology development for the Habitable Worlds Observatory, starting spring 2027. Open to PhDs with no more than 3 years of postdoctoral experience at start; no citizenship limits stated.",
+ "f": "UC Berkeley, Department of Astronomy (Bottom group)",
+ "fields": [
+  "astro",
+  "inst"
+ ],
+ "id": "berkeley-astro-high-contrast-imaging-postdoc",
+ "n": "UC Berkeley: Postdoctoral Scholar, High Contrast Imaging (Department of Astronomy)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "other:berkeley-JPF05608",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://aprecruit.berkeley.edu/JPF05608",
+ "unv": "Opened Nov 13, 2026. Group named only as 'Bottom group' on the posting.",
+ "us": false
+}

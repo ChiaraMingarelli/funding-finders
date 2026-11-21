@@ -1,0 +1,33 @@
+{
+ "a": "Not stated",
+ "added": "2026-11-21",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-21",
+ "d": null,
+ "dt": "Open at least 5 days, then until filled; 2 reference letters required",
+ "e": "Up to 24-month postdoc developing scalable quantum simulation algorithms from tensor networks and multilinear representation theory, with applications from qubit engineering to condensed-matter and high-energy physics. Open to PhDs (within 5 years) in mathematics, CS, physics, chemistry or engineering.",
+ "f": "Oak Ridge National Laboratory, Quantum Computational Science Group (CSED)",
+ "fields": [
+  "qp",
+  "cmt"
+ ],
+ "id": "ornl-16262-qis-tensor-network-algorithms-postdoc",
+ "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Quantum Information Science (tensor networks and quantum algorithms)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:ornl-16262-qis-tensor-networks",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate%2C-Quantum-Information-Science-TN-37830/1383284300/",
+ "unv": "Listed Nov 13, 2026 on jobs.ornl.gov (requisition 16262).",
+ "us": false
+}

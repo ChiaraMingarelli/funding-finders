@@ -1,0 +1,36 @@
+{
+ "a": "Not stated",
+ "added": "2026-11-21",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-21",
+ "d": "2026-12-20",
+ "dt": "Full consideration by Dec 20, 2026; letters by Dec 27",
+ "e": "Two-year postdoc (possible third year) with M. Gerbino and M. Lattanzi on the cosmological phenomenology of axions and axion-like particles for CMB experiments and galaxy surveys such as the Simons Observatory and Euclid, funded by the QAXION project. No citizenship restriction is stated.",
+ "f": "INFN, Sezione di Ferrara (Cosmology Group)",
+ "fields": [
+  "astro",
+  "ppt"
+ ],
+ "id": "infn-ferrara-axion-cosmology-postdoc",
+ "n": "INFN Ferrara: Postdoc in axion cosmology",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33502",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33502",
+ "unv": "Salary not stated; start Fall 2027.",
+ "us": false
+}

@@ -1,0 +1,34 @@
+{
+ "a": "Not stated",
+ "added": "2026-11-21",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-21",
+ "d": null,
+ "dt": "Open until filled; start Jan 1, 2027",
+ "e": "One-year renewable postdoc on thin-film lithium niobate photonics, including hybrid optical-terahertz and electro-optic devices for frequency conversion, metrology, sensing and quantum technologies. Requires nanofabrication and photonics simulation skills; no citizenship limits stated.",
+ "f": "EPFL, Hybrid Photonics Laboratory",
+ "fields": [
+  "phot",
+  "qp",
+  "dev"
+ ],
+ "id": "epfl-hybrid-photonics-lithium-niobate-postdoc",
+ "n": "EPFL: Postdoc in Integrated Lithium Niobate Photonics (Hybrid Photonics Laboratory)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "rolling",
+ "src": "other:epfl-1165562255-lnoi",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://careers.epfl.ch/job/Lausanne-Postdoc-position-in-Integrated-Lithium-Niobate-Photonics/1165562255/",
+ "unv": "Posting date not stated; PI not named on page.",
+ "us": false
+}
