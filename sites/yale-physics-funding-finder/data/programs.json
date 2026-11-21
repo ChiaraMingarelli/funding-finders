@@ -664,6 +664,40 @@
   "us": false
  },
  {
+  "a": "$72,879-$121,465 expected hiring range",
+  "added": "2026-11-21",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": null,
+  "dt": "No deadline stated",
+  "e": "Two-year postdoc building a closed-loop autonomous CVD synthesis testbed for single-crystal boron-doped diamond in the Argonne Quantum Foundry, combining robotic hardware with Bayesian optimization and active learning. Open to recent PhDs in materials science, physics, chemical engineering, computer science or related fields; DOE access authorization may be required.",
+  "f": "Argonne National Laboratory, Materials Science Division and Q-NEXT (Argonne Quantum Foundry)",
+  "fields": [
+   "mat",
+   "qp",
+   "ds"
+  ],
+  "id": "anl-423704-autonomous-boron-doped-diamond",
+  "n": "Argonne National Laboratory: Postdoctoral Appointee, Autonomous Discovery of Boron-Doped Diamond",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:anl-423704-boron-doped-diamond",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Autonomous-Discovery-Boron-Doped-Diamond_423704",
+  "unv": "Posted Nov 16, 2026 per Workday.",
+  "us": false
+ },
+ {
   "a": "Up to $50k in Claude API credits per project",
   "added": "2026-09-29",
   "aud": [
@@ -2638,6 +2672,43 @@
   "us": false
  },
  {
+  "a": "$71,491-$85,736 (UC postdoc scale)",
+  "added": "2026-11-21",
+  "asub": [
+   "exo",
+   "inst"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": "2026-11-29",
+  "dt": "Next review Nov 29, 2026 (full consideration); final date Dec 14, 2026",
+  "e": "Two-year postdoc in high-contrast imaging of exoplanets: adaptive optics, wavefront sensing and control, coronagraphy, and technology development for the Habitable Worlds Observatory, starting spring 2027. Open to PhDs with no more than 3 years of postdoctoral experience at start; no citizenship limits stated.",
+  "f": "UC Berkeley, Department of Astronomy (Bottom group)",
+  "fields": [
+   "astro",
+   "inst"
+  ],
+  "id": "berkeley-astro-high-contrast-imaging-postdoc",
+  "n": "UC Berkeley: Postdoctoral Scholar, High Contrast Imaging (Department of Astronomy)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:berkeley-JPF05608",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://aprecruit.berkeley.edu/JPF05608",
+  "unv": "Opened Nov 13, 2026. Group named only as 'Bottom group' on the posting.",
+  "us": false
+ },
+ {
   "a": "Three years; competitive salary with subsidized benefits; start Aug or Sep 2027",
   "added": "2026-11-06",
   "aud": [
@@ -4398,6 +4469,43 @@
   "us": false
  },
  {
+  "a": "Not stated; up to three years",
+  "added": "2026-11-21",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": "2027-01-10",
+  "dt": "Apply by January 10, 2027 via AJO e-delivery",
+  "e": "Two postdocs from Sept/Oct 2027 on probes of dark matter, including gravitational waves from dark-sector phase transitions, meson decays, colliders and relativistic dark matter. Requires a PhD in theoretical particle physics or a related field; no citizenship limit stated.",
+  "f": "Charles University, Institute of Particle and Nuclear Physics (PRIMUS project, Helena Kolesova)",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "charles-u-prague-dark-matter-pheno-postdocs-2027",
+  "n": "Charles University (Prague): Postdocs in theoretical particle physics and dark matter phenomenology",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3231488",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/edelivery/6447",
+  "unv": "Salary not stated in the INSPIRE text.",
+  "us": false
+ },
+ {
   "a": "Up to €1,850/month (depending on other funding), round-trip airfare and health insurance support; 4+ months in France",
   "added": "2026-09-28",
   "aud": [
@@ -5253,6 +5361,39 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3138797",
+  "us": false
+ },
+ {
+  "a": "$65,000-$70,000",
+  "added": "2026-11-21",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": "2026-11-30",
+  "dt": "Full consideration date Nov 30, 2026, 11:59 pm MT",
+  "e": "Postdoc designing and simulating silicon-photonic devices, optoelectronic circuits and optical-link models, with chip tape-outs through academic foundries. Requires a PhD within 5 years in ECE, physics, optics/photonics or a related field; no citizenship limits stated.",
+  "f": "Colorado State University, Department of Electrical and Computer Engineering (ECSyD Laboratory)",
+  "fields": [
+   "phot",
+   "dev"
+  ],
+  "id": "csu-ece-integrated-photonics-optoelectronics-postdoc",
+  "n": "Colorado State University: Postdoctoral Fellow, Integrated Photonics and Optoelectronic Systems",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:csu-R2026108719-integrated-photonics",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://csusystem.wd12.myworkdayjobs.com/fortcollins_careers/job/Fort-Collins-CO/Postdoctoral-Fellow---Integrated-Photonics-and-Optoelectronic-Systems_R2026108719-1",
+  "unv": "Posted Nov 18, 2026 per Workday.",
   "us": false
  },
  {
@@ -6732,6 +6873,40 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33369",
   "unv": "Salary and appointment length not stated in the ad."
+ },
+ {
+  "a": "Not stated",
+  "added": "2026-11-21",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": null,
+  "dt": "Open until filled; start Jan 1, 2027",
+  "e": "One-year renewable postdoc on thin-film lithium niobate photonics, including hybrid optical-terahertz and electro-optic devices for frequency conversion, metrology, sensing and quantum technologies. Requires nanofabrication and photonics simulation skills; no citizenship limits stated.",
+  "f": "EPFL, Hybrid Photonics Laboratory",
+  "fields": [
+   "phot",
+   "qp",
+   "dev"
+  ],
+  "id": "epfl-hybrid-photonics-lithium-niobate-postdoc",
+  "n": "EPFL: Postdoc in Integrated Lithium Niobate Photonics (Hybrid Photonics Laboratory)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:epfl-1165562255-lnoi",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://careers.epfl.ch/job/Lausanne-Postdoc-position-in-Integrated-Lithium-Niobate-Photonics/1165562255/",
+  "unv": "Posting date not stated; PI not named on page.",
+  "us": false
  },
  {
   "a": "See host institution",
@@ -10833,6 +11008,42 @@
   "us": false
  },
  {
+  "a": "Not stated",
+  "added": "2026-11-21",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": "2026-12-20",
+  "dt": "Full consideration by Dec 20, 2026; letters by Dec 27",
+  "e": "Two-year postdoc (possible third year) with M. Gerbino and M. Lattanzi on the cosmological phenomenology of axions and axion-like particles for CMB experiments and galaxy surveys such as the Simons Observatory and Euclid, funded by the QAXION project. No citizenship restriction is stated.",
+  "f": "INFN, Sezione di Ferrara (Cosmology Group)",
+  "fields": [
+   "astro",
+   "ppt"
+  ],
+  "id": "infn-ferrara-axion-cosmology-postdoc",
+  "n": "INFN Ferrara: Postdoc in axion cosmology",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33502",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33502",
+  "unv": "Salary not stated; start Fall 2027.",
+  "us": false
+ },
+ {
   "a": "Two years; start Sep 2027",
   "added": "2026-11-12",
   "aud": [
@@ -10923,6 +11134,40 @@
   ],
   "u": "https://jobs.inria.fr/public/classic/en/offres/2026-10243",
   "unv": "Salary not stated on the posting.",
+  "us": false
+ },
+ {
+  "a": "Not stated",
+  "added": "2026-11-21",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": "2027-01-12",
+  "dt": "Review began Nov 20, 2026; closing date Jan 12, 2027",
+  "e": "Postdoc or PhD position in THz photonics in Varennes, Quebec: THz light-matter interactions and cavity QED with 2D materials, intense broadband THz sources, and high-speed THz imaging, starting spring/summer 2027. Postdoc applicants need a relevant PhD by the start date; no citizenship limits stated.",
+  "f": "Institut national de la recherche scientifique (INRS), Centre Energie Materiaux Telecommunications (Luca Razzari)",
+  "fields": [
+   "phot",
+   "amo",
+   "mat"
+  ],
+  "id": "inrs-emt-razzari-terahertz-photonics-postdoc",
+  "n": "INRS-EMT: Postdoc (or PhD) in Terahertz Photonics (Razzari group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "open",
+  "src": "other:inrs-razzari-thz",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.nature.com/naturecareers/job/12866769/phd-or-postdoctoral-research-position-in-terahertz-photonics",
+  "unv": "Official INRS page not found; Nature Careers listing used. Posting date not stated.",
   "us": false
  },
  {
@@ -16062,6 +16307,40 @@
   "us": false
  },
  {
+  "a": "Not stated (Danish state academic agreement; supplement negotiable)",
+  "added": "2026-11-21",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": "2026-11-24",
+  "dt": "Deadline Nov 24, 2026, 23:59 CET",
+  "e": "Two-year senior postdoc developing superconducting nanowire single-photon detectors integrated into photonic circuits to process photons from silicon quantum emitters, starting Feb 1, 2027. Requires a PhD plus postdoc experience with SNSPD fabrication, quantum photonics and cryogenics; no citizenship limits stated.",
+  "f": "University of Copenhagen, Niels Bohr Institute, NNF Quantum Computing Programme (Photonic Control and Readout team)",
+  "fields": [
+   "qp",
+   "phot",
+   "dev"
+  ],
+  "id": "nbi-nqcp-senior-postdoc-snspds",
+  "n": "University of Copenhagen (Niels Bohr Institute): Senior Postdoc, SNSPDs",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:ku-172581-snspd",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://employment.ku.dk/all-vacancies/?show=172581",
+  "unv": "Posting date not seen.",
+  "us": false
+ },
+ {
   "a": null,
   "added": "2026-11-10",
   "aud": [
@@ -20247,6 +20526,39 @@
   "us": false
  },
  {
+  "a": "Not stated",
+  "added": "2026-11-21",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": null,
+  "dt": "Open at least 5 days, then until filled; 2 reference letters required",
+  "e": "Up to 24-month postdoc developing scalable quantum simulation algorithms from tensor networks and multilinear representation theory, with applications from qubit engineering to condensed-matter and high-energy physics. Open to PhDs (within 5 years) in mathematics, CS, physics, chemistry or engineering.",
+  "f": "Oak Ridge National Laboratory, Quantum Computational Science Group (CSED)",
+  "fields": [
+   "qp",
+   "cmt"
+  ],
+  "id": "ornl-16262-qis-tensor-network-algorithms-postdoc",
+  "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Quantum Information Science (tensor networks and quantum algorithms)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-16262-qis-tensor-networks",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate%2C-Quantum-Information-Science-TN-37830/1383284300/",
+  "unv": "Listed Nov 13, 2026 on jobs.ornl.gov (requisition 16262).",
+  "us": false
+ },
+ {
   "added": "2026-10-17",
   "aud": [
    "yale",
@@ -20815,6 +21127,40 @@
    "pd"
   ],
   "u": "https://www.maths.ox.ac.uk/node/86241",
+  "us": false
+ },
+ {
+  "a": "GBP 40,178-48,700 (Grade 7)",
+  "added": "2026-11-21",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": "2026-11-30",
+  "dt": "Closing midday (UK) Nov 30, 2026",
+  "e": "Moore Foundation-funded senior postdoc building a quantum-optical platform (single-photon detection, photon correlations, tunable microcavities) to study non-classical light-matter interactions in fluorescent proteins in living bacteria. Open to PhDs in experimental physics, photonics or physical chemistry; international applicants welcome.",
+  "f": "University of Oxford, Department of Physics (Tristan Farrow; Sonia Contera)",
+  "fields": [
+   "amo",
+   "phot",
+   "bio"
+  ],
+  "id": "oxford-senior-pdra-quantum-optics-biophysics",
+  "n": "University of Oxford: Senior Postdoctoral Research Assistant in Experimental Quantum Optics and Quantum Biophysics",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:oxford-189888",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=189888",
+  "unv": "Posting date not seen.",
   "us": false
  },
  {
@@ -23907,6 +24253,39 @@
   "us": false
  },
  {
+  "a": "$80,000-$90,000",
+  "added": "2026-11-21",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": null,
+  "dt": "No deadline stated; start ASAP",
+  "e": "NSF-funded postdoc on electron-ion entanglement in strong-field photoionization of small molecules using bright squeezed light and coincidence detection, in a US-UK collaboration. Requires a PhD in physics, chemistry or optical sciences with hands-on intense ultrafast laser experience; apply by email.",
+  "f": "Stanford University, PULSE Institute (Philip Bucksbaum), with University of Arizona (Mohammed Hassan)",
+  "fields": [
+   "amo",
+   "phot"
+  ],
+  "id": "stanford-bucksbaum-electron-ion-entanglement-postdoc",
+  "n": "Stanford University: Postdoc in Electron-Ion Entanglement in Strong-Field Photoionization (Bucksbaum, PULSE)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:stanford-bucksbaum-pd",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-philip-bucksbaum",
+  "unv": "Posted Sep 21, 2026 (older than the sweep window, but not in catalog).",
+  "us": false
+ },
+ {
   "a": "$80,000/yr salary plus $5,000/yr discretionary funds; 2 years (offers expected early spring 2027)",
   "added": "2026-10-03",
   "aud": [
@@ -25301,6 +25680,37 @@
   "us": false
  },
  {
+  "a": "TV-L E13 (100%); two years initially",
+  "added": "2026-11-21",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": "2026-12-13",
+  "dt": "Preference for applications by December 13, 2026; open until filled",
+  "e": "ERC Starting Grant postdoc on precision QCD (parton showers, resummation, higher-order and multi-loop calculations) with development of the APOLLO shower in PYTHIA, start autumn 2027. Requires a PhD in particle physics by the start date; no citizenship limit stated.",
+  "f": "TU Dortmund University, High-Energy Theory group (Christian Preuss)",
+  "fields": [
+   "ppt"
+  ],
+  "id": "tu-dortmund-erc-prometheus-pqcd-postdoc",
+  "n": "TU Dortmund: ERC-funded postdoc in perturbative QCD and collider phenomenology (PROMETHEUS)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3231477",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3231477",
+  "unv": "No host ad URL; INSPIRE listing used. Ad says the department 'expects to open' the position. Apply by email to preuss@cern.ch.",
+  "us": false
+ },
+ {
   "a": "TV-L 13; 36 months from Jan 2027, extension possible",
   "added": "2026-10-23",
   "aud": [
@@ -25661,6 +26071,38 @@
   ],
   "u": "https://inspirehep.net/jobs/3205034",
   "unv": "INSPIRE now lists this job as closed (deadline field Oct 9, 2026), but the ad itself says the positions remain open until filled; applications go by email to Alan Robinson.",
+  "us": false
+ },
+ {
+  "a": "Not stated (competitive net salary); two years, extendable",
+  "added": "2026-11-21",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": "2026-12-18",
+  "dt": "Deadline December 18, 2026 (per INSPIRE); online expression-of-interest form plus three letters by email",
+  "e": "Several postdocs on conformal field theory, bootstrap methods, strongly coupled QFT and scattering amplitudes, with applications to high-energy and condensed matter physics; preferred start Fall 2027. Requires a PhD in physics (or near completion); no citizenship limit stated.",
+  "f": "University of Pisa, Department of Physics (Alessandro Vichi group, FIS Advanced Grant)",
+  "fields": [
+   "ppt",
+   "cmt"
+  ],
+  "id": "u-pisa-cft-qft-bootstrap-postdocs-2027",
+  "n": "University of Pisa: Postdoctoral positions in theoretical physics (CFT, QFT and bootstrap)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3231470",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3231470",
+  "unv": "Deadline taken from the INSPIRE deadline field; the ad text itself gives no date. No host ad URL.",
   "us": false
  },
  {
@@ -28957,6 +29399,37 @@
   "us": false
  },
  {
+  "a": "Not stated",
+  "added": "2026-11-21",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": "2027-01-15",
+  "dt": "Apply by January 15, 2027 via Uppsala recruitment system",
+  "e": "Postdoc on hyperon-nucleon interaction experiments with the HYPS collaboration at SPring-8 (Japan), including a two-month on-site visit in 2027 and data analysis in Uppsala. Requires a physics PhD, preferably within three years of the deadline, with hadron physics and data analysis background; no citizenship limit stated.",
+  "f": "Uppsala University, Department of Physics and Astronomy, Nuclear Physics Division (Karin Schonning)",
+  "fields": [
+   "nux"
+  ],
+  "id": "uppsala-hyps-experimental-hadron-physics-postdoc",
+  "n": "Uppsala University: Postdoc in experimental hadron physics (HYPS at SPring-8)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3231475",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=990674",
+  "unv": "Salary and appointment length not stated in the INSPIRE text; host page not opened.",
+  "us": false
+ },
+ {
   "a": "Start Sep 1, 2027",
   "added": "2026-11-12",
   "asub": [
@@ -30173,6 +30646,38 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33264",
   "unv": "AJO lists no formal deadline; salary and appointment length not stated.",
+  "us": false
+ },
+ {
+  "a": "CHF 103,170 per year; 1+1 years, extendable",
+  "added": "2026-11-21",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": "2027-01-07",
+  "dt": "Full consideration for applications received before January 7, 2027 (by email)",
+  "e": "Postdoc applying machine learning and optimisation to Future Circular Collider detector design and to industrial planning problems (container shipping, supply chains) under an SNSF-Innosuisse BRIDGE project. Requires a PhD in physics, computer science, applied mathematics, operations research or related field; no citizenship limit stated.",
+  "f": "University of Zurich, Department of Physics (Nicola Serra group, with Alessio Figalli at ETH Zurich)",
+  "fields": [
+   "ppx",
+   "ds"
+  ],
+  "id": "uzh-serra-ml-complex-systems-postdoc",
+  "n": "University of Zurich: Postdoc in machine learning for complex systems (FCC detector design and industry)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3231478",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3231478",
+  "unv": "No host ad URL; INSPIRE listing used. Apply by email to nicola.serra+postdoc-applications@uzh.ch.",
   "us": false
  },
  {

@@ -498,6 +498,35 @@
   "us": true
  },
  {
+  "a": "$72,879-$121,465 expected hiring range",
+  "added": "2026-11-21",
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": null,
+  "dt": "No deadline stated",
+  "e": "Two-year postdoc building a closed-loop autonomous CVD synthesis testbed for single-crystal boron-doped diamond in the Argonne Quantum Foundry, combining robotic hardware with Bayesian optimization and active learning. Open to recent PhDs in materials science, physics, chemical engineering, computer science or related fields; DOE access authorization may be required.",
+  "f": "Argonne National Laboratory, Materials Science Division and Q-NEXT (Argonne Quantum Foundry)",
+  "fields": [
+   "mat",
+   "qp",
+   "ds"
+  ],
+  "id": "anl-423704-autonomous-boron-doped-diamond",
+  "n": "Argonne National Laboratory: Postdoctoral Appointee, Autonomous Discovery of Boron-Doped Diamond",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:anl-423704-boron-doped-diamond",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Autonomous-Discovery-Boron-Doped-Diamond_423704",
+  "unv": "Posted Nov 16, 2026 per Workday.",
+  "us": false
+ },
+ {
   "a": "Up to $50k in Claude API credits per project",
   "added": "2026-09-29",
   "c": "Compute",
@@ -2825,6 +2854,34 @@
   "us": false
  },
  {
+  "a": "$65,000-$70,000",
+  "added": "2026-11-21",
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": "2026-11-30",
+  "dt": "Full consideration date Nov 30, 2026, 11:59 pm MT",
+  "e": "Postdoc designing and simulating silicon-photonic devices, optoelectronic circuits and optical-link models, with chip tape-outs through academic foundries. Requires a PhD within 5 years in ECE, physics, optics/photonics or a related field; no citizenship limits stated.",
+  "f": "Colorado State University, Department of Electrical and Computer Engineering (ECSyD Laboratory)",
+  "fields": [
+   "phot",
+   "dev"
+  ],
+  "id": "csu-ece-integrated-photonics-optoelectronics-postdoc",
+  "n": "Colorado State University: Postdoctoral Fellow, Integrated Photonics and Optoelectronic Systems",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:csu-R2026108719-integrated-photonics",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://csusystem.wd12.myworkdayjobs.com/fortcollins_careers/job/Fort-Collins-CO/Postdoctoral-Fellow---Integrated-Photonics-and-Optoelectronic-Systems_R2026108719-1",
+  "unv": "Posted Nov 18, 2026 per Workday.",
+  "us": false
+ },
+ {
   "a": "Up to 2 positions; employment contract at PLN 9,700 gross/month, funded to the end of 2029",
   "added": "2026-10-21",
   "c": "Training",
@@ -4107,6 +4164,35 @@
   ],
   "u": "https://www.electrochem.org/travel-grants",
   "unv": "Award amounts and the 251st meeting dates and location were not listed on the travel-grant page",
+  "us": false
+ },
+ {
+  "a": "Not stated",
+  "added": "2026-11-21",
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": null,
+  "dt": "Open until filled; start Jan 1, 2027",
+  "e": "One-year renewable postdoc on thin-film lithium niobate photonics, including hybrid optical-terahertz and electro-optic devices for frequency conversion, metrology, sensing and quantum technologies. Requires nanofabrication and photonics simulation skills; no citizenship limits stated.",
+  "f": "EPFL, Hybrid Photonics Laboratory",
+  "fields": [
+   "phot",
+   "qp",
+   "dev"
+  ],
+  "id": "epfl-hybrid-photonics-lithium-niobate-postdoc",
+  "n": "EPFL: Postdoc in Integrated Lithium Niobate Photonics (Hybrid Photonics Laboratory)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:epfl-1165562255-lnoi",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://careers.epfl.ch/job/Lausanne-Postdoc-position-in-Integrated-Lithium-Niobate-Photonics/1165562255/",
+  "unv": "Posting date not stated; PI not named on page.",
   "us": false
  },
  {
@@ -5774,6 +5860,35 @@
   ],
   "u": "https://jobs.inria.fr/public/classic/en/offres/2026-10243",
   "unv": "Salary not stated on the posting.",
+  "us": false
+ },
+ {
+  "a": "Not stated",
+  "added": "2026-11-21",
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": "2027-01-12",
+  "dt": "Review began Nov 20, 2026; closing date Jan 12, 2027",
+  "e": "Postdoc or PhD position in THz photonics in Varennes, Quebec: THz light-matter interactions and cavity QED with 2D materials, intense broadband THz sources, and high-speed THz imaging, starting spring/summer 2027. Postdoc applicants need a relevant PhD by the start date; no citizenship limits stated.",
+  "f": "Institut national de la recherche scientifique (INRS), Centre Energie Materiaux Telecommunications (Luca Razzari)",
+  "fields": [
+   "phot",
+   "amo",
+   "mat"
+  ],
+  "id": "inrs-emt-razzari-terahertz-photonics-postdoc",
+  "n": "INRS-EMT: Postdoc (or PhD) in Terahertz Photonics (Razzari group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "open",
+  "src": "other:inrs-razzari-thz",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.nature.com/naturecareers/job/12866769/phd-or-postdoctoral-research-position-in-terahertz-photonics",
+  "unv": "Official INRS page not found; Nature Careers listing used. Posting date not stated.",
   "us": false
  },
  {
@@ -7725,6 +7840,35 @@
    "pd"
   ],
   "u": "https://employment.ku.dk/all-vacancies/?show=172247",
+  "us": false
+ },
+ {
+  "a": "Not stated (Danish state academic agreement; supplement negotiable)",
+  "added": "2026-11-21",
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": "2026-11-24",
+  "dt": "Deadline Nov 24, 2026, 23:59 CET",
+  "e": "Two-year senior postdoc developing superconducting nanowire single-photon detectors integrated into photonic circuits to process photons from silicon quantum emitters, starting Feb 1, 2027. Requires a PhD plus postdoc experience with SNSPD fabrication, quantum photonics and cryogenics; no citizenship limits stated.",
+  "f": "University of Copenhagen, Niels Bohr Institute, NNF Quantum Computing Programme (Photonic Control and Readout team)",
+  "fields": [
+   "qp",
+   "phot",
+   "dev"
+  ],
+  "id": "nbi-nqcp-senior-postdoc-snspds",
+  "n": "University of Copenhagen (Niels Bohr Institute): Senior Postdoc, SNSPDs",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:ku-172581-snspd",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://employment.ku.dk/all-vacancies/?show=172581",
+  "unv": "Posting date not seen.",
   "us": false
  },
  {
@@ -11226,6 +11370,34 @@
   "us": false
  },
  {
+  "a": "Not stated",
+  "added": "2026-11-21",
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": null,
+  "dt": "Open at least 5 days, then until filled; 2 reference letters required",
+  "e": "Up to 24-month postdoc developing scalable quantum simulation algorithms from tensor networks and multilinear representation theory, with applications from qubit engineering to condensed-matter and high-energy physics. Open to PhDs (within 5 years) in mathematics, CS, physics, chemistry or engineering.",
+  "f": "Oak Ridge National Laboratory, Quantum Computational Science Group (CSED)",
+  "fields": [
+   "qp",
+   "cmt"
+  ],
+  "id": "ornl-16262-qis-tensor-network-algorithms-postdoc",
+  "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Quantum Information Science (tensor networks and quantum algorithms)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-16262-qis-tensor-networks",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate%2C-Quantum-Information-Science-TN-37830/1383284300/",
+  "unv": "Listed Nov 13, 2026 on jobs.ornl.gov (requisition 16262).",
+  "us": false
+ },
+ {
   "added": "2026-10-17",
   "c": "Group postdoc",
   "checked": "2026-10-17",
@@ -11251,6 +11423,34 @@
   ],
   "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Photonic-Quantum-Sensing-and-Computing-TN-37830/1434743800/",
   "unv": "ORNL jobs site unreachable on Oct 21, Oct 26, Nov 2, Nov 9 and Nov 16, 2026 (TLS error / HTTP 503), so the posting was not rechecked.",
+  "us": false
+ },
+ {
+  "a": "Not stated",
+  "added": "2026-11-21",
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": null,
+  "dt": "Open until filled",
+  "e": "Postdoc developing Fabry-Perot fiber-optic sensors to measure creep, deformation and corrosion of nuclear materials in harsh high-temperature environments. Requires a PhD within 5 years in physics, optical/electrical or nuclear engineering; no visa sponsorship and export-control eligibility required.",
+  "f": "Oak Ridge National Laboratory, Nuclear and Extreme Environment Measurement Group",
+  "fields": [
+   "phot",
+   "inst"
+  ],
+  "id": "ornl-17149-optical-fiber-sensing-postdoc",
+  "n": "Oak Ridge National Laboratory: Postdoctoral Research Associate, Optical Fiber Sensing",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-17149-optical-fiber-sensing",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate%2C-Optical-Fiber-Sensing-TN-37830/1433550900/",
+  "unv": "Listed Nov 21, 2026 on jobs.ornl.gov (requisition 17149).",
   "us": false
  },
  {
@@ -11673,6 +11873,35 @@
    "pd"
   ],
   "u": "https://www.maths.ox.ac.uk/node/86241",
+  "us": false
+ },
+ {
+  "a": "GBP 40,178-48,700 (Grade 7)",
+  "added": "2026-11-21",
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": "2026-11-30",
+  "dt": "Closing midday (UK) Nov 30, 2026",
+  "e": "Moore Foundation-funded senior postdoc building a quantum-optical platform (single-photon detection, photon correlations, tunable microcavities) to study non-classical light-matter interactions in fluorescent proteins in living bacteria. Open to PhDs in experimental physics, photonics or physical chemistry; international applicants welcome.",
+  "f": "University of Oxford, Department of Physics (Tristan Farrow; Sonia Contera)",
+  "fields": [
+   "amo",
+   "phot",
+   "bio"
+  ],
+  "id": "oxford-senior-pdra-quantum-optics-biophysics",
+  "n": "University of Oxford: Senior Postdoctoral Research Assistant in Experimental Quantum Optics and Quantum Biophysics",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:oxford-189888",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=189888",
+  "unv": "Posting date not seen.",
   "us": false
  },
  {
@@ -13695,6 +13924,62 @@
   ],
   "u": "https://www-ssrl.slac.stanford.edu/ssrl/web/user-services/proposal-submission-procedures",
   "unv": "Next X-ray/VUV deadline (May 1, 2027) follows the fixed annual dates on the page (May 1, Aug 1, Oct 1; crystallography Apr 1, Jul 1, Dec 1); user fees not confirmed.",
+  "us": false
+ },
+ {
+  "a": "$80,000-$90,000",
+  "added": "2026-11-21",
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": null,
+  "dt": "No deadline stated; start ASAP",
+  "e": "NSF-funded postdoc on electron-ion entanglement in strong-field photoionization of small molecules using bright squeezed light and coincidence detection, in a US-UK collaboration. Requires a PhD in physics, chemistry or optical sciences with hands-on intense ultrafast laser experience; apply by email.",
+  "f": "Stanford University, PULSE Institute (Philip Bucksbaum), with University of Arizona (Mohammed Hassan)",
+  "fields": [
+   "amo",
+   "phot"
+  ],
+  "id": "stanford-bucksbaum-electron-ion-entanglement-postdoc",
+  "n": "Stanford University: Postdoc in Electron-Ion Entanglement in Strong-Field Photoionization (Bucksbaum, PULSE)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:stanford-bucksbaum-pd",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-philip-bucksbaum",
+  "unv": "Posted Sep 21, 2026 (older than the sweep window, but not in catalog).",
+  "us": false
+ },
+ {
+  "a": "$79,056 (Stanford FY27 postdoc minimum)",
+  "added": "2026-11-21",
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": null,
+  "dt": "No deadline stated; 1-year term from Jan 1, 2027",
+  "e": "One-year postdoc designing, modeling and fabricating structural-color optical elements in nanoscale materials. Open to PhDs in EE, materials science, physics or related fields; apply by email.",
+  "f": "Stanford University, Electrical Engineering (Dan Congreve)",
+  "fields": [
+   "phot",
+   "mat"
+  ],
+  "id": "stanford-congreve-structural-color-postdoc",
+  "n": "Stanford University: Postdoc in Structural Color Nanomaterials (Congreve lab)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:stanford-congreve-pd",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-dan-congreve",
+  "unv": "Posted Oct 19, 2026.",
   "us": false
  },
  {

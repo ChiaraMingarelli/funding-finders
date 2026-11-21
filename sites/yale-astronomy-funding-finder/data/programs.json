@@ -1149,6 +1149,38 @@
   "us": false
  },
  {
+  "a": "$71,491-$85,736 (UC postdoc scale)",
+  "added": "2026-11-21",
+  "asub": [
+   "exo",
+   "inst"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": "2026-11-29",
+  "dt": "Next review Nov 29, 2026 (full consideration); final date Dec 14, 2026",
+  "e": "Two-year postdoc in high-contrast imaging of exoplanets: adaptive optics, wavefront sensing and control, coronagraphy, and technology development for the Habitable Worlds Observatory, starting spring 2027. Open to PhDs with no more than 3 years of postdoctoral experience at start; no citizenship limits stated.",
+  "f": "UC Berkeley, Department of Astronomy (Bottom group)",
+  "fields": [
+   "astro",
+   "inst"
+  ],
+  "id": "berkeley-astro-high-contrast-imaging-postdoc",
+  "n": "UC Berkeley: Postdoctoral Scholar, High Contrast Imaging (Department of Astronomy)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:berkeley-JPF05608",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://aprecruit.berkeley.edu/JPF05608",
+  "unv": "Opened Nov 13, 2026. Group named only as 'Bottom group' on the posting.",
+  "us": false
+ },
+ {
   "a": "",
   "added": "2026-10-09",
   "asub": [
@@ -2072,6 +2104,38 @@
   ],
   "u": "https://cxc.harvard.edu/proposer/Chandra_RfO.html",
   "unv": "The page does not state who may be PI (no nationality limit is mentioned) or whether students may be PI.",
+  "us": false
+ },
+ {
+  "a": "Not stated; up to three years",
+  "added": "2026-11-21",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": "2027-01-10",
+  "dt": "Apply by January 10, 2027 via AJO e-delivery",
+  "e": "Two postdocs from Sept/Oct 2027 on probes of dark matter, including gravitational waves from dark-sector phase transitions, meson decays, colliders and relativistic dark matter. Requires a PhD in theoretical particle physics or a related field; no citizenship limit stated.",
+  "f": "Charles University, Institute of Particle and Nuclear Physics (PRIMUS project, Helena Kolesova)",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "charles-u-prague-dark-matter-pheno-postdocs-2027",
+  "n": "Charles University (Prague): Postdocs in theoretical particle physics and dark matter phenomenology",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3231488",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/edelivery/6447",
+  "unv": "Salary not stated in the INSPIRE text.",
   "us": false
  },
  {
@@ -5745,6 +5809,37 @@
    "pd"
   ],
   "u": "https://www.tng.iac.es/news/2026/10/23/aot55/",
+  "us": false
+ },
+ {
+  "a": "Not stated",
+  "added": "2026-11-21",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-21",
+  "d": "2026-12-20",
+  "dt": "Full consideration by Dec 20, 2026; letters by Dec 27",
+  "e": "Two-year postdoc (possible third year) with M. Gerbino and M. Lattanzi on the cosmological phenomenology of axions and axion-like particles for CMB experiments and galaxy surveys such as the Simons Observatory and Euclid, funded by the QAXION project. No citizenship restriction is stated.",
+  "f": "INFN, Sezione di Ferrara (Cosmology Group)",
+  "fields": [
+   "astro",
+   "ppt"
+  ],
+  "id": "infn-ferrara-axion-cosmology-postdoc",
+  "n": "INFN Ferrara: Postdoc in axion cosmology",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33502",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33502",
+  "unv": "Salary not stated; start Fall 2027.",
   "us": false
  },
  {
