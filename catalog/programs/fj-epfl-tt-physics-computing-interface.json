@@ -1,0 +1,30 @@
+{
+ "a": "Tenure-track assistant professor; salary described as competitive",
+ "added": "2026-11-22",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-22",
+ "d": "2026-12-15",
+ "dt": "Apply by Dec 15, 2026",
+ "e": "Joint IC/SB tenure-track post in areas including quantum information, AI for physics, the physics of machine learning and scientific computing. No citizenship limit stated.",
+ "f": "EPFL, School of Computer and Communication Sciences (IC) and School of Basic Sciences (SB)",
+ "fields": [
+  "qp",
+  "ds"
+ ],
+ "id": "fj-epfl-tt-physics-computing-interface",
+ "n": "EPFL: Tenure-Track Assistant Professor at the Interface of Physics and Computing",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "other:epfl-65863687",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://facultyrecruiting.epfl.ch/position/65863687",
+ "unv": "Details taken from the Quantiki listing; the EPFL portal page was not opened.",
+ "us": false
+}
