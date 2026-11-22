@@ -1,0 +1,31 @@
+{
+ "a": "PLN 140,000 gross per year plus about PLN 15,000 per year travel; 2 years from Sep 2027",
+ "added": "2026-11-22",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-22",
+ "d": "2026-12-03",
+ "dt": "Full consideration by Dec 3, 2026; later applications considered until filled. Apply by email",
+ "e": "Two-year postdoc on phenomenology and global extraction of generalised parton distributions (NCN SONATA-BIS project). Requires a PhD in theoretical high-energy or nuclear physics with QCD experience.",
+ "f": "National Centre for Nuclear Research (NCBJ), Theoretical Physics Division (Pawel Sznajder)",
+ "fields": [
+  "nut",
+  "ppt"
+ ],
+ "id": "ncbj-warsaw-gpd-qcd-postdoc-2027",
+ "n": "NCBJ Warsaw: Postdoc in QCD, Generalised Parton Distributions",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3230875",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3230875",
+ "us": false
+}

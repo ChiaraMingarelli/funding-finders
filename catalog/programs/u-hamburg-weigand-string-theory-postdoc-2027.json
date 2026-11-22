@@ -1,0 +1,31 @@
+{
+ "a": "3 years from fall 2027; travel funds; small teaching load",
+ "added": "2026-11-22",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-22",
+ "d": "2026-12-15",
+ "dt": "Apply by Dec 15, 2026 via the DESY platform (select String Theory (UNI HH)); three referees named",
+ "e": "Postdoc in string compactifications, string geometry and string phenomenology in Timo Weigand's group, including quantum gravity and string cosmology. Requires a doctorate in theoretical physics or mathematics; no citizenship limit stated.",
+ "f": "University of Hamburg / DESY, Cluster of Excellence Quantum Universe (Timo Weigand)",
+ "fields": [
+  "ppt"
+ ],
+ "id": "u-hamburg-weigand-string-theory-postdoc-2027",
+ "n": "University of Hamburg: Postdoc in String Theory (Weigand group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3231490",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3231490",
+ "unv": "INSPIRE lists the deadline as Jan 29, 2027 but the ad text says Dec 15, 2026; the earlier date is used. Salary not stated.",
+ "us": false
+}
