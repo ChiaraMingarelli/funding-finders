@@ -1086,28 +1086,6 @@
   "d": null
  },
  {
-  "id": "berkeley-litp-lbnl-theory-postdoc-2027",
-  "n": "UC Berkeley LITP / Berkeley Lab: Postdoctoral Fellows in Theoretical Particle Physics",
-  "f": "University of California, Berkeley / Lawrence Berkeley National Laboratory",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-11-21",
-  "dt": "Apply by Nov 21, 2026",
-  "e": "Several postdoctoral fellows from Fall 2027 in theoretical physics (cosmology, phenomenology, QFT, quantum gravity, quantum information theory, strings), 2-3 years, extendable in exceptional cases up to 5. No citizenship restriction stated.",
-  "u": "https://academicjobsonline.org/ajo/jobs/33012",
-  "unv": "Salary not stated (\"competitive\").",
-  "us": false,
-  "nom": false,
-  "pt": "group",
-  "region": "US",
-  "nfit": "Medium",
-  "checked": "2026-11-16",
-  "added": "2026-10-09",
-  "stages": [
-   "pd"
-  ]
- },
- {
   "id": "berkeley-moore-epiqs-cmt-postdoc-2027",
   "n": "UC Berkeley: Gordon and Betty Moore Postdoctoral Fellowship in theoretical condensed matter physics",
   "f": "UC Berkeley, Department of Physics / Condensed Matter Theory Center (Moore Foundation EPiQS)",
@@ -2153,28 +2131,6 @@
   "nfit": "High",
   "checked": "2026-11-16",
   "added": "2026-10-31",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "cnrs-lapp-ctao-lst-pulsar-msp-gamma-ray-postdoc",
-  "n": "CNRS LAPP Annecy: Postdoc in gamma-ray astronomy (pulsars and millisecond pulsars with CTAO LSTs)",
-  "f": "CNRS, Laboratoire d'Annecy de Physique des Particules (LAPP), CTAO group",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-11-21",
-  "dt": "Nov 21, 2026 (CNRS portal lists Nov 21, 2026 00:00, so apply by Nov 20)",
-  "a": "24 months from Jan 1, 2027; from €3,132.83 gross per month depending on experience",
-  "e": "Two-year postdoc searching for very-high-energy gamma-ray emission from pulsars and millisecond pulsars, including the Galactic Center bulge population, with stereoscopic data from the CTAO Large-Sized Telescopes and the GammaLearn deep-learning reconstruction. Apply through the CNRS jobs portal; no citizenship limit is stated.",
-  "u": "https://emploi.cnrs.fr/Offres/CDD/UMR5814-LOUDAI-061/Default.aspx?lang=EN",
-  "us": false,
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "nfit": "High",
-  "checked": "2026-11-16",
-  "added": "2026-10-21",
   "stages": [
    "pd"
   ]
@@ -3891,6 +3847,28 @@
   "nfit": "Low",
   "checked": "2026-11-16",
   "added": "2026-10-01",
+  "stages": [
+   "fj"
+  ]
+ },
+ {
+  "id": "fj-epfl-tt-physics-computing-interface",
+  "n": "EPFL: Tenure-Track Assistant Professor at the Interface of Physics and Computing",
+  "f": "EPFL, School of Computer and Communication Sciences (IC) and School of Basic Sciences (SB)",
+  "c": "Faculty job",
+  "s": "open",
+  "d": "2026-12-15",
+  "dt": "Apply by Dec 15, 2026",
+  "a": "Tenure-track assistant professor; salary described as competitive",
+  "e": "Joint IC/SB tenure-track post in areas including quantum information, AI for physics, the physics of machine learning and scientific computing. No citizenship limit stated.",
+  "u": "https://facultyrecruiting.epfl.ch/position/65863687",
+  "unv": "Details taken from the Quantiki listing; the EPFL portal page was not opened.",
+  "us": false,
+  "nom": false,
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-22",
+  "added": "2026-11-22",
   "stages": [
    "fj"
   ]
@@ -8476,6 +8454,28 @@
   "d": null
  },
  {
+  "id": "ihep-beijing-yin-amplitudes-eft-postdoc",
+  "n": "IHEP Beijing: Postdoc in Scattering Amplitudes and EFT (Zhewei Yin group)",
+  "f": "Institute of High Energy Physics, Chinese Academy of Sciences, Theoretical Physics Division (Zhewei Yin)",
+  "c": "Group postdoc",
+  "s": "rolling",
+  "dt": "Priority to applications received by Dec 31, 2026; considered until filled. Letters via the CCAST AJO posting #32628",
+  "a": "CNY 250,000 gross per year plus a negotiable supplement; 1+1 years from fall 2027",
+  "e": "Postdoc on scattering amplitudes and effective field theories, with links to particle phenomenology, gravitational-wave physics and quantum information. Apply through the CCAST posting naming Zhewei Yin as preferred supervisor; no citizenship limit stated.",
+  "u": "https://inspirehep.net/jobs/3231022",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-11-22",
+  "added": "2026-11-22",
+  "stages": [
+   "pd"
+  ],
+  "d": null
+ },
+ {
   "id": "ihes-postdoc-theoretical-physics-2027",
   "n": "IHES: Postdoctoral position in Theoretical Physics",
   "f": "Institut des Hautes Études Scientifiques (IHES)",
@@ -9788,6 +9788,29 @@
    "pd"
   ],
   "d": null
+ },
+ {
+  "id": "lancaster-open-quantum-systems-cosmology-postdoc",
+  "n": "Lancaster University: Postdoctoral Research Associate in Mathematical Physics",
+  "f": "Lancaster University, School of Physics and Astronomy (David Sloan)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-15",
+  "dt": "Apply by Dec 15, 2026 (ref 1286-26); interviews Jan 15, 2027",
+  "a": "GBP 40,704-46,970; 24 months from Jul 1, 2027",
+  "e": "Templeton-funded postdoc applying open-quantum-systems methods to quantum cosmology and general relativity (emergence of time, quantum reference frames). No citizenship limit stated.",
+  "u": "https://hr-jobs.lancs.ac.uk/Vacancy.aspx?ref=1286-26",
+  "unv": "Visa and right-to-work wording not checked.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-11-22",
+  "added": "2026-11-22",
+  "stages": [
+   "pd"
+  ]
  },
  {
   "id": "lanl-computational-physics-student-summer-workshop",
@@ -11237,6 +11260,29 @@
   "d": null
  },
  {
+  "id": "nanjing-normal-tdli-hep-phenomenology-postdoc",
+  "n": "Nanjing Normal University and TDLI: Joint Postdoc in High Energy Phenomenology",
+  "f": "Nanjing Normal University BSM theory group and Tsung-Dao Lee Institute, Shanghai Jiao Tong University (Lingfeng Li, Minyuan Jiang)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-20",
+  "dt": "Deadline Dec 20, 2026 (INSPIRE); letters via AJO posting #32303",
+  "a": "Joint appointment; about three months per year at TDLI with travel support",
+  "e": "Joint postdoc in BSM phenomenology (dark matter, EFT, collider physics, machine learning) with links to early-universe cosmology and astroparticle physics, based mainly in Nanjing. No citizenship limit stated.",
+  "u": "https://inspirehep.net/jobs/3230597",
+  "unv": "Salary and term not checked on the host page.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-11-22",
+  "added": "2026-11-22",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "nasa-finesst",
   "n": "NASA FINESST",
   "f": "NASA SMD",
@@ -11524,6 +11570,28 @@
   "nfit": "High",
   "checked": "2026-11-16",
   "added": "2026-10-20",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "ncbj-warsaw-gpd-qcd-postdoc-2027",
+  "n": "NCBJ Warsaw: Postdoc in QCD, Generalised Parton Distributions",
+  "f": "National Centre for Nuclear Research (NCBJ), Theoretical Physics Division (Pawel Sznajder)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-03",
+  "dt": "Full consideration by Dec 3, 2026; later applications considered until filled. Apply by email",
+  "a": "PLN 140,000 gross per year plus about PLN 15,000 per year travel; 2 years from Sep 2027",
+  "e": "Two-year postdoc on phenomenology and global extraction of generalised parton distributions (NCN SONATA-BIS project). Requires a PhD in theoretical high-energy or nuclear physics with QCD experience.",
+  "u": "https://inspirehep.net/jobs/3230875",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-22",
+  "added": "2026-11-22",
   "stages": [
    "pd"
   ]
@@ -15146,6 +15214,29 @@
   ]
  },
  {
+  "id": "u-hamburg-weigand-string-theory-postdoc-2027",
+  "n": "University of Hamburg: Postdoc in String Theory (Weigand group)",
+  "f": "University of Hamburg / DESY, Cluster of Excellence Quantum Universe (Timo Weigand)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-15",
+  "dt": "Apply by Dec 15, 2026 via the DESY platform (select String Theory (UNI HH)); three referees named",
+  "a": "3 years from fall 2027; travel funds; small teaching load",
+  "e": "Postdoc in string compactifications, string geometry and string phenomenology in Timo Weigand's group, including quantum gravity and string cosmology. Requires a doctorate in theoretical physics or mathematics; no citizenship limit stated.",
+  "u": "https://inspirehep.net/jobs/3231490",
+  "unv": "INSPIRE lists the deadline as Jan 29, 2027 but the ad text says Dec 15, 2026; the earlier date is used. Salary not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-22",
+  "added": "2026-11-22",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "u-milan-quantum-frontiers-senior-postdoc",
   "n": "University of Milan: Senior postdoc in theoretical physics (ERC Quantum FronTiers)",
   "f": "University of Milan, High-Energy Theoretical Physics Group (Alessandro Vicini)",
@@ -15542,28 +15633,6 @@
   "nfit": "Low",
   "checked": "2026-11-16",
   "added": "2026-10-16",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "uc-berkeley-leinweber-physics-postdoctoral-fellowship",
-  "n": "UC Berkeley: Leinweber Physics Postdoctoral Fellowship",
-  "f": "University of California, Berkeley, Leinweber Institute for Theoretical Physics",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-11-21",
-  "dt": "Nov 21, 2026 (letters by same date)",
-  "a": "Competitive salary, benefits and research travel funds (amount not stated)",
-  "e": "One or two 3-year distinguished fellowships starting Fall 2027 in any area of theoretical physics, including cosmology, QFT, condensed matter, quantum gravity, quantum information, particle physics and string theory. PhD in theoretical physics by start.",
-  "u": "https://academicjobsonline.org/ajo/jobs/32957",
-  "us": false,
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "nfit": "Medium",
-  "checked": "2026-11-16",
-  "added": "2026-10-07",
   "stages": [
    "pd"
   ]

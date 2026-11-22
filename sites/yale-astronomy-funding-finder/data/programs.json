@@ -1181,38 +1181,6 @@
   "us": false
  },
  {
-  "a": "",
-  "added": "2026-10-09",
-  "asub": [
-   "cos"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-16",
-  "d": "2026-11-21",
-  "dt": "Apply by Nov 21, 2026",
-  "e": "Several postdoctoral fellows from Fall 2027 in theoretical physics (cosmology, phenomenology, QFT, quantum gravity, quantum information theory, strings), 2-3 years, extendable in exceptional cases up to 5. No citizenship restriction stated.",
-  "f": "University of California, Berkeley / Lawrence Berkeley National Laboratory",
-  "fields": [
-   "ppt",
-   "grav",
-   "qp"
-  ],
-  "id": "berkeley-litp-lbnl-theory-postdoc-2027",
-  "n": "UC Berkeley LITP / Berkeley Lab: Postdoctoral Fellows in Theoretical Particle Physics",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "US",
-  "s": "open",
-  "src": "ajo:33012",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/33012",
-  "unv": "Salary not stated (\"competitive\").",
-  "us": false
- },
- {
   "a": "$71,491-$85,736 minimum",
   "added": "2026-10-17",
   "asub": [
@@ -2312,36 +2280,6 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33303",
   "unv": "Salary not stated.",
-  "us": false
- },
- {
-  "a": "24 months from Jan 1, 2027; from €3,132.83 gross per month depending on experience",
-  "added": "2026-10-21",
-  "asub": [
-   "he"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-16",
-  "d": "2026-11-21",
-  "dt": "Nov 21, 2026 (CNRS portal lists Nov 21, 2026 00:00, so apply by Nov 20)",
-  "e": "Two-year postdoc searching for very-high-energy gamma-ray emission from pulsars and millisecond pulsars, including the Galactic Center bulge population, with stereoscopic data from the CTAO Large-Sized Telescopes and the GammaLearn deep-learning reconstruction. Apply through the CNRS jobs portal; no citizenship limit is stated.",
-  "f": "CNRS, Laboratoire d'Annecy de Physique des Particules (LAPP), CTAO group",
-  "fields": [
-   "astro",
-   "ppx"
-  ],
-  "id": "cnrs-lapp-ctao-lst-pulsar-msp-gamma-ray-postdoc",
-  "n": "CNRS LAPP Annecy: Postdoc in gamma-ray astronomy (pulsars and millisecond pulsars with CTAO LSTs)",
-  "nfit": "High",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3216455",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://emploi.cnrs.fr/Offres/CDD/UMR5814-LOUDAI-061/Default.aspx?lang=EN",
   "us": false
  },
  {
@@ -5662,6 +5600,36 @@
   "us": false
  },
  {
+  "a": "CNY 250,000 gross per year plus a negotiable supplement; 1+1 years from fall 2027",
+  "added": "2026-11-22",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-22",
+  "d": null,
+  "dt": "Priority to applications received by Dec 31, 2026; considered until filled. Letters via the CCAST AJO posting #32628",
+  "e": "Postdoc on scattering amplitudes and effective field theories, with links to particle phenomenology, gravitational-wave physics and quantum information. Apply through the CCAST posting naming Zhewei Yin as preferred supervisor; no citizenship limit stated.",
+  "f": "Institute of High Energy Physics, Chinese Academy of Sciences, Theoretical Physics Division (Zhewei Yin)",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "ihep-beijing-yin-amplitudes-eft-postdoc",
+  "n": "IHEP Beijing: Postdoc in Scattering Amplitudes and EFT (Zhewei Yin group)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "inspire:3231022",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3231022",
+  "us": false
+ },
+ {
   "a": "One (2+1)-year position; salary, full health coverage, subsidized housing for the first two years, subsidized lunch and travel funds",
   "added": "2026-10-22",
   "asub": [
@@ -6718,6 +6686,37 @@
   ],
   "u": "https://inspirehep.net/jobs/3198255",
   "unv": "The INSPIRE listing is closed (deadline field Sep 30, 2026); the ad says applications are considered until the position is filled.",
+  "us": false
+ },
+ {
+  "a": "GBP 40,704-46,970; 24 months from Jul 1, 2027",
+  "added": "2026-11-22",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-22",
+  "d": "2026-12-15",
+  "dt": "Apply by Dec 15, 2026 (ref 1286-26); interviews Jan 15, 2027",
+  "e": "Templeton-funded postdoc applying open-quantum-systems methods to quantum cosmology and general relativity (emergence of time, quantum reference frames). No citizenship limit stated.",
+  "f": "Lancaster University, School of Physics and Astronomy (David Sloan)",
+  "fields": [
+   "grav",
+   "qp"
+  ],
+  "id": "lancaster-open-quantum-systems-cosmology-postdoc",
+  "n": "Lancaster University: Postdoctoral Research Associate in Mathematical Physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:lancaster-1286-26",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://hr-jobs.lancs.ac.uk/Vacancy.aspx?ref=1286-26",
+  "unv": "Visa and right-to-work wording not checked.",
   "us": false
  },
  {
@@ -8071,6 +8070,37 @@
    "gr"
   ],
   "u": "https://nairrpilot.org/",
+  "us": false
+ },
+ {
+  "a": "Joint appointment; about three months per year at TDLI with travel support",
+  "added": "2026-11-22",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-22",
+  "d": "2026-12-20",
+  "dt": "Deadline Dec 20, 2026 (INSPIRE); letters via AJO posting #32303",
+  "e": "Joint postdoc in BSM phenomenology (dark matter, EFT, collider physics, machine learning) with links to early-universe cosmology and astroparticle physics, based mainly in Nanjing. No citizenship limit stated.",
+  "f": "Nanjing Normal University BSM theory group and Tsung-Dao Lee Institute, Shanghai Jiao Tong University (Lingfeng Li, Minyuan Jiang)",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "nanjing-normal-tdli-hep-phenomenology-postdoc",
+  "n": "Nanjing Normal University and TDLI: Joint Postdoc in High Energy Phenomenology",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3230597",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3230597",
+  "unv": "Salary and term not checked on the host page.",
   "us": false
  },
  {
@@ -12729,39 +12759,6 @@
    "pd"
   ],
   "u": "https://bccp.berkeley.edu/jobs/",
-  "us": false
- },
- {
-  "a": "Competitive salary, benefits and research travel funds (amount not stated)",
-  "added": "2026-10-07",
-  "asub": [
-   "cos"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-16",
-  "d": "2026-11-21",
-  "dt": "Nov 21, 2026 (letters by same date)",
-  "e": "One or two 3-year distinguished fellowships starting Fall 2027 in any area of theoretical physics, including cosmology, QFT, condensed matter, quantum gravity, quantum information, particle physics and string theory. PhD in theoretical physics by start.",
-  "f": "University of California, Berkeley, Leinweber Institute for Theoretical Physics",
-  "fields": [
-   "ppt",
-   "cmt",
-   "qp",
-   "grav",
-   "astro"
-  ],
-  "id": "uc-berkeley-leinweber-physics-postdoctoral-fellowship",
-  "n": "UC Berkeley: Leinweber Physics Postdoctoral Fellowship",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "s": "open",
-  "src": "ajo:32957",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/32957",
   "us": false
  },
  {
