@@ -1,0 +1,34 @@
+{
+ "a": "Up to two fully funded PhD positions, no tuition fees; 3–4 years",
+ "added": "2026-11-23",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Graduate program",
+ "checked": "2026-11-23",
+ "d": "2027-01-15",
+ "dt": "Apply by Jan 15, 2027 (23:59 UTC+1); reference letters by Jan 22, 2027",
+ "e": "PhD positions on mathematical structures of scattering amplitudes, Feynman integrals and symmetries of gravity, within IMPRS Gravity at the Extreme; one tied to the ERC Synergy Grant MaScAmp. Requires a master's degree by the start; no citizenship limit stated.",
+ "f": "Max Planck Institute for Gravitational Physics (AEI), Potsdam, Symmetries in Gravity and Amplitudes group",
+ "fields": [
+  "ppt",
+  "grav"
+ ],
+ "id": "aei-potsdam-amplitudes-quantum-gravity-phd-2027",
+ "n": "Max Planck Institute for Gravitational Physics (AEI Potsdam): PhD positions in scattering amplitudes and quantum gravity",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "other:lisa-aei-amplitudes-phd-2027",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://www.lisamission.org/phd-positions-in-scattering-amplitudes-and-quantum-gravity-at-the-max-planck-institute-for-gravitational-physics-in-potsdam/",
+ "unv": "AEI job-board page for the call returned 404 when checked; details from the LISA Consortium posting.",
+ "us": false
+}

@@ -1,0 +1,30 @@
+{
+ "a": "Salary and term not stated",
+ "added": "2026-11-23",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-23",
+ "d": "2026-12-29",
+ "dt": "Deadline Dec 29, 2026 (AJO)",
+ "e": "Anticipated postdoc openings in condensed matter theory in Egor Babaev's group; applicants with backgrounds in ultracold atoms or mathematical physics are also considered. No citizenship limit stated.",
+ "f": "KTH Royal Institute of Technology, Theoretical Physics (Egor Babaev)",
+ "fields": [
+  "cmt"
+ ],
+ "id": "kth-babaev-cmt-postdoc",
+ "n": "KTH Stockholm: Postdoctoral Researcher in Condensed Matter Theory (Babaev group)",
+ "nfit": "Low",
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33504",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33504",
+ "unv": "Posting gives no salary, term or start date"
+}

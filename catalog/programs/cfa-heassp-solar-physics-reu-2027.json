@@ -1,0 +1,33 @@
+{
+ "a": "$8,000 stipend plus meal allowance, housing and travel; June 7 - Aug 13, 2027",
+ "added": "2026-11-23",
+ "asub": [
+  "star"
+ ],
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-11-23",
+ "d": null,
+ "dt": "Deadline not yet announced (the page says likely early February 2027); the application portal is expected to open in early December 2026",
+ "e": "Summer REU in solar physics at the Center for Astrophysics in Cambridge, MA. US citizens, US nationals and permanent residents only (including those at non-US colleges).",
+ "f": "Center for Astrophysics | Harvard & Smithsonian, High Energy Astrophysics and Solar & Stellar Physics",
+ "fields": [
+  "astro"
+ ],
+ "id": "cfa-heassp-solar-physics-reu-2027",
+ "n": "CfA Solar Physics REU (Summer 2027)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "watch",
+ "src": "other:cfa-solar-reu-2027",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.cfa.harvard.edu/opportunities/graduate-undergraduate-programs/heassp-solar-physics-reu-program",
+ "unv": "Exact 2027 deadline and application link not yet posted.",
+ "us": true
+}

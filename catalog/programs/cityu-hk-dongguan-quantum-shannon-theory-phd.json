@@ -1,0 +1,27 @@
+{
+ "a": "HKD 19,100–19,600 per month in Hong Kong or RMB 12,000 per month in Dongguan (2025/26 rates); up to 4 years",
+ "added": "2026-11-23",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Graduate program",
+ "checked": "2026-11-23",
+ "d": "2027-01-15",
+ "dt": "Application deadline Jan 15, 2027; admission June 2027",
+ "e": "PhD in quantum Shannon theory (channel coding and capacities, one-shot and finite-blocklength theory, hypothesis testing). Applicants must meet CityUHK PhD admission requirements; no citizenship limit stated.",
+ "f": "City University of Hong Kong, Department of Physics (Oscar Dahlsten) and CityU Dongguan (Michael Xuan Cao)",
+ "fields": [
+  "qp"
+ ],
+ "id": "cityu-hk-dongguan-quantum-shannon-theory-phd",
+ "n": "City University of Hong Kong (Dongguan PhD Project): PhD in quantum information theory",
+ "nom": false,
+ "s": "open",
+ "src": "other:quantiki-cityu-dongguan-qit-phd",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://quantiki.org/position/phd-position-quantum-information-theory-dongguan-phd-project-city-university-hong-kong",
+ "us": false
+}

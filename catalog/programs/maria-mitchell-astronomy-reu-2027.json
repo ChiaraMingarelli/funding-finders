@@ -1,0 +1,30 @@
+{
+ "a": "$7,700 stipend, round-trip travel and funds to present at the January 2028 AAS meeting",
+ "added": "2026-11-23",
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-11-23",
+ "d": "2027-02-01",
+ "dt": "Application closes Feb 1, 2027 at 11 pm EST",
+ "e": "Eleven-week astronomy research internship on Nantucket for undergraduates in bachelor's or associate degree programs. US citizens, US nationals or permanent residents only.",
+ "f": "Maria Mitchell Association (Nantucket, MA)",
+ "fields": [
+  "astro"
+ ],
+ "id": "maria-mitchell-astronomy-reu-2027",
+ "n": "Maria Mitchell Association Astronomy REU Internship (Summer 2027)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:maria-mitchell-reu-2027",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.mariamitchell.org/get-involved/internships/reu",
+ "unv": "The page's program dates still read 2026 (June 1 to the week of Aug 17), so the 2027 dates are not confirmed.",
+ "us": true
+}

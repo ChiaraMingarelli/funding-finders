@@ -1,0 +1,29 @@
+{
+ "a": "$65,000–$70,000; one year, renewable (Sloan Foundation grant)",
+ "added": "2026-11-23",
+ "aud": [
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-23",
+ "d": null,
+ "dt": "Review begins Dec 7, 2026 and continues until filled",
+ "e": "Cohort of postdocs providing research software engineering support on campus (open-source tools, LLM-related software, training), with time for their own research; announced to the gravitational-wave community via the LISA and Hyperspace boards. Requires a PhD in data science or a related field and open-source research-code experience; no citizenship limit stated.",
+ "f": "Syracuse University Open Source Program Office (SU-OSPO) and Office of Research",
+ "fields": [
+  "ds"
+ ],
+ "id": "syracuse-ospo-research-software-engineer-postdoc",
+ "n": "Syracuse University: Postdoctoral Researcher – Research Software Engineer (Open Source Program Office)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:syracuse-ospo-115084",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.sujobopps.com/postings/115084",
+ "us": false
+}

@@ -1,0 +1,33 @@
+{
+ "a": "$250 registration fee covers housing and food in Green Bank; June 27 - July 3, 2027, in person",
+ "added": "2026-11-23",
+ "aud": [
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Training",
+ "checked": "2026-11-23",
+ "d": "2027-03-15",
+ "dt": "Applications open Oct 1, 2026 - Mar 15, 2027; decisions by Apr 1, 2027",
+ "e": "Week-long school at Green Bank on single-dish radio astronomy, with lectures and hands-on projects and tutorials, for students, postdocs and astronomers from other fields. No citizenship limits are stated.",
+ "f": "Green Bank Observatory (NSF)",
+ "fields": [
+  "astro"
+ ],
+ "id": "gbo-single-dish-summer-school-2027",
+ "n": "GBO Single Dish Summer School 2027",
+ "nfit": "High",
+ "nom": false,
+ "pt": "other",
+ "region": "US",
+ "s": "open",
+ "src": "other:gbo-sdss-2027",
+ "stages": [
+  "gr",
+  "pd"
+ ],
+ "u": "https://greenbankobservatory.org/events/2027-sdss/",
+ "unv": "The registration ticket shows as sold out on the event page despite the stated application window; financial support is not mentioned.",
+ "us": false
+}

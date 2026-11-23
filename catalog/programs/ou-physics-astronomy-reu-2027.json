@@ -1,0 +1,32 @@
+{
+ "a": "$700/week stipend; May 31 - July 30, 2027",
+ "added": "2026-11-23",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-11-23",
+ "d": null,
+ "dt": "Review begins in early February; applications reviewed until positions are full",
+ "e": "NSF REU site where undergraduates join research of OU physics and astronomy faculty. US citizens or permanent residents only.",
+ "f": "University of Oklahoma, Homer L. Dodge Department of Physics and Astronomy (NSF REU site)",
+ "fields": [
+  "all"
+ ],
+ "id": "ou-physics-astronomy-reu-2027",
+ "n": "University of Oklahoma Physics and Astronomy REU (Summer 2027)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "rolling",
+ "src": "other:ou-reu-2027",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.ou.edu/cas/physics-astronomy/students/undergraduate/research/reu",
+ "unv": "The page lists 2027 program dates but its application link (NSF ETAP) is still labeled 2026; no fixed deadline is stated.",
+ "us": true
+}

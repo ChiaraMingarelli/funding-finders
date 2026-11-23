@@ -1,0 +1,29 @@
+{
+ "a": "€2,832.10 gross per month, paid 14 times a year (FWF scale)",
+ "added": "2026-11-23",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Graduate program",
+ "checked": "2026-11-23",
+ "d": "2026-12-27",
+ "dt": "Deadline Dec 27, 2026; review began Nov 5, 2026 and continues until filled",
+ "e": "Theory PhD on numerical simulation of dipolar many-body systems (Gross-Pitaevskii beyond mean field), quantum phase transitions and dipolar mixtures. Requires a master's degree in physics or close field; no citizenship limit stated.",
+ "f": "University of Innsbruck and IQOQI Innsbruck, Dipolar Quantum Gas Group (Francesca Ferlaino)",
+ "fields": [
+  "amo",
+  "qp",
+  "cmt"
+ ],
+ "id": "innsbruck-ferlaino-dipolar-gases-theory-phd",
+ "n": "University of Innsbruck / IQOQI: PhD in theoretical physics, dipolar quantum gases (Ferlaino group)",
+ "nom": false,
+ "s": "open",
+ "src": "other:quantiki-innsbruck-dipolar-theory-phd",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://quantiki.org/position/phd-position-theoretical-physics-dipolar-quantum-gases",
+ "us": false
+}

@@ -1,0 +1,33 @@
+{
+ "a": "TRY 65,000 per month plus meal allowance and health insurance; 18 months",
+ "added": "2026-11-23",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-23",
+ "d": "2026-12-10",
+ "dt": "Application deadline Dec 10, 2026",
+ "e": "TÜBİTAK 1001-funded postdoc on collision models for preparing entangled states and controlling energy and coherence in quantum networks (analytical and numerical work). PhD in physics or related field required; no citizenship limit stated.",
+ "f": "Koç University, QuEST group (Özgür E. Müstecaplıoğlu)",
+ "fields": [
+  "qp",
+  "amo"
+ ],
+ "id": "koc-quest-quantum-info-thermodynamics-postdoc",
+ "n": "Koç University (Istanbul): Postdoctoral Fellowship in Quantum Information Thermodynamics (QuEST group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:quantiki-koc-quest-qit-thermo",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://quantiki.org/position/postdoctoral-fellowship-quantum-information-and-thermodynamics-ko%C3%A7-university-i%CC%87stanbul",
+ "unv": "Host's own ad not located; details from the Quantiki posting.",
+ "us": false
+}

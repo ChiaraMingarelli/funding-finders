@@ -1,0 +1,35 @@
+{
+ "a": "Four-year studentship covering UK tuition fees plus a tax-free stipend (amount not stated)",
+ "added": "2026-11-23",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Graduate program",
+ "checked": "2026-11-23",
+ "d": "2026-12-04",
+ "dt": "Post gives Dec 4, 2026 and Jan 4, 2027 (initial consideration); later applications considered until filled; start Sep 20, 2027",
+ "e": "PhD on effective field theory and scattering-amplitude methods for extreme-mass-ratio inspirals and gravitational-wave modelling, with links to LISA and Einstein Telescope. Background in physics or mathematics required; the post does not say whether international tuition fees are covered.",
+ "f": "University of Southampton, School of Mathematical Sciences (Riccardo Gonzo, Royal Society URF)",
+ "fields": [
+  "grav",
+  "ppt"
+ ],
+ "id": "southampton-gonzo-emri-gw-phd-2027",
+ "n": "University of Southampton: PhD studentship in particle and gravitational physics (EMRI waveforms, Gonzo)",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "other:lisa-soton-gonzo-phd-2027",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://www.lisamission.org/phd-position-in-particle-and-gravitational-physics-at-university-of-southampton/",
+ "unv": "The post states two dates (Dec 4, 2026 and Jan 4, 2027); stipend amount and coverage of international fees not stated.",
+ "us": false
+}

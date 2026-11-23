@@ -1,0 +1,39 @@
+{
+ "a": "2-year awards; budget and number of awards not stated",
+ "added": "2026-11-23",
+ "asub": [
+  "exo",
+  "star"
+ ],
+ "aud": [
+  "yale",
+  "ast"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-11-23",
+ "d": "2027-02-18",
+ "dt": "Mandatory NOI due Jan 4, 2027; full proposals due Feb 18, 2027 (ROSES-25 Amendment 82). Proposer videoconference Dec 11, 2026, noon ET.",
+ "e": "New ROSES-25 element funding US data-gathering work in support of ESA's Ariel exoplanet mission: candidate confirmation, mass and orbit determination and host-star characterization (time-series photometry, high-resolution imaging and spectroscopy, precision radial velocities), with results delivered through ExoFOP. Proposals are reviewed dual-anonymously; awards do not confer Ariel consortium membership.",
+ "f": "NASA SMD",
+ "fields": [
+  "astro"
+ ],
+ "id": "nasa-roses25-d11-ariel-preparatory-science",
+ "n": "NASA ROSES-2025 D.11 U.S. Contributions to Ariel Preparatory Science (Ariel US CAPS)",
+ "nofo": [
+  {
+   "opp": "NNH25ZDA001N-USCAPS",
+   "u": "https://simpler.grants.gov/opportunity/a22aa171-3e14-47cf-aafa-16895e5f2d87"
+  }
+ ],
+ "nom": false,
+ "s": "open",
+ "src": "grants:NNH25ZDA001N-USCAPS",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-82-new-opportunity-d-11-u-s-contributions-to-ariel-preparatory-science/",
+ "unv": "Total budget, number of awards and any eligibility limits were not stated on the amendment page or the grants.gov synopsis; the full program-element PDF on NSPIRES was not read.",
+ "us": false
+}

@@ -1,0 +1,29 @@
+{
+ "a": "PhD positions with start in 2027 (funding amount not stated)",
+ "added": "2026-11-23",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Graduate program",
+ "checked": "2026-11-23",
+ "d": "2026-12-01",
+ "dt": "Apply via the online portal by Dec 1, 2026 (with at least two referee invitations)",
+ "e": "Germany-wide photonics graduate school linking university, Max Planck and Fraunhofer groups; projects include quantum communication, photonic quantum computing and quantum metrology. Requires an excellent master's degree in physics or related field (or near completion); no citizenship limit stated.",
+ "f": "Max Planck School of Photonics",
+ "fields": [
+  "phot",
+  "qp"
+ ],
+ "id": "max-planck-school-of-photonics-phd-2027",
+ "n": "Max Planck School of Photonics (Germany): PhD program, 2027 start",
+ "nom": false,
+ "s": "open",
+ "src": "other:mpsp-phd-2027",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://photonics.maxplanckschools.org/application",
+ "unv": "Details from a Quantiki posting by MPSP Fellows; stipend not stated there.",
+ "us": false
+}

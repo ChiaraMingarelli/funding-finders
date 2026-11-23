@@ -1,0 +1,30 @@
+{
+ "a": "Two positions; two-year appointment, renewable; salary not stated",
+ "added": "2026-11-23",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-23",
+ "d": "2026-11-30",
+ "dt": "Deadline Nov 30, 2026 (AJO)",
+ "e": "Two postdocs on quantum computing and AI: verifiable quantum advantage, quantum simulation of many-body and open systems, and machine learning for quantum computing, starting 2027. Requires a PhD in physics, computer science, applied mathematics or a related field; no citizenship limit stated.",
+ "f": "National University of Singapore, School of Computing & Department of Physics (Yuxuan Zhang)",
+ "fields": [
+  "qp",
+  "cmt"
+ ],
+ "id": "nus-quantum-ai-postdoc-zhang",
+ "n": "National University of Singapore: Postdoctoral Research Fellow in Quantum and AI (Yuxuan Zhang group)",
+ "nfit": "Low",
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:32512",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/32512"
+}

@@ -1,0 +1,35 @@
+{
+ "a": "$6,000 stipend, on-campus housing, travel and meal allowances; May 24 - July 30, 2027",
+ "added": "2026-11-23",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-11-23",
+ "d": "2027-02-26",
+ "dt": "Application deadline Feb 26, 2027; applications reviewed until positions are filled",
+ "e": "Ten-week NSF REU at RIT on gravitational-wave and multimessenger astrophysics, with projects including pulsar timing, continuous gravitational waves and compact-object dynamics. US citizens or permanent residents who are undergraduates in Fall 2027 only.",
+ "f": "Rochester Institute of Technology, Center for Computational Relativity and Gravitation",
+ "fields": [
+  "astro",
+  "grav"
+ ],
+ "id": "rit-multimessenger-astrophysics-reu-2027",
+ "n": "RIT REU in Multimessenger Astrophysics (Summer 2027)",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:rit-mma-reu-2027",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.rit.edu/ccrg/research-experience-undergraduates-multimessenger-astrophysics",
+ "unv": "The page says the program is up for renewal, so offers depend on continued NSF funding.",
+ "us": true
+}

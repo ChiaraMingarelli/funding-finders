@@ -1,0 +1,28 @@
+{
+ "a": "PhD position (funding amount not stated)",
+ "added": "2026-11-23",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Graduate program",
+ "checked": "2026-11-23",
+ "d": "2027-01-15",
+ "dt": "Application deadline Jan 15, 2027; candidate enters the IP Paris PhD admissions competition",
+ "e": "PhD on quantum uncertainty relations and their links to signal processing, co-supervised by O. Rioul, M. G. Jabbour and P. Duhamel. Requires a master's degree in mathematics, physics, computer science or related field; no citizenship limit stated.",
+ "f": "Institut Polytechnique de Paris (Télécom Paris, Télécom SudParis, CentraleSupélec)",
+ "fields": [
+  "qp"
+ ],
+ "id": "ip-paris-quantum-info-signal-processing-phd",
+ "n": "Institut Polytechnique de Paris: PhD in quantum information and signal processing",
+ "nom": false,
+ "s": "open",
+ "src": "other:quantiki-ipparis-qi-signal-phd",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://quantiki.org/position/phd-position-intersection-quantum-information-and-signal-processing-institut-polytechnique",
+ "unv": "Funding level not stated; selection goes through the IP Paris doctoral competition.",
+ "us": false
+}

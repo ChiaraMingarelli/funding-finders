@@ -1,0 +1,30 @@
+{
+ "a": "Stipend (2026 listing: $800/week) and Harvard dormitory housing; May 30 - Aug 8, 2027",
+ "added": "2026-11-23",
+ "aud": [
+  "ng",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-11-23",
+ "d": "2027-02-01",
+ "dt": "Application deadline Feb 1, 2027; the portal is scheduled to open by Jan 10, 2027",
+ "e": "Ten-week REU in Cambridge, MA, where undergraduates do an astrophysics research project with an SAO or Harvard scientist. The 2026 listing limited it to US citizens and green card holders.",
+ "f": "Center for Astrophysics | Harvard & Smithsonian",
+ "fields": [
+  "astro"
+ ],
+ "id": "cfa-sao-astro-reu-2027",
+ "n": "CfA/SAO Astronomy Summer Intern Program (Astro REU, Summer 2027)",
+ "nfit": "Medium",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:cfa-sao-astro-reu-2027",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://www.cfa.harvard.edu/opportunities/graduate-undergraduate-programs/reu-summer-intern-program",
+ "unv": "The 2027 page states no stipend amount or citizenship rule; the $800/week stipend and US citizen/green card limit come from the 2026 AcademicJobsOnline listing.",
+ "us": true
+}

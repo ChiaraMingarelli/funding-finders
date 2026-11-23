@@ -1,0 +1,35 @@
+{
+ "a": "Support for a small number of doctoral studentship applications (amount not stated)",
+ "added": "2026-11-23",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Graduate program",
+ "checked": "2026-11-23",
+ "d": "2027-01-11",
+ "dt": "Send expression of interest (subject GRIT-PhD-2027) by Jan 11, 2027",
+ "e": "The GRIT gravity group invites candidates to express interest in applying for doctoral studentships in gravitational physics with the group's support. Send motivation letter, CV, transcript and master thesis; no citizenship limit stated.",
+ "f": "Instituto Superior Tecnico, Lisbon, CENTRA / GRIT gravity group",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "ist-lisbon-grit-phd-studentships-eoi-2027",
+ "n": "Instituto Superior Tecnico (Lisbon), GRIT gravity group: expressions of interest for PhD studentships",
+ "nfit": "High",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "other:hyperspace-ist-grit-phd-2027",
+ "stages": [
+  "gr"
+ ],
+ "u": "https://hyperspace.uni-frankfurt.de/2026/11/19/phd-positions-in-gravitational-physics-lisbon-portugal/",
+ "unv": "Stipend amount and the studentship call it feeds into are not stated in the post.",
+ "us": false
+}

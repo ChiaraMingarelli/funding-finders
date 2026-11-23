@@ -1,0 +1,40 @@
+{
+ "a": "R61 up to $150,000 (about 23 awards, $5.4M total); R33 up to $300,000 (about 14 awards, $6.6M total) - forecast figures",
+ "added": "2026-11-23",
+ "aud": [
+  "yale",
+  "ap"
+ ],
+ "c": "Federal grant",
+ "checked": "2026-11-23",
+ "d": null,
+ "dt": "Forecast: NOFOs RFA-CA-28-001 (R61) and RFA-CA-28-002 (R33) estimated to post Jan 15, 2027 with applications due about Jun 4, 2027 (estimates, not posted dates).",
+ "e": "NCI's IMAT program funds development of new measurement, imaging, sensing and molecular-analysis technologies focused on cancer research or care: R61 for early proof-of-concept work, R33 for further development and validation of technologies with demonstrated feasibility. Universities, including foreign institutions per the forecast, may apply; no citizenship limit for PIs is stated.",
+ "f": "NIH NCI",
+ "fields": [
+  "bio",
+  "inst"
+ ],
+ "id": "nci-imat-r61-r33-cancer-technology-forecast",
+ "n": "NCI Innovative Molecular Analysis Technologies (IMAT): Early-Stage R61 and Advanced Development R33 - forecast",
+ "nofo": [
+  {
+   "opp": "RFA-CA-28-001",
+   "u": "https://simpler.grants.gov/opportunity/841ce4d3-5420-4630-a9c9-6b1635c773d9"
+  },
+  {
+   "opp": "RFA-CA-28-002",
+   "u": "https://simpler.grants.gov/opportunity/8747b235-c8dd-497f-a66b-9a9f5db2eb9c"
+  }
+ ],
+ "nom": false,
+ "s": "watch",
+ "src": "grants:RFA-CA-28-001",
+ "stages": [
+  "tt",
+  "ten"
+ ],
+ "u": "https://simpler.grants.gov/opportunity/841ce4d3-5420-4630-a9c9-6b1635c773d9",
+ "unv": "Both NOFOs are still forecasts on Grants.gov; post and due dates and award figures are agency estimates.",
+ "us": false
+}

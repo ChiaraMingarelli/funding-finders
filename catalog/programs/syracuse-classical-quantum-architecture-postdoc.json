@@ -1,0 +1,26 @@
+{
+ "a": "Salary not stated",
+ "added": "2026-11-23",
+ "aud": [
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-23",
+ "d": null,
+ "dt": "No deadline stated; apply via the SU Job Opps listing",
+ "e": "Postdoc in the Computer Architecture Laboratory on classical and quantum computer architectures, memory systems, non-von Neumann computing, compilers or quantum computing. PhD in computer science, computer engineering, physics or a related field; no citizenship limit stated.",
+ "f": "Syracuse University, Department of Electrical Engineering and Computer Science (Alex Jones)",
+ "fields": [
+  "qp"
+ ],
+ "id": "syracuse-classical-quantum-architecture-postdoc",
+ "n": "Syracuse University: Postdoctoral Researcher, Classical and/or Quantum Computer Architectures (Jones lab)",
+ "pt": "group",
+ "s": "rolling",
+ "src": "ajo:32514",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.sujobopps.com/postings/104681",
+ "unv": "SU Job Opps page did not render for automated fetch; closing date not verified (AJO listing shown until Jan 13, 2027)"
+}

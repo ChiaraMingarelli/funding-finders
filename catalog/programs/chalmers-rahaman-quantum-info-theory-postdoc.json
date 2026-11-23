@@ -1,0 +1,32 @@
+{
+ "a": "Postdoc funded by a WACQT grant; salary and term not stated",
+ "added": "2026-11-23",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-23",
+ "d": "2026-12-31",
+ "dt": "Application deadline Dec 31, 2026",
+ "e": "Postdoc in quantum Shannon theory, entanglement and nonlocality, and operator-algebraic methods, including security proofs for continuous-variable and device-independent QKD. No citizenship limit stated.",
+ "f": "Chalmers University of Technology, Department of Mathematical Sciences (Mizanur Rahaman)",
+ "fields": [
+  "qp"
+ ],
+ "id": "chalmers-rahaman-quantum-info-theory-postdoc",
+ "n": "Chalmers University of Technology: Postdoc in quantum information theory (Rahaman, WACQT)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:quantiki-chalmers-rahaman-qit",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://quantiki.org/position/postdoctoral-position-quantum-information-theory-3",
+ "unv": "Chalmers' own vacancy page (job 15161) did not load; details from the PI's Quantiki posting.",
+ "us": false
+}

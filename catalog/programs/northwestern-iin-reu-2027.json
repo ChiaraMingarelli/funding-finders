@@ -1,0 +1,29 @@
+{
+ "a": "$6,300 stipend plus meal stipend, round-trip airfare and dorm housing",
+ "added": "2026-11-23",
+ "aud": [
+  "ap"
+ ],
+ "c": "Summer program",
+ "checked": "2026-11-23",
+ "d": "2027-02-08",
+ "dt": "Due Mon Feb 8, 2027; program June 21 - Aug 20, 2027",
+ "e": "Nine-week full-time summer research on a nanotechnology project at Northwestern's International Institute for Nanotechnology, for physical-science and engineering majors with at least one year of study left. Open only to US citizens and permanent residents aged 18 or older.",
+ "f": "International Institute for Nanotechnology (IIN), Northwestern University",
+ "fields": [
+  "mat",
+  "dev",
+  "phot",
+  "bio"
+ ],
+ "id": "northwestern-iin-reu-2027",
+ "n": "Northwestern IIN REU in Nanotechnology (Summer 2027)",
+ "nom": false,
+ "s": "open",
+ "src": "other:northwestern-iin-reu",
+ "stages": [
+  "ug"
+ ],
+ "u": "https://iin-reu-northwestern.submittable.com/",
+ "us": true
+}

@@ -1,0 +1,31 @@
+{
+ "a": "Tenure-track Assistant Professor; $84,800–$132,900 (9-month), off-scale pay possible",
+ "added": "2026-11-23",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-23",
+ "d": "2026-11-30",
+ "dt": "Next review date and final date Nov 30, 2026, 11:59 pm Pacific; start July 1, 2027 or later",
+ "e": "Broad open search with emphasis on space sciences (incl. gravitational waves, black hole imaging, multi-messenger, radio cosmology), astrophysics experiment incl. GW detection, data-science astrophysics, and fundamental-symmetries nuclear/particle experiment. PhD (or enrolled in a PhD program) required; no citizenship limit stated.",
+ "f": "University of California, Berkeley, Department of Physics",
+ "fields": [
+  "astro",
+  "grav",
+  "nux",
+  "ppx"
+ ],
+ "id": "fj-uc-berkeley-asst-prof-physics-open-search",
+ "n": "UC Berkeley Physics: Tenure-Track Assistant Professor, open search (space sciences, GW, astrophysics, fundamental symmetries)",
+ "nfit": "High",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:berkeley-aprecruit-JPF05524",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://aprecruit.berkeley.edu/JPF05524",
+ "us": false
+}

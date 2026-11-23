@@ -1,0 +1,33 @@
+{
+ "a": "Monthly stipend (amount not listed); housing and travel allowance if your school is more than 50 miles from JPL",
+ "added": "2026-11-23",
+ "aud": [
+  "yale",
+  "ng",
+  "ap",
+  "ast"
+ ],
+ "c": "Summer program",
+ "checked": "2026-11-23",
+ "d": "2027-03-12",
+ "dt": "Apply by Friday, March 12, 2027, 5 p.m. PDT; internships start in May or June",
+ "e": "10-week full-time summer research internships at JPL for undergraduate and graduate STEM students at accredited US universities with a cumulative GPA of at least 3.0. US citizens and lawful permanent residents only.",
+ "f": "NASA Jet Propulsion Laboratory (Caltech)",
+ "fields": [
+  "all"
+ ],
+ "id": "jpl-summer-internship-program-2027",
+ "n": "JPL Summer Internship Program (Summer 2027)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "other:jpl-summer-internship-2027",
+ "stages": [
+  "ug",
+  "gr"
+ ],
+ "u": "https://www.jpl.nasa.gov/edu/internships/apply/summer-internship-program/",
+ "unv": "The page does not give the stipend amount.",
+ "us": true
+}

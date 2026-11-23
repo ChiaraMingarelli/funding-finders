@@ -1,0 +1,29 @@
+{
+ "a": "Salary not stated; start spring to fall 2027",
+ "added": "2026-11-23",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-23",
+ "d": "2026-12-15",
+ "dt": "Application deadline Dec 15, 2026",
+ "e": "Postdoc in QCD theory and phenomenology tied to the LHC, RHIC and the future EIC, including AI/ML for theory and data analysis and quantum simulation in nuclear and particle physics. PhD required by the start; no citizenship limit stated.",
+ "f": "University of California, Los Angeles, High Energy Nuclear Theory Group (Zhongbo Kang)",
+ "fields": [
+  "nut",
+  "ppt"
+ ],
+ "id": "ucla-hent-qcd-postdoc-2027",
+ "n": "UCLA: Postdoctoral Fellow in High-Energy Nuclear Theory (QCD)",
+ "nfit": "Low",
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33506",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33506"
+}
