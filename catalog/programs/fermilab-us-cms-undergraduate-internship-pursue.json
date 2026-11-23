@@ -5,9 +5,9 @@
   "yale"
  ],
  "c": "Summer program",
- "checked": "2026-10-12",
+ "checked": "2026-11-23",
  "d": null,
- "dt": "All 2027 dates listed as TBD.",
+ "dt": "All 2027 dates (application, offer, program) listed as TBD; the next cycle is not posted yet.",
  "e": "Full-time undergrads at US institutions with at least 1 year completed, age 18+. No citizenship requirement stated. Work at a US CMS institution.",
  "f": "Fermilab / US CMS",
  "fields": [
@@ -23,6 +23,6 @@
   "ug"
  ],
  "u": "https://internships.fnal.gov/u-s-cms-undergraduate-internship/",
- "unv": "2027 dates not posted as of the last successful check; the page returned HTTP 403 (\"Just a moment\" check) on Oct 21, Oct 26, Nov 2, Nov 9 and Nov 16, 2026, so it was not rechecked",
+ "unv": "Application and program dates are listed as TBD on the official page (Nov 23, 2026).",
  "us": false
 }

@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-10-12",
+ "checked": "2026-11-23",
  "d": null,
- "dt": "Review began Oct 1, 2026; open until filled (job-board copies closed Oct 6, 2026)",
+ "dt": "Review began Oct 1, 2026; open until filled",
  "e": "All subfields of physics and applied physics, theory or experiment. Start 2027-28.",
  "f": "Dept. of Physics, University of Richmond",
  "fields": [
@@ -18,12 +18,12 @@
  "nfit": "Low",
  "nom": false,
  "region": "US",
- "s": "watch",
+ "s": "rolling",
  "src": "other:physicstoday-41980238",
  "stages": [
   "fj"
  ],
- "u": "https://jobs.richmond.edu",
- "unv": "jobs.richmond.edu could not be reached on Oct 12, 21, 26, Nov 2, Nov 9 or Nov 16, 2026 (TLS error / HTTP 503). The Physics Today copy says the job is no longer available (closed Oct 6, 2026), and the Inside Higher Ed copy is marked expired. Not confirmed whether the post is still open on the university site.",
+ "u": "https://richmond.wd5.myworkdayjobs.com/staff_faculty/job/UR-Main-Campus/Assistant-Professor-of-Physics_JR101387",
+ "unv": "Job-board copies (Physics Today, Inside Higher Ed) show it closed or expired, but the university's Workday posting JR101387 was still accepting applications on Nov 23, 2026.",
  "us": false
 }

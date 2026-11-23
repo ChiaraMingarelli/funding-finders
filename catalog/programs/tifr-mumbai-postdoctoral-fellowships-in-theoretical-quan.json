@@ -1,5 +1,5 @@
 {
- "a": "Competitive salary and housing allowance (no figure)",
+ "a": "Competitive salary and housing allowances plus research funding (no figures given)",
  "added": "2026-11-11",
  "aud": [
   "yale",
@@ -7,7 +7,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-11-11",
+ "checked": "2026-11-23",
  "d": "2026-12-01",
  "dt": "Dec 1, 2026 for full consideration; rolling after",
  "e": "Two postdoctoral fellowships at TIFR in theoretical condensed matter and quantum information on quantum matter far from equilibrium. PhD in physics or a related field, completed or near completion.",
@@ -28,6 +28,5 @@
   "pd"
  ],
  "u": "https://www.non-eq.com/openings/tifr",
- "unv": "non-eq.com blocked automated access (HTTP 403) on Nov 16, 2026; details as last read on Nov 11, 2026.",
  "us": false
 }

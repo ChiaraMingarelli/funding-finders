@@ -1,12 +1,12 @@
 {
- "a": "3,133-3,571 EUR gross/month (CNRS postdoc scale)",
+ "a": "3,133-3,571 EUR gross/month (CNRS postdoc scale); expected contract 2 years",
  "added": "2026-11-17",
  "aud": [
   "yale",
   "ng"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-17",
+ "checked": "2026-11-23",
  "d": "2027-01-20",
  "dt": "Due Jan 20, 2027 (offer PD-2627-NS-01)",
  "e": "Group postdoc on tracking software and tracker layout for the nuSCOPE tagged/monitored neutrino beam project at CERN, based at CPPM Marseille. Requires a PhD in particle physics or related field; no citizenship restriction stated.",
@@ -28,6 +28,5 @@
   "pd"
  ],
  "u": "https://mperrint.web.cern.ch/Jobs/EXTASE_PostDoc_CPPM_EN.html",
- "unv": "Contract duration not stated",
  "us": false
 }

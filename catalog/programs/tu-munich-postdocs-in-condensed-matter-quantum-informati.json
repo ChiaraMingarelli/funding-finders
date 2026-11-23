@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-16",
- "d": "2026-11-22",
- "dt": "Nov 22, 2026, 17:59 (time zone not stated)",
+ "checked": "2026-11-23",
+ "d": null,
+ "dt": "Applications were due Nov 22, 2026; the posting says later applications may also be considered",
  "e": "Quantum many-body systems, nonequilibrium dynamics, correlated/topological matter, quantum optics, cold gases and quantum simulation/computing. Two letters; start Fall 2027.",
  "f": "Technische Universitat Munchen, Physics Dept., Condensed Matter Theory (Laura Classen, Michael Knap, Johannes Knolle, Barbara Kraus, Sanjay Moudgalya, Marko Ljubotina, Frank Pollmann, Peter Rabl)",
  "fields": [
@@ -20,7 +20,7 @@
  "n": "TU Munich: Postdocs in Condensed Matter & Quantum Information Theory",
  "nom": false,
  "pt": "group",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:32594",
  "stages": [
   "pd"

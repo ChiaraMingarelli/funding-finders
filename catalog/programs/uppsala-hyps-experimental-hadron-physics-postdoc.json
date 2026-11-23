@@ -1,12 +1,12 @@
 {
- "a": "Not stated",
+ "a": "Individual salary setting; two-year fixed-term post with a possible one-year extension; start Apr 1, 2027 or by agreement",
  "added": "2026-11-21",
  "aud": [
   "yale",
   "ng"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-21",
+ "checked": "2026-11-23",
  "d": "2027-01-15",
  "dt": "Apply by January 15, 2027 via Uppsala recruitment system",
  "e": "Postdoc on hyperon-nucleon interaction experiments with the HYPS collaboration at SPring-8 (Japan), including a two-month on-site visit in 2027 and data analysis in Uppsala. Requires a physics PhD, preferably within three years of the deadline, with hadron physics and data analysis background; no citizenship limit stated.",
@@ -26,6 +26,6 @@
   "pd"
  ],
  "u": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=990674",
- "unv": "Salary and appointment length not stated in the INSPIRE text; host page not opened.",
+ "unv": "Salary amount not stated (Uppsala uses individual salary setting).",
  "us": false
 }

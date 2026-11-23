@@ -1,12 +1,12 @@
 {
- "a": "2 years, possible 3rd",
+ "a": "2 years, possible 3rd; expected hiring range $72,879-$121,465",
  "added": "2026-10-20",
  "aud": [
   "yale",
   "ng"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-21",
+ "checked": "2026-11-23",
  "d": null,
  "dt": "Applications received by Nov 20, 2026 got fullest consideration; the Argonne ad (requisition #423584) is still posted and accepting applications",
  "e": "Postdocs in QCD/hadron physics and nuclear structure and reactions, with emphasis on AI and quantum information science. PhD in theoretical physics required by the start, with no more than 5 years of postdoctoral experience.",
@@ -26,6 +26,6 @@
   "pd"
  ],
  "u": "https://inspirehep.net/jobs/3216123",
- "unv": "The application link is a tiny.cc short link to Argonne's careers site; citizenship requirements not stated.",
+ "unv": "Citizenship requirements not stated.",
  "us": false
 }

@@ -27,6 +27,6 @@
   "fj"
  ],
  "u": "https://www.iopb.res.in/job_opening/hep-faculty-advertisement/",
- "unv": "Details taken from the INSPIRE description; the host's application form was not read. iopb.res.in could not be reached on Oct 21, Nov 2 or Nov 9, 2026 (connection failed); INSPIRE still lists the post as open to Nov 14, 2026. The IOP Bhubaneswar ad could not be reached on Nov 15, 2026 (TLS error), so it is not confirmed whether applications are still accepted. iopb.res.in could not be reached again on Nov 16, 2026 (TLS error).",
+ "unv": "Details taken from the INSPIRE description; the host's application form was not read. iopb.res.in could not be reached on Oct 21, Nov 2 or Nov 9, 2026 (connection failed); INSPIRE still lists the post as open to Nov 14, 2026. The IOP Bhubaneswar ad could not be reached on Nov 15, 2026 (TLS error), so it is not confirmed whether applications are still accepted. iopb.res.in could not be reached again on Nov 16, 2026 (TLS error). iopb.res.in failed again on Nov 23, 2026 (self-signed TLS certificate / HTTP 503); INSPIRE still shows the post as closed with deadline 2026-11-14.",
  "us": false
 }

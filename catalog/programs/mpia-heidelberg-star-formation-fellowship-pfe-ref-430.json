@@ -32,6 +32,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/07007ae4",
- "unv": "The AAS Job Register blocked automated access (HTTP 403, again on Nov 16, 2026) and no MPIA host ad for Ref. 430 was found, so it is unknown whether applications are still accepted after the Nov 15, 2026 deadline.",
+ "unv": "The AAS Job Register blocked automated access (HTTP 403, again on Nov 16, 2026) and no MPIA host ad for Ref. 430 was found, so it is unknown whether applications are still accepted after the Nov 15, 2026 deadline. Still blocked on Nov 23, 2026 (mpia.de/jobs returned 404).",
  "us": false
 }

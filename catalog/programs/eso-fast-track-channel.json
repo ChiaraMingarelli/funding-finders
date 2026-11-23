@@ -6,9 +6,9 @@
   "ast"
  ],
  "c": "Observing time",
- "checked": "2026-11-16",
- "d": null,
- "dt": "Closed; ESO says FTC 117B will be released on Nov 18, 2026",
+ "checked": "2026-11-23",
+ "d": "2026-12-16",
+ "dt": "FTC 117B: Dec 16, 2026, 12:00 noon CET, for VLT/VLTI programmes of up to 30 h observed Mar 1 to Apr 30, 2027",
  "e": "ESO's quick channel for small programs, with staggered deadlines. Open to scientists worldwide.",
  "f": "European Southern Observatory",
  "fields": [
@@ -19,7 +19,7 @@
  "nom": false,
  "pt": "other",
  "region": "International",
- "s": "watch",
+ "s": "open",
  "src": "other:eso-ftc-cfp",
  "stages": [
   "tt",
@@ -27,6 +27,5 @@
   "pd"
  ],
  "u": "https://www.eso.org/sci/observing/phase1/fast-track-channel.html",
- "unv": "FTC 117B deadlines are not posted yet; ESO says only that the call will be released on Nov 18, 2026.",
  "us": false
 }

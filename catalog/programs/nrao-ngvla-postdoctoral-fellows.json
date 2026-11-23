@@ -32,6 +32,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/98271d30",
- "unv": "The AAS ad returned 403, so details (deadline, salary, term) come from search-engine snippets of the AAS listing. The posting date, NRAO's own careers link and eligibility are unverified.",
+ "unv": "The AAS ad returned 403, so details (deadline, salary, term) come from search-engine snippets of the AAS listing. The posting date, NRAO's own careers link and eligibility are unverified. AAS still returned 403 on Nov 23, 2026; search snippets still show Dec 1, 2026.",
  "us": false
 }

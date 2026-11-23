@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-10-12",
+ "checked": "2026-11-23",
  "d": null,
  "dt": "Last window Sep 1 to Oct 16, 2026. Three cycles a year (January, May, September); the next window's dates are not posted yet.",
  "e": "PhD before start and no more than 5 years past the degree at application. Needs a proposal aligned with the ORNL mission.",
@@ -27,6 +27,6 @@
   "pd"
  ],
  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Distinguished-Staff-Fellowship-Program-TN-37830/1424893900/",
- "unv": "Window and deadline confirmed on the ORNL job posting (requisition 17022) on Oct 8, 2026. The program page ornl.gov/careers/distinguished-fellowships blocked automated access (HTTP 403, also on Oct 26, 2026), so the note about three cycles a year was not reconfirmed. ORNL jobs site unreachable on Oct 21, Oct 26, Nov 2, Nov 9 and Nov 16, 2026 (TLS error / HTTP 503 / no connection), so the posting was not rechecked.",
+ "unv": "The ORNL posting for the last window (requisition 17022) shows 'This posting has closed' (checked Nov 23, 2026). The program page ornl.gov/careers/distinguished-fellowships blocks automated access (HTTP 403, also on Nov 23, 2026), so the note about three cycles a year and the next window were not reconfirmed.",
  "us": false
 }

@@ -4,10 +4,11 @@
  "asub": [],
  "aud": [
   "ast",
-  "ng"
+  "ng",
+  "radar"
  ],
  "c": "Observing time",
- "checked": "2026-11-16",
+ "checked": "2026-11-23",
  "d": null,
  "dt": "2026 call (OT7) closed 15 Jul 2026, 12:00 UTC; next call not posted",
  "e": "MeerKAT's yearly open-time call. Any researcher may lead a proposal, including postdocs and PhD students, from any institution.",
@@ -17,7 +18,7 @@
  ],
  "id": "meerkat-open-time",
  "n": "MeerKAT Open Time Call",
- "nfit": "Medium",
+ "nfit": "High",
  "nom": false,
  "pt": "other",
  "region": "International",
@@ -30,6 +31,6 @@
   "gr"
  ],
  "u": "https://skaafrica.atlassian.net/wiki/spaces/ESDKB/pages/3080126470/2026+Call+for+Proposals",
- "unv": "Next call date",
+ "unv": "Next call date not posted; the 2026 call says future calls are planned yearly.",
  "us": false
 }

@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-17",
+ "checked": "2026-11-23",
  "d": null,
- "dt": "Open until filled (posted Sep 29, 2026; req 17145)",
+ "dt": "Open at least 5 days, then closes once filled (req 17145; posting dated Oct 28, 2026)",
  "e": "Experimental postdoc in ORNL's Quantum Sensing and Computing Group on optomechanical sensors/transducers and photonic quantum states for sensing and computing; PhD within last 5 years, up to 24 months. Foreign nationals eligible subject to DOE access checks.",
  "f": "Oak Ridge National Laboratory",
  "fields": [
@@ -28,6 +28,5 @@
   "pd"
  ],
  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Photonic-Quantum-Sensing-and-Computing-TN-37830/1434743800/",
- "unv": "ORNL jobs site unreachable on Oct 21, Oct 26, Nov 2, Nov 9 and Nov 16, 2026 (TLS error / HTTP 503), so the posting was not rechecked.",
  "us": false
 }

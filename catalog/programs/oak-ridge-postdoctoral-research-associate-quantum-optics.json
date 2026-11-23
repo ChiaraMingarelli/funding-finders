@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-12",
+ "checked": "2026-11-23",
  "d": null,
- "dt": "Requisition 17146, posted late Sep 2026; no deadline stated",
+ "dt": "Open at least 5 days, then closes once filled (requisition 17146; posting dated Oct 28, 2026)",
  "e": "Build squeezed-light sensing and quantum-enhanced label-free microscopy for cells and tissues; PhD within the last 5 years, three reference letters required. Up to 24 months with possible extension; no citizenship restriction stated.",
  "f": "Oak Ridge National Laboratory, Quantum Computing and Sensing Group",
  "fields": [
@@ -29,6 +29,5 @@
   "pd"
  ],
  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Quantum-Optics-and-Bioimaging-TN-37830/1434745800/",
- "unv": "ORNL jobs site unreachable on Oct 21, Oct 26, Nov 2, Nov 9 and Nov 16, 2026 (TLS error / HTTP 503 / connection failure), so the posting was not rechecked.",
  "us": false
 }

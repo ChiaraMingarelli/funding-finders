@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-11-16",
- "d": "2026-11-22",
- "dt": "AJO deadline Nov 22, 2026; complete applications received by Nov 22, 2026 get full consideration, later ones may be considered until filled",
+ "checked": "2026-11-23",
+ "d": null,
+ "dt": "Full consideration for complete applications received by Nov 22, 2026; later applications may be considered until the position is filled",
  "e": "Open to all subfields, with particular interest in particle-astrophysics and biological physics. IGC and ICDS resources.",
  "f": "Dept. of Physics, Pennsylvania State University",
  "fields": [
@@ -18,7 +18,7 @@
  "nfit": "Medium",
  "nom": false,
  "region": "US",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:32889",
  "stages": [
   "fj"

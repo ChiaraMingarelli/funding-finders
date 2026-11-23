@@ -6,7 +6,7 @@
   "ast"
  ],
  "c": "Observing time",
- "checked": "2026-11-09",
+ "checked": "2026-11-23",
  "d": "2026-11-30",
  "dt": "Monthly, due on the last day of each month at noon HST; next one is 30 Nov 2026",
  "e": "A monthly call for short Gemini programs, reviewed by the other proposers. Open to researchers at Gemini participant institutions, which include US institutions; a graduate student may be PI with a PhD co-I as mentor.",
@@ -28,6 +28,5 @@
   "gr"
  ],
  "u": "https://www.gemini.edu/observing/phase-i/ft",
- "unv": "gemini.edu returned HTTP 403 to automated requests on Nov 16, 2026, so this row was not rechecked; values are from the Nov 9, 2026 check.",
  "us": false
 }

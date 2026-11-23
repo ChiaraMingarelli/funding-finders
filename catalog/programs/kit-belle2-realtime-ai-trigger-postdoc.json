@@ -1,14 +1,14 @@
 {
- "a": "salary not listed",
+ "a": "€66,800–81,900 gross per year; 2-year appointment",
  "added": "2026-11-17",
  "aud": [
   "yale",
   "ng"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-17",
- "d": "2026-12-18",
- "dt": "Due Dec 18, 2026",
+ "checked": "2026-11-23",
+ "d": "2026-12-15",
+ "dt": "Apply by Dec 15, 2026 (KIT posting 1272/2026)",
  "e": "Group postdoc developing ML trigger algorithms on FPGAs/AMD Versal for the Belle II upgrade. Requires a PhD in physics, electrical engineering or related field with FPGA firmware experience; no citizenship restriction stated.",
  "f": "Karlsruhe Institute of Technology (KIT)",
  "fields": [
@@ -27,6 +27,5 @@
   "pd"
  ],
  "u": "https://jobs.pse.kit.edu/en/jobs/171034/postdoctoral-researcher-fmd-algorithm-hardware-co-design-for-real-time-ai-in-particle-physics",
- "unv": "KIT ad not fetched; deadline from INSPIRE",
  "us": false
 }

@@ -25,6 +25,6 @@
   "fj"
  ],
  "u": "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29599&jobTitle=Assistant+%2F+Associate+Professor+in+Particle+Physics",
- "unv": "Imperial's job page did not show the ad text to an automated reader on Nov 9, 2026; closing date (25 Nov 2026) and salary confirmed on the jobs.ac.uk copy of the ad (ref. NAT02311).",
+ "unv": "Imperial's job page returned HTTP 403 to an automated reader on Nov 23, 2026; closing date (25 Nov 2026) and salary confirmed earlier on the jobs.ac.uk copy of the ad (ref. NAT02311); the INSPIRE copy is still open with the same date on Nov 23, 2026.",
  "us": false
 }

@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-11-16",
+ "checked": "2026-11-23",
  "d": null,
- "dt": "Candidates must be nominated and sponsored by LANL technical staff. Packages are reviewed at the Fall Quarterly Review.",
+ "dt": "Candidates must be nominated and sponsored by LANL technical staff. Packages are reviewed quarterly; the next (winter) review takes packages in January 2027.",
  "e": "Application within 5 years of PhD. Feynman is for theory and computing; Reines is for experimental science.",
  "f": "Los Alamos National Laboratory",
  "fields": [
@@ -27,6 +27,6 @@
   "pd"
  ],
  "u": "https://www.lanl.gov/engage/collaboration/postdoctoral-research/becoming-a-postdoc",
- "unv": "Sponsor deadline for the fall 2026 review not posted (the page says fall packages are submitted in October); distinguished-fellow salary not listed",
+ "unv": "Exact sponsor submission dates for the winter 2027 review are not posted (the page says only that packages are submitted in January); distinguished-fellow salary not listed",
  "us": false
 }

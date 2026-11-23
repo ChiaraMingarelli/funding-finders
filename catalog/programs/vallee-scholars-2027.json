@@ -23,7 +23,7 @@
   "tt"
  ],
  "u": "https://yale.infoready4.com/",
- "unv": "The Dec 1, 2026 nomination deadline and the $400,000 award are confirmed in the Vallee Foundation's 2027 call for nominations (copy posted by UW-Madison); the Feb 1, 2027 full-application date comes from Yale's Sep 30, 2026 newsletter. From Oct 21 to Nov 16, 2026 the Vallee Foundation site could not be reached (TLS error, HTTP 503, connection failure; valleefoundation.org returned 503 on Nov 16), and the InfoReady listing could not be read without a login.",
+ "unv": "The Dec 1, 2026 nomination deadline and the $400,000 award are confirmed in the Vallee Foundation's 2027 call for nominations (copy posted by UW-Madison); the Feb 1, 2027 full-application date comes from Yale's Sep 30, 2026 newsletter. From Oct 21 to Nov 23, 2026 the Vallee Foundation site could not be reached (valleefoundation.org returned HTTP 503 or no connection on Nov 23), and the InfoReady listing could not be read without a login.",
  "us": false,
  "yale": {
   "d": "2026-10-05",

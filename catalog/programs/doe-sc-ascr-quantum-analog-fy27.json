@@ -6,9 +6,9 @@
   "ap"
  ],
  "c": "Federal grant",
- "checked": "2026-11-16",
- "d": "2026-11-22",
- "dt": "Analog/natural-systems computing panel: pre-application by Nov 22, 2026. Quantum routing panel: pre-application by Jan 10, 2027. Other topics are open year-round.",
+ "checked": "2026-11-23",
+ "d": "2027-01-10",
+ "dt": "Quantum routing panel: pre-application by Jan 10, 2027. The analog/natural-systems computing panel pre-application date (Nov 22, 2026) has passed. Other topics accept applications all year under the FY2027 Open Call (open to Sep 30, 2027).",
  "e": "ASCR runs two panels with required pre-applications: one on foundations of analog computing and computing with physical systems, and one on quantum routing for fault-tolerant hardware. It also accepts year-round applications on quantum computing and networking software, testbeds and microelectronics for scientific computing. U.S. universities may apply.",
  "f": "DOE Office of Science (ASCR)",
  "fields": [
@@ -25,7 +25,7 @@
   }
  ],
  "nom": false,
- "s": "open",
+ "s": "rolling",
  "src": "grants:DE-FOA-0003665",
  "stages": [
   "tt",

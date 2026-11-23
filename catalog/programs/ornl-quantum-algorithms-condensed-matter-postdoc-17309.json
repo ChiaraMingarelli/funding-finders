@@ -6,7 +6,7 @@
   "ap"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-22",
+ "checked": "2026-11-23",
  "d": null,
  "dt": "Open at least 5 days; closes once a candidate is identified",
  "e": "A postdoc developing quantum algorithms to simulate condensed-matter systems on quantum computers, such as partially fault-tolerant methods, topological materials and thermodynamic properties. Requires a PhD in physics, chemistry, CS or a related field earned within 5 years. Appointment up to 24 months. Foreign nationals need a PIV or LSSO access determination; no citizenship requirement is stated.",
@@ -27,6 +27,6 @@
   "pd"
  ],
  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Quantum-Algorithms-TN-37830/1441978400/",
- "unv": "Salary not stated; posting date given as Oct 20–21, 2026 via the CQE job board. ORNL jobs site unreachable on Oct 21, Oct 26, Nov 2, Nov 9 and Nov 16, 2026 (TLS error / HTTP 503), so the posting was not rechecked.",
+ "unv": "Salary not stated.",
  "us": false
 }

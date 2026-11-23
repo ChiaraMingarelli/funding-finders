@@ -11,7 +11,7 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-16",
+ "checked": "2026-11-23",
  "d": "2027-02-28",
  "dt": "Feb 28, 2027 (INSPIRE deadline); apply by email",
  "e": "Postdoc with Donglian Xu's group developing lightweight AI algorithms on FPGAs for real-time waveform analysis and triggering in TRIDENT, a deep-sea neutrino telescope in the South China Sea, with work on event reconstruction and multimessenger astronomy.",
@@ -33,6 +33,6 @@
   "pd"
  ],
  "u": "https://inspirehep.net/jobs/3227787",
- "unv": "Salary and appointment length not stated in the INSPIRE listing; no host ad linked.",
+ "unv": "Salary and appointment length not stated in the INSPIRE listing; no host ad linked. The prefetched INSPIRE text was cut off on Nov 23, 2026, so its last part was not rechecked.",
  "us": false
 }

@@ -3,18 +3,22 @@
  "added": "2026-09-28",
  "aud": [
   "yale",
-  "ast"
+  "ast",
+  "ap"
  ],
  "c": "Federal grant",
- "checked": "2026-11-16",
+ "checked": "2026-11-23",
  "d": null,
- "dt": "No topic is open: the program page (updated Aug 14, 2026) lists \"FRHTP topic and PHY program accepting proposals: None\". Proposals are accepted only in topics NSF posts there, under NSF 26-523.",
- "e": "Multi-investigator theory groups at US institutions.",
+ "dt": "Open: the program page (updated Nov 16, 2026) lists participating topics (AMO theory, EPP/Cosmology theory, nuclear theory, plasma physics (nonlinear QED), QIS and PoLS, any topic in scope). Proposals go to the participating MPS Physics program under NSF 26-523, which accepts proposals anytime; contact the program first.",
+ "e": "Hub awards for multi-investigator theory groups at US institutions, submitted through a participating MPS Physics program (AMO theory, EPP/Cosmology theory, nuclear theory, plasma physics, QIS or PoLS). Awards run up to five years and typically support 3 to 5 postdoctoral researchers.",
  "f": "NSF MPS/PHY (NSF 26-523)",
  "fields": [
   "ppt",
   "nut",
-  "astro"
+  "astro",
+  "amo",
+  "qp",
+  "bio"
  ],
  "id": "nsf-focused-research-hubs-in-theoretical-physics-frhtp",
  "n": "NSF Focused Research Hubs in Theoretical Physics (FRHTP)",
@@ -25,7 +29,7 @@
   }
  ],
  "nom": false,
- "s": "watch",
+ "s": "rolling",
  "stages": [
   "tt",
   "ten"

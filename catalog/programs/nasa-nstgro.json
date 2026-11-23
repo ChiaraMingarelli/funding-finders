@@ -5,9 +5,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-11-16",
- "d": null,
- "dt": "Annual call via NSPIRES (as an appendix to SpaceTech-REDDI). The last cycle (NSTGRO26, posted Dec 19, 2025) was due Jan 29, 2026; the next call is not yet posted.",
+ "checked": "2026-11-23",
+ "d": "2026-12-09",
+ "dt": "NSTGRO27 (Fall 2027) released Nov 6, 2026 via NSPIRES: mandatory preliminary proposals due Dec 9, 2026; grants.gov lists a Mar 18, 2027 close date for full proposals",
  "e": "Graduate fellowships for space-technology research such as sensors, optics and materials. Each fellow gets a NASA collaborator and a visiting-technologist stay at a NASA center. U.S. citizens, nationals and permanent residents only; applicants must be undergraduates or first-year graduate students at the time of applying.",
  "f": "NASA Space Technology Mission Directorate",
  "fields": [
@@ -26,12 +26,12 @@
   }
  ],
  "nom": false,
- "s": "watch",
+ "s": "open",
  "src": "other:nasa-nstgro",
  "stages": [
   "gr"
  ],
  "u": "https://www.nasa.gov/directorates/spacetech/strg/nstgro",
- "unv": "The stipend figure comes from an earlier solicitation; the NSTGRO26 grants.gov notice (NNH26ZTR001N-26NSTGRO-B6) lists an $84,000 award maximum. The date of the next cycle is unknown.",
+ "unv": "The $40,000 student stipend figure comes from an earlier solicitation; the NSTGRO27 grants.gov notice (NNH26ZTR001N-26NSTGRO-B4) lists an $84,000 award maximum and 35 awards. Time of day of the deadlines and the eligibility profiles in section B.1 of the appendix were not checked.",
  "us": true
 }

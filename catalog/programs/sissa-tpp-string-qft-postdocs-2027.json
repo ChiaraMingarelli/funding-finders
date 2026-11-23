@@ -6,7 +6,7 @@
   "ng"
  ],
  "c": "Group postdoc",
- "checked": "2026-10-30",
+ "checked": "2026-11-23",
  "d": "2026-12-16",
  "dt": "Dec 16, 2026, through the common European postdoc call on AJO (job 32558)",
  "e": "Several postdocs in quantum field theory, holography, string theory and their links to condensed matter and mathematical physics. Apply through the common European postdoc application site.",
@@ -27,6 +27,6 @@
   "pd"
  ],
  "u": "https://www.sissa.it/tpp/joinus/joinus.php.html",
- "unv": "Salary not listed. The SISSA TPP join-us page returned HTTP 404 on Nov 9 and Nov 16, 2026; the INSPIRE record (status open, deadline Dec 16, 2026, read Nov 16) still lists the call.",
+ "unv": "Salary not listed. The SISSA TPP join-us page returned HTTP 404 on Nov 9, 16 and 23, 2026; the INSPIRE record (status open) and AJO job 32558, read Nov 23, both give the Dec 16, 2026 deadline.",
  "us": false
 }

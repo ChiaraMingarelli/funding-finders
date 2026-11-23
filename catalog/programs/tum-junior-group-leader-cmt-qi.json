@@ -7,9 +7,9 @@
   "ap"
  ],
  "c": "Fellowship",
- "checked": "2026-11-16",
- "d": "2026-11-22",
- "dt": "Apply by Nov 22, 2026; later applications may be considered",
+ "checked": "2026-11-23",
+ "d": null,
+ "dt": "Applications were due Nov 22, 2026; the posting says later applications may also be considered",
  "e": "Independent junior group leader position embedded in the TUM condensed matter and quantum information theory groups, for candidates with a strong postdoctoral record. No citizenship limit stated.",
  "f": "Technical University of Munich",
  "fields": [
@@ -22,7 +22,7 @@
  "nom": false,
  "pt": "prize",
  "region": "International",
- "s": "open",
+ "s": "rolling",
  "src": "ajo:32778",
  "stages": [
   "pd"

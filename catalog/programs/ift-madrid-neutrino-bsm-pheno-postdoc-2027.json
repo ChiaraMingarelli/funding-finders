@@ -6,9 +6,9 @@
   "ng"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-17",
+ "checked": "2026-11-23",
  "d": "2027-01-08",
- "dt": "Due Jan 8, 2027 (INSPIRE deadline)",
+ "dt": "Due Jan 8, 2027; all materials and reference letters must be received by then",
  "e": "Two-year postdoc with the IFT/UAM neutrino and BSM groups (with visits to the U. Barcelona group), starting Fall 2027. Requires a PhD by the start; no citizenship restriction stated.",
  "f": "Instituto de Fisica Teorica (IFT UAM-CSIC)",
  "fields": [
@@ -27,6 +27,5 @@
   "pd"
  ],
  "u": "https://calls.ift.uam-csic.es/convocatoria/NjY=",
- "unv": "Deadline taken from INSPIRE; not confirmed on IFT call page",
  "us": false
 }

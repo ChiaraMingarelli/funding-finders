@@ -7,9 +7,9 @@
   "ng"
  ],
  "c": "Observing time",
- "checked": "2026-11-16",
- "d": null,
- "dt": "The 2026OCT deadline was 07:00 UT, 16 June 2026. ATNF's guide (dates approximate): APR-semester proposals open mid-November, deadline mid-December, observations start 1 April.",
+ "checked": "2026-11-23",
+ "d": "2026-12-15",
+ "dt": "Proposals for the 2027 April semester are open; deadline 06:00 UT (17:00 Sydney time) Tue Dec 15, 2026. Observations start April 1, 2027.",
  "e": "CSIRO runs its radio telescopes as national facilities and allocates time 'to astronomers around the world on scientific merit', in two semesters a year.",
  "f": "CSIRO Australia Telescope National Facility",
  "fields": [
@@ -21,7 +21,7 @@
  "nom": false,
  "pt": "other",
  "region": "International",
- "s": "watch",
+ "s": "open",
  "src": "other:atnf-cfp",
  "stages": [
   "tt",
@@ -29,6 +29,6 @@
   "pd"
  ],
  "u": "https://www.atnf.csiro.au/facilities/apply-for-time/",
- "unv": "The exact 2027APR deadline is not yet announced, and the dates on the page are approximate. Grad-student PI status was not checked.",
+ "unv": "Grad-student PI status was not checked.",
  "us": false
 }

@@ -1,12 +1,12 @@
 {
- "a": "Up to 10k Perlmutter GPU node-hrs",
+ "a": "Up to 10,000 Perlmutter GPU node-hours (more possible) and up to 20,000 CPU node-hours per project",
  "added": "2026-09-28",
  "aud": [
   "radar",
   "ast"
  ],
  "c": "Compute",
- "checked": "2026-11-09",
+ "checked": "2026-11-23",
  "d": null,
  "dt": "Rolling until resources run out; awards end Jan 19, 2027",
  "e": "DOE NERSC call for AI-for-science projects on Perlmutter, open until resources run out; awards end Jan 19, 2027. Ask NERSC whether hours remain.",
@@ -27,6 +27,6 @@
   "ten"
  ],
  "u": "https://www.nersc.gov/news-and-events/news/2026-ai-for-science-cfp",
- "unv": "DOE-funding requirement. nersc.gov blocked automated access (HTTP 403) on Nov 16, 2026, so the page was not rechecked.",
+ "unv": "The page does not say whether resources remain (submissions by Apr 30, 2026 got full consideration); proposals are judged partly on relevance to the DOE Office of Science mission. No DOE-funding requirement is stated.",
  "us": false
 }

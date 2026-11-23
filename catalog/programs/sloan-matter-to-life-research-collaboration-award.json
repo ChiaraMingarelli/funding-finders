@@ -10,9 +10,9 @@
   "ast"
  ],
  "c": "Foundation",
- "checked": "2026-10-21",
+ "checked": "2026-11-23",
  "d": null,
- "dt": "No deadline: letters of inquiry (up to 2 pages, with the lead PI's CV) are accepted on a rolling basis; full proposals are by invitation",
+ "dt": "Closed to new letters of inquiry; Sloan invites letters of inquiry after Feb 1, 2027 (full proposals by invitation)",
  "e": "Sloan's Matter-to-Life program funds research on the physical principles that distinguish living systems from non-living matter (building life, principles of life, signs of life such as atmospheric signatures); biomedical and disease-related research is not supported. This award supports a collaboration of two or more PIs, for experiment, theory or both.",
  "f": "Alfred P. Sloan Foundation",
  "fields": [
@@ -22,14 +22,14 @@
  "id": "sloan-matter-to-life-research-collaboration-award",
  "n": "Sloan Matter-to-Life Research Collaboration Award",
  "nom": false,
- "s": "rolling",
+ "s": "watch",
  "src": "other:sloan-m2l-collab",
  "stages": [
   "tt",
   "ten"
  ],
  "u": "https://sloan.org/programs/research/matter-to-life",
- "unv": "sloan.org blocked automated access (HTTP 403 / \"Just a moment\" check) on Oct 21, Oct 26, Nov 2, Nov 9 and Nov 16, 2026. The award sizes and LOI format come from search results of Sloan's Matter-to-Life page and its LOI guidelines (last updated Mar 18, 2022), which give no LOI deadline; the rolling LOI status comes from Yale's InfoReady listing, not from Sloan's own page.",
+ "unv": "Sloan's Matter-to-Life page (read Nov 23, 2026) says the program is closed to new letters of inquiry until after Feb 1, 2027, and does not list award types or sizes; the award sizes and LOI format come from Sloan's LOI guidelines (last updated Mar 18, 2022), not re-read this run.",
  "us": false,
  "yale": {
   "d": null,

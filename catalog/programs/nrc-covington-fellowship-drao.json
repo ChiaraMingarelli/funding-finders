@@ -31,6 +31,6 @@
   "pd"
  ],
  "u": "https://nrc.canada.ca/en/corporate/careers/covington-fellowship",
- "unv": "Next competition dates not announced (the page says competitions are typically held every 2 years). nrc.canada.ca returned HTTP 403 to automated access on Nov 16, 2026, so the page was not rechecked.",
+ "unv": "Next competition dates not announced (the page says competitions are typically held every 2 years). nrc.canada.ca returned HTTP 403 (security check) to automated access on Nov 16 and Nov 23, 2026, so the page was not rechecked.",
  "us": false
 }

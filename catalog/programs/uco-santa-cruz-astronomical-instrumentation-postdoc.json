@@ -31,6 +31,6 @@
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/9d513651",
- "unv": "AAS Job Register blocks automated access; no host ad found on UCSC Recruit's open-positions list on Nov 9, 2026, and ucolick.org returned HTTP 503. All details from search-engine snippets; deadline, salary, posting date and start date (no later than Oct 1, 2027) not confirmed on the ad itself. On Nov 17, 2026 the AAS ad again returned HTTP 403 and no host ad was found, so whether it is still open could not be checked.",
+ "unv": "AAS Job Register blocks automated access; no host ad found on UCSC Recruit's open-positions list on Nov 9, 2026, and ucolick.org returned HTTP 503. All details from search-engine snippets; deadline, salary, posting date and start date (no later than Oct 1, 2027) not confirmed on the ad itself. On Nov 17, 2026 the AAS ad again returned HTTP 403 and no host ad was found, so whether it is still open could not be checked. Still blocked on Nov 23, 2026.",
  "us": false
 }
