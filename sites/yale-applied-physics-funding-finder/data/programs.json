@@ -2534,6 +2534,33 @@
   "us": false
  },
  {
+  "a": "Postdoc funded by a WACQT grant; salary and term not stated",
+  "added": "2026-11-23",
+  "c": "Group postdoc",
+  "checked": "2026-11-23",
+  "d": "2026-12-31",
+  "dt": "Application deadline Dec 31, 2026",
+  "e": "Postdoc in quantum Shannon theory, entanglement and nonlocality, and operator-algebraic methods, including security proofs for continuous-variable and device-independent QKD. No citizenship limit stated.",
+  "f": "Chalmers University of Technology, Department of Mathematical Sciences (Mizanur Rahaman)",
+  "fields": [
+   "qp"
+  ],
+  "id": "chalmers-rahaman-quantum-info-theory-postdoc",
+  "n": "Chalmers University of Technology: Postdoc in quantum information theory (Rahaman, WACQT)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-chalmers-rahaman-qit",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://quantiki.org/position/postdoctoral-position-quantum-information-theory-3",
+  "unv": "Chalmers' own vacancy page (job 15161) did not load; details from the PI's Quantiki posting.",
+  "us": false
+ },
+ {
   "a": "Varies by RFA",
   "added": "2026-09-28",
   "c": "Foundation",
@@ -2640,6 +2667,29 @@
   ],
   "u": "https://chicagoquantum.org/oqi-undergraduate-fellowship",
   "unv": "Some host placement dates (Ohio State, Argonne, UIUC) are listed as TBA.",
+  "us": false
+ },
+ {
+  "a": "HKD 19,100–19,600 per month in Hong Kong or RMB 12,000 per month in Dongguan (2025/26 rates); up to 4 years",
+  "added": "2026-11-23",
+  "c": "Graduate program",
+  "checked": "2026-11-23",
+  "d": "2027-01-15",
+  "dt": "Application deadline Jan 15, 2027; admission June 2027",
+  "e": "PhD in quantum Shannon theory (channel coding and capacities, one-shot and finite-blocklength theory, hypothesis testing). Applicants must meet CityUHK PhD admission requirements; no citizenship limit stated.",
+  "f": "City University of Hong Kong, Department of Physics (Oscar Dahlsten) and CityU Dongguan (Michael Xuan Cao)",
+  "fields": [
+   "qp"
+  ],
+  "id": "cityu-hk-dongguan-quantum-shannon-theory-phd",
+  "n": "City University of Hong Kong (Dongguan PhD Project): PhD in quantum information theory",
+  "nom": false,
+  "s": "open",
+  "src": "other:quantiki-cityu-dongguan-qit-phd",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://quantiki.org/position/phd-position-quantum-information-theory-dongguan-phd-project-city-university-hong-kong",
   "us": false
  },
  {
@@ -5808,6 +5858,31 @@
   "us": false
  },
  {
+  "a": "€2,832.10 gross per month, paid 14 times a year (FWF scale)",
+  "added": "2026-11-23",
+  "c": "Graduate program",
+  "checked": "2026-11-23",
+  "d": "2026-12-27",
+  "dt": "Deadline Dec 27, 2026; review began Nov 5, 2026 and continues until filled",
+  "e": "Theory PhD on numerical simulation of dipolar many-body systems (Gross-Pitaevskii beyond mean field), quantum phase transitions and dipolar mixtures. Requires a master's degree in physics or close field; no citizenship limit stated.",
+  "f": "University of Innsbruck and IQOQI Innsbruck, Dipolar Quantum Gas Group (Francesca Ferlaino)",
+  "fields": [
+   "amo",
+   "qp",
+   "cmt"
+  ],
+  "id": "innsbruck-ferlaino-dipolar-gases-theory-phd",
+  "n": "University of Innsbruck / IQOQI: PhD in theoretical physics, dipolar quantum gases (Ferlaino group)",
+  "nom": false,
+  "s": "open",
+  "src": "other:quantiki-innsbruck-dipolar-theory-phd",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://quantiki.org/position/phd-position-theoretical-physics-dipolar-quantum-gases",
+  "us": false
+ },
+ {
   "a": "Remuneration according to profile; 1-3 years (QuantERA COMPUTE and Quantum Network Algorithms grants)",
   "added": "2026-09-30",
   "c": "Group postdoc",
@@ -5890,6 +5965,30 @@
   "u": "https://www.zintellect.com/Opportunity/Details/ICPD-2026",
   "unv": "2027 cycle not posted; on Nov 23, 2026 the ICPD-2026 page said the opportunity is closed. A draft ICPD-2027 listing on Zintellect (draft status, applications not accepted) shows a Feb 28, 2027 deadline; d stays null until the call opens.",
   "us": true
+ },
+ {
+  "a": "PhD position (funding amount not stated)",
+  "added": "2026-11-23",
+  "c": "Graduate program",
+  "checked": "2026-11-23",
+  "d": "2027-01-15",
+  "dt": "Application deadline Jan 15, 2027; candidate enters the IP Paris PhD admissions competition",
+  "e": "PhD on quantum uncertainty relations and their links to signal processing, co-supervised by O. Rioul, M. G. Jabbour and P. Duhamel. Requires a master's degree in mathematics, physics, computer science or related field; no citizenship limit stated.",
+  "f": "Institut Polytechnique de Paris (Télécom Paris, Télécom SudParis, CentraleSupélec)",
+  "fields": [
+   "qp"
+  ],
+  "id": "ip-paris-quantum-info-signal-processing-phd",
+  "n": "Institut Polytechnique de Paris: PhD in quantum information and signal processing",
+  "nom": false,
+  "s": "open",
+  "src": "other:quantiki-ipparis-qi-signal-phd",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://quantiki.org/position/phd-position-intersection-quantum-information-and-signal-processing-institut-polytechnique",
+  "unv": "Funding level not stated; selection goes through the IP Paris doctoral competition.",
+  "us": false
  },
  {
   "a": "No cost to students; travel bursaries available; 30 places",
@@ -6108,6 +6207,33 @@
   "us": false
  },
  {
+  "a": "Monthly stipend (amount not listed); housing and travel allowance if your school is more than 50 miles from JPL",
+  "added": "2026-11-23",
+  "c": "Summer program",
+  "checked": "2026-11-23",
+  "d": "2027-03-12",
+  "dt": "Apply by Friday, March 12, 2027, 5 p.m. PDT; internships start in May or June",
+  "e": "10-week full-time summer research internships at JPL for undergraduate and graduate STEM students at accredited US universities with a cumulative GPA of at least 3.0. US citizens and lawful permanent residents only.",
+  "f": "NASA Jet Propulsion Laboratory (Caltech)",
+  "fields": [
+   "all"
+  ],
+  "id": "jpl-summer-internship-program-2027",
+  "n": "JPL Summer Internship Program (Summer 2027)",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:jpl-summer-internship-2027",
+  "stages": [
+   "ug",
+   "gr"
+  ],
+  "u": "https://www.jpl.nasa.gov/edu/internships/apply/summer-internship-program/",
+  "unv": "The page does not give the stipend amount.",
+  "us": true
+ },
+ {
   "a": "Up to 50,000,000 KRW/year gross; 1 year, renewable annually",
   "added": "2026-10-02",
   "c": "Group postdoc",
@@ -6309,6 +6435,34 @@
   "us": false
  },
  {
+  "a": "TRY 65,000 per month plus meal allowance and health insurance; 18 months",
+  "added": "2026-11-23",
+  "c": "Group postdoc",
+  "checked": "2026-11-23",
+  "d": "2026-12-10",
+  "dt": "Application deadline Dec 10, 2026",
+  "e": "TÜBİTAK 1001-funded postdoc on collision models for preparing entangled states and controlling energy and coherence in quantum networks (analytical and numerical work). PhD in physics or related field required; no citizenship limit stated.",
+  "f": "Koç University, QuEST group (Özgür E. Müstecaplıoğlu)",
+  "fields": [
+   "qp",
+   "amo"
+  ],
+  "id": "koc-quest-quantum-info-thermodynamics-postdoc",
+  "n": "Koç University (Istanbul): Postdoctoral Fellowship in Quantum Information Thermodynamics (QuEST group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-koc-quest-qit-thermo",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://quantiki.org/position/postdoctoral-fellowship-quantum-information-and-thermodynamics-ko%C3%A7-university-i%CC%87stanbul",
+  "unv": "Host's own ad not located; details from the Quantiki posting.",
+  "us": false
+ },
+ {
   "a": "TRY 65,000/month stipend plus TRY 250/day meal allowance and limited private health insurance; 18 months",
   "added": "2026-11-11",
   "c": "Group postdoc",
@@ -6335,6 +6489,31 @@
   "u": "https://quantiki.org/position/postdoctoral-fellowship-quantum-information-and-thermodynamics-ko%C3%A7-university-i%CC%87stanbul",
   "unv": "Ad found only on Quantiki (posted 11 Nov 2026); no separate page on the host site was found. Citizenship rules for TÜBİTAK bursiyer status not stated.",
   "us": false
+ },
+ {
+  "a": "Salary and term not stated",
+  "added": "2026-11-23",
+  "c": "Group postdoc",
+  "checked": "2026-11-23",
+  "d": "2026-12-29",
+  "dt": "Deadline Dec 29, 2026 (AJO)",
+  "e": "Anticipated postdoc openings in condensed matter theory in Egor Babaev's group; applicants with backgrounds in ultracold atoms or mathematical physics are also considered. No citizenship limit stated.",
+  "f": "KTH Royal Institute of Technology, Theoretical Physics (Egor Babaev)",
+  "fields": [
+   "cmt"
+  ],
+  "id": "kth-babaev-cmt-postdoc",
+  "n": "KTH Stockholm: Postdoctoral Researcher in Condensed Matter Theory (Babaev group)",
+  "nfit": "Low",
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33504",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33504",
+  "unv": "Posting gives no salary, term or start date"
  },
  {
   "a": "Distinguished postdoc appointment; LANL postdoc salaries start at $97,000.",
@@ -7325,6 +7504,31 @@
   "us": false
  },
  {
+  "a": "PhD positions with start in 2027 (funding amount not stated)",
+  "added": "2026-11-23",
+  "c": "Graduate program",
+  "checked": "2026-11-23",
+  "d": "2026-12-01",
+  "dt": "Apply via the online portal by Dec 1, 2026 (with at least two referee invitations)",
+  "e": "Germany-wide photonics graduate school linking university, Max Planck and Fraunhofer groups; projects include quantum communication, photonic quantum computing and quantum metrology. Requires an excellent master's degree in physics or related field (or near completion); no citizenship limit stated.",
+  "f": "Max Planck School of Photonics",
+  "fields": [
+   "phot",
+   "qp"
+  ],
+  "id": "max-planck-school-of-photonics-phd-2027",
+  "n": "Max Planck School of Photonics (Germany): PhD program, 2027 start",
+  "nom": false,
+  "s": "open",
+  "src": "other:mpsp-phd-2027",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://photonics.maxplanckschools.org/application",
+  "unv": "Details from a Quantiki posting by MPSP Fellows; stipend not stated there.",
+  "us": false
+ },
+ {
   "a": "2 years tuition/fees + $42,000/yr stipend + paid visit to Meta",
   "added": "2026-10-03",
   "c": "Industry",
@@ -7910,6 +8114,42 @@
    "ten"
   ],
   "u": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-346.html",
+  "us": false
+ },
+ {
+  "a": "R61 up to $150,000 (about 23 awards, $5.4M total); R33 up to $300,000 (about 14 awards, $6.6M total) - forecast figures",
+  "added": "2026-11-23",
+  "c": "Federal grant",
+  "checked": "2026-11-23",
+  "d": null,
+  "dt": "Forecast: NOFOs RFA-CA-28-001 (R61) and RFA-CA-28-002 (R33) estimated to post Jan 15, 2027 with applications due about Jun 4, 2027 (estimates, not posted dates).",
+  "e": "NCI's IMAT program funds development of new measurement, imaging, sensing and molecular-analysis technologies focused on cancer research or care: R61 for early proof-of-concept work, R33 for further development and validation of technologies with demonstrated feasibility. Universities, including foreign institutions per the forecast, may apply; no citizenship limit for PIs is stated.",
+  "f": "NIH NCI",
+  "fields": [
+   "bio",
+   "inst"
+  ],
+  "id": "nci-imat-r61-r33-cancer-technology-forecast",
+  "n": "NCI Innovative Molecular Analysis Technologies (IMAT): Early-Stage R61 and Advanced Development R33 - forecast",
+  "nofo": [
+   {
+    "opp": "RFA-CA-28-001",
+    "u": "https://simpler.grants.gov/opportunity/841ce4d3-5420-4630-a9c9-6b1635c773d9"
+   },
+   {
+    "opp": "RFA-CA-28-002",
+    "u": "https://simpler.grants.gov/opportunity/8747b235-c8dd-497f-a66b-9a9f5db2eb9c"
+   }
+  ],
+  "nom": false,
+  "s": "watch",
+  "src": "grants:RFA-CA-28-001",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://simpler.grants.gov/opportunity/841ce4d3-5420-4630-a9c9-6b1635c773d9",
+  "unv": "Both NOFOs are still forecasts on Grants.gov; post and due dates and award figures are agency estimates.",
   "us": false
  },
  {
@@ -9271,6 +9511,32 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33127",
   "us": false
+ },
+ {
+  "a": "$6,300 stipend plus meal stipend, round-trip airfare and dorm housing",
+  "added": "2026-11-23",
+  "c": "Summer program",
+  "checked": "2026-11-23",
+  "d": "2027-02-08",
+  "dt": "Due Mon Feb 8, 2027; program June 21 - Aug 20, 2027",
+  "e": "Nine-week full-time summer research on a nanotechnology project at Northwestern's International Institute for Nanotechnology, for physical-science and engineering majors with at least one year of study left. Open only to US citizens and permanent residents aged 18 or older.",
+  "f": "International Institute for Nanotechnology (IIN), Northwestern University",
+  "fields": [
+   "mat",
+   "dev",
+   "phot",
+   "bio"
+  ],
+  "id": "northwestern-iin-reu-2027",
+  "n": "Northwestern IIN REU in Nanotechnology (Summer 2027)",
+  "nom": false,
+  "s": "open",
+  "src": "other:northwestern-iin-reu",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://iin-reu-northwestern.submittable.com/",
+  "us": true
  },
  {
   "a": "$6,000 stipend plus on-campus housing and a travel allowance",
@@ -10876,6 +11142,31 @@
   "us": false
  },
  {
+  "a": "Two positions; two-year appointment, renewable; salary not stated",
+  "added": "2026-11-23",
+  "c": "Group postdoc",
+  "checked": "2026-11-23",
+  "d": "2026-11-30",
+  "dt": "Deadline Nov 30, 2026 (AJO)",
+  "e": "Two postdocs on quantum computing and AI: verifiable quantum advantage, quantum simulation of many-body and open systems, and machine learning for quantum computing, starting 2027. Requires a PhD in physics, computer science, applied mathematics or a related field; no citizenship limit stated.",
+  "f": "National University of Singapore, School of Computing & Department of Physics (Yuxuan Zhang)",
+  "fields": [
+   "qp",
+   "cmt"
+  ],
+  "id": "nus-quantum-ai-postdoc-zhang",
+  "n": "National University of Singapore: Postdoctoral Research Fellow in Quantum and AI (Yuxuan Zhang group)",
+  "nfit": "Low",
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:32512",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32512"
+ },
+ {
   "a": "Up to 30,000 NVIDIA H100 80GB GPU-hours, or up to eight RTX PRO 6000 GPUs (Simulation and Modeling call)",
   "added": "2026-11-16",
   "c": "Compute",
@@ -11735,6 +12026,32 @@
    "pd"
   ],
   "u": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar_R151630-2",
+  "us": true
+ },
+ {
+  "a": "$700/week stipend; May 31 - July 30, 2027",
+  "added": "2026-11-23",
+  "c": "Summer program",
+  "checked": "2026-11-23",
+  "d": null,
+  "dt": "Review begins in early February; applications reviewed until positions are full",
+  "e": "NSF REU site where undergraduates join research of OU physics and astronomy faculty. US citizens or permanent residents only.",
+  "f": "University of Oklahoma, Homer L. Dodge Department of Physics and Astronomy (NSF REU site)",
+  "fields": [
+   "all"
+  ],
+  "id": "ou-physics-astronomy-reu-2027",
+  "n": "University of Oklahoma Physics and Astronomy REU (Summer 2027)",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ou-reu-2027",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://www.ou.edu/cas/physics-astronomy/students/undergraduate/research/reu",
+  "unv": "The page lists 2027 program dates but its application link (NSF ETAP) is still labeled 2026; no fixed deadline is stated.",
   "us": true
  },
  {
@@ -14053,6 +14370,29 @@
   ],
   "u": "https://inspirehep.net/jobs/3204650",
   "us": false
+ },
+ {
+  "a": "Salary not stated",
+  "added": "2026-11-23",
+  "c": "Group postdoc",
+  "checked": "2026-11-23",
+  "d": null,
+  "dt": "No deadline stated; apply via the SU Job Opps listing",
+  "e": "Postdoc in the Computer Architecture Laboratory on classical and quantum computer architectures, memory systems, non-von Neumann computing, compilers or quantum computing. PhD in computer science, computer engineering, physics or a related field; no citizenship limit stated.",
+  "f": "Syracuse University, Department of Electrical Engineering and Computer Science (Alex Jones)",
+  "fields": [
+   "qp"
+  ],
+  "id": "syracuse-classical-quantum-architecture-postdoc",
+  "n": "Syracuse University: Postdoctoral Researcher, Classical and/or Quantum Computer Architectures (Jones lab)",
+  "pt": "group",
+  "s": "rolling",
+  "src": "ajo:32514",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.sujobopps.com/postings/104681",
+  "unv": "SU Job Opps page did not render for automated fetch; closing date not verified (AJO listing shown until Jan 13, 2027)"
  },
  {
   "a": "Up to 3 years, start Fall 2027; salary not stated",

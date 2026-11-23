@@ -143,6 +143,36 @@
   "us": false
  },
  {
+  "a": "Up to two fully funded PhD positions, no tuition fees; 3–4 years",
+  "added": "2026-11-23",
+  "asub": [
+   "he"
+  ],
+  "c": "Graduate program",
+  "checked": "2026-11-23",
+  "d": "2027-01-15",
+  "dt": "Apply by Jan 15, 2027 (23:59 UTC+1); reference letters by Jan 22, 2027",
+  "e": "PhD positions on mathematical structures of scattering amplitudes, Feynman integrals and symmetries of gravity, within IMPRS Gravity at the Extreme; one tied to the ERC Synergy Grant MaScAmp. Requires a master's degree by the start; no citizenship limit stated.",
+  "f": "Max Planck Institute for Gravitational Physics (AEI), Potsdam, Symmetries in Gravity and Amplitudes group",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "aei-potsdam-amplitudes-quantum-gravity-phd-2027",
+  "n": "Max Planck Institute for Gravitational Physics (AEI Potsdam): PhD positions in scattering amplitudes and quantum gravity",
+  "nfit": "Medium",
+  "nom": false,
+  "region": "International",
+  "s": "open",
+  "src": "other:lisa-aei-amplitudes-phd-2027",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://www.lisamission.org/phd-positions-in-scattering-amplitudes-and-quantum-gravity-at-the-max-planck-institute-for-gravitational-physics-in-potsdam/",
+  "unv": "AEI job-board page for the call returned 404 when checked; details from the LISA Consortium posting.",
+  "us": false
+ },
+ {
   "a": "TVöD Bund, usually E13; 2–3 years",
   "added": "2026-10-07",
   "asub": [
@@ -1982,6 +2012,61 @@
   "us": false
  },
  {
+  "a": "$8,000 stipend plus meal allowance, housing and travel; June 7 - Aug 13, 2027",
+  "added": "2026-11-23",
+  "asub": [
+   "star"
+  ],
+  "c": "Summer program",
+  "checked": "2026-11-23",
+  "d": null,
+  "dt": "Deadline not yet announced (the page says likely early February 2027); the application portal is expected to open in early December 2026",
+  "e": "Summer REU in solar physics at the Center for Astrophysics in Cambridge, MA. US citizens, US nationals and permanent residents only (including those at non-US colleges).",
+  "f": "Center for Astrophysics | Harvard & Smithsonian, High Energy Astrophysics and Solar & Stellar Physics",
+  "fields": [
+   "astro"
+  ],
+  "id": "cfa-heassp-solar-physics-reu-2027",
+  "n": "CfA Solar Physics REU (Summer 2027)",
+  "nfit": "Medium",
+  "nom": false,
+  "region": "US",
+  "s": "watch",
+  "src": "other:cfa-solar-reu-2027",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://www.cfa.harvard.edu/opportunities/graduate-undergraduate-programs/heassp-solar-physics-reu-program",
+  "unv": "Exact 2027 deadline and application link not yet posted.",
+  "us": true
+ },
+ {
+  "a": "Stipend (2026 listing: $800/week) and Harvard dormitory housing; May 30 - Aug 8, 2027",
+  "added": "2026-11-23",
+  "c": "Summer program",
+  "checked": "2026-11-23",
+  "d": "2027-02-01",
+  "dt": "Application deadline Feb 1, 2027; the portal is scheduled to open by Jan 10, 2027",
+  "e": "Ten-week REU in Cambridge, MA, where undergraduates do an astrophysics research project with an SAO or Harvard scientist. The 2026 listing limited it to US citizens and green card holders.",
+  "f": "Center for Astrophysics | Harvard & Smithsonian",
+  "fields": [
+   "astro"
+  ],
+  "id": "cfa-sao-astro-reu-2027",
+  "n": "CfA/SAO Astronomy Summer Intern Program (Astro REU, Summer 2027)",
+  "nfit": "Medium",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:cfa-sao-astro-reu-2027",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://www.cfa.harvard.edu/opportunities/graduate-undergraduate-programs/reu-summer-intern-program",
+  "unv": "The 2027 page states no stipend amount or citizenship rule; the $800/week stipend and US citizen/green card limit come from the 2026 AcademicJobsOnline listing.",
+  "us": true
+ },
+ {
   "a": "$67,600–69,000/yr; 2 years + possible 3rd",
   "added": "2026-09-30",
   "asub": [
@@ -3786,6 +3871,34 @@
   ],
   "u": "https://greenbankobservatory.org/graduate-students/",
   "unv": "No exact closing date is posted (only 'mid April').",
+  "us": false
+ },
+ {
+  "a": "$250 registration fee covers housing and food in Green Bank; June 27 - July 3, 2027, in person",
+  "added": "2026-11-23",
+  "c": "Training",
+  "checked": "2026-11-23",
+  "d": "2027-03-15",
+  "dt": "Applications open Oct 1, 2026 - Mar 15, 2027; decisions by Apr 1, 2027",
+  "e": "Week-long school at Green Bank on single-dish radio astronomy, with lectures and hands-on projects and tutorials, for students, postdocs and astronomers from other fields. No citizenship limits are stated.",
+  "f": "Green Bank Observatory (NSF)",
+  "fields": [
+   "astro"
+  ],
+  "id": "gbo-single-dish-summer-school-2027",
+  "n": "GBO Single Dish Summer School 2027",
+  "nfit": "High",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "open",
+  "src": "other:gbo-sdss-2027",
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "u": "https://greenbankobservatory.org/events/2027-sdss/",
+  "unv": "The registration ticket shows as sold out on the event page despite the stated application window; financial support is not mentioned.",
   "us": false
  },
  {
@@ -6053,6 +6166,36 @@
   "us": false
  },
  {
+  "a": "Support for a small number of doctoral studentship applications (amount not stated)",
+  "added": "2026-11-23",
+  "asub": [
+   "he"
+  ],
+  "c": "Graduate program",
+  "checked": "2026-11-23",
+  "d": "2027-01-11",
+  "dt": "Send expression of interest (subject GRIT-PhD-2027) by Jan 11, 2027",
+  "e": "The GRIT gravity group invites candidates to express interest in applying for doctoral studentships in gravitational physics with the group's support. Send motivation letter, CV, transcript and master thesis; no citizenship limit stated.",
+  "f": "Instituto Superior Tecnico, Lisbon, CENTRA / GRIT gravity group",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "ist-lisbon-grit-phd-studentships-eoi-2027",
+  "n": "Instituto Superior Tecnico (Lisbon), GRIT gravity group: expressions of interest for PhD studentships",
+  "nfit": "High",
+  "nom": false,
+  "region": "International",
+  "s": "open",
+  "src": "other:hyperspace-ist-grit-phd-2027",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://hyperspace.uni-frankfurt.de/2026/11/19/phd-positions-in-gravitational-physics-lisbon-portugal/",
+  "unv": "Stipend amount and the studentship call it feeds into are not stated in the post.",
+  "us": false
+ },
+ {
   "a": "1.5 years; salary not stated",
   "added": "2026-11-03",
   "asub": [
@@ -6233,6 +6376,33 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32881",
   "us": false
+ },
+ {
+  "a": "Monthly stipend (amount not listed); housing and travel allowance if your school is more than 50 miles from JPL",
+  "added": "2026-11-23",
+  "c": "Summer program",
+  "checked": "2026-11-23",
+  "d": "2027-03-12",
+  "dt": "Apply by Friday, March 12, 2027, 5 p.m. PDT; internships start in May or June",
+  "e": "10-week full-time summer research internships at JPL for undergraduate and graduate STEM students at accredited US universities with a cumulative GPA of at least 3.0. US citizens and lawful permanent residents only.",
+  "f": "NASA Jet Propulsion Laboratory (Caltech)",
+  "fields": [
+   "all"
+  ],
+  "id": "jpl-summer-internship-program-2027",
+  "n": "JPL Summer Internship Program (Summer 2027)",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:jpl-summer-internship-2027",
+  "stages": [
+   "ug",
+   "gr"
+  ],
+  "u": "https://www.jpl.nasa.gov/edu/internships/apply/summer-internship-program/",
+  "unv": "The page does not give the stipend amount.",
+  "us": true
  },
  {
   "a": "NASA funding through STScI, no new observing time; amounts set by formula, grants generally 3 years (Cycle 6 terms)",
@@ -7238,6 +7408,32 @@
   "u": "https://indico.in2p3.fr/event/39154/",
   "unv": "On Nov 16 and Nov 23, 2026 the Indico page was protected by an access key and could not be read; the Les Houches page lists the school (July 5-30, 2027) but gives no registration dates. Pre-registration dates were given on the Indico page without a year (taken as 2027 for a July 2027 school).",
   "us": false
+ },
+ {
+  "a": "$7,700 stipend, round-trip travel and funds to present at the January 2028 AAS meeting",
+  "added": "2026-11-23",
+  "c": "Summer program",
+  "checked": "2026-11-23",
+  "d": "2027-02-01",
+  "dt": "Application closes Feb 1, 2027 at 11 pm EST",
+  "e": "Eleven-week astronomy research internship on Nantucket for undergraduates in bachelor's or associate degree programs. US citizens, US nationals or permanent residents only.",
+  "f": "Maria Mitchell Association (Nantucket, MA)",
+  "fields": [
+   "astro"
+  ],
+  "id": "maria-mitchell-astronomy-reu-2027",
+  "n": "Maria Mitchell Association Astronomy REU Internship (Summer 2027)",
+  "nfit": "Medium",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:maria-mitchell-reu-2027",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://www.mariamitchell.org/get-involved/internships/reu",
+  "unv": "The page's program dates still read 2026 (June 1 to the week of Aug 17), so the 2027 dates are not confirmed.",
+  "us": true
  },
  {
   "a": "Salary + mobility/research allowances (1 to 2 yrs European; Global up to 3 yrs)",
@@ -8364,6 +8560,41 @@
   ],
   "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-79-new-opportunity-b-8-heliophysics-spaceflight-science-foundations/",
   "unv": "Award size and number of awards are in the full NSPIRES call text, which was not read; the amendment page and grants.gov notice do not state them.",
+  "us": false
+ },
+ {
+  "a": "2-year awards; budget and number of awards not stated",
+  "added": "2026-11-23",
+  "asub": [
+   "exo",
+   "star"
+  ],
+  "c": "Federal grant",
+  "checked": "2026-11-23",
+  "d": "2027-02-18",
+  "dt": "Mandatory NOI due Jan 4, 2027; full proposals due Feb 18, 2027 (ROSES-25 Amendment 82). Proposer videoconference Dec 11, 2026, noon ET.",
+  "e": "New ROSES-25 element funding US data-gathering work in support of ESA's Ariel exoplanet mission: candidate confirmation, mass and orbit determination and host-star characterization (time-series photometry, high-resolution imaging and spectroscopy, precision radial velocities), with results delivered through ExoFOP. Proposals are reviewed dual-anonymously; awards do not confer Ariel consortium membership.",
+  "f": "NASA SMD",
+  "fields": [
+   "astro"
+  ],
+  "id": "nasa-roses25-d11-ariel-preparatory-science",
+  "n": "NASA ROSES-2025 D.11 U.S. Contributions to Ariel Preparatory Science (Ariel US CAPS)",
+  "nofo": [
+   {
+    "opp": "NNH25ZDA001N-USCAPS",
+    "u": "https://simpler.grants.gov/opportunity/a22aa171-3e14-47cf-aafa-16895e5f2d87"
+   }
+  ],
+  "nom": false,
+  "s": "open",
+  "src": "grants:NNH25ZDA001N-USCAPS",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-82-new-opportunity-d-11-u-s-contributions-to-ariel-preparatory-science/",
+  "unv": "Total budget, number of awards and any eligibility limits were not stated on the amendment page or the grants.gov synopsis; the full program-element PDF on NSPIRES was not read.",
   "us": false
  },
  {
@@ -10394,6 +10625,32 @@
   "us": false
  },
  {
+  "a": "$700/week stipend; May 31 - July 30, 2027",
+  "added": "2026-11-23",
+  "c": "Summer program",
+  "checked": "2026-11-23",
+  "d": null,
+  "dt": "Review begins in early February; applications reviewed until positions are full",
+  "e": "NSF REU site where undergraduates join research of OU physics and astronomy faculty. US citizens or permanent residents only.",
+  "f": "University of Oklahoma, Homer L. Dodge Department of Physics and Astronomy (NSF REU site)",
+  "fields": [
+   "all"
+  ],
+  "id": "ou-physics-astronomy-reu-2027",
+  "n": "University of Oklahoma Physics and Astronomy REU (Summer 2027)",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ou-reu-2027",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://www.ou.edu/cas/physics-astronomy/students/undergraduate/research/reu",
+  "unv": "The page lists 2027 program dates but its application link (NSF ETAP) is still labeled 2026; no fixed deadline is stated.",
+  "us": true
+ },
+ {
   "a": "Grade 7RS, £40,178–£48,700 a year; 36 months",
   "added": "2026-09-30",
   "asub": [
@@ -10991,6 +11248,36 @@
    "d": null,
    "t": "Yale applicants should contact Yale Corporate and Foundation Relations before applying (Yale funding newsletter, Oct 7, 2026)."
   }
+ },
+ {
+  "a": "$6,000 stipend, on-campus housing, travel and meal allowances; May 24 - July 30, 2027",
+  "added": "2026-11-23",
+  "asub": [
+   "he"
+  ],
+  "c": "Summer program",
+  "checked": "2026-11-23",
+  "d": "2027-02-26",
+  "dt": "Application deadline Feb 26, 2027; applications reviewed until positions are filled",
+  "e": "Ten-week NSF REU at RIT on gravitational-wave and multimessenger astrophysics, with projects including pulsar timing, continuous gravitational waves and compact-object dynamics. US citizens or permanent residents who are undergraduates in Fall 2027 only.",
+  "f": "Rochester Institute of Technology, Center for Computational Relativity and Gravitation",
+  "fields": [
+   "astro",
+   "grav"
+  ],
+  "id": "rit-multimessenger-astrophysics-reu-2027",
+  "n": "RIT REU in Multimessenger Astrophysics (Summer 2027)",
+  "nfit": "High",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:rit-mma-reu-2027",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://www.rit.edu/ccrg/research-experience-undergraduates-multimessenger-astrophysics",
+  "unv": "The page says the program is up for renewal, so offers depend on continued NSF funding.",
+  "us": true
  },
  {
   "a": "Travel + registration waiver",
@@ -11632,6 +11919,36 @@
   ],
   "u": "https://lweb.cfa.harvard.edu/sma/Newsletters/pdfFiles/SMA_NewsJuly2026.pdf",
   "unv": "The call page (sma1.sma.hawaii.edu/call.html) is served only over http, so the link goes to the July 2026 SMA Newsletter announcing the 2026B call. On Nov 23, 2026 the call page still showed the 2026A call. The next deadline is unknown because of an extended summit shutdown. Student-PI rules are not stated.",
+  "us": false
+ },
+ {
+  "a": "Four-year studentship covering UK tuition fees plus a tax-free stipend (amount not stated)",
+  "added": "2026-11-23",
+  "asub": [
+   "he"
+  ],
+  "c": "Graduate program",
+  "checked": "2026-11-23",
+  "d": "2026-12-04",
+  "dt": "Post gives Dec 4, 2026 and Jan 4, 2027 (initial consideration); later applications considered until filled; start Sep 20, 2027",
+  "e": "PhD on effective field theory and scattering-amplitude methods for extreme-mass-ratio inspirals and gravitational-wave modelling, with links to LISA and Einstein Telescope. Background in physics or mathematics required; the post does not say whether international tuition fees are covered.",
+  "f": "University of Southampton, School of Mathematical Sciences (Riccardo Gonzo, Royal Society URF)",
+  "fields": [
+   "grav",
+   "ppt"
+  ],
+  "id": "southampton-gonzo-emri-gw-phd-2027",
+  "n": "University of Southampton: PhD studentship in particle and gravitational physics (EMRI waveforms, Gonzo)",
+  "nfit": "High",
+  "nom": false,
+  "region": "International",
+  "s": "open",
+  "src": "other:lisa-soton-gonzo-phd-2027",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://www.lisamission.org/phd-position-in-particle-and-gravitational-physics-at-university-of-southampton/",
+  "unv": "The post states two dates (Dec 4, 2026 and Jan 4, 2027); stipend amount and coverage of international fees not stated.",
   "us": false
  },
  {

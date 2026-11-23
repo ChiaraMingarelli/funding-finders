@@ -350,6 +350,40 @@
   "us": false
  },
  {
+  "a": "Up to two fully funded PhD positions, no tuition fees; 3–4 years",
+  "added": "2026-11-23",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "ng",
+   "ast"
+  ],
+  "c": "Graduate program",
+  "checked": "2026-11-23",
+  "d": "2027-01-15",
+  "dt": "Apply by Jan 15, 2027 (23:59 UTC+1); reference letters by Jan 22, 2027",
+  "e": "PhD positions on mathematical structures of scattering amplitudes, Feynman integrals and symmetries of gravity, within IMPRS Gravity at the Extreme; one tied to the ERC Synergy Grant MaScAmp. Requires a master's degree by the start; no citizenship limit stated.",
+  "f": "Max Planck Institute for Gravitational Physics (AEI), Potsdam, Symmetries in Gravity and Amplitudes group",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "aei-potsdam-amplitudes-quantum-gravity-phd-2027",
+  "n": "Max Planck Institute for Gravitational Physics (AEI Potsdam): PhD positions in scattering amplitudes and quantum gravity",
+  "nfit": "Medium",
+  "nom": false,
+  "region": "International",
+  "s": "open",
+  "src": "other:lisa-aei-amplitudes-phd-2027",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://www.lisamission.org/phd-positions-in-scattering-amplitudes-and-quantum-gravity-at-the-max-planck-institute-for-gravitational-physics-in-potsdam/",
+  "unv": "AEI job-board page for the call returned 404 when checked; details from the LISA Consortium posting.",
+  "us": false
+ },
+ {
   "a": "TVöD Bund, usually E13; 2–3 years",
   "added": "2026-10-07",
   "asub": [
@@ -5001,6 +5035,69 @@
   "us": false
  },
  {
+  "a": "$8,000 stipend plus meal allowance, housing and travel; June 7 - Aug 13, 2027",
+  "added": "2026-11-23",
+  "asub": [
+   "star"
+  ],
+  "aud": [
+   "ng",
+   "ast"
+  ],
+  "c": "Summer program",
+  "checked": "2026-11-23",
+  "d": null,
+  "dt": "Deadline not yet announced (the page says likely early February 2027); the application portal is expected to open in early December 2026",
+  "e": "Summer REU in solar physics at the Center for Astrophysics in Cambridge, MA. US citizens, US nationals and permanent residents only (including those at non-US colleges).",
+  "f": "Center for Astrophysics | Harvard & Smithsonian, High Energy Astrophysics and Solar & Stellar Physics",
+  "fields": [
+   "astro"
+  ],
+  "id": "cfa-heassp-solar-physics-reu-2027",
+  "n": "CfA Solar Physics REU (Summer 2027)",
+  "nfit": "Medium",
+  "nom": false,
+  "region": "US",
+  "s": "watch",
+  "src": "other:cfa-solar-reu-2027",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://www.cfa.harvard.edu/opportunities/graduate-undergraduate-programs/heassp-solar-physics-reu-program",
+  "unv": "Exact 2027 deadline and application link not yet posted.",
+  "us": true
+ },
+ {
+  "a": "Stipend (2026 listing: $800/week) and Harvard dormitory housing; May 30 - Aug 8, 2027",
+  "added": "2026-11-23",
+  "aud": [
+   "ng",
+   "ast"
+  ],
+  "c": "Summer program",
+  "checked": "2026-11-23",
+  "d": "2027-02-01",
+  "dt": "Application deadline Feb 1, 2027; the portal is scheduled to open by Jan 10, 2027",
+  "e": "Ten-week REU in Cambridge, MA, where undergraduates do an astrophysics research project with an SAO or Harvard scientist. The 2026 listing limited it to US citizens and green card holders.",
+  "f": "Center for Astrophysics | Harvard & Smithsonian",
+  "fields": [
+   "astro"
+  ],
+  "id": "cfa-sao-astro-reu-2027",
+  "n": "CfA/SAO Astronomy Summer Intern Program (Astro REU, Summer 2027)",
+  "nfit": "Medium",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:cfa-sao-astro-reu-2027",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://www.cfa.harvard.edu/opportunities/graduate-undergraduate-programs/reu-summer-intern-program",
+  "unv": "The 2027 page states no stipend amount or citizenship rule; the $800/week stipend and US citizen/green card limit come from the 2026 AcademicJobsOnline listing.",
+  "us": true
+ },
+ {
   "a": "$67,600–69,000/yr; 2 years + possible 3rd",
   "added": "2026-09-30",
   "asub": [
@@ -5099,6 +5196,38 @@
    "gr"
   ],
   "u": "https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-masters-program",
+  "us": false
+ },
+ {
+  "a": "Postdoc funded by a WACQT grant; salary and term not stated",
+  "added": "2026-11-23",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-23",
+  "d": "2026-12-31",
+  "dt": "Application deadline Dec 31, 2026",
+  "e": "Postdoc in quantum Shannon theory, entanglement and nonlocality, and operator-algebraic methods, including security proofs for continuous-variable and device-independent QKD. No citizenship limit stated.",
+  "f": "Chalmers University of Technology, Department of Mathematical Sciences (Mizanur Rahaman)",
+  "fields": [
+   "qp"
+  ],
+  "id": "chalmers-rahaman-quantum-info-theory-postdoc",
+  "n": "Chalmers University of Technology: Postdoc in quantum information theory (Rahaman, WACQT)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-chalmers-rahaman-qit",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://quantiki.org/position/postdoctoral-position-quantum-information-theory-3",
+  "unv": "Chalmers' own vacancy page (job 15161) did not load; details from the PI's Quantiki posting.",
   "us": false
  },
  {
@@ -5503,6 +5632,33 @@
   ],
   "u": "https://www.cita.utoronto.ca/summer-undergraduate-research-fellowship-surf/",
   "unv": "The CITA SURF page still shows the summer 2025 round (deadline Jan 31, 2025) as of Nov 23, 2026; the 2027 deadline and stipend are not posted.",
+  "us": false
+ },
+ {
+  "a": "HKD 19,100–19,600 per month in Hong Kong or RMB 12,000 per month in Dongguan (2025/26 rates); up to 4 years",
+  "added": "2026-11-23",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Graduate program",
+  "checked": "2026-11-23",
+  "d": "2027-01-15",
+  "dt": "Application deadline Jan 15, 2027; admission June 2027",
+  "e": "PhD in quantum Shannon theory (channel coding and capacities, one-shot and finite-blocklength theory, hypothesis testing). Applicants must meet CityUHK PhD admission requirements; no citizenship limit stated.",
+  "f": "City University of Hong Kong, Department of Physics (Oscar Dahlsten) and CityU Dongguan (Michael Xuan Cao)",
+  "fields": [
+   "qp"
+  ],
+  "id": "cityu-hk-dongguan-quantum-shannon-theory-phd",
+  "n": "City University of Hong Kong (Dongguan PhD Project): PhD in quantum information theory",
+  "nom": false,
+  "s": "open",
+  "src": "other:quantiki-cityu-dongguan-qit-phd",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://quantiki.org/position/phd-position-quantum-information-theory-dongguan-phd-project-city-university-hong-kong",
   "us": false
  },
  {
@@ -12196,6 +12352,37 @@
   "us": false
  },
  {
+  "a": "Tenure-track Assistant Professor; $84,800–$132,900 (9-month), off-scale pay possible",
+  "added": "2026-11-23",
+  "aud": [
+   "ng"
+  ],
+  "c": "Faculty job",
+  "checked": "2026-11-23",
+  "d": "2026-11-30",
+  "dt": "Next review date and final date Nov 30, 2026, 11:59 pm Pacific; start July 1, 2027 or later",
+  "e": "Broad open search with emphasis on space sciences (incl. gravitational waves, black hole imaging, multi-messenger, radio cosmology), astrophysics experiment incl. GW detection, data-science astrophysics, and fundamental-symmetries nuclear/particle experiment. PhD (or enrolled in a PhD program) required; no citizenship limit stated.",
+  "f": "University of California, Berkeley, Department of Physics",
+  "fields": [
+   "astro",
+   "grav",
+   "nux",
+   "ppx"
+  ],
+  "id": "fj-uc-berkeley-asst-prof-physics-open-search",
+  "n": "UC Berkeley Physics: Tenure-Track Assistant Professor, open search (space sciences, GW, astrophysics, fundamental symmetries)",
+  "nfit": "High",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:berkeley-aprecruit-JPF05524",
+  "stages": [
+   "fj"
+  ],
+  "u": "https://aprecruit.berkeley.edu/JPF05524",
+  "us": false
+ },
+ {
   "a": "Tenure-track Assistant Professor; $64,000-$72,000; start 2027-08-15",
   "added": "2026-10-14",
   "aud": [
@@ -14450,6 +14637,39 @@
   ],
   "u": "https://greenbankobservatory.org/graduate-students/",
   "unv": "No exact closing date is posted (only 'mid April').",
+  "us": false
+ },
+ {
+  "a": "$250 registration fee covers housing and food in Green Bank; June 27 - July 3, 2027, in person",
+  "added": "2026-11-23",
+  "aud": [
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Training",
+  "checked": "2026-11-23",
+  "d": "2027-03-15",
+  "dt": "Applications open Oct 1, 2026 - Mar 15, 2027; decisions by Apr 1, 2027",
+  "e": "Week-long school at Green Bank on single-dish radio astronomy, with lectures and hands-on projects and tutorials, for students, postdocs and astronomers from other fields. No citizenship limits are stated.",
+  "f": "Green Bank Observatory (NSF)",
+  "fields": [
+   "astro"
+  ],
+  "id": "gbo-single-dish-summer-school-2027",
+  "n": "GBO Single Dish Summer School 2027",
+  "nfit": "High",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "open",
+  "src": "other:gbo-sdss-2027",
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "u": "https://greenbankobservatory.org/events/2027-sdss/",
+  "unv": "The registration ticket shows as sold out on the event page despite the stated application window; financial support is not mentioned.",
   "us": false
  },
  {
@@ -18619,6 +18839,35 @@
   "us": false
  },
  {
+  "a": "€2,832.10 gross per month, paid 14 times a year (FWF scale)",
+  "added": "2026-11-23",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Graduate program",
+  "checked": "2026-11-23",
+  "d": "2026-12-27",
+  "dt": "Deadline Dec 27, 2026; review began Nov 5, 2026 and continues until filled",
+  "e": "Theory PhD on numerical simulation of dipolar many-body systems (Gross-Pitaevskii beyond mean field), quantum phase transitions and dipolar mixtures. Requires a master's degree in physics or close field; no citizenship limit stated.",
+  "f": "University of Innsbruck and IQOQI Innsbruck, Dipolar Quantum Gas Group (Francesca Ferlaino)",
+  "fields": [
+   "amo",
+   "qp",
+   "cmt"
+  ],
+  "id": "innsbruck-ferlaino-dipolar-gases-theory-phd",
+  "n": "University of Innsbruck / IQOQI: PhD in theoretical physics, dipolar quantum gases (Ferlaino group)",
+  "nom": false,
+  "s": "open",
+  "src": "other:quantiki-innsbruck-dipolar-theory-phd",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://quantiki.org/position/phd-position-theoretical-physics-dipolar-quantum-gases",
+  "us": false
+ },
+ {
   "a": "Remuneration according to profile; 1-3 years (QuantERA COMPUTE and Quantum Network Algorithms grants)",
   "added": "2026-09-30",
   "aud": [
@@ -18776,6 +19025,34 @@
   ],
   "u": "https://www.iopb.res.in/job_opening/advertisement-for-postdoctoral-research-associate-positions-in-high-energy-physics-theory-phenomenology-group/",
   "unv": "iopb.res.in was unreachable on Oct 21, Nov 1 (TLS error), Nov 2, Nov 9, Nov 16 and Nov 23, 2026 (HTTP 503 / connection or TLS failure). INSPIRE 3214873 is closed with deadline 2026-10-31, and its text says applications and letters are due by 31 October 2026 with no until-filled wording, so it is likely a delete once the host can be checked.",
+  "us": false
+ },
+ {
+  "a": "PhD position (funding amount not stated)",
+  "added": "2026-11-23",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Graduate program",
+  "checked": "2026-11-23",
+  "d": "2027-01-15",
+  "dt": "Application deadline Jan 15, 2027; candidate enters the IP Paris PhD admissions competition",
+  "e": "PhD on quantum uncertainty relations and their links to signal processing, co-supervised by O. Rioul, M. G. Jabbour and P. Duhamel. Requires a master's degree in mathematics, physics, computer science or related field; no citizenship limit stated.",
+  "f": "Institut Polytechnique de Paris (Télécom Paris, Télécom SudParis, CentraleSupélec)",
+  "fields": [
+   "qp"
+  ],
+  "id": "ip-paris-quantum-info-signal-processing-phd",
+  "n": "Institut Polytechnique de Paris: PhD in quantum information and signal processing",
+  "nom": false,
+  "s": "open",
+  "src": "other:quantiki-ipparis-qi-signal-phd",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://quantiki.org/position/phd-position-intersection-quantum-information-and-signal-processing-institut-polytechnique",
+  "unv": "Funding level not stated; selection goes through the IP Paris doctoral competition.",
   "us": false
  },
  {
@@ -19110,6 +19387,41 @@
   ],
   "u": "https://hyperspace.uni-frankfurt.de/2026/10/08/research-fellowships-in-gravitational-physics-lisbon-portugal-2/",
   "unv": "The board lists a deadline of 2027-01-12, which conflicts with the text (send materials before December 2026, when the FCT call opens); exact EOI date and FCT eligibility rules not confirmed.",
+  "us": false
+ },
+ {
+  "a": "Support for a small number of doctoral studentship applications (amount not stated)",
+  "added": "2026-11-23",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Graduate program",
+  "checked": "2026-11-23",
+  "d": "2027-01-11",
+  "dt": "Send expression of interest (subject GRIT-PhD-2027) by Jan 11, 2027",
+  "e": "The GRIT gravity group invites candidates to express interest in applying for doctoral studentships in gravitational physics with the group's support. Send motivation letter, CV, transcript and master thesis; no citizenship limit stated.",
+  "f": "Instituto Superior Tecnico, Lisbon, CENTRA / GRIT gravity group",
+  "fields": [
+   "grav",
+   "astro"
+  ],
+  "id": "ist-lisbon-grit-phd-studentships-eoi-2027",
+  "n": "Instituto Superior Tecnico (Lisbon), GRIT gravity group: expressions of interest for PhD studentships",
+  "nfit": "High",
+  "nom": false,
+  "region": "International",
+  "s": "open",
+  "src": "other:hyperspace-ist-grit-phd-2027",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://hyperspace.uni-frankfurt.de/2026/11/19/phd-positions-in-gravitational-physics-lisbon-portugal/",
+  "unv": "Stipend amount and the studentship call it feeds into are not stated in the post.",
   "us": false
  },
  {
@@ -19663,6 +19975,39 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32881",
   "us": false
+ },
+ {
+  "a": "Monthly stipend (amount not listed); housing and travel allowance if your school is more than 50 miles from JPL",
+  "added": "2026-11-23",
+  "aud": [
+   "yale",
+   "ng",
+   "ap",
+   "ast"
+  ],
+  "c": "Summer program",
+  "checked": "2026-11-23",
+  "d": "2027-03-12",
+  "dt": "Apply by Friday, March 12, 2027, 5 p.m. PDT; internships start in May or June",
+  "e": "10-week full-time summer research internships at JPL for undergraduate and graduate STEM students at accredited US universities with a cumulative GPA of at least 3.0. US citizens and lawful permanent residents only.",
+  "f": "NASA Jet Propulsion Laboratory (Caltech)",
+  "fields": [
+   "all"
+  ],
+  "id": "jpl-summer-internship-program-2027",
+  "n": "JPL Summer Internship Program (Summer 2027)",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:jpl-summer-internship-2027",
+  "stages": [
+   "ug",
+   "gr"
+  ],
+  "u": "https://www.jpl.nasa.gov/edu/internships/apply/summer-internship-program/",
+  "unv": "The page does not give the stipend amount.",
+  "us": true
  },
  {
   "a": "Not verified.",
@@ -20498,6 +20843,39 @@
   "us": false
  },
  {
+  "a": "TRY 65,000 per month plus meal allowance and health insurance; 18 months",
+  "added": "2026-11-23",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-23",
+  "d": "2026-12-10",
+  "dt": "Application deadline Dec 10, 2026",
+  "e": "TÜBİTAK 1001-funded postdoc on collision models for preparing entangled states and controlling energy and coherence in quantum networks (analytical and numerical work). PhD in physics or related field required; no citizenship limit stated.",
+  "f": "Koç University, QuEST group (Özgür E. Müstecaplıoğlu)",
+  "fields": [
+   "qp",
+   "amo"
+  ],
+  "id": "koc-quest-quantum-info-thermodynamics-postdoc",
+  "n": "Koç University (Istanbul): Postdoctoral Fellowship in Quantum Information Thermodynamics (QuEST group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-koc-quest-qit-thermo",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://quantiki.org/position/postdoctoral-fellowship-quantum-information-and-thermodynamics-ko%C3%A7-university-i%CC%87stanbul",
+  "unv": "Host's own ad not located; details from the Quantiki posting.",
+  "us": false
+ },
+ {
   "a": "TRY 65,000/month stipend plus TRY 250/day meal allowance and limited private health insurance; 18 months",
   "added": "2026-11-11",
   "aud": [
@@ -20529,6 +20907,36 @@
   "u": "https://quantiki.org/position/postdoctoral-fellowship-quantum-information-and-thermodynamics-ko%C3%A7-university-i%CC%87stanbul",
   "unv": "Ad found only on Quantiki (posted 11 Nov 2026); no separate page on the host site was found. Citizenship rules for TÜBİTAK bursiyer status not stated.",
   "us": false
+ },
+ {
+  "a": "Salary and term not stated",
+  "added": "2026-11-23",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-23",
+  "d": "2026-12-29",
+  "dt": "Deadline Dec 29, 2026 (AJO)",
+  "e": "Anticipated postdoc openings in condensed matter theory in Egor Babaev's group; applicants with backgrounds in ultracold atoms or mathematical physics are also considered. No citizenship limit stated.",
+  "f": "KTH Royal Institute of Technology, Theoretical Physics (Egor Babaev)",
+  "fields": [
+   "cmt"
+  ],
+  "id": "kth-babaev-cmt-postdoc",
+  "n": "KTH Stockholm: Postdoctoral Researcher in Condensed Matter Theory (Babaev group)",
+  "nfit": "Low",
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33504",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33504",
+  "unv": "Posting gives no salary, term or start date"
  },
  {
   "a": "3 years",
@@ -21986,6 +22394,35 @@
   "us": false
  },
  {
+  "a": "Regular postdoc: INR 28-40 lakh per year gross; fellowship salary set at offer; one year, typically extendable to three",
+  "added": "2026-11-23",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-11-23",
+  "d": "2026-12-15",
+  "dt": "Full consideration for applications by Dec 15, 2026",
+  "e": "Regular postdoc and postdoctoral fellow positions in fundamental theoretical physics for new and recent PhDs, starting about Aug 1, 2027 in Mumbai. No citizenship limit stated; the candidate must obtain an Indian visa.",
+  "f": "Lodha Theoretical Physics Institute (LTPI), Mumbai",
+  "fields": [
+   "ppt"
+  ],
+  "id": "lodha-ltpi-postdoctoral-fellowship-2027",
+  "n": "Lodha Theoretical Physics Institute (Mumbai): Postdoctoral Positions and Fellowships",
+  "nfit": "Low",
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:32720",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32720",
+  "unv": "Research areas beyond 'fundamental theoretical physics' not listed; AJO listing showed Oct 15 deadline but posting gives Dec 15, 2026"
+ },
+ {
   "a": "min $97,000; 2 years + 3rd",
   "added": "2026-09-30",
   "asub": [
@@ -22482,6 +22919,36 @@
   "us": false
  },
  {
+  "a": "$7,700 stipend, round-trip travel and funds to present at the January 2028 AAS meeting",
+  "added": "2026-11-23",
+  "aud": [
+   "ng",
+   "ast"
+  ],
+  "c": "Summer program",
+  "checked": "2026-11-23",
+  "d": "2027-02-01",
+  "dt": "Application closes Feb 1, 2027 at 11 pm EST",
+  "e": "Eleven-week astronomy research internship on Nantucket for undergraduates in bachelor's or associate degree programs. US citizens, US nationals or permanent residents only.",
+  "f": "Maria Mitchell Association (Nantucket, MA)",
+  "fields": [
+   "astro"
+  ],
+  "id": "maria-mitchell-astronomy-reu-2027",
+  "n": "Maria Mitchell Association Astronomy REU Internship (Summer 2027)",
+  "nfit": "Medium",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:maria-mitchell-reu-2027",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://www.mariamitchell.org/get-involved/internships/reu",
+  "unv": "The page's program dates still read 2026 (June 1 to the week of Aug 17), so the 2027 dates are not confirmed.",
+  "us": true
+ },
+ {
   "a": "Salary + mobility/research allowances (1 to 2 yrs European; Global up to 3 yrs)",
   "added": "2026-09-29",
   "aud": [
@@ -22649,6 +23116,35 @@
    "ten"
   ],
   "u": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/max-planck-humboldt-research-award",
+  "us": false
+ },
+ {
+  "a": "PhD positions with start in 2027 (funding amount not stated)",
+  "added": "2026-11-23",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Graduate program",
+  "checked": "2026-11-23",
+  "d": "2026-12-01",
+  "dt": "Apply via the online portal by Dec 1, 2026 (with at least two referee invitations)",
+  "e": "Germany-wide photonics graduate school linking university, Max Planck and Fraunhofer groups; projects include quantum communication, photonic quantum computing and quantum metrology. Requires an excellent master's degree in physics or related field (or near completion); no citizenship limit stated.",
+  "f": "Max Planck School of Photonics",
+  "fields": [
+   "phot",
+   "qp"
+  ],
+  "id": "max-planck-school-of-photonics-phd-2027",
+  "n": "Max Planck School of Photonics (Germany): PhD program, 2027 start",
+  "nom": false,
+  "s": "open",
+  "src": "other:mpsp-phd-2027",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://photonics.maxplanckschools.org/application",
+  "unv": "Details from a Quantiki posting by MPSP Fellows; stipend not stated there.",
   "us": false
  },
  {
@@ -24286,6 +24782,45 @@
   "us": false
  },
  {
+  "a": "2-year awards; budget and number of awards not stated",
+  "added": "2026-11-23",
+  "asub": [
+   "exo",
+   "star"
+  ],
+  "aud": [
+   "yale",
+   "ast"
+  ],
+  "c": "Federal grant",
+  "checked": "2026-11-23",
+  "d": "2027-02-18",
+  "dt": "Mandatory NOI due Jan 4, 2027; full proposals due Feb 18, 2027 (ROSES-25 Amendment 82). Proposer videoconference Dec 11, 2026, noon ET.",
+  "e": "New ROSES-25 element funding US data-gathering work in support of ESA's Ariel exoplanet mission: candidate confirmation, mass and orbit determination and host-star characterization (time-series photometry, high-resolution imaging and spectroscopy, precision radial velocities), with results delivered through ExoFOP. Proposals are reviewed dual-anonymously; awards do not confer Ariel consortium membership.",
+  "f": "NASA SMD",
+  "fields": [
+   "astro"
+  ],
+  "id": "nasa-roses25-d11-ariel-preparatory-science",
+  "n": "NASA ROSES-2025 D.11 U.S. Contributions to Ariel Preparatory Science (Ariel US CAPS)",
+  "nofo": [
+   {
+    "opp": "NNH25ZDA001N-USCAPS",
+    "u": "https://simpler.grants.gov/opportunity/a22aa171-3e14-47cf-aafa-16895e5f2d87"
+   }
+  ],
+  "nom": false,
+  "s": "open",
+  "src": "grants:NNH25ZDA001N-USCAPS",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-82-new-opportunity-d-11-u-s-contributions-to-ariel-preparatory-science/",
+  "unv": "Total budget, number of awards and any eligibility limits were not stated on the amendment page or the grants.gov synopsis; the full program-element PDF on NSPIRES was not read.",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-09-28",
   "aud": [
@@ -24933,6 +25468,46 @@
    "ten"
   ],
   "u": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-346.html",
+  "us": false
+ },
+ {
+  "a": "R61 up to $150,000 (about 23 awards, $5.4M total); R33 up to $300,000 (about 14 awards, $6.6M total) - forecast figures",
+  "added": "2026-11-23",
+  "aud": [
+   "yale",
+   "ap"
+  ],
+  "c": "Federal grant",
+  "checked": "2026-11-23",
+  "d": null,
+  "dt": "Forecast: NOFOs RFA-CA-28-001 (R61) and RFA-CA-28-002 (R33) estimated to post Jan 15, 2027 with applications due about Jun 4, 2027 (estimates, not posted dates).",
+  "e": "NCI's IMAT program funds development of new measurement, imaging, sensing and molecular-analysis technologies focused on cancer research or care: R61 for early proof-of-concept work, R33 for further development and validation of technologies with demonstrated feasibility. Universities, including foreign institutions per the forecast, may apply; no citizenship limit for PIs is stated.",
+  "f": "NIH NCI",
+  "fields": [
+   "bio",
+   "inst"
+  ],
+  "id": "nci-imat-r61-r33-cancer-technology-forecast",
+  "n": "NCI Innovative Molecular Analysis Technologies (IMAT): Early-Stage R61 and Advanced Development R33 - forecast",
+  "nofo": [
+   {
+    "opp": "RFA-CA-28-001",
+    "u": "https://simpler.grants.gov/opportunity/841ce4d3-5420-4630-a9c9-6b1635c773d9"
+   },
+   {
+    "opp": "RFA-CA-28-002",
+    "u": "https://simpler.grants.gov/opportunity/8747b235-c8dd-497f-a66b-9a9f5db2eb9c"
+   }
+  ],
+  "nom": false,
+  "s": "watch",
+  "src": "grants:RFA-CA-28-001",
+  "stages": [
+   "tt",
+   "ten"
+  ],
+  "u": "https://simpler.grants.gov/opportunity/841ce4d3-5420-4630-a9c9-6b1635c773d9",
+  "unv": "Both NOFOs are still forecasts on Grants.gov; post and due dates and award figures are agency estimates.",
   "us": false
  },
  {
@@ -26909,6 +27484,35 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32643",
   "us": false
+ },
+ {
+  "a": "$6,300 stipend plus meal stipend, round-trip airfare and dorm housing",
+  "added": "2026-11-23",
+  "aud": [
+   "ap"
+  ],
+  "c": "Summer program",
+  "checked": "2026-11-23",
+  "d": "2027-02-08",
+  "dt": "Due Mon Feb 8, 2027; program June 21 - Aug 20, 2027",
+  "e": "Nine-week full-time summer research on a nanotechnology project at Northwestern's International Institute for Nanotechnology, for physical-science and engineering majors with at least one year of study left. Open only to US citizens and permanent residents aged 18 or older.",
+  "f": "International Institute for Nanotechnology (IIN), Northwestern University",
+  "fields": [
+   "mat",
+   "dev",
+   "phot",
+   "bio"
+  ],
+  "id": "northwestern-iin-reu-2027",
+  "n": "Northwestern IIN REU in Nanotechnology (Summer 2027)",
+  "nom": false,
+  "s": "open",
+  "src": "other:northwestern-iin-reu",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://iin-reu-northwestern.submittable.com/",
+  "us": true
  },
  {
   "a": "$6,000 stipend plus on-campus housing and a travel allowance",
@@ -29662,6 +30266,36 @@
   "us": false
  },
  {
+  "a": "Two positions; two-year appointment, renewable; salary not stated",
+  "added": "2026-11-23",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-23",
+  "d": "2026-11-30",
+  "dt": "Deadline Nov 30, 2026 (AJO)",
+  "e": "Two postdocs on quantum computing and AI: verifiable quantum advantage, quantum simulation of many-body and open systems, and machine learning for quantum computing, starting 2027. Requires a PhD in physics, computer science, applied mathematics or a related field; no citizenship limit stated.",
+  "f": "National University of Singapore, School of Computing & Department of Physics (Yuxuan Zhang)",
+  "fields": [
+   "qp",
+   "cmt"
+  ],
+  "id": "nus-quantum-ai-postdoc-zhang",
+  "n": "National University of Singapore: Postdoctoral Research Fellow in Quantum and AI (Yuxuan Zhang group)",
+  "nfit": "Low",
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:32512",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32512"
+ },
+ {
   "a": "NuSTAR hard X-ray time from PI discretionary time; most approved DDT exposures are 40 ks or less",
   "added": "2026-10-26",
   "asub": [
@@ -31016,6 +31650,38 @@
    "pd"
   ],
   "u": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar_R151630-2",
+  "us": true
+ },
+ {
+  "a": "$700/week stipend; May 31 - July 30, 2027",
+  "added": "2026-11-23",
+  "aud": [
+   "yale",
+   "ng",
+   "ap",
+   "ast"
+  ],
+  "c": "Summer program",
+  "checked": "2026-11-23",
+  "d": null,
+  "dt": "Review begins in early February; applications reviewed until positions are full",
+  "e": "NSF REU site where undergraduates join research of OU physics and astronomy faculty. US citizens or permanent residents only.",
+  "f": "University of Oklahoma, Homer L. Dodge Department of Physics and Astronomy (NSF REU site)",
+  "fields": [
+   "all"
+  ],
+  "id": "ou-physics-astronomy-reu-2027",
+  "n": "University of Oklahoma Physics and Astronomy REU (Summer 2027)",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ou-reu-2027",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://www.ou.edu/cas/physics-astronomy/students/undergraduate/research/reu",
+  "unv": "The page lists 2027 program dates but its application link (NSF ETAP) is still labeled 2026; no fixed deadline is stated.",
   "us": true
  },
  {
@@ -32901,6 +33567,41 @@
   "us": false
  },
  {
+  "a": "$6,000 stipend, on-campus housing, travel and meal allowances; May 24 - July 30, 2027",
+  "added": "2026-11-23",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Summer program",
+  "checked": "2026-11-23",
+  "d": "2027-02-26",
+  "dt": "Application deadline Feb 26, 2027; applications reviewed until positions are filled",
+  "e": "Ten-week NSF REU at RIT on gravitational-wave and multimessenger astrophysics, with projects including pulsar timing, continuous gravitational waves and compact-object dynamics. US citizens or permanent residents who are undergraduates in Fall 2027 only.",
+  "f": "Rochester Institute of Technology, Center for Computational Relativity and Gravitation",
+  "fields": [
+   "astro",
+   "grav"
+  ],
+  "id": "rit-multimessenger-astrophysics-reu-2027",
+  "n": "RIT REU in Multimessenger Astrophysics (Summer 2027)",
+  "nfit": "High",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:rit-mma-reu-2027",
+  "stages": [
+   "ug"
+  ],
+  "u": "https://www.rit.edu/ccrg/research-experience-undergraduates-multimessenger-astrophysics",
+  "unv": "The page says the program is up for renewal, so offers depend on continued NSF funding.",
+  "us": true
+ },
+ {
   "a": "Up to $110,000/yr for 5 years (Award in Pain: $50K/yr for 3 years)",
   "added": "2026-09-28",
   "aud": [
@@ -34646,6 +35347,41 @@
   "us": false
  },
  {
+  "a": "Four-year studentship covering UK tuition fees plus a tax-free stipend (amount not stated)",
+  "added": "2026-11-23",
+  "asub": [
+   "he"
+  ],
+  "aud": [
+   "ng",
+   "radar",
+   "ast"
+  ],
+  "c": "Graduate program",
+  "checked": "2026-11-23",
+  "d": "2026-12-04",
+  "dt": "Post gives Dec 4, 2026 and Jan 4, 2027 (initial consideration); later applications considered until filled; start Sep 20, 2027",
+  "e": "PhD on effective field theory and scattering-amplitude methods for extreme-mass-ratio inspirals and gravitational-wave modelling, with links to LISA and Einstein Telescope. Background in physics or mathematics required; the post does not say whether international tuition fees are covered.",
+  "f": "University of Southampton, School of Mathematical Sciences (Riccardo Gonzo, Royal Society URF)",
+  "fields": [
+   "grav",
+   "ppt"
+  ],
+  "id": "southampton-gonzo-emri-gw-phd-2027",
+  "n": "University of Southampton: PhD studentship in particle and gravitational physics (EMRI waveforms, Gonzo)",
+  "nfit": "High",
+  "nom": false,
+  "region": "International",
+  "s": "open",
+  "src": "other:lisa-soton-gonzo-phd-2027",
+  "stages": [
+   "gr"
+  ],
+  "u": "https://www.lisamission.org/phd-position-in-particle-and-gravitational-physics-at-university-of-southampton/",
+  "unv": "The post states two dates (Dec 4, 2026 and Jan 4, 2027); stipend amount and coverage of international fees not stated.",
+  "us": false
+ },
+ {
   "a": "One 3-year post (Haehl UKRI Frontier/ERC grant) and one 2-year post (extendable); salary not listed",
   "added": "2026-11-17",
   "aud": [
@@ -35626,6 +36362,61 @@
   ],
   "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-80-d-3-agigo-swift-fermi-and-tess-observatories-second-opportunities-in-roses-25/",
   "unv": "No Phase-2 budget date is posted (only invited proposers submit one). The call does not say whether students or postdocs may be PI, so institutional rules apply.",
+  "us": false
+ },
+ {
+  "a": "Salary not stated",
+  "added": "2026-11-23",
+  "aud": [
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-23",
+  "d": null,
+  "dt": "No deadline stated; apply via the SU Job Opps listing",
+  "e": "Postdoc in the Computer Architecture Laboratory on classical and quantum computer architectures, memory systems, non-von Neumann computing, compilers or quantum computing. PhD in computer science, computer engineering, physics or a related field; no citizenship limit stated.",
+  "f": "Syracuse University, Department of Electrical Engineering and Computer Science (Alex Jones)",
+  "fields": [
+   "qp"
+  ],
+  "id": "syracuse-classical-quantum-architecture-postdoc",
+  "n": "Syracuse University: Postdoctoral Researcher, Classical and/or Quantum Computer Architectures (Jones lab)",
+  "pt": "group",
+  "s": "rolling",
+  "src": "ajo:32514",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.sujobopps.com/postings/104681",
+  "unv": "SU Job Opps page did not render for automated fetch; closing date not verified (AJO listing shown until Jan 13, 2027)"
+ },
+ {
+  "a": "$65,000–$70,000; one year, renewable (Sloan Foundation grant)",
+  "added": "2026-11-23",
+  "aud": [
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-23",
+  "d": null,
+  "dt": "Review begins Dec 7, 2026 and continues until filled",
+  "e": "Cohort of postdocs providing research software engineering support on campus (open-source tools, LLM-related software, training), with time for their own research; announced to the gravitational-wave community via the LISA and Hyperspace boards. Requires a PhD in data science or a related field and open-source research-code experience; no citizenship limit stated.",
+  "f": "Syracuse University Open Source Program Office (SU-OSPO) and Office of Research",
+  "fields": [
+   "ds"
+  ],
+  "id": "syracuse-ospo-research-software-engineer-postdoc",
+  "n": "Syracuse University: Postdoctoral Researcher – Research Software Engineer (Open Source Program Office)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:syracuse-ospo-115084",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.sujobopps.com/postings/115084",
   "us": false
  },
  {
@@ -38559,6 +39350,35 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33275",
   "us": false
+ },
+ {
+  "a": "Salary not stated; start spring to fall 2027",
+  "added": "2026-11-23",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-23",
+  "d": "2026-12-15",
+  "dt": "Application deadline Dec 15, 2026",
+  "e": "Postdoc in QCD theory and phenomenology tied to the LHC, RHIC and the future EIC, including AI/ML for theory and data analysis and quantum simulation in nuclear and particle physics. PhD required by the start; no citizenship limit stated.",
+  "f": "University of California, Los Angeles, High Energy Nuclear Theory Group (Zhongbo Kang)",
+  "fields": [
+   "nut",
+   "ppt"
+  ],
+  "id": "ucla-hent-qcd-postdoc-2027",
+  "n": "UCLA: Postdoctoral Fellow in High-Energy Nuclear Theory (QCD)",
+  "nfit": "Low",
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33506",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33506"
  },
  {
   "a": "2 years, renewable for a third",
