@@ -12776,6 +12776,39 @@
   "us": false
  },
  {
+  "a": "Four years; maître-assistant level; salary not stated",
+  "added": "2026-11-24",
+  "asub": [
+   "he",
+   "star"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-24",
+  "d": "2026-12-15",
+  "dt": "Deadline Dec 15, 2026, 23:59 CET",
+  "e": "Four-year software-focused research fellow developing POSYDON, an open-source framework for modelling stellar and binary populations, in preparation for the Einstein Telescope, with part of the time for the fellow's own research. Requires a PhD in astrophysics, computational physics or a related field; no citizenship limit stated.",
+  "f": "University of Geneva, Department of Astronomy",
+  "fields": [
+   "astro",
+   "grav",
+   "ds"
+  ],
+  "id": "u-geneva-software-research-fellow-gw-posydon",
+  "n": "University of Geneva: Software Research Fellow in gravitational-wave astrophysics (POSYDON)",
+  "nfit": "High",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "aas:2b155440",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://aas.org/jobregister/ad/2b155440",
+  "unv": "Taken from the LISA Consortium positions post (Nov 23, 2026); the AAS ad returned 403 (bot check), so salary, rank and full eligibility were not checked.",
+  "us": false
+ },
+ {
   "a": "not listed; multiple positions",
   "added": "2026-09-30",
   "asub": [
