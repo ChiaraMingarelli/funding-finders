@@ -5,7 +5,7 @@
   "ap"
  ],
  "c": "Center/large grant",
- "checked": "2026-11-23",
+ "checked": "2026-11-24",
  "d": null,
  "dt": "Gen-4 solicitation NSF 24-576 archived; NSF said a new solicitation was anticipated in 2026",
  "e": "Multi-institution engineering centers that combine research, workforce development and industry partnership around a societal need. Lead-institution limits apply in past cycles; no citizenship restriction.",
@@ -27,5 +27,10 @@
  ],
  "u": "https://www.nsf.gov/funding/opportunities/erc-gen-4-engineering-research-centers/505599/updates",
  "unv": "New solicitation not yet posted as of 2026-11-09 (the updates page still shows the Sep 17, 2025 notice); award size and limits for next cycle unknown.",
- "us": false
+ "us": false,
+ "yale": {
+  "d": null,
+  "t": "The Yale Office of Research Development holds an NSF ERC Idea Exchange on Tue Dec 8, 2026, 12 to 1 pm (in person, registration required and limited): faculty give 2-minute flash talks and look for cross-campus collaborators ahead of the next ERC solicitation. Questions: researchdev@yale.edu.",
+  "u": "https://researchdev.yale.edu/events/2026-12-07-nsf-engineering-research-centers-idea-exchange"
+ }
 }
