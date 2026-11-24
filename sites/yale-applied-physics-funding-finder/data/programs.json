@@ -2901,57 +2901,6 @@
   "us": false
  },
  {
-  "a": "Up to 2 positions; employment contract at PLN 9,700 gross/month, funded to the end of 2029",
-  "added": "2026-10-21",
-  "c": "Training",
-  "checked": "2026-11-23",
-  "d": "2026-11-23",
-  "dt": "Apply by Nov 23, 2026 (extended from Nov 8; ref. MAB/28/2026); candidates informed of results by the end of December 2026",
-  "e": "Paid PhD student – research assistant positions in theory and numerics for neutral atoms in optical tweezers and Rydberg arrays (quantum control, simulation, many-body dynamics, sensing). Requires a master's degree (or equivalent) in physics or mathematics before the contract is signed; no citizenship limits stated.",
-  "f": "Center for Theoretical Physics, Polish Academy of Sciences, Center for Quantum-Enabled Computing (C4QEC), Neutral Atoms Applications Group (Piotr T. Grochowski)",
-  "fields": [
-   "qp",
-   "amo"
-  ],
-  "id": "ctp-pas-warsaw-phd-neutral-atoms-c4qec",
-  "n": "Center for Theoretical Physics PAS (Warsaw): PhD Student – Research Assistant positions in Neutral Atoms Applications (C4QEC)",
-  "nom": false,
-  "s": "open",
-  "src": "other:cft-pas-mab-28-2026-phd",
-  "stages": [
-   "gr"
-  ],
-  "u": "https://www.cft.edu.pl/en/praca/call-for-candidates-for-the-position-of-phd-student-research-assistant-f-m-x-at-the-center-for-quantum-enabled-computing-in-the-group-of-dr-piotr-grochowski-mab-28-2026/",
-  "us": false
- },
- {
-  "a": "PLN 12,980-14,660 gross/month; initially 1 year, extendable to the end of 2029",
-  "added": "2026-10-08",
-  "c": "Group postdoc",
-  "checked": "2026-11-23",
-  "d": "2026-11-23",
-  "dt": "Deadline extended to Nov 23, 2026; email application to recruitment@cft.edu.pl, ref. MAB/29/2026",
-  "e": "Theory and numerics for neutral atoms in optical tweezers and Rydberg arrays: quantum control, simulation, many-body dynamics and sensing. PhD awarded no earlier than 2021 (extendable for documented career breaks); no citizenship limits stated.",
-  "f": "Center for Theoretical Physics, Polish Academy of Sciences, Center for Quantum-Enabled Computing (C4QEC), Neutral Atoms Applications Group (Piotr T. Grochowski)",
-  "fields": [
-   "qp",
-   "amo"
-  ],
-  "id": "ctp-pas-warsaw-postdoc-neutral-atoms-c4qec",
-  "n": "Center for Theoretical Physics PAS (Warsaw): Postdoc in Neutral Atoms Applications (C4QEC)",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "other:quantiki-ctp-pas-neutral-atoms",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://euraxess.ec.europa.eu/jobs/471138",
-  "us": false
- },
- {
   "a": "Postdoctoral position; salary not stated",
   "added": "2026-10-21",
   "c": "Group postdoc",
@@ -11593,9 +11542,9 @@
   "a": "US$500 toward travel",
   "added": "2026-10-03",
   "c": "Travel",
-  "checked": "2026-11-23",
-  "d": "2026-11-23",
-  "dt": "Opt in when submitting a paper to CLEO 2027 (paper deadline Nov 23, 2026, 11:59 PM PT) or to FiO+LS",
+  "checked": "2026-11-24",
+  "d": null,
+  "dt": "Last deadline Nov 23, 2026 (CLEO 2027 paper deadline); the next round (FiO+LS) is not posted yet",
   "e": "Travel support for student Optica members with an accepted CLEO or FiO+LS paper who show financial need. Applicants opt in during paper submission.",
   "f": "Optica Foundation",
   "fields": [
@@ -11604,7 +11553,7 @@
   "id": "optica-incubic-milton-chang-travel-grants",
   "n": "Optica Foundation: Incubic/Milton Chang Student Travel Grants (CLEO, FiO+LS)",
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "src": "other:optica-foundation",
   "stages": [
    "gr"
@@ -14808,9 +14757,9 @@
   "a": "$70,000–86,000; 2 years",
   "added": "2026-09-30",
   "c": "Fellowship",
-  "checked": "2026-09-30",
-  "d": "2026-11-23",
-  "dt": "Nov 23, 2026",
+  "checked": "2026-11-24",
+  "d": null,
+  "dt": "Last deadline Nov 23, 2026 (2027 cycle); the next cycle is not posted yet",
   "e": "AI/data science applied to fields including physical sciences. Open to outstanding early-career researchers.",
   "f": "University of Michigan, Michigan Institute for Data & AI in Society",
   "fields": [
@@ -14820,13 +14769,13 @@
   "n": "U. Michigan MIDAS: Postdoctoral fellowships in AI & data science",
   "nom": false,
   "pt": "prize",
-  "s": "open",
+  "s": "watch",
   "src": "aas:c1ec4b58",
   "stages": [
    "pd"
   ],
   "u": "https://midas.infoready4.com/",
-  "unv": "On Oct 12, 21, 26, Nov 2, Nov 9, Nov 16 and Nov 23, 2026 the MIDAS site returned 403 (bot check) and the InfoReady portal needs JavaScript; AAS and other listings give Nov 23, 2026 for the 2027 cycle, not confirmed on an official page (one Nature Careers listing gives Nov 1, 2026).",
+  "unv": "On Oct 12, 21, 26, Nov 2, Nov 9, Nov 16 and Nov 23, 2026 the MIDAS site returned 403 (bot check) and the InfoReady portal needs JavaScript; AAS and other listings give Nov 23, 2026 for the 2027 cycle, not confirmed on an official page (one Nature Careers listing gives Nov 1, 2026). On Nov 24, 2026 the MIDAS site and AAS ad still returned 403, so a later deadline could not be checked.",
   "us": false
  },
  {

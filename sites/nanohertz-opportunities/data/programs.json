@@ -2456,9 +2456,8 @@
   "n": "CosmicAI Postdoctoral Fellows",
   "f": "UT Austin / NRAO (NSF-Simons AI Institute)",
   "c": "Fellowship",
-  "s": "open",
-  "d": "2026-11-23",
-  "dt": "Current posting: CosmicAI Accelerated Universe Postdoctoral Fellow (UT Austin), due Nov 23, 2026",
+  "s": "watch",
+  "dt": "Last deadline Nov 23, 2026 (CosmicAI Accelerated Universe Postdoctoral Fellow); the next posting is not up yet",
   "a": "$80,000/yr stipend + up to $1,000 relocation; 2 years from Sep 1, 2027, renewable for a third",
   "e": "Postdoctoral fellows at the NSF-Simons AI Institute for Cosmic Origins; the current posting (UT Austin, surrogate modeling of astrophysical systems) splits time 50/50 between CosmicAI research and independent research and needs a PhD awarded Sep 2025-Sep 2027. No citizenship restriction stated.",
   "u": "https://cosmicai.org/jobs",
@@ -2468,11 +2467,12 @@
   "pt": "group",
   "region": "US",
   "nfit": "High",
-  "checked": "2026-11-23",
+  "checked": "2026-11-24",
   "added": "2026-09-29",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "cppm-nuscope-tracking-postdoc",
@@ -2538,28 +2538,6 @@
   "nfit": "Low",
   "checked": "2026-11-23",
   "added": "2026-11-17",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "ctp-pas-warsaw-postdoc-neutral-atoms-c4qec",
-  "n": "Center for Theoretical Physics PAS (Warsaw): Postdoc in Neutral Atoms Applications (C4QEC)",
-  "f": "Center for Theoretical Physics, Polish Academy of Sciences, Center for Quantum-Enabled Computing (C4QEC), Neutral Atoms Applications Group (Piotr T. Grochowski)",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-11-23",
-  "dt": "Deadline extended to Nov 23, 2026; email application to recruitment@cft.edu.pl, ref. MAB/29/2026",
-  "a": "PLN 12,980-14,660 gross/month; initially 1 year, extendable to the end of 2029",
-  "e": "Theory and numerics for neutral atoms in optical tweezers and Rydberg arrays: quantum control, simulation, many-body dynamics and sensing. PhD awarded no earlier than 2021 (extendable for documented career breaks); no citizenship limits stated.",
-  "u": "https://euraxess.ec.europa.eu/jobs/471138",
-  "us": false,
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "nfit": "Low",
-  "checked": "2026-11-23",
-  "added": "2026-10-08",
   "stages": [
    "pd"
   ]
@@ -6024,27 +6002,6 @@
   ]
  },
  {
-  "id": "fj-unc-chapel-hill-tt-asst-prof-astrophysics-ai-ml",
-  "n": "UNC Chapel Hill: TT Asst Prof, Astrophysics (AI/ML)",
-  "f": "Dept. of Physics & Astronomy, UNC Chapel Hill",
-  "c": "Faculty job",
-  "s": "open",
-  "d": "2026-11-23",
-  "dt": "Application deadline Nov 23, 2026 (UNC posting); materials requested by Nov 16, when review began",
-  "a": "Assistant Professor, tenure-track",
-  "e": "AI/ML for large astronomical datasets: real-time transient detection, survey-scale inference and faint-signal extraction from imaging/time-series. Time-domain and data-intensive.",
-  "u": "https://unc.peopleadmin.com/postings/325834",
-  "us": false,
-  "nom": false,
-  "region": "US",
-  "nfit": "High",
-  "checked": "2026-11-23",
-  "added": "2026-10-01",
-  "stages": [
-   "fj"
-  ]
- },
- {
   "id": "fj-univ-of-hong-kong-tt-asst-assoc-full-prof-astrophysic",
   "n": "Univ. of Hong Kong: TT Asst/Assoc/Full Prof, Astrophysics & Astronomy",
   "f": "Dept. of Physics & HK Institute for Astronomy and Astrophysics, University of Hong Kong",
@@ -8388,7 +8345,6 @@
   "f": "IGFAE, University of Santiago de Compostela",
   "c": "Group postdoc",
   "s": "rolling",
-  "d": "2026-11-23",
   "dt": "Review begins Nov 23, 2026 and continues until filled",
   "e": "Three-year postdoc on LHCb data analysis (rare b-hadron decays, semileptonic B decays or heavy ions), with possible work on the VELO Upgrade 2. Applicants need a PhD in experimental high-energy physics; no citizenship limit is stated.",
   "u": "https://inspirehep.net/jobs/3220283",
@@ -8398,11 +8354,12 @@
   "pt": "group",
   "region": "International",
   "nfit": "Low",
-  "checked": "2026-11-23",
+  "checked": "2026-11-24",
   "added": "2026-10-31",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "ihep-beijing-ams-cosmic-ray-postdocs",
@@ -8724,7 +8681,6 @@
   "f": "Indiana University Bloomington, High Energy Neutrino and Particle Astrophysics group",
   "c": "Group postdoc",
   "s": "rolling",
-  "d": "2026-11-23",
   "dt": "Review begins Nov 23, 2026 (best-consideration date) and continues until the position is filled.",
   "a": "1 year initially, extendable by up to 2 more years; salary not stated",
   "e": "Postdoc based in Bloomington with a leading role in NOvA data analysis and in DUNE analysis or hardware development; start as early as Jan 1, 2027. Requires a PhD in physics; no citizenship limit is stated.",
@@ -8735,11 +8691,12 @@
   "pt": "group",
   "region": "US",
   "nfit": "Low",
-  "checked": "2026-11-23",
+  "checked": "2026-11-24",
   "added": "2026-10-21",
   "stages": [
    "pd"
-  ]
+  ],
+  "d": null
  },
  {
   "id": "indiana-utama-quantum-materials-optics-postdoc",
@@ -9146,6 +9103,29 @@
   "nfit": "Low",
   "checked": "2026-11-23",
   "added": "2026-10-20",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "itp-cas-beijing-postdoc-cosmology-gw-shi-pi",
+  "n": "ITP-CAS Beijing: Postdoc in theoretical cosmology and gravitational-wave physics (Shi Pi group)",
+  "f": "Institute of Theoretical Physics, Chinese Academy of Sciences",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-10",
+  "dt": "Apply by Jan 10, 2027; applications reviewed as soon as complete",
+  "a": "Two years, possible third year; salary not stated",
+  "e": "Postdoc with Prof. Shi Pi on inflation, primordial non-Gaussianity, primordial black holes and early-Universe stochastic gravitational-wave backgrounds, including signals for pulsar timing arrays and space-based interferometers. Apply by email to Yue Fu (subject line [ITP-PD2026]) with a cover letter, CV and research statement, plus two letters; no citizenship limit stated.",
+  "u": "https://inspirehep.net/jobs/3231606",
+  "unv": "Salary not stated; the INSPIRE listing links to the general ITP-CAS 2027 postdoc ad (AJO 33398), but this group asks for email applications.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "High",
+  "checked": "2026-11-24",
+  "added": "2026-11-24",
   "stages": [
    "pd"
   ]
@@ -10771,28 +10751,6 @@
    "pd"
   ],
   "d": null
- },
- {
-  "id": "max-planck-aei-potsdam-postdocs",
-  "n": "Max Planck AEI Potsdam: GW science postdocs (ACR division)",
-  "f": "Max Planck Institute for Gravitational Physics (AEI), Potsdam",
-  "c": "Group postdoc",
-  "s": "open",
-  "d": "2026-11-23",
-  "dt": "Full consideration by Nov 23, 2026, including reference letters; applications considered until all positions are filled",
-  "a": "TVöD E13, 2–5 yr",
-  "e": "Group positions in gravitational-wave astrophysics, starting fall 2027.",
-  "u": "https://www.aei.mpg.de/1513474/acr-postdoc-2027",
-  "us": false,
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "nfit": "High",
-  "checked": "2026-11-23",
-  "added": "2026-09-29",
-  "stages": [
-   "pd"
-  ]
  },
  {
   "id": "meerkat-director-discretionary",
@@ -12587,8 +12545,8 @@
   "f": "Ohio State University, Center for Cosmology and AstroParticle Physics (CCAPP), Depts. of Astronomy and Physics",
   "c": "Fellowship",
   "s": "open",
-  "d": "2026-11-23",
-  "dt": "Applications strongly preferred by Nov 23, 2026; accepted until Dec 1, 2026. Apply through Ohio State's Workday portal, not AJO",
+  "d": "2026-12-01",
+  "dt": "Applications strongly preferred by Nov 23, 2026; accepted until Dec 1, 2026 (AJO listed until Dec 1). Apply through Ohio State's Workday portal, not AJO",
   "a": "$67,000/yr + $10,000/yr research + $3,000 relocation; 3 years",
   "e": "Independent fellowship in any area of cosmology, astroparticle physics or astrophysics (dark energy, LSS, CMB, lensing, dark matter, cosmic rays, neutrinos).",
   "u": "https://academicjobsonline.org/ajo/jobs/32448",
@@ -12597,7 +12555,7 @@
   "pt": "prize",
   "region": "US",
   "nfit": "Medium",
-  "checked": "2026-11-23",
+  "checked": "2026-11-24",
   "added": "2026-09-30",
   "stages": [
    "pd"
@@ -14228,6 +14186,29 @@
   "d": null
  },
  {
+  "id": "sissa-gwsky-postdocs-gw-physics",
+  "n": "SISSA Trieste: Postdoctoral positions in gravitational-wave physics (GWSky ERC Synergy Grant)",
+  "f": "SISSA, Physics Area (Trieste, Italy)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-31",
+  "dt": "All material, including three reference letters, by Dec 31, 2026 for full consideration (AJO)",
+  "a": "Two years, possible extension; start fall 2027; salary not stated",
+  "e": "Several postdocs in the gravitational-wave group at SISSA on the ERC Synergy project GWSky (Barausse, Bern, Buonanno, van de Meent): numerical relativity, waveform modeling, environmental effects in binaries, tests of GR, GW data analysis and machine learning. Some postdocs may spend time at another project node; no citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33511",
+  "unv": "Salary not stated in the ad.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "High",
+  "checked": "2026-11-24",
+  "added": "2026-11-24",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "sissa-ifpu-postdoctoral-fellowship-2027",
   "n": "SISSA / IFPU Trieste: Postdoctoral IFPU Fellowship",
   "f": "SISSA Physics Area / IFPU",
@@ -15486,6 +15467,29 @@
   "d": null
  },
  {
+  "id": "u-oklahoma-postdoc-atlas-ml",
+  "n": "University of Oklahoma: Postdoctoral Research Associate, ATLAS and machine learning (Stupak group)",
+  "f": "University of Oklahoma, Department of Physics and Astronomy",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-03",
+  "dt": "Full consideration for applications by Jan 3, 2027 (Interfolio)",
+  "a": "Two years, renewable up to five; salary not stated",
+  "e": "Experimental HEP postdoc with Prof. John Stupak developing machine-learning methods for ATLAS reconstruction, trigger, calibration, detector R&D and analysis, with some work on future colliders. Requires a PhD in experimental high-energy physics; no citizenship limit stated.",
+  "u": "https://apply.interfolio.com/197777",
+  "unv": "Salary not stated.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-24",
+  "added": "2026-11-24",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
   "id": "u-pisa-cft-qft-bootstrap-postdocs-2027",
   "n": "University of Pisa: Postdoctoral positions in theoretical physics (CFT, QFT and bootstrap)",
   "f": "University of Pisa, Department of Physics (Alessandro Vichi group, FIS Advanced Grant)",
@@ -15504,6 +15508,52 @@
   "nfit": "Low",
   "checked": "2026-11-23",
   "added": "2026-11-21",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "u-rochester-postdoc-strong-field-qed",
+  "n": "University of Rochester: Postdoc in strong-field QED (Di Piazza group)",
+  "f": "University of Rochester, Department of Physics and Astronomy and Laboratory for Laser Energetics",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2027-01-31",
+  "dt": "AJO deadline Jan 31, 2027; position available immediately",
+  "a": "One year, possible extension by one year; salary not stated",
+  "e": "Theory postdoc with Prof. Antonino Di Piazza on radiation emission by several charges in strong electromagnetic fields, funded by an NSF-GACR grant with ELI Beamlines. Needs a background in high-field QED and numerical methods; no citizenship limit stated.",
+  "u": "https://academicjobsonline.org/ajo/jobs/33510",
+  "unv": "Salary not stated. Also listed on INSPIRE (job 3232048).",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "nfit": "Low",
+  "checked": "2026-11-24",
+  "added": "2026-11-24",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "u-southampton-research-fellow-particle-cosmology",
+  "n": "University of Southampton: Research Fellow in Particle Cosmology",
+  "f": "University of Southampton, School of Physics and Astronomy (SHEP group)",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-18",
+  "dt": "Apply by Dec 18, 2026; start Oct 1, 2027",
+  "a": "Two years, with research-expense funding; salary not stated",
+  "e": "Two-year postdoctoral fellowship in the SHEP BSM-Particle Cosmology subgroup (Di Bari, White): early-universe physics, neutrino physics, astroparticle physics and gravitational waves. Candidates near completion of a PhD may apply; no citizenship limit stated.",
+  "u": "https://jobs.soton.ac.uk/Vacancy.aspx?ref=3557626WF",
+  "unv": "Salary not stated in the INSPIRE listing; host ad not opened.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Medium",
+  "checked": "2026-11-24",
+  "added": "2026-11-24",
   "stages": [
    "pd"
   ]
@@ -15592,6 +15642,29 @@
   "nfit": "Medium",
   "checked": "2026-11-23",
   "added": "2026-10-17",
+  "stages": [
+   "pd"
+  ]
+ },
+ {
+  "id": "u-turin-postdoc-lattice-flavor",
+  "n": "University of Turin: Postdoc in lattice field theory and flavor phenomenology",
+  "f": "University of Turin, theory group",
+  "c": "Group postdoc",
+  "s": "open",
+  "d": "2026-12-31",
+  "dt": "Expressions of interest received by Dec 31, 2026 get full consideration",
+  "a": "Two years, possible third year; start by fall 2027; salary not stated",
+  "e": "Two-year postdoc in lattice field theory and/or flavor phenomenology with the Turin lattice and flavor groups (Caselle, Gambino, Jung, Panero, Parotto), funded by an Italian national grant. Apply through the group's online form with CV, publications, research statement and up to three references; no citizenship limit stated.",
+  "u": "https://inspirehep.net/jobs/3231653",
+  "unv": "Salary not stated; this is a call for expressions of interest.",
+  "us": false,
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "nfit": "Low",
+  "checked": "2026-11-24",
+  "added": "2026-11-24",
   "stages": [
    "pd"
   ]
@@ -16786,28 +16859,6 @@
   ]
  },
  {
-  "id": "umontreal-mcdonald-theory-fellowship-astroparticle",
-  "n": "Université de Montréal: McDonald Institute Theory Fellowship in astroparticle theory",
-  "f": "Université de Montréal",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-11-23",
-  "dt": "AJO deadline Nov 23, 2026",
-  "e": "Three-year McDonald Institute Theory Fellowship in astroparticle theory and phenomenology (neutrinos, dark matter, physics beyond the Standard Model) with the UdeM phenomenology group. Applicants need a PhD in physics or astronomy before the start; no citizenship limit is stated.",
-  "u": "https://academicjobsonline.org/ajo/jobs/33189",
-  "unv": "INSPIRE lists Nov 24, 2026; the AJO date is used. Salary not stated.",
-  "us": false,
-  "nom": false,
-  "pt": "prize",
-  "region": "Canada",
-  "nfit": "Medium",
-  "checked": "2026-11-23",
-  "added": "2026-10-31",
-  "stages": [
-   "pd"
-  ]
- },
- {
   "id": "unc-gcheps-theory-postdoc-2027",
   "n": "UNC Chapel Hill: Postdoc in Theoretical Physics (incl. joint UNC–Harvard and UNC–UChicago positions)",
   "f": "University of North Carolina at Chapel Hill, Department of Physics and Astronomy",
@@ -17231,29 +17282,6 @@
   "nfit": "High",
   "checked": "2026-11-23",
   "added": "2026-11-14",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "ut-austin-cosmicai-accelerated-universe-postdoctoral-fel",
-  "n": "UT Austin: CosmicAI Accelerated Universe Postdoctoral Fellow",
-  "f": "University of Texas at Austin, Astronomy / Oden Institute; contact Stella Offner",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-11-23",
-  "dt": "Nov 23, 2026, 12:00 pm (CosmicAI jobs page)",
-  "a": "$80,000/yr; 2 years + possible 3rd",
-  "e": "AI surrogate modeling of astrophysical systems, including star formation. For PhDs awarded Sept 2025–Sept 2027.",
-  "u": "https://aas.org/jobregister/ad/6f3e50b2",
-  "unv": "The AAS Job Register blocks automated access (HTTP 403), so the AAS ad was not reread; the CosmicAI jobs page (cosmicai.org/jobs, read Nov 23, 2026) lists the posting until Nov 23, 2026, 12:00 pm (time zone not stated). Salary and term not reconfirmed there.",
-  "us": false,
-  "nom": false,
-  "pt": "prize",
-  "region": "US",
-  "nfit": "Medium",
-  "checked": "2026-11-23",
-  "added": "2026-09-30",
   "stages": [
    "pd"
   ]
@@ -17997,28 +18025,6 @@
   "nfit": "Medium",
   "checked": "2026-10-21",
   "added": "2026-10-02",
-  "stages": [
-   "pd"
-  ]
- },
- {
-  "id": "winnipeg-mcdonald-theory-fellowship-particle-cosmology",
-  "n": "University of Winnipeg: McDonald Institute Theory Fellowship (particle cosmology)",
-  "f": "University of Winnipeg, Department of Physics",
-  "c": "Fellowship",
-  "s": "open",
-  "d": "2026-11-23",
-  "dt": "Deadline Nov 23, 2026; first-round offers in January",
-  "e": "Three-year McDonald Institute Theory Fellowship in particle cosmology, working with Evan McDonough and Andrew Frey; top-ranked applicants go to the McDonald Institute theory evaluation committee. No citizenship limit is stated.",
-  "u": "https://academicjobsonline.org/ajo/jobs/33293",
-  "unv": "Salary not stated. Also listed on INSPIRE (3220787).",
-  "us": false,
-  "nom": false,
-  "pt": "prize",
-  "region": "Canada",
-  "nfit": "Medium",
-  "checked": "2026-11-23",
-  "added": "2026-10-31",
   "stages": [
    "pd"
   ]
