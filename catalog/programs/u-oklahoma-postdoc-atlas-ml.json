@@ -1,0 +1,31 @@
+{
+ "a": "Two years, renewable up to five; salary not stated",
+ "added": "2026-11-24",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-24",
+ "d": "2027-01-03",
+ "dt": "Full consideration for applications by Jan 3, 2027 (Interfolio)",
+ "e": "Experimental HEP postdoc with Prof. John Stupak developing machine-learning methods for ATLAS reconstruction, trigger, calibration, detector R&D and analysis, with some work on future colliders. Requires a PhD in experimental high-energy physics; no citizenship limit stated.",
+ "f": "University of Oklahoma, Department of Physics and Astronomy",
+ "fields": [
+  "ppx"
+ ],
+ "id": "u-oklahoma-postdoc-atlas-ml",
+ "n": "University of Oklahoma: Postdoctoral Research Associate, ATLAS and machine learning (Stupak group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "inspire:3231625",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://apply.interfolio.com/197777",
+ "unv": "Salary not stated.",
+ "us": false
+}

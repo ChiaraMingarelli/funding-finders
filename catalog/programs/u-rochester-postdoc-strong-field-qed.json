@@ -1,0 +1,31 @@
+{
+ "a": "One year, possible extension by one year; salary not stated",
+ "added": "2026-11-24",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-24",
+ "d": "2027-01-31",
+ "dt": "AJO deadline Jan 31, 2027; position available immediately",
+ "e": "Theory postdoc with Prof. Antonino Di Piazza on radiation emission by several charges in strong electromagnetic fields, funded by an NSF-GACR grant with ELI Beamlines. Needs a background in high-field QED and numerical methods; no citizenship limit stated.",
+ "f": "University of Rochester, Department of Physics and Astronomy and Laboratory for Laser Energetics",
+ "fields": [
+  "ppt"
+ ],
+ "id": "u-rochester-postdoc-strong-field-qed",
+ "n": "University of Rochester: Postdoc in strong-field QED (Di Piazza group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33510",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33510",
+ "unv": "Salary not stated. Also listed on INSPIRE (job 3232048).",
+ "us": false
+}

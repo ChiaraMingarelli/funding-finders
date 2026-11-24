@@ -1,0 +1,32 @@
+{
+ "a": "Two years, possible third year; start by fall 2027; salary not stated",
+ "added": "2026-11-24",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-24",
+ "d": "2026-12-31",
+ "dt": "Expressions of interest received by Dec 31, 2026 get full consideration",
+ "e": "Two-year postdoc in lattice field theory and/or flavor phenomenology with the Turin lattice and flavor groups (Caselle, Gambino, Jung, Panero, Parotto), funded by an Italian national grant. Apply through the group's online form with CV, publications, research statement and up to three references; no citizenship limit stated.",
+ "f": "University of Turin, theory group",
+ "fields": [
+  "ppt",
+  "nut"
+ ],
+ "id": "u-turin-postdoc-lattice-flavor",
+ "n": "University of Turin: Postdoc in lattice field theory and flavor phenomenology",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3231653",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3231653",
+ "unv": "Salary not stated; this is a call for expressions of interest.",
+ "us": false
+}

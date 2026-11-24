@@ -1,0 +1,38 @@
+{
+ "a": "Two years, possible third year; salary not stated",
+ "added": "2026-11-24",
+ "asub": [
+  "cos",
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-24",
+ "d": "2027-01-10",
+ "dt": "Apply by Jan 10, 2027; applications reviewed as soon as complete",
+ "e": "Postdoc with Prof. Shi Pi on inflation, primordial non-Gaussianity, primordial black holes and early-Universe stochastic gravitational-wave backgrounds, including signals for pulsar timing arrays and space-based interferometers. Apply by email to Yue Fu (subject line [ITP-PD2026]) with a cover letter, CV and research statement, plus two letters; no citizenship limit stated.",
+ "f": "Institute of Theoretical Physics, Chinese Academy of Sciences",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "itp-cas-beijing-postdoc-cosmology-gw-shi-pi",
+ "n": "ITP-CAS Beijing: Postdoc in theoretical cosmology and gravitational-wave physics (Shi Pi group)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3231606",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3231606",
+ "unv": "Salary not stated; the INSPIRE listing links to the general ITP-CAS 2027 postdoc ad (AJO 33398), but this group asks for email applications.",
+ "us": false
+}

@@ -1,0 +1,36 @@
+{
+ "a": "Two years, with research-expense funding; salary not stated",
+ "added": "2026-11-24",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-24",
+ "d": "2026-12-18",
+ "dt": "Apply by Dec 18, 2026; start Oct 1, 2027",
+ "e": "Two-year postdoctoral fellowship in the SHEP BSM-Particle Cosmology subgroup (Di Bari, White): early-universe physics, neutrino physics, astroparticle physics and gravitational waves. Candidates near completion of a PhD may apply; no citizenship limit stated.",
+ "f": "University of Southampton, School of Physics and Astronomy (SHEP group)",
+ "fields": [
+  "ppt",
+  "astro"
+ ],
+ "id": "u-southampton-research-fellow-particle-cosmology",
+ "n": "University of Southampton: Research Fellow in Particle Cosmology",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3231603",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.soton.ac.uk/Vacancy.aspx?ref=3557626WF",
+ "unv": "Salary not stated in the INSPIRE listing; host ad not opened.",
+ "us": false
+}

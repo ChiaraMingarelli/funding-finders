@@ -1,0 +1,37 @@
+{
+ "a": "Two years, possible extension; start fall 2027; salary not stated",
+ "added": "2026-11-24",
+ "asub": [
+  "he"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "radar",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-24",
+ "d": "2026-12-31",
+ "dt": "All material, including three reference letters, by Dec 31, 2026 for full consideration (AJO)",
+ "e": "Several postdocs in the gravitational-wave group at SISSA on the ERC Synergy project GWSky (Barausse, Bern, Buonanno, van de Meent): numerical relativity, waveform modeling, environmental effects in binaries, tests of GR, GW data analysis and machine learning. Some postdocs may spend time at another project node; no citizenship limit stated.",
+ "f": "SISSA, Physics Area (Trieste, Italy)",
+ "fields": [
+  "grav",
+  "astro"
+ ],
+ "id": "sissa-gwsky-postdocs-gw-physics",
+ "n": "SISSA Trieste: Postdoctoral positions in gravitational-wave physics (GWSky ERC Synergy Grant)",
+ "nfit": "High",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33511",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33511",
+ "unv": "Salary not stated in the ad.",
+ "us": false
+}
