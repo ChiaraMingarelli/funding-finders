@@ -1,0 +1,36 @@
+{
+ "a": "One year, renewable up to three; salary, benefits and research allowance; start September 2027",
+ "added": "2026-11-25",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Fellowship",
+ "checked": "2026-11-25",
+ "d": "2026-12-10",
+ "dt": "Consideration begins Dec 10, 2026",
+ "e": "Postdoctoral fellowship in cosmological theory and data analysis, with the chance to join Simons Observatory work; fellows are free to work on topics of their choice. No citizenship limit stated.",
+ "f": "University of Pennsylvania, Center for Particle Cosmology",
+ "fields": [
+  "astro",
+  "ppt"
+ ],
+ "id": "penn-cpc-particle-cosmology-postdoc-2027",
+ "n": "University of Pennsylvania: Postdoctoral Fellowship in Particle Cosmology",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "prize",
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33527",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/fellowship/33527",
+ "unv": "Salary amount not stated.",
+ "us": false
+}

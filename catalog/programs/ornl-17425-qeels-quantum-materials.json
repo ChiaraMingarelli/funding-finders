@@ -1,0 +1,32 @@
+{
+ "a": "Two positions; salary not stated",
+ "added": "2026-11-25",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-25",
+ "d": null,
+ "dt": "Open until filled (req 17425; posted Nov 9, 2026)",
+ "e": "Two experimental postdocs developing and applying momentum-resolved electron energy-loss spectroscopy to collective excitations in quantum materials; PhD within the last 5 years. Foreign nationals eligible subject to DOE access checks.",
+ "f": "Oak Ridge National Laboratory, Center for Nanophase Materials Sciences, Electron Microscopy and Microanalysis group",
+ "fields": [
+  "cmx",
+  "mat"
+ ],
+ "id": "ornl-17425-qeels-quantum-materials",
+ "n": "ORNL: Postdocs in momentum-resolved electron spectroscopy of quantum materials (req 17425)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:ornl-17425-qeels-quantum-materials",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Momentum-Resolved-Electron-Spectroscopy-of-Quantum-Materials-TN-37830/1449130500/",
+ "us": false
+}

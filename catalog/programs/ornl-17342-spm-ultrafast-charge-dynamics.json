@@ -1,0 +1,33 @@
+{
+ "a": "Salary not stated",
+ "added": "2026-11-25",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-25",
+ "d": null,
+ "dt": "Open at least 5 days, then closes once filled (req 17342; posted Nov 25, 2026)",
+ "e": "Experimental postdoc building GHz/THz near-field electrical and optical AFM to study charge dynamics in 2D-material and ferroelectric heterostructures; PhD within the last 5 years. Foreign nationals eligible subject to DOE access checks.",
+ "f": "Oak Ridge National Laboratory, Center for Nanophase Materials Sciences, Functional AFM group",
+ "fields": [
+  "cmx",
+  "mat",
+  "dev"
+ ],
+ "id": "ornl-17342-spm-ultrafast-charge-dynamics",
+ "n": "ORNL: Postdoc in scanning probe microscopy for ultrafast charge dynamics (req 17342)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:ornl-17342-spm-ultrafast-charge-dynamics",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Scanning-Probe-Microscopy-for-Ultrafast-Charge-Dynamics-TN-37830/1444075900/",
+ "us": false
+}

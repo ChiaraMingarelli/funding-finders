@@ -1,0 +1,34 @@
+{
+ "a": "TVöD-Bund pay group 13–14; two years at first",
+ "added": "2026-11-25",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-25",
+ "d": null,
+ "dt": "Open until filled",
+ "e": "Experimental postdoc on coherent spin shuttling and high-fidelity control of Si/SiGe quantum-dot qubits, based in Aachen; dilution-refrigerator experience needed. No citizenship limit stated.",
+ "f": "Forschungszentrum Jülich, JARA Institute for Quantum Information (PGI-11)",
+ "fields": [
+  "qp",
+  "dev",
+  "cmx"
+ ],
+ "id": "fzj-pgi11-spin-shuttling-qubit-postdoc",
+ "n": "Forschungszentrum Jülich (PGI-11, Aachen): Postdoc on shuttle-based spin-qubit quantum chips",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "rolling",
+ "src": "other:fzj-pgi11-spin-shuttling-postdoc",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://recruiting.fz-juelich.de/jobposting/814e53672351f4a2e9c1eec510280c1f03f62dd2",
+ "unv": "Posting date not shown on the official page.",
+ "us": false
+}

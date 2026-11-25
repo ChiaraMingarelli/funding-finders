@@ -1,0 +1,32 @@
+{
+ "a": "Two years from Feb 1, 2027; salary under the Danish academic agreement",
+ "added": "2026-11-25",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-25",
+ "d": "2026-11-30",
+ "dt": "Deadline Nov 30, 2026",
+ "e": "Postdoc on III-V epitaxy and buried heterostructures for nanocavities with extreme dielectric confinement. DTU may run open-source background checks for export-controlled technology.",
+ "f": "Technical University of Denmark, Center for Nanophotonics (NanoPhoton) (Jesper Mørk, Elizaveta Semenova, Kresten Yvind)",
+ "fields": [
+  "phot",
+  "dev"
+ ],
+ "id": "dtu-8599-nanophoton-emitter-cavity-postdoc",
+ "n": "DTU NanoPhoton: Postdoc in lithographically defined emitter-cavity interfaces",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:dtu-8599-emitter-cavity-interfaces",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8599",
+ "us": false
+}

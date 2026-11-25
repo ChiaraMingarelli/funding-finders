@@ -1,0 +1,32 @@
+{
+ "a": "Fully funded; 1 year at first, extendable up to 3 years",
+ "added": "2026-11-25",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-25",
+ "d": "2026-12-09",
+ "dt": "First consideration Dec 9, 2026; open until filled",
+ "e": "Several theory postdocs on graph states, absolutely maximally entangled states and multipartite entanglement, with applications to quantum communication, error correction and cryptography; funded by the German research ministry (BMFTR). Applicants outline their own first-year research question; no citizenship limit stated.",
+ "f": "University of Münster, Department for Quantum Technology, Theoretical Quantum Communication Group (Zahra Raissi)",
+ "fields": [
+  "qp"
+ ],
+ "id": "muenster-raissi-qscalar-quantum-comm-postdocs",
+ "n": "University of Münster: Postdocs in multipartite entanglement and quantum communication (Q-SCALAR, Raissi group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:muenster-raissi-qscalar-postdocs",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://www.uni-muenster.de/Physik.DQT/en/raissi/jobs/index.html",
+ "unv": "Full ad seen only on Quantiki (posted Nov 25, 2026); no university job-portal ad yet; salary grade not stated.",
+ "us": false
+}

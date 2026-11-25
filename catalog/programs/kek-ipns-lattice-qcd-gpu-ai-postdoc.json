@@ -1,0 +1,31 @@
+{
+ "a": "About 400,000 JPY per month; from March 2027 to the end of March 2031, renewed yearly",
+ "added": "2026-11-25",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-25",
+ "d": "2027-01-06",
+ "dt": "Deadline Jan 6, 2027 (Japan time); may be extended until filled",
+ "e": "Postdoc developing lattice QCD simulation codes for GPU systems and applying deep learning or AI to lattice field theory; prior experience not required. No citizenship limit stated.",
+ "f": "KEK, Institute of Particle and Nuclear Studies, Theory Center",
+ "fields": [
+  "ppt",
+  "ds"
+ ],
+ "id": "kek-ipns-lattice-qcd-gpu-ai-postdoc",
+ "n": "KEK Theory Center (Tsukuba): Postdoc in lattice QCD codes, GPUs and AI (Researcher 26-6)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33437",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33437",
+ "us": false
+}

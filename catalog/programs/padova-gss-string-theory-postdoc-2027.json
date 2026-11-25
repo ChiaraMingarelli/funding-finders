@@ -1,0 +1,31 @@
+{
+ "a": "2+1 years from fall 2027",
+ "added": "2026-11-25",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-25",
+ "d": "2026-12-16",
+ "dt": "Apply by Dec 16, 2026 through the Joint European Postdoc Application on AJO",
+ "e": "One postdoc on string compactifications, supergravity, generalized symmetries, black holes and holography, within the FIS3 project on topological calculus for fields, strings and gravity. Applications only through AJO.",
+ "f": "University of Padua and INFN Padova, Gauge Theories, Strings and Supergravity group (Fabio Apruzzi)",
+ "fields": [
+  "ppt"
+ ],
+ "id": "padova-gss-string-theory-postdoc-2027",
+ "n": "University of Padua: Postdoc in theoretical physics (Gauge Theories, Strings and Supergravity group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3232697",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://inspirehep.net/jobs/3232697",
+ "unv": "Salary not stated.",
+ "us": false
+}

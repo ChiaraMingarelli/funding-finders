@@ -1,0 +1,31 @@
+{
+ "a": "Two years from March 2027; salary under the Danish academic agreement",
+ "added": "2026-11-25",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-25",
+ "d": "2027-01-03",
+ "dt": "Deadline Jan 3, 2027, 23:59 Danish time",
+ "e": "Postdoc building low-noise infrared frequency combs for nanoscale imaging and spectroscopy. DTU may run open-source background checks for export-controlled technology.",
+ "f": "Technical University of Denmark, DTU Electro (Ajanta Barh)",
+ "fields": [
+  "phot"
+ ],
+ "id": "dtu-8663-ultrafast-ir-nanospectroscopy-postdoc",
+ "n": "DTU Electro: Postdoc in ultrafast lasers for infrared nanospectroscopy",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:dtu-8663-ultrafast-ir-nanospectroscopy",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8663",
+ "us": false
+}
