@@ -3740,6 +3740,112 @@
   "us": false
  },
  {
+  "a": "Two years from Feb 1, 2027; salary under the Danish academic agreement",
+  "added": "2026-11-25",
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": "2026-11-30",
+  "dt": "Deadline Nov 30, 2026",
+  "e": "Postdoc on III-V epitaxy and buried heterostructures for nanocavities with extreme dielectric confinement. DTU may run open-source background checks for export-controlled technology.",
+  "f": "Technical University of Denmark, Center for Nanophotonics (NanoPhoton) (Jesper Mørk, Elizaveta Semenova, Kresten Yvind)",
+  "fields": [
+   "phot",
+   "dev"
+  ],
+  "id": "dtu-8599-nanophoton-emitter-cavity-postdoc",
+  "n": "DTU NanoPhoton: Postdoc in lithographically defined emitter-cavity interfaces",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:dtu-8599-emitter-cavity-interfaces",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8599",
+  "us": false
+ },
+ {
+  "a": "Two years; salary under the Danish academic agreement",
+  "added": "2026-11-25",
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": "2026-12-14",
+  "dt": "Deadline Dec 14, 2026",
+  "e": "Postdoc on ultrafast nonlinear optics in gas-filled hollow-core fibers and high-power near-infrared ultrafast sources. DTU may run open-source background checks for export-controlled technology.",
+  "f": "Technical University of Denmark, DTU Electro GasLab (Christos Markos, Yazhou Wang)",
+  "fields": [
+   "phot"
+  ],
+  "id": "dtu-8618-gas-photonics-postdoc",
+  "n": "DTU Electro: Postdoc in gas photonics (hollow-core fibers)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:dtu-8618-gas-photonics",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8618",
+  "us": false
+ },
+ {
+  "a": "10 months from Mar 1, 2027; salary under the Danish academic agreement",
+  "added": "2026-11-25",
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": "2026-12-02",
+  "dt": "Deadline Dec 2, 2026",
+  "e": "Postdoc on NEMS tuning of thin-film lithium niobate photonic-crystal cavities for programmable photonic circuits. DTU may run open-source background checks for export-controlled technology.",
+  "f": "Technical University of Denmark, DTU Electro (Mikkel Heuck, REPEAT project)",
+  "fields": [
+   "phot",
+   "dev"
+  ],
+  "id": "dtu-8628-nems-tfln-programmable-photonics",
+  "n": "DTU Electro: Postdoc in nanoelectromechanical control of cavity-based programmable photonics",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:dtu-8628-nems-tfln-programmable-photonics",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8628",
+  "us": false
+ },
+ {
+  "a": "Two years from March 2027; salary under the Danish academic agreement",
+  "added": "2026-11-25",
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": "2027-01-03",
+  "dt": "Deadline Jan 3, 2027, 23:59 Danish time",
+  "e": "Postdoc building low-noise infrared frequency combs for nanoscale imaging and spectroscopy. DTU may run open-source background checks for export-controlled technology.",
+  "f": "Technical University of Denmark, DTU Electro (Ajanta Barh)",
+  "fields": [
+   "phot"
+  ],
+  "id": "dtu-8663-ultrafast-ir-nanospectroscopy-postdoc",
+  "n": "DTU Electro: Postdoc in ultrafast lasers for infrared nanospectroscopy",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:dtu-8663-ultrafast-ir-nanospectroscopy",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8663",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-10-03",
   "c": "Group postdoc",
@@ -4439,6 +4545,35 @@
    "ten"
   ],
   "u": "https://simpler.grants.gov/opportunity/808c438e-f1f8-46ae-8cd3-6bf68320548a",
+  "us": false
+ },
+ {
+  "a": "TVöD-Bund pay group 13–14; two years at first",
+  "added": "2026-11-25",
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": null,
+  "dt": "Open until filled",
+  "e": "Experimental postdoc on coherent spin shuttling and high-fidelity control of Si/SiGe quantum-dot qubits, based in Aachen; dilution-refrigerator experience needed. No citizenship limit stated.",
+  "f": "Forschungszentrum Jülich, JARA Institute for Quantum Information (PGI-11)",
+  "fields": [
+   "qp",
+   "dev",
+   "cmx"
+  ],
+  "id": "fzj-pgi11-spin-shuttling-qubit-postdoc",
+  "n": "Forschungszentrum Jülich (PGI-11, Aachen): Postdoc on shuttle-based spin-qubit quantum chips",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:fzj-pgi11-spin-shuttling-postdoc",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://recruiting.fz-juelich.de/jobposting/814e53672351f4a2e9c1eec510280c1f03f62dd2",
+  "unv": "Posting date not shown on the official page.",
   "us": false
  },
  {
@@ -7731,6 +7866,33 @@
   "us": false
  },
  {
+  "a": "Fully funded; 1 year at first, extendable up to 3 years",
+  "added": "2026-11-25",
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": "2026-12-09",
+  "dt": "First consideration Dec 9, 2026; open until filled",
+  "e": "Several theory postdocs on graph states, absolutely maximally entangled states and multipartite entanglement, with applications to quantum communication, error correction and cryptography; funded by the German research ministry (BMFTR). Applicants outline their own first-year research question; no citizenship limit stated.",
+  "f": "University of Münster, Department for Quantum Technology, Theoretical Quantum Communication Group (Zahra Raissi)",
+  "fields": [
+   "qp"
+  ],
+  "id": "muenster-raissi-qscalar-quantum-comm-postdocs",
+  "n": "University of Münster: Postdocs in multipartite entanglement and quantum communication (Q-SCALAR, Raissi group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:muenster-raissi-qscalar-postdocs",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.uni-muenster.de/Physik.DQT/en/raissi/jobs/index.html",
+  "unv": "Full ad seen only on Quantiki (posted Nov 25, 2026); no university job-portal ad yet; salary grade not stated.",
+  "us": false
+ },
+ {
   "a": "GPU/cloud/model allocations",
   "added": "2026-09-29",
   "c": "Compute",
@@ -7936,35 +8098,6 @@
    "pd"
   ],
   "u": "https://employment.ku.dk/all-vacancies/?show=172247",
-  "us": false
- },
- {
-  "a": "Not stated (Danish state academic agreement; supplement negotiable)",
-  "added": "2026-11-21",
-  "c": "Group postdoc",
-  "checked": "2026-11-23",
-  "d": "2026-11-24",
-  "dt": "Deadline Nov 24, 2026, 23:59 CET",
-  "e": "Two-year senior postdoc developing superconducting nanowire single-photon detectors integrated into photonic circuits to process photons from silicon quantum emitters, starting Feb 1, 2027. Requires a PhD plus postdoc experience with SNSPD fabrication, quantum photonics and cryogenics; no citizenship limits stated.",
-  "f": "University of Copenhagen, Niels Bohr Institute, NNF Quantum Computing Programme (Photonic Control and Readout team)",
-  "fields": [
-   "qp",
-   "phot",
-   "dev"
-  ],
-  "id": "nbi-nqcp-senior-postdoc-snspds",
-  "n": "University of Copenhagen (Niels Bohr Institute): Senior Postdoc, SNSPDs",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "other:ku-172581-snspd",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://employment.ku.dk/all-vacancies/?show=172581",
-  "unv": "Posting date not seen.",
   "us": false
  },
  {
@@ -11673,6 +11806,115 @@
   ],
   "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate%2C-Optical-Fiber-Sensing-TN-37830/1433550900/",
   "unv": "Listed Nov 21, 2026 on jobs.ornl.gov (requisition 17149).",
+  "us": false
+ },
+ {
+  "a": "Salary not stated",
+  "added": "2026-11-25",
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": null,
+  "dt": "Open at least 5 days, then closes once filled (req 17342; posted Nov 25, 2026)",
+  "e": "Experimental postdoc building GHz/THz near-field electrical and optical AFM to study charge dynamics in 2D-material and ferroelectric heterostructures; PhD within the last 5 years. Foreign nationals eligible subject to DOE access checks.",
+  "f": "Oak Ridge National Laboratory, Center for Nanophase Materials Sciences, Functional AFM group",
+  "fields": [
+   "cmx",
+   "mat",
+   "dev"
+  ],
+  "id": "ornl-17342-spm-ultrafast-charge-dynamics",
+  "n": "ORNL: Postdoc in scanning probe microscopy for ultrafast charge dynamics (req 17342)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-17342-spm-ultrafast-charge-dynamics",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Scanning-Probe-Microscopy-for-Ultrafast-Charge-Dynamics-TN-37830/1444075900/",
+  "us": false
+ },
+ {
+  "a": "Salary not stated",
+  "added": "2026-11-25",
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": null,
+  "dt": "Open until filled (req 17391; posted Nov 3, 2026)",
+  "e": "Experimental postdoc on thin-film growth and characterization of quantum materials; PhD within the last 5 years. Foreign nationals eligible subject to DOE access checks.",
+  "f": "Oak Ridge National Laboratory, Quantum Heterostructures group",
+  "fields": [
+   "cmx",
+   "mat"
+  ],
+  "id": "ornl-17391-thin-film-quantum-materials",
+  "n": "ORNL: Postdoc in thin-film synthesis and characterization of quantum materials (req 17391)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-17391-thin-film-quantum-materials",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Thin-Film-Synthesis-and-Characterization-of-Quantum-Materials-TN-37830/1447188800/",
+  "us": false
+ },
+ {
+  "a": "Up to 24 months; salary not stated",
+  "added": "2026-11-25",
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": null,
+  "dt": "Open until filled (req 17415; posted Nov 6, 2026)",
+  "e": "Postdoc using neutron and x-ray scattering to study altermagnets, p-wave magnets and topological spin textures, with machine-learning data analysis; PhD within the last 5 years. Foreign nationals eligible subject to DOE access checks.",
+  "f": "Oak Ridge National Laboratory, Materials Science and Technology Division, Correlated Electron Materials group",
+  "fields": [
+   "cmx",
+   "mat"
+  ],
+  "id": "ornl-17415-correlated-topological-materials",
+  "n": "ORNL: Postdoc in quantum phenomena in correlated and topological materials (req 17415)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-17415-correlated-topological-materials",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Quantum-Phenomena-in-Correlated-and-Topological-Materials-TN-37830/1448618200/",
+  "us": false
+ },
+ {
+  "a": "Two positions; salary not stated",
+  "added": "2026-11-25",
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": null,
+  "dt": "Open until filled (req 17425; posted Nov 9, 2026)",
+  "e": "Two experimental postdocs developing and applying momentum-resolved electron energy-loss spectroscopy to collective excitations in quantum materials; PhD within the last 5 years. Foreign nationals eligible subject to DOE access checks.",
+  "f": "Oak Ridge National Laboratory, Center for Nanophase Materials Sciences, Electron Microscopy and Microanalysis group",
+  "fields": [
+   "cmx",
+   "mat"
+  ],
+  "id": "ornl-17425-qeels-quantum-materials",
+  "n": "ORNL: Postdocs in momentum-resolved electron spectroscopy of quantum materials (req 17425)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-17425-qeels-quantum-materials",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Momentum-Resolved-Electron-Spectroscopy-of-Quantum-Materials-TN-37830/1449130500/",
   "us": false
  },
  {

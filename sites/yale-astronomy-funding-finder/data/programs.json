@@ -5313,6 +5313,37 @@
   "us": false
  },
  {
+  "a": "2+1 years from October 2027; one post at a more senior level (3+ years after PhD); salary not stated",
+  "added": "2026-11-25",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": "2026-11-29",
+  "dt": "Application deadline Nov 29, 2026",
+  "e": "Several postdocs in string theory, particle phenomenology, astroparticle physics and cosmology, some funded by the ERC project BestLobe (Paolo Creminelli). No citizenship limit stated.",
+  "f": "Abdus Salam International Centre for Theoretical Physics (ICTP), HECAP section",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "ictp-hecap-postdocs-2027",
+  "n": "ICTP Trieste: Postdoctoral positions in High Energy, Cosmology and Astroparticle Physics (HECAP)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33129",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33129",
+  "unv": "Salary not stated in the ad.",
+  "us": false
+ },
+ {
   "a": null,
   "added": "2026-10-21",
   "c": "Group postdoc",
@@ -10714,6 +10745,37 @@
    "u": "https://research.yale.edu/funding-opportunities-newsletter-archive",
    "unv": "Jan 26, 2026 is confirmed from the Jan 21, 2026 newsletter. The next cycle's date is unconfirmed."
   }
+ },
+ {
+  "a": "One year, renewable up to three; salary, benefits and research allowance; start September 2027",
+  "added": "2026-11-25",
+  "asub": [
+   "cos"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-11-25",
+  "d": "2026-12-10",
+  "dt": "Consideration begins Dec 10, 2026",
+  "e": "Postdoctoral fellowship in cosmological theory and data analysis, with the chance to join Simons Observatory work; fellows are free to work on topics of their choice. No citizenship limit stated.",
+  "f": "University of Pennsylvania, Center for Particle Cosmology",
+  "fields": [
+   "astro",
+   "ppt"
+  ],
+  "id": "penn-cpc-particle-cosmology-postdoc-2027",
+  "n": "University of Pennsylvania: Postdoctoral Fellowship in Particle Cosmology",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33527",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/fellowship/33527",
+  "unv": "Salary amount not stated.",
+  "us": false
  },
  {
   "a": "Salary plus research fund; nominally 3 years",

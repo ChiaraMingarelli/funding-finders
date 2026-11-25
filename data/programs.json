@@ -3893,38 +3893,6 @@
   "us": false
  },
  {
-  "a": "Not stated",
-  "added": "2026-11-11",
-  "aud": [
-   "yale",
-   "ng"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-11",
-  "d": "2026-11-24",
-  "dt": "Nov 24, 2026 (per INSPIRE listing); immediate start",
-  "e": "Postdoc to work on integration and commissioning of the CMS Tracker Upgrade, track-finder and DAQ. Funded to September 2027 with hoped-for extension to 2030; no citizenship limit stated.",
-  "f": "University of Bristol, CMS group",
-  "fields": [
-   "ppx",
-   "inst"
-  ],
-  "id": "bristol-cms-tracker-upgrade-senior-research-associate",
-  "n": "University of Bristol: Senior Research Associate, CMS (Tracker Upgrade)",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3226782",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.bristol.ac.uk/jobs/find/details/?jobId=392257",
-  "unv": "The Bristol job page is JavaScript-rendered and showed no vacancy details on Nov 16 or Nov 23, 2026; the Nov 24, 2026 closing date is from the INSPIRE listing (still open on Nov 23), salary not confirmed.",
-  "us": false
- },
- {
   "a": "$17,500",
   "added": "2026-10-01",
   "aud": [
@@ -7640,6 +7608,132 @@
   "us": false
  },
  {
+  "a": "Two years from Feb 1, 2027; salary under the Danish academic agreement",
+  "added": "2026-11-25",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": "2026-11-30",
+  "dt": "Deadline Nov 30, 2026",
+  "e": "Postdoc on III-V epitaxy and buried heterostructures for nanocavities with extreme dielectric confinement. DTU may run open-source background checks for export-controlled technology.",
+  "f": "Technical University of Denmark, Center for Nanophotonics (NanoPhoton) (Jesper Mørk, Elizaveta Semenova, Kresten Yvind)",
+  "fields": [
+   "phot",
+   "dev"
+  ],
+  "id": "dtu-8599-nanophoton-emitter-cavity-postdoc",
+  "n": "DTU NanoPhoton: Postdoc in lithographically defined emitter-cavity interfaces",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:dtu-8599-emitter-cavity-interfaces",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8599",
+  "us": false
+ },
+ {
+  "a": "Two years; salary under the Danish academic agreement",
+  "added": "2026-11-25",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": "2026-12-14",
+  "dt": "Deadline Dec 14, 2026",
+  "e": "Postdoc on ultrafast nonlinear optics in gas-filled hollow-core fibers and high-power near-infrared ultrafast sources. DTU may run open-source background checks for export-controlled technology.",
+  "f": "Technical University of Denmark, DTU Electro GasLab (Christos Markos, Yazhou Wang)",
+  "fields": [
+   "phot"
+  ],
+  "id": "dtu-8618-gas-photonics-postdoc",
+  "n": "DTU Electro: Postdoc in gas photonics (hollow-core fibers)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:dtu-8618-gas-photonics",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8618",
+  "us": false
+ },
+ {
+  "a": "10 months from Mar 1, 2027; salary under the Danish academic agreement",
+  "added": "2026-11-25",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": "2026-12-02",
+  "dt": "Deadline Dec 2, 2026",
+  "e": "Postdoc on NEMS tuning of thin-film lithium niobate photonic-crystal cavities for programmable photonic circuits. DTU may run open-source background checks for export-controlled technology.",
+  "f": "Technical University of Denmark, DTU Electro (Mikkel Heuck, REPEAT project)",
+  "fields": [
+   "phot",
+   "dev"
+  ],
+  "id": "dtu-8628-nems-tfln-programmable-photonics",
+  "n": "DTU Electro: Postdoc in nanoelectromechanical control of cavity-based programmable photonics",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:dtu-8628-nems-tfln-programmable-photonics",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8628",
+  "us": false
+ },
+ {
+  "a": "Two years from March 2027; salary under the Danish academic agreement",
+  "added": "2026-11-25",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": "2027-01-03",
+  "dt": "Deadline Jan 3, 2027, 23:59 Danish time",
+  "e": "Postdoc building low-noise infrared frequency combs for nanoscale imaging and spectroscopy. DTU may run open-source background checks for export-controlled technology.",
+  "f": "Technical University of Denmark, DTU Electro (Ajanta Barh)",
+  "fields": [
+   "phot"
+  ],
+  "id": "dtu-8663-ultrafast-ir-nanospectroscopy-postdoc",
+  "n": "DTU Electro: Postdoc in ultrafast lasers for infrared nanospectroscopy",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:dtu-8663-ultrafast-ir-nanospectroscopy",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8663",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-10-03",
   "aud": [
@@ -9330,6 +9424,36 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33365",
   "unv": "Review start date and salary not stated.",
+  "us": false
+ },
+ {
+  "a": "Open rank, tenure-track or tenured",
+  "added": "2026-11-25",
+  "aud": [
+   "ng"
+  ],
+  "c": "Faculty job",
+  "checked": "2026-11-25",
+  "d": "2026-11-30",
+  "dt": "Deadline Nov 30, 2026 (per Quantiki listing)",
+  "e": "Faculty search in engineered quantum and photonic systems, including quantum information theory, quantum networks and communication, integrated photonics, quantum optics, sensing and transduction. In an engineering school; no citizenship limit stated.",
+  "f": "Arizona State University, Ira A. Fulton Schools of Engineering, School of Electrical, Computer and Energy Engineering",
+  "fields": [
+   "qp",
+   "phot"
+  ],
+  "id": "fj-asu-open-rank-quantum-optical-sci-eng",
+  "n": "Arizona State University: Professor (all ranks) in Quantum and Optical Science and Engineering",
+  "nfit": "Low",
+  "nom": false,
+  "region": "US",
+  "s": "open",
+  "src": "other:asu-ecee-quantum-optical-open-rank",
+  "stages": [
+   "fj"
+  ],
+  "u": "https://apply.interfolio.com/195597",
+  "unv": "Interfolio ad did not render; deadline and rank taken from the Quantiki listing of Nov 24, 2026; salary not stated.",
   "us": false
  },
  {
@@ -14477,6 +14601,40 @@
   "us": false
  },
  {
+  "a": "TVöD-Bund pay group 13–14; two years at first",
+  "added": "2026-11-25",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": null,
+  "dt": "Open until filled",
+  "e": "Experimental postdoc on coherent spin shuttling and high-fidelity control of Si/SiGe quantum-dot qubits, based in Aachen; dilution-refrigerator experience needed. No citizenship limit stated.",
+  "f": "Forschungszentrum Jülich, JARA Institute for Quantum Information (PGI-11)",
+  "fields": [
+   "qp",
+   "dev",
+   "cmx"
+  ],
+  "id": "fzj-pgi11-spin-shuttling-qubit-postdoc",
+  "n": "Forschungszentrum Jülich (PGI-11, Aachen): Postdoc on shuttle-based spin-qubit quantum chips",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:fzj-pgi11-spin-shuttling-postdoc",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://recruiting.fz-juelich.de/jobposting/814e53672351f4a2e9c1eec510280c1f03f62dd2",
+  "unv": "Posting date not shown on the official page.",
+  "us": false
+ },
+ {
   "a": "Full cost of Cambridge postgraduate study",
   "added": "2026-09-29",
   "aud": [
@@ -17229,6 +17387,42 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33287",
+  "us": false
+ },
+ {
+  "a": "2+1 years from October 2027; one post at a more senior level (3+ years after PhD); salary not stated",
+  "added": "2026-11-25",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": "2026-11-29",
+  "dt": "Application deadline Nov 29, 2026",
+  "e": "Several postdocs in string theory, particle phenomenology, astroparticle physics and cosmology, some funded by the ERC project BestLobe (Paolo Creminelli). No citizenship limit stated.",
+  "f": "Abdus Salam International Centre for Theoretical Physics (ICTP), HECAP section",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "ictp-hecap-postdocs-2027",
+  "n": "ICTP Trieste: Postdoctoral positions in High Energy, Cosmology and Astroparticle Physics (HECAP)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33129",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33129",
+  "unv": "Salary not stated in the ad.",
   "us": false
  },
  {
@@ -20325,6 +20519,37 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33231",
   "unv": "Visa or right-to-work conditions not stated in the ad.",
+  "us": false
+ },
+ {
+  "a": "About 400,000 JPY per month; from March 2027 to the end of March 2031, renewed yearly",
+  "added": "2026-11-25",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": "2027-01-06",
+  "dt": "Deadline Jan 6, 2027 (Japan time); may be extended until filled",
+  "e": "Postdoc developing lattice QCD simulation codes for GPU systems and applying deep learning or AI to lattice field theory; prior experience not required. No citizenship limit stated.",
+  "f": "KEK, Institute of Particle and Nuclear Studies, Theory Center",
+  "fields": [
+   "ppt",
+   "ds"
+  ],
+  "id": "kek-ipns-lattice-qcd-gpu-ai-postdoc",
+  "n": "KEK Theory Center (Tsukuba): Postdoc in lattice QCD codes, GPUs and AI (Researcher 26-6)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33437",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33437",
   "us": false
  },
  {
@@ -24103,6 +24328,38 @@
   "us": false
  },
  {
+  "a": "Fully funded; 1 year at first, extendable up to 3 years",
+  "added": "2026-11-25",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": "2026-12-09",
+  "dt": "First consideration Dec 9, 2026; open until filled",
+  "e": "Several theory postdocs on graph states, absolutely maximally entangled states and multipartite entanglement, with applications to quantum communication, error correction and cryptography; funded by the German research ministry (BMFTR). Applicants outline their own first-year research question; no citizenship limit stated.",
+  "f": "University of Münster, Department for Quantum Technology, Theoretical Quantum Communication Group (Zahra Raissi)",
+  "fields": [
+   "qp"
+  ],
+  "id": "muenster-raissi-qscalar-quantum-comm-postdocs",
+  "n": "University of Münster: Postdocs in multipartite entanglement and quantum communication (Q-SCALAR, Raissi group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:muenster-raissi-qscalar-postdocs",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://www.uni-muenster.de/Physik.DQT/en/raissi/jobs/index.html",
+  "unv": "Full ad seen only on Quantiki (posted Nov 25, 2026); no university job-portal ad yet; salary grade not stated.",
+  "us": false
+ },
+ {
   "a": "3 years: 2 at U. Kentucky or LANL, then 1 at any N3AS partner. Starting salary $78K plus a travel allowance.",
   "added": "2026-09-29",
   "asub": [
@@ -25075,40 +25332,6 @@
    "ug"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32852",
-  "us": false
- },
- {
-  "a": "Not stated (Danish state academic agreement; supplement negotiable)",
-  "added": "2026-11-21",
-  "aud": [
-   "yale",
-   "ng",
-   "ap"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-23",
-  "d": "2026-11-24",
-  "dt": "Deadline Nov 24, 2026, 23:59 CET",
-  "e": "Two-year senior postdoc developing superconducting nanowire single-photon detectors integrated into photonic circuits to process photons from silicon quantum emitters, starting Feb 1, 2027. Requires a PhD plus postdoc experience with SNSPD fabrication, quantum photonics and cryogenics; no citizenship limits stated.",
-  "f": "University of Copenhagen, Niels Bohr Institute, NNF Quantum Computing Programme (Photonic Control and Readout team)",
-  "fields": [
-   "qp",
-   "phot",
-   "dev"
-  ],
-  "id": "nbi-nqcp-senior-postdoc-snspds",
-  "n": "University of Copenhagen (Niels Bohr Institute): Senior Postdoc, SNSPDs",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "other:ku-172581-snspd",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://employment.ku.dk/all-vacancies/?show=172581",
-  "unv": "Posting date not seen.",
   "us": false
  },
  {
@@ -31179,6 +31402,135 @@
   "us": false
  },
  {
+  "a": "Salary not stated",
+  "added": "2026-11-25",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": null,
+  "dt": "Open at least 5 days, then closes once filled (req 17342; posted Nov 25, 2026)",
+  "e": "Experimental postdoc building GHz/THz near-field electrical and optical AFM to study charge dynamics in 2D-material and ferroelectric heterostructures; PhD within the last 5 years. Foreign nationals eligible subject to DOE access checks.",
+  "f": "Oak Ridge National Laboratory, Center for Nanophase Materials Sciences, Functional AFM group",
+  "fields": [
+   "cmx",
+   "mat",
+   "dev"
+  ],
+  "id": "ornl-17342-spm-ultrafast-charge-dynamics",
+  "n": "ORNL: Postdoc in scanning probe microscopy for ultrafast charge dynamics (req 17342)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-17342-spm-ultrafast-charge-dynamics",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Scanning-Probe-Microscopy-for-Ultrafast-Charge-Dynamics-TN-37830/1444075900/",
+  "us": false
+ },
+ {
+  "a": "Salary not stated",
+  "added": "2026-11-25",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": null,
+  "dt": "Open until filled (req 17391; posted Nov 3, 2026)",
+  "e": "Experimental postdoc on thin-film growth and characterization of quantum materials; PhD within the last 5 years. Foreign nationals eligible subject to DOE access checks.",
+  "f": "Oak Ridge National Laboratory, Quantum Heterostructures group",
+  "fields": [
+   "cmx",
+   "mat"
+  ],
+  "id": "ornl-17391-thin-film-quantum-materials",
+  "n": "ORNL: Postdoc in thin-film synthesis and characterization of quantum materials (req 17391)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-17391-thin-film-quantum-materials",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Thin-Film-Synthesis-and-Characterization-of-Quantum-Materials-TN-37830/1447188800/",
+  "us": false
+ },
+ {
+  "a": "Up to 24 months; salary not stated",
+  "added": "2026-11-25",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": null,
+  "dt": "Open until filled (req 17415; posted Nov 6, 2026)",
+  "e": "Postdoc using neutron and x-ray scattering to study altermagnets, p-wave magnets and topological spin textures, with machine-learning data analysis; PhD within the last 5 years. Foreign nationals eligible subject to DOE access checks.",
+  "f": "Oak Ridge National Laboratory, Materials Science and Technology Division, Correlated Electron Materials group",
+  "fields": [
+   "cmx",
+   "mat"
+  ],
+  "id": "ornl-17415-correlated-topological-materials",
+  "n": "ORNL: Postdoc in quantum phenomena in correlated and topological materials (req 17415)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-17415-correlated-topological-materials",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Quantum-Phenomena-in-Correlated-and-Topological-Materials-TN-37830/1448618200/",
+  "us": false
+ },
+ {
+  "a": "Two positions; salary not stated",
+  "added": "2026-11-25",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": null,
+  "dt": "Open until filled (req 17425; posted Nov 9, 2026)",
+  "e": "Two experimental postdocs developing and applying momentum-resolved electron energy-loss spectroscopy to collective excitations in quantum materials; PhD within the last 5 years. Foreign nationals eligible subject to DOE access checks.",
+  "f": "Oak Ridge National Laboratory, Center for Nanophase Materials Sciences, Electron Microscopy and Microanalysis group",
+  "fields": [
+   "cmx",
+   "mat"
+  ],
+  "id": "ornl-17425-qeels-quantum-materials",
+  "n": "ORNL: Postdocs in momentum-resolved electron spectroscopy of quantum materials (req 17425)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:ornl-17425-qeels-quantum-materials",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-Momentum-Resolved-Electron-Spectroscopy-of-Quantum-Materials-TN-37830/1449130500/",
+  "us": false
+ },
+ {
   "a": "Fellowship funding covers the first 3 years of ORNL employment; salary not listed.",
   "added": "2026-09-28",
   "aud": [
@@ -31774,6 +32126,37 @@
   }
  },
  {
+  "a": "2+1 years from fall 2027",
+  "added": "2026-11-25",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": "2026-12-16",
+  "dt": "Apply by Dec 16, 2026 through the Joint European Postdoc Application on AJO",
+  "e": "One postdoc on string compactifications, supergravity, generalized symmetries, black holes and holography, within the FIS3 project on topological calculus for fields, strings and gravity. Applications only through AJO.",
+  "f": "University of Padua and INFN Padova, Gauge Theories, Strings and Supergravity group (Fabio Apruzzi)",
+  "fields": [
+   "ppt"
+  ],
+  "id": "padova-gss-string-theory-postdoc-2027",
+  "n": "University of Padua: Postdoc in theoretical physics (Gauge Theories, Strings and Supergravity group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3232697",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3232697",
+  "unv": "Salary not stated.",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-09-30",
   "c": "Fellowship",
@@ -31827,6 +32210,42 @@
   ],
   "u": "https://inspirehep.net/jobs/3160199",
   "unv": "INSPIRE now marks the listing closed (automatic at its Sep 30, 2026 deadline field); the ad text still says applications are accepted until the position is filled.",
+  "us": false
+ },
+ {
+  "a": "One year, renewable up to three; salary, benefits and research allowance; start September 2027",
+  "added": "2026-11-25",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Fellowship",
+  "checked": "2026-11-25",
+  "d": "2026-12-10",
+  "dt": "Consideration begins Dec 10, 2026",
+  "e": "Postdoctoral fellowship in cosmological theory and data analysis, with the chance to join Simons Observatory work; fellows are free to work on topics of their choice. No citizenship limit stated.",
+  "f": "University of Pennsylvania, Center for Particle Cosmology",
+  "fields": [
+   "astro",
+   "ppt"
+  ],
+  "id": "penn-cpc-particle-cosmology-postdoc-2027",
+  "n": "University of Pennsylvania: Postdoctoral Fellowship in Particle Cosmology",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "US",
+  "s": "open",
+  "src": "ajo:33527",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/fellowship/33527",
+  "unv": "Salary amount not stated.",
   "us": false
  },
  {
@@ -33166,6 +33585,38 @@
   ],
   "u": "https://applytrack.onefixmedia.co.uk/4e3130303030306166666159",
   "unv": "The UKRI careers page (Oracle) needs JavaScript; the Dec 1, 2026 closing date and salary were reconfirmed on the INSPIRE copy (3227341, status open) on Nov 23, 2026.",
+  "us": false
+ },
+ {
+  "a": "30 months from about April 2027; may include limited teaching",
+  "added": "2026-11-25",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": "2027-01-07",
+  "dt": "Deadline Jan 7, 2027 (per INSPIRE listing)",
+  "e": "Postdoc on LHCb Run 3 physics analyses and machine learning for reconstruction, particle identification and flavour tagging. PhD in high energy physics, computer science or a related field required by the start.",
+  "f": "La Salle, Ramon Llull University, Smart Society Research Group",
+  "fields": [
+   "ppx",
+   "ds"
+  ],
+  "id": "ramon-llull-lhcb-ai-postdoc",
+  "n": "La Salle, Ramon Llull University (Barcelona): Postdoc in particle physics and AI (LHCb)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3232703",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3232703",
+  "unv": "Salary not stated; no host-site ad found, details from the INSPIRE listing.",
   "us": false
  },
  {
@@ -37676,67 +38127,6 @@
   "us": false
  },
  {
-  "a": "3+2 years from fall 2027",
-  "added": "2026-10-20",
-  "aud": [
-   "yale",
-   "ng"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-23",
-  "d": "2026-11-24",
-  "dt": "Nov 24, 2026 (applications by email to qft.applications@mi.infn.it)",
-  "e": "Senior postdoc coordinating work on second-order electroweak corrections in the Standard Model for the HL-LHC and FCC-ee, funded by an ERC Advanced Grant. No citizenship restriction stated.",
-  "f": "University of Milan, High-Energy Theoretical Physics Group (Alessandro Vicini)",
-  "fields": [
-   "ppt"
-  ],
-  "id": "u-milan-quantum-frontiers-senior-postdoc",
-  "n": "University of Milan: Senior postdoc in theoretical physics (ERC Quantum FronTiers)",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3215732",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://qft.mi.infn.it/",
-  "unv": "The INSPIRE ad gives 3+2 years; the project jobs page (qft.mi.infn.it) says appointments are for three years.",
-  "us": false
- },
- {
-  "a": "3 years from October 2027",
-  "added": "2026-10-20",
-  "aud": [
-   "yale",
-   "ng"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-23",
-  "d": "2026-11-24",
-  "dt": "Nov 24, 2026 (applications by email to qft.applications@mi.infn.it)",
-  "e": "Two postdocs on electroweak quantum corrections: one on computational QFT methods and hardware acceleration, one on electroweak renormalisation and QED radiation. No citizenship restriction stated.",
-  "f": "University of Milan, High-Energy Theoretical Physics Group (Alessandro Vicini)",
-  "fields": [
-   "ppt"
-  ],
-  "id": "u-milan-quantum-frontiers-two-postdocs",
-  "n": "University of Milan: Two postdocs in theoretical physics (ERC Quantum FronTiers)",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3215731",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://qft.mi.infn.it/",
-  "us": false
- },
- {
   "a": "not listed; multiple positions",
   "added": "2026-09-30",
   "asub": [
@@ -38384,6 +38774,37 @@
    "pd"
   ],
   "u": "https://calls.ift.uam-csic.es/convocatoria/Njc=",
+  "us": false
+ },
+ {
+  "a": "Two years, possible third; start March to June 2027",
+  "added": "2026-11-25",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-25",
+  "d": "2027-01-07",
+  "dt": "Review begins Jan 7, 2027; open until filled",
+  "e": "Postdoc on Belle II searching for dark photons and axion-like particles and working on the high-level trigger and calorimeter reconstruction; based in Vancouver with travel to KEK. PhD within 5 years of the start; apply by email to Christopher Hearty.",
+  "f": "University of British Columbia, Department of Physics and Astronomy (Christopher Hearty, Janis McKenna)",
+  "fields": [
+   "ppx"
+  ],
+  "id": "ubc-belle2-dark-sector-postdoc",
+  "n": "University of British Columbia: Postdoc in dark sector searches with Belle II",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "open",
+  "src": "inspire:3232782",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://inspirehep.net/jobs/3232782",
+  "unv": "Salary not stated; no host-site ad found, details from the INSPIRE listing.",
   "us": false
  },
  {
