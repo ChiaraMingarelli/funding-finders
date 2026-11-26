@@ -1716,6 +1716,32 @@
   "us": false
  },
  {
+  "a": "NZ$85,000 per year (NZ$74,770 if appointed as Research Associate before PhD), plus NZ$15,000 per year research fund and airfare; 3 years",
+  "added": "2026-11-26",
+  "c": "Fellowship",
+  "checked": "2026-11-26",
+  "d": "2027-01-05",
+  "dt": "Closes Jan 5, 2027, midnight NZ time",
+  "e": "Three-year research fellowship in any area of astronomy or astrophysics from Mar 31, 2027 (flexible). Open to people near PhD submission or within 4 years of the PhD; the research plan needs endorsement from a UC astronomy mentor. No citizenship limit stated.",
+  "f": "University of Canterbury, School of Physical and Chemical Sciences (New Zealand)",
+  "fields": [
+   "astro"
+  ],
+  "id": "canterbury-elaine-snowden-fellowship-astronomy-2027",
+  "n": "University of Canterbury: Elaine P. Snowden Fellowship in Astronomy/Astrophysics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "prize",
+  "region": "International",
+  "s": "open",
+  "src": "other:canterbury-34807-snowden",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.canterbury.ac.nz/jobdetails/ajid/FVkua/EPS-Research-Associate-Postdoctoral-Fellow-in-Astronomy-Astrophysics,34807",
+  "us": false
+ },
+ {
   "a": "2+1 years from fall 2027; one position may be a McDonald Institute theory fellowship",
   "added": "2026-10-09",
   "asub": [
@@ -5804,6 +5830,38 @@
   ],
   "u": "https://www.iitg.ac.in/pdf/ab9a7f5f93178f207f093453d0857b97.pdf",
   "unv": "The advertisement does not say whether non-Indian nationals may apply; the Dec 4 deadline is from INSPIRE, not the advertisement.",
+  "us": false
+ },
+ {
+  "a": "Up to 24 months from Oct 1, 2027; salary not stated",
+  "added": "2026-11-26",
+  "asub": [
+   "cos",
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-26",
+  "d": "2027-01-05",
+  "dt": "Apply by Jan 5, 2027 via AJO",
+  "e": "Postdocs in quantum field theory, gravity, string theory, black holes, gauge-gravity duality, amplitudes, cosmology or EFTs, starting autumn 2027. PhD awarded or anticipated; no citizenship limit stated.",
+  "f": "Imperial College London, Abdus Salam Centre for Theoretical Physics",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "imperial-abdus-salam-centre-theory-postdocs-2027",
+  "n": "Imperial College London: Research Associate positions in Theoretical Physics (Abdus Salam Centre)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3233723",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33535",
+  "unv": "Salary not stated on AJO or INSPIRE (INSPIRE lists Jan 6, 2027; the AJO ad gives Jan 5, 2027).",
   "us": false
  },
  {
@@ -12838,6 +12896,37 @@
   "us": false
  },
  {
+  "a": "€71,112.86–€78,575.37 gross per year plus travel allowance; two years, third by mutual agreement",
+  "added": "2026-11-26",
+  "asub": [
+   "he"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-26",
+  "d": "2026-12-16",
+  "dt": "Apply by Dec 16, 2026 via AJO",
+  "e": "One or more postdocs from fall 2027 for candidates with research experience in general relativity, string theory and/or holography; non-Lorentzian geometry is useful. No citizenship limit stated.",
+  "f": "TU Wien, Institute for Theoretical Physics, Fundamental Interactions group (Gerben Oling, ERC Starting Grant)",
+  "fields": [
+   "ppt",
+   "grav"
+  ],
+  "id": "tu-wien-postdoc-hep-gravitational-physics-oling",
+  "n": "TU Wien: Postdoc in theoretical high-energy and gravitational physics (Oling ERC group)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "inspire:3233724",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/32558",
+  "unv": "Deadline taken from the INSPIRE listing; the AJO ad was not opened.",
+  "us": false
+ },
+ {
   "a": "Four years; maître-assistant level; salary not stated",
   "added": "2026-11-24",
   "asub": [
@@ -13436,9 +13525,9 @@
    "ism"
   ],
   "c": "Group postdoc",
-  "checked": "2026-11-09",
-  "d": "2026-11-25",
-  "dt": "Nov 25, 2026",
+  "checked": "2026-11-26",
+  "d": null,
+  "dt": "Last deadline Nov 25, 2026; the ad could not be checked after that date",
   "e": "JWST spectroscopy of ISM, stellar and black hole properties in early galaxies. Expertise in high-z extragalactic observations wanted.",
   "f": "University College London, Astrophysics Group; PI Guido Roberts-Borsani",
   "fields": [
@@ -13450,13 +13539,13 @@
   "nom": false,
   "pt": "group",
   "region": "International",
-  "s": "open",
+  "s": "watch",
   "src": "aas:57813d20",
   "stages": [
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/57813d20",
-  "unv": "Deadline and salary confirmed on the jobs.ac.uk copy of the UCL advert (ref. B04-07866) on Nov 9, 2026; the AAS Job Register blocks automated access (HTTP 403). On Nov 23, 2026 jobs.ac.uk (DTB418) also returned HTTP 403; search results still show the Nov 25, 2026 closing date.",
+  "unv": "Deadline and salary confirmed on the jobs.ac.uk copy of the UCL advert (ref. B04-07866) on Nov 9, 2026; the AAS Job Register blocks automated access (HTTP 403). On Nov 23, 2026 jobs.ac.uk (DTB418) also returned HTTP 403; search results still show the Nov 25, 2026 closing date. The AAS Job Register, the UCL jobs site and jobs.ac.uk could not be checked on Nov 26, 2026 (HTTP 403 or site outage), so whether the post is still open is unconfirmed.",
   "us": false
  },
  {

@@ -12279,6 +12279,34 @@
   "us": false
  },
  {
+  "a": "Up to three posts, two years each from Oct 1, 2027; salary not stated on AJO",
+  "added": "2026-11-26",
+  "c": "Group postdoc",
+  "checked": "2026-11-26",
+  "d": "2026-12-11",
+  "dt": "Closes noon GMT, Dec 11, 2026",
+  "e": "Postdocs in quantum condensed matter theory, including topological phases, many-body quantum information, non-equilibrium dynamics and quantum computing devices, funded by EPSRC, Simons and ERC awards. PhD held or nearly complete; no citizenship limit stated.",
+  "f": "University of Oxford, Rudolf Peierls Centre for Theoretical Physics",
+  "fields": [
+   "cmt",
+   "qp"
+  ],
+  "id": "oxford-quantum-condensed-matter-theory-pdras-2027",
+  "n": "University of Oxford: Postdoctoral Research Associates in Quantum Condensed Matter Theory",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33537",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33537",
+  "unv": "Salary not shown on AJO; the Oxford CoreHR ad (ID 189923) was not opened.",
+  "us": false
+ },
+ {
   "a": "GBP 40,178-48,700 (Grade 7)",
   "added": "2026-11-21",
   "c": "Group postdoc",
@@ -12711,33 +12739,6 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32075",
   "unv": "AJO ad (posted May 15, 2026) still up with no deadline; the Interfolio page (186001) loads by script and could not be checked, and the Leifer Lab positions page currently lists no open postdoc search.",
-  "us": false
- },
- {
-  "a": "Postdoctoral position; salary not stated in the listing",
-  "added": "2026-11-06",
-  "c": "Group postdoc",
-  "checked": "2026-11-23",
-  "d": "2026-11-25",
-  "dt": "Deadline Nov 25, 2026",
-  "e": "Theory postdoc on quantum simulation with bosonic and hybrid qubit-boson systems, quantum learning and benchmarking, in a PSI-ETH project on molecular quantum dynamics with trapped ions and superconducting circuits. Requires a PhD in physics or a related field.",
-  "f": "Paul Scherrer Institute (PSI), Laboratory for Theoretical and Computational Physics, with ETH Zurich",
-  "fields": [
-   "qp",
-   "amo"
-  ],
-  "id": "psi-ltc-bosonic-quantum-simulation-postdoc",
-  "n": "Paul Scherrer Institute: Postdoc, quantum simulation and bosonic quantum information",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "ajo:33338",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/33338",
   "us": false
  },
  {
@@ -16076,6 +16077,34 @@
   "us": false
  },
  {
+  "a": "About one year, subject to Mitacs approval; salary not stated",
+  "added": "2026-11-26",
+  "c": "Group postdoc",
+  "checked": "2026-11-26",
+  "d": null,
+  "dt": "Review begins Dec 15, 2026; open until filled",
+  "e": "Mitacs-sponsored postdoc in Toronto on entanglement scheduling and benchmarks for photonically linked trapped-ion modules, co-supervised at UofT and IonQ Canada. Open to recent PhDs; no citizenship limit stated.",
+  "f": "University of Toronto, Electrical and Computer Engineering, with IonQ Canada",
+  "fields": [
+   "qp",
+   "amo"
+  ],
+  "id": "uoft-ionq-postdoc-distributed-trapped-ion-computing",
+  "n": "University of Toronto and IonQ Canada: Postdoc in distributed quantum computing on networked trapped-ion systems (Mitacs)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "rolling",
+  "src": "other:quantiki-ionq-uoft-dqc-mitacs",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://quantiki.org/position/distributed-quantum-computing-networked-trapped-ion-systems-ionq-and-uoft",
+  "unv": "Listed on Quantiki; the only application link is a LinkedIn short link and no university-hosted ad was found. Salary not stated.",
+  "us": false
+ },
+ {
   "a": "2 years, possible renewal for a third; start August 2027; salary not stated",
   "added": "2026-10-23",
   "c": "Group postdoc",
@@ -16601,6 +16630,35 @@
   ],
   "u": "https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Danforth-Campus/Edwin-Thompson-Jaynes-Postdoctoral-Fellow-in-Physics_JR96997",
   "unv": "The Workday posting (checked Nov 23, 2026) still gives the Nov 15, 2026 deadline and no later date.",
+  "us": false
+ },
+ {
+  "a": "C$60,000–80,000 per year depending on experience",
+  "added": "2026-11-26",
+  "c": "Group postdoc",
+  "checked": "2026-11-26",
+  "d": "2026-11-30",
+  "dt": "Full consideration by Nov 30, 2026; later applications may be considered on a rolling basis until filled",
+  "e": "Theory postdoc in cavity optomechanics; a background in NV centers, nanomagnetics or quantum information is ideal. Open to PhD holders or near-completers in physics, electrical engineering or related fields; no citizenship limit stated.",
+  "f": "University of Waterloo, Institute for Quantum Computing (Bradley Hauer)",
+  "fields": [
+   "qp",
+   "cmt",
+   "dev"
+  ],
+  "id": "waterloo-iqc-postdoc-theoretical-quantum-optomechanics",
+  "n": "University of Waterloo IQC: Postdoctoral Researcher in Theoretical Quantum Optomechanics (Hauer group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "Canada",
+  "s": "open",
+  "src": "other:uwaterloo-iqc-hauer-optomech-pd",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://uwaterloo.ca/institute-for-quantum-computing/postdoctoral-researcher-theoretical-quantum-optomechanics",
+  "unv": "Posted Oct 27, 2026 according to the page; currency of the salary assumed Canadian dollars from the Waterloo ad.",
   "us": false
  },
  {
