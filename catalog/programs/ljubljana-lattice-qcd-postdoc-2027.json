@@ -1,0 +1,32 @@
+{
+ "a": "Two years, possible third year; salary not stated",
+ "added": "2026-11-26",
+ "aud": [
+  "yale",
+  "ng"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-26",
+ "d": "2026-12-10",
+ "dt": "Applications by Dec 10, 2026 receive full consideration (by email)",
+ "e": "Postdoc from autumn 2027 in the Ljubljana lattice group, working on hadron spectroscopy, interactions and structure, and flavor physics. Apply by email with cover letter, CV, research statement and three letters; no citizenship limit stated.",
+ "f": "University of Ljubljana and Jozef Stefan Institute, lattice QCD group (Sasa Prelovsek)",
+ "fields": [
+  "ppt",
+  "nut"
+ ],
+ "id": "ljubljana-lattice-qcd-postdoc-2027",
+ "n": "University of Ljubljana: Postdoc in lattice QCD (Prelovsek group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "inspire:3233725",
+ "stages": [
+  "pd"
+ ],
+ "u": "http://www-f1.ijs.si/~sasa/",
+ "unv": "Salary not stated; the group page linked from INSPIRE was not checked for a separate ad.",
+ "us": false
+}

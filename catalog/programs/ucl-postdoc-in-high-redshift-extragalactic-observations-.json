@@ -14,9 +14,9 @@
   "ast"
  ],
  "c": "Group postdoc",
- "checked": "2026-11-09",
- "d": "2026-11-25",
- "dt": "Nov 25, 2026",
+ "checked": "2026-11-26",
+ "d": null,
+ "dt": "Last deadline Nov 25, 2026; the ad could not be checked after that date",
  "e": "JWST spectroscopy of ISM, stellar and black hole properties in early galaxies. Expertise in high-z extragalactic observations wanted.",
  "f": "University College London, Astrophysics Group; PI Guido Roberts-Borsani",
  "fields": [
@@ -28,12 +28,12 @@
  "nom": false,
  "pt": "group",
  "region": "International",
- "s": "open",
+ "s": "watch",
  "src": "aas:57813d20",
  "stages": [
   "pd"
  ],
  "u": "https://aas.org/jobregister/ad/57813d20",
- "unv": "Deadline and salary confirmed on the jobs.ac.uk copy of the UCL advert (ref. B04-07866) on Nov 9, 2026; the AAS Job Register blocks automated access (HTTP 403). On Nov 23, 2026 jobs.ac.uk (DTB418) also returned HTTP 403; search results still show the Nov 25, 2026 closing date.",
+ "unv": "Deadline and salary confirmed on the jobs.ac.uk copy of the UCL advert (ref. B04-07866) on Nov 9, 2026; the AAS Job Register blocks automated access (HTTP 403). On Nov 23, 2026 jobs.ac.uk (DTB418) also returned HTTP 403; search results still show the Nov 25, 2026 closing date. The AAS Job Register, the UCL jobs site and jobs.ac.uk could not be checked on Nov 26, 2026 (HTTP 403 or site outage), so whether the post is still open is unconfirmed.",
  "us": false
 }

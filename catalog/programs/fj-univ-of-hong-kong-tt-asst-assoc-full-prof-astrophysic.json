@@ -5,9 +5,9 @@
   "ng"
  ],
  "c": "Faculty job",
- "checked": "2026-11-23",
- "d": "2026-11-25",
- "dt": "Deadline Nov 25, 2026",
+ "checked": "2026-11-26",
+ "d": null,
+ "dt": "Last deadline Nov 25, 2026; the ad could not be checked after that date",
  "e": "Areas include compact objects, transients, AGN, lensing and multi-messenger astrophysics.",
  "f": "Dept. of Physics & HK Institute for Astronomy and Astrophysics, University of Hong Kong",
  "fields": [
@@ -19,11 +19,12 @@
  "nfit": "High",
  "nom": false,
  "region": "International",
- "s": "open",
+ "s": "watch",
  "src": "aas:56740617",
  "stages": [
   "fj"
  ],
  "u": "https://jobs.hku.hk/en/job/537203/tenuretrack-professorassociate-professorassistant-professor-in-astrophysics-and-astronomy-in-the-department-of-physics",
+ "unv": "The HKU jobs page returned no content (HTTP 202) on Nov 26, 2026, so whether the post is still open is unconfirmed.",
  "us": false
 }

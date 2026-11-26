@@ -1,0 +1,32 @@
+{
+ "a": "Tenure-track Assistant Professor (two posts)",
+ "added": "2026-11-26",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-26",
+ "d": "2027-04-17",
+ "dt": "Review begins Dec 15, 2026 and continues until filled; Workday closing date Apr 17, 2027",
+ "e": "Two tenure-track posts in experimental quantum materials and experimental quantum devices (superconducting, semiconducting and magnetic), part of LSU's quantum hiring initiative. U.S. work authorization required at the time of hire.",
+ "f": "Louisiana State University, Department of Physics & Astronomy",
+ "fields": [
+  "cmx",
+  "mat",
+  "dev",
+  "qp"
+ ],
+ "id": "fj-lsu-tt-asst-prof-quantum-materials-devices",
+ "n": "Louisiana State University: Tenure-track Assistant Professors, Experimental Quantum Materials and Devices",
+ "nfit": "Low",
+ "nom": false,
+ "region": "US",
+ "s": "open",
+ "src": "ajo:33532",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33532",
+ "unv": "Salary not stated.",
+ "us": false
+}

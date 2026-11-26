@@ -1,0 +1,34 @@
+{
+ "a": "Tenure-track or tenured faculty; salary described only as competitive",
+ "added": "2026-11-26",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-26",
+ "d": null,
+ "dt": "No deadline stated; listed on AJO until Feb 21, 2027",
+ "e": "Multiple experimental and theoretical faculty posts in quantum computing and information, AMO and cold atoms, quantum materials, condensed matter and quantum devices at the new UCAS School of Quantum. PhD required; no citizenship limit stated.",
+ "f": "University of Chinese Academy of Sciences, School of Quantum",
+ "fields": [
+  "qp",
+  "amo",
+  "cmx",
+  "cmt",
+  "mat",
+  "dev"
+ ],
+ "id": "fj-ucas-school-of-quantum-faculty-beijing",
+ "n": "UCAS School of Quantum (Beijing): Tenure-track and tenured faculty positions",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33534",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33534",
+ "unv": "No deadline or salary stated.",
+ "us": false
+}
