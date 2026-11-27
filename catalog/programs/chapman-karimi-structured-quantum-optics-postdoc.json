@@ -1,0 +1,33 @@
+{
+ "a": "$74,000 per year",
+ "added": "2026-11-27",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-27",
+ "d": null,
+ "dt": "Review began Nov 2, 2026; open until filled; start January 2027",
+ "e": "Experimental quantum optics with structured photons for sensing, communication and simulation in Ebrahim Karimi's group. No citizenship limit stated.",
+ "f": "Chapman University, Institute for Quantum Studies",
+ "fields": [
+  "qp",
+  "phot",
+  "amo"
+ ],
+ "id": "chapman-karimi-structured-quantum-optics-postdoc",
+ "n": "Chapman University: Postdoctoral Research Fellow in Quantum Optics and Structured Light (Karimi group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:interfolio-196184",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://apply.interfolio.com/196184",
+ "us": false
+}

@@ -1,0 +1,35 @@
+{
+ "a": "Tenure-track assistant to full professor; competitive salary, amount not stated",
+ "added": "2026-11-27",
+ "aud": [
+  "ng"
+ ],
+ "c": "Faculty job",
+ "checked": "2026-11-27",
+ "d": null,
+ "dt": "No deadline listed",
+ "e": "Openings at all ranks in condensed matter, materials, optics and photonics, AMO, plasma, soft matter, biophysics, quantum information and theory. Open to applicants worldwide.",
+ "f": "Institute of Physics, Chinese Academy of Sciences",
+ "fields": [
+  "cmx",
+  "cmt",
+  "mat",
+  "phot",
+  "amo",
+  "qp",
+  "bio"
+ ],
+ "id": "fj-iop-cas-faculty-positions",
+ "n": "Institute of Physics, Chinese Academy of Sciences: Faculty positions (all ranks)",
+ "nfit": "Low",
+ "nom": false,
+ "region": "International",
+ "s": "rolling",
+ "src": "ajo:33547",
+ "stages": [
+  "fj"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33547",
+ "unv": "Posting date not shown.",
+ "us": false
+}

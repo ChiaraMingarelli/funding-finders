@@ -1,0 +1,33 @@
+{
+ "a": "One-year term, renewable; salary not stated",
+ "added": "2026-11-27",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-27",
+ "d": null,
+ "dt": "Open until filled",
+ "e": "Experimental work on 2D quantum materials, quantum device fabrication and low-temperature transport in Jifa Tian's lab. No citizenship limit stated.",
+ "f": "University of Wyoming, Department of Physics and Astronomy",
+ "fields": [
+  "cmx",
+  "dev"
+ ],
+ "id": "wyoming-tian-2d-quantum-materials-postdoc",
+ "n": "University of Wyoming: Post Doctoral Research Associate, 2D quantum materials (Tian lab)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:uwyo-243071",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/243071/",
+ "unv": "The ad also contains an old line about full consideration by Feb 16, 2025; it may be a repost.",
+ "us": false
+}

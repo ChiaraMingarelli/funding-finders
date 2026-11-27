@@ -1,0 +1,32 @@
+{
+ "a": "$74,000–$108,000 per year (postdoc level); start Dec 21, 2026, ends Feb 29, 2028",
+ "added": "2026-11-27",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-27",
+ "d": "2026-12-04",
+ "dt": "Posting closes Dec 4, 2026",
+ "e": "Experimental work on quantum dots coupled to acoustic and superconducting resonators for microwave-optical transduction and remote entanglement of superconducting qubits. Up to 4 years since PhD; requires a NIST NAIS agreement and federal security clearance.",
+ "f": "University of Colorado Boulder (NIST PREP), at NIST Boulder",
+ "fields": [
+  "qp",
+  "phot"
+ ],
+ "id": "cu-boulder-nist-quantum-nanophotonics-postdoc",
+ "n": "CU Boulder / NIST: Postdoctoral Associate, Quantum Nanophotonics Group",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "open",
+ "src": "other:cu-boulder-76240",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://jobs.colorado.edu/jobs/JobDetail/Postdoctoral-Associate-or-Research-Associate/76240",
+ "us": false
+}

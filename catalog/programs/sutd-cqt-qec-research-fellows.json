@@ -1,0 +1,32 @@
+{
+ "a": "Two positions; salary not stated",
+ "added": "2026-11-27",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-27",
+ "d": "2027-01-30",
+ "dt": "Jan 30, 2027 (Quantiki listing)",
+ "e": "Two QEC researchers with Kavan Modi and Feng Pan, either developing decoders for realistic noise or running QEC experiments on hardware with experimental partners. Prior QEC experience required; no citizenship limit stated.",
+ "f": "Singapore University of Technology and Design and Centre for Quantum Technologies",
+ "fields": [
+  "qp"
+ ],
+ "id": "sutd-cqt-qec-research-fellows",
+ "n": "SUTD and CQT Singapore: Research Fellow / Senior Research Fellow in Quantum Error Correction",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "other:quantiki-sutd-cqt-qec-modi",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://quantiki.org/position/research-fellow-senior-research-fellow-qec-singapore",
+ "unv": "No ad found on the host's own site; deadline and details from the Quantiki listing.",
+ "us": false
+}

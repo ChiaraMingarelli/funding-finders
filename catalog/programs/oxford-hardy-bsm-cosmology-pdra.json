@@ -1,0 +1,36 @@
+{
+ "a": "Two years fixed term, possible third year; salary not stated in the AJO ad",
+ "added": "2026-11-27",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-27",
+ "d": "2027-01-04",
+ "dt": "Noon GMT, Jan 4, 2027; apply through Oxford CoreHR (recruitment id 190183)",
+ "e": "Research on physics beyond the Standard Model, cosmology and astroparticle physics (axions, dark matter, defects, phase transitions, neutrinos) with Edward Hardy. No citizenship limit stated.",
+ "f": "University of Oxford, Department of Physics (Theoretical Particle Physics)",
+ "fields": [
+  "ppt",
+  "astro"
+ ],
+ "id": "oxford-hardy-bsm-cosmology-pdra",
+ "n": "University of Oxford: Postdoctoral Research Assistant in Theoretical Particle Physics (Hardy)",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33548",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33548",
+ "unv": "Salary grade not confirmed on the Oxford ad.",
+ "us": false
+}

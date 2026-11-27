@@ -1,0 +1,33 @@
+{
+ "a": "Salary not stated",
+ "added": "2026-11-27",
+ "aud": [
+  "yale",
+  "ng",
+  "ap"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-27",
+ "d": null,
+ "dt": "Review began immediately; open until filled; start Jan 16, 2027",
+ "e": "Multiscale modeling of strain, defects and mechanical-electronic coupling in 2D, correlated and topological materials in Harley Johnson's group; apply by email to htj@illinois.edu. No citizenship limit stated.",
+ "f": "University of Illinois Urbana-Champaign, Materials Research Laboratory",
+ "fields": [
+  "cmt",
+  "mat"
+ ],
+ "id": "uiuc-johnson-quantum-materials-modeling-postdoc",
+ "n": "UIUC: Postdoctoral Research Associate, modeling of quantum and electronic materials (Johnson group)",
+ "nfit": "Low",
+ "nom": false,
+ "pt": "group",
+ "region": "US",
+ "s": "rolling",
+ "src": "other:uiuc-johnson-qmat-2026",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://imechanica.org/uiuc-postdoc-position-announcement-quantum-and-electronic-materials",
+ "unv": "No university HR posting found; details from the PI's announcement.",
+ "us": false
+}
