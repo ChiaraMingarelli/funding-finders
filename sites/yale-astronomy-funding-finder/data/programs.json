@@ -1630,6 +1630,36 @@
   "us": true
  },
  {
+  "a": "Grade 7 (RA) or Grade 8 (SRA); two years, possible one-year extension; salary not stated in the AJO ad",
+  "added": "2026-11-27",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": "2026-12-18",
+  "dt": "Dec 18, 2026, 23:59 (AJO); ref. LE51771; interviews mid-January 2027",
+  "e": "Theoretical cosmology postdoc supervised by Daniel Baumann, starting Oct 1, 2027; the holder may pursue their own research programme. Must be eligible to live and work in the UK; no nationality limit stated.",
+  "f": "University of Cambridge, DAMTP (Stephen Hawking Centre for Theoretical Cosmology)",
+  "fields": [
+   "astro"
+  ],
+  "id": "cambridge-damtp-baumann-cosmology-pdra",
+  "n": "University of Cambridge DAMTP: Postdoctoral Research Associate in Cosmology (Baumann)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33540",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33540",
+  "unv": "Salary amount not confirmed on the Cambridge ad (jobs.cam.ac.uk job 57857).",
+  "us": false
+ },
+ {
   "a": "£38,448–£46,970; Grade 7 (RA) or Grade 8 (SRA); fixed term 3 years",
   "added": "2026-11-18",
   "asub": [
@@ -5523,37 +5553,6 @@
   "us": false
  },
  {
-  "a": "3 years; AEI grant of €35,700 a year toward salary, plus €15,000 for research costs",
-  "added": "2026-10-10",
-  "asub": [
-   "he"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-23",
-  "d": "2026-11-26",
-  "dt": "Contact the group as soon as possible; AEI candidate form open Nov 12 to Nov 26, 2026, 14:00 Spanish time; institutions submit by Dec 3, 2026",
-  "e": "Spanish national 3-year postdoctoral fellowship, hosted by the IGFAE gravitational-wave group (T. Dent, J. Calderón Bustillo), for people whose PhD was awarded or is expected in 2024 to 2026. Interested applicants should first contact the group.",
-  "f": "Instituto Galego de Física de Altas Enerxías (IGFAE), Universidade de Santiago de Compostela",
-  "fields": [
-   "grav",
-   "astro"
-  ],
-  "id": "igfae-gw-juan-de-la-cierva-2026-eoi",
-  "n": "IGFAE (Santiago de Compostela) gravitational-wave group: Juan de la Cierva 2026 postdoctoral fellowship (expressions of interest)",
-  "nfit": "High",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "other:igfae-gw-jdlc-2026",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://wiki.ligo.org/LAAC/JobPostings#Postdoctoral_and_Tenure_45track_fellowships_at_IGFAE_GW_group",
-  "unv": "The group's posting gives Nov 26, 2026 as the deadline; the AEI candidate window (Nov 12 to Nov 26, 2026, 14:00) and institution deadline (Dec 3, 2026) were confirmed on the Spanish ministry's JDC2026 page.",
-  "us": false
- },
- {
   "a": "5-year contract, at least €40,000 gross a year; project budget of at least €200,000; €50,000 incentive for a permanent post",
   "added": "2026-10-10",
   "asub": [
@@ -5582,35 +5581,6 @@
   ],
   "u": "https://wiki.ligo.org/LAAC/JobPostings#Postdoctoral_and_Tenure_45track_fellowships_at_IGFAE_GW_group",
   "unv": "The group's posting gives Dec 10, 2026 only for extra regional funds; the AEI call window (Nov 10 to Dec 10, 2026, 14:00) is from the BOE extract of Sep 26, 2026, found by web search on Nov 23, 2026.",
-  "us": false
- },
- {
-  "a": "3 years (Spanish government Juan de la Cierva fellowship)",
-  "added": "2026-11-12",
-  "c": "Fellowship",
-  "checked": "2026-11-23",
-  "d": "2026-11-26",
-  "dt": "Candidate application form Nov 12 to Nov 26, 2026; contact a potential supervisor early",
-  "e": "IGFAE invites early-career researchers to apply with it as host for the 2026 Juan de la Cierva three-year postdoctoral fellowships in particle, nuclear and astroparticle physics. PhD awarded between Jan 1, 2024 and Dec 31, 2026 (extensions possible in justified cases).",
-  "f": "Galician Institute of High Energy Physics (IGFAE), University of Santiago de Compostela",
-  "fields": [
-   "ppx",
-   "ppt",
-   "astro"
-  ],
-  "id": "igfae-juan-de-la-cierva-2026-eoi",
-  "n": "IGFAE (Santiago de Compostela): Juan de la Cierva 2026 postdoctoral fellowships (expressions of interest)",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3227093",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-juan-cierva-2026/convocatoria",
-  "unv": "Salary amount not stated on the AEI call page. The candidate form closes Nov 26, 2026 at 14:00 Spanish time; research centres submit until Dec 3, 2026.",
   "us": false
  },
  {
@@ -10773,6 +10743,37 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32694",
+  "us": false
+ },
+ {
+  "a": "Two years fixed term, possible third year; salary not stated in the AJO ad",
+  "added": "2026-11-27",
+  "asub": [
+   "cos"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": "2027-01-04",
+  "dt": "Noon GMT, Jan 4, 2027; apply through Oxford CoreHR (recruitment id 190183)",
+  "e": "Research on physics beyond the Standard Model, cosmology and astroparticle physics (axions, dark matter, defects, phase transitions, neutrinos) with Edward Hardy. No citizenship limit stated.",
+  "f": "University of Oxford, Department of Physics (Theoretical Particle Physics)",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "oxford-hardy-bsm-cosmology-pdra",
+  "n": "University of Oxford: Postdoctoral Research Assistant in Theoretical Particle Physics (Hardy)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33548",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33548",
+  "unv": "Salary grade not confirmed on the Oxford ad.",
   "us": false
  },
  {

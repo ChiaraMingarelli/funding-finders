@@ -3065,6 +3065,37 @@
   "unv": "The page does not state citizenship requirements; its summary field also says 'Appl Deadline: none' while the schedule gives Dec 18, 2026."
  },
  {
+  "a": "$74,050–$122,550 per year; initial 1-year term",
+  "added": "2026-11-27",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": null,
+  "dt": "No deadline stated; open until filled",
+  "e": "Theory postdoc designing and analyzing topological quantum error-correcting codes, with tensor-network and AI methods; fully remote with an onsite option. PhD within the last 5 years; no citizenship limit stated beyond DOE foreign-talent-program disclosure.",
+  "f": "Brookhaven National Laboratory, Computing and Data Sciences",
+  "fields": [
+   "qp"
+  ],
+  "id": "bnl-qis-postdoc-topological-qec-codes",
+  "n": "Brookhaven National Laboratory: Quantum Information Science Postdoctoral Research Associate (topological QEC codes)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:bnl-JR102818",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://bnl.wd1.myworkdayjobs.com/Externa/job/Remote/Quantum-Information-Science-Postdoctoral-Research-Associate_JR102818-1",
+  "us": false
+ },
+ {
   "a": "",
   "added": "2026-11-18",
   "asub": [
@@ -3635,6 +3666,41 @@
   "u": "https://sfp.caltech.edu/undergraduate-research/programs/wavefellows",
   "unv": "The application page gives the deadline as January 8 without a year; it is the deadline for the 2027 program (June 14 to August 20, 2027). It previously gave January 9.",
   "us": true
+ },
+ {
+  "a": "Grade 7 (RA) or Grade 8 (SRA); two years, possible one-year extension; salary not stated in the AJO ad",
+  "added": "2026-11-27",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": "2026-12-18",
+  "dt": "Dec 18, 2026, 23:59 (AJO); ref. LE51771; interviews mid-January 2027",
+  "e": "Theoretical cosmology postdoc supervised by Daniel Baumann, starting Oct 1, 2027; the holder may pursue their own research programme. Must be eligible to live and work in the UK; no nationality limit stated.",
+  "f": "University of Cambridge, DAMTP (Stephen Hawking Centre for Theoretical Cosmology)",
+  "fields": [
+   "astro"
+  ],
+  "id": "cambridge-damtp-baumann-cosmology-pdra",
+  "n": "University of Cambridge DAMTP: Postdoctoral Research Associate in Cosmology (Baumann)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33540",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33540",
+  "unv": "Salary amount not confirmed on the Cambridge ad (jobs.cam.ac.uk job 57857).",
+  "us": false
  },
  {
   "a": "£38,448–£46,970; Grade 7 (RA) or Grade 8 (SRA); fixed term 3 years",
@@ -4423,6 +4489,39 @@
   ],
   "u": "https://chanzuckerberg.com/science/science-funding/",
   "unv": "No open call as of 2026-11-23",
+  "us": false
+ },
+ {
+  "a": "$74,000 per year",
+  "added": "2026-11-27",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": null,
+  "dt": "Review began Nov 2, 2026; open until filled; start January 2027",
+  "e": "Experimental quantum optics with structured photons for sensing, communication and simulation in Ebrahim Karimi's group. No citizenship limit stated.",
+  "f": "Chapman University, Institute for Quantum Studies",
+  "fields": [
+   "qp",
+   "phot",
+   "amo"
+  ],
+  "id": "chapman-karimi-structured-quantum-optics-postdoc",
+  "n": "Chapman University: Postdoctoral Research Fellow in Quantum Optics and Structured Light (Karimi group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:interfolio-196184",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://apply.interfolio.com/196184",
   "us": false
  },
  {
@@ -5435,6 +5534,38 @@
   ],
   "u": "https://inspirehep.net/jobs/3220339",
   "unv": "No host ad; deadline and salary from INSPIRE.",
+  "us": false
+ },
+ {
+  "a": "$74,000–$108,000 per year (postdoc level); start Dec 21, 2026, ends Feb 29, 2028",
+  "added": "2026-11-27",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": "2026-12-04",
+  "dt": "Posting closes Dec 4, 2026",
+  "e": "Experimental work on quantum dots coupled to acoustic and superconducting resonators for microwave-optical transduction and remote entanglement of superconducting qubits. Up to 4 years since PhD; requires a NIST NAIS agreement and federal security clearance.",
+  "f": "University of Colorado Boulder (NIST PREP), at NIST Boulder",
+  "fields": [
+   "qp",
+   "phot"
+  ],
+  "id": "cu-boulder-nist-quantum-nanophotonics-postdoc",
+  "n": "CU Boulder / NIST: Postdoctoral Associate, Quantum Nanophotonics Group",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:cu-boulder-76240",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.colorado.edu/jobs/JobDetail/Postdoctoral-Associate-or-Research-Associate/76240",
   "us": false
  },
  {
@@ -9928,6 +10059,36 @@
   "us": false
  },
  {
+  "a": "About CNY 320,000 per year before tax; two years, possible third",
+  "added": "2026-11-27",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": "2027-01-10",
+  "dt": "Review begins Jan 10, 2027 and continues until filled",
+  "e": "Postdoc in axion physics, strong dynamics, BSM and EFT with Teng Ma (ICTP-AP) and Csaba Csáki (Cornell), based in Beijing with about 3 months a year at Cornell. No citizenship limit stated.",
+  "f": "ICTP-AP, University of Chinese Academy of Sciences, with Cornell University",
+  "fields": [
+   "ppt"
+  ],
+  "id": "ictp-ap-cornell-joint-particle-theory-postdoc",
+  "n": "ICTP-AP (UCAS, Beijing) and Cornell: Joint Postdoc in Theoretical Particle Physics",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33545",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33545",
+  "us": false
+ },
+ {
   "a": "About 320,000 CNY/yr before tax; 2 years, possible third; travel funds and up to 3 months/yr of covered visits abroad",
   "added": "2026-10-30",
   "asub": [
@@ -10302,43 +10463,6 @@
   "us": false
  },
  {
-  "a": "3 years; AEI grant of €35,700 a year toward salary, plus €15,000 for research costs",
-  "added": "2026-10-10",
-  "asub": [
-   "he"
-  ],
-  "aud": [
-   "yale",
-   "ng",
-   "radar",
-   "ast"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-23",
-  "d": "2026-11-26",
-  "dt": "Contact the group as soon as possible; AEI candidate form open Nov 12 to Nov 26, 2026, 14:00 Spanish time; institutions submit by Dec 3, 2026",
-  "e": "Spanish national 3-year postdoctoral fellowship, hosted by the IGFAE gravitational-wave group (T. Dent, J. Calderón Bustillo), for people whose PhD was awarded or is expected in 2024 to 2026. Interested applicants should first contact the group.",
-  "f": "Instituto Galego de Física de Altas Enerxías (IGFAE), Universidade de Santiago de Compostela",
-  "fields": [
-   "grav",
-   "astro"
-  ],
-  "id": "igfae-gw-juan-de-la-cierva-2026-eoi",
-  "n": "IGFAE (Santiago de Compostela) gravitational-wave group: Juan de la Cierva 2026 postdoctoral fellowship (expressions of interest)",
-  "nfit": "High",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "other:igfae-gw-jdlc-2026",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://wiki.ligo.org/LAAC/JobPostings#Postdoctoral_and_Tenure_45track_fellowships_at_IGFAE_GW_group",
-  "unv": "The group's posting gives Nov 26, 2026 as the deadline; the AEI candidate window (Nov 12 to Nov 26, 2026, 14:00) and institution deadline (Dec 3, 2026) were confirmed on the Spanish ministry's JDC2026 page.",
-  "us": false
- },
- {
   "a": "5-year contract, at least €40,000 gross a year; project budget of at least €200,000; €50,000 incentive for a permanent post",
   "added": "2026-10-10",
   "asub": [
@@ -10373,40 +10497,6 @@
   ],
   "u": "https://wiki.ligo.org/LAAC/JobPostings#Postdoctoral_and_Tenure_45track_fellowships_at_IGFAE_GW_group",
   "unv": "The group's posting gives Dec 10, 2026 only for extra regional funds; the AEI call window (Nov 10 to Dec 10, 2026, 14:00) is from the BOE extract of Sep 26, 2026, found by web search on Nov 23, 2026.",
-  "us": false
- },
- {
-  "a": "3 years (Spanish government Juan de la Cierva fellowship)",
-  "added": "2026-11-12",
-  "aud": [
-   "yale",
-   "ng",
-   "ast"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-23",
-  "d": "2026-11-26",
-  "dt": "Candidate application form Nov 12 to Nov 26, 2026; contact a potential supervisor early",
-  "e": "IGFAE invites early-career researchers to apply with it as host for the 2026 Juan de la Cierva three-year postdoctoral fellowships in particle, nuclear and astroparticle physics. PhD awarded between Jan 1, 2024 and Dec 31, 2026 (extensions possible in justified cases).",
-  "f": "Galician Institute of High Energy Physics (IGFAE), University of Santiago de Compostela",
-  "fields": [
-   "ppx",
-   "ppt",
-   "astro"
-  ],
-  "id": "igfae-juan-de-la-cierva-2026-eoi",
-  "n": "IGFAE (Santiago de Compostela): Juan de la Cierva 2026 postdoctoral fellowships (expressions of interest)",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3227093",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-juan-cierva-2026/convocatoria",
-  "unv": "Salary amount not stated on the AEI call page. The candidate form closes Nov 26, 2026 at 14:00 Spanish time; research centres submit until Dec 3, 2026.",
   "us": false
  },
  {
@@ -11043,6 +11133,39 @@
   ],
   "u": "https://www.imperial.ac.uk/physics/opportunities/research-fellowships/",
   "unv": "The Imperial research fellowships page returned HTTP 403 to an automated reader on Nov 16 and Nov 23, 2026; details as last confirmed Nov 9, 2026 (the INSPIRE copy is still open on Nov 23, 2026).",
+  "us": false
+ },
+ {
+  "a": "Competitive salary; amount not stated",
+  "added": "2026-11-27",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": "2027-03-01",
+  "dt": "Best consideration by Mar 1, 2027, then until filled; start Aug 1, 2027",
+  "e": "First-principles studies of light-matter interaction in low-dimensional, topological and ferroelectric materials. No citizenship limit stated.",
+  "f": "Indiana University Bloomington, Intelligent Systems Engineering",
+  "fields": [
+   "cmt",
+   "mat",
+   "phot"
+  ],
+  "id": "indiana-gao-computational-quantum-materials-postdoc",
+  "n": "Indiana University Bloomington: Postdoctoral Fellow in Computational Quantum Materials (Gao group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:indiana-35084",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://indiana.peopleadmin.com/postings/35084",
   "us": false
  },
  {
@@ -15253,6 +15376,36 @@
   "us": false
  },
  {
+  "a": "Two years from fall 2027; salary not stated",
+  "added": "2026-11-27",
+  "aud": [
+   "yale",
+   "ng"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": "2026-12-21",
+  "dt": "Applications received by Dec 21, 2026 get full consideration",
+  "e": "Higher-order QCD and electroweak calculations, resummation and Monte Carlo generators (GENEVA, POWHEG) with Alioli, Oleari, Re and Rottoli. No citizenship limit stated.",
+  "f": "University of Milano-Bicocca, Theoretical Physics (Phenomenology group)",
+  "fields": [
+   "ppt"
+  ],
+  "id": "milano-bicocca-collider-phenomenology-pdra",
+  "n": "University of Milano-Bicocca: Postdoctoral Research Assistant in collider phenomenology",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33541",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33541",
+  "us": false
+ },
+ {
   "a": "36-month full-time position; salary not stated",
   "added": "2026-11-11",
   "aud": [
@@ -18306,6 +18459,38 @@
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/33372",
   "unv": "Salary not stated.",
+  "us": false
+ },
+ {
+  "a": "$60,315–$85,192.50 per year",
+  "added": "2026-11-27",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": null,
+  "dt": "No deadline stated",
+  "e": "Experimental condensed-matter postdoc using AI-driven scanning probe microscopy for high-throughput discovery of quantum materials. No citizenship limit stated.",
+  "f": "Northeastern University",
+  "fields": [
+   "cmx",
+   "mat"
+  ],
+  "id": "northeastern-ai-spm-quantum-materials-postdoc",
+  "n": "Northeastern University: Postdoctoral Research Associate, AI-driven scanning probe microscopy of quantum materials",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:northeastern-R143332",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://northeastern.wd1.myworkdayjobs.com/en-US/careers/job/Burlington-MA/Postdoctoral-Research-Associate_R143332",
   "us": false
  },
  {
@@ -21758,6 +21943,42 @@
   ],
   "u": "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=190073",
   "unv": "Salary grade not confirmed on the Oxford ad (also listed as AJO 33536).",
+  "us": false
+ },
+ {
+  "a": "Two years fixed term, possible third year; salary not stated in the AJO ad",
+  "added": "2026-11-27",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": "2027-01-04",
+  "dt": "Noon GMT, Jan 4, 2027; apply through Oxford CoreHR (recruitment id 190183)",
+  "e": "Research on physics beyond the Standard Model, cosmology and astroparticle physics (axions, dark matter, defects, phase transitions, neutrinos) with Edward Hardy. No citizenship limit stated.",
+  "f": "University of Oxford, Department of Physics (Theoretical Particle Physics)",
+  "fields": [
+   "ppt",
+   "astro"
+  ],
+  "id": "oxford-hardy-bsm-cosmology-pdra",
+  "n": "University of Oxford: Postdoctoral Research Assistant in Theoretical Particle Physics (Hardy)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33548",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33548",
+  "unv": "Salary grade not confirmed on the Oxford ad.",
   "us": false
  },
  {
@@ -25513,6 +25734,38 @@
   "us": false
  },
  {
+  "a": "Two positions; salary not stated",
+  "added": "2026-11-27",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": "2027-01-30",
+  "dt": "Jan 30, 2027 (Quantiki listing)",
+  "e": "Two QEC researchers with Kavan Modi and Feng Pan, either developing decoders for realistic noise or running QEC experiments on hardware with experimental partners. Prior QEC experience required; no citizenship limit stated.",
+  "f": "Singapore University of Technology and Design and Centre for Quantum Technologies",
+  "fields": [
+   "qp"
+  ],
+  "id": "sutd-cqt-qec-research-fellows",
+  "n": "SUTD and CQT Singapore: Research Fellow / Senior Research Fellow in Quantum Error Correction",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-sutd-cqt-qec-modi",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://quantiki.org/position/research-fellow-senior-research-fellow-qec-singapore",
+  "unv": "No ad found on the host's own site; deadline and details from the Quantiki listing.",
+  "us": false
+ },
+ {
   "a": "£39,906 to £46,049 per year, fixed term",
   "added": "2026-11-05",
   "asub": [
@@ -29134,6 +29387,39 @@
   "us": false
  },
  {
+  "a": "Salary not stated",
+  "added": "2026-11-27",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": null,
+  "dt": "Review began immediately; open until filled; start Jan 16, 2027",
+  "e": "Multiscale modeling of strain, defects and mechanical-electronic coupling in 2D, correlated and topological materials in Harley Johnson's group; apply by email to htj@illinois.edu. No citizenship limit stated.",
+  "f": "University of Illinois Urbana-Champaign, Materials Research Laboratory",
+  "fields": [
+   "cmt",
+   "mat"
+  ],
+  "id": "uiuc-johnson-quantum-materials-modeling-postdoc",
+  "n": "UIUC: Postdoctoral Research Associate, modeling of quantum and electronic materials (Johnson group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:uiuc-johnson-qmat-2026",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://imechanica.org/uiuc-postdoc-position-announcement-quantum-and-electronic-materials",
+  "unv": "No university HR posting found; details from the PI's announcement.",
+  "us": false
+ },
+ {
   "a": "",
   "added": "2026-10-07",
   "aud": [
@@ -29602,6 +29888,39 @@
   ],
   "u": "https://quantum.umich.edu/call-for-application-2026/",
   "unv": "The official page blocked automated access (HTTP 403, \"Just a moment\" check) on Oct 12, Oct 21, Oct 26, Nov 2, Nov 9, Nov 16 and Nov 23, 2026; a web search summary of quantum.umich.edu on Nov 2 still said the next cycle opens early 2027.",
+  "us": false
+ },
+ {
+  "a": "$62,232–$73,000 per year",
+  "added": "2026-11-27",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": null,
+  "dt": "Open until filled",
+  "e": "Synthesis and single-crystal growth of quantum materials, with magnetism, neutron/synchrotron scattering and ARPES measurements at national user facilities, plus lab management. No citizenship limit stated.",
+  "f": "University of Minnesota",
+  "fields": [
+   "cmx",
+   "mat"
+  ],
+  "id": "umn-experimental-quantum-materials-postdoc",
+  "n": "University of Minnesota: Post-Doctoral Associate, experimental quantum materials",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:umn-377281",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://hr.myu.umn.edu/jobs/ext/377281",
+  "unv": "Official page did not load for automated reading; details and posting date from the Chronicle listing (jobs.chronicle.com/job/38071245).",
   "us": false
  },
  {
@@ -31853,6 +32172,37 @@
   "us": false
  },
  {
+  "a": "Multiple positions; salary commensurate with experience",
+  "added": "2026-11-27",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": "2026-12-05",
+  "dt": "Review date Dec 5, 2026",
+  "e": "Cluster hire across the Barnes, Cao, Dua and Economou groups on error correction, fault tolerance, quantum algorithms, quantum control and ML for quantum, tied to the NSF PRACTIQAL QLCI and C2QA. No citizenship limit stated.",
+  "f": "Virginia Tech Center for Quantum Information Science and Engineering (VTQ)",
+  "fields": [
+   "qp"
+  ],
+  "id": "virginia-tech-vtq-theoretical-qis-postdocs",
+  "n": "Virginia Tech (VTQ): Postdoctoral Associates in theoretical quantum information science",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:vt-538566",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.apply.vt.edu/jobs/postdoctoral-associate-blacksburg-virginia-united-states-bab61667-cea4-48a3-90fe-be964ebf600c",
+  "us": false
+ },
+ {
   "a": "$1M to $1.3M over 3 yrs; supports high-risk work and custom instrumentation",
   "added": "2026-09-28",
   "aud": [
@@ -32453,6 +32803,39 @@
    "pd"
   ],
   "u": "https://www.physik.uni-wuerzburg.de/tp2/stellenangebote/",
+  "us": false
+ },
+ {
+  "a": "One-year term, renewable; salary not stated",
+  "added": "2026-11-27",
+  "aud": [
+   "yale",
+   "ng",
+   "ap"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": null,
+  "dt": "Open until filled",
+  "e": "Experimental work on 2D quantum materials, quantum device fabrication and low-temperature transport in Jifa Tian's lab. No citizenship limit stated.",
+  "f": "University of Wyoming, Department of Physics and Astronomy",
+  "fields": [
+   "cmx",
+   "dev"
+  ],
+  "id": "wyoming-tian-2d-quantum-materials-postdoc",
+  "n": "University of Wyoming: Post Doctoral Research Associate, 2D quantum materials (Tian lab)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:uwyo-243071",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/243071/",
+  "unv": "The ad also contains an old line about full consideration by Feb 16, 2025; it may be a repost.",
   "us": false
  },
  {

@@ -1956,6 +1956,32 @@
   "us": true
  },
  {
+  "a": "$74,050–$122,550 per year; initial 1-year term",
+  "added": "2026-11-27",
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": null,
+  "dt": "No deadline stated; open until filled",
+  "e": "Theory postdoc designing and analyzing topological quantum error-correcting codes, with tensor-network and AI methods; fully remote with an onsite option. PhD within the last 5 years; no citizenship limit stated beyond DOE foreign-talent-program disclosure.",
+  "f": "Brookhaven National Laboratory, Computing and Data Sciences",
+  "fields": [
+   "qp"
+  ],
+  "id": "bnl-qis-postdoc-topological-qec-codes",
+  "n": "Brookhaven National Laboratory: Quantum Information Science Postdoctoral Research Associate (topological QEC codes)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:bnl-JR102818",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://bnl.wd1.myworkdayjobs.com/Externa/job/Remote/Quantum-Information-Science-Postdoctoral-Research-Associate_JR102818-1",
+  "us": false
+ },
+ {
   "a": "Free dormitory housing and weekday meals; travel support up to $500 for students and postdocs at US universities; $400 registration fee",
   "added": "2026-10-03",
   "c": "Summer program",
@@ -2589,6 +2615,34 @@
   "us": false
  },
  {
+  "a": "$74,000 per year",
+  "added": "2026-11-27",
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": null,
+  "dt": "Review began Nov 2, 2026; open until filled; start January 2027",
+  "e": "Experimental quantum optics with structured photons for sensing, communication and simulation in Ebrahim Karimi's group. No citizenship limit stated.",
+  "f": "Chapman University, Institute for Quantum Studies",
+  "fields": [
+   "qp",
+   "phot",
+   "amo"
+  ],
+  "id": "chapman-karimi-structured-quantum-optics-postdoc",
+  "n": "Chapman University: Postdoctoral Research Fellow in Quantum Optics and Structured Light (Karimi group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:interfolio-196184",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://apply.interfolio.com/196184",
+  "us": false
+ },
+ {
   "a": "Up to €1,850/month (depending on other funding), round-trip airfare and health insurance support; 4+ months in France",
   "added": "2026-09-28",
   "c": "Fellowship",
@@ -2898,6 +2952,33 @@
   ],
   "u": "https://csusystem.wd12.myworkdayjobs.com/fortcollins_careers/job/Fort-Collins-CO/Postdoctoral-Fellow---Integrated-Photonics-and-Optoelectronic-Systems_R2026108719-1",
   "unv": "Posted Nov 18, 2026 per Workday.",
+  "us": false
+ },
+ {
+  "a": "$74,000–$108,000 per year (postdoc level); start Dec 21, 2026, ends Feb 29, 2028",
+  "added": "2026-11-27",
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": "2026-12-04",
+  "dt": "Posting closes Dec 4, 2026",
+  "e": "Experimental work on quantum dots coupled to acoustic and superconducting resonators for microwave-optical transduction and remote entanglement of superconducting qubits. Up to 4 years since PhD; requires a NIST NAIS agreement and federal security clearance.",
+  "f": "University of Colorado Boulder (NIST PREP), at NIST Boulder",
+  "fields": [
+   "qp",
+   "phot"
+  ],
+  "id": "cu-boulder-nist-quantum-nanophotonics-postdoc",
+  "n": "CU Boulder / NIST: Postdoctoral Associate, Quantum Nanophotonics Group",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:cu-boulder-76240",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.colorado.edu/jobs/JobDetail/Postdoctoral-Associate-or-Research-Associate/76240",
   "us": false
  },
  {
@@ -5912,6 +5993,34 @@
   ],
   "u": "https://mrsec.illinois.edu/reu-program",
   "us": true
+ },
+ {
+  "a": "Competitive salary; amount not stated",
+  "added": "2026-11-27",
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": "2027-03-01",
+  "dt": "Best consideration by Mar 1, 2027, then until filled; start Aug 1, 2027",
+  "e": "First-principles studies of light-matter interaction in low-dimensional, topological and ferroelectric materials. No citizenship limit stated.",
+  "f": "Indiana University Bloomington, Intelligent Systems Engineering",
+  "fields": [
+   "cmt",
+   "mat",
+   "phot"
+  ],
+  "id": "indiana-gao-computational-quantum-materials-postdoc",
+  "n": "Indiana University Bloomington: Postdoctoral Fellow in Computational Quantum Materials (Gao group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:indiana-35084",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://indiana.peopleadmin.com/postings/35084",
+  "us": false
  },
  {
   "a": "12-month initial appointment, renewable annually subject to performance and funding; salary not stated",
@@ -9565,6 +9674,33 @@
   ],
   "u": "https://www.nnsa-ap.us/Programs/Stewardship-Science-Academic-Alliances",
   "unv": "Timing of the next NOFO is unknown.",
+  "us": false
+ },
+ {
+  "a": "$60,315–$85,192.50 per year",
+  "added": "2026-11-27",
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": null,
+  "dt": "No deadline stated",
+  "e": "Experimental condensed-matter postdoc using AI-driven scanning probe microscopy for high-throughput discovery of quantum materials. No citizenship limit stated.",
+  "f": "Northeastern University",
+  "fields": [
+   "cmx",
+   "mat"
+  ],
+  "id": "northeastern-ai-spm-quantum-materials-postdoc",
+  "n": "Northeastern University: Postdoctoral Research Associate, AI-driven scanning probe microscopy of quantum materials",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:northeastern-R143332",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://northeastern.wd1.myworkdayjobs.com/en-US/careers/job/Burlington-MA/Postdoctoral-Research-Associate_R143332",
   "us": false
  },
  {
@@ -14569,6 +14705,33 @@
   "us": false
  },
  {
+  "a": "Two positions; salary not stated",
+  "added": "2026-11-27",
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": "2027-01-30",
+  "dt": "Jan 30, 2027 (Quantiki listing)",
+  "e": "Two QEC researchers with Kavan Modi and Feng Pan, either developing decoders for realistic noise or running QEC experiments on hardware with experimental partners. Prior QEC experience required; no citizenship limit stated.",
+  "f": "Singapore University of Technology and Design and Centre for Quantum Technologies",
+  "fields": [
+   "qp"
+  ],
+  "id": "sutd-cqt-qec-research-fellows",
+  "n": "SUTD and CQT Singapore: Research Fellow / Senior Research Fellow in Quantum Error Correction",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "other:quantiki-sutd-cqt-qec-modi",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://quantiki.org/position/research-fellow-senior-research-fellow-qec-singapore",
+  "unv": "No ad found on the host's own site; deadline and details from the Quantiki listing.",
+  "us": false
+ },
+ {
   "a": "Salary not stated",
   "added": "2026-11-23",
   "c": "Group postdoc",
@@ -15625,6 +15788,34 @@
   "us": false
  },
  {
+  "a": "Salary not stated",
+  "added": "2026-11-27",
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": null,
+  "dt": "Review began immediately; open until filled; start Jan 16, 2027",
+  "e": "Multiscale modeling of strain, defects and mechanical-electronic coupling in 2D, correlated and topological materials in Harley Johnson's group; apply by email to htj@illinois.edu. No citizenship limit stated.",
+  "f": "University of Illinois Urbana-Champaign, Materials Research Laboratory",
+  "fields": [
+   "cmt",
+   "mat"
+  ],
+  "id": "uiuc-johnson-quantum-materials-modeling-postdoc",
+  "n": "UIUC: Postdoctoral Research Associate, modeling of quantum and electronic materials (Johnson group)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:uiuc-johnson-qmat-2026",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://imechanica.org/uiuc-postdoc-position-announcement-quantum-and-electronic-materials",
+  "unv": "No university HR posting found; details from the PI's announcement.",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-10-03",
   "c": "Fellowship",
@@ -15733,6 +15924,34 @@
   ],
   "u": "https://quantum.umich.edu/call-for-application-2026/",
   "unv": "The official page blocked automated access (HTTP 403, \"Just a moment\" check) on Oct 12, Oct 21, Oct 26, Nov 2, Nov 9, Nov 16 and Nov 23, 2026; a web search summary of quantum.umich.edu on Nov 2 still said the next cycle opens early 2027.",
+  "us": false
+ },
+ {
+  "a": "$62,232–$73,000 per year",
+  "added": "2026-11-27",
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": null,
+  "dt": "Open until filled",
+  "e": "Synthesis and single-crystal growth of quantum materials, with magnetism, neutron/synchrotron scattering and ARPES measurements at national user facilities, plus lab management. No citizenship limit stated.",
+  "f": "University of Minnesota",
+  "fields": [
+   "cmx",
+   "mat"
+  ],
+  "id": "umn-experimental-quantum-materials-postdoc",
+  "n": "University of Minnesota: Post-Doctoral Associate, experimental quantum materials",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:umn-377281",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://hr.myu.umn.edu/jobs/ext/377281",
+  "unv": "Official page did not load for automated reading; details and posting date from the Chronicle listing (jobs.chronicle.com/job/38071245).",
   "us": false
  },
  {
@@ -16546,6 +16765,32 @@
   "us": false
  },
  {
+  "a": "Multiple positions; salary commensurate with experience",
+  "added": "2026-11-27",
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": "2026-12-05",
+  "dt": "Review date Dec 5, 2026",
+  "e": "Cluster hire across the Barnes, Cao, Dua and Economou groups on error correction, fault tolerance, quantum algorithms, quantum control and ML for quantum, tied to the NSF PRACTIQAL QLCI and C2QA. No citizenship limit stated.",
+  "f": "Virginia Tech Center for Quantum Information Science and Engineering (VTQ)",
+  "fields": [
+   "qp"
+  ],
+  "id": "virginia-tech-vtq-theoretical-qis-postdocs",
+  "n": "Virginia Tech (VTQ): Postdoctoral Associates in theoretical quantum information science",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "open",
+  "src": "other:vt-538566",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://jobs.apply.vt.edu/jobs/postdoctoral-associate-blacksburg-virginia-united-states-bab61667-cea4-48a3-90fe-be964ebf600c",
+  "us": false
+ },
+ {
   "a": "$1M to $1.3M over 3 yrs; supports high-risk work and custom instrumentation",
   "added": "2026-09-28",
   "c": "Foundation",
@@ -16749,6 +16994,34 @@
   ],
   "u": "https://physics.wsu.edu/reu/",
   "unv": "The page does not state citizenship rules (NSF REU sites usually require US citizenship or permanent residency) or the exact 2027 program dates.",
+  "us": false
+ },
+ {
+  "a": "One-year term, renewable; salary not stated",
+  "added": "2026-11-27",
+  "c": "Group postdoc",
+  "checked": "2026-11-27",
+  "d": null,
+  "dt": "Open until filled",
+  "e": "Experimental work on 2D quantum materials, quantum device fabrication and low-temperature transport in Jifa Tian's lab. No citizenship limit stated.",
+  "f": "University of Wyoming, Department of Physics and Astronomy",
+  "fields": [
+   "cmx",
+   "dev"
+  ],
+  "id": "wyoming-tian-2d-quantum-materials-postdoc",
+  "n": "University of Wyoming: Post Doctoral Research Associate, 2D quantum materials (Tian lab)",
+  "nfit": "Low",
+  "nom": false,
+  "pt": "group",
+  "region": "US",
+  "s": "rolling",
+  "src": "other:uwyo-243071",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/243071/",
+  "unv": "The ad also contains an old line about full consideration by Feb 16, 2025; it may be a repost.",
   "us": false
  },
  {
