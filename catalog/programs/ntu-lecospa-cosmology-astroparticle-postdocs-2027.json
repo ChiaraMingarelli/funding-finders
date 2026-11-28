@@ -1,0 +1,36 @@
+{
+ "a": "Several postdoctoral positions; salary not stated in the ad",
+ "added": "2026-11-28",
+ "asub": [
+  "cos"
+ ],
+ "aud": [
+  "yale",
+  "ng",
+  "ast"
+ ],
+ "c": "Group postdoc",
+ "checked": "2026-11-28",
+ "d": "2026-12-18",
+ "dt": "Applications received by Dec 18, 2026 get full consideration (AJO #33550); start fall 2027",
+ "e": "Several postdocs at LeCosPA in Taipei, supervised by Daniel Baumann, with freedom to pursue an independent research program in any area of cosmology, astroparticle physics or theoretical high-energy physics. The positions are part of the new Max Planck-IAS-NTU Center, with collaboration links to IAS Princeton and MPP Munich; no citizenship limits stated.",
+ "f": "Leung Center for Cosmology and Particle Astrophysics (LeCosPA), National Taiwan University",
+ "fields": [
+  "astro",
+  "ppt"
+ ],
+ "id": "ntu-lecospa-cosmology-astroparticle-postdocs-2027",
+ "n": "National Taiwan University LeCosPA: Postdoctoral positions in cosmology, astroparticle physics and theoretical high-energy physics",
+ "nfit": "Medium",
+ "nom": false,
+ "pt": "group",
+ "region": "International",
+ "s": "open",
+ "src": "ajo:33550",
+ "stages": [
+  "pd"
+ ],
+ "u": "https://academicjobsonline.org/ajo/jobs/33550",
+ "unv": "Salary, appointment length and whether full consideration ends the search not stated in the AJO ad.",
+ "us": false
+}
