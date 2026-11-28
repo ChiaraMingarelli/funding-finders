@@ -2531,35 +2531,6 @@
   "us": false
  },
  {
-  "a": "1+1 years from Jan 1, 2027; EUR 35,650.44 gross in year 1",
-  "added": "2026-11-12",
-  "c": "Group postdoc",
-  "checked": "2026-11-23",
-  "d": "2026-11-27",
-  "dt": "Email application before Nov 27, 2026 (the Quantiki deadline field says Nov 30)",
-  "e": "Two-year experimental postdoc on room-temperature perovskite quantum-dot and hBN single-photon emitters for reference quantum-photonic chips, funded by the Basque IKUR Quantum Technologies initiative. Requires a PhD in physics or materials science.",
-  "f": "Materials Physics Center (CFM, CSIC-UPV/EHU), Nanomaterials and Spectroscopy Group (Yury Rakovich)",
-  "fields": [
-   "phot",
-   "qp",
-   "mat"
-  ],
-  "id": "cfm-san-sebastian-chiral-single-photon-sources-postdoc",
-  "n": "Materials Physics Center (San Sebastián): Postdoc on chiral single-photon sources and quantum-photonic chips",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "other:quantiki-cfm-rakovich-chiral-spe",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://quantiki.org/position/2-years-postdoctoral-researcher-position-development-chiral-single-photon-sources-and",
-  "unv": "No separate host ad found; applications go by email to the CFM. Deadline differs between ad text (Nov 27) and Quantiki field (Nov 30).",
-  "us": false
- },
- {
   "a": "Postdoc funded by a WACQT grant; salary and term not stated",
   "added": "2026-11-23",
   "c": "Group postdoc",
@@ -14363,8 +14334,8 @@
   "a": "Up to $700 (domestic) or $1,000 (international) for airfare and lodging, and/or a registration fee waiver",
   "added": "2026-10-12",
   "c": "Travel",
-  "checked": "2026-11-13",
-  "d": "2026-11-27",
+  "checked": "2026-11-28",
+  "d": "2027-01-06",
   "dt": "Photonics West 2027: closed Nov 12, 2026; Medical Imaging 2027: closes Nov 27, 2026; Smart Structures + NDE 2027: Dec 7, 2026 to Jan 6, 2027; Defense + Security 2027: Jan 5 to Feb 4, 2027",
   "e": "Travel grants and registration waivers for SPIE Student Members who are presenting authors of an accepted paper at an SPIE conference and present in person. Students who have completed a PhD are not eligible; one award every two years.",
   "f": "SPIE",

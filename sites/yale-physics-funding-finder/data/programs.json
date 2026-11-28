@@ -3849,9 +3849,9 @@
    "ast"
   ],
   "c": "Group postdoc",
-  "checked": "2026-11-23",
-  "d": "2026-11-27",
-  "dt": "Full consideration by Nov 27, 2026 (the ad spells it 'Nomveber'; the AJO deadline field reads 2027/11/27); first offers mid-to-late Jan 2027",
+  "checked": "2026-11-28",
+  "d": null,
+  "dt": "Full consideration by Nov 27, 2026; the AJO listing still accepts applications (listed until Nov 27, 2027); first offers mid-to-late Jan 2027",
   "e": "One or two postdoctoral positions in theoretical astroparticle physics (broadly defined) with Carleton's BSM theory group, starting fall 2027. No citizenship restriction stated.",
   "f": "Carleton University, Theoretical Particle Physics group",
   "fields": [
@@ -3864,7 +3864,7 @@
   "nom": false,
   "pt": "group",
   "region": "Canada",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:33001",
   "stages": [
    "pd"
@@ -4391,40 +4391,6 @@
    "pd"
   ],
   "u": "https://academicpositions.harvard.edu/postings/16785",
-  "us": false
- },
- {
-  "a": "1+1 years from Jan 1, 2027; EUR 35,650.44 gross in year 1",
-  "added": "2026-11-12",
-  "aud": [
-   "yale",
-   "ng",
-   "ap"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-23",
-  "d": "2026-11-27",
-  "dt": "Email application before Nov 27, 2026 (the Quantiki deadline field says Nov 30)",
-  "e": "Two-year experimental postdoc on room-temperature perovskite quantum-dot and hBN single-photon emitters for reference quantum-photonic chips, funded by the Basque IKUR Quantum Technologies initiative. Requires a PhD in physics or materials science.",
-  "f": "Materials Physics Center (CFM, CSIC-UPV/EHU), Nanomaterials and Spectroscopy Group (Yury Rakovich)",
-  "fields": [
-   "phot",
-   "qp",
-   "mat"
-  ],
-  "id": "cfm-san-sebastian-chiral-single-photon-sources-postdoc",
-  "n": "Materials Physics Center (San Sebastián): Postdoc on chiral single-photon sources and quantum-photonic chips",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "other:quantiki-cfm-rakovich-chiral-spe",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://quantiki.org/position/2-years-postdoctoral-researcher-position-development-chiral-single-photon-sources-and",
-  "unv": "No separate host ad found; applications go by email to the CFM. Deadline differs between ad text (Nov 27) and Quantiki field (Nov 30).",
   "us": false
  },
  {
@@ -6691,41 +6657,6 @@
   "us": false
  },
  {
-  "a": "Grade 7 (from £39,560) or Grade 8 (from £48,337) plus research allowance",
-  "added": "2026-10-21",
-  "asub": [
-   "cos"
-  ],
-  "aud": [
-   "yale",
-   "ng",
-   "ast"
-  ],
-  "c": "Fellowship",
-  "checked": "2026-11-23",
-  "d": "2026-11-27",
-  "dt": "Apply by 27 Nov 2026 via AJO; online interviews late Jan 2027",
-  "e": "Five-year senior research fellowship in computational cosmology, broadly interpreted, starting around September 2027, for candidates with an independent five-year research vision. Requires a 3-4 page research proposal, CV, mentoring/inclusivity statement and three referees.",
-  "f": "Durham University (Institute for Computational Cosmology)",
-  "fields": [
-   "astro",
-   "ds"
-  ],
-  "id": "durham-icc-hefner-fellowship-unbounded-cosmology",
-  "n": "Durham University ICC: Robert and MeiLi Hefner Foundation Fellowship in Unbounded Cosmology",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "prize",
-  "region": "International",
-  "s": "open",
-  "src": "ajo:33173",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/33173",
-  "us": false
- },
- {
   "a": "One 3-year and two 2-year positions, starting October 2027",
   "added": "2026-11-20",
   "aud": [
@@ -6784,104 +6715,6 @@
    "pd"
   ],
   "u": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14964",
-  "us": false
- },
- {
-  "a": "Grade UE07, £41,885–£49,798 per year; 3-year fixed term, Sep 1, 2027 – Aug 31, 2030",
-  "added": "2026-10-23",
-  "asub": [
-   "he"
-  ],
-  "aud": [
-   "ast",
-   "ng",
-   "yale"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-23",
-  "d": "2026-11-27",
-  "dt": "Nov 27, 2026, 11:59 pm UK time",
-  "e": "Three positions in scattering amplitudes and gravity (ERC grant of Donal O'Connell and STFC) and one in amplitudes for gauge theory/phenomenology (STFC); applicants apply via separate University of Edinburgh links. Open to PhD theorists; no citizenship restriction stated.",
-  "f": "University of Edinburgh, Higgs Centre for Theoretical Physics (ERC AdG and STFC funded)",
-  "fields": [
-   "ppt",
-   "grav"
-  ],
-  "id": "edinburgh-higgs-centre-amplitudes-postdocs-2027",
-  "n": "University of Edinburgh Higgs Centre: Four Postdoctoral Positions in Scattering Amplitudes (gravity and gauge theory)",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3217553",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15047",
-  "unv": "Salary, term and deadline confirmed in the university ad for job 15047 (Nov 16, 2026); the separate ads for the other positions were not opened.",
-  "us": false
- },
- {
-  "a": "Postdoc posts on STFC Consolidated Grant 'Particle Theory at the Higgs Centre'",
-  "added": "2026-11-05",
-  "aud": [
-   "yale",
-   "ng"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-23",
-  "d": "2026-11-27",
-  "dt": "Nov 27, 2026 (INSPIRE #3222649; vacancies 15049 and 15041)",
-  "e": "Two postdocs in lattice field theory: precision lattice QCD for (semi-)leptonic decays with QED corrections (Portelli), and multi-hadron scattering, decay amplitudes and long-distance matrix elements (Hansen). Open to PhDs in theoretical particle physics.",
-  "f": "University of Edinburgh",
-  "fields": [
-   "ppt",
-   "nut"
-  ],
-  "id": "edinburgh-higgs-centre-lattice-qcd-postdocs",
-  "n": "University of Edinburgh Higgs Centre: Two Lattice QCD Postdoctoral Research Associates",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3222649",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://inspirehep.net/jobs/3222649",
-  "unv": "The INSPIRE listing gives no link to the university's own ad; salary not stated.",
-  "us": false
- },
- {
-  "a": "Grade UE07, £41,885–£49,798 per year; 2 years (Oct 1, 2027 – Sep 30, 2029), possibly extended to 3 depending on funding",
-  "added": "2026-10-14",
-  "aud": [
-   "yale",
-   "ng"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-23",
-  "d": "2026-11-27",
-  "dt": "Closes Nov 27, 2026, 11:59 pm UK time",
-  "e": "Postdoc funded by the STFC Consolidated Grant on LHC phenomenology: Standard Model parameter extraction, ML tools and approximate N3LO corrections, with the option to work with NNPDF. No citizenship limits stated.",
-  "f": "University of Edinburgh, Higgs Centre for Theoretical Physics (Richard Ball; NNPDF)",
-  "fields": [
-   "ppt"
-  ],
-  "id": "edinburgh-higgs-centre-lhc-physics-postdoc",
-  "n": "University of Edinburgh: Postdoctoral Research Associate in LHC Physics, Higgs Centre for Theoretical Physics",
-  "nfit": "Low",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3213918",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/preview/15039/?mode=location",
   "us": false
  },
  {
@@ -10845,43 +10678,6 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3182730",
-  "us": false
- },
- {
-  "a": "One (2+1)-year position; salary, full health coverage, subsidized housing for the first two years, subsidized lunch and travel funds",
-  "added": "2026-10-22",
-  "asub": [
-   "he"
-  ],
-  "aud": [
-   "yale",
-   "ng",
-   "ast"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-11-23",
-  "d": "2026-11-27",
-  "dt": "Deadline Nov 27, 2026 23:59 (AJO)",
-  "e": "One postdoc at IHES (Bures-sur-Yvette, France) starting fall 2027 in QFT/CFT, EFT, gravitation, condensed matter and topological field theory, bootstrap, amplitudes and gravitational-wave physics, interacting with Delcamp, Parra-Martinez, Rychkov and Damour (emeritus). Open to PhD holders; no citizenship limits stated.",
-  "f": "Institut des Hautes Études Scientifiques (IHES)",
-  "fields": [
-   "ppt",
-   "cmt",
-   "grav"
-  ],
-  "id": "ihes-postdoc-theoretical-physics-2027",
-  "n": "IHES: Postdoctoral position in Theoretical Physics",
-  "nfit": "Medium",
-  "nom": false,
-  "pt": "group",
-  "region": "International",
-  "s": "open",
-  "src": "ajo:33174",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/33174",
-  "unv": "Salary amount not stated.",
   "us": false
  },
  {
@@ -20497,6 +20293,42 @@
   "us": false
  },
  {
+  "a": "Several postdoctoral positions; salary not stated in the ad",
+  "added": "2026-11-28",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ng",
+   "ast"
+  ],
+  "c": "Group postdoc",
+  "checked": "2026-11-28",
+  "d": "2026-12-18",
+  "dt": "Applications received by Dec 18, 2026 get full consideration (AJO #33550); start fall 2027",
+  "e": "Several postdocs at LeCosPA in Taipei, supervised by Daniel Baumann, with freedom to pursue an independent research program in any area of cosmology, astroparticle physics or theoretical high-energy physics. The positions are part of the new Max Planck-IAS-NTU Center, with collaboration links to IAS Princeton and MPP Munich; no citizenship limits stated.",
+  "f": "Leung Center for Cosmology and Particle Astrophysics (LeCosPA), National Taiwan University",
+  "fields": [
+   "astro",
+   "ppt"
+  ],
+  "id": "ntu-lecospa-cosmology-astroparticle-postdocs-2027",
+  "n": "National Taiwan University LeCosPA: Postdoctoral positions in cosmology, astroparticle physics and theoretical high-energy physics",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "group",
+  "region": "International",
+  "s": "open",
+  "src": "ajo:33550",
+  "stages": [
+   "pd"
+  ],
+  "u": "https://academicjobsonline.org/ajo/jobs/33550",
+  "unv": "Salary, appointment length and whether full consideration ends the search not stated in the AJO ad.",
+  "us": false
+ },
+ {
   "a": "not listed",
   "added": "2026-09-30",
   "aud": [
@@ -28163,9 +27995,9 @@
    "ast"
   ],
   "c": "Group postdoc",
-  "checked": "2026-11-23",
-  "d": "2026-11-27",
-  "dt": "Full consideration by Nov 27, 2026; search stays open until filled",
+  "checked": "2026-11-28",
+  "d": null,
+  "dt": "Full consideration was given to applications by Nov 27, 2026; the search stays open until filled",
   "e": "Multiple postdocs with Barry Wardell's Relativity group on small mass-ratio binaries and EMRI waveforms (self-force, BH perturbation theory, EMRI data analysis). Requires a PhD in theoretical physics or related field and prior GW source-modelling experience; start Jan-Sep 2027.",
   "f": "University College Dublin (ERC Advanced Grant)",
   "fields": [
@@ -28177,7 +28009,7 @@
   "nom": false,
   "pt": "group",
   "region": "International",
-  "s": "open",
+  "s": "rolling",
   "src": "inspire:3218289",
   "stages": [
    "pd"
